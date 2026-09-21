@@ -1,0 +1,10 @@
+#!/bin/zsh
+# Użycie: ./wyslij "opis zmiany" [workflow.yml]
+cd "$(dirname "$0")" || exit 1
+git pull -q --rebase --autostash || { echo "BŁĄD: pull"; exit 1; }
+git add -A
+if git diff --cached --quiet; then echo "Brak zmian do wysłania"; else
+  git commit -qm "${1:-zmiana}" && git push -q && echo "WYSŁANE: ${1:-zmiana}" || { echo "BŁĄD: push"; exit 1; }
+fi
+[ -n "$2" ] && sleep 3 && gh workflow run "$2" && echo "URUCHOMIONE: $2"
+exit 0
