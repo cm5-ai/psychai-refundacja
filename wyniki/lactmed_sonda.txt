@@ -1,0 +1,142 @@
+== file_list.csv
+File,Title,Publisher,Publication Year,Accession ID,Last Updated (YYYY-MM-DD HH:MM:SS)
+03/56/styleguide_NBK988.tar.gz,The NCBI Style Guide,National Center for Biotechnology Information (US),2004,NBK988,2019-06-18 02:37:21
+9537 fl.csv
+== wpisy LactMed
+90/6c/lactmed_NBK501922.tar.gz,Drugs and Lactation Database (LactMed),National Institute of Child Health and Human Development (US),2006,NBK501922,2026-09-01 02:43:34
+== sciezka: 90/6c/lactmed_NBK501922.tar.gz
+-rw-r--r-- 1 runner runner 209776229 Sep 21 22:34 lm.tgz
+4002 lista.txt
+lactmed_NBK501922/
+lactmed_NBK501922/LM1417.pdf
+lactmed_NBK501922/LM416.nxml
+lactmed_NBK501922/LM696.pdf
+lactmed_NBK501922/LM1319.nxml
+lactmed_NBK501922/filgotinib.pdf
+lactmed_NBK501922/LM1084.pdf
+lactmed_NBK501922/Phexxi.nxml
+lactmed_NBK501922/LM1452.pdf
+lactmed_NBK501922/LM786.nxml
+lactmed_NBK501922/LM1375.nxml
+lactmed_NBK501922/LM750.pdf
+lactmed_NBK501922/LM1337.pdf
+lactmed_NBK501922/LM1194.nxml
+lactmed_NBK501922/LM937.nxml
+lactmed_NBK501922/LM1402.nxml
+lactmed_NBK501922/LM106.pdf
+lactmed_NBK501922/LM372.pdf
+lactmed_NBK501922/LM1152.nxml
+lactmed_NBK501922/S135268485v6.jpg
+lactmed_NBK501922/LM1490.pdf
+lactmed_NBK501922/mechlorethamine.pdf
+lactmed_NBK501922/LM118.pdf
+lactmed_NBK501922/teplizumab.nxml
+lactmed_NBK501922/nalfurafine.nxml
+lactmed_NBK501922/LM652.pdf
+lactmed_NBK501922/LM541.nxml
+lactmed_NBK501922/LM167.pdf
+lactmed_NBK501922/LM350.nxml
+lactmed_NBK501922/LM300.nxml
+lactmed_NBK501922/LM666.pdf
+lactmed_NBK501922/LM1020.pdf
+lactmed_NBK501922/LM1224.nxml
+lactmed_NBK501922/LM944.nxml
+lactmed_NBK501922/LM743.pdf
+lactmed_NBK501922/flumazenil.pdf
+lactmed_NBK501922/LM1441.nxml
+lactmed_NBK501922/LM348.pdf
+lactmed_NBK501922/LM406.nxml
+lactmed_NBK501922/LM1337.nxml
+== pliki sertraline/quetiapine
+== probka: x/lactmed_NBK501922/LM698.nxml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="LM698" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">lactmed</book-id>
+    <book-title-group>
+      <book-title>Drugs and Lactation Database (LactMed&#x000ae;)</book-title>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2006</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Child Health and Human Development</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Chemicals and Drugs</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Health Care</meta-value>
+      </custom-meta>
+      <custom-meta>
+        <meta-name>books-subject</meta-name>
+        <meta-value>Public Health</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+    <notes specific-use="display-globally" notes-type="disclaimer">
+      <p><bold>Disclaimer: </bold>Information presented in this database is not meant as a substitute for professional judgment. You should consult your healthcare provider for breastfeeding advice related to your particular situation. The U.S. government does not warrant or assume any liability or responsibility for the accuracy or completeness of the information on this Site.</p>
+    </notes>
+    <notes specific-use="display-globally" notes-type="rights">
+      <p><bold>Attribution Statement:</bold> LactMed is a registered trademark of the U.S. Department of Health and Human Services.</p>
+    </notes>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">LM698</book-part-id>
+      <title-group>
+        <title>Desvenlafaxine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="revised">
+          <day>15</day>
+          <month>08</month>
+          <year>2026</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="lactmed">Drugs and Lactation Database (LactMed&#x000ae;)</related-object>
+      <related-object link-type="previous-part-link" source-id="lactmed" document-id="LM84" document-type="chapter">Desoximetasone</related-object>
+      <related-object link-type="next-part-link" source-id="lactmed" document-id="deucravacitinib" document-type="chapter">Deucravacitinib</related-object>
+      <kwd-group>
+        <kwd>Desvenlafaxine</kwd>
+        <kwd>O-Desmethylvenlafaxine</kwd>
+        <kwd>Pristiq</kwd>
+        <kwd>Khedezla</kwd>
+        <kwd>4-(2-(Dimethylamino)-1-(1-hydroxycyclohexyl)ethyl)phenol</kwd>
+        <kwd>Desvenlafaxine [INN:BAN]</kwd>
+        <kwd>DVS 233</kwd>
+        <kwd>UNII-NG99554ANW</kwd>
+        <kwd>HSDB 7993</kwd>
+        <kwd>NG99554ANW</kwd>
+        <kwd>EC 700-516-2</kwd>
+        <kwd>Phenol, 4-(2-(dimethylamino)-1-(1-hydroxycyclohexyl)ethyl)-</kwd>
+      </kwd-group>
+      <counts>
+        <book-page-count count="6"/>
+      </counts>
+    </book-part-meta>
+    <body>
+      <p>CASRN: 93413-62-8</p>
+      <related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135080249" document-id-type="sid" document-type="summary" object-id="135080249" object-id-type="sid" object-type="image"/>
+      <sec id="LM698.s1">
+        <title>Drug Levels and Effects</title>
+        <sec id="LM698.s1.1">
+          <title>Summary of Use during Lactation</title>
+          <p content-type="pubmed-excerpt">Modest doses of desvenlafaxine are excreted into breastmilk, but serum drug levels of breastfed infants are less than 10% of simultaneous maternal levels. Total drug exposure of breastfed infants is about half of that experienced by breastfed infants whose mothers are taking venlafaxine.[<xref ref-type="bibr" rid="LM698.s1.ref1">1</xref>].</p>
+          <p>With the related drug venlafaxine, newborn infants of mothers who took the drug during pregnancy may experience poor neonatal adaptation syndrome as seen with other antidepressants such as SSRIs or SNRIs. Breastfed infants exposed to venlafaxine during the third trimester of pregnancy are at risk for neonatal withdrawal syndrome consisting of hypoglycemia, tremors, tachycardia, or hypotonia, and might be at a greater risk of readmission due to jaundice.[<xref ref-type="bibr" rid="LM698.s1.ref2">2</xref>,<xref ref-type="bibr" rid="LM698.s1.ref3">3</xref>]</p>
+        </sec>
+        <sec id="LM698.s1.2">
+          <title>Drug Levels</title>
+          <p>Desvenlafaxine (O-desmethylvenlafaxine) is an active metabolite of venlafaxine with similar antidepressant activity.[<xref ref-type="bibr" rid="LM698.s1.ref4">4</xref>]</p>
+          <p><italic toggle="yes">Maternal Levels</italic>. Ten lactating women with postpartum depression who were an average of 4.3 (range 0.9 to 12.7) months postpartum were taking extended-release desvenlafaxine (Pristiq) from 4 to 35 days in doses of 50 to 150 mg daily or an average of 1.2 mg/kg daily (95% CI: 0.93 to 1.5 mg/kg daily). Each woman provided up to 8 milk samples over a 24-hour period. Peak milk concentrations occurred at an average of 3.3 hours after the dose. An exclusively breastfed infant in this study would have received an estimated 85 mcg/kg daily or 6.8% (95% CI: 5.5 to 8.1%) of the maternal weight-adjusted dosage.[<xref ref-type="bibr" rid="LM698.s1.ref1">1</xref>]</p>
+          <p>A nursing mother was taking oral desvenlafaxine 250 mg and amisulpride 100 mg twice daily. Eight breastmilk samples were obtained over a 24-hour period with a breast pum
+== eutils
+{"header":{"type":"esearch","version":"0.3"},"esearchresult":{"count":"2","retmax":"2","retstart":"0","idlist":["4851202","4573436"],"translationset":[],"translationstack":[{"term":"sertraline[title]","field":"title","count":"91","explode":"N"},{"term":"lactmed[All Fields]","field":"All Fields","count":"6289","explode":"N"},"AND"],"querytranslation":"sertraline[title] AND lactmed[All Fields]"}}
