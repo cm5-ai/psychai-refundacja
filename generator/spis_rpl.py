@@ -16,7 +16,7 @@ def main(csv_path, refund_path, out_json, out_md):
     ref = json.load(open(refund_path, encoding='utf-8'))
     ref_gtin = collections.defaultdict(list)
     for r in ref['leki']: ref_gtin[r['gtin']].append(r)
-    prods, bad_pkg = [], 0
+    prods, bad_pkg, probka, probka_zap = [], 0, [], []
     for r in rows:
         if r["Rodzaj preparatu"].strip().lower() != "ludzki": continue
         atcs = [a.strip() for a in re.split(r'[,\s]+', r["Kod ATC"]) if a.strip()]
@@ -28,7 +28,23 @@ def main(csv_path, refund_path, out_json, out_md):
             pk.append({"gtin": g14, "kategoria": kat.strip(), "opis": " ".join(opis.split()),
                        "refundacja_A1": sorted({x['poziom_odplatnosci'] for x in rr}) or None,
                        "refundacja_LP": sorted({x['pozycja_zrodlowa']['lp_w_wykazie'] for x in rr}, key=int) or None})
-        if (r["Opakowanie"] or "").strip() and not pk: bad_pkg += 1
+        if (r["Opakowanie"] or "").strip() and not pk:
+            # zapas: rejestracje centralne (EU/1/...) i inne zapisy — GTIN 13/14 cyfr + kategoria z listy
+            raw_o = r["Opakowanie"]
+            for seg in re.split(r'(?=\b\d{13,14}\b)', raw_o):
+                gm = re.match(r'\s*(\d{13,14})\b(.*)', seg, re.S)
+                if not gm: continue
+                g14 = gm.group(1).zfill(14); rest = gm.group(2)
+                km = re.search(r'\b(Rpw|Rpz|Rp|OTC|Lz)\b', rest)
+                rr = ref_gtin.get(g14, [])
+                pk.append({"gtin": g14, "kategoria": km.group(1) if km else "", "opis": " ".join(re.sub(r'[¦|]', ' ', rest).split())[:200],
+                           "refundacja_A1": sorted({x['poziom_odplatnosci'] for x in rr}) or None,
+                           "refundacja_LP": sorted({x['pozycja_zrodlowa']['lp_w_wykazie'] for x in rr}, key=int) or None,
+                           "odczyt": "zapasowy"})
+            if not pk:
+                bad_pkg += 1
+                if len(probka) < 25: probka.append("%s | %s | %r" % (r["Nazwa Produktu Leczniczego"], r["Moc"], raw_o[:400]))
+            elif len(probka_zap) < 10: probka_zap.append("%s | %s | %r" % (r["Nazwa Produktu Leczniczego"], r["Moc"], raw_o[:400]))
         prods.append({"id": r["Identyfikator Produktu Leczniczego"], "nazwa": r["Nazwa Produktu Leczniczego"].strip(),
                       "nazwa_powszechna": r["Nazwa powszechnie stosowana"].strip(), "substancja": r["Substancja czynna"].strip(),
                       "moc": r["Moc"].strip(), "postac": r["Postać farmaceutyczna"].strip(), "atc": atcs,
@@ -79,6 +95,10 @@ def main(csv_path, refund_path, out_json, out_md):
     for s in sorted(subst, key=str.lower):
         R.append("- **%s**: " % s + "; ".join("%s: %s" % (f, ", ".join(sorted(v))) for f, v in sorted(subst[s].items())))
     open(out_md, 'w', encoding='utf-8').write("\n".join(R) + "\n")
+    import os; os.makedirs("wyniki", exist_ok=True)
+    open("wyniki/probka_opakowan.txt", "w", encoding="utf-8").write("NIEODCZYTANE:\n" + "\n".join(probka) + "\n\nODCZYT ZAPASOWY (przyklady):\n" + "\n".join(probka_zap) + "\n")
+    meta["odczyt_zapasowy"] = sum(1 for p in prods for o in p["opakowania"] if o.get("odczyt") == "zapasowy")
+    print("odczyt_zapasowy", meta["odczyt_zapasowy"])
     print("nowe_komunikaty", meta["nowe_komunikaty"])
     if meta["nowe_komunikaty"]: open("NOWE_KOMUNIKATY", "w").write(str(meta["nowe_komunikaty"]))
     print("produkty", meta["produkty"], "opakowania", meta["opakowania"], "bledy", bad_pkg, "A1_bez_RPL", len(A1_bez_rpl))
