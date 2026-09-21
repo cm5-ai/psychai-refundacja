@@ -1,0 +1,37 @@
+name: PubMed - przeglad tygodniowy
+
+on:
+  workflow_dispatch:
+    inputs:
+      dni:
+        description: "ile dni wstecz"
+        required: false
+        default: "7"
+  schedule:
+    - cron: "0 5 * * 5"   # co piatek ok. 7:00 czasu polskiego
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  pubmed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Przeglad
+        env:
+          DNI: ${{ inputs.dni || '7' }}
+        run: python3 generator/pubmed_przeglad.py
+      - name: Zapisz
+        if: always()
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          git add pubmed/ && git commit -qm "PubMed przeglad $(TZ=Europe/Warsaw date +%F)" && git push || true
+      - name: Zgloszenie
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ -f ZGLOSZENIE ] && gh issue create --title "PubMed - przeglad $(TZ=Europe/Warsaw date +%F)" --body-file ZGLOSZENIE || true
