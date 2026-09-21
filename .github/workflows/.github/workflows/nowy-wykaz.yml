@@ -1,0 +1,62 @@
+name: Zbuduj nowy wykaz (kandydat)
+
+on:
+  workflow_dispatch:
+    inputs:
+      plik:         {description: "Nazwa pliku xlsx w folderze zrodla/", required: true}
+      oznaczenie:   {description: "Oznaczenie wykazu, np. 85W", required: true}
+      valid_from:   {description: "Obowiązuje od (RRRR-MM-DD)", required: true}
+      data_aktu:    {description: "Data obwieszczenia (RRRR-MM-DD)", required: true}
+      poz:          {description: "Dz. Urz. MZ, pozycja", required: true}
+      check_valid_until: {description: "Data następnego wykazu (RRRR-MM-DD)", required: true}
+      url:          {description: "Adres strony obwieszczenia", required: false, default: ""}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install openpyxl==3.1.5
+      - name: Budowa danych
+        run: |
+          mkdir -p "kandydaci/${{ inputs.oznaczenie }}"
+          python3 generator/build.py --xlsx "zrodla/${{ inputs.plik }}" --poprzedni REFUNDACJA_DATA.json \
+            --oznaczenie "${{ inputs.oznaczenie }}" --valid-from "${{ inputs.valid_from }}" \
+            --data-aktu "${{ inputs.data_aktu }}" --poz "${{ inputs.poz }}" \
+            --check-valid-until "${{ inputs.check_valid_until }}" --url "${{ inputs.url }}" \
+            --wyjscie "kandydaci/${{ inputs.oznaczenie }}/REFUNDACJA_DATA.json" \
+            --raport "kandydaci/${{ inputs.oznaczenie }}/RAPORT.md" || echo "BLOKADA=1" >> $GITHUB_ENV
+      - name: Testy silnika na dzień wejścia w życie
+        if: env.BLOKADA != '1'
+        run: |
+          D="kandydaci/${{ inputs.oznaczenie }}"
+          mkdir -p ds && cp "$D/REFUNDACJA_DATA.json" ds/
+          python3 - <<'PY' | tee -a "kandydaci/${{ inputs.oznaczenie }}/RAPORT.md"
+          import json, subprocess, sys
+          T = "${{ inputs.valid_from }}"
+          C = [("arypiprazol + F22",{"query":{"medication":"arypiprazol"},"icd10_confirmed":["F22"]},"TAK"),
+               ("olanzapina + F20",{"query":{"medication":"olanzapina"},"icd10_confirmed":["F20"]},"TAK"),
+               ("sertralina + F32",{"query":{"medication":"sertralina"},"icd10_confirmed":["F32"]},"TAK"),
+               ("arypiprazol bez ICD",{"query":{"medication":"arypiprazol"},"icd10_confirmed":[]},"DO_UZUPELNIENIA"),
+               ("lek nieznany",{"query":{"medication":"xyzlek"},"icd10_confirmed":["F32"]},"BRAK_DANYCH")]
+          print("\n## Testy silnika na dzień", T, "\n")
+          bad = 0
+          for n, c, w in C:
+              json.dump(c, open("c.json", "w"))
+              p = subprocess.run([sys.executable, "REFUNDACJA_ENGINE.py", "--dataset-dir", "ds", "--case", "c.json", "--today", T], capture_output=True, text=True)
+              try: g = json.loads(p.stdout)["summary"].get("refundation_status")
+              except Exception: g = "BLAD"
+              bad += g != w; print(("- OK " if g == w else "- BLAD ") + f"{n}: oczekiwane {w}, jest {g}")
+          sys.exit(1 if bad else 0)
+          PY
+      - name: Zapisz kandydata w repozytorium
+        if: always()
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          git add kandydaci/ && git commit -m "Kandydat ${{ inputs.oznaczenie }} (${{ inputs.valid_from }})" && git push || true
+      - name: Wynik
+        if: env.BLOKADA == '1'
+        run: echo "::error::Budowa zablokowana — patrz kandydaci/${{ inputs.oznaczenie }}/RAPORT.md" && exit 1
