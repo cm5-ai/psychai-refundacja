@@ -1,4 +1,4 @@
-odczyt_zapasowy 1275
+bez_gtin 1049 statusy {'Skasowane': 327, 'Pharmapoint SA': 2} odczyt_kontrolny 0
 nowe_komunikaty 0
-produkty 2423 opakowania 7591 bledy 131 A1_bez_RPL 16
-BLOKADA: podejrzanie mało produktów albo dużo błędów parsowania
+produkty 2450 opakowania 8947 bledy 0 A1_bez_RPL 4
+OK

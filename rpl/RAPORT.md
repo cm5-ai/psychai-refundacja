@@ -1,30 +1,17 @@
 # Spis RPL — leki psychiatryczne
 
 Stan RPL: 2026-09-22  
-Produkty: 2423, opakowania: 7591, błędy parsowania opakowań: 131  
+Produkty: 2450, opakowania: 8947 (bez GTIN: 1049), błędy odczytu: 0, odczyt kontrolny: 0  
+Statusy opakowań: {'Skasowane': 327, 'Pharmapoint SA': 2}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `49afbf8881dd25166f84bbcb5ea5bbcce51fb09daa14e805f7c29880423ac2f0`
+sha256 spisu: `bea2df003cc0a80a7926f567e3d31907d4ebbfa8fa9f36a28365d0eaf04825ce`
 
-## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (16)
+## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
-Przyczyna zwykle: ATC spoza prefiksów (np. pregabalina N02BF, metadon), inny zapis GTIN.
-
-- Bunondol, tabl. podjęzykowe, 0.2 mg (GTIN 05909991235635)
-- Bunondol, tabl. podjęzykowe, 0.4 mg (GTIN 05909991235642)
 - Epilantin, tabl. powl., 100 mg (GTIN 05909991494551)
 - Epilantin, tabl. powl., 150 mg (GTIN 05909991494582)
 - Epilantin, tabl. powl., 200 mg (GTIN 05909991494612)
 - Epilantin, tabl. powl., 50 mg (GTIN 05909991494506)
-- Gabapentin Aurovitas, kaps. twarde, 100 mg (GTIN 05909991331108)
-- Gabapentin Aurovitas, kaps. twarde, 300 mg (GTIN 05909991331153)
-- Gabapentin Aurovitas, kaps. twarde, 400 mg (GTIN 05909991331207)
-- Gabapentin Teva, kaps. twarde, 100 mg (GTIN 05909991576400)
-- Gabapentin Teva, kaps. twarde, 300 mg (GTIN 05909991576417)
-- Gabapentin Teva, kaps. twarde, 400 mg (GTIN 05909991576424)
-- Neurontin 300, kaps. twarde, 300 mg (GTIN 05909990769315)
-- Neurontin 400, kaps. twarde, 400 mg (GTIN 05909990769414)
-- Neurontin 600, tabl. powl., 600 mg (GTIN 05909991017422)
-- Neurontin 800, tabl. powl., 800 mg (GTIN 05909991017521)
 
 ## Moce wg substancji i postaci
 
@@ -40,10 +27,10 @@ Przyczyna zwykle: ATC spoza prefiksów (np. pregabalina N02BF, metadon), inny za
 - **Brexpiprazolum**: Tabletki powlekane: 0,25 mg, 0,5 mg, 1 mg, 2 mg, 3 mg, 4 mg
 - **Brivaracetamum**: Roztwór do wstrzykiwań / do infuzji: 10 mg/ml; Roztwór doustny: 10 mg/ml; Tabletki powlekane: 10 mg, 100 mg, 25 mg, 50 mg, 75 mg
 - **Bromazepamum**: Kapsułki twarde: 3 mg, 6 mg; Tabletki: 3 mg, 6 mg
-- **Buprenorphini hydrochloridum**: Implant: 74,2 mg; Lamelki podjęzykowe: 0,4 mg, 4 mg, 6 mg, 8 mg
+- **Buprenorphini hydrochloridum**: Implant: 74,2 mg; Lamelki podjęzykowe: 0,4 mg, 4 mg, 6 mg, 8 mg; Tabletki podjęzykowe: 2 mg, 8 mg
 - **Buprenorphini hydrochloridum + Naloxoni hydrochloridum**: Tabletki podjęzykowe: 0,7 mg + 0,18 mg, 1,4 mg + 0,36 mg, 11,4 mg + 2,9 mg, 2,9 mg + 0,71 mg, 5,7 mg + 1,4 mg, 8,6 mg + 2,1 mg
 - **Buprenorphini hydrochloridum + Naloxoni hydrochloridum dihydricum**: Lamelki podjęzykowe: 12 mg + 3 mg, 2 mg + 0,5 mg, 4 mg + 1 mg, 8 mg + 2 mg; Tabletki podjęzykowe: 16 mg + 4 mg, 2 mg + 0,5 mg, 8 mg + 2 mg
-- **Buprenorphinum**: Roztwór do wstrzykiwań o przedłużonym uwalnianiu: 128 mg, 16 mg, 160 mg, 24 mg, 32 mg, 64 mg, 8 mg, 96 mg
+- **Buprenorphinum**: Roztwór do wstrzykiwań: 0,3 mg/ml; Roztwór do wstrzykiwań o przedłużonym uwalnianiu: 128 mg, 16 mg, 160 mg, 24 mg, 32 mg, 64 mg, 8 mg, 96 mg; System transdermalny: 35 mcg/h, 52,5 mcg/h, 70 mcg/h; System transdermalny, plaster: 35 mcg/h, 35 mcg/h (20 mg), 40 mg, 52,5 mcg/h, 52,5 mcg/h (30 mg); Tabletki podjęzykowe: 0,2 mg, 0,4 mg
 - **Bupropioni hydrochloridum**: Tabletki o zmodyfikowanym uwalnianiu: 150 mg, 300 mg; Tabletki powlekane o przedłużonym uwalnianiu: 150 mg
 - **Buspironi hydrochloridum**: Tabletki: 10 mg, 5 mg
 - **Cannabidiolum**: Roztwór doustny: 100 mg/ml
