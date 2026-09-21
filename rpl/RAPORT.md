@@ -1,0 +1,259 @@
+# Spis RPL — leki psychiatryczne
+
+Stan RPL: 2026-09-22  
+Produkty: 2423, opakowania: 6316, błędy parsowania opakowań: 431  
+Refundacja: 84W|2026-10-01|17f2a99b885b  
+sha256 spisu: `018798743b452fc088f6b9ceb2aeaac379cc4437415e6c4e80178f8407a85442`
+
+## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (140)
+
+Przyczyna zwykle: ATC spoza prefiksów (np. pregabalina N02BF, metadon), inny zapis GTIN.
+
+- Abilify Maintena, proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu, 400 mg (GTIN 05702157142200)
+- Abilify, tabl., 10 mg (GTIN 05038256002573)
+- Abilify, tabl., 15 mg (GTIN 05901878600888)
+- Abilify, tabl., 15 mg (GTIN 05901878600895)
+- Abilify, tabl., 15 mg (GTIN 05903792743528)
+- Abilify, tabl., 15 mg (GTIN 05903792743535)
+- Abilify, tabl., 15 mg (GTIN 05909990002306)
+- Abilify, tabl., 15 mg (GTIN 05909990002337)
+- Abilify, tabl., 30 mg (GTIN 05909990002382)
+- Brintellix, tabl. powl., 10 mg (GTIN 05702150155153)
+- Brintellix, tabl. powl., 20 mg (GTIN 05702150155788)
+- Brintellix, tabl. powl., 5 mg (GTIN 05702150155146)
+- Briviact, roztwór doustny, 10 mg/ml (GTIN 05909991272234)
+- Briviact, tabl. powl., 50 mg (GTIN 05909991272333)
+- Buccolam, roztwór do stosowania w jamie ustnej, 10 mg/2ml (GTIN 05909991449599)
+- Buccolam, roztwór do stosowania w jamie ustnej, 2.5 mg/0,5 ml (GTIN 05909991449568)
+- Buccolam, roztwór do stosowania w jamie ustnej, 5 mg/1 ml (GTIN 05909991449575)
+- Buccolam, roztwór do stosowania w jamie ustnej, 7.5 mg/1,5 ml (GTIN 05909991449582)
+- Bunondol, tabl. podjęzykowe, 0.2 mg (GTIN 05909991235635)
+- Bunondol, tabl. podjęzykowe, 0.4 mg (GTIN 05909991235642)
+- Diacomit, kaps. twarde, 250 mg (GTIN 05909990017232)
+- Diacomit, kaps. twarde, 500 mg (GTIN 05909990017263)
+- Diacomit, proszek do sporządzania zawiesiny doustnej, 250 mg (GTIN 05909990017294)
+- Diacomit, proszek do sporządzania zawiesiny doustnej, 500 mg (GTIN 05909990017331)
+- Duloxetine Viatris, kaps. dojelitowe twarde, 30 mg (GTIN 05901797710644)
+- Duloxetine Viatris, kaps. dojelitowe twarde, 60 mg (GTIN 05901797710668)
+- Duloxetine Zentiva, kaps. dojelitowe twarde, 30 mg (GTIN 05909991231040)
+- Duloxetine Zentiva, kaps. dojelitowe twarde, 30 mg (GTIN 05909991423636)
+- Duloxetine Zentiva, kaps. dojelitowe twarde, 60 mg (GTIN 05909991231064)
+- Duloxetine Zentiva, kaps. dojelitowe twarde, 60 mg (GTIN 05909991231071)
+- Epilantin, tabl. powl., 100 mg (GTIN 05909991494551)
+- Epilantin, tabl. powl., 150 mg (GTIN 05909991494582)
+- Epilantin, tabl. powl., 200 mg (GTIN 05909991494612)
+- Epilantin, tabl. powl., 50 mg (GTIN 05909991494506)
+- Exelon, system transdermalny, 13.3 mg/24h (GTIN 05909991032609)
+- Exelon, system transdermalny, 4.6 mg/24h (GTIN 05909990066704)
+- Exelon, system transdermalny, 9.5 mg/24h (GTIN 05909990066766)
+- Gabapentin Aurovitas, kaps. twarde, 100 mg (GTIN 05909991331108)
+- Gabapentin Aurovitas, kaps. twarde, 300 mg (GTIN 05909991331153)
+- Gabapentin Aurovitas, kaps. twarde, 400 mg (GTIN 05909991331207)
+- Gabapentin Teva, kaps. twarde, 100 mg (GTIN 05909991576400)
+- Gabapentin Teva, kaps. twarde, 300 mg (GTIN 05909991576417)
+- Gabapentin Teva, kaps. twarde, 400 mg (GTIN 05909991576424)
+- Keppra, roztwór doustny, 100 mg/ml (GTIN 05909990006755)
+- Lacosamide Accord, tabl. powl., 100 mg (GTIN 05055565743331)
+- Lacosamide Accord, tabl. powl., 150 mg (GTIN 05055565743348)
+- Lacosamide Accord, tabl. powl., 200 mg (GTIN 05055565743355)
+- Lacosamide Accord, tabl. powl., 50 mg (GTIN 05055565743324)
+- Latuda, tabl. powl., 18.5 mg (GTIN 05909991108670)
+- Latuda, tabl. powl., 37 mg (GTIN 05909991108762)
+- Latuda, tabl. powl., 74 mg (GTIN 05909991108878)
+- Levetiracetam Accord, tabl. powl., 1000 mg (GTIN 05909990921737)
+- Levetiracetam Accord, tabl. powl., 1000 mg (GTIN 05909990921751)
+- Levetiracetam Accord, tabl. powl., 250 mg (GTIN 05909990921492)
+- Levetiracetam Accord, tabl. powl., 500 mg (GTIN 05909990921577)
+- Levetiracetam Accord, tabl. powl., 500 mg (GTIN 05909990921591)
+- Levetiracetam Accord, tabl. powl., 750 mg (GTIN 05909990921652)
+- Levetiracetam Accord, tabletki powlekane, 250 mg (GTIN 05909990921522)
+- Levetiracetam Accord, tabletki powlekane, 750 mg (GTIN 05909990921676)
+- Lyrica, kaps. twarde, 150 mg (GTIN 05903792743252)
+- Lyrica, kaps. twarde, 150 mg (GTIN 05909990009350)
+- Lyrica, kaps. twarde, 150 mg (GTIN 05909990009367)
+- Lyrica, kaps. twarde, 75 mg (GTIN 05909990009282)
+- Lyrica, kaps. twarde, 75 mg (GTIN 05909990009299)
+- Lyrica, kapsułki twarde, 150 mg (GTIN 05901878600550)
+- Neurontin 300, kaps. twarde, 300 mg (GTIN 05909990769315)
+- Neurontin 400, kaps. twarde, 400 mg (GTIN 05909990769414)
+- Neurontin 600, tabl. powl., 600 mg (GTIN 05909991017422)
+- Neurontin 800, tabl. powl., 800 mg (GTIN 05909991017521)
+- Nimvastid, kaps. twarde, 1.5 mg (GTIN 05909990700646)
+- Nimvastid, kaps. twarde, 3 mg (GTIN 05909990700684)
+- Nimvastid, kaps. twarde, 3 mg (GTIN 05909990700707)
+- Nimvastid, kaps. twarde, 4.5 mg (GTIN 05909990700738)
+- Nimvastid, kaps. twarde, 4.5 mg (GTIN 05909990700752)
+- Nimvastid, kaps. twarde, 6 mg (GTIN 05909990700790)
+- Nimvastid, kaps. twarde, 6 mg (GTIN 05909990700844)
+- Nimvastid, tabl. ulegające rozpadowi w jamie ustnej, 1.5 mg (GTIN 05909990700660)
+- Nimvastid, tabl. ulegające rozpadowi w jamie ustnej, 3 mg (GTIN 05909990700691)
+- Nimvastid, tabl. ulegające rozpadowi w jamie ustnej, 3 mg (GTIN 05909990700721)
+- Nimvastid, tabl. ulegające rozpadowi w jamie ustnej, 4.5 mg (GTIN 05909990700745)
+
+## Moce wg substancji i postaci
+
+- **Acamprosatum calcium**: Tabletki powlekane dojelitowe: 333 mg
+- **Acidum valproicum**: Kapsułki dojelitowe miękkie: 500 mg; Kapsułki miękkie: 150 mg, 300 mg, 500 mg
+- **Agomelatinum**: Tabletki powlekane: 25 mg
+- **Alprazolamum**: Tabletki: 0,25 mg, 0,5 mg, 1 mg, 2 mg, 250 mcg, 500 mcg; Tabletki o przedłużonym uwalnianiu: 0,5 mg, 1 mg, 2 mg; Tabletki o zmodyfikowanym uwalnianiu: 0,5 mg, 1 mg
+- **Amisulpridum**: Tabletki: 100 mg, 200 mg, 400 mg, 50 mg; Tabletki powlekane: 400 mg
+- **Amitriptylini hydrochloridum**: Tabletki powlekane: 10 mg, 25 mg
+- **Aripiprazolum**: Kapsułki twarde: 10 mg, 15 mg, 5 mg; Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu: 300 mg, 400 mg; Roztwór do wstrzykiwań: 7,5 mg/ml; Roztwór doustny: 1 mg/ml; Tabletki: 10 mg, 15 mg, 2,5 mg, 20 mg, 30 mg, 5 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 15 mg, 30 mg; Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce: 720 mg, 960 mg
+- **Asenapinum**: Tabletki podjęzykowe: 10 mg, 5 mg
+- **Atomoxetinum**: Kapsułki twarde: 10 mg, 100 mg, 18 mg, 25 mg, 40 mg, 60 mg, 80 mg; Tabletki powlekane: 10 mg, 18 mg, 25 mg, 40 mg
+- **Brexpiprazolum**: Tabletki powlekane: 0,25 mg, 0,5 mg, 1 mg, 2 mg, 3 mg, 4 mg
+- **Brivaracetamum**: Roztwór do wstrzykiwań / do infuzji: 10 mg/ml; Roztwór doustny: 10 mg/ml; Tabletki powlekane: 10 mg, 100 mg, 25 mg, 50 mg, 75 mg
+- **Bromazepamum**: Kapsułki twarde: 3 mg, 6 mg; Tabletki: 3 mg, 6 mg
+- **Buprenorphini hydrochloridum**: Implant: 74,2 mg; Lamelki podjęzykowe: 0,4 mg, 4 mg, 6 mg, 8 mg
+- **Buprenorphini hydrochloridum + Naloxoni hydrochloridum**: Tabletki podjęzykowe: 0,7 mg + 0,18 mg, 1,4 mg + 0,36 mg, 11,4 mg + 2,9 mg, 2,9 mg + 0,71 mg, 5,7 mg + 1,4 mg, 8,6 mg + 2,1 mg
+- **Buprenorphini hydrochloridum + Naloxoni hydrochloridum dihydricum**: Lamelki podjęzykowe: 12 mg + 3 mg, 2 mg + 0,5 mg, 4 mg + 1 mg, 8 mg + 2 mg; Tabletki podjęzykowe: 16 mg + 4 mg, 2 mg + 0,5 mg, 8 mg + 2 mg
+- **Buprenorphinum**: Roztwór do wstrzykiwań o przedłużonym uwalnianiu: 128 mg, 16 mg, 160 mg, 24 mg, 32 mg, 64 mg, 8 mg, 96 mg
+- **Bupropioni hydrochloridum**: Tabletki o zmodyfikowanym uwalnianiu: 150 mg, 300 mg; Tabletki powlekane o przedłużonym uwalnianiu: 150 mg
+- **Buspironi hydrochloridum**: Tabletki: 10 mg, 5 mg
+- **Cannabidiolum**: Roztwór doustny: 100 mg/ml
+- **Carbamazepinum**: Tabletki: 200 mg; Tabletki o przedłużonym uwalnianiu: 200 mg, 300 mg, 400 mg, 600 mg; Tabletki o zmodyfikowanym uwalnianiu: 200 mg, 400 mg; Zawiesina doustna: 20 mg/ml
+- **Cariprazinum**: Kapsułki twarde: 1,5 mg, 3 mg, 4,5 mg, 6 mg; Tabletki ulegające rozpadowi w jamie ustnej: 1,5 mg, 3 mg, 4,5 mg, 6 mg
+- **Cenobamatum**: Tabletki powlekane: 100 mg, 150 mg, 200 mg, 50 mg; Tabletki powlekane + tabletki: 12,5 mg; 25 mg
+- **Chlordiazepoxidum**: Tabletki drażowane: 10 mg, 25 mg, 5 mg
+- **Chlorpromazini hydrochloridum**: Krople doustne, roztwór: 40 mg/g
+- **Chlorprothixeni hydrochloridum**: Tabletki powlekane: 15 mg, 50 mg
+- **Citalopramum**: Tabletki powlekane: 10 mg, 20 mg, 40 mg
+- **Citicolinum**: Granulat do sporządzania roztworu doustnego, w saszetce: 1 g/4 g; Roztwór doustny: 100 mg/ml, 1000 mg/10 ml; Tabletki: 500 mg
+- **Clobasamum**: Tabletki: 10 mg
+- **Clobazamum**: Tabletki: 10 mg
+- **Clomethiazolum**: Kapsułki: 300 mg
+- **Clomipramini hydrochloridum**: Tabletki powlekane: 10 mg, 25 mg; Tabletki powlekane o przedłużonym uwalnianiu: 75 mg
+- **Clonazepamum**: Roztwór do wstrzykiwań: 1 mg/ml; Tabletki: 0,5 mg, 2 mg
+- **Clozapinum**: Tabletki: 100 mg, 200 mg, 25 mg, 50 mg; Tabletki ulegające rozpadowi w jamie ustnej: 100 mg, 12,5 mg, 200 mg, 25 mg
+- **Coffeini citras**: Roztwór do infuzji: 10 mg/ml; Roztwór do infuzji i roztwór doustny: 20 mg/ml
+- **Daridorexantum**: Tabletki powlekane: 25 mg, 50 mg
+- **Dexamfetamini sulfas**: Tabletki: 10 mg, 20 mg, 5 mg
+- **Dexmedetomidinum**: Koncentrat do sporządzania roztworu do infuzji: , 100 mcg/ml, 100 mikrogramów/ml; Roztwór do infuzji: 4 mcg/ml
+- **Diazepamum**: Mikrowlewka doodbytnicza, roztwór: 2 mg/ml (5 mg/2,5 ml), 4 mg/ml (10 mg/2,5 ml); Roztwór do wstrzykiwań: 10 mg/2 ml, 5 mg/ml; Tabletki: 2 mg, 5 mg; Tabletki powlekane: 5 mg
+- **Dikalii clorazepas**: Kapsułki: 10 mg, 5 mg; Kapsułki twarde: 10 mg, 5 mg; Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań: 20 mg/2 ml; Tabletki: 10 mg, 5 mg
+- **Disulfiramum**: Tabletki: 500 mg; Tabletki do implantacji: 100 mg
+- **Donanemabum**: Koncentrat do sporządzania roztworu do infuzji: 350 mg
+- **Donepezili hydrochloridum**: Tabletki powlekane: 10 mg, 5 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 5 mg
+- **Doxepinum**: Kapsułki twarde: 10 mg, 25 mg
+- **Duloxetinum**: Kapsułki dojelitowe, twarde: 120 mg, 20 mg, 30 mg, 40 mg, 60 mg, 90 mg; Tabletki dojelitowe: 30 mg, 60 mg
+- **Escitalopramum**: Krople doustne, roztwór: 20 mg/ml; Tabletki powlekane: 10 mg, 15 mg, 20 mg, 5 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 15 mg, 20 mg, 5 mg
+- **Esketaminum**: Aerozol do nosa, roztwór: 28 mg
+- **Eslicarbazepini acetas**: Tabletki: 200 mg, 400 mg, 600 mg, 800 mg; Zawiesina doustna: 50 mg/ml
+- **Estazolamum**: Tabletki: 2 mg
+- **Eszopiclonum**: Tabletki powlekane: 1 mg, 2 mg, 3 mg
+- **Ethosuximidum**: Kapsułki: 250 mg
+- **Fenfluraminum**: Roztwór doustny: 2,2 mg/ml
+- **Fluoxetinum**: Kapsułki twarde: 10 mg, 20 mg; Tabletki: 20 mg; Tabletki powlekane: 10 mg, 20 mg
+- **Flupentixolum**: Roztwór do wstrzykiwań: 20 mg/ml; Tabletki powlekane: 0,5 mg, 3 mg
+- **Fluvoxamini maleas**: Tabletki powlekane: 100 mg, 50 mg
+- **Gabapentinum**: Kapsułki twarde: 100 mg, 300 mg, 400 mg; Tabletki powlekane: 600 mg, 800 mg
+- **Galantamini hydrobromidum**: Roztwór do wstrzykiwań: 5 mg/ml
+- **Galantaminum**: Roztwór do wstrzykiwań: 2,5 mg/ml, 5 mg/ml
+- **Ganaxolonum**: Zawiesina doustna: 50 mg/ml
+- **Ginkgo bilobae extractum**: Tabletki powlekane: 40 mg
+- **Ginkgo bilobae folii extractum**: Kapsułki twarde: 19,2-23,2 mg glikozydów flawonowych i 4,8-7,2 mg terpentów laktonowych/kapsułkę; Tabletki: nie mniej niż 6,0 mg ginkgoflawonoglikozydów i 2,0-2,8 mg laktonów terpenowych/tabl.; Tabletki powlekane: 40 mg, 80 mg
+- **Ginkgo bilobae folii tinctura**: Płyn doustny: -
+- **Ginkgo folii extractum siccum**: Tabletki powlekane: 40 mg
+- **Ginkgonis extractum siccum raffinatum et quantificatum**: Kapsułki twarde: 120 mg, 80 mg; Tabletki powlekane: 120 mg, 240 mg
+- **Haloperidoli decanoas**: Roztwór do wstrzykiwań: 50 mg/ml
+- **Haloperidolum**: Krople doustne, roztwór: 2 mg/ml; Roztwór do wstrzykiwań: 5 mg/ml; Tabletki: 1 mg, 5 mg
+- **Hydroxyzini hydrochloridum**: Roztwór do wstrzykiwań: 50 mg/ml; Syrop: 10 mg/5 ml, 100 mg, 2 mg/ml; Tabletki powlekane: 10 mg, 25 mg, 25,00 mg
+- **Hyperici herbae extractum siccum**: Tabletki powlekane: 612 mg
+- **Hyperici herbae tinctura**: Płyn doustny: -
+- **Hyperici intractum**: Płyn doustny: 4,65 g/5 ml
+- **Hyperici succus**: Płyn doustny: 2,425 g/2,5 ml
+- **Idebenonum**: Tabletki powlekane: 150 mg
+- **Lacosamidum**: Roztwór do infuzji: 10 mg/ml; Syrop: 10 mg/ml; Tabletki powlekane: 100 mg, 150 mg, 200 mg, 50 mg, 50 mg, 100 mg, 150 mg, 200 mg (zestaw do rozpoczynania leczenia), 50 mg; 100 mg; 150 mg; 200 mg, 50 mg;100 mg;150 mg;200 mg, Zestaw do rozpoczynania leczenia;  tabeltki powlekane po 50 mg, 100 mg, 150 mg oraz 200 mg
+- **Lamotriginum**: Tabletki: 100 mg, 25 mg, 50 mg; Tabletki do rozgryzania i żucia / do sporządzania zawiesiny: 100 mg, 2 mg, 200 mg, 25 mg, 5 mg, 50 mg
+- **Lecanemabum**: Koncentrat do sporządzania roztworu do infuzji: 100 mg/ml
+- **Levetiracetamum**: Koncentrat do sporządzania roztworu do infuzji: 100 mg/ml; Roztwór doustny: 100 mg/ml; Tabletki powlekane: 1000 mg, 250 mg, 500 mg, 750 mg
+- **Levomepromazinum**: Tabletki powlekane: 25 mg
+- **Levomethadoni hydrochloridum**: Roztwór doustny: 2,5 mg/ml, 5 mg/ml
+- **Lisdexamfetamini dimesylas**: Kapsułki twarde: 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, 70 mg
+- **Lithii carbonas**: Tabletki: 250 mg
+- **Lorazepamum**: Roztwór do wstrzykiwań: 2 mg/ml, 4 mg/ml; Tabletki: 0,5 mg, 1 mg, 2,5  mg, 2,5 mg; Tabletki drażowane: 1 mg, 2,5 mg
+- **Lormetazepamum**: Tabletki: 0,5 mg, 1 mg
+- **Loxapinum**: Proszek do inhalacji, podzielony: 4,5 mg, 9,1 mg
+- **Lupuli strobilus + Valerianae radicis extractum siccum + Gentianae radicis extractum siccum**: Tabletki drażowane: 45 mg + 33,75 mg + 22,5 mg
+- **Lurasidoni hydrochloridum**: Tabletki powlekane: 18,5 mg, 37 mg, 74 mg
+- **Lurasidonum**: Tabletki powlekane: 111 mg, 148 mg, 18,5 mg, 37 mg, 74 mg
+- **Maprotilini hydrochloridum**: Tabletki powlekane: 75 mg
+- **Medazepamum**: Kapsułki twarde: 10 mg
+- **Melatoninum**: Roztwór doustny: 1 mg/ml; Tabletki: 1 mg, 2 mg, 3 mg, 4 mg, 5 mg; Tabletki o przedłużonym uwalnianiu: 1 mg, 2 mg, 5 mg; Tabletki powlekane: 3 mg
+- **Memantini hydrochloridum**: Roztwór doustny: 5 mg/dawkę; Tabletki powlekane: 10 mg, 20 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 20 mg
+- **Memantinum**: Roztwór doustny: 5 mg/dawkę; Tabletki powlekane: 10 mg, 15 mg, 20 mg, 5 mg, 5 mg ; 10 mg; 15 mg; 20 mg, 5 mg, 10 mg, 15 mg, 20 mg, 5 mg; 10 mg; 15 mg; 20 mg
+- **Methadoni hydrochloridum**: Koncentrat do sporządzania roztworu doustnego: 10 mg/ml; Roztwór doustny: 1 mg/ml; Syrop: 1 mg/ml, 5 mg/ml
+- **Methylphenidati hydrochloridum**: Kapsułki o zmodyfikowanym uwalnianiu, twarde: 10 mg, 20 mg, 30 mg, 40 mg, 5 mg, 50 mg, 60 mg; Tabletki: 10 mg, 20 mg, 5 mg; Tabletki do rozgryzania i żucia: 20 mg, 30 mg, 40 mg; Tabletki o przedłużonym uwalnianiu: 18 mg, 27 mg, 36 mg, 45 mg, 54 mg
+- **Mianserini hydrochloridum**: Tabletki powlekane: 10 mg, 30 mg, 60 mg
+- **Midazolami hydrochloridum**: Roztwór do wstrzykiwań: 5 mg/ml
+- **Midazolamum**: Roztwór do stosowania w jamie ustnej: 10 mg, 10 mg/2 ml, 2,5 mg, 2,5 mg/0,5 ml, 5 mg, 5 mg/ml, 7,5 mg, 7,5 mg/1,5 ml; Roztwór do wstrzykiwań: 1 mg/ml, 5 mg/ml; Roztwór do wstrzykiwań / do infuzji: 1 mg/ml, 2 mg/ml, 5 mg/ml; Roztwór do wstrzykiwań lub infuzji: 1 mg/ml, 5 mg/ml; Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce: 1 mg/ml, 2mg/ml; Roztwór do wstrzykiwań w ampułko-strzykawce: 1 mg/ml; Roztwór doustny w pojemniku jednodawkowym: 2 mg/ml; Tabletki powlekane: 15 mg, 7,5 mg
+- **Mirtazapinum**: Tabletki powlekane: 15 mg, 30 mg, 45 mg; Tabletki ulegające rozpadowi w jamie ustnej: 15 mg, 30 mg, 45 mg
+- **Mirtazapinum hemihydricum**: Tabletki powlekane: 45 mg
+- **Moclobemidum**: Tabletki powlekane: 150 mg
+- **Modafinilum**: Tabletki: 100 mg, 200 mg
+- **Nalmefenum**: Tabletki powlekane: 18 mg
+- **Naltrexoni hydrochloridum**: Tabletki powlekane: 50 mg
+- **Natrii valproas**: Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań: 400 mg (400 mg/4 ml); Syrop: 288,2 mg/5 ml, 50 mg/ml; Tabletki o przedłużonym uwalnianiu: 300 mg, 500 mg
+- **Natrii valproas + Acidum valproicum**: Granulat o przedłużonym uwalnianiu: (166,76 mg + 72,61 mg)/sasz., (333,30 mg + 145,14 mg)/sasz., (500,06 mg + 217,75 mg)/sasz., (66,66 mg + 29,03 mg)/sasz., (666,60 mg + 290,27 mg)/sasz.; Tabletki powlekane o przedłużonym uwalnianiu: 200 mg + 87 mg, 333 mg + 145 mg
+- **Nitrazepamum**: Tabletki: 5 mg
+- **Olanzapina**: Tabletki powlekane: 10 mg, 5 mg
+- **Olanzapinum**: Kapsułki twarde: 10 mg, 5 mg, 7,5 mg; Proszek do sporządzania roztworu do wstrzykiwań: 10 mg; Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu: 210 mg, 300 mg, 405 mg; Tabletki: 10 mg, 15 mg, 2,5 mg, 20 mg, 5 mg, 7,5 mg; Tabletki powlekane: 10 mg, 15 mg, 2,5 mg, 20 mg, 5 mg, 7,5 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 15 mg, 20 mg, 5 mg, 7,5 mg
+- **Opipramoli dihydrochloridum**: Tabletki drażowane: 50 mg; Tabletki powlekane: 50 mg
+- **Oxazepamum**: Tabletki: 10 mg; Tabletki powlekane: 10 mg
+- **Oxcarbazepinum**: Tabletki: 300 mg, 600 mg; Tabletki powlekane: 150 mg, 300 mg, 600 mg; Zawiesina doustna: 60 mg/ml
+- **Paliperidonum**: Tabletki o przedłużonym uwalnianiu: 3 mg, 6 mg, 9 mg; Zawiesina do wstrzykiwań o przedłużonym uwalnianiu: 100 mg, 150 mg, 175 mg (200 mg/ml), 25 mg, 263 mg (200 mg/ml), 350 mg (200 mg/ml), 50 mg, 525 mg (200 mg/ml), 75 mg, zestaw do rozpoczęcia leczenia: 100 mg oraz 150 mg; Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce: 100 mg, 100 mg + 150 mg, 100 mg / 150 mg, 100 mg/150 mg, 1000 mg, 150 mg, 25 mg, 50 mg, 700 mg, 75 mg
+- **Paraperidonum**: Tabletki o przedłużonym uwalnianiu: 12 mg
+- **Paroxetinum**: Tabletki: 20 mg; Tabletki powlekane: 20 mg, 40 mg
+- **Passiflorae herbae extractum siccum**: Tabletki powlekane: 200 mg, 500 mg
+- **Perampanelum**: Tabletki powlekane: 10 mg, 12 mg, 2 mg, 4 mg, 6 mg, 8 mg; Zawiesina doustna: 0,5 mg/ml
+- **Perazinum**: Tabletki: 100 mg, 200 mg, 25 mg, 50 mg
+- **Phenobarbitalum**: Tabletki: 100 mg, 15 mg
+- **Phenytoinum**: Tabletki: 100 mg
+- **Phenytoinum natricum**: Roztwór do wstrzykiwań: 50 mg/ml
+- **Piracetamum**: Roztwór do infuzji: 12 g/60 ml; Roztwór do wstrzykiwań: 200 mg/ml (1g/5 ml), 200 mg/ml (3 g/15 ml); Roztwór doustny: 200 mg/ml; Tabletki powlekane: 1200 mg, 400 mg, 800 mg
+- **Pregabalinum**: Kapsułki twarde: 100 mg, 150 mg, 200 mg, 225 mg, 25 mg, 300 mg, 50 mg, 75 mg; Roztwór doustny: 20 mg/ml; Tabletki: 100 mg, 150 mg, 200 mg, 75 mg; Tabletki o przedłużonym uwalnianiu: 165 mg, 330 mg, 82,5 mg
+- **Preparat ziołowy**: Kapsułki twarde: -; Syrop: 3,15 ml/15 ml
+- **Primidonum**: Tabletki: 250 mg
+- **Prochlorperazini  dimaleas**: Tabletki: 10 mg
+- **Promazini hydrochloridum**: Tabletki drażowane: 100 mg, 25 mg, 50 mg; Tabletki powlekane: 100 mg, 25 mg, 50 mg
+- **Quetiapinum**: Tabletki o przedłużonym uwalnianiu: 150 mg, 200 mg, 300 mg, 400 mg, 50 mg, 600 mg; Tabletki powlekane: 100 mg, 150 mg, 200 mg, 25 mg, 300 mg; Zawiesina doustna: 25 mg/ml
+- **Reboxetinum**: Tabletki: 4 mg
+- **Remimazolamum**: Proszek do sporządzania koncentratu roztworu do wstrzykiwań lub infuzji: 50 mg; Proszek do sporządzania roztworu do wstrzykiwań: 20 mg
+- **Risperidonum**: Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu: 100 mg, 25 mg, 37,5 mg, 50 mg, 75 mg; Roztwór doustny: 1 mg/ml; Tabletki powlekane: 0,5 mg, 1 mg, 2 mg, 3 mg, 4 mg, 6 mg; Tabletki ulegające rozpadowi w jamie ustnej: 1 mg, 2 mg
+- **Rivastigminum**: Kapsułki twarde: 1,5 mg, 3 mg, 4,5 mg, 6 mg; Roztwór doustny: 2 mg/ml; System transdermalny: 13,3 mg/24 h, 4,6 mg/24 h, 9,5 mg/24 h; System transdermalny, plaster: 13,3 mg/24 h, 4,6 mg/24 h, 9,5 mg/24 h; Tabletki ulegające rozpadowi w jamie ustnej: 1,5 mg, 3 mg, 4,5 mg, 6 mg
+- **Rufinamidum**: Tabletki powlekane: 100 mg, 200 mg, 400 mg; Zawiesina doustna: 40 mg/ml
+- **Sertalinum**: Tabletki powlekane: 100 mg
+- **Sertindolum**: Tabletki powlekane: 12 mg, 16 mg, 4 mg
+- **Sertralinum**: Tabletki powlekane: 100 mg, 150 mg, 25 mg, 50 mg
+- **Solriamfetolum**: Tabletki powlekane: 150 mg, 75 mg
+- **Stiripentolum**: Kapsułki twarde: 100 mg, 250 mg, 500 mg; Proszek do sporządzania zawiesiny doustnej: 250 mg, 500 mg
+- **Sulpiridum**: Kapsułki twarde: 100 mg, 50 mg; Tabletki: 100 mg, 200 mg, 50 mg
+- **Sultiamum**: Zawiesina doustna: 20 mg/ml
+- **Tasimelteonum**: Kapsułki twarde: 20 mg
+- **Temazepamum**: Tabletki: 10 mg
+- **Tiagabinum**: Tabletki powlekane: 10 mg, 15 mg, 5 mg
+- **Tianeptinum natricum**: Tabletki drażowane: 12,5 mg; Tabletki powlekane: 12,5 mg
+- **Tiapridum**: Tabletki: 100 mg
+- **Topiramatum**: Kapsułki twarde: 15 mg, 25 mg; Tabletki powlekane: 100 mg, 200 mg, 25 mg, 50 mg
+- **Trazodoni hydrochloridum**: Tabletki: 100 mg, 150 mg, 50 mg; Tabletki o przedłużonym uwalnianiu: 150 mg, 75 mg; Tabletki o zmodyfikowanym uwalnianiu: 150 mg, 75 mg; Tabletki powlekane o przedłużonym uwalnianiu: 150 mg, 300 mg
+- **Valerianae extractum hydroalcoholicum siccum**: Tabletki drażowane: 441,35 mg, 445 mg; Tabletki powlekane: 200 mg, 355 mg, 385 mg
+- **Valerianae extractum hydroalcoholicum siccum + Lupuli floris extractum siccum**: Tabletki drażowane: 200 mg + 68 mg
+- **Valerianae radicis extractum hydroalcoholicum siccum**: Tabletki powlekane: 360 mg, 600 mg
+- **Valerianae radicis extractum siccum**: Tabletki drażowane: 200 mg
+- **Valerianae radicis extractum siccum + Lupuli floris extractum siccum**: Tabletki powlekane: 200,2 mg + 45,5 mg
+- **Valerianae tinctura + Crataegi tinctura + Lupuli strobili tinctura**: Syrop: (1032 mg + 903 mg + 645 mg)/5 ml
+- **Venlafaxinum**: Kapsułki o przedłużonym uwalnianiu: 150 mg, 37,5 mg, 75 mg; Kapsułki o przedłużonym uwalnianiu, twarde: 150 mg, 225 mg, 37,5 mg, 75 mg; Tabletki o przedłużonym uwalnianiu: 150 mg, 37,5 mg, 75 mg
+- **Vigabatrinum**: Granulat do sporządzania roztworu doustnego: 500 mg; Tabletki powlekane: 500 mg; Tabletki rozpuszczalne: 100 mg, 500 mg
+- **Vinpocetinum**: Koncentrat do przygotowania koncentratu do sporządzania roztworu do infuzji: 5 mg/ml; Koncentrat do sporządzania roztworu do infuzji: 5 mg/ml; Tabletki: 10 mg, 5 mg
+- **Vortioxetini hydrobromidum**: Krople doustne, roztwór: 20 mg/ml; Tabletki powlekane: 10 mg, 15 mg, 20 mg
+- **Vortioxetinum**: Tabletki powlekane: 10 mg, 15 mg, 20 mg, 5 mg
+- **Zaleplonum**: Kapsułki twarde: 10 mg
+- **Ziprasidonum**: Kapsułki twarde: 20 mg, 40 mg, 60 mg, 80 mg
+- **Zolpidemi tartras**: Tabletki powlekane: 10 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 5 mg
+- **Zonisamidum**: Kapsułki twarde: 100 mg, 25 mg, 50 mg
+- **Zopiclonum**: Tabletki powlekane: 3,75 mg, 5 mg, 7,5 mg
+- **Zuclopenthixoli acetas**: Roztwór do wstrzykiwań: 50 mg
+- **Zuclopenthixoli decanoas**: Roztwór do wstrzykiwań: 200 mg
+- **Zuclopenthixolum**: Tabletki powlekane: 10 mg, 25 mg
+- **Zuranolon**: Kapsułki twarde: 25 mg
+- **Zuranolonum**: Kapsułki twarde: 20 mg, 30 mg

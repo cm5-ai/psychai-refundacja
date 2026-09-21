@@ -1,0 +1,3 @@
+nowe_komunikaty 0
+produkty 2423 opakowania 6316 bledy 431 A1_bez_RPL 140
+BLOKADA: podejrzanie mało produktów albo dużo błędów parsowania

@@ -1,0 +1,157 @@
+# Komunikaty bezpieczeństwa — leki psychiatryczne (RPL)
+
+Stan RPL: 2026-09-22
+
+Pierwszy przebieg — stan wyjściowy, bez porównania.
+
+## Wszystkie produkty z komunikatami (149)
+
+- Convulex (Acidum valproicum, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/1569/file/1 - Komunikaty bezpieczeństwa
+- Convulex 150 (Acidum valproicum, 150 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/24812/file/1 - Komunikaty bezpieczeństwa
+- Convulex 300 (Acidum valproicum, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/1568/file/1 - Komunikaty bezpieczeństwa
+- Xanax (Alprazolamum, 1 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/19341/file/1 - Komunikaty bezpieczeństwa
+- Xanax (Alprazolamum, 2 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/7199/file/1 - Komunikaty bezpieczeństwa
+- Xanax (Alprazolamum, 250 mcg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/7200/file/1 - Komunikaty bezpieczeństwa
+- Xanax (Alprazolamum, 500 mcg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/7201/file/1 - Komunikaty bezpieczeństwa
+- Xanax SR (Alprazolamum, 0,5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/93/file/1 - Komunikaty bezpieczeństwa
+- Xanax SR (Alprazolamum, 1 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/8362/file/1 - Komunikaty bezpieczeństwa
+- Xanax SR (Alprazolamum, 2 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/24702/file/1 - Komunikaty bezpieczeństwa
+- Tegretol (Carbamazepinum, 20 mg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/6594/file/1 - Komunikat do fachowych pracowników ochrony zdrowia 28.06.2024 r. https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/6594/file/2 - Komunikat do fachowych pracowników ochrony zdrowia 23.12.2025 r.
+- Ontozry (Cenobamatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/45476/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Ontozry (Cenobamatum, 12,5 mg; 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/45074/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Ontozry (Cenobamatum, 150 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/45477/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Ontozry (Cenobamatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/45478/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Ontozry (Cenobamatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/45475/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Aurex 20 (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/12250/file/1 - Komunikaty bezpieczeństwa
+- Aurex 40 (Citalopramum, 40 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/12251/file/1 - Komunikaty bezpieczeństwa
+- Cipramil (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/112/file/1 - Komunikaty bezpieczeństwa
+- Citabax 10 (Citalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/12866/file/1 - Komunikaty bezpieczeństwa
+- Citabax 20 (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/19995/file/1 - Komunikaty bezpieczeństwa
+- Citabax 40 (Citalopramum, 40 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/12870/file/1 - Komunikaty bezpieczeństwa
+- Cital (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/10382/file/1 - Komunikaty bezpieczeństwa
+- Citalopram Vitabalans (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28169/file/1 - Komunikaty bezpieczeństwa
+- Citaxin (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/22258/file/1 - Komunikaty bezpieczeństwa
+- Citronil (Citalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17399/file/1 - Komunikaty bezpieczeństwa
+- Citronil (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17400/file/1 - Komunikaty bezpieczeństwa
+- Citronil (Citalopramum, 40 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17398/file/1 - Komunikaty bezpieczeństwa
+- Oropram 20 mg tabletki powlekane (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/15902/file/1 - Komunikaty bezpieczeństwa
+- Pram (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/13039/file/1 - Komunikaty bezpieczeństwa
+- Clopizam (Clozapinum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38360/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Clopizam (Clozapinum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38361/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Clopizam (Clozapinum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38358/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Clopizam (Clozapinum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38359/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Clozapine Hasco (Clozapinum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/44773/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Clozapine Hasco (Clozapinum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/44772/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Klozapol (Clozapinum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/3357/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Klozapol (Clozapinum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/3355/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Paxifar (Clozapinum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/43582/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Paxifar (Clozapinum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/43583/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Paxifar (Clozapinum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/43579/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Paxifar (Clozapinum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/43580/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
+- Symcloza (Clozapinum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38432/file/1 - DHPC Klozapina
+- Symcloza (Clozapinum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38433/file/1 - DHPC Klozapina
+- Symcloza (Clozapinum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38430/file/1 - DHPC Klozapina
+- Dexdor (Dexmedetomidinum, 100 mcg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/25478/file/1 - Komunikaty bezpieczeństwa
+- Dexmedetomidine Accord (Dexmedetomidinum, 100 mcg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/43335/file/1 - Komunikaty bezpieczeństwa
+- Dexmedetomidine Altan (Dexmedetomidinum, 4 mcg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/40598/file/1 - Komunikaty bezpieczeństwa
+- Dexmedetomidine EVER Pharma (Dexmedetomidinum, ): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/36865/file/1 - Komunikaty bezpieczeństwa
+- Dexmedetomidine Kalceks (Dexmedetomidinum, 100 mcg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/40521/file/1 - Komunikaty bezpieczeństwa
+- Aciprex (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/22155/file/1 - Komunikaty bezpieczeństwa
+- ApoEscitaxin ORO (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30545/file/1 - Komunikaty bezpieczeństwa
+- ApoEscitaxin ORO (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30548/file/1 - Komunikaty bezpieczeństwa
+- ApoEscitaxin ORO (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30544/file/1 - Komunikaty bezpieczeństwa
+- Betesda (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/31591/file/1 - Komunikaty bezpieczeństwa
+- Betesda (Escitalopramum, 20 mg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/29808/file/1 - Komunikaty bezpieczeństwa
+- Depralin (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21928/file/1 - Komunikaty bezpieczeństwa
+- Depralin ODT (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30362/file/1 - Komunikaty bezpieczeństwa
+- Depralin ODT (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30365/file/1 - Komunikaty bezpieczeństwa
+- Depralin ODT (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30360/file/1 - Komunikaty bezpieczeństwa
+- Elicea (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21959/file/1 - Komunikaty bezpieczeństwa
+- Elicea (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21960/file/1 - Komunikaty bezpieczeństwa
+- Elicea (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21958/file/1 - Komunikaty bezpieczeństwa
+- Elicea Q-Tab (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30256/file/1 - Komunikaty bezpieczeństwa
+- Elicea Q-Tab (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30257/file/1 - Komunikaty bezpieczeństwa
+- Elicea Q-Tab (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30258/file/1 - Komunikaty bezpieczeństwa
+- Elicea Q-Tab (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30247/file/1 - Komunikaty bezpieczeństwa
+- Escipram (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23787/file/1 - Komunikaty bezpieczeństwa
+- Escipram (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23788/file/1 - Komunikaty bezpieczeństwa
+- Escipram (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23789/file/1 - Komunikaty bezpieczeństwa
+- Escipram (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17869/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Actavis (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23979/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Actavis (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23980/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Actavis (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23978/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Aurovitas (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/34864/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Aurovitas (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/34865/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Aurovitas (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/34866/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Bluefish (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/32427/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Bluefish (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/32428/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram Genoptim (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38644/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram LEK-AM (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/33959/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram LEK-AM (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/33960/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram LEK-AM (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/33962/file/1 - Komunikaty bezpieczeństwa
+- Escitalopram LEK-AM (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/33958/file/1 - Komunikaty bezpieczeństwa
+- Escitil (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21784/file/1 - Komunikaty bezpieczeństwa
+- Escitil (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21781/file/1 - Komunikaty bezpieczeństwa
+- Lexapro (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/18266/file/1 - Komunikaty bezpieczeństwa
+- Mozarin (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21682/file/1 - Komunikaty bezpieczeństwa
+- Mozarin (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21681/file/1 - Komunikaty bezpieczeństwa
+- Mozarin (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21684/file/1 - Komunikaty bezpieczeństwa
+- Mozarin Swift (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30560/file/1 - Komunikaty bezpieczeństwa
+- Mozarin Swift (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30563/file/1 - Komunikaty bezpieczeństwa
+- Nexpram (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23991/file/1 - Komunikaty bezpieczeństwa
+- Nexpram (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23992/file/1 - Komunikaty bezpieczeństwa
+- Oroes (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/30792/file/1 - Komunikaty bezpieczeństwa
+- Pralex (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/27432/file/1 - Komunikaty bezpieczeństwa
+- Pralex (Escitalopramum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/27437/file/1 - Komunikaty bezpieczeństwa
+- Pralex (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/27441/file/1 - Komunikaty bezpieczeństwa
+- Pralex (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/27425/file/1 - Komunikaty bezpieczeństwa
+- Pramatis (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/25426/file/1 - Komunikaty bezpieczeństwa
+- Pramatis (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/25429/file/1 - Komunikaty bezpieczeństwa
+- Symescital (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28625/file/1 - Komunikaty bezpieczeństwa
+- Symescital (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28624/file/1 - Komunikaty bezpieczeństwa
+- Absenor (Natrii valproas, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16807/file/1 - Komunikaty bezpieczeństwa
+- Absenor (Natrii valproas, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16898/file/1 - Komunikaty bezpieczeństwa
+- Convival Chrono (Natrii valproas, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/41304/file/1 - Komunikaty bezpieczeństwa
+- Convival Chrono (Natrii valproas, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/26533/file/1 - Komunikaty bezpieczeństwa
+- Convulex (Natrii valproas, 50 mg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/20449/file/1 - Komunikaty bezpieczeństwa
+- Depakine (Natrii valproas, 288,2 mg/5 ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/1770/file/1 - Komunikaty bezpieczeństwa
+- Depakine (Natrii valproas, 400 mg (400 mg/4 ml)): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/7506/file/1 - Komunikaty bezpieczeństwa
+- ValproLEK 300 (Natrii valproas, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16354/file/1 - Komunikaty bezpieczeństwa
+- ValproLEK 500 (Natrii valproas, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16355/file/1 - Komunikaty bezpieczeństwa
+- Depakine Chrono 300 (Natrii valproas + Acidum valproicum, 200 mg + 87 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/1779/file/1 - Komunikaty bezpieczeństwa
+- Depakine Chrono 500 (Natrii valproas + Acidum valproicum, 333 mg + 145 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/24760/file/1 - Komunikaty bezpieczeństwa
+- Depakine Chronosphere 100 (Natrii valproas + Acidum valproicum, (66,66 mg + 29,03 mg)/sasz.): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/15624/file/1 - Komunikaty bezpieczeństwa
+- Depakine Chronosphere 1000 (Natrii valproas + Acidum valproicum, (666,60 mg + 290,27 mg)/sasz.): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/15703/file/1 - Komunikaty bezpieczeństwa
+- Depakine Chronosphere 250 (Natrii valproas + Acidum valproicum, (166,76 mg + 72,61 mg)/sasz.): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/15625/file/1 - Komunikaty bezpieczeństwa
+- Depakine Chronosphere 500 (Natrii valproas + Acidum valproicum, (333,30 mg + 145,14 mg)/sasz.): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/15699/file/1 - Komunikaty bezpieczeństwa
+- Depakine Chronosphere 750 (Natrii valproas + Acidum valproicum, (500,06 mg + 217,75 mg)/sasz.): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/15701/file/1 - Komunikaty bezpieczeństwa
+- Serdolect (Sertindolum, 12 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/12845/file/1 - Komunikaty bezpieczeństwa
+- Serdolect (Sertindolum, 16 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/12844/file/1 - Komunikaty bezpieczeństwa
+- Serdolect (Sertindolum, 4 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/12846/file/1 - Komunikaty bezpieczeństwa
+- Epitoram (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/7147/file/1 - Komunikaty bezpieczeństwa
+- Epitoram (Topiramatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/7514/file/1 - Komunikaty bezpieczeństwa
+- Epitoram (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/2237/file/1 - Komunikaty bezpieczeństwa
+- Epitoram (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/6232/file/1 - Komunikaty bezpieczeństwa
+- Etopro (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17662/file/1 - Komunikaty bezpieczeństwa
+- Etopro (Topiramatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17664/file/1 - Komunikaty bezpieczeństwa
+- Etopro (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17659/file/1 - Komunikaty bezpieczeństwa
+- Etopro (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17660/file/1 - Komunikaty bezpieczeństwa
+- Oritop (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21265/file/1 - Komunikaty bezpieczeństwa
+- Oritop (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21260/file/1 - Komunikaty bezpieczeństwa
+- Oritop (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21264/file/1 - Komunikaty bezpieczeństwa
+- Topamax (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/8026/file/1 - Komunikaty bezpieczeństwa
+- Topamax (Topiramatum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23945/file/1 - Komunikaty bezpieczeństwa
+- Topamax (Topiramatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/8027/file/1 - Komunikaty bezpieczeństwa
+- Topamax (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/8024/file/1 - Komunikaty bezpieczeństwa
+- Topamax (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/10018/file/1 - Komunikaty bezpieczeństwa
+- Topamax (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/8025/file/1 - Komunikaty bezpieczeństwa
+- Topiramate Aurovitas (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/42609/file/1 - Komunikaty bezpieczeństwa
+- Topiramate Aurovitas (Topiramatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/42610/file/1 - Komunikaty bezpieczeństwa
+- Topiramate Aurovitas (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/42607/file/1 - Komunikaty bezpieczeństwa
+- Topiramate Aurovitas (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/42608/file/1 - Komunikaty bezpieczeństwa
+- Toramat (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/20022/file/1 - Komunikaty bezpieczeństwa
+- Toramat (Topiramatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/20040/file/1 - Komunikaty bezpieczeństwa
+- Toramat (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/20041/file/1 - Komunikaty bezpieczeństwa
+- Toramat (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/20016/file/1 - Komunikaty bezpieczeństwa
+- Sabril (Vigabatrinum, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/5922/file/1 - Komunikaty bezpieczeństwa
+- Sabril (Vigabatrinum, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/9734/file/1 - Komunikaty bezpieczeństwa
