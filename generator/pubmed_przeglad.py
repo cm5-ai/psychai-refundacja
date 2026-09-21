@@ -54,6 +54,11 @@ def main():
     R = ["# Przegląd PubMed — %s (ostatnie %d dni)" % (dzis, DNI), "",
          "Tylko wytyczne, metaanalizy, przeglądy systematyczne i RCT. Bez abstraktów. Nic nie zmienia kart automatycznie.", "",
          "Razem: %d | " % len(rek) + " | ".join("%s: %d" % (p, licz.get(p, 0)) for p in poz if licz.get(p)), ""]
+    LEKI = {l.split("|")[0].strip() for l in open("zrodla/pubmed_tematy.txt", encoding="utf-8") if "|" in l and not l.startswith("#") and l.split("|")[0].strip().isupper() and l.split("|")[0].strip() not in ("DEPRESJA", "DEPRESJA-LEKOOPORNA", "CHAD", "SCHIZOFRENIA", "LĘK", "OCD", "PTSD", "ADHD-DOROŚLI", "BEZSENNOŚĆ", "OKOŁOPORODOWE")}
+    top = [r for r in rek if r["poziom"] in ("WYTYCZNE", "METAANALIZA", "PRZEGLĄD SYST.") and LEKI & set(r["tematy"])]
+    if top:
+        R += ["## NAJPIERW PRZECZYTAJ — farmakoterapia, wysoki poziom dowodu (%d)" % len(top), ""]
+        R += ["- **%s** — %s — [PMID %s](https://pubmed.ncbi.nlm.nih.gov/%s/) — _%s_" % (r["tytul"], r["czasopismo"], r["pmid"], r["pmid"], ", ".join(r["tematy"])) for r in top] + [""]
     for p in poz:
         grupa = [r for r in rek if r["poziom"] == p]
         if not grupa: continue
