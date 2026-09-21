@@ -10,15 +10,17 @@ def parse(s):
     for i, m in enumerate(ms):
         body = s[m.end(): ms[i + 1].start() if i + 1 < len(ms) else len(s)]
         f = [x.strip() for x in body.split('¦')]
-        status, pozw, pid, opis = None, None, None, ""
+        status, pozw, pid, opis, uwaga = None, None, None, "", None
         for j, x in enumerate(f):
-            if re.fullmatch(r'[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż ]+', x): status = x; continue
+            if re.fullmatch(r'[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż]+', x): status = x; continue
+            if re.fullmatch(r'[A-Za-zĄĆĘŁŃÓŚŹŻąćęłńóśźż .&-]+', x): uwaga = x; continue
             if re.match(r'EU/\d', x): pozw = x; continue
             mm = re.match(r'(\d+)\s*(.*)', x, re.S)
             if mm: pid = mm.group(1); opis = " ".join([mm.group(2)] + f[j + 1:]); break
             opis = " ".join(f[j:]); break
         out.append({"gtin": m.group(1).zfill(14) if m.group(1) else None, "kategoria": m.group(2), "status": status,
-                    "pozwolenie_eu": pozw, "id_opakowania": pid, "opis": " ".join(opis.replace('¦', ' ').split())})
+                    "pozwolenie_eu": pozw, "id_opakowania": pid, "opis": " ".join(opis.replace('¦', ' ').split()),
+                    **({"uwaga": uwaga} if uwaga else {})})
     return out
 
 def main(csv_path, refund_path, out_json, out_md):
