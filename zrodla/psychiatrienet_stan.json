@@ -1,0 +1,35 @@
+{
+ "pary": {
+  "amitriptyline-moclobemide": "73d90906dbbd2038315c7f1bb458053ea0a08e30e56db778beed935ea36866cc",
+  "clomipramine-moclobemide": "ffcf40413aecf0b5dfca9c9bd220c308a3775600ed2e6ef899c2f6c31ef22f96",
+  "clozapine-amisulpride": "d78e53a0a41190aad376518c47c047529d4346d6b9d690e90c7e81ac2cfc40a7",
+  "clozapine-haloperidol": "1f2b42f08fa0da5dcb35bb6ffcb88c1f03e37b87a4cc5af78423784ee03e5f9c",
+  "clozapine-olanzapine": "2869caf907d8d061aa3fb1fd236d1c3d1563464aefbd8c96c4712d3b11a2538e",
+  "clozapine-partial-agonist": "ef067e3e0cbb4135a380e6f9d5c8eef705aea31c632ffc1aec734b9726fced35",
+  "clozapine-quetiapine": "8086a4c84e99e8bdfe9451ecfc527a19ba34866ef50206295e3b130dd8b5661f",
+  "clozapine-risperidone": "7235127b67d4ee056a04f4197fbfaa3c69b2f741d6532995edec8329a6b4466c",
+  "duloxetine-moclobemide": "6bc6fcd15dbb56abcf0387c21ee99794af9fc9f29f46af73751632359eb8e1a3",
+  "escitalopram-moclobemide": "b8a2f1e43499b62486904d8dbb2b65eed88919ceabd3efaa104d09a047abc7f8",
+  "fluoxetine-moclobemide": "160ba1baa90574e5a931f9a13d9e04fbbae77990b49ac0f5ac94b483a8455a7b",
+  "fluoxetine-sertraline": "ce732fd96c89871e016f69ab65b2dbe7c5796c8d5f675e7a949b9d12672ac814",
+  "fluoxetine-tranylcypromine": "ba71a3a5c8f05f27f01cfd6b51169db8c926197a756de79b8751caa746eeaf05",
+  "moclobemide-escitalopram": "833eeec881cc8d92c9d3507822b9df94c2420ab615fbe939142be9e1b539365b",
+  "moclobemide-mirtazapine": "da967f38765a4308b78f9c619a617cba53a815429f14fedbf3e24808ff79c806",
+  "moclobemide-sertraline": "e6c35daea77b41c7e5f764ea3100662756872fc27df7818dacc2c9ca85a28bb1",
+  "moclobemide-venlafaxine": "6154d28e8880a09079d09c79c91ec0989f617e5b57cb1dc525b1e27987ba5e69",
+  "olanzapine-quetiapine": "8aa10a4bf53aa4e4275b039cb3b548284d3086644e2491b0b2359a893f3f8c84",
+  "olanzapine-risperidone": "08e8d042a42b54837ce53c7ac1646536fffe393a206957ed69bf784fa3bb107a",
+  "sertraline-moclobemide": "57d05d8878f7adf4b065323e1ca117282dba8eda5e82d09de83d03ef2cd43f70",
+  "venlafaxine-moclobemide": "296e28c00de8c4c7768ea5f61628ae2b863b588ed0aad50c871185882b2186c1"
+ },
+ "tabele": {
+  "SwitchAntidepressants": {
+   "liczba_par": 601,
+   "sha256": "80ecdb7ae11560b06d71c56cd7a33a42e74e31d33b83ed4757366efcfbfc2776"
+  },
+  "SwitchAntipsychotics": {
+   "liczba_par": 363,
+   "sha256": "0ab70050ba6e801592ccc4858dfa1fef0fefbe0e12a5e2a021ab47b154b5d76c"
+  }
+ }
+}

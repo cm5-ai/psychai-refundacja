@@ -1,0 +1,3 @@
+pierwszy przebieg — stan wyjściowy
+pary w tabelach: 964; pary z indeksu 19 sprawdzone: 21/21
+bez zmian
