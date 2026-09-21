@@ -1,0 +1,42 @@
+name: LactMed (laktacja)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * 2"   # co wtorek ok. 7:00 czasu polskiego
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  lactmed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pobierz LactMed (NCBI LitArch)
+        run: |
+          curl -sSfL --retry 3 -o fl.csv https://ftp.ncbi.nlm.nih.gov/pub/litarch/file_list.csv
+          L=$(grep ",NBK501922," fl.csv | head -1)
+          P=$(echo "$L" | cut -d, -f1); U=$(echo "$L" | awk -F, '{print $NF}' | cut -c1-10)
+          test -n "$P" || { echo "BLOKADA: brak LactMed w file_list"; exit 2; }
+          curl -sSfL --retry 3 -o lm.tgz "https://ftp.ncbi.nlm.nih.gov/pub/litarch/$P"
+          echo "ZDATA=$U" >> $GITHUB_ENV; echo "ZSHA=$(sha256sum lm.tgz | cut -c1-64)" >> $GITHUB_ENV
+          mkdir x && tar xzf lm.tgz -C x --wildcards '*.nxml'
+      - name: Zbuduj baze
+        run: |
+          mkdir -p wyniki
+          python3 generator/lactmed.py x/lactmed_NBK501922 lactmed "$ZDATA" "$ZSHA" 2>&1 | tee wyniki/lactmed.log
+          exit ${PIPESTATUS[0]}
+      - name: Zapisz w repozytorium
+        if: always()
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          if [ "${{ job.status }}" = "success" ]; then git add lactmed/ wyniki/; else git add wyniki/; fi
+          git commit -qm "LactMed $(TZ=Europe/Warsaw date +%F) ${{ job.status }}" && git push || true
+      - name: Powiadom o bledzie
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --title "LactMed - blad aktualizacji $(TZ=Europe/Warsaw date +%F)" --body "Zobacz Actions, LactMed. Wizyty korzystaja z poprzedniej wersji."
