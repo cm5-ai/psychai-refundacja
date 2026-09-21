@@ -1,0 +1,36 @@
+name: Obserwuj wykaz MZ
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 5 * * *"   # codziennie ok. 7:30 czasu polskiego
+
+jobs:
+  sprawdz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Czy MZ opublikował nowszy wykaz?
+        run: |
+          python3 - <<'PY'
+          import re, sys, urllib.request, html
+          URL = "https://www.gov.pl/web/zdrowie/obwieszczenia-ministra-zdrowia-lista-lekow-refundowanych"
+          M = {"stycznia":1,"kwietnia":4,"lipca":7,"października":10}
+          try:
+              req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0 (psychai-refundacja watcher)"})
+              t = html.unescape(urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace"))
+          except Exception as e:
+              print(f"::error::Nie mogę otworzyć strony MZ ({e}). Sprawdź ręcznie: {URL}"); sys.exit(1)
+          found = {(int(y), M[m]) for m, y in re.findall(r"na 1 (stycznia|kwietnia|lipca|października) (\d{4})", t)}
+          if not found:
+              print(f"::error::Strona MZ otwarta, ale nie znalazłem żadnego obwieszczenia 'na 1 ... RRRR'. Układ strony mógł się zmienić: {URL}"); sys.exit(1)
+          m, y = open("zrodla/ostatni_wykaz.txt", encoding="utf-8").read().split()[1:3]
+          known = (int(y), M[m])
+          newest = max(found)
+          print("Znany wykaz:", known, " najnowszy na stronie MZ:", newest)
+          if newest > known:
+              name = [k for k, v in M.items() if v == newest[1]][0]
+              print(f"::error::NOWY WYKAZ MZ na 1 {name} {newest[0]}. Pobierz załącznik xlsx i przekaż do przebudowy danych.")
+              sys.exit(1)
+          print("Brak nowego wykazu.")
+          PY
