@@ -1,0 +1,35 @@
+name: Sonda LactMed
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sprawdz dostep do LactMed
+        run: |
+          mkdir -p wyniki; O=wyniki/lactmed_sonda.txt; : > $O
+          echo "== file_list.csv" >> $O
+          curl -sSfL --retry 3 -o fl.csv https://ftp.ncbi.nlm.nih.gov/pub/litarch/file_list.csv && head -2 fl.csv >> $O && wc -l fl.csv >> $O || echo "BLAD file_list" >> $O
+          echo "== wpisy LactMed" >> $O
+          grep -i -E "NBK501922|lactmed|Drugs and Lactation" fl.csv | head -20 >> $O || echo "brak" >> $O
+          P=$(grep -i -E "NBK501922|Drugs and Lactation" fl.csv | head -1 | cut -d, -f1 | tr -d '"')
+          echo "== sciezka: $P" >> $O
+          if [ -n "$P" ]; then
+            curl -sSfL --retry 3 -o lm.tgz "https://ftp.ncbi.nlm.nih.gov/pub/litarch/$P" && ls -la lm.tgz >> $O
+            tar tzf lm.tgz > lista.txt; wc -l lista.txt >> $O; head -40 lista.txt >> $O
+            echo "== pliki sertraline/quetiapine" >> $O; grep -i -E "sertral|quetiap" lista.txt | head >> $O
+            mkdir x && tar xzf lm.tgz -C x
+            F=$(grep -ril "sertraline" x | head -1); echo "== probka: $F" >> $O; head -c 6000 "$F" >> $O
+          fi
+          echo "" >> $O; echo "== eutils" >> $O
+          curl -s -m 30 "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=books&term=sertraline%5Btitle%5D+AND+lactmed&retmode=json" | head -c 1500 >> $O
+      - name: Zapisz
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          git add wyniki/lactmed_sonda.txt && git commit -m "Sonda LactMed" && git push || true
