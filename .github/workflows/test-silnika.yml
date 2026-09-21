@@ -1,0 +1,62 @@
+name: Test silnika refundacji
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * *"   # codziennie ok. 7:00 czasu polskiego
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sumy kontrolne zgodne z PIN w 39 (wykaz 84W)
+        run: |
+          echo "a9f1350e4a63de8f6ae1cdc989a7a3fa66da1838df9919df3e891d27a8e7cfd2  REFUNDACJA_ENGINE.py" > piny.txt
+          echo "890ffe792d714a86751082bfa19447192a61300a4751c0b0a603d8416a7acc5c  REFUNDACJA_DATA.json" >> piny.txt
+          sha256sum -c piny.txt || { echo "::error::Plik różni się od PIN w 39. Zmiana danych/silnika wymaga nowego PIN w 39."; exit 1; }
+
+      - name: Przypadki wzorcowe (84W)
+        run: |
+          mkdir -p ds && cp REFUNDACJA_DATA.json ds/
+          python3 - <<'PY'
+          import json, subprocess, sys, datetime
+          vf = json.load(open("REFUNDACJA_DATA.json"))["metadata"]["valid_from"]
+          today = max(datetime.date.today().isoformat(), vf)   # przed wejściem w życie testujemy na dzień wejścia
+          CASES = [
+            ("arypiprazol + F22",  {"query":{"medication":"arypiprazol"},"icd10_confirmed":["F22"]}, "TAK"),
+            ("olanzapina + F20",   {"query":{"medication":"olanzapina"},"icd10_confirmed":["F20"]},  "TAK"),
+            ("sertralina + F32",   {"query":{"medication":"sertralina"},"icd10_confirmed":["F32"]},  "TAK"),
+            ("arypiprazol bez ICD",{"query":{"medication":"arypiprazol"},"icd10_confirmed":[]},      "DO_UZUPELNIENIA"),
+            ("lek nieznany",       {"query":{"medication":"xyzlek"},"icd10_confirmed":["F32"]},      "BRAK_DANYCH"),
+            ("usuniety Masultab 200",{"query":{"medication":"Masultab 200"},"icd10_confirmed":["F20"]},"NIE"),
+          ]
+          bad = 0
+          print("Data testu:", today)
+          for name, case, want in CASES:
+              json.dump(case, open("case.json","w"))
+              p = subprocess.run([sys.executable,"REFUNDACJA_ENGINE.py","--dataset-dir","ds","--case","case.json","--today",today],capture_output=True,text=True)
+              try:
+                  got = json.loads(p.stdout)["summary"].get("refundation_status")
+              except Exception:
+                  got = "BLAD: " + (p.stderr.strip().splitlines() or ["brak wyjscia"])[-1]
+              ok = got == want
+              bad += not ok
+              print(("OK   " if ok else "BLAD ") + f"{name}: oczekiwane {want}, jest {got}")
+          sys.exit(1 if bad else 0)
+          PY
+
+      - name: Aktualność wykazu (alarm 7 dni przed terminem)
+        run: |
+          python3 - <<'PY'
+          import json, datetime, sys
+          m = json.load(open("REFUNDACJA_DATA.json"))["metadata"]
+          until = datetime.date.fromisoformat(m["freshness_manifest"]["check_valid_until"])
+          left = (until - datetime.date.today()).days
+          print(f"Wykaz {m.get('designation')} od {m.get('valid_from')}, sprawdzać do {until}, zostało dni: {left}")
+          if left <= 7:
+              print(f"::error::Za {left} dni silnik przestanie wydawać TAK/NIE. Potrzebny nowy wykaz MZ.")
+              sys.exit(1)
+          PY
