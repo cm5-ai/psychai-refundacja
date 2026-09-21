@@ -34,7 +34,9 @@ def main(csv_path, refund_path, out_json, out_md):
                       "moc": r["Moc"].strip(), "postac": r["Postać farmaceutyczna"].strip(), "atc": atcs,
                       "podmiot": r["Podmiot odpowiedzialny"].strip(), "pozwolenie": r["Numer pozwolenia"].strip(),
                       "waznosc_pozwolenia": r["Ważność pozwolenia"].strip(),
-                      "chpl": r["Charakterystyka"].strip(), "ulotka": r["Ulotka"].strip(), "opakowania": pk})
+                      "chpl": r["Charakterystyka"].strip(), "ulotka": r["Ulotka"].strip(),
+                      "komunikaty_bezpieczenstwa": [k for k in re.split(r'\s+', (r.get("Komunikaty bezpieczeństwa") or "").strip()) if k],
+                      "opakowania": pk})
     prods.sort(key=lambda p: (p["nazwa_powszechna"].lower(), p["nazwa"].lower(), p["moc"]))
     m = re.search(r'(\d{8})', csv_path)
     meta = {"zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
@@ -43,6 +45,23 @@ def main(csv_path, refund_path, out_json, out_md):
             "refundacja_dataset_id": ref['metadata']['dataset_id'],
             "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
             "produkty": len(prods), "opakowania": sum(len(p["opakowania"]) for p in prods), "bledy_parsowania_opakowan": bad_pkg}
+    # komunikaty bezpieczeństwa: porównanie z poprzednim spisem
+    try:
+        old = json.load(open(out_json, encoding='utf-8'))
+        old_k = {(p["id"], k) for p in old["produkty"] for k in p.get("komunikaty_bezpieczenstwa", [])}
+        pierwszy = "komunikaty_bezpieczenstwa" not in (old["produkty"][0] if old["produkty"] else {})
+    except Exception:
+        old_k, pierwszy = set(), True
+    nowe_k = [(p, k) for p in prods for k in p["komunikaty_bezpieczenstwa"] if (p["id"], k) not in old_k]
+    meta["komunikaty_produkty"] = sum(1 for p in prods if p["komunikaty_bezpieczenstwa"])
+    meta["nowe_komunikaty"] = 0 if pierwszy else len(nowe_k)
+    K = ["# Komunikaty bezpieczeństwa — leki psychiatryczne (RPL)", "", "Stan RPL: %s" % meta["stan_na_dzien"], ""]
+    if pierwszy: K += ["Pierwszy przebieg — stan wyjściowy, bez porównania.", ""]
+    elif nowe_k: K += ["## NOWE od poprzedniego spisu (%d)" % len(nowe_k), ""] + ["- **%s** (%s, %s) — %s" % (p["nazwa"], p["nazwa_powszechna"], p["moc"], k) for p, k in nowe_k] + [""]
+    else: K += ["Brak nowych komunikatów od poprzedniego spisu.", ""]
+    K += ["## Wszystkie produkty z komunikatami (%d)" % meta["komunikaty_produkty"], ""]
+    K += ["- %s (%s, %s): %s" % (p["nazwa"], p["nazwa_powszechna"], p["moc"], " ".join(p["komunikaty_bezpieczenstwa"])) for p in prods if p["komunikaty_bezpieczenstwa"]]
+    open(out_md.replace("RAPORT.md", "KOMUNIKATY.md"), 'w', encoding='utf-8').write("\n".join(K) + "\n")
     out = json.dumps({"metadata": meta, "produkty": prods}, ensure_ascii=False, indent=1) + "\n"
     open(out_json, 'w', encoding='utf-8').write(out)
     # raport
@@ -60,6 +79,8 @@ def main(csv_path, refund_path, out_json, out_md):
     for s in sorted(subst, key=str.lower):
         R.append("- **%s**: " % s + "; ".join("%s: %s" % (f, ", ".join(sorted(v))) for f, v in sorted(subst[s].items())))
     open(out_md, 'w', encoding='utf-8').write("\n".join(R) + "\n")
+    print("nowe_komunikaty", meta["nowe_komunikaty"])
+    if meta["nowe_komunikaty"]: open("NOWE_KOMUNIKATY", "w").write(str(meta["nowe_komunikaty"]))
     print("produkty", meta["produkty"], "opakowania", meta["opakowania"], "bledy", bad_pkg, "A1_bez_RPL", len(A1_bez_rpl))
     if meta["produkty"] < 300 or bad_pkg > meta["produkty"] * 0.05: print("BLOKADA: podejrzanie mało produktów albo dużo błędów parsowania"); sys.exit(2)
 
