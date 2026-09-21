@@ -1,0 +1,44 @@
+{
+ "id": "LM892",
+ "tytul": "Alemtuzumab",
+ "synonimy": [
+  "Alemtuzumab",
+  "Lemtrada",
+  "Campath",
+  "Campath 1H",
+  "Campath-1H",
+  "Campath 1H/LDP03",
+  "UNII-3A189DH42V",
+  "Alemtuzumab [USAN:INN:BAN]",
+  "LDP-03",
+  "HSDB 8177",
+  "3A189DH42V",
+  "216503-57-0",
+  "Immunoglobulin G 1 (human-rat monoclonal CAMPATH-1H gamma1-chain anti-human antigen CD52), disulfide with human-rat monoclonal CAMPATH-1H light chain, dimer. Molecular weight is approximately 150,000 daltons",
+  "Immunoglobulin G1, anti-(human CD52 (antigen)) (human-rat monoclonalCAMPATH-1H gamma1-chain), disulfide with human-rat monoclonal CAMPATH-1H light chain, dimer"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM892/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of alemtuzumab during breastfeeding. Because alemtuzumab is a large protein molecule with a molecular weight of 145,454 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, alemtuzumab should be used with caution or avoided in nursing mothers during treatment for multiple sclerosis, especially while nursing a newborn or preterm infant. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant. The manufacturer recommends that women not breastfeed during treatment and for at least 3 months following the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Multiple Sclerosis) Glatiramer, Immune Globulin, Interferon Beta"
+  ]
+ ]
+}

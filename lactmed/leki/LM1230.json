@@ -1,0 +1,68 @@
+{
+ "id": "LM1230",
+ "tytul": "Deferoxamine",
+ "synonimy": [
+  "deferoxamine",
+  "Deferoxamin",
+  "Desferrioxamine B",
+  "Deferoxaminum",
+  "Deferrioxamine",
+  "Deferoxamine B",
+  "DESFERRIOXAMINE",
+  "Deferrioxamine B",
+  "Desferin",
+  "Desferral",
+  "Desferrin",
+  "Desferan",
+  "Desferex",
+  "DFOM",
+  "Deferoxamina",
+  "N-Benzoylferrioxamine B",
+  "DF B",
+  "Desferriferrioxamin B",
+  "Ferrioxamine B, N-benzoyl-",
+  "Deferoxamine [USAN:INN]",
+  "UNII-J06Y7MXW4D",
+  "70-51-9",
+  "Deferoxaminum [INN-Latin]",
+  "Deferoxamina [INN-Spanish]",
+  "J06Y7MXW4D",
+  "NSC-527604",
+  "HSDB 3311",
+  "EINECS 200-738-5",
+  "Ba 33112",
+  "BRN 2514118",
+  "EC 200-738-5",
+  "3,9,14,20,25-Pentaazatriacontane-2,10,13,21,24-pentone, 30-amino-3,14,25-trihydroxy-",
+  "30-Amino-3,14,25-trihydroxy-3,9,14,20,25-pentaazatriacontane-2,10,13,21,24-pentaone",
+  "Butanediamide, N'-(5-((4-((5-(acetylhydroxyamino)pentyl)amino)-1,4-dioxobutyl)hydroxyamino)pentyl)-N-(5-aminopentyl)-N-hydroxy-",
+  "1-Amino-6,17-dihydroxy-7,10,18,21-tetraoxo-27-(N-acetyl hydroxylamino)-6,11,17,22-tetraazaheptaeicosane",
+  "N'-(5-((4-((5-(Acetylhydroxamino)pentyl)amino)-1,4-dioxobutyl) hydroxyamino)pentyl)-N-(5-aminopentyl)-N-hydroxybutanediamide",
+  "N-(5-(3-((5-Aminopentyl)hydroxycarbamoyl)propionamido)pentyl)-3-((5-(N-hydroxyacetamido)pentyl)carbamoyl)propionohydroxamic acid",
+  "Propionohydroxamic acid, N-(5-(3-((5-aminopentyl)hydroxycarbamoyl)propionamido)pentyl)-3-((5-(N-hydroxyacetamido)pentyl)carbamoyl)-"
+ ],
+ "zaktualizowano": "2021-07-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1230/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Deferoxamine is poorly absorbed orally, so it is not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. Limited information indicates that maternal doses of deferoxamine up to 2 grams daily do not affect iron levels in breastmilk and did not cause any adverse effects in two breastfed infants. Some experts advocate breastfeeding in women receiving deferoxamine for iron overload caused by beta-thalassemia. However, since little published information is available on the use of deferoxamine during breastfeeding, monitoring of the infant's serum iron is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with beta-thalassemia restarted deferoxamine 2 grams subcutaneously daily for 5 days per week 3 days after delivery. Milk was collected on days 5 and 9 postpartum and 11 weeks postpartum. Iron levels in milk were 0.7, 10.4 and 4.8 micromoles/L, respectively (normal range 7.7 to 22.4 micromoles/L).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with beta-thalassemia restarted deferoxamine 2 grams subcutaneously 5 days per week 3 days after delivery. She breastfed (extent not stated) one of her twins from birth. After 17 days of breastfeeding, the infant's serum levels were as follows: iron 17.4 micromoles/L, ferritin 200 mcg/L, and transferrin16.8 micromoles/L, all in the normal range. Serum urea, calcium and magnesium were also normal. The second twin was hospitalized for longer and breastfeeding status in the hospital was not reported. Both infants were breastfed (extent not stated) for 4 months postpartum. Both had normal neurologic and motor development at 4 months and laboratory values consistent with their heterozygous beta-thalassemia: hemoglobin F 11.1% and 8.4%, hemoglobin 10.5 g/L and 10.5 g/L, reticulocytes 3.3% and 2.6%, and median erythrocyte volume 60 fL and 58 fL. Their serum levels of iron, ferritin, transferrin, liver enzymes, plasma urea and bilirubin were all normal.\nA woman with beta-thalassemia gave birth to an infant by cesarean section and breastfed her infant (extent not stated) from birth while receiving deferoxamine (dosage not stated). No adverse effects were reported in her infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Deferasirox"
+  ]
+ ]
+}

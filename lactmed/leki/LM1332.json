@@ -1,0 +1,41 @@
+{
+ "id": "LM1332",
+ "tytul": "Sugammadex",
+ "synonimy": [
+  "Sugammadex",
+  "Bridion",
+  "UNII-361LPM2T56",
+  "CHEBI:90953",
+  "DTXSID90895043",
+  "sugammadexum",
+  "RefChem:58917",
+  "GlyTouCan:G57251IS",
+  "V03AB35",
+  "DTXCID901324600",
+  "G57251I3-[[(1S,3S,5S,6S,8S,10S,11S,13S,15S,16S,18S,20S,21S,23S,25S,26S,28S,30S,31S,33S,35S,36S,38S,40S,41R,42R,43R,44R,45R,46R,47R,48R,49R,50R,51R,52R,53R,54R,55R,56R)-10,15,20,25,30,35,40-heptakis(2-carboxyethylsulfanylmethyl)-41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56-hexadecahydroxy-2,4,7,9,12,14,17,19,22,24,27,29,32,34,37,39-hexadecaoxanonacyclo[36.2.2.23,6.28,11.213,16.218,21.223,26.228,31.233,36]hexapentacontan-5-yl]methylsulfanyl]propanoic acid"
+ ],
+ "zaktualizowano": "2026-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1332/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Negligible amounts of sugammadex are excreted into breastmilk after usual doses. Because sugammadex is a large, highly polar molecule with a molecular weight of 2002 Da, oral absorption by the infant is unlikely. Sugammadex is acceptable to use during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Women undergoing cesarean section who received general anesthesia and neuromuscular block with rocuronium donated breastmilk samples at one (n = 8) and six (n = 8) hours following sugammadex administration in a median dose of 2.56 mg/kg. All patients received a 200 mg dose, and one received an additional 200 mg dose in the PACU. Of the eight 1-hour samples, sugammadex was undetectable in seven breastmilk samples and unquantifiable (<1 mg/L) in one sample. Of the eight samples obtained at 6 hours, sugammadex was undetectable in seven breastmilk samples and unquantifiable (<1 mg/L) in one (12.5%) sample.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A study compared sugammadex to neostigmine in their effects on lactation-related hormones in women undergoing cesarean section surgery under general anesthesia. Both groups showed significant decreases in progesterone and estradiol levels after surgery compared to preoperative values; however, the sugammadex group exhibited a significantly greater decrease. Aldosterone levels reached their highest point at the end of surgery, but by 4 hours later they were lower than before surgery, especially in the sugammadex group. Cortisol showed a temporary postoperative elevation, whereas prolactin and oxytocin levels rose in both groups, with no significant intergroup variations."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Neostigmine"
+  ]
+ ]
+}

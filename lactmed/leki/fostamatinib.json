@@ -1,0 +1,36 @@
+{
+ "id": "fostamatinib",
+ "tytul": "Fostamatinib",
+ "synonimy": [
+  "Fostamatinib",
+  "Tavalisse",
+  "Tavlesse",
+  "[6-[[5-fluoro-2-(3,4,5-trimethoxyanilino)pyrimidin-4-yl]amino]-2,2-dimethyl-3-oxopyrido[3,2-b][1,4]oxazin-4-yl]methyl dihydrogen phosphate",
+  "R788",
+  "R 788",
+  "R-788",
+  "UNII-SQ8A3S5101",
+  "SQ8A3S5101",
+  "R7935788"
+ ],
+ "zaktualizowano": "2023-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/fostamatinib/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of fostamatinib during breastfeeding. Because the active metabolite of fostamatinib (R406) is 98.3% bound to plasma proteins, the amount in milk is likely to be low. However, the active metabolites has a half-life of 15 hours, and might accumulate in the infant. The manufacturer recommends that breastfeeding be discontinued during fostamatinib therapy and for at least 1 month after the final dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

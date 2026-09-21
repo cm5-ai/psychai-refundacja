@@ -1,0 +1,37 @@
+{
+ "id": "LM284",
+ "tytul": "Betaxolol",
+ "synonimy": [
+  "betaxolol",
+  "Betoptic",
+  "Betaxololum",
+  "UNII-O0ZR1R6RZ2",
+  "SL 75212",
+  "O0ZR1R6RZ2",
+  "1-[4-[2-(cyclopropylmethoxy)ethyl]phenoxy]-3-(propan-2-ylamino)propan-2-ol"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM284/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of its relatively extensive excretion into breastmilk and minimal reported experience during breastfeeding, other beta-blocking agents may be preferred for systemic use, especially while nursing a newborn or preterm infant.\nOphthalmic use of betaxolol by the mother should pose little risk to the breastfed infant, although some guidelines state that gel formulations are preferred over solutions. To substantially diminish the amount of drug that reaches the breastmilk after using eye drops, place pressure over the tear duct by the corner of the eye for 1 minute or more, then remove the excess solution with an absorbent tissue."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 50% protein binding, 15% renal excretion and a long half-life, betaxolol presents a moderate risk for accumulation in infants, especially neonates.\nMaternal Levels. Three mothers who received 10 mg of betaxolol orally before delivering their infant had postpartum colostrum betaxolol levels measured. In one woman who had one dose 3 hours prior to delivery, colostrum levels were 48 mcg/L 24 hours postpartum, 13 mcg/L 48 hours postpartum and 3 mcg/L 72 hours postpartum. Another woman who received a dose 25 hours before delivery had milk levels of 8.8 and 7 mcg/L 48 and 72 hours postpartum, respectively. A third woman who had a dose 26 hours before delivery had colostrum betaxolol levels of 7.8 and 4.2 mcg/L 24 and 48 hours postpartum, respectively. Each of these women had received only 1 or 2 doses of betaxolol before delivery, so steady state might not have been reached.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. None of the mothers were taking betaxolol.\nBeta-adrenergic blocking drugs with breastmilk excretion characteristics similar to betaxolol have caused adverse effects in breastfed newborns."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or betaxolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Systemic) Propranolol, Labetalol, Metoprolol; (Ophthalmic) Levobunolol, Metipranolol, Timolol"
+  ]
+ ]
+}

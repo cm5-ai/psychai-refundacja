@@ -1,0 +1,41 @@
+{
+ "id": "biperiden",
+ "tytul": "Biperiden",
+ "synonimy": [
+  "Biperiden",
+  "Akineton",
+  "Biperidene",
+  "Biperidine",
+  "Biperideno",
+  "Biperidenum",
+  "KL 373",
+  "UNII-0FRP6G56LD",
+  "NSC-759145",
+  "CHEBI:3112",
+  "DTXSID6022680",
+  "RefChem:917211",
+  "DTXCID802680",
+  "N04AA02",
+  "1-(2-bicyclo[2.2.1]hept-5-enyl)-1-phenyl-3-piperidin-1-ylpropan-1-ol"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/biperiden/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Biperiden is no longer marketed in the United States. No information is available on the use of biperiden during breastfeeding. Long-term use of biperiden might reduce milk production or milk letdown, but a single dose is not likely to interfere with breastfeeding. During long-term use, observe for signs of decreased lactation (e.g., insatiety, poor weight gain)."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In a study in 5 healthy nonlactating subjects (3 male, 2 female), 5 mg of biperiden was infused intravenously over 2 hours. Serum prolactin was measured 7 times during the infusion and two times afterwards. Although the average serum prolactin value deceased slightly by 120 minutes, the difference was not statistically significant. The average serum prolactin rebounded to approximately baseline at 2 hours after the end of the infusion."
+  ]
+ ]
+}

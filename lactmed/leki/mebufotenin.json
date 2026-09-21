@@ -1,0 +1,40 @@
+{
+ "id": "mebufotenin",
+ "tytul": "Mebufotenin",
+ "synonimy": [
+  "Mebufotenin",
+  "CT 4334",
+  "NSC 88624",
+  "EINECS 213-813-2",
+  "NSC-88624",
+  "BRN 0164771",
+  "CHEBI:2086",
+  "DTXSID70144324",
+  "RefChem:855288",
+  "DTXCID1066815",
+  "UNII-X0MKX3GWU9",
+  "CHEMBL7257",
+  "MLS000069438",
+  "2-(5-methoxy-1H-indol-3-yl)-N,N-dimethylethanamine"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/mebufotenin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Mebufotenin is an investigational hallucinogenic drug being studied for postpartum depression. No information is available on the clinical use of mebufotenin during breastfeeding. However, amounts in breastmilk appear to be low after maternal inhalation and would not be expected to cause any adverse effects in breastfed infants after the first day of administration."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In a preliminary study on the use of mebufotenin for postpartum depression, patients were administered an individualized dosing regimen of up to three escalating doses of mebufotenin (6, 12, and 18 mg) on a single day by pulmonary inhalation. Of the four lactating patients, three received mebufotenin 6 + 12 mg and one received mebufotenin 6 + 12 + 18 mg. Concentrations of mebufotenin, its psychoactive metabolite bufotenin, and its non-psychoactive metabolite 5-methoxyindole- 3-acetic acid (5-MIAA) were measured in breastmilk. Mebufotenin levels in breastmilk ranged from 0.24 to 3.11 mcg/L at 1 hour post-dose, from below the limit of quantification (BLQ) to 0.56 mcg/L at 2.5 hours post-dose, and from BLQ to 0.04 mcg/L at about 8 hours after the dose; all levels were BLQ on days 2 and 8. Bufotenin was BLQ in breastmilk at all time points. 5-MIAA levels were 13.9 to 28.5 mcg/L at 1 hour post-dose, 8.1 to 13.5 mcg/L at 2.5 hours after the dose, BLQ to 0.90 mcg/L at about 8 hours after the dose, BLQ to 0.22 mcg/L on day 2, and BLQ on day 8.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

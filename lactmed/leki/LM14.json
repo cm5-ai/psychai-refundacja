@@ -1,0 +1,31 @@
+{
+ "id": "LM14",
+ "tytul": "Ampicillin and Sulbactam",
+ "synonimy": [
+  "Sulacillin",
+  "Unasyn",
+  "Ampicillin-sulbactam",
+  "(2S,5R,6R)-6-[[(2R)-2-amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid",
+  "(1R,4S)-3,3-dimethyl-2,2,6-trioxo-2λ6-thiabicyclo[3.2.0]heptane-4-carboxylic acid"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM14/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ampicillin-sulbactam produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally, disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush, have been reported with penicillins, but these effects have not been adequately evaluated. Ampicillin-sulbactam is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In 3 mothers who received intramuscular ampicillin 2 grams daily, milk levels ranged from 0.3 to 0.9 mg/L. In 3 mothers who received 4 grams daily intramuscularly, milk levels ranged from 0.4 to 0.9 mg/L. In all cases, peak milk levels occurred 3 hours after the dose. The breastfed infant was estimated to receive from 0.08 to 0.2 mg daily of ampicillin with these doses.\nIn 15 women receiving ampicillin 500 mg 4 times daily by intramuscular injection, average milk ampicillin levels were as follows: 0.11 mg/L at 30 minutes after the injection; 0.21 mg/L at 1 hour, 0.17 at 2 hours, 0.27 mg/L at 4 hours and 0.26 mg/L at 6 hours after the injection.\nIn 15 women given a single 2 gram dose of ampicillin intravenously, milk levels averaged 1.1 mg/L at 2 hours after the dose.\nA study in postpartum women with endometritis who received ampicillin 1 gram plus sulbactam 0.5 gram or ampicillin 2 grams plus 1 gram of sulbactam infused intravenously over 20 minutes found the average milk levels of ampicillin to be 1.7 mg/L with the highest level observed 3 mg/L. Sulbactam milk levels averaged 0.58 mg/L with the highest level observed 2.8 mg/L.\nMilk was collected at random times after 0.5 or 1 gram doses of sulbactam infused intravenously over 20 minutes. Little fluctuation occurred in milk levels over the first 8 hours after the dose with little difference in milk levels between the two dosages. Milk levels averaged 0.52 mg/L during this period with the highest level being 2.8 mg/L. Other levels from 10.5 to 20.5 hours after the dose ranged from 0.12 to 1.2 mg/L. It is unclear whether some of the patients in this report were the same as those in reference.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information on ampicillin and sulbactam was not found as of the revision date; however, there are data on ampicillin alone. In a prospective follow-up study, 5 nursing mothers reported taking oral ampicillin (dosage unspecified). One mother reported diarrhea in her infant. No rashes or candidiasis were reported among the exposed infants.\nA small, controlled, prospective study had mothers taking ampicillin monitor their infants for signs of adverse effects (furring of the tongue, feeding difficulties, changes in stool frequency and consistency, diaper rash, and skin rash). Weight change and the development of jaundice were also recorded. No statistical differences in these parameters were found between the infants of the control mothers and those of mothers taking oral ampicillin."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

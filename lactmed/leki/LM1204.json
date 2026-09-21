@@ -1,0 +1,35 @@
+{
+ "id": "LM1204",
+ "tytul": "Necitumumab",
+ "synonimy": [
+  "Necitumumab",
+  "Portrazza",
+  "UNII-2BT4C47RUI",
+  "2BT4C47RUI",
+  "IMC 11F8",
+  "IMC-11F8",
+  "Immunoglobulin G1, anti-(human epidermal growth factor receptor (receptor tyrosine-protein kinase ErbB-1, EC 2.7.10.1))",
+  "human monoclonal IMC-11F8 gamma1 heavy chain (224-214')-disulfide with human monoclonal IMC-11F8 kappa light chain, dimer (230- 230'':233-233'')-bisdisulfide",
+  "Immunoglobulin G1, anti-(human epidermal growth factor receptor) (human monoclonal IMC-11F8 gamma1-chain), disulfide with human monoclonal IMC-11F8 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1204/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of necitumumab during breastfeeding. Because necitumumab is a large protein molecule with a molecular weight of 145,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant. However, the manufacturer recommends that women receiving necitumumab should not breastfeed during therapy or for 3 months following the final dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

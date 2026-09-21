@@ -1,0 +1,52 @@
+{
+ "id": "tebipenem",
+ "tytul": "Tebipenem",
+ "synonimy": [
+  "Tebipenem pivoxil",
+  "Utebzi",
+  "LJC-11036",
+  "UNII-Q2TWQ1I31U",
+  "DTXSID40167227",
+  "RefChem:187651",
+  "DTXCID1089718",
+  "MFCD00936545",
+  "CHEMBL576981",
+  "orb1307691",
+  "SCHEMBL14769588",
+  "HY-A0076R",
+  "C16H21N3O4S2",
+  "HY-A0076",
+  "LGA71521",
+  "LJC 11036",
+  "AKOS030526611",
+  "CS-3444",
+  "AC-35391",
+  "AS-75271",
+  "DA-78288",
+  "SY311237",
+  "C21522",
+  "T17021",
+  "T162051",
+  "(4R,5S,6S)-3-[1-(4,5-dihydro-1,3-thiazol-2-yl)azetidin-3-yl]sulfanyl-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/tebipenem/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of tebipenem during breastfeeding. Its excretion into breastmilk is likely similar to that of imipenem and meropenem, which produce low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush has been reported with beta-lactams, but these effects have not been adequately evaluated. Tebipenem is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": "LM1236",
+ "tytul": "Dasabuvir",
+ "synonimy": [
+  "Dasabuvir",
+  "Viekira",
+  "UNII-DE54EQW8T1",
+  "DE54EQW8T1",
+  "ABT 333",
+  "EC 805-439-9",
+  "N-[6-[3-tert-butyl-5-(2,4-dioxopyrimidin-1-yl)-2-methoxyphenyl]naphthalen-2-yl]methanesulfonamide"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1236/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Dasabuvir is no longer marketed in the United States. It has not been studied in nursing mothers being treated for hepatitis C infection. Because it is greater than 99.5% bound to maternal plasma proteins, amounts in breastmilk are likely to be very low. If dasabuvir used alone or in combination with sofosbuvir or with ombitasvir, paritaprevir and ritonavir (Viekira Pak) is required by the mother, it is not a reason to discontinue breastfeeding. Some sources recommend against breastfeeding when dasabuvir is used with ribavirin.\nRitonavir used as a booster has been studied in several studies of breastfeeding mothers. It is excreted into milk in measurable concentrations and low levels can be found in the blood of some breastfed infants. No reports of adverse reactions in breastfed infants have been reported. For more information, refer to the LactMed record on ritonavir.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

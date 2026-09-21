@@ -1,0 +1,39 @@
+{
+ "id": "LM741",
+ "tytul": "Dopamine",
+ "synonimy": [
+  "dopamine",
+  "Oxytyramine",
+  "Dopamin",
+  "3-Hydroxytyramine",
+  "Dopaminum",
+  "Dopamina",
+  "UNII-VTD58H1Z2X",
+  "VTD58H1Z2X",
+  "HSDB 3068",
+  "KW-3-060",
+  "NSC 173182",
+  "EINECS 200-110-0",
+  "4-(2-aminoethyl)benzene-1,2-diol"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM741/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of dopamine during breastfeeding. Because of its poor oral bioavailability and short half-life, any dopamine in milk is unlikely to affect the infant. Dopamine reduces serum prolactin in nonnursing women, but no information is available on its effect on milk production in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Intravenous dopamine infusion in doses of 2 to 5 mcg/kg/minute given to nonnursing subjects and in women with hyperprolactinemia decreases serum prolactin concentrations. However, relevant published information on the effect of intravenous dopamine on milk production in nursing mothers was not found as of the revision date. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

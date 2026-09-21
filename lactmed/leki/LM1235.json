@@ -1,0 +1,37 @@
+{
+ "id": "LM1235",
+ "tytul": "Elbasvir",
+ "synonimy": [
+  "Elbasvir",
+  "Zepatier",
+  "UNII-632L571YDK",
+  "MK-8742",
+  "MK 8742",
+  "MK8742",
+  "methyl N-[(2S)-1-[(2S)-2-[5-[(6S)-3-[2-[(2S)-1-[(2S)-2-(methoxycarbonylamino)-3-methylbutanoyl]pyrrolidin-2-yl]-1H-imidazol-5-yl]-6-phenyl-6H-indolo[1,2-c][1,3]benzoxazin-10-yl]-1H-imidazol-2-yl]pyrrolidin-1-yl]-3-methyl-1-oxobutan-2-yl]carbamate"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1235/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Elbasvir has not been studied in nursing mothers being treated for hepatitis C infection. Because it is greater than 99.9% bound to maternal plasma proteins, amounts in breastmilk are likely to be very low.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

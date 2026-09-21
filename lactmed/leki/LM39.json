@@ -1,0 +1,44 @@
+{
+ "id": "LM39",
+ "tytul": "Carbenicillin Indanyl Disodium",
+ "synonimy": [
+  "carbenicillin",
+  "Carbenicilline",
+  "Carbenicillinum",
+  "Carbenicilina",
+  "Carboxybenzylpenicillin",
+  "Carbenicillina",
+  "alpha-Carboxybenzylpencillin",
+  "Carbenicillina [DCIT]",
+  "Carboxybenzylpenicillin acid",
+  "UNII-G42ZU72N5G",
+  "HSDB 3020",
+  "4697-36-3",
+  "G42ZU72N5G",
+  "EINECS 225-171-0",
+  "6-(alpha-Carboxyphenylacetamido)penicillanic acid",
+  "N-(2-Carboxy-3,3-dimethyl-7-oxo-4-thia-azabicyclo(3.2.0)hept-6-yl)-2-phenylmalonamic acid",
+  "4-Thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid, 6-((carboxyphenylacetyl)amino)-3,3-dimethyl-7-oxo-, (2S-(2alpha,5alpha,6beta))-",
+  "Malonamic acid, N-(2-carboxy-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)hept-6-yl)-2-phenyl-"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM39/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Carbenicillin indanyl disodium is no longer marketed. Limited information indicates that carbenicillin produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with penicillins, but these effects have not been adequately evaluated. Carbenicillin indanyl disodium is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Milk levels have not been reported after oral doses of carbenicillin. After a single 1 gram intramuscular dose of carbenicillin in 3 women, milk levels averaged between 0.1 and 0.24 mg/L over the first 6 hours after the dose. Peak milk levels occurred 4 hours after the intramuscular dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

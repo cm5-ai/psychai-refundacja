@@ -1,0 +1,37 @@
+{
+ "id": "LM1170",
+ "tytul": "Dabigatran",
+ "synonimy": [
+  "Dabigatran",
+  "Pradaxa",
+  "BIBR 953",
+  "UNII-I0VM4M70GC",
+  "BIBR 953 ZW",
+  "HSDB 8062",
+  "3-[[2-[(4-carbamimidoylanilino)methyl]-1-methylbenzimidazole-5-carbonyl]-pyridin-2-ylamino]propanoic acid"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1170/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "In adults, less than 7% of dabigatran is absorbed orally in its prodrug form of dabigatran etexilate mesylate; dabigatran itself is not absorbed orally. Preliminary data indicate that dabigatran is poorly excreted into breastmilk and undetectable in breastfed infant plasma. If the mother requires dabigatran, it is not a reason to discontinue breastfeeding. Because data are limited, monitor preterm or newborn infants for signs of bleeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In preliminary results from a study on dabigatran in breastmilk, two patients received oral dabigatran etexilate 220 mg (2.5 and 2.7 mg/kg dabigatran). Dabigatran was first detectable in milk 2 to 3 hours after the dose. Peak milk levels occurred at 7 hours after the dose. Milk concentrations at this time were 8.2 mcg/L and 52.6 mcg/L, respectively. Average maximum estimated daily infant dosages on day 5 postpartum were 0.35 and 2.7 mcg/kg, respectively. These values corresponded to weight-adjusted dosages of 0.01 and 0.07% of the maternal dosage. On days 1 and 3 postpartum, estimated dosages were somewhat less. A preliminary physiologically based pharmacokinetic model was validated using these patients’ data predicted a steady-state RID of 0.013% with a daily dose of 220 mg of dabigatran etexilate mesylate.\nA postpartum woman was prescribed dabigatran etexilate 220 mg once daily for 7 days for primary VTE prophylaxis. She took her dose for 3 days in the afternoon, then at 7 am on the next day when a milk sample was taken at 9 am. The concentration in milk was below the lower limit of quantification (< 2.3 mcg/L).\nInfant Levels. A postpartum woman was prescribed dabigatran etexilate 220 mg once daily for 7 days for primary VTE prophylaxis. She took her dose for 3 days in the afternoon, then at 7 am on the next day when an infant plasma sample was taken at 9 am. The infant plasma concentration of dabigatran was below the detection limit (< 2 mcg/L)."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Samples of newborn and preterm infant blood spiked with of dabigatran in the concentrations found in breastmilk after a 220 mg dose of dabigatran etexilate indicate that no effect on coagulation would occur."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acenocoumarol, Dalteparin, Enoxaparin, Heparin, Rivaroxaban, Warfarin"
+  ]
+ ]
+}

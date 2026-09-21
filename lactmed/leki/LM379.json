@@ -1,0 +1,40 @@
+{
+ "id": "LM379",
+ "tytul": "Penciclovir",
+ "synonimy": [
+  "penciclovir",
+  "Denavir",
+  "Penciclovirum",
+  "UNII-359HUE8FJC",
+  "BRL 39123",
+  "BRL-39123",
+  "359HUE8FJC",
+  "CCRIS 9213",
+  "HSDB 8123",
+  "2-amino-9-[4-hydroxy-3-(hydroxymethyl)butyl]-1H-purin-6-one"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM379/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although there is no published experience with penciclovir during breastfeeding, infant side effects are unlikely with maternal topical application to small areas of the mother's body away from the breast. Only water-miscible cream or gel products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acyclovir"
+  ]
+ ]
+}

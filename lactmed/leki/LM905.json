@@ -1,0 +1,41 @@
+{
+ "id": "LM905",
+ "tytul": "Rilpivirine",
+ "synonimy": [
+  "Rilpivirine",
+  "Edurant",
+  "Complera",
+  "Juluca",
+  "Odefsey",
+  "Cabenuva",
+  "TMC278",
+  "TMC 278",
+  "UNII-FI96A8X663",
+  "TMC-278",
+  "HSDB 8153",
+  "FI96A8X663",
+  "R278474",
+  "R 278474",
+  "4-[[4-[4-[(E)-2-cyanoethenyl]-2,6-dimethylanilino]pyrimidin-2-yl]amino]benzonitrile"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM905/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal rilpivirine doses of 25 mg daily produce low levels in milk and infant serum. Until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended. Extended postnatal prophylaxis of breastfed infants with rilpivirine should continue until breastfeeding is stopped."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two mothers taking rilpivirine 25 mg once daily provided milk samples at a median of 15.5 hours after a dose. The median drug concentration in milk was 123 mcg/L, which resulted in an estimated infant dosage of 20 mcg/kg daily.\nIn a retrospective study in a German hospital of mothers who were receiving antiretroviral prophylaxis, 3 mothers were receiving rilpivirine 25 mg once daily. Breastmilk levels obtained at unspecified times with respect to the dose at 1, 4, and 6 months postpartum were mostly <50 mcg/L in two of the patients. In the third mother, the milk level was 4300 mcg/L at 4 months after which breastfeeding was discontinued.\nInfant Levels. An infant was breastfed by a mother taking rilpivirine 25 mg once daily, although the extent of breastfeeding was not sated. The infant’s serum concentrations taken 16 hours after maternal drug intake at 1 month of age was 4 mcg/L.\nIn a retrospective study in a German hospital of mothers who were receiving rilpivirine 25 mg once daily, three exclusively breastfed their infants. Infant serum concentrations obtained at unspecified times in two of the infants was <50 mcg/L at 1 and 4 months of age. In the third infant whose mother had high rilpivirine milk levels, the infant serum level was 660 mcg/L at 1 month and 10,450 mcg/L at 4 months of age, at which time breastfeeding was discontinued."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

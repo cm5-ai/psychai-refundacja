@@ -1,0 +1,47 @@
+{
+ "id": "LM490",
+ "tytul": "Acitretin",
+ "synonimy": [
+  "Acitretin",
+  "Etretin",
+  "Soriatane",
+  "Neotigason",
+  "Acitretine",
+  "Acitretina",
+  "Acitretinum",
+  "TMMP",
+  "UNII-LCH760E9T7",
+  "Ro 10-1670",
+  "CCRIS 5534",
+  "HSDB 7187",
+  "LCH760E9T7",
+  "EINECS 259-474-4",
+  "Ro 10- 1670/000",
+  "U0279",
+  "(2E,4E,6E,8E)-9-(4-methoxy-2,3,6-trimethylphenyl)-3,7-dimethylnona-2,4,6,8-tetraenoic acid"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM490/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "A maternal acitretin dose of 0.65 mg/kg daily produced low levels in milk in one woman. Because there is no published experience with the safe use of acitretin during breastfeeding, current expert opinion recommends avoiding acitretin during breastfeeding. Various topical agents that are less likely to be absorbed by the mother may be preferred during breastfeeding, especially while nursing a newborn or preterm infant. Only water-miscible cream or gel products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman who was 8 months postpartum discontinued breastfeeding and began acitretin 40 mg (0.65 mg/kg) once daily by mouth after breakfast. Milk was collected before starting the drug and then twice daily for 9 days. Acitretin and its 13-cis-metabolite were detected in milk 12 hours after the first dose and levels gradually increased over 4 to 5 days to steady-state levels between 30 and 40 mcg/L that did not fluctuate markedly during the day. Acitretin was the main component found in milk 10 to 12 hours after a dose while the metabolite was the primary component in milk 22 to 24 hours after the previous dose. Assuming an average milk level of 35 mcg/L, an exclusively breastfed infant would receive an estimated 0.8% of the maternal weight-adjusted dosage as acitretin and its metabolite.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A review of adverse reaction reports on retinoids causing a breast reaction submitted to a French pharmacovigilance center found 8 cases of gynecomastia associated with acitretin use."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Psoriasis) Adalimumab, Certolizumab Pegol, Etanercept, Infliximab, Phototherapy, Tretinoin"
+  ]
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "id": "anagrelide",
+ "tytul": "Anagrelide",
+ "synonimy": [
+  "Use one row for each author. List authors in order of appearance in the document. Add rows to add more authors. For institutional author, enter the name of the institution in the Given Name(s) column.anagrelide",
+  "Agrylin",
+  "Agrelin",
+  "BL 4162A",
+  "imidazo(2,1-b)quinazolin-2(3H)-one, 6,7-dichloro-1,5-dihydro-, monohydrochloride",
+  "6,7-dichloro-1,5-dihydroimidazo(2,1-b)quinazolin-2(3H)-one hydrochloride"
+ ],
+ "zaktualizowano": "2020-07-20",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/anagrelide/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of anagrelide during breastfeeding. The manufacturer recommends that the drug not be used during breastfeeding and for 1 week after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

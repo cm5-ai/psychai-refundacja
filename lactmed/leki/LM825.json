@@ -1,0 +1,49 @@
+{
+ "id": "LM825",
+ "tytul": "Bevacizumab",
+ "synonimy": [
+  "Bevacizumab",
+  "Altuzan",
+  "Avastin",
+  "Mvasi",
+  "Zirabev",
+  "Almysys",
+  "Avzivi",
+  "rhuMAb-VEGF",
+  "Mvasi",
+  "Vegzelma",
+  "Jobevne",
+  "UNII-2S9ZZM9Q9V",
+  "Anti-VEGF monoclonal antibody",
+  "HSDB 8080",
+  "ABP 215",
+  "ABP-215",
+  "Anti-VEGF Humanized Monoclonal Antibody",
+  "Immunoglobulin G 1 (human-mouse monoclonal rhuMAb-VEGF gamma-chain anti-human vascular endothelial growth factor), disulfide with human-mouse monoclonal rhuMAb-VEGF light chain, dimer",
+  "Immunoglobulin G1, anti-(human vascular endothelial growth factor) (human-mouse monoclonal rhuMAb-VEGF gamma1-chain), disulfide with human-mouse monoclonal rhuMAb-VEGF light chain, dimer"
+ ],
+ "zaktualizowano": "2025-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM825/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the intravenous use of bevacizumab during breastfeeding. Because bevacizumab is a large protein molecule with a molecular weight of about 149,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, intravenous bevacizumab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during systemic bevacizumab therapy and for 6 months following the last dose.\nBevacizumab is a vascular endothelial growth factor (VEGF) inhibitor. A few infants have been breastfed, without apparent harm, following maternal intravitreal bevacizumab injections. Bevacizumab is undetectable in the milk after intravitreal injection, but VEGF levels in breastmilk can be suppressed following the injection. Since VEGF is present in human milk and is thought to help in maturation of the infant’s gastrointestinal tract, concern has been raised about the maternal use of VEGF inhibitors during breastfeeding. Bevacizumab has the greatest systemic exposure and longest half-life of the VEGF inhibitors used in the eye, and thus might be the least desirable alternative. Note that the typical alternative to breastmilk is infant formula, which contains no VEGF."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was given an intravitreal injection of bevacizumab for scar-associated choroidal neovascularization in her left eye. Her breastfed infant was 12 weeks old at the start of therapy. The bevacizumab dose and interval were not stated in the published report, but the usual intravitreal dose is 1.25 mg. After the first injection, bevacizumab was detectable in the milk at a relatively constant 5 mcg/L over 42 days with a peak between 6 and 7 mcg/L at about 2 weeks following injection.\nTwo women received intravitreal injections of bevacizumab 1.25 mg at 1- to 2-month intervals while breastfeeding. Breastmilk samples were obtained one day before and one week after injections for 6 months in one and 16 months in the other woman. Bevacizumab was undetectable (<3 mcg/L) in any of the samples.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A 33-year-old woman was treated with 14 intravitreal bevacizumab injections of 1.25 mg over a 20-month period. Five of these injections were given while she was breastfeeding (age of infant not stated). No mention was made of adverse effects in this infant, but she became pregnant again, received 3 additional injections, and delivered an infant who developed normally at 12 months of age.\nA woman was given 3 intravitreal injections of bevacizumab for scar-associated choroidal neovascularization in her left eye. Her breastfed infant was 12 weeks old at the start of therapy. No mention was made of adverse effects in this infant.\nTwo women received intravitreal injections of bevacizumab 1.25 mg at 1- to 2-month intervals while breastfeeding. They breastfed their infants (extent not stated) for several months. No adverse effects in the infants were noted.\nA woman who was 8 weeks postpartum received a single injection of intravitreal bevacizumab (dose not stated) intraoperatively and continued to breastfeed for an unspecified time. Her infant did well while followed up to 12 months of age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A woman was given an intravitreal injection of bevacizumab (probably 1.25 mg) for scar-associated choroidal neovascularization in her left eye. After the injection, the VEGF level in breastmilk decreased from 13.3 to 8.6 mcg/L over a 2-week period after. After changing therapy to ranibizumab and administration of doses at 8 and 14 weeks after the start of therapy, no decrement in breastmilk VEGF was seen."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Intravitreal) Aflibercept, Ranibizumab"
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "LM706",
+ "tytul": "Succinylcholine",
+ "synonimy": [
+  "succinylcholine",
+  "Suxamethonium",
+  "Succinyldicholine",
+  "Succinocholine",
+  "Succinoylcholine",
+  "Succinylbischoline",
+  "Ditilin",
+  "Diacetylcholine",
+  "Ditiline",
+  "UNII-J2R869A8YF",
+  "HSDB 3254",
+  "J2R869A8YF",
+  "BRN 1805311",
+  "4-04-00-01451 (Beilstein Handbook Reference)",
+  "trimethyl-[2-[4-oxo-4-[2-(trimethylazaniumyl)ethoxy]butanoyl]oxyethyl]azanium"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM706/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of succinylcholine during breastfeeding. Because it is rapidly eliminated and poorly absorbed orally, it is not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. General anesthetic regimens that include succinylcholine for cesarean section caused a delay in the time to the first breastfeeding, but the part that succinylcholine played in this difference in outcome in unknown."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Succinylcholine is rapidly hydrolyzed in maternal plasma and has a short half-life of about 3 to 5 minutes. It is unlikely to be excreted into milk or absorbed orally by the infant because of its highly polar nature.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A randomized, but nonblinded, study in women undergoing cesarean section compared epidural anesthesia with bupivacaine to general anesthesia with intravenous thiopental 4 mg/kg and succinylcholine 1.5 mg/kg for induction followed by nitrous oxide and isoflurane. The time to the first breastfeed was significantly shorter (107 vs 228 minutes) with the epidural anesthesia than with general anesthesia. This difference was probably caused by the anesthesia's effects on the infant, because the Apgar and neurologic and adaptive scores were significantly lower in the general anesthesia group of infants. It is not known what part succinylcholine played in this difference in outcome.\nA nonrandomized, nonblinded study in a Serbian hospital of women near term who underwent cesarean section compared general anesthesia (n = 284) to spinal or epidural anesthesia (n = 249). Spinal anesthesia consisted of hyperbaric bupivacaine 12 mg and fentanyl 0.01 mg; epidural anesthesia consisted of isobaric bupivacaine 0.5% (0.5 mg per 10 cm height) and fentanyl 0.05 mg. General anesthesia consisted of propofol 2.3 mg/kg and succinylcholine 1.5 mg/kg for induction and intubation, followed by an anesthetic gas mixture and oxygen. Reportedly, nitric oxide (possibly nitrous oxide) was 50% of the gas before delivery and 67% after delivery. Sevoflurane was also used in some cases. After delivery and cord clamping, mothers received fentanyl 3 mcg/kg and rocuronium 0.5 mg/kg intravenously for placental delivery. After surgery, neuromuscular block reversal was performed with neostigmine and atropine. All patients received 1 mg/kg of diclofenac every 8 h for 24 hours after delivery and 98% of general anesthesia patients also received 100 mg of tramadol and 78.5% received acetaminophen 1 gram. No regional anesthesia patients received tramadol or acetaminophen. Patients receiving one of the regional anesthetic protocols established lactation sooner (56% and 29% after 18 and 24 hours, respectively), while 86% of women receiving general anesthesia did not establish lactation until 36 to 48 hours after surgery. It is not known what part succinylcholine played in this difference in outcome."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Atracurium, Cisatracurium, Rocuronium"
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "LM1224",
+ "tytul": "Lisuride",
+ "synonimy": [
+  "LISURIDE",
+  "Lysuride",
+  "Lisuridum",
+  "Lisurida",
+  "Lisuridum [INN-Latin]",
+  "Lisurida [INN-Spanish]",
+  "Lisuride [INN:BAN]",
+  "UNII-E0QN3D755O",
+  "E0QN3D755O",
+  "EINECS 241-925-1",
+  "18016-80-3",
+  "N'-((8alpha)-9,10-Didehydro-6-methylergolin-8-yl)-N,N-diethylurea",
+  "3-(9,10-Didehydro-6-methylergolin-8alpha-yl)-1,1-diethylurea",
+  "Urea, N'-((8alpha)-9,10-didehydro-6-methylergolin-8-yl)-N,N-diethyl-[1]"
+ ],
+ "zaktualizowano": "2021-07-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1224/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Lisuride is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. It lowers serum prolactin and is approved in some countries for lactation suppression. Some experts recommend lisuride as a safer alternative to bromocriptine for lactation suppression, but others recommend avoiding all lactation suppressants. Data are insufficient recommend one treatment for lactation suppression over another."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Lisuride suppresses serum prolactin increases in a dose-related fashion. Comparative studies have found lisuride comparable in efficacy to bromocriptine, although rebound lactation occurred in more patients treated with lisuride 0.4 mg daily than in those treated with bromocriptine 5 mg daily. Rebound lactation appears to be less with a higher dose of 0.6 mg daily and with 15 days of therapy rather than 10 days."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hyperprolactinemia) Bromocriptine, Cabergoline"
+  ]
+ ]
+}

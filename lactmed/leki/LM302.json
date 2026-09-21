@@ -1,0 +1,60 @@
+{
+ "id": "LM302",
+ "tytul": "Pyrimethamine",
+ "synonimy": [
+  "pyrimethamine",
+  "Daraprim",
+  "Chloridine",
+  "Diaminopyritamin",
+  "Ethylpyrimidine",
+  "Pirimetamin",
+  "Chloridin",
+  "Pirimetamina",
+  "Pirimecidan",
+  "Chloridyn",
+  "Malocide",
+  "Erbaprelina",
+  "Darachlor",
+  "Khloridin",
+  "Tindurin",
+  "Malocid",
+  "Pyrimethaminum",
+  "Fansidar",
+  "UNII-Z3614QOX8W",
+  "CCRIS 546",
+  "NCI-C01683",
+  "RP 4753",
+  "BW 50-63",
+  "HSDB 8042",
+  "NSC 3061",
+  "EINECS 200-364-2",
+  "BRN 0219864",
+  "AI3-25005",
+  "5-25-12-00255 (Beilstein Handbook Reference)",
+  "5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM302/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No adverse reactions in breastfed infants have been reported during maternal pyrimethamine use. It is acceptable to use in nursing mothers. In HIV-infected women, elevated viral HIV loads in milk were decreased after treatment with chloroquine to a greater extent than other women who were treated with the combination of sulfadoxine and pyrimethamine. It has been suggested that maternal pyrimethamine clearance might be increased during lactation, but data are insufficient to make a definitive conclusion."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Pyrimethamine milk levels have been reported after doses of 25, 50 or 75 mg in African women. In one woman who received a dose of 25 mg, the milk level was 2.17 mg/L at 3 hours after the dose, 2.65 mg/L at 6 hours after the dose, 2 mg/L at 24 hours after the dose and 1 mg/L at 48 hours after the dose. In two women who received 50 mg doses, milk levels were 3.24 and 3.25 mg/L at 6 hours after the dose, 1.17 and 1.66 mcg/ at 24 hours after the dose, and 0.66 and 1 mg/L at 48 hours after the dose. In 16 women who received doses of 75 mg, milk levels averaged 2.7 mg/L at 3 hours after the dose, 3.2 mg/L at 6 hours after the dose, 1.7 mg/L at 24 hours after the dose, and 1.2 mg/L at 48 hours after the dose. Reported milk levels were not proportional to the dose in this old study using an antiquated assay method.\nThree women were given a single dose of pyrimethamine 12.5 mg orally 2 to 5 days postpartum. Milk samples were obtained periodically for about 9 days after the dose. Assuming a daily intake of 1 L of milk, the infants would receive 0.14, 0.21 and 0.34 mg in milk over the study period. The authors calculated that these values equated to an average of 30% (range 16.8 to 45.6%) of the maternal weight-adjusted dosage.\nA physiologically based pharmacokinetic model has been developed that adequately predicts pyrimethamine excretion into breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Administration of pyrimethamine to mothers of 26 predominantly breastfed infants 2 to 6 months old who were infected with malaria was curative in the infants.] The regimen consisted of 75 mg followed by a subsequent dose of 50 to 75 mg 4 to 7 days later. The efficacy is apparently related to breastfeeding habits, because infants in another tribal group who breastfed their infants less extensively were not protected. No adverse effects were reported in these infants.\nA case report indicates that a maternal dose of 75 mg orally followed by 25 mg weekly cured malaria in her breastfed infant and protected her infant against becoming infected with malaria for 6 months. After the mother missed taking her dose for 2 weeks, the infant developed symptoms of malaria."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Malaria) Atovaquone and Proguanil, Chloroquine, Doxycycline, Mefloquine"
+  ]
+ ]
+}

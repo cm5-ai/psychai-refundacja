@@ -1,0 +1,62 @@
+{
+ "id": "imidapril",
+ "tytul": "Imidapril",
+ "synonimy": [
+  "Imidapril",
+  "Hipertene",
+  "Tanatril",
+  "Imidaprilum",
+  "Novaloc",
+  "UNII-BW7H1TJS22",
+  "DTXSID2048242",
+  "CHEBI:135654",
+  "RefChem:147954",
+  "DTXCID3028217",
+  "C09AA16",
+  "CHEMBL317094",
+  "MFCD00923828",
+  "NCGC00181342-01",
+  "SCHEMBL34098",
+  "GTPL6377",
+  "orb1688032",
+  "HY-B1451A",
+  "BDBM50020400",
+  "EX-A12667",
+  "AKOS015967028",
+  "DB11783",
+  "NCGC00181342-03",
+  "NCGC00181342-05",
+  "AC-25844",
+  "CS-0137517",
+  "NS00007217",
+  "D08068",
+  "AB01565810_02",
+  "371I379",
+  "Q1041804",
+  "(4S)-3-[(2S)-2-[[(2S)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino]propanoyl]-1-methyl-2-oxoimidazolidine-4-carboxylic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/imidapril/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Imidapril is not marketed in the United States. Because no information is available on the use of imidapril during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Imidapril is an inactive prodrug that is converted to the active drug imidaprilat.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Candesartan, Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Valsartan"
+  ]
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "LM822",
+ "tytul": "Fingolimod",
+ "synonimy": [
+  "Fingolimod",
+  "Gilenya",
+  "fingolimodum",
+  "CHEBI:63115",
+  "CHEMBL314854",
+  "DTXSID40167363",
+  "DTXCID0089854",
+  "L04AA27",
+  "UNII-3QN8BYN5QF",
+  "2-amino-2-[2-(4-octylphenyl)ethyl]propane-1,3-diol"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM822/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although fingolimod and its active metabolite are highly bound in maternal plasma and unlikely to reach the breastmilk in large amounts, it has a slow clearance and long half-life and is potentially toxic to the breastfed infant. Because there is no published experience with fingolimod during breastfeeding, expert opinion generally recommends that it should be avoided during breastfeeding, especially while nursing a newborn or preterm infant. However, the manufacturer's labeling does not recommend against its use in breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Multiple Sclerosis) Glatiramer, Immune Globulin, Interferon beta, Methylprednisolone, Natalizumab, Ocrelizumab, Ofatumumab, Peginterferon beta"
+  ]
+ ]
+}

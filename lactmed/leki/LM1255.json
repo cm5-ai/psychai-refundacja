@@ -1,0 +1,43 @@
+{
+ "id": "LM1255",
+ "tytul": "Velpatasvir",
+ "synonimy": [
+  "Velpatasvir",
+  "Vosevi",
+  "Epclusa",
+  "velpatasvirum",
+  "UNII-KCU0C7RS7Z",
+  "GS-5816",
+  "GS5816",
+  "GS 5816",
+  "CHEBI:133009",
+  "CHEMBL3545062",
+  "PA166163415",
+  "DTXSID70722565",
+  "methyl N-[(1R)-2-[(2S,4S)-2-[5-[6-[(2S,5S)-1-[(2S)-2-(methoxycarbonylamino)-3-methylbutanoyl]-5-methylpyrrolidin-2-yl]-21-oxa-5,7-diazapentacyclo[11.8.0.03,11.04,8.014,19]henicosa-1(13),2,4(8),5,9,11,14(19),15,17-nonaen-17-yl]-1H-imidazol-2-yl]-4-(methoxymethyl)pyrrolidin-1-yl]-2-oxo-1-phenylethyl]carbamate"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1255/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that typical doses of velpatasvir produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants. If velpatasvir is used alone or in combination with sofosbuvir (Epclusa) or sofosbuvir and voxilaprevir (Vosevi), it is not a reason to discontinue breastfeeding.\nHepatitis C is not transmitted through breastmilk, and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four mothers with hepatitis C infections began taking velpatasvir 100 mg in combination with sofosbuvir 400 mg orally once daily shortly after delivery. Paired samples of maternal serum and breastmilk were collected within the first 24 hours after commencing the drug regimen and at up to 6 days after initiation. Samples were collected from 1 to 25.6 hours after a dose. The median velpatasvir milk concentration was 26.8 mcg/L (range 6.6 to 59.7 mcg/L) with a median infant daily dosage of 4 mcg/kg and a relative infant dose of 0.14%. Because of the random collection and the reporting method, the true values may vary somewhat from these numbers.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

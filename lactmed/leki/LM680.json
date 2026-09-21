@@ -1,0 +1,45 @@
+{
+ "id": "LM680",
+ "tytul": "Oxidronic Acid 99mTc-Complex",
+ "synonimy": [
+  "Technetium hmdp",
+  "Technescan hdp",
+  "Technescan",
+  "Tc-99m-Oxidronate",
+  "Tc-99m-Hmdp",
+  "Tc-99m-Hdp",
+  "UNII-MG4KI49HHJ",
+  "Technetium osteoscan-hdp",
+  "MG4KI49HHJ",
+  "Oxidronic acid 99mTc-complex",
+  "Technetium Tc 99m oxidronate",
+  "Tc-99m Hydroxymethylene diphosphonate",
+  "TECHNETIUM TC-99M OXIDRONATE KIT",
+  "Technetium-99mTc-methylene diphosphonate",
+  "Technetium Tc 99m methylene diphosphonate",
+  "technetium Tc 99m hydroxymethylene diphosphonate",
+  "Technetium salt (hydroxymethylene)bis(phosphonic acid)",
+  "Phosphonic acid, (hydroxymethylene)bis-, technetium-99Tc salt",
+  "72945-61-0"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM680/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of oxidronic acid 99mTc-complex (Tc99m-hydroxymethylene diphosphonate; Tc99m-HDP) as a diagnostic agent. A US Nuclear Regulatory Commission subcommittee has recommended that nursing be discontinued for 24 hours after administration of all technetium Tc 99m diagnostic products to simplify guidance recommendations, although this time interval may be longer than necessary. Other sources state that breastfeeding need not be interrupted after administration of Tc 99m HDP to nursing mothers. However, to follow the principle of keeping exposure \"as low as reasonably achievable\", some experts recommend nursing the infant just before administration of the radiopharmaceutical and interrupting breastfeeding for 3 to 6 hours after the dose, then expressing the milk completely once and discarding it or store it for at least 60 hours (10 half-lives) before giving it to the infant. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nFor nursing mothers who work with Tc 99m substances in their workplace, there is no need to take any precautions other than those appropriate for general radiation protection."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Tc 99m is a gamma emitter with a principal photon energy of 140 keV and a physical half-life of 6.04 hours. The effective half-life of Tc 99m HDP is 5.1 hours."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

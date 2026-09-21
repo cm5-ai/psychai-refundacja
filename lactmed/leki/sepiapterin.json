@@ -1,0 +1,43 @@
+{
+ "id": "sepiapterin",
+ "tytul": "Sepiapterin",
+ "synonimy": [
+  "Sepiapterin",
+  "Sephience",
+  "CNSA-001",
+  "PTC923",
+  "UNII-CJQ26KO7HP",
+  "PTC-923",
+  "DTXSID40937902",
+  "CHEBI:16095",
+  "Lopac-S-154",
+  "DTXCID301476590",
+  "CHEBI:194527",
+  "CHEMBL1255653",
+  "2-amino-6-[(2S)-2-hydroxypropanoyl]-7,8-dihydro-3H-pteridin-4-one"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/sepiapterin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of sepiapterin during breastfeeding. If a mother requires sepiapterin, it is not a reason to discontinue breastfeeding. However, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Sapropterin"
+  ]
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "LM806",
+ "tytul": "Albumin, Iodinated I 125 Serum",
+ "synonimy": [
+  "125 I HAS",
+  "125 I-HAS",
+  "albumin iodinated I-125 serum",
+  "albumin, iodinated I 125 serum",
+  "albumin, iodinated I-125 serum",
+  "albumotope I-125",
+  "HSA I-125",
+  "human albumin I-125",
+  "IHSA I-125 Jeanatope",
+  "Iodinated (125 I) human serum albumin",
+  "RISA-125",
+  "iodinated ((1)(2)I) human serum albumin [INN]",
+  "68WQQ3N9TI"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM806/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of albumin, iodinated I 125 serum (I 125 HSA) as a diagnostic agent. The International Commission on Radiological Protection states that breastfeeding should be interrupted for more than 3 weeks following diagnostic use of I 125 HSA. This usually will result in permanent discontinuation of breastfeeding for the current infant.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "I 125 is a low-energy pure gamma emitter with a physical half-life of 59.4 days. Iodide is actively secreted into breastmilk and actively taken up by the mother's and infant's thyroid glands."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

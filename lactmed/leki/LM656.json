@@ -1,0 +1,38 @@
+{
+ "id": "LM656",
+ "tytul": "Abacavir",
+ "synonimy": [
+  "Abacavir sulfate",
+  "abacavir",
+  "Ziagen",
+  "Epzicom",
+  "Trizivir",
+  "Triumeq",
+  "1592U89 sulfate",
+  "UNII-J220T4J9Q2",
+  "HSDB 7154",
+  "J220T4J9Q2",
+  "1592U89",
+  "[(1S,4R)-4-[2-amino-6-(cyclopropylamino)purin-9-yl]cyclopent-2-en-1-yl]methanol"
+ ],
+ "zaktualizowano": "2025-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM656/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Abacavir appears in breastmilk in small quantities. Very little information is available on the safety of its use during breastfeeding. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Fifteen women had been taking abacavir 300 mg twice daily for 53 to 182 days as part of a 3-drug combination that included zidovudine and lamivudine. Breastmilk samples were collected at just before a dose at a median of 1 month postpartum. Whole breastmilk levels contained a median of 0.057 mg/L of abacavir, which was a median of 85% of maternal blood levels.\nFive mothers taking abacavir 600 mg once daily provided 11 milk samples at a median of 12.8 hours after a dose. The median drug concentration in milk was 91 mcg/L, which resulted in an estimated infant dosage of 10 mcg/kg daily and a relative infant dose of 0.34% of the maternal weight-adjusted dosage.\nInfant Levels. Nine infants were breastfed either partially or exclusively by their mothers who had been taking abacavir 300 mg twice daily for 53 to 182 days as part of a 3-drug combination that included zidovudine and lamivudine. Infant blood was collected at a median of 1 month postpartum 11 to 17 hours after the mothers previous dose, and at a median of 1 hour (range 6 minutes to 35 hours) after the last breastfeeding. Eight of 9 infants studied had undetectable (<16 mcg/L) plasma abacavir levels.\nInfants were breastfed by mothers taking abacavir 600 mg once daily, although the extent of breastfeeding was not sated. Infant serum concentrations taken between 11 and 18 hours after maternal drug intake at 1 month of age ranged from 1 to 49 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "An HIV-positive mother took a combination tablet containing dolutegravir 50 mg, abacavir sulfate 600 mg and lamivudine 300 mg (Triumeq) once daily. Her infant was exclusively breastfed for about 30 weeks and partially breastfed for about 20 weeks more. No obvious side effects were noted."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

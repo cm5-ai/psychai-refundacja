@@ -1,0 +1,62 @@
+{
+ "id": "LM441",
+ "tytul": "Tinidazole",
+ "synonimy": [
+  "tinidazole",
+  "Tindamax",
+  "Tinidazol",
+  "Fasigyn",
+  "Simplotan",
+  "Trimonase",
+  "Tricolam",
+  "Bioshik",
+  "Fasigin",
+  "19387-91-8",
+  "Tinidazolum",
+  "Sorquetan",
+  "Pletil",
+  "Protozol",
+  "Glongyn",
+  "Amtiba",
+  "Tinidazol [INN-Spanish]",
+  "Tinidazolum [INN-Latin]",
+  "UNII-033KF7V46H",
+  "CCRIS 7621",
+  "HSDB 7362",
+  "CP 12574",
+  "EINECS 243-014-4",
+  "033KF7V46H",
+  "BRN 0618182",
+  "Tinidazole [USAN:USP:INN:BAN:JAN]",
+  "CP-12,574",
+  "1-(2-(Ethylsulfonyl)ethyl)-2-methyl-5-nitroimidazole",
+  "Ethyl (2-(2-methyl-5-nitro-1-imidazolyl)ethyl)sulfone",
+  "1H-Imidazole, 1-(2-(ethylsulfonyl)ethyl)-2-methyl-5-nitro-",
+  "5-23-05-00067 (Beilstein Handbook Reference)",
+  "Imidazole, 1-(2-(ethylsulfonyl)ethyl)-2-methyl-5-nitro-"
+ ],
+ "zaktualizowano": "2021-03-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM441/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amounts of tinidazole in milk are less than doses given to infants. Measurements of infant plasma levels during breastfeeding have not been reported. No studies have evaluated adverse effects of tinidazole on the infant during breastfeeding, but presumably they are similar to those of the closely related drug, metronidazole, such as increased risk of oral and rectal Candida infections.\nAs with metronidazole, concern has been raised about exposure of healthy infants to tinidazole via breastmilk, because of possible mutagenicity and carcinogenicity. Opinions vary among experts on the advisability of using tinidazole during longer-term therapy while breastfeeding, but avoidance of breastfeeding for 3 days after a single dose should allow milk levels to drop to negligible values. Other drugs are available for bacterial vaginosis, and can be given vaginally, which should result in lower amounts in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Three women were given tinidazole 150 orally twice daily starting on day 4 postpartum. On day 7, milk samples were collected at 2, 5 and 9 hours after a dose. Breastmilk concentrations ranged between 5.8 and 12.7 mg/L.\nTwenty-four women who delivered by cesarean section were given a single intravenous dose of tinidazole 500 mg after cord clamping. Colostrum levels of tinidazole averaged 5.8 mg/L at 12 hours after the dose, 3.5 mg/L at 24 hours, 1.2 mg/L at 48 hours and 0.3 mg/L at 72 hours after the dose. The drug was barely detectable 96 hours after the dose. Only slight differences existed between concentrations in fore- and hindmilk.\nFive women who delivered by cesarean section were given a single intravenous dose of tinidazole 1600 mg after cord clamping. Milk concentrations and volumes were measured for 96 hours after the dose. The authors concluded that milk concentrations would be sufficiently low to commence breastfeeding 72 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Anaerobic bacterial infections) Amoxicillin and Clavulanic Acid, Clindamycin, Doxycycline; (Bacterial Vaginosis) Clindamycin, Metronidazole; (Giardiasis) Metronidazole"
+  ]
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "pegcetacoplan",
+ "tytul": "Pegcetacoplan",
+ "synonimy": [
+  "Pegcetacoplan",
+  "Empaveli",
+  "Syfovre",
+  "APL-2",
+  "UNII-TO3JYR3BOU",
+  "(4S)-5-[[2-[[(2R)-1-[[(2S)-1-[[(2S,3R)-1-[[(2S)-1-[[(2R)-1-[[(2S)-1-[(2S)-2-[[(2S)-1-[[(2S)-1-[[(1S)-3-amino-1-carboxy-3-oxopropyl]amino]-1-oxopropan-2-yl]amino]-4-methyl-1-oxopentan-2-yl]carbamoyl]pyrrolidin-1-yl]-6-[[(2R,3R)-3-methyl-3,4-dihydro-2H-pyrrole-2-carbonyl]amino]-1-oxohexan-2-yl]amino]-1-oxo-3-sulfanylpropan-2-yl]amino]-1-oxopropan-2-yl]amino]-3-hydroxy-1-oxobutan-2-yl]amino]-4-carboxy-1-oxobutan-2-yl]amino]-1-oxo-3-sulfanylpropan-2-yl]amino]-2-oxoethyl]amino]-5-oxo-4-[[(2S)-pyrrolidine-2-carbonyl]amino]pentanoic acid"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/pegcetacoplan/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of pegcetacoplan during breastfeeding. Since only a small dose in injected intravitreally into the eye, it is unlikely that a clinically relevant amount would reach the infant in breastmilk. Pegcetacoplan was undetectable in the milk of one mother after systemic use; however, the manufacturer recommends that breastfeeding be discontinued during treatment and for 40 days after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with hemolytic paroxysmal nocturnal hemoglobinuria became pregnant. She was treated with pegcetacoplan 1080 mg subcutaneous three times a week near term. Two milk samples obtained on days 1 and 2 postpartum contained undetectable (<20 mg/L) amounts of pegcetacoplan. The time of the previous dose was not specified, but blood samples taken on the same days contained pegcetacoplan in therapeutic concentrations of 719 and 635 mg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Paroxysmal Nocturnal Hemoglobinuria) Eculizumab"
+  ]
+ ]
+}

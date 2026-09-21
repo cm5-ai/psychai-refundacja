@@ -1,0 +1,38 @@
+{
+ "id": "LM1019",
+ "tytul": "Brentuximab Vedotin",
+ "synonimy": [
+  "Adcetris",
+  "Brentuximab Vedotin",
+  "cAC10-vcMMAE",
+  "UNII-7XL5ISS668",
+  "Anti-CD30 ADC SGN-35",
+  "7XL5ISS668",
+  "SGN 35",
+  "SGN-35",
+  "Antibody-drug conjugate SGN-35",
+  "Anti-CD30 antibody-drug conjugate SGN-35",
+  "914088-09-8",
+  "Immunoglobulin G1, anti-(human CD30 (antigen)) (human-mouse monoclonal cAC10 gamma1-chain), disulfide with human-mouse monoclonal cAC10 kappa-chain, dimer, complex with N-(((4-((N-(6-(2,5-dihydro-2,5-dioxo-1H-pyrrol-1-yl)-1-oxohexyl)-L-valyl-N5-(aminocarbonyl)-L-ornithyl)amino)phenyl)methoxy)carbonyl)-N-methyl-L-valyl-N-((1S,2R)-4-((2S)-2-((1R,2R)-3-(((1R,2S)-2-hydroxy-1-methyl-2-phenylethyl)amino)-1-methoxy-2-methyl-3-oxopropyl)-1-pyrrolidinyl)-2-methoxy-1-((1S)-1-ethylpropyl)-4-oxobutyl)-N-methyl-L-valinamide"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1019/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of brentuximab vedotin during breastfeeding. Because brentuximab is a large protein molecule with a molecular weight of about 153,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Vedotin (monomethyl auristatin E) is a small-molecule anticancer drug that might enter milk and be absorbed by the infant. The manufacturer recommends that breastfeeding be discontinued during brentuximab vedotin therapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

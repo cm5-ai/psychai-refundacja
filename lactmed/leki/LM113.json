@@ -1,0 +1,52 @@
+{
+ "id": "LM113",
+ "tytul": "Flunisolide",
+ "synonimy": [
+  "flunisolide",
+  "Aerobid",
+  "Nasalide",
+  "Rhinalar",
+  "Synaclyn",
+  "Bronalide",
+  "Syntaris",
+  "Nasarel",
+  "Flunisolida",
+  "Flunisolide HFA",
+  "Lunis",
+  "Flunisolidum",
+  "Aerospan",
+  "Soluzione",
+  "Nisolid",
+  "Aerobid M",
+  "Aerospan HFA",
+  "UNII-78M02AA8KF",
+  "78M02AA8KF",
+  "EINECS 222-193-2",
+  "RS 3999",
+  "(1S,2S,4R,8S,9S,11S,12S,13R,19S)-19-fluoro-11-hydroxy-8-(2-hydroxyacetyl)-6,6,9,13-tetramethyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one"
+ ],
+ "zaktualizowano": "2024-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM113/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although not measured, the amounts of inhaled corticosteroids absorbed into the maternal bloodstream and excreted into breastmilk are probably too small to affect a breastfed infant. Expert opinion considers inhaled, nasal and oral corticosteroids acceptable to use during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "None reported with any corticosteroid."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Inhaled) Beclomethasone"
+  ]
+ ]
+}

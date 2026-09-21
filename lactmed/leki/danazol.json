@@ -1,0 +1,51 @@
+{
+ "id": "danazol",
+ "tytul": "Danazol",
+ "synonimy": [
+  "Danazol",
+  "Danocrine",
+  "Chronogyn",
+  "Danazole",
+  "Danokrin",
+  "Danogen",
+  "Danoval",
+  "Danazolum",
+  "Danovaol",
+  "WIN-17757",
+  "WIN 17,757",
+  "CCRIS 6747",
+  "Bonzol",
+  "UNII-N29QWW3BUO",
+  "EINECS 241-270-1",
+  "CHEBI:4315",
+  "DTXSID2022880",
+  "NSC-270916",
+  "DTXCID202880",
+  "NSC270916",
+  "(1S,2R,13R,14S,17R,18S)-17-ethynyl-2,18-dimethyl-7-oxa-6-azapentacyclo[11.7.0.02,10.04,8.014,18]icosa-4(8),5,9-trien-17-ol"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/danazol/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of danazol during breastfeeding, and it is considered to be contraindicated during breastfeeding. An alternate drug is preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hereditary Angioedema) C1-esterase inhibitor"
+  ]
+ ]
+}

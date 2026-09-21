@@ -1,0 +1,51 @@
+{
+ "id": "iloprost",
+ "tytul": "Iloprost",
+ "synonimy": [
+  "Iloprost",
+  "Ventavis",
+  "Ciloprost",
+  "Aurlumyn",
+  "ZK 36374",
+  "ZK-36374",
+  "ZK36374",
+  "Endoprost",
+  "Ilomedin",
+  "IlomedineIloprostum",
+  "UNII-JED5K35YGL",
+  "ZK-36374",
+  "JED5K35YGL",
+  "DTXSID2041046",
+  "CHEBI:63916",
+  "BAY Q6256",
+  "ZK 00036374",
+  "CHEMBL494",
+  "ZK-00036374",
+  "DTXCID001333799",
+  "(5E)-5-[(3aS,4R,5R,6aS)-5-hydroxy-4-[(E,3S)-3-hydroxy-4-methyloct-1-en-6-ynyl]-3,3a,4,5,6,6a-hexahydro-1H-pentalen-2-ylidene]pentanoic acid"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/iloprost/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of iloprost during breastfeeding. The half-life of iloprost is 20 to 30 minutes and iloprost is generally not detectable in plasma 30 to 60 minutes after inhalation. It is unlikely that clinically important amounts of iloprost are excreted into milk after 1 hour following an inhaled dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Pulmonary Artery Hypertension) Bosentan, Epoprostenol, Nitric Oxide, Sildenafil, Treprostinil"
+  ]
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "LM315",
+ "tytul": "Maprotiline",
+ "synonimy": [
+  "maprotiline",
+  "Maprotylina",
+  "Maprotilinum",
+  "Maprotilina",
+  "Maprotylina [Polish]",
+  "UNII-2U1W68TROF",
+  "276-Ba",
+  "2U1W68TROF",
+  "EINECS 233-599-4",
+  "BRN 2385493",
+  "BA-34,276 [AS HYDROCHLORIDE]",
+  "N-methyl-3-(1-tetracyclo[6.6.2.02,7.09,14]hexadeca-2,4,6,9,11,13-hexaenyl)propan-1-amine"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM315/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is little published experience with maprotiline during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Milk maprotiline levels after a single oral dose of 100 mg have been reported to have a peak milk level at about 8 hours after a dose at about 110 mcg/L. During a regimen of 50 mg orally three times daily, milk levels of 180-260 mcg/L were reported at unstated times after various doses. Details of the above manufacturer's studies were not reported.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Although it is structurally a tetracyclic compound, maprotiline has pharmacologic actions similar to the tricyclic antidepressants.\nFollow-up for 1 to 3 years in a group of 20 breastfed infants whose mothers were taking a tricyclic antidepressant found no adverse effects on growth and development. Two small controlled studies indicate that other tricyclic antidepressants have no adverse effect on infant development.\nIn another study, 25 infants whose mothers took a tricyclic antidepressant during pregnancy and lactation were assessed formally between 15 to 71 months and found to have normal growth and development. One of the mothers was taking maprotiline."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Maprotiline has caused increased serum prolactin levels and galactorrhea in nonpregnant, nonnursing patients. The clinical relevance of these findings in nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nAn observational study looked at outcomes of 2859 women who took an antidepressant during the 2 years prior to pregnancy. Compared to women who did not take an antidepressant during pregnancy, mothers who took an antidepressant during all 3 trimesters of pregnancy were 37% less likely to be breastfeeding upon hospital discharge. Mothers who took an antidepressant only during the third trimester were 75% less likely to be breastfeeding at discharge. Those who took an antidepressant only during the first and second trimesters did not have a reduced likelihood of breastfeeding at discharge. The antidepressants used by the mothers were not specified.\nA retrospective cohort study of hospital electronic medical records from 2001 to 2008 compared women who had been dispensed an antidepressant during late gestation (n = 575) to those who had a psychiatric illness but did not receive an antidepressant (n = 1552) and mothers who did not have a psychiatric diagnosis (n = 30,535). Women who received an antidepressant were 37% less likely to be breastfeeding at discharge than women without a psychiatric diagnosis, but no less likely to be breastfeeding than untreated mothers with a psychiatric diagnosis. None of the mothers were taking maprotiline.\nIn a study of 80,882 Norwegian mother-infant pairs from 1999 to 2008, new postpartum antidepressant use was reported by 392 women and 201 reported that they continued antidepressants from pregnancy. Compared with the unexposed comparison group, late pregnancy antidepressant use was associated with a 7% reduced likelihood of breastfeeding initiation, but with no effect on breastfeeding duration or exclusivity. Compared with the unexposed comparison group, new or restarted antidepressant use was associated with a 63% reduced likelihood of predominant, and a 51% reduced likelihood of any breastfeeding at 6 months, as well as a 2.6-fold increased risk of abrupt breastfeeding discontinuation. Specific antidepressants were not mentioned."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

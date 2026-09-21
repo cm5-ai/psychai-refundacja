@@ -1,0 +1,41 @@
+{
+ "id": "LM1206",
+ "tytul": "Elotuzumab",
+ "synonimy": [
+  "Elotuzumab",
+  "Empliciti",
+  "HuLuc63",
+  "HuLuc-63",
+  "Elotuzumab [USAN:INN]",
+  "UNII-1351PE5UGS",
+  "1351PE5UGS",
+  "PDL063",
+  "PDL-063",
+  "BMS 901608",
+  "BMS-901608",
+  "915296-00-3",
+  "Immunoglobulin G1, anti-(human protein CS1) (human-mouse HuLuc63 heavy chain), disulfide with human-mouse HuLuc63 kappa-chain, dimer",
+  "Immunoglobulin G1, anti-(human SLAM family member 7 (CD2-like receptor activating cytotoxic cells, CD319 antigen)), humanized mouse monoclonal HuLuc63 gamma-1 heavy chain (222-214')-disulfide with humanized mouse monoclonal HuLuc63 kappa light chain (228-228''",
+  "231-231'')-bisdisulfide dimer"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1206/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of elotuzumab during breastfeeding. Because elotuzumab is a large protein molecule with a molecular weight of 148,100 Da the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. However, elotuzumab is administered with dexamethasone and lenalidomide, two drugs that have no information on use in nursing mothers. The manufacturer recommends that women receiving elotuzumab should not breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

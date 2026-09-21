@@ -1,0 +1,46 @@
+{
+ "id": "LM730",
+ "tytul": "Valsartan",
+ "synonimy": [
+  "valsartan",
+  "Diovan",
+  "Tareg",
+  "Provas",
+  "Entresto",
+  "Exforge",
+  "Valzaar",
+  "Valtan",
+  "Prexxartan",
+  "CGP 48933",
+  "UNII-80M03YXJ7I",
+  "80M03YXJ7I",
+  "HSDB 7519",
+  "EZR-104",
+  "EC 604-045-2",
+  "(2S)-3-methyl-2-[pentanoyl-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]amino]butanoic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM730/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Milk levels after the lowest dose of the combination of valsartan and sacubitril (Entresto) are very low. If the highest recommended maternal dosage (6 times greater) produces proportionate milk levels, they would likely still be quite low. Valsartan is unlikely to affect the nursing infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Five mothers taking sacubitril 24 mg and valsartan 26 mg (Entresto) twice daily collected milk samples at 0,1, 2, 4, 6, 8, 10, and 12 hours after taking a dose at steady state. Sacubitril and its active metabolite, LBQ657, were found in the samples, but valsartan was undetectable (<0.19 mcg/L) in all milk samples.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Two women taking sacubitril 24 mg and valsartan 26 mg (Entresto) did not observe any symptoms in their breastfed infants. Their extent of breastfeeding was not reported."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Candesartan, Captopril, Benazepril, Enalapril, Lisinopril, Quinapril"
+  ]
+ ]
+}

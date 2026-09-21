@@ -1,0 +1,59 @@
+{
+ "id": "LM830",
+ "tytul": "Isocarboxazid",
+ "synonimy": [
+  "isocarboxazid",
+  "Isocarboxazide",
+  "Marplan",
+  "Isocarbonazid",
+  "Benazide",
+  "Enerzer",
+  "Isocarbossazide",
+  "Isocarboxazidum",
+  "Isocarboxazida",
+  "Isocarbossazide [DCIT]",
+  "Isocarboxazide [INN-French]",
+  "Isocarboxazidum [INN-Latin]",
+  "59-63-2",
+  "Isocarboxazida [INN-Spanish]",
+  "CCRIS 9178",
+  "Ro 5-0831",
+  "Ro 5-0831/1",
+  "Isocarboxazid [USP:INN:BAN]",
+  "UNII-34237V843T",
+  "NSC 169893",
+  "EINECS 200-438-4",
+  "BRN 0201295",
+  "N'-Benzyl N-methyl-5-isoxazolecarboxylhydrazide-3",
+  "5-Methyl-3-isoxazolecarboxylic acid 2-benzylhydrazide",
+  "3-Isoxazolecarboxylic acid, 5-methyl-, 2-(phenylmethyl)hydrazide",
+  "34237V843T",
+  "1-Benzyl-2-(5-methyl-3-isoxazolyl-carbonyl)hydrazine",
+  "3-Isoxazolecarboxylic acid, 5-methyl-, 2-benzylhydrazide",
+  "4-27-00-03999 (Beilstein Handbook Reference)"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM830/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the lack of data on use during breastfeeding, other antidepressants are preferred during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "id": "ornidazole",
+ "tytul": "Ornidazole",
+ "synonimy": [
+  "Ornidazole",
+  "Tiberal",
+  "Ro 7-0207",
+  "Ornidazolum",
+  "Madelen",
+  "1-chloro-3-(2-methyl-5-nitro-1H-imidazol-1-yl)propan-2-ol",
+  "1-(3-Chloro-2-hydroxypropyl)-2-methyl-5-nitroimidazole",
+  "Ornidazol",
+  "NSC 95075",
+  "Ro-70207",
+  "1-(2-Hydroxy-3-chloropropyl)-2-methyl-5-nitroimidazole",
+  "CHEBI:75176",
+  "alpha-(Chloromethyl)-2-methyl-5-nitroimidazole-1-ethanol",
+  "NSC-95075",
+  "MLS000028628",
+  "62XCK0G93T",
+  "alpha-(Chlormethyl)-2-methyl-5-nitro-imidazol-1-aethanol",
+  "DTXSID4045420",
+  "NSC95075",
+  "SMR000058726",
+  "Imidazole-1-ethanol,.alpha.-(chloromethyl)-2-methyl-5-nitro-",
+  "RO-7-0207",
+  "1-chloro-3-(2-methyl-5-nitro-1-imidazolyl)-2-propanol",
+  "Ornidal",
+  "CCRIS 9030",
+  "SR-01000000256",
+  "EINECS 240-826-0",
+  "BRN 0614299",
+  "UNII-62XCK0G93T",
+  "NCGC00016723-01",
+  "Prestwick_584",
+  "MFCD00057960",
+  "1-chloro-3-(2-methyl-5-nitroimidazol-1-yl)propan-2-ol",
+  "alpha-(Chlormethyl)-2-methyl-5-nitro-imidazol-1-aethanol",
+  "Opera_ID_1555",
+  "Prestwick0_000164",
+  "Prestwick1_000164",
+  "Prestwick2_000164",
+  "Prestwick3_000164",
+  "NCIOpen2_006374",
+  "SCHEMBL43039",
+  "BSPBio_000027",
+  "MLS001424188",
+  "SPBio_001948"
+ ],
+ "zaktualizowano": "2023-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/ornidazole/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ornidazole is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. The amount of ornidazole in milk is low after administration of 3 doses totaling 2 grams intravenously perinatally. Measurements of infant plasma levels during breastfeeding have not been reported. No studies have evaluated adverse effects of ornidazole on the infant during breastfeeding, but presumably they are similar to those of the closely related drug, metronidazole, such as increased risk of oral and rectal Candida infections.\nAs with metronidazole, concern has been raised about exposure of healthy infants to ornidazole via breastmilk,[1] because of possible mutagenicity and carcinogenicity. Opinions vary among experts on the advisability of using ornidazole during longer-term therapy while breastfeeding, but avoidance of breastfeeding for 3 days after a single dose should allow milk levels to drop to negligible values because its half-life is similar to tinidazole.[2] Other drugs are available for bacterial vaginosis, and can be given vaginally, which should result in lower amounts in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Seventy-seven mothers who had a cesarean section and received ornidazole as one preoperative dose of 1000 mg and two postoperative doses of 500 mg each within 24 hours contributed 123 colostrum and milk samples for analysis. These values were used to create a population pharmacokinetic model of ornidazole excretion into milk. Simulated milk levels with this dosage regimen found the median peak milk levels to be 5.4 mg/L at 27 hours after delivery in patient with normal total bilirubin (<17 micromol/L) and 6.2 mg/L at 33 hours after delivery in patients with abnormal bilirubin (>17 micromol/L).[3]\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

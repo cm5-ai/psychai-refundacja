@@ -1,0 +1,37 @@
+{
+ "id": "LM57",
+ "tytul": "Ceftriaxone",
+ "synonimy": [
+  "ceftriaxone",
+  "Biotrakson",
+  "Rocephin",
+  "Ceftriaxonum",
+  "Ceftriaxona",
+  "DRG-0071",
+  "Ro 139904",
+  "UNII-75J73V1629",
+  "EINECS 277-405-6",
+  "75J73V1629",
+  "(6R,7R)-7-[[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-methoxyiminoacetyl]amino]-3-[(2-methyl-5,6-dioxo-1H-1,2,4-triazin-3-yl)sulfanylmethyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM57/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that ceftriaxone produce low levels in milk, which are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Ceftriaxone is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Following administration of a 1 gram dose of ceftriaxone intramuscularly or intravenously on day 3 postpartum to 20 women, peak milk levels averaged about 0.7 and 0.5 mg/L, respectively. Peaks occurred about 4 hours after the dose and fell very slowly over 24 hours with half-lives of 13 to 17 hours. The amounts in milk represent an infant dosage of about 0.5% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother who was exclusively nursing her 52-day-old infant developed a soft-tissue infection. She was treated with intravenous teicoplanin 400 mg every 12 hours for 3 doses, then 400 mg daily for 5 days total, intravenous ceftriaxone 1 gram daily, topical mupirocin cream twice daily. A careful follow-up indicated that her infant had no adverse effects."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

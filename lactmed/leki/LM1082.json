@@ -1,0 +1,54 @@
+{
+ "id": "LM1082",
+ "tytul": "Peginterferon Alfa",
+ "synonimy": [
+  "Pegasys",
+  "Peginterferon alfa-2a",
+  "PEG-IFN alfa-2A",
+  "PEG-interferon alfa-2A",
+  "Pegylated-interferon alfa 2a",
+  "Pegylated Interfeaon alfa-2A",
+  "UNII-Q46947FE7K",
+  "HSDB 8140",
+  "Ro 25-8310/000",
+  "Pegaferon",
+  "Sylatron",
+  "ViraferonPeg",
+  "PegIntron",
+  "Peg-Intron",
+  "Peginterferon alfa-2b",
+  "Pegylated alfa interferon",
+  "pegylated interferon alfa-2b",
+  "UNII-G8RGG88B68",
+  "Sch 54031",
+  "HSDB 8139",
+  "SCH 054031",
+  "Interferon alpha-2b (human), pegylated",
+  "ropeginterferon alfa-2b",
+  "Besremi"
+ ],
+ "zaktualizowano": "2026-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1082/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Peginterferon alfa is unmeasurable in human milk. In addition, because interferon is poorly absorbed orally, it is not likely to reach the bloodstream of the infant. Polyethylene glycol is not excreted into breastmilk. It is unlikely that peginterferon alfa use by a nursing mother presents any serious risk to the breastfed infant.\nFor use in treating maternal hepatitis B, no differences exist in infection rates between breast-fed and formula-fed infants born to hepatitis B-infected women, as long as the infant receives hepatitis B immune globulin and hepatitis B vaccine at birth. Mothers with hepatitis B are encouraged to breastfeed their infants after their infants receive these preventative measures.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "No information is available specifically on peginterferon alfa. However, data are available on non-pegylated interferon alfa.\nMaternal Levels. Two mothers taking interferon alfa had milk levels measured. One mother taking 8 million units three times a week had a milk level of 1400 units/L and another taking 8 million units daily had a milk level of 6000 units/L. Both levels were apparently measured immediately postpartum (in colostrum), but the time since the previous dose was not stated.\nAn intravenous dose of 30 million units of interferon alfa-2B in one woman resulted in a peak milk level of 1551 International Units/L which was a slight increase over two baseline levels prior to the dose which averaged 1072 International Units/L. By 12 hours after the dose, milk interferon levels were lower than baseline.\nTwo patients, one from the United States and one from Taiwan, were receiving ropeginterferon alfa-2b during pregnancy and postpartum for essential thrombocytopenia. The one from the US was receiving 100 mcg every 2 weeks, with the last dose 3 days before delivery. Four breastmilk samples had no detectable (<0.1 mcg/L) levels of ropeginterferon alfa-2b. The woman from Taiwan was receiving 500 mcg every 2 weeks, with the last dose 3 days before delivery. Four milk samples contained no quantifiable ropeginterferon alfa-2b (<5 ng/L), but a colostrum sample had a slight signal.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One infant was born to a mother who received 3 million units of interferon alfa-2a subcutaneously 3 times weekly during pregnancy and postpartum for essential thrombocytopenia. Her infant was breastfed for 2 weeks postpartum before bilateral mastitis caused the mother to terminate nursing. The infant reportedly thrived, although specific measures were not mentioned.\nTwo infants were reported whose mothers were receiving peginterferon-alpha for chronic myeloid leukemia. One breastfed safely for 2 months and the other for 4 months."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis B) Lamivudine, Tenofovir; (Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Sofosbuvir"
+  ]
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "LM1069",
+ "tytul": "Everolimus",
+ "synonimy": [
+  "Everolimus",
+  "Afinitor",
+  "Certican",
+  "Zortress",
+  "Afinitor Disperz",
+  "Votubia",
+  "XIENCE V",
+  "TORPENZ",
+  "SDZ-RAD",
+  "RAD001",
+  "XIENCE V",
+  "UNII-9HW64Q8G6G",
+  "RAD 001",
+  "DTXCID8020599",
+  "NSC733504",
+  "CHEMBL1908360",
+  "HSDB 8255",
+  "(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-1,18-dihydroxy-12-[(2R)-1-[(1S,3R,4R)-4-(2-hydroxyethoxy)-3-methoxycyclohexyl]propan-2-yl]-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1069/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "In two women, everolimus was either undetectable or detectable in very small amounts in the colostrum. However, no information is available on the use of everolimus during breastfeeding. An alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was receiving everolimus 2 mg daily and cyclosporine 1.5 mg/kg daily during pregnancy and postpartum following a heart transplant. Although she did not breastfeed, a colostrum sample was obtained one day postpartum which contained undetectable everolimus levels (<0.5 mcg/L). The timing of the sample with respect to the previous everolimus dose was not stated. Measurement of serial plasma levels of everolimus obtained transplacentally found the estimated elimination half-life of everolimus to be about 86 hours in the newborn.\nA woman with a kidney transplant received azathioprine 125 mg, methylprednisolone 12 mg, and everolimus 0.5 mg daily during pregnancy and postpartum. On the second day postpartum, 6 colostrum samples were collected. The pre-dose level was 33 ng/L. The highest level was 66 ng/L at 4 hours after the dose. Samples taken at 2, 6, 8 and 12 hours after the dose contained concentrations that ranged from 45 to 51 ng/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A review of the Transplant Pregnancy Registry International database from 1999 to 2024 found that one mother with a transplant had breastfed her infant for at least 4 weeks while taking everolimus, although no infant outcome was reported."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Azathioprine, Cyclosporine, Tacrolimus"
+  ]
+ ]
+}

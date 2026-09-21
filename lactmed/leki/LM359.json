@@ -1,0 +1,62 @@
+{
+ "id": "LM359",
+ "tytul": "Hydrocodone",
+ "synonimy": [
+  "Hydrocodone",
+  "Benzhydrocodone",
+  "Apadaz",
+  "Norco",
+  "Zohydro",
+  "Lortab",
+  "Vicoprofen",
+  "Xodol",
+  "Zydone",
+  "Reprexain",
+  "Hysingla ER",
+  "Dihydrocodeinone",
+  "Hydrocodon",
+  "Hydrocone",
+  "Hydroconum",
+  "Codinovo",
+  "Dicodid",
+  "Multacodin",
+  "Bekadid",
+  "hidrocodona",
+  "Hydrocodonum",
+  "Idrocodone",
+  "Idrocodone [DCIT]",
+  "Hydrocodone polistirex",
+  "UNII-6YKS4Y3WQ7",
+  "HSDB 3097",
+  "DEA No. 9193",
+  "EINECS 204-733-9",
+  "NSC 19044",
+  "BRN 0094193",
+  "4-27-00-03580 (Beilstein Handbook Reference)",
+  "(4R,4aR,7aR,12bS)-9-methoxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM359/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Hydrocodone is an opioid narcotic. Benzhydrocodone is a hydrocodone prodrug that is rapidly converted into hydrocodone in the gastrointestinal tract. Maternal use of oral opioids during breastfeeding can cause infant drowsiness, which may progress to rare but severe central nervous system depression. Newborn infants seem to be particularly sensitive to the effects of even small dosages of narcotic analgesics. If hydrocodone is required by the mother of a newborn, it is not a reason to discontinue breastfeeding; however, once the mother's milk comes in, it is best to provide pain control with a nonnarcotic analgesic and limit maternal intake of oral hydrocodone to 2 to 3 days at a maximum dosage of 30 mg daily with close infant monitoring. If the baby shows signs of increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness, a physician should be contacted immediately. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Hydrocodone is metabolized to 6 active metabolites, including hydromorphone.\nMaternal Levels. Two hospitalized mothers were taking hydrocodone and acetaminophen combination for pain and pumped their milk for their nonhospitalized infants. They donated samples of their pumped milk for analysis of hydrocodone. One mother had 17 milk hydrocodone levels measured over 4 days while taking first 10 mg and then 5 mg of hydrocodone bitartrate as needed, beginning on day 7 postpartum. Her milk hydrocodone levels ranged from 8.6 to 127.3 mcg/L. The second mother had 5 milk hydrocodone levels measured over 1.5 days while taking 5 mg doses of hydrocodone bitartrate. Her milk hydrocodone levels ranged from 5.2 to 47.2 mcg/L, beginning at day 16 postpartum. Their infants received an estimated 3.1 and 3.7% of the maternal weight-adjusted dosages, but the absolute hydrocodone dosages were 8.58 mcg/kg and 3.07 mcg/kg daily because of the differences in the dosages ingested by their mothers.\nA study of 30 postpartum women taking a hydrocodone-containing product for postpartum pain measured hydrocodone and hydromorphone in breastmilk. Milk samples were collected after lactogenesis II was judged to have occurred, usually starting on the third postpartum day. Mean and median maternal dosages of hydrocodone base were 175 and 145 mcg/kg daily, respectively (range 44.3 to 423.2 mcg/kg daily). The mean and median milk hydrocodone concentrations were 25.9 and 14.2 mcg/L, respectively. Only 12 of the 30 women had hydromorphone detectable (>1 mcg/L) in their milk with a median milk hydromorphone concentration of 1.9 mcg/L. Mean and median infant daily dosages of hydrocodone were 3.9 and 2.1 mcg/kg, respectively, which were equal to 2.4 and 1.6% of the weight-adjusted maternal dosage, respectively. Mean and median infant dosage of hydromorphone were 2.1 and 0.3 mcg/kg daily, respectively. Two women excreted much more hydromorphone into their milk than the others and might represent ultrarapid CYP2D6 metabolizers. Taking the two narcotics' potencies into account, a fully breastfed neonate would receive a mean and median of 1.5 and 0.7% of the minimum infant therapeutic opiate dosage; however, neonates might be more susceptible to the opiates than the older infants on whom these dosages were based. The authors concluded that maternal dosages of hydrocodone bitartrate up to 30 to 35 mg daily are unlikely to adversely affect breastfed neonates, but that prolonged use of dosages over 40 mg daily should be avoided during breastfeeding.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "The 18-day-old infant of a breastfeeding mother became groggy and \"slept for most of the day\" while the mother was taking 20 mg of oral hydrocodone combined with 1300 mg of acetaminophen every 4 hours for painful nipple candidiasis and mastitis. The mother decreased her dose by one-half and the infant apparently no longer experienced grogginess or hypersomnolence. The infant's symptoms were probably due to the maternal hydrocodone.\nA 5-week-old breastfed infant became cyanotic and required mouth-to-mouth resuscitation and intubation. The infant's urine was positive for opioids and the infant responded positively to naloxone; the level of consciousness improved over 2 days and extubation was accomplished. The infant's mother admitted to taking a hydrocodone-acetaminophen combination product and methadone that had been prescribed for migraine headache before she was breastfeeding. The infant's symptoms were probably due to the maternal opiate use."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Narcotics can increase serum prolactin. However, the prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Butorphanol, Fentanyl, Hydromorphone, Ibuprofen, Morphine"
+  ]
+ ]
+}

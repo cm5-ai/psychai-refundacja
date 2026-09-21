@@ -1,0 +1,33 @@
+{
+ "id": "LM592",
+ "tytul": "Atovaquone and Proguanil",
+ "synonimy": [
+  "Atovaquone and proguanil",
+  "Malarone",
+  "Atovaquone mixture with chloroguanide",
+  "UNII-Y883P1Z2LT",
+  "UNII-F1W7QUV0KI",
+  "UNII-S61K3P7B2V",
+  "(1E)-1-[amino-(4-chloroanilino)methylidene]-2-propan-2-ylguanidine;3-[4-(4-chlorophenyl)cyclohexyl]-4-hydroxynaphthalene-1,2-dione;hydrochloride"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM592/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of atovaquone and proguanil during breastfeeding. The Centers for Disease Control and Prevention does not currently recommend it for the prevention of malaria in women breastfeeding infants weighing less than 5 kg (11 pounds). However, it can be used for treatment of women who are breastfeeding infants of any weight when the potential benefit outweighs the potential risk to the infant (e.g., treating a breastfeeding woman who has acquired P. falciparum malaria in an area of multidrug-resistant strains and who cannot tolerate other treatment options).\nIn general, only small amounts of antimalarial drugs are excreted in the breastmilk of lactating women. Because the quantity of antimalarial drugs transferred in breastmilk is insufficient to provide adequate protection against malaria, infants who require chemoprophylaxis must also receive the recommended dosages of antimalarial drugs."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A physiologically based pharmacokinetic model predicted that the RID of proguanil is between 0.25% and 0.5%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "LM579",
+ "tytul": "Zolmitriptan",
+ "synonimy": [
+  "zolmitriptan",
+  "Zomig",
+  "Zomigoro",
+  "Flezol",
+  "Rapimelt",
+  "Zonimat",
+  "Zipton",
+  "Flezol",
+  "Zomigoro",
+  "zolmitriptane",
+  "zolmitriptanum",
+  "UNII-2FS66TH3YW",
+  "311C90",
+  "Cvt-427",
+  "BW-311C90",
+  "NSC-760383",
+  "DTXSID8045933",
+  "CHEBI:10124",
+  "(4S)-4-[[3-[2-(dimethylamino)ethyl]-1H-indol-5-yl]methyl]-1,3-oxazolidin-2-one"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM579/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Preliminary evidence indicates that zolmitriptan levels in breastmilk are low. Amounts ingested by the infant are small and unlikely to affect the nursing infant, especially if the infant is older than 2 months. Concurrent use of propranolol might increase the zolmitriptan dose received by the breastfed infant substantially. Painful, burning nipples and breast pain have been reported after doses of sumatriptan and other triptans. This has occasionally been accompanied by a decrease in milk production."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Zolmitriptan is metabolized to the active metabolite, N-desmethylzolmitriptan by CYP1A2 and CYP3A4.\nMaternal Levels. Four women who were at least 1 month postpartum used zolmitriptan to treat migraine provided one milk sample before the dose, then additional milk samples at 1, 2, 4, 8, 12 and 24 hours after the dose. One mother used a 5 mg dose by nasal spray. The other 3 mothers took 2.5 mg orally. N-desmethylzolmitriptan was undetectable (<1 nM) in milk. The average peak milk level of 8.2 mcg/L (range 2.5 to 18.1 mcg/L) occurred from 4 to 12 hours after the dose. The average milk level was 4.6 mcg/L (range 1.5 to 10.1 mcg/L) and the half-life in milk averaged 6.5 hours. Their infants’ average daily dosage of zolmitriptan was 0.7 mcg/kg (range 0.2 to 1.5 mcg/kg) and their average weight-adjusted infant dosage was 2.1% (range 0.7 to 5.3%) of the maternal dose. The woman who had the highest average and peak milk levels and the highest relative and absolute infant dosages was taking propranolol concurrently, which is known to increase serum zolmitriptan levels. Excluding this woman, the other three infants’ average daily dosage of zolmitriptan was 0.4 mcg/kg (range 0.2 to 0.6 mcg/kg) and their average weight-adjusted infant dosage was 1% (range 0.7 to 1.4%) of the maternal dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A review of four European adverse reaction databases found 26 reported cases of painful, burning nipples, painful breasts, breast engorgement and/or painful milk ejection in women who took a triptan while nursing. Pain was sometimes intense and occasionally led to decreased milk production. Pain generally subsided with time as the drug was eliminated. The authors proposed that triptans may cause vasoconstriction of the arteries in the breast, nipples, and the arteries surrounding the alveoli and milk ducts, causing a painful sensation and a painful milk ejection reﬂex."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Eletriptan, Rizatriptan, Sumatriptan"
+  ]
+ ]
+}

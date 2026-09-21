@@ -1,0 +1,41 @@
+{
+ "id": "LM744",
+ "tytul": "Prazosin",
+ "synonimy": [
+  "prazosin",
+  "Furazosin",
+  "Prazosine",
+  "Prazosinum",
+  "Prazosina",
+  "UNII-XM03YJ541D",
+  "XM03YJ541D",
+  "EINECS 242-885-8",
+  "BRN 0768345",
+  "5-25-13-00365 (Beilstein Handbook Reference)",
+  "[4-(4-amino-6,7-dimethoxyquinazolin-2-yl)piperazin-1-yl]-(furan-2-yl)methanone"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM744/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because little is available on the use of prazosin during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The manufacturer reports that one mother was studied and excreted at most 3% of the dose into her breastmilk. No study details were presented.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. Prazosin does not affect serum prolactin concentration in patients with hypertension. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs",
+   "(Hypertension) Candesartan, Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Hydrochlorothiazide, Methyldopa, Propranolol"
+  ]
+ ]
+}

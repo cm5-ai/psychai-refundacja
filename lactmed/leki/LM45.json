@@ -1,0 +1,44 @@
+{
+ "id": "LM45",
+ "tytul": "Cefditoren",
+ "synonimy": [
+  "Cefditoren",
+  "Spectracef",
+  "Cefamen",
+  "UNII-81QS09V3YW",
+  "cefditorene",
+  "cefditoreno",
+  "cefditorenum",
+  "CHEMBL1743",
+  "SCHEMBL37473",
+  "orb2665599",
+  "GTPL12030",
+  "DTXSID501328012",
+  "DB01066",
+  "(6R,7R)-7-[[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-methoxyiminoacetyl]amino]-3-[(Z)-2-(4-methyl-1,3-thiazol-5-yl)ethenyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM45/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Cefditoren is no longer marketed in the United States. Because of the low levels of cefditoren in breastmilk, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush, have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefditoren is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twelve lactating women were given cefditoren 200 mg before a meal. Complete milk samples were collected with a breast pump 1 hour before administration and at 1, 2, 3, 4, 6, 8, and 12 hours after the dose. The average peak milk level was 11.3 mcg/L, at an average of 4.87 hours after the dose and the half-life in milk was 2.42 hours. The average milk concentration was 5.65 mcg/L, which resulted in a relative infant dose (RID) of 0.0073% of the weight-adjusted dosage. However, the actual milk volumes were low at an average of 405 mL/day and the infant weights averaged 8.8 kg, resulting in a daily infant milk intake of only 45 mL/kg. Using the standard daily milk volume of 150 mL/kg, the RID would be 0.025%. Furthermore, the trough concentration at 12 hours after the dose averaged 5.94 mcg/L, which is similar to the average milk level. Therefore, the peak and average milk levels and the RID are likely to be about double these values at steady-state, but still low (RID~0.05%).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ceftibuten"
+  ]
+ ]
+}

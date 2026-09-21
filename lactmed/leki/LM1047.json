@@ -1,0 +1,38 @@
+{
+ "id": "LM1047",
+ "tytul": "Doripenem",
+ "synonimy": [
+  "Doripenem",
+  "Doribax",
+  "Finibax",
+  "UNII-BHV525JOBH",
+  "BHV525JOBH",
+  "S-4661",
+  "S 4661",
+  "(4R,5S,6S)-6-[(1R)-1-hydroxyethyl]-4-methyl-7-oxo-3-[(3S,5S)-5-[(sulfamoylamino)methyl]pyrrolidin-3-yl]sulfanyl-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1047/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Doripenem is no longer marketed in the US. No information is available on the clinical use of doripenem during breastfeeding. Its excretion into breastmilk is likely similar to that of imipenem and meropenem, which produce low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush has been reported with beta-lactams, but these effects have not been adequately evaluated. Doripenem is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Imipenem and Cilastatin, Meropenem"
+  ]
+ ]
+}

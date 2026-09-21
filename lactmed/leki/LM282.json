@@ -1,0 +1,45 @@
+{
+ "id": "LM282",
+ "tytul": "Acebutolol",
+ "synonimy": [
+  "Acebutolol",
+  "Acetobutolol",
+  "Neptal",
+  "dl-Acebutolol",
+  "Prent",
+  "Acebutololo",
+  "Acebutololum",
+  "Acebrutololum",
+  "CCRIS 9214",
+  "UNII-67P356D8GH",
+  "EINECS 253-539-0",
+  "RP 21823",
+  "BRN 2162244",
+  "67P356D8GH",
+  "N-[3-acetyl-4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]butanamide"
+ ],
+ "zaktualizowano": "2024-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM282/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the relatively extensive excretion of acebutolol and its active metabolite diacetolol into breastmilk and some possible reports of adverse reactions in breastfed infants, other agents are preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding such as acebutolol (25%) are more extensively excreted into breastmilk. Diacetolol is a renally excreted metabolite with equal beta-blocking activity that is more extensively excreted into breastmilk than acebutolol. In newborn infants, the apparent half-lives of acebutolol and diacetolol averaged 10.1 to 15.6 hours and 19.8 hours, respectively. It is estimated that a fully breastfed infant would receive about 3.5% of the maternal weight-adjusted dosage of acebutolol.\nMaternal Levels. One mother with renal impairment taking 400 mg daily of acebutolol 3 days postpartum had milk levels of 1.5 mg/L of acebutolol and 2.6 mg/L of diacetolol at an unspecified time after the dose. Another mother with renal impairment taking 1200 mg daily of acebutolol 3 days postpartum had milk levels of 1.1 mg/L before a 400 mg dose and 4.1 mg/L 1.5 hours after the dose. Diacetolol milk levels were 6.3 and 6.6 mg/L, respectively, at the same times. A third mother with no renal impairment had milk acebutolol levels ranging from 0.5 to 0.7 mg/L and diacetolol levels of 1.2 to 1.8 mg/L at unspecified times while taking 200 to 600 mg daily of acebutolol from 6 to 9 days postpartum.\nA mother with pre-eclampsia took 100 mg of acebutolol daily in the morning at 8 am. On the day after delivery, a milk sample at 4 pm contained 41 and 48 mcg/L of R- and S-acebutolol, respectively, and 141 and 88 mcg/L of R- and S-diacetolol, respectively. On the next day, a milk sample at 12:30 pm contained 127 and 148 mcg/L of R- and S-acebutolol, respectively, and 112 and 57 mcg/L of R- and S-diacetolol, respectively.\nInfant Levels. One mother with renal impairment was taking 400 mg daily of acebutolol and had high plasma levels of acebutolol and its active metabolite diacetolol. Her infant had serum levels of acebutolol and diacetolol of 244 mcg/L and 594 mcg/L, respectively, on day 1 of life which decreased to 40 and 221 mcg/L on day 4 of life when breastfeeding was begun. On day 5, 24 hours after beginning breastfeeding, serum levels of acebutolol and diacetolol increased to 85 mcg/L and 803 mcg/L, respectively. On day 7 of life, acebutolol and diacetolol were 28 mcg/L and 90 mcg/L, respectively. On day 8 levels were 72 mcg/L and 261 mcg/L, respectively. The infants of two other nursing mothers taking 200 mg daily and 400 mg daily, infant plasma levels dropped rapidly after birth."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. One mother reported no adverse effects in her breastfed infant (age unstated) during acebutolol use.\nHypotension, bradycardia, and transient tachypnea occurred in a newborn infant, probably because of acebutolol and diacetolol in breastmilk. The mother was taking 400 mg daily of acebutolol and had renal impairment. Two other neonates in this report who were breastfed had no adverse reactions noted.\nA mother with essential hypertension had been taking acebutolol for several years. She continued the drug during her first pregnancy and while breastfeeding. Her infant was generally healthy, but seemed to have decreased muscle tone. She stopped the drug, but the infant continued to have stridor and possible sleep apnea. She was also taking acebutolol during her second pregnancy, but her blood pressure was uncontrolled and a cesarean section was performed. The infant did well in the NICU, except for decreased tone including lying with extremities extended, an incomplete Moro response and marked head lag. The infant was not breastfed. It is possible that the late postpartum adverse effects in the first infant were caused by acebutolol and diacetolol in breastmilk, but no measurements of infant plasma drug levels were made."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or acebutolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Propranolol, Labetalol, Metoprolol"
+  ]
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "id": "piperaquine",
+ "tytul": "Piperaquine",
+ "synonimy": [
+  "Piperaquine",
+  "UNII-A0HV2Q956Y",
+  "BRN 0905079",
+  "7-chloro-4-[4-[3-[4-(7-chloroquinolin-4-yl)piperazin-1-yl]propyl]piperazin-1-yl]quinoline"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/piperaquine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Piperaquine is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. Amounts in milk are very low and should not affect the breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twenty-seven women received 3 doses containing 320 mg of piperaquine combined with dihydroartemisinin or sulfadoxine-pyrimethamine. Breastmilk was sampled on days 1, 2, 3 to 5, 7 to 11, and 14 to 17 after delivery. Serum concentration data were analyzed using a population pharmacokinetic model (NONMEM) and breastmilk concentrations were estimated from plasma concentrations using the milk-to-plasma ratio. The estimated absolute daily infant dosage was 0.41 mcg/kg, which corresponds to a relative infant dose of 0.004%. The maximum simulated relative infant dosage from any dosing scenario was 2.5%.\nA physiologically based pharmacokinetic model has been developed that adequately predicts piperaquine excretion into breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Atovaquone and Proguanil, Chloroquine, Doxycycline, Mefloquine"
+  ]
+ ]
+}

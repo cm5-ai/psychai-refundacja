@@ -1,0 +1,45 @@
+{
+ "id": "ethyl_loflazepate",
+ "tytul": "Ethyl Loflazepate",
+ "synonimy": [
+  "Ethyl Loflazepate",
+  "BRN 0765264",
+  "CM 6912",
+  "EINECS 249-489-4",
+  "Ethyl 7-chloro-5-(o-fluorophenyl)-2,3-dihydro-2-oxo-1H-1,4-benzodiazepine-3-carboxylate",
+  "Ethyl fluclozepate",
+  "Ethylis loflazepas",
+  "Ethylis loflazepas [INN-Latin]",
+  "Loflazepate d'ethyle",
+  "Loflazepato de etilo",
+  "Loflazepic acid, ethyl ester",
+  "UNII-VJB5FW9W9J",
+  "Victan",
+  "Ethyl fluclozepate",
+  "Meilax"
+ ],
+ "zaktualizowano": "2024-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/ethyl_loflazepate/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ethyl loflazepate is not approved for marketing in the United States by the U.S. Food and Drug Administration. Available data indicate that the infant dose from milk might be rather high. An alternate drug with more published data and lower milk levels is preferred, especially while nursing a newborn or preterm infant. If ethyl loflazepate is used, monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Ethyl loflazepate is immediately and completely metabolized to an unstable metabolite after intestinal absorption, then it is metabolized to the active metabolite, norfludiazepam (CM7116).\nMaternal Levels. Two women who were taking ethyl loflazepate orally donated milk samples between 3 and 6 days postpartum at 1 hour after a dose at the estimated peak serum concentration and just before a dose. One woman who was taking a dose of 0.5 mg daily had a 1-hour milk level of norfludiazepam of 6.55 mcg/L and a trough milk level of 8.1 mcg/L. The other woman was taking a dose of 1 mg daily. She had a 1-hour milk level of norfludiazepam of 13.6 mcg/l and a trough milk level of 11.4 mcg/L. The authors estimated that the estimated relative infant dose of ethyl loflazepate would be 12.4 to 12.9%.\nAt one day postpartum, a mother began ethyl loflazepate 1 mg daily, sertraline 50 mg daily and continued alprazolam 0.4 mg daily. Two breastmilk samples on day 3 postpartum contained 7.8 and 10.6 mcg/L of norfludiazepam (CM7116; desalkylflurazepam). The sample that contained 7.8 mcg/L was taken at 22.6 hours after the dose. Two samples on day 4 postpartum contained 8.7 and 9.1 mcg/L and one sample on day 6 postpartum contained 13.4 mcg/L, which was taken at 0.5 hours after the dose. Using the highest measured milk level of 13.4 mcg/L, the estimated dose of norfludiazepam would be 2 mcg/kg daily. Using this value, the daily dose of ethyl loflazepate would be 2.5 mcg/kg, which is a relative infant dose of 13.7% of the maternal weight-adjusted dosage.\nInfant Levels. A mother who was partially nursing her infant (daily milk intake 80 to 200 mL of pumped breastmilk and 100 to 200 mL of formula) was taking ethyl loflazepate 1 mg daily. The cord blood level of norfludiazepam on the day of delivery was 53.1 mcg/L and on day 5 postpartum, the infant had a serum concentration of 32.1 mcg/L of norfludiazepam."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Lorazepam, Oxazepam, Temazepam"
+  ]
+ ]
+}

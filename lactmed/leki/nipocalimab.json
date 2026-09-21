@@ -1,0 +1,35 @@
+{
+ "id": "nipocalimab",
+ "tytul": "Nipocalimab",
+ "synonimy": [
+  "Nipocalimab",
+  "Imaavy",
+  "C000731839",
+  "UNII-87M90CV8NC",
+  "JNJ-80202135",
+  "M 281",
+  "M-281",
+  "RefChem:854197",
+  "2712693"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/nipocalimab/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Maternal nipocalimab injections produce low levels in colostrum and breastmilk. Because adalimumab is a large protein molecule, it is likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Nipocalimab was undetectable in the serum of some breastfed infants. No special precautions appear to be required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Thirteen pregnant participants delivered 12 live-born infants and one stillborn, a fetal loss due to intrauterine transfusion. Treatment was administered weekly from 14 to 35 weeks’ gestation. The dosage was initiated at 30 mg/kg baseline weight but was subsequently increased to 45 mg/kg. It was then modified again to 45 mg/kg of maternal weight assessed every 2 weeks. All 12 maternal participants had colostrum sampled between 0 and 3 days after birth and/or for breastmilk between 6 and 8 days after birth. All samples with detectable nipocalimab were collected from mothers who discontinued treatment less than 3 weeks before delivery (n = 5), whereas no nipocalimab was observed in colostrum or breastmilk from women who discontinued treatment more than 7 weeks before delivery (n = 7). Nipocalimab was detected in four of seven (57%) colostrum samples and two of nine (22%) breastmilk samples. In the four colostrum samples with detectable nipocalimab, 3 had concentrations less than 4 mg/L, below the threshold of 10 mg/L considered to be pharmacologically active, and 1 had a concentration of 68.4 mg/L. All breastmilk samples with detectable nipocalimab (n = 2) had concentrations less than 4 mg/L, When comparing colostrum with breastmilk samples across four maternal participants with both available colostrum and breastmilk samples, two showed low, pharmacologically inactive drug concentrations (1.35 and 3.66 mg/L) in colostrum and undetectable concentrations (< 0.01 mg/L ) in breastmilk. One maternal participant had an undetectable drug concentration in colostrum, but a low drug concentration (1.27 mg/L) in breastmilk. Another mother had a drug concentration of 68.4 mg/L in colostrum 2 days after delivery and 0.58 mg/L in breastmilk 8 days after delivery. This mother delivered on the day of the last nipocalimab administration and had a serum nipocalimab concentration of 1100 mg/L at delivery.\nInfant Levels. Twelve mothers received nipocalimab initiated at 30 mg/kg baseline weight, subsequently increased to 45 mg/kg and then modified to 45 mg/kg every 2 weeks. Nine of the 12 infants were breastfed and 5 had blood levels analyzed. At week 4 after birth, none of the 5 breastfed infants (including 2 who were breastfed by the mothers with the two highest colostrum nipocalimab concentrations) had detectable serum nipocalimab concentrations (<0.01 mg/L)."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Five infants were exposed to nipocalimab during pregnancy and postpartum in breastmilk. Their serum IgG levels decreased to nadir concentrations between 4 and 24 weeks after birth similar to the normal process of maternal IgG clearance in infancy, which is typically completed by approximately 24 weeks after birth and followed by endogenous IgG production. Infant vaccine responses that achieved protective titers to tetanus and diphtheria were observed in response to routine infant immunizations, except for one subthreshold diphtheria titer at 96 weeks after birth (∼20 months after the last vaccination)."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

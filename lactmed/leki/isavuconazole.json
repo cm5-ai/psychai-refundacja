@@ -1,0 +1,52 @@
+{
+ "id": "isavuconazole",
+ "tytul": "Isavuconazole",
+ "synonimy": [
+  "Isavuconazole",
+  "Cresemba",
+  "isavuconazonium sulfate",
+  "BAL-4815",
+  "isavuconazole",
+  "BAL 4815",
+  "CHEBI:85979",
+  "UNII-60UTO373KE",
+  "60UTO373KE",
+  "RO 0094815",
+  "DTXSID2058251",
+  "RO-0094815",
+  "Bal4815",
+  "SCHEMBL939038",
+  "CHEMBL409153",
+  "DTXCID6032069",
+  "ASP9766",
+  "J02AC05",
+  "DDFOUSQFMYRUQK-RCDICMHDSA-N",
+  "BCP07587",
+  "BAL-8557(pro-drug)",
+  "946075-13-4"
+ ],
+ "zaktualizowano": "2024-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/isavuconazole/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of isavuconazole during breastfeeding. Because isavuconazole is more than 99% bound to plasma proteins, the amount in milk is likely to be low. However, there is no published experience with isavuconazole during breastfeeding, so an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Fluconazole, Miconazole"
+  ]
+ ]
+}

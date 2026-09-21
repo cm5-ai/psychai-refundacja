@@ -1,0 +1,54 @@
+{
+ "id": "LM688",
+ "tytul": "Technetium Tc 99m Sestamibi",
+ "synonimy": [
+  "Cardiolite",
+  "Miraluma",
+  "99mTc-Hexamibi",
+  "Tc99-m sestamibi",
+  "Tc MIBI",
+  "Technetium-99m-MIBI",
+  "Technetium 99m Hexamibi",
+  "Technetium-99mTc-MIBI",
+  "Technetium 99m Sestamibi",
+  "Technetium 99mTc sestamibi",
+  "Technetium Tc99m Sestamibi",
+  "Tc99m RP 30A",
+  "Technetium Tc 99m sestamibi",
+  "Tecnecio (99m Tc) sestamibi",
+  "Technetium (99mTc) sestamibi",
+  "TC99M RP-30A",
+  "Technetium (99m Tc) sestamibi",
+  "UNII-971Z4W1S09",
+  "RP 30",
+  "Tc-99m-Methoxy-2-isobutylisonitrile",
+  "Technetium (99mTc) sestamibi [INN]",
+  "971Z4W1S09",
+  "1-isocyano-2-methoxy-2-methylpropane",
+  "technetium"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM688/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of technetium Tc 99m sestamibi (Tc 99m-methoxyisobutylisonitrile; Tc 99m MIBI) as a diagnostic agent. A US Nuclear Regulatory Commission subcommittee has recommended that nursing be discontinued for 24 hours after administration of all technetium Tc 99m diagnostic products to simplify guidance recommendations, although this time interval may be longer than necessary. Other experts state that breastfeeding need not be interrupted after administration of technetium Tc 99m sestamibi in doses up to 1000 MBq (27 mCi) to a nursing mother. However, to follow the principle of keeping exposure \"as low as reasonably achievable\", some experts recommend nursing the infant just before administration of the radiopharmaceutical and interrupting breastfeeding for 3 to 4 hours after the dose, then expressing the milk completely once and discarding it. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. Mothers need not refrain from close contact with their infants after usual clinical doses.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nFor nursing mothers who work with Tc 99m substances in their workplace, there is no need to take any precautions other than those appropriate for general radiation protection."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Tc 99m is a gamma emitter with a principal photon energy of 140 keV and a physical half-life of 6.04 hours. The effective half-life of Tc 99m sestamibi averages 5.4 hours (range 5.2 to 5.6 hours) and 0.048% of an administered dose appears in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Technetium Tc 99m Tetrofosmin"
+  ]
+ ]
+}

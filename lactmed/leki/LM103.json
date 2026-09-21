@@ -1,0 +1,53 @@
+{
+ "id": "LM103",
+ "tytul": "Enoxacin",
+ "synonimy": [
+  "enoxacin",
+  "Penetrex",
+  "Enoxacine",
+  "Enoxacinum",
+  "Comprecin",
+  "Enoxacino",
+  "Flumark",
+  "Bactidan",
+  "Enoram",
+  "Enoxacino [Spanish]",
+  "AT-2266",
+  "CI 919",
+  "CI-919",
+  "UNII-325OGW249P",
+  "CCRIS 5242",
+  "PD 107779",
+  "1-Ethyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-1,8-naphthyridine-3-carboxylic acid",
+  "NSC 629661",
+  "325OGW249P",
+  "NSC 627409",
+  "BRN 3628995",
+  "1,8-Naphthyridine-3-carboxylic acid, 1-ethyl-6-fluoro-1,4-dihydro-4-oxo-7-(1-piperazinyl)-",
+  "1,8-Naphthyridine-3-carboxylic acid, 1,4-dihydro-1-ethyl-6-fluoro-4-oxo-7-(1-piperazinyl)-"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM103/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Fluoroquinolones have traditionally not been used in infants because of concern about adverse effects on the infants' developing joints. However, recent studies indicate little risk. The calcium in milk might prevent absorption of the small amounts of fluoroquinolones in milk, but insufficient data exist to prove or disprove this assertion. Use of enoxacin is probably acceptable in nursing mothers with monitoring of the infant for possible effects on the gastrointestinal flora, such as diarrhea or candidiasis (thrush, diaper rash). However, it is preferable to use an alternate drug for which safety information is available."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ciprofloxacin, Levofloxacin"
+  ]
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "opipramol",
+ "tytul": "Opipramol",
+ "synonimy": [
+  "Opipramol",
+  "Nisidana",
+  "Endison",
+  "Insidon",
+  "Pramolan",
+  "NSC-169867",
+  "CHEMBL370753",
+  "D23ZXO613C",
+  "GR 33040",
+  "NCGC00162068",
+  "EINECS 206-254-0",
+  "BRN 0627076",
+  "Oprea1_247234",
+  "SCHEMBL49841",
+  "DTXSID3023394",
+  "CHEBI:94614",
+  "GTPL11247",
+  "BDBM50170636",
+  "MFCD00865455",
+  "NSC169867",
+  "AKOS003588969",
+  "DB12930",
+  "SDCCGSBI-0633687.P001",
+  "AC-15972",
+  "MS-25790",
+  "1ST161646",
+  "HY-118901CS-0077653",
+  "NS00010442",
+  "D08297",
+  "EN300-18531271",
+  "Q416562",
+  "J-018476",
+  "Z2216903864",
+  "2-[4-(3-benzo[b]benzazepin-11-ylpropyl)piperazin-1-yl]ethanol"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/opipramol/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Opipramol is not approved for marketing in the United States, but is available overseas. No information is available on the clinical use of opipramol during breastfeeding. Amounts in breastmilk appear to be low and would not be expected to cause any adverse effects in breastfed infants. However, the analytic technique used in the paper would not meet modern standards."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In an old paper, 10 women were given opipramol 100 mg orally 3 times daily for 2 days. Milk samples were obtained 3 times daily 1.5 hour before the morning dose, 3 hours after the morning dose and 3 hours after the afternoon dose. On day 2, the drug concentrations in milk averaged 40 mcg/L before the morning dose and 65 mcg/L 3 hours after the afternoon dose. The highest milk level found in any participant was 160 mcg/L. If a maternal weight of 60 kg and an infant milk intake of 150 mL/kg daily are assumed, and a milk level of 65 mcg/L is used, the relative infant dose of opipramol would be 0.02%. Because of the age of the paper, the accuracy of the analytic method in this paper is questionable.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

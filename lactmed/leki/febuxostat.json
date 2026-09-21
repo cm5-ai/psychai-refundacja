@@ -1,0 +1,44 @@
+{
+ "id": "febuxostat",
+ "tytul": "Febuxostat",
+ "synonimy": [
+  "Febuxostat",
+  "Adenuric",
+  "Feburic",
+  "Uloric",
+  "Zurig",
+  "NSC 758874",
+  "TEI 6720",
+  "Tei-6720",
+  "TMX 67",
+  "TMX-67",
+  "UNII-101V0R1N2E",
+  "-(3-Cyano-4-(2-methylpropoxy)phenyl)-4-methylthiazole-5-carboxylic acid",
+  "2-(3-Cyano-4-isobutoxyphenyl)-4-methyl-5-thiazolecarboxylic acid",
+  "5-Thiazolecarboxylic acid, 2-(3-cyano-4-(2-methylpropoxy)phenyl)-4-methyl-"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/febuxostat/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of febuxostat during breastfeeding. Because febuxostat is more than 99% bound to plasma proteins, the amount in milk is likely to be low. Furthermore, oral bioavailability is only about 50%, so the amount an infant receives systemically is expected to be very small. If febuxostat is required by the mother, it is not a reason to discontinue breastfeeding; however, until more data become available, an alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Allopurinol, Probenecid"
+  ]
+ ]
+}

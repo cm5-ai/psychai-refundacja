@@ -1,0 +1,40 @@
+{
+ "id": "LM1243",
+ "tytul": "Simeprevir",
+ "synonimy": [
+  "Olysio",
+  "Simeprevir",
+  "UNII-9WS5RD66HZ",
+  "TMC435",
+  "HSDB 8227",
+  "TMC 435",
+  "TMC-435",
+  "TMC435350",
+  "TMC 435350",
+  "(1R,4R,6S,7Z,15R,17R)-N-cyclopropylsulfonyl-17-[7-methoxy-8-methyl-2-(4-propan-2-yl-1,3-thiazol-2-yl)quinolin-4-yl]oxy-13-methyl-2,14-dioxo-3,13-diazatricyclo[13.3.0.04,6]octadec-7-ene-4-carboxamide"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1243/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Simeprevir is no longer marketed in the United States. It has not been studied in nursing mothers being treated for hepatitis C infection. Because it is greater than 99.9% bound to maternal plasma proteins, amounts in breastmilk are likely to be very low.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

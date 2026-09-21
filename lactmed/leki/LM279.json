@@ -1,0 +1,53 @@
+{
+ "id": "LM279",
+ "tytul": "Warfarin",
+ "synonimy": [
+  "warfarin",
+  "Coumadin",
+  "Coumafene",
+  "Prothromadin",
+  "Zoocoumarin",
+  "Coumafen",
+  "Coumarins",
+  "Coumefene",
+  "Panwarfin",
+  "Brumolin",
+  "Kypfarin",
+  "Solfarin",
+  "Warfarinum",
+  "Coumafene [French]",
+  "Warfarine",
+  "Warfarina [INN-Spanish]",
+  "HSDB 1786",
+  "5Q7ZVV76EI",
+  "EINECS 201-377-6",
+  "NSC 59813",
+  "BRN 1293536",
+  "5-18-04-00162 (Beilstein Handbook Reference)",
+  "4-hydroxy-3-(3-oxo-1-phenylbutyl)chromen-2-one"
+ ],
+ "zaktualizowano": "2024-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM279/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the very low milk levels with warfarin doses up to at least 12 mg daily, amounts ingested by the infant are small. No adverse reactions in breastfed infants have been reported from maternal warfarin use during lactation, even with a dose of 25 mg daily for 7 days. There is a consensus that maternal warfarin therapy during breastfeeding poses little risk to the breastfed infant. No special precautions are necessary.\nWomen’s postpartum warfarin dosage requirements may be increased by as much as two-fold compared to prepregnancy requirements. Whether breastfeeding contributes to the increased requirement is unclear."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Warfarin was not detected (<25 mcg/L) at 4 hours after a dose in the breastmilk of 13 mothers who were 3 to 12 days postpartum and anticoagulated with warfarin in doses of 2 to12 mg daily in one study.\nWarfarin activity was also not detected in the milk of 2 anticoagulated women (warfarin dose unspecified).\nInfant Levels. No warfarin activity was detected in the plasma of any of 7 infants in whom it was measured. Measures of anticoagulation were within normal limits in all infants tested."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No decreases in vitamin K-dependent clotting factors or bleeding occurred in 2 infants who were breastfed for 56 and 131 days, respectively, during maternal anticoagulation with warfarin.\nIn one telephone follow-up study, mothers taking warfarin reported no adverse effects among 5 breastfed infants.\nA mother had been taking warfarin 5 mg daily for the first 7 weeks postpartum for a pulmonary embolism. At this time, she began taking 25 mg daily by mistake and took this dose for 7 days. Upon presentation to the emergency room, her INR was greater than 10 (usual therapeutic maximum 3.5), her prothrombin time was greater than 100 seconds (normal up to 11.2 seconds), and her aPTT was 62.5 seconds (normal up to 32.7 seconds). She had been nearly exclusively breastfeeding her infant since birth. Her 8-week-old infant was healthy with an INR of 1.0, prothrombin time of 10.3 seconds, and a slightly elevated aPTT 33.8 seconds. However, 3 weeks previously, the infant's aPTT was 38.9 seconds, so the elevated aPTT was judged not to be caused by warfarin."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acenocoumarol, Dalteparin, Enoxaparin, Heparin, Rivaroxaban, Warfarin"
+  ]
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "LM444",
+ "tytul": "Olsalazine",
+ "synonimy": [
+  "Olsalazine",
+  "Olsalazina",
+  "Olsalazinum",
+  "Azodisal",
+  "Rasal",
+  "Dipentium",
+  "Olsalazinum [Latin5,5'-Azobis(salicylic acid)",
+  "UNII-ULS5I8J03O",
+  "ULS5I8J03O",
+  "Salicylic acid, 5,5'-azodi-",
+  "3,3'-Azobis(6-hydroxybenzoic acid)",
+  "Benzoic acid, 3,3'-azobis(6-hydroxy-",
+  "Benzoic acid, 3,3'-azobis(6-hydroxy-, disodium salt"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM444/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that olsalazine is poorly excreted into breastmilk. However, olsalazine is a mesalamine prodrug. Rather high levels of the mesalamine metabolite N-acetyl-5-ASA appear in breastmilk and its effects on breastfed infants are unknown. A few cases of diarrhea have been reported in infants exposed to mesalamine, although the rate is not high. Most experts consider mesalamine derivatives to be acceptable during breastfeeding. If olsalazine is required by the mother, it is not a reason to discontinue breastfeeding, but carefully observe breastfed infants for diarrhea during maternal use of olsalazine."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Olsalazine is a prodrug that liberates the active drug, mesalamine (5-aminosalicylic acid; 5-ASA), in the gastrointestinal tract. Mesalamine is metabolized to N-acetyl-5-ASA, which is inactive in treating inflammatory bowel disease, but its possible effects on the breastfed infant are unknown.\nMaternal Levels. A lactating woman with a long history of Crohn's disease and 2 bowel resections at her terminal ileum was given a single oral dose of olsalazine 500 mg at 4 months postpartum. She was also taking prednisone 17.5 mg daily at the time of the study. Milk samples were taken periodically from 30 minutes to 48 hours after the dose. Olsalazine and its metabolites, olsalazine sulfate and mesalamine were undetectable (<170 mcg/L) in milk at all times during the study. The inactive mesalamine metabolite, N-acetyl-5-ASA, was detectable only at 10, 14 and 24 hours after the dose in concentrations of 170, 183 and 264 mcg/L, respectively.\nA woman taking olsalazine capsules 750 mg twice daily collected 5 breastmilk samples over one day at 2 to 4 weeks postpartum. Mesalamine was undetectable (<20 mcg/L) in milk. N-acetyl-5-ASA averaged 2.3 mg/L (range 1.2 to 3.8 mg/L) in the 5 samples. The highest milk level was in the 6 pm sample, but the times of the doses were not stated.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One infant was breastfed during maternal therapy with olsalazine for Crohn's disease. After 2 and 3 weeks of therapy, no rash, wheezing, vomiting or diarrhea were noted in the infant.\nThe active metabolite of olsalazine, mesalamine, was probably responsible for diarrhea in a 6-week-old whose diarrhea recurred 4 times after rechallenging the mother 4 times during breastfeeding.\nIn a prospective telephone follow-up study, 8 nursing mothers reported taking mesalamine (dosage and route unspecified). One mother reported diarrhea in her infant. No other adverse reactions were reported in the infants by their mothers.\nA case-control study compared the infants of mothers taking mesalamine (n = 117; average dose, 2065 mg daily), olsalazine (n = 2) or sulfasalazine (n = 2) to infants of matched control mothers (n = 121) who were exposed to no treatment known to be harmful to a breastfed infant. Infants were exposed to mesalamine through milk for a mean of 5.3 months (range: 3 days-24 months). Infants were breastfed for an average of about 7.4 months and were followed up at an average age of about 22 months. No difference in the frequency or characteristics of maternally reported adverse events were found between exposed and control infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Inflammatory Bowel Disease) Adalimumab, Azathioprine, Budesonide, Certolizumab Pegol, Infliximab, Mesalamine, Prednisone, Sulfasalazine"
+  ]
+ ]
+}

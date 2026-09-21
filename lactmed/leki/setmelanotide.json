@@ -1,0 +1,39 @@
+{
+ "id": "setmelanotide",
+ "tytul": "Setmelanotide",
+ "synonimy": [
+  "Setmelanotide",
+  "Imcivree",
+  "RM-493",
+  "BIM-22493",
+  "Setmelanotida",
+  "UNII-N7T15V1FUY",
+  "Setmelanotidum",
+  "DTXSID501032320",
+  "N-acetyl-L-arginyl-L-cysteinyl-D-alanyl-L-histidyl-D-phenylalanyl-L-arginyl-L-tryptophyl-L-cysteinamide (2->8)-disulfide"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/setmelanotide/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of setmelanotide during breastfeeding. Because setmelanotide is a peptide molecule with a molecular weight of 1117 daltons that is 79% bound to plasma proteins, the amount in milk is likely to be very low and absorption is unlikely because it is probably destroyed in the infant’s gastrointestinal tract. However, until more data become available, an alternate drug is preferred, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during therapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Semaglutide, Tirzepatide"
+  ]
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "LM235",
+ "tytul": "Quinidine",
+ "synonimy": [
+  "quinidine",
+  "Conquinine",
+  "Conchinin",
+  "Chinidin",
+  "Pitayine",
+  "Quinidex",
+  "(+)-Quinidine",
+  "beta-Quinine",
+  "beta-Quinidine",
+  "(8R,9S)-Quinidine",
+  "56-54-2",
+  "Chinidin [German]",
+  "(9S)-6'-Methoxycinchonan-9-ol",
+  "Quinidine [BAN:NF]",
+  "UNII-ITX08688JL",
+  "CCRIS 672",
+  "HSDB 225",
+  "ITX08688JL",
+  "Cinchonan-9-ol, 6'-methoxy-, (9S)-",
+  "NCI-C56246",
+  "EINECS 200-279-0",
+  "(8R,9S)-6'-Methoxycinchonan-9-ol",
+  "(9S)-6-Methoxy-alpha-(5-vinyl-2-quinuclidinyl)-4-quinolinemethanol",
+  "alpha-(6-Methoxy-4-quinolyl)-5-vinyl-2-quinuclidinemethanol (9S)-"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM235/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of quinidine up to 1.8 grams daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. Exclusively breastfed infants should be carefully monitored if this drug is used during lactation, possibly including measurement of serum levels to rule out toxicity if there is a concern."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In one case report, a quinidine milk level of 6.4 mg/L was reported 3 hours after a dose while taking 600 mg every 8 hours orally of a sustained-release quinidine sulfate preparation (Quninidex). In the same patient, a random milk level of 8.2 mg/L was also measured. Data from this case indicate that a breastfed infant would receive about 3 to 4% of the maternal weight-adjusted dosage of quinidine.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

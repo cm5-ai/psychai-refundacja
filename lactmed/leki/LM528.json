@@ -1,0 +1,59 @@
+{
+ "id": "LM528",
+ "tytul": "Diatrizoate",
+ "synonimy": [
+  "Diatrizoic acid",
+  "amidotrizoic acid",
+  "Amidotrizoate",
+  "diatrizoate",
+  "Urogranoic acid",
+  "Urografin acid",
+  "Urotrast",
+  "Odiston",
+  "Triombrin",
+  "Diat",
+  "Diatrizoesaure",
+  "Acide amidotrizoique",
+  "Acidum amidotrizoicum",
+  "DIAT [German]",
+  "Triombrin [Russian]",
+  "Amidotrzoique (acide)",
+  "Diatrizoesaure [German]",
+  "UNII-5UVC90J1LK",
+  "5UVC90J1LK",
+  "Acidum diacetylaminotrijodbenzoicum",
+  "HSDB 4042",
+  "NSC 262168",
+  "S 17",
+  "EINECS 204-223-6",
+  "BRN 2225144",
+  "G 2-75",
+  "EC 204-223-6",
+  "4-14-00-01308 (Beilstein Handbook Reference)",
+  "3,5-diacetamido-2,4,6-triiodobenzoic acid"
+ ],
+ "zaktualizowano": "2024-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM528/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of diatrizoate up to 38 g (containing 18.5 grams of iodine) produce low levels in milk. In addition, because diatrizoate is poorly absorbed orally, it is not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. Guidelines developed by several professional organizations state that breastfeeding need not be disrupted after a nursing mother receives an iodine-containing contrast medium."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "A woman who was 10 days postpartum received diatrizoate meglumine intravenously in a dose equivalent to 306 mg of iodine for phlebography. Bound iodine (presumably diatrizoate and any metabolites) in breastmilk was measured. Iodine was not found in the breastmilk until 2.25 hours after the dose when a concentration of 20 mg/L was detected. At 7 hours, a peak concentration of 22 mg/L occurred. Breastmilk iodine concentrations dropped after that until the concentration was 7.4 mg/L at 27 hours after the dose.\nOne woman who was 7 weeks postpartum received 50 mL of an iodinated contrast medium containing 38 grams of sodium and meglumine salts of diatrizoate by rapid intravenous injection for urography (intravenous pyelogram; IVP). The total dose of iodine in this dose was 18.5 grams. Milk samples were expressed at 6, 9, 13 and 16.5 hours after the dose. Diatrizoate was undetectable (<2 mg/L) in any of the milk samples.\nA woman received 300 mL of sodium and meglumine salts of diatrizoate by intravenous injection for pulmonary angiography for a suspected pulmonary embolism 48 hours after delivery by cesarean section. This dose contained a total of 93 grams of iodine. All milk produced for the next 5 days (collection method not stated) was saved for analysis. The total amount of iodine excreted into milk during the first 24 hours after the dose was 31 mg or 0.03% of the dose administered. On the second and third days after administration, 0.008% (7.6 mg) and 0.0005% (0.5 mg), respectively, of the iodine dose was excreted in milk. By day 5, the concentration of iodine in milk was 119 mcg/L, compared to the mean of 70 mcg/L in 200 samples of normal breastmilk in the same laboratory.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Iohexol"
+  ]
+ ]
+}

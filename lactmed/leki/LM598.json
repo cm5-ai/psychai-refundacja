@@ -1,0 +1,42 @@
+{
+ "id": "LM598",
+ "tytul": "Tiotropium",
+ "synonimy": [
+  "TIOTROPIUM BROMIDE",
+  "Spiriva",
+  "Tiotropium",
+  "Spiriva Handihaler",
+  "Spiriva Respimat",
+  "UNII-XX112XZP0J",
+  "BA 679 BR",
+  "BA 679BR",
+  "BA-679 BR",
+  "XX112XZP0J",
+  "7-((Hydroxybis(2-thienyl)acetyl)oxy)-9,9-dimethyl-3-oxa-9-azoniatricyclo(3.3.1.0(2,4))nonane bromide",
+  "3-Oxa-9-azoniatricyclo(3,3.1.0(2,4))nonane, 7-((hydroxydi-2-thienylacetyl)oxy)-9,9-dimethyl-, bromide, (1alpha,2beta,4beta,5alpha,7beta)-"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM598/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although no published data exist on the use of tiotropium, its use produces negligible maternal serum levels and any drug in breastmilk would not be absorbed by the infant. The risk to the breastfed infant of maternal tiotropium inhalation is small. International guidelines agree that breastfeeding can continue during tiotropium therapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Aclidinium, Umeclidinium"
+  ]
+ ]
+}

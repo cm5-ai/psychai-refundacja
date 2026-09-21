@@ -1,0 +1,38 @@
+{
+ "id": "LM803",
+ "tytul": "Velaglucerase alfa",
+ "synonimy": [
+  "Velaglucerase",
+  "Vpriv",
+  "Velaglucerase alfa",
+  "UNII-23HYE36B0I",
+  "23HYE36B0I",
+  "Ceramidase, glucosyl-(human HT-1080 cell)",
+  "EC 3.2.1.45",
+  "Human glucosylceramides’ (EC 3.2.1.45 or Beta-glucocerebrosidase), liquiform alpha"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM803/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of velaglucerase during breastfeeding. Velaglucerase is a synthetic form of beta-glucocerebrosidase, which is a normal component of human milk, but has an identical amino acid sequence to the normal enzyme. Studies with other forms of the enzyme have found very low levels of the enzyme in breastmilk. Absorption by the infant is unlikely because it is probably destroyed in the infant's gastrointestinal tract. A limited amount of data support the safety of breastfeeding with alglucerase (the placenta-derived form of the enzyme) and imiglucerase (another biosynthetic form of the enzyme). An international panel of clinicians from 9 centers that treat Gaucher's disease reported that, breastfeeding complications were less frequent in mothers who were treated with alglucerase or imiglucerase postpartum than in untreated mothers with Gaucher's disease. Consider limiting the duration of breastfeeding to about 6 months to avoid excessive bone loss in the nursing mother."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Alglucerase, Imiglucerase, Taliglucerase Alfa"
+  ]
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "id": "LM675",
+ "tytul": "Technetium Tc 99m Disofenin",
+ "synonimy": [
+  "99m Tc Disofenin",
+  "99mTc DISIDA",
+  "99mTc Disofenin",
+  "99mTc-DISIDA",
+  "99mTc-Disofenin",
+  "Acid, Technetium-99m-Diisopropyliminodiacetic",
+  "Disofenin, Tc-99m",
+  "Hepatolite",
+  "Tc 99m Disofenin",
+  "Tc-99m Disofenin",
+  "Technetium 99m Diisopropyliminodiacetic Acid",
+  "Technetium 99m Disofenin",
+  "Technetium Tc 99m Disofenin",
+  "Technetium-99m-Diisopropyliminodiacetic Acid",
+  "Technetium-99m-Disofenin"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM675/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of technetium Tc 99m disofenin (Tc 99m DISIDA) as a diagnostic agent. A US Nuclear Regulatory Commission subcommittee has recommended that nursing be discontinued for 24 hours after administration of all technetium Tc 99m diagnostic products to simplify guidance recommendations, although this time interval may be longer than necessary. The International Commission on Radiological Protection and others recommend that breastfeeding need not be interrupted after administration technetium Tc 99m disofenin. However, to follow the principle of keeping exposure \"as low as reasonably achievable\", some experts recommend nursing the infant just before administration of the radiopharmaceutical and interrupting breastfeeding for 3 to 6 hours after the dose, then expressing the milk completely once and discarding it. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. Mothers need not refrain from close contact with their infants after usual clinical doses.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nFor nursing mothers who work with Tc 99m substances in their workplace, there is no need to take any precautions other than those appropriate for general radiation protection."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Tc 99m is a gamma emitter with a principal photon energy of 140 keV and a physical half-life of 6.04 hours. The effective half-life of Tc 99m DISIDA ranges from 3.6 to 3.8 hours."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "LM73",
+ "tytul": "Clonidine",
+ "synonimy": [
+  "clonidine",
+  "Clonidin",
+  "Catapres",
+  "Duraclon",
+  "Chlornidinum",
+  "Catarpresan",
+  "Adesipress",
+  "Catarpres",
+  "Catapres-TTS",
+  "Clonidinum",
+  "Clonidina",
+  "Catapres-TTS",
+  "Nexiclon XR",
+  "ST 155BS",
+  "ST-155-BS",
+  "UNII-MN3L5RMN02",
+  "CCRIS 7787",
+  "SKF 34427",
+  "HSDB 3040",
+  "MN3L5RMN02",
+  "M-5041T",
+  "EINECS 224-119-4",
+  "N-(2,6-dichlorophenyl)-4,5-dihydro-1H-imidazol-2-amine"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM73/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the high serum levels found in some breastfed infants, possible infant side effects, and the possible negative effects on lactation, other antihypertensive agents are preferred, especially while nursing a newborn or preterm infant. Clonidine used as a single postpartum dose as a neuraxial analgesia adjunct probably has not been studied, but it may reduce the need for other medications or their dosages, and appears unlikely to affect breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels In 9 women taking oral clonidine, milk levels were measured on 3 occasions: 1 to 5 days, 10 to 14 days and 45 to 60 days postpartum. Average daily dosages and approximate milk levels on the for the 3 measurements were 392 mcg daily and 1.8 mcg/L, 309 mcg daily and 2.9 mcg/L, and 242 mcg daily and 1.9 mcg/L. These values were about double those of simultaneous maternal serum concentrations. Using the average milk level data from this study, an exclusively breastfed infant would receive an estimated 4.1 to 8.4% of the maternal weight-adjusted dosage.\nIn a 4-week-postpartum mother, a milk level of 0.6 mcg/L was found in milk 2.5 hours after a dose while taking a clonidine dosage of 37.5 mcg orally twice daily. Based on this single milk level, the authors estimated that an exclusively breastfed infant would receive a maximum 6.8% of the maternal weight-adjusted dosage with this maternal dosage regimen.\nIn 3 women who received clonidine 150 mcg twice daily during pregnancy and postpartum, milk levels were measured 12 hours after their previous dose for the first 3 days postpartum. Milk clonidine levels ranged from 0.8 to 2.8 mcg/L.\nInfant Levels. A 4-week-old breastfed infant whose mother was taking clonidine 37.5 mcg orally twice daily had an undetectable (<96 ng/L) serum clonidine level 1 hour after nursing.\nIn the infants of 9 women taking clonidine, infant serum levels were measured on three occasions: 1 to 5 days, 10 to 14 days and 45 to 60 days postpartum. Average daily maternal dosages on the three measurements were 392 mcg daily, 309 mcg daily, and 242 mcg daily, respectively. At these times, the infants had serum clonidine concentrations of 0.69, 0.53 and 0.35 mcg/L, respectively. These values represent an average of about 50% of the simultaneous maternal serum levels."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No typical clonidine side effects (e.g., dry mouth, sedation) were seen in 9 infants whose mothers were taking clonidine, despite the infants' serum levels being about half that of their mothers'.\nThree infants whose mothers were taking clonidine 150 mcg twice daily were breastfed. During the first 3 days postpartum, no adverse effects on blood glucose, electrocardiogram or blood pressure were noted. The infants had normal growth and psychomotor development at 1 year of age, although the duration of breastfeeding and clonidine use was not stated.\nAn infant was born to a mother taking clonidine 0.15 mg daily during pregnancy and postpartum. At 2 days of life, the infant presented with drowsiness, hypotonia, and suspected generalized seizures. At day 5, episodes of apnea were noted. On day 9 postpartum, breastfeeding was stopped and all symptoms resolved within 24 hours. Clonidine was probably the cause of the reaction, but the relative contributions of exposure during pregnancy and breastfeeding cannot be determined."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Clonidine has complex, dose-related effects on both oxytocin and prolactin secretion. The net effect of the drug on nursing mothers has not been well studied. A case of hyperprolactinemia and gynecomastia occurred in a 6-year-old boy taking clonidine for hyperactivity and valproic acid for a seizure disorder. Galactorrhea ceased within 3 weeks of discontinuing clonidine. A case of clonidine-induced postpartum galactorrhea has also been reported. The maternal prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(ADHD) Amphetamine, Dextroamphetamine, Lisdexamfetamine, Methylphenidate (Hypertension) Candesartan, Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Hydrochlorothiazide, Methyldopa, Propranolol"
+  ]
+ ]
+}

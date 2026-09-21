@@ -1,0 +1,63 @@
+{
+ "id": "LM508",
+ "tytul": "Pyridostigmine",
+ "synonimy": [
+  "PYRIDOSTIGMINE BROMIDE",
+  "Mestinon",
+  "Regonol",
+  "Kalimin",
+  "Kalymin",
+  "Regonal",
+  "101-26-8",
+  "Mestinon bromide",
+  "Piridostigmina bromuro",
+  "Pyridostigmini bromidum",
+  "Bromure de pyridostigmine",
+  "Bromuro de piridostigmina",
+  "UNII-KVI301NA53",
+  "Piridostigmina bromuro [DCIT]",
+  "CCRIS 6798",
+  "HSDB 3924",
+  "KVI301NA53",
+  "EINECS 202-929-9",
+  "Pyridostigmini bromidum [INN-Latin]",
+  "Ro 1-5130",
+  "Bromure de pyridostigmine [INN-French]",
+  "Bromuro de piridostigmina [INN-Spanish]",
+  "Pyridostigmine bromide [USP:INN:BAN:JAN]",
+  "3-(Dimethylcarbamyloxy)-1-methylpyridinium bromide",
+  "1-Methyl-3-hydroxypyridinium bromide dimethylcarbamate",
+  "3-Hydroxy-1-methylpyridinium bromide dimethylcarbamate",
+  "Pyridinium, 3-(((dimethylamino)carbonyl)oxy)-1-methyl-, bromide",
+  "3-(((Dimethylamino)carbonyl)oxy)-1-methylpyridinium bromide",
+  "Pyridinium, 3-hydroxyl-1-methyl-, bromide, dimethylcarbamate",
+  "3-Hydroxy-1-methylpyridinium bromide dimethylcarbamate (ester)",
+  "Dimethylcarbamic acid ester of 3-hydroxy-1-methylpyridinium bromide",
+  "Carbamic acid, dimethyl-, ester with 3-hydroxy-1-methylpyridinium bromide",
+  "Pyridinium, 3-hydroxy-1-methyl-, bromide, dimethylcarbamate (ester)"
+ ],
+ "zaktualizowano": "2022-12-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM508/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of pyridostigmine in breastmilk, amounts ingested by the infant are small and infant serum levels are very low. Pyridostigmine is not expected to cause any adverse effects in breastfed infants. Most mothers with myasthenia gravis are able to nurse successfully with pyridostigmine treatment, but occasionally breastfeeding must be discontinued to avoid excessive fatigue in the mother."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was taking pyridostigmine 120 mg every 4 to 5 hours for myasthenia gravis during pregnancy. After delivery, she had an undetectable (<100 mcg/L) pyridostigmine level in breastmilk 120 minutes after a 60 mg oral dose.\nA mother who was taking pyridostigmine 60 mg 3 times daily (3 mg/kg daily) had milk pyridostigmine levels ranging from 13 to 24 mcg/L at various times during the 8-hour dosage interval at 5 and 35 days postpartum. At 102 days postpartum while taking 40 mg twice daily (2 mg/kg daily), milk pyridostigmine levels ranged from the limit of detection (2 to 5 mcg/L) to 5 mcg/L during a dosage interval. The time of the peak milk level was about 4 hours after a dose. Another mother who was taking pyridostigmine 60 mg 5 times daily (5 mg/kg daily) had milk pyridostigmine levels of 25 and 22 mcg/L at the time of a dose and 2.5 hours after a dose, respectively, at 60 days postpartum. The authors estimated that an exclusively breastfed infant would receive a maximum of 0.1% of the maternal weight-adjusted dosage.\nInfant Levels. In an exclusively breastfed 60-day-old infant whose mother was taking pyridostigmine 60 mg 5 times daily (5 mg/kg daily), the drug was not detectable in serum (<2 mcg/L) at the time of a dose or 2.6 hours later."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman was taking pyridostigmine 120 mg every 4 to 5 hours for myasthenia gravis. Her breastfed (extent not stated) infant reportedly thrived and had no cholinergic side effects.\nTwo infants whose mothers were taking pyridostigmine 3 and 5 mg/kg daily during pregnancy and lactation were exclusively breastfed. Both infants gained weight and developed normally and had no signs of cholinergic side effects."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. In animals, cholinergic drugs increase oxytocin release, and have variable effects on serum prolactin. The prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nIn a case series of 69 pregnancies in 65 women with myasthenia gravis over 27 years, 49 patients received pyridostigmine during pregnancy and lactation. Lactation data were available for 33 patients, and 25 of them nursed successfully, although the number of these mothers who were taking pyridostigmine was not given. Nursing was sometimes disrupted to avoid exhaustion in the mother."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Neostigmine"
+  ]
+ ]
+}

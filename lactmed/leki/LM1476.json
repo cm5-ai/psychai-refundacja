@@ -1,0 +1,41 @@
+{
+ "id": "LM1476",
+ "tytul": "Pasireotide",
+ "synonimy": [
+  "Pasireotide",
+  "Signifor",
+  "Signifor LAR",
+  "SOM230",
+  "SOM 230",
+  "SOM-230",
+  "Pasireotide [USAN:INN]",
+  "UNII-98H1T17066",
+  "396091-73-9",
+  "98H1T17066",
+  "Cyclo((4R)-4-(2-aminoethylcarbamoyloxy)-L-prolyl-L-phenylglycyl-D-tryptophyl-L-lysyl-4-O-benzyl-L-tyrosyl-L-phenylalanyl-)"
+ ],
+ "zaktualizowano": "2022-11-30",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1476/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The excretion of pasireotide into breastmilk has not been studied. However, because it has a high molecular weight of 1047 daltons it is likely to be poorly excreted into breastmilk and it is a peptide that is likely digested in the infant's gastrointestinal tract. It is unlikely to reach the clinically important levels in infant serum. However, the manufacturer states that nursing mothers should not use pasireotide. An alternate drug is preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Octreotide"
+  ]
+ ]
+}

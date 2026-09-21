@@ -1,0 +1,39 @@
+{
+ "id": "LM651",
+ "tytul": "Darunavir",
+ "synonimy": [
+  "Darunavir",
+  "Prezista",
+  "Prezcobix",
+  "Symtuza",
+  "Darunavirum",
+  "TMC 114",
+  "TMC 41629",
+  "TMC114",
+  "TMC41629",
+  "UIC 94017",
+  "UIC-94017",
+  "UNII-YO603Y8113",
+  "[(3aS,4R,6aR)-2,3,3a,4,5,6a-hexahydrofuro[2,3-b]furan-4-yl] N-[(2S,3R)-4-[(4-aminophenyl)sulfonyl-(2-methylpropyl)amino]-3-hydroxy-1-phenylbutan-2-yl]carbamate"
+ ],
+ "zaktualizowano": "2025-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM651/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of darunavir up to 800 mg daily with ritonavir produce low to unmeasurable levels in milk and would not be expected to cause any adverse effects in breastfed infants. The combination of darunavir and cobicistat is expected to produce similar results. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two mothers taking darunavir 800 mg plus ritonavir 100 mg once daily provided 4 milk samples at a median of 15.4 hours after a dose. The median drug concentration in milk was 316 mcg/L, which resulted in an estimated infant dosage of 50 mcg/kg daily and a relative infant dose of 0.12% of the maternal weight-adjusted dosage.\nIn a retrospective study in a German hospital of mothers who were receiving antiretroviral prophylaxis, one mother was receiving darunavir 800 mg with ritonavir 100 mg once daily. Breastmilk levels obtained at unspecified times with respect to the dose at 1, 4, and 6 months postpartum were all <250 mcg/L.\nInfant Levels. An infant was breastfed by a mother taking darunavir 800 mg plus ritonavir 100 mg once daily, although the extent of breastfeeding was not sated. The infant’s serum concentrations taken 16 hours after maternal drug intake at 1 month of age was undetectable.\nIn a retrospective study in a German hospital, one mother who was receiving darunavir 800 mg with ritonavir 100 mg once daily exclusively breastfed her infant. Infant serum concentrations obtained at unspecified times at 2 weeks and 1, 4 and 6 months of age were all <50 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "LM439",
+ "tytul": "Desmopressin",
+ "synonimy": [
+  "DESMOPRESSIN",
+  "Desmopressine",
+  "Desmopressinum",
+  "Desmopresina",
+  "UNII-ENR1LLB0FP",
+  "ENR1LLB0FP",
+  "Desmopressin [INN:BAN]",
+  "16679-58-6",
+  "Deamino Arginine Vasopressin",
+  "Desmopresina [INN-Spanish]",
+  "Desmopressine [INN-French]",
+  "Desmopressinum [INN-Latin]",
+  "1-Deamino-8-D-arginine vasopressin",
+  "1-Desamino-8-D-arginine vasopressin",
+  "EINECS 240-726-7",
+  "Desamino-8-D-arginine vasopressin, l-",
+  "Deamino-8-D-arginine, l-, vasopressin",
+  "Vasopressin, 1-(3-mercaptopropanoic acid)-8-D-arginine-"
+ ],
+ "zaktualizowano": "2021-03-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM439/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Desmopressin from a nasal spray is excreted in negligible amounts into milk and is poorly absorbed orally by the infant, so it appears acceptable to use during breastfeeding. There is no published experience with sublingual desmopressin during breastfeeding. Until more data become available, sublingual desmopressin should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In a patient who was using intranasal desmopressin 10 mcg twice daily for diabetes insipidus, serum and milk levels of arginine vasopressin were measured after a dose. Milk levels gradually increased from the background level of 1 ng/L to about 1.5 ng/L over the 4-hour observation period.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Several cases have been reported of mothers with diabetes insipidus using desmopressin and breastfeeding their infants. In one case, the mother discontinued nursing after 2 weeks because of a low milk supply, but this was not clearly drug related. Lactation sometimes improves diabetes insipidus and reduces desmopressin requirements."
+  ]
+ ]
+}

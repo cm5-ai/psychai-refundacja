@@ -1,0 +1,49 @@
+{
+ "id": "mitapivat",
+ "tytul": "Mitapivat",
+ "synonimy": [
+  "Mitapivat",
+  "Aqvesme",
+  "Pyrukynd",
+  "mitapivatum",
+  "RefChem:58117PKR-IN-1",
+  "AG-348",
+  "UNII-2WTV10SIKH",
+  "AG348",
+  "AG 348",
+  "orb1223357",
+  "orb1303046",
+  "SCHEMBL2702716",
+  "CHEMBL4299940",
+  "SCHEMBL30406607",
+  "C24H26N4O3S",
+  "GTPL10473",
+  "GLXC-15319",
+  "EX-A2626",
+  "KAC07517",
+  "BDBM50597714",
+  "s6508",
+  "AKOS030526365",
+  "N-[4-[4-(cyclopropylmethyl)piperazine-1-carbonyl]phenyl]quinoline-8-sulfonamide"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/mitapivat/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of mitapivat during breastfeeding. Because mitapivat is more than 97% bound to plasma proteins, the amount in milk is likely to be low. If a mother requires mitapivat, it is not a reason to discontinue breastfeeding. Until more data are available, mitapivat should only be used with careful infant monitoring for jaundice during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

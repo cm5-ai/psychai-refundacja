@@ -1,0 +1,37 @@
+{
+ "id": "LM273",
+ "tytul": "Tuberculin",
+ "synonimy": [
+  "Tuberculin",
+  "Aplitest",
+  "Tubersol",
+  "Aplisol",
+  "UNII-I7L8FKN87J",
+  "I7L8FKN87J",
+  "DRG-0133",
+  "EINECS 295-888-1",
+  "Tuberculins, purified protein derivatives.",
+  "Tuberculin Purified Protein Derivative",
+  "PPD"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM273/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "There is no reason to withhold breastfeeding after tuberculosis skin testing or to avoid skin testing in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "There is some evidence that breastfed infants can acquire immune responsiveness to tuberculin via breastmilk. However, other investigators have found no evidence of breastmilk transfer of immunity."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

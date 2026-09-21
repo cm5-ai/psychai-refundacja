@@ -1,0 +1,52 @@
+{
+ "id": "LM1232",
+ "tytul": "Deferiprone",
+ "synonimy": [
+  "deferiprone",
+  "Ferriprox",
+  "30652-11-0",
+  "3-Hydroxy-1,2-dimethyl-4(1H)-pyridone",
+  "CP20",
+  "CP20 (Chelating agent)",
+  "UNII-2BTY8KH53L",
+  "1,2-Dimethyl-3-hydroxypyrid-4-one",
+  "2BTY8KH53L",
+  "APO-66",
+  "APO-066",
+  "Deferiprone [USAN:INN:BAN]",
+  "CCRIS 8318",
+  "DN-180-01-AF",
+  "HSDB 8335",
+  "BRN 1447108",
+  "1,2-Dimethyl-3-hydroxy-4(1H)-pyridinone",
+  "4(1H)-Pyridinone, 1,2-dimethyl-3-hydroxy-",
+  "5-21-12-00114 (Beilstein Handbook Reference)",
+  "4(1H)-Pyridone, 3-hydroxy-1,2-dimethyl- (8CI)",
+  "L1",
+  "PL1"
+ ],
+ "zaktualizowano": "2022-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1232/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Deferiprone is likely actively transported into milk through binding with lactoferrin. Because no information is available on the use of deferiprone during breastfeeding and it is orally absorbed, an alternate drug is preferred, especially while nursing a newborn or preterm infant. Australian guidelines recommend against breastfeeding during deferiprone treatment. The US manufacturer recommends withholding breastfeeding for 2 weeks after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Deferoxamine, Deferasirox"
+  ]
+ ]
+}

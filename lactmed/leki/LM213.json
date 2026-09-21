@@ -1,0 +1,40 @@
+{
+ "id": "LM213",
+ "tytul": "Phenindamine",
+ "synonimy": [
+  "Phenindamine",
+  "Thephorin",
+  "Fenindamina",
+  "Phenindaminum",
+  "UNII-772BQ8KSST",
+  "NU 1504",
+  "EINECS 201-443-4",
+  "BRN 0221083",
+  "5-20-08-00420 (Beilstein Handbook Reference)",
+  "2-methyl-9-phenyl-1,3,4,9-tetrahydroindeno[2,1-c]pyridine"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM213/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Phenindamine is not marketed in the United States. Small occasional doses of phenindamine would not be expected to cause any adverse effects in breastfed infants. Larger doses or more prolonged use may cause drowsiness and other effects in the infant or decrease the milk supply, particularly in combination with a sympathomimetic such as pseudoephedrine or before lactation is well established. The nonsedating antihistamines are preferred alternatives."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "There are no reports of infants breastfed during maternal therapy with phenindamine. In one telephone follow-up study, mothers reported irritability and colicky symptoms 10% of infants exposed to various antihistamines and drowsiness was reported in 1.6% of infants. None of the reactions required medical attention and none of the patients were taking phenindamine."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Antihistamines in relatively high doses given by injection can decrease basal serum prolactin in nonlactating women and in early postpartum women. However, suckling-induced prolactin secretion is not affected by antihistamine pretreatment of postpartum mothers. Whether lower oral doses of antihistamines have the same effect on serum prolactin or whether the effects on prolactin have any consequences on breastfeeding success have not been studied. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cetirizine, Desloratadine, Fexofenadine, Levocetirizine, Loratadine"
+  ]
+ ]
+}

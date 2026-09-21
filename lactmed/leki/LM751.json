@@ -1,0 +1,39 @@
+{
+ "id": "LM751",
+ "tytul": "Golimumab",
+ "synonimy": [
+  "Golimumab",
+  "Simponi",
+  "Simponi Aria",
+  "UNII-91X1KLU43E",
+  "CNTO148",
+  "CNTO 148",
+  "CNTO-148",
+  "HSDB 7852",
+  "Immunoglobulin G1, anti-(human tumor necrosis factor alpha) (human monoclonal CNTO 148 gamma1-chain), disulfide with human monoclonal CNTO 148 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM751/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information on golimumab indicates that it is almost undetectable in breastmilk. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Anti-TNF agents appear to reduce the levels of tumor necrosis factor and IP-10 in the milk of mothers with inflammatory bowel disease in the early postpartum period. Waiting for at least 2 weeks postpartum to resume therapy suspended during pregnancy may minimize transfer to the infant. However, in infants of mothers who received other monoclonal antibodies during late pregnancy, continued use while breastfeeding did not prolong their elimination by the infant. Most experts and guidelines consider golimumab to be probably acceptable to use during nursing. Anti-TNF agents reduce the levels of tumor necrosis factor and IP-10 in the milk of mothers with inflammatory bowel disease in the early postpartum period. This reduction in TNF might lead to decreased milk production, so extra lactation support might be necessary in women taking golimumab."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In a multi-center study of women with inflammatory bowel disease in pregnancy (the PIANO registry), 1 woman receiving golimumab provided milk samples at 1, 12, 24, 48, 72, 96, 120, and 168 hours after drug administration. Golimumab was not detected (<12 mcg/L) in any of the samples.\nA lactating woman was receiving golimumab 50 mg subcutaneously every 4 weeks for inflammatory bowel disease. She collected milk samples at 3 and 5 days after the fourth dose had barely detectable levels of golimumab (limit of quantification <0.1 mcg/L).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a multi-center study of women with inflammatory bowel disease in pregnancy (the PIANO registry), 1 woman received a golimumab while breastfeeding her infant. Among those who received golimumab or another biologic agent while breastfeeding, infant growth, development or infection rate was no different from infants whose mothers received no treatment. An additional 68 women received a biologic agent plus a thiopurine. Infant outcomes were similar in this group.\nA multicenter study in Spain prospectively followed women treated for inflammatory bowel disease with biological agents, mostly anti-TNF agents. Overall, 29% of infants exposed to a biologic agent were also exposed to azathioprine or mercaptopurine and almost all were exposed during both pregnancy and lactation. One infant was exposed to golimumab during lactation for 52.1 weeks. No adverse impact of biologics exposure was found on the psychomotor development of infants for up to 1 year of age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "An analysis of the US Food and Drug Administration’s FAERS database of 7,022 spontaneous adverse reaction reports of anti-TNF drugs found that they may cause an increased risk of lactation insufficiency and disorders. Drugs that were studied included adalimumab, infliximab, golimumab, certolizumab, and etanercept. The authors noted that TNF alpha is involved in milk production, adding biological plausibility to the findings."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Inflammatory Bowel Disease) Adalimumab, Certolizumab Pegol, Infliximab; (Rheumatoid Arthritis) Adalimumab, Certolizumab Pegol, Etanercept, Infliximab"
+  ]
+ ]
+}

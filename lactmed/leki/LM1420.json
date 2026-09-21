@@ -1,0 +1,52 @@
+{
+ "id": "LM1420",
+ "tytul": "Topotecan",
+ "synonimy": [
+  "topotecan",
+  "Hycamtin",
+  "Hycamptamine",
+  "Topotecan lactone",
+  "Topotecane",
+  "Topotecanum",
+  "Nogitecan",
+  "(S)-Topotecan",
+  "Topophore C",
+  "Topotecan Actavis",
+  "TopoCED",
+  "123948-87-8",
+  "Topotecane [INN-French]",
+  "Topotecanum [INN-Latin]",
+  "Topotecan [INN:BAN]",
+  "UNII-7M7YKX2N15",
+  "SKF-104864-A",
+  "SK&F-104864-A",
+  "7M7YKX2N15",
+  "CCRIS 8163",
+  "NSC609699",
+  "HSDB 8213",
+  "SK&F 104864 A",
+  "NSC 609699",
+  "(S)-10-((Dimethylamino)methyl)-4-ethyl-4,9-dihydroxy-1H-pyrano(3',4':6,7)indolizino(1,2-b)quinoline-3,14(4H,12H)-dione",
+  "1H-Pyrano(3',4':6,7)indolizino(1,2-b)quinoline-3,14(4H,12H)-dione, 10-((dimethylamino)methyl)-4-ethyl-4,9-dihydroxy-, (S)-"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1420/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider breastfeeding to be contraindicated during maternal high-dose antineoplastic drug therapy. The manufacturer recommends that women not breastfeed during treatment with topotecan and for 1 week after the last dose. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Topotecan appears to be actively transported into breastmilk by multidrug transporter BCRP, which is encoded by ABCG2.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

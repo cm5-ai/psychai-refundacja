@@ -1,0 +1,35 @@
+{
+ "id": "LM1351",
+ "tytul": "Acalabrutinib",
+ "synonimy": [
+  "Acalabrutinib",
+  "Calquence",
+  "ACP-196",
+  "Acalabrutinib [INN]",
+  "UNII-I42748ELQW",
+  "1420477-60-6",
+  "Acalabrutinib [USAN:INN]",
+  "I42748ELQW",
+  "Benzamide, 4-(8-amino-3-((2S)-1-(1-oxo-2-butyn-1-yl)-2-pyrrolidinyl)imidazo(1,5-a)pyrazin-1-yl)-N-2-pyridinyl-"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1351/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of acalabrutinib during breastfeeding. Because acalabrutinib is over 97% bound to plasma proteins, and the half-life of the drug and metabolite are less than 7 hours, the amount in milk is likely to be low. However, the protein binding of the active metabolite is not known and the manufacturer recommends that breastfeeding be discontinued during acalabrutinib therapy and for at least 2 weeks after the final dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

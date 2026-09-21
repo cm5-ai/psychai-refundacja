@@ -1,0 +1,43 @@
+{
+ "id": "LM111",
+ "tytul": "Fexofenadine",
+ "synonimy": [
+  "fexofenadine",
+  "Allegra",
+  "Allegra-D",
+  "Allergy Relief",
+  "Aller Fex",
+  "Allergillic",
+  "Carboxyterfenadine",
+  "Terfenadine carboxylate",
+  "UNII-E6582LOH6V",
+  "HSDB 7486",
+  "MDL 16455",
+  "EC 801-893-7",
+  "2-[4-[1-hydroxy-4-[4-[hydroxy(diphenyl)methyl]piperidin-1-yl]butyl]phenyl]-2-methylpropanoic acid"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM111/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of its lack of sedation and low milk levels, maternal use of fexofenadine would not be expected to cause any adverse effects in breastfed infants. Fexofenadine might have a negative effect on lactation, especially in combination with a sympathomimetic agent such as pseudoephedrine."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Fexofenadine is an active metabolite of terfenadine.\nMaternal Levels. Milk levels have not been measured after fexofenadine administration. However, after 60 mg every 12 hours orally of its parent compound, terfenadine, peak steady-state fexofenadine milk levels averaged 41 mcg/L (range 23 to 60 mcg/L). Based on the data on drug passage into breastmilk in this study and the typical serum levels found after fexofenadine administration, an exclusively breastfed infant would receive less than 0.1% of the weight-adjusted maternal dosage of fexofenadine.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In one telephone follow-up study of 25 infants exposed to the fexofenadine's parent drug terfenadine, 3 mothers reported irritability in their infants. None of the reactions required medical attention."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Antihistamines in relatively high doses given by injection can decrease basal serum prolactin in nonlactating women and in early postpartum women. However, suckling-induced prolactin secretion is not affected by antihistamine pretreatment of postpartum mothers. Whether lower oral doses of antihistamines have the same effect on serum prolactin or whether the effects on prolactin have any consequences on breastfeeding success have not been studied. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cetirizine, Desloratadine, Levocetirizine, Loratadine"
+  ]
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "id": "LM1015",
+ "tytul": "Cetuximab",
+ "synonimy": [
+  "Cetuximab",
+  "Erbitux",
+  "UNII-PQX0D8J21J",
+  "PQX0D8J21J",
+  "IMC-C225",
+  "HSDB 7454",
+  "C225",
+  "Immunoglobulin G1 (human-mouse monoclonal C225 gamma1-chain anti-human epidermal growth factor receptor), disulfide with human-mouse monoclonal C225 K-chain, dimer. Molecular weight is approximately 170,000 daltons",
+  "Immunoglobulin G1, anti-(human epidermal growth factor receptor) (human-mouse monoclonal C225 gamma1-chain), disulfide with human-mouse monoclonal C225 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1015/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of cetuximab during breastfeeding. Because cetuximab is a large protein molecule with a molecular weight of 145,782 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, cetuximab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during cetuximab therapy and for 2 months after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

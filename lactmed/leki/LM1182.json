@@ -1,0 +1,39 @@
+{
+ "id": "LM1182",
+ "tytul": "Cariprazine",
+ "synonimy": [
+  "Cariprazine",
+  "Vraylar",
+  "RGH-188",
+  "RGH 188",
+  "UNII-F6RJL8B278",
+  "HSDB 8310",
+  "MP 214",
+  "MP-214",
+  "3-[4-[2-[4-(2,3-dichlorophenyl)piperazin-1-yl]ethyl]cyclohexyl]-1,1-dimethylurea"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1182/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although amounts of cariprazine and its active metabolites in milk are relatively low, the metabolite half-lives are long. Two mothers taking cariprazine 4.5 mg daily reported lethargy and other side effects in their infant, possibly from metabolite accumulation in the infants’ bloodstreams. Cariprazine might decrease lactation. An alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Cariprazine is metabolized to two major active metabolites with a half-life of 2 to 4 days. Desmethylcariprazine has a half-life of 1 to 2 days, and didesmethylcariprazine has a half-life of 1 to 3 weeks. Both are considered to be equipotent to cariprazine. The drug and metabolites are all >90% bound to plasma proteins.\nMaternal Levels. Five nursing mothers who were taking cariprazine 1.5 to 4.5 mg daily collected timed milk samples at 0, 1, 2, 4, 6, 8, 10, 12, 18, and 24 hours after a dose at home. The relative infant dosages of cariprazine, desmethylcariprazine, and didesmethylcariprazine were 1.4%, 0.11%, and 1.45%, respectively for a total RID of 2.97%. When the authors normalized the RID for a dose of 3 mg daily, the total RID was 2.54%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Two mothers in a study who were taking cariprazine 4.5 mg daily during pregnancy and postpartum reported adverse effects in their breastfed infant. The first, who took cariprazine, buspirone and trazodone for bipolar disorder reported infant withdrawal, lethargy and low platelets, but no concern for developmental delay in her infant from 1 to 3 months postpartum. The second, who took cariprazine, levothyroxine, multivitamins, insulin lispro, and amitriptyline, reported lethargy, struggling to eat and weight faltering in her infant from 11 days to 4 weeks of age. After 2 weeks on a lowered cariprazine dose of 1.5 mg daily, the infant’s symptoms improved."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Cariprazine has little to no effect on serum prolactin levels. It is possible that cariprazine might decrease lactation like aripiprazole and benznidazole because they are pharmacologically similar, but no cases have been reported."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

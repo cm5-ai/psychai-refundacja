@@ -1,0 +1,58 @@
+{
+ "id": "LM938",
+ "tytul": "Clobazam",
+ "synonimy": [
+  "Clobazam",
+  "Chlorepin",
+  "Frisium",
+  "Urbanyl",
+  "Clorepin",
+  "Urbadan",
+  "Clobazamum",
+  "Onfi",
+  "Caastilium",
+  "Noiafren",
+  "Urbanil",
+  "Odipam",
+  "HR 376",
+  "LM-2717",
+  "UNII-2MRO291B4U",
+  "RU-4723",
+  "CCRIS 7506",
+  "LM 2717",
+  "2MRO291B4U",
+  "DEA No. 2751",
+  "NSC 336279",
+  "EINECS 244-908-7",
+  "H-4723",
+  "H 4723",
+  "HSDB 8343",
+  "BRN 0758410",
+  "5-24-08-00034 (Beilstein Handbook Reference)",
+  "7-chloro-1-methyl-5-phenyl-1,5-benzodiazepine-2,4-dione"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM938/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of clobazam up to 30 mg daily produce low levels in milk. Short-term use would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. During long-term administration, Monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "In published reports of anticonvulsant use during breastfeeding, most women were taking a combination of anticonvulsants. Some other anticonvulsants (e.g., phenytoin, carbamazepine) stimulate the metabolism of other drugs including anticonvulsants, whereas others (e.g., valproic acid) inhibit the metabolism of other drugs. Therefore, the relationship of the maternal dosage to the concentration in breastmilk can be quite variable, making calculation of the weight-adjusted percentage of maternal dosage less meaningful than for other drugs\nClobazam has a half-life of 36 to 42 hours and is metabolized to N-desmethylclobazam, which has about 20% of the activity of clobazam and a half-life of 71 to 82 hours.\nMaternal Levels. In an older, unpublished study performed by the European manufacturer, clobazam and N-desmethylclobazam were measured in breastmilk using an assay that did not distinguish between the two compounds. Six patients received oral clobazam 10 mg at 7 am and 20 mg at 3 pm daily for 5 days. Milk samples were taken 2 hours after each dose on days 2 and 5 of drug administration. Average clobazam plus N-desmethylclobazam milk levels were 0.125 mg/L on day 2 and 0.152 mg/L on day 5. The highest recorded clobazam plus N-desmethylclobazam milk levels were 0.33 mg/L on day 2 and 0.25 mg/L on day 5. The weight-adjusted infant dosages are an average of 4.6% of the maternal dosage and a maximum of 7.5% of the maternal dosage. Because of the lower potency and longer half-life of N-desmethylclobazam, these values probably overestimate the pharmacologic impact of clobazam in breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No adverse effects were reported in 10 newborns who were 4 to 23 days old who were breastfed during maternal intake of levetiracetam 1000 to 3000 mg daily. One mother was also taking tiagabine 30 mg daily, clobazam 45 mg daily and oxcarbazepine 600 mg daily.\nThe infants (including 3 preterm) of 18 nursing mothers who were taking levetiracetam and called the Pharmacovigilance Center in Lyon, France. One 25-day-old infant whose mother was taking levetiracetam 3000 mg daily plus clobazam was hospitalized for sedation, vomiting, and weight loss, and improved rapidly after breastfeeding discontinuation. Another infant exposed to levetiracetam and clobazam had poor weight gain, but it appeared to be caused by poor milk production."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Seizure Disorder) Carbamazepine, Divalproex, Gabapentin, Lamotrigine, Oxcarbazepine, Phenytoin, Valproic Acid"
+  ]
+ ]
+}

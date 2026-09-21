@@ -1,0 +1,37 @@
+{
+ "id": "LM244",
+ "tytul": "Smallpox Vaccine",
+ "synonimy": [
+  "Dryvax",
+  "Jynneos",
+  "Smallpox and Monkeypox Vaccine, Live, Non-replicating",
+  "vaccinia virus modified strain ankara-bavarian nordic nonreplicating antigen",
+  "MVA-BN",
+  "ACAM2000",
+  "Smallpox and Mpox (Vaccinia) Vaccine, Live"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM244/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Worldwide, three vaccines are available for smallpox, known as MVA-BN, ACAM-2000 and LC16. Only MVA-BN (Jynneos) and ACAM-2000 are available in the United States. The MVA-BN vaccine does not replicate and behaves like a non-live vaccine. The ACAM-2000 vaccine is live and is contraindicated in breastfeeding. No information is available on the LC16 (minimally replicating) vaccine during breastfeeding. The US Centers for Disease Control and Prevention and the World Health Organization state that the MVA-BN vaccine can be offered to breastfeeding women who are otherwise eligible and breastfeeding need not be discontinued after vaccination. The risks and benefits of the vaccine should be discussed with the patient using shared decision-making."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Smallpox vaccine ACAM-2000 has not been studied in lactating women. Live vaccinia virus can be inadvertently transmitted from a lactating mother to her breastfed infant. Infants are at high risk of developing serious complications from live vaccinia smallpox vaccination.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One 5-month-old breastfed infant acquired a vaccinia lesion on her upper lip, tongue and cheek after her mother developed vaccinia lesions on both areolas. The mother's infection apparently originated from the father who had been vaccinated about 10 days prior with a live vaccine (exact type not stated). The exact mechanism of transmission was not apparent."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Monkeypox Vaccine"
+  ]
+ ]
+}

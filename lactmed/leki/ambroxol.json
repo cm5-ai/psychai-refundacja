@@ -1,0 +1,41 @@
+{
+ "id": "ambroxol",
+ "tytul": "Ambroxol",
+ "synonimy": [
+  "Ambroxol",
+  "Tabcin",
+  "Ambroxolum",
+  "ambroxolo",
+  "EINECS 242-500-3",
+  "UNII-200168S0CL",
+  "EC 242-500-3",
+  "DTXCID802583",
+  "DTXSID8022583",
+  "R05CB06",
+  "4-[(2-amino-3,5-dibromophenyl)methylamino]cyclohexan-1-ol"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/ambroxol/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ambroxol is not approved for marketing in the United States by the U.S. Food and Drug Administration but is available in other countries. No information is available on the use of ambroxol during breastfeeding. Because it is about 90% protein bound, the amounts in milk are likely to be low. If a mother requires ambroxol, it is not a reason to discontinue breastfeeding; however, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Dextromethorphan"
+  ]
+ ]
+}

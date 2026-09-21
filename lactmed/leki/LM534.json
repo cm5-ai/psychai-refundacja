@@ -1,0 +1,44 @@
+{
+ "id": "LM534",
+ "tytul": "Ferumoxides",
+ "synonimy": [
+  "Ferumoxides",
+  "Feridex",
+  "Feridex I.V.",
+  "Superparamagnetic iron oxide",
+  "AMI-25",
+  "UNII-G6N3J05W84",
+  "Ferumoxides [USAN:USP:BAN]",
+  "CCRIS 6722",
+  "HSDB 8072",
+  "G6N3J05W84",
+  "Iron oxide crystal is inverse spinel (X-ray data)",
+  "119683-68-0",
+  "Fe(II) and Fe(III) are present (Mossbauer Spectroscopy",
+  "Physical form is a colloidal particle of nonstoichiometric magnetite"
+ ],
+ "zaktualizowano": "2019-02-07",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM534/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ferumoxides is a complex of iron oxide and dextran, similar to iron dextran. It is not expected to pose a toxic risk to a nursing infant. However, because there is no published experience with ferumoxides during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Gadopentetate"
+  ]
+ ]
+}

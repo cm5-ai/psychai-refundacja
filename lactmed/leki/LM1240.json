@@ -1,0 +1,42 @@
+{
+ "id": "LM1240",
+ "tytul": "Ledipasvir",
+ "synonimy": [
+  "Ledipasvir",
+  "Harvoni",
+  "GS-5885",
+  "UNII-013TE6E4WV",
+  "GS5885",
+  "WHO 9796",
+  "GS 5885",
+  "CHEBI:85089",
+  "CHEMBL2374220",
+  "DTXSID90154829",
+  "PA166128166",
+  "methyl N-[(2S)-1-[(6S)-6-[5-[9,9-difluoro-7-[2-[(1R,3S,4S)-2-[(2S)-2-(methoxycarbonylamino)-3-methylbutanoyl]-2-azabicyclo[2.2.1]heptan-3-yl]-3H-benzimidazol-5-yl]fluoren-2-yl]-1H-imidazol-2-yl]-5-azaspiro[2.4]heptan-5-yl]-3-methyl-1-oxobutan-2-yl]carbamate"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1240/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ledipasvir has not been studied in nursing mothers being treated for hepatitis C infection. Because it is 99.8% bound to maternal plasma proteins, amounts in breastmilk are likely to be very low. If ledipasvir alone or in combination with sofosbuvir (Harvoni) is required by the mother, it is not a reason to discontinue breastfeeding. Some sources recommend against breastfeeding when ledipasvir is used with ribavirin.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "An infant was breastfed (extent not stated) for 3 weeks postpartum by a mother who took sofosbuvir 400 mg plus ledipasvir 90 mg daily for 12 weeks beginning at 31 weeks of gestation for her chronic hepatitis C infection. The infant was followed for 1 year and found to have normal growth and development."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

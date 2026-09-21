@@ -1,0 +1,67 @@
+{
+ "id": "LM561",
+ "tytul": "Trientine",
+ "synonimy": [
+  "trientine",
+  "TRIETHYLENETETRAMINE",
+  "Trien",
+  "TETA",
+  "Tecza",
+  "Trientinum",
+  "Trientina",
+  "Triethylene tetramine",
+  "Araldite HY 951",
+  "112-24-3",
+  "Araldite hardener HY 951",
+  "Trientine [INN]",
+  "1,4,7,10-Tetraazadecane",
+  "Trientinum [INN-Latin]",
+  "DEH 24",
+  "Trientina [INN-Spanish]",
+  "1,8-Diamino-3,6-diazaoctane",
+  "UNII-SJ76Y07H5F",
+  "3,6-Diazaoctane-1,8-diamine",
+  "1,2-Ethanediamine, N,N'-bis(2-aminoethyl)-",
+  "NSC 443",
+  "CCRIS 6279",
+  "N,N'-Bis(2-aminoethyl)-1,2-ethanediamine",
+  "HSDB 1002",
+  "N,N'-Bis(2-aminoethyl)ethylenediamine",
+  "SJ76Y07H5F",
+  "HY 951",
+  "EINECS 203-950-6",
+  "UN2259",
+  "BRN 0605448",
+  "Ethylenediamine, N,N'-bis(2-aminoethyl)-",
+  "Tomography, x-ray computed trientine",
+  "N,N-Bis(2-aminoethyl)-1,2-diaminoethane",
+  "AI3-24384",
+  "1,2-Ethanediamine, N1,N2-bis(2-aminoethyl)-",
+  "4-04-00-01242 (Beilstein Handbook Reference)",
+  "Triethylenetetramine [UN2259] [Corrosive]"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM561/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that trientine is not detectable in breastmilk, and no adverse effects have been reported among breastfed infants whose mothers were taking the drug. The effect of trientine on breastmilk copper and zinc concentrations in milk is somewhat conflicting,but breastfed infants appear to have normal serum copper and zinc plasma levels. Based on available data, it appears that trientine is acceptable to use during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four patients received trientine for Wilson's disease in dosages of 1000, 1500 (2 patients) and 1750 mg daily. Trientine was not detectable by HPLC in the breastmilk of any of the mothers' milk samples.\nSix patients with Wilson’s disease were taking trientine in dosages of 1000 to 1750 mg daily. Trientine-copper complex was not detected in any milk samples.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Three infants were breastfed during maternal treatment of Wilson's disease with trientine. Serum zinc and copper concentrations were normal in these infants.\nA center in Türkiye reported 23 infants born to mothers with Wilson's disease over a 20-year period. One patient was treated with 600 mg of trientine plus 100 mg of zinc daily. All of the infants were breastfed (extent and duration not specified). One premature infant died at 3 weeks of age (maternal drug not specified), but the other infants had no apparent complications over a median of 51 months (range 13 to 105 months) of follow-up.\nA center in Germany reports 32 patients with Wilson's disease who became pregnant. Four of the patients were taking trientine in dosages of 600 to 1200 mg daily. Of the 31 women who delivered a live infant, 27 of them breastfed their infants (extent not stated). Four of the infants had neonatal jaundice, but its relationship to trientine cannot be determined. The exact number of women who breastfed while taking trientine is unclear in the report.\nSix patients with Wilson’s disease were taking trientine in dosages of 1000 to 1750 mg daily and breastfed their infants. Maternal reports indicate that all infants exhibited normal development."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Conflicting data exist on breastmilk concentrations of zinc and copper during therapy of Wilson's disease with trientine. One abstract reported that breastmilk concentrations were normal during therapy, but another abstract from the same authors reported lower milk concentrations of zinc and copper.\nA more recent study compared copper and zinc concentration in the milk of 6 mothers taking trientine compared to 25 control mothers without Wilson’s disease. The zinc concentration in the colostrum (0-4 days postpartum) from one mother treated with trientine was higher than normal. In the colostrum from another mother treated with trientine, the zinc concentration was normal. The copper concentration in transitional milk was slightly lower in a mother treated with trientine and a mother treated with zinc compared with the minimum levels in the control samples. Copper and zinc concentrations were normal in mature breastmilk (>14 days postpartum) from all mothers treated with trientine, despite the low copper concentrations in maternal serum."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Penicillamine"
+  ]
+ ]
+}

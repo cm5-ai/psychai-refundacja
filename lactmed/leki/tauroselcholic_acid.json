@@ -1,0 +1,43 @@
+{
+ "id": "tauroselcholic_acid",
+ "tytul": "Tauroselcholic Acid Se-75",
+ "synonimy": [
+  "23-seleno-25-homotaurocholic acid",
+  "tauroselcholic acid se-75",
+  "selenium (75Se) tauroselcholic acid",
+  "XK88N6ZJHP",
+  "Se-Hcat",
+  "SeHCAT",
+  "23-seleno-25-homotaurocholic acid",
+  "Se(75)Hcat",
+  "UNII-XK88N6ZJHP",
+  "CHEMBL3707262",
+  "CHEBI:135844",
+  "DTXSID601108465",
+  "(75)Seleno-homocholic acid-taurine",
+  "Tauro-23-selena-25-homotaurocholic acid",
+  "Q7439754",
+  "SELENIUM (75SE) TAUROSELCHOLIC ACID",
+  "(75Se)-2-[[[[(3α,5α,7α,12α,20S)-3,7,12-trihydroxy-20-methylpregnan-21-yl]seleno]acetyl]amino]ethanesulfonic acid,"
+ ],
+ "zaktualizowano": "2024-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/tauroselcholic_acid/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of tauroselcholic acid Se-75 (SeHCAT; selenium-75 homocholic acid taurine) as a diagnostic agent. Information from one patient indicates that the effective radiation dose to the infant from SeHCAT excreted in breastmilk over 6 months is below any established dose limits and no special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Selenium Se 75 decays by electron capture with a physical half-life of approximately 119 days.\nMaternal Levels. A nursing mother who was 3 months postpartum was given a capsule containing 370 kBq of SeHCAT as a diagnostic test. She collected 3 milk samples daily for 7 days. The effective radiation dose to the infant was 7 microSv over the 7-day period and the radiation dose over a 6-month period of exclusive breastfeeding was estimated to be 17 microSv.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

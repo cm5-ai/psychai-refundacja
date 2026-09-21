@@ -1,0 +1,48 @@
+{
+ "id": "LM256",
+ "tytul": "Thiothixene",
+ "synonimy": [
+  "thiothixene",
+  "Orbinamon",
+  "Tiotixene",
+  "Navaron",
+  "Navane",
+  "Navan",
+  "UNII-LF886533UR",
+  "CP-12,252-1 base",
+  "HSDB 3402",
+  "EINECS 227-001-0",
+  "LF886533UR",
+  "NSC 108165",
+  "P 4657B",
+  "P-4657 B",
+  "P-4657-B",
+  "CP-12,252-1",
+  "CP 12252-1",
+  "(9Z)-N,N-dimethyl-9-[3-(4-methylpiperazin-1-yl)propylidene]thioxanthene-2-sulfonamide"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM256/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is no published experience with thiothixene during breastfeeding, other antipsychotic agents are preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Thiothixene has caused galactorrhea. Hyperprolactinemia appears to be the cause of the galactorrhea. The hyperprolactinemia is caused by the drug's dopamine-blocking action in the tuberoinfundibular pathway. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

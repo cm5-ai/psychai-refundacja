@@ -1,0 +1,50 @@
+{
+ "id": "LM438",
+ "tytul": "Dichloralphenazone",
+ "synonimy": [
+  "Dichloralphenazone",
+  "Kloralfenazon",
+  "Dichloralantipyrine",
+  "Dormuphar",
+  "Ibiodorm",
+  "Welldorm",
+  "Sominat",
+  "Sedor",
+  "Dichloralantipyrin",
+  "UNII-YYX637R279",
+  "EINECS 207-546-0",
+  "YYX637R279",
+  "DEA No. 2467",
+  "Dichloralphenazone [USP:INN:BAN]",
+  "480-30-8",
+  "Antipyrine, compound with chloral hydrate (1:2)",
+  "ANTIPYRINE, compd. with CHLORAL HYDRATE (1:2)",
+  "3H-Pyrazol-3-one, 1,2-dihydro-1,5-dimethyl-2-phenyl-, compd. with 2,2,2-trichloro-1,1-ethanediol (1:2)",
+  "1,2-Dihydro-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one, compound with 2,2,2-trichloroethane-1,1-diol (1:2)",
+  "1,2-Dihydro-1,5-dimethyl-2-phenyl-3H-pyrazol-3-one, compd. with 2,2,2-trichloro-1,1-ethanediol (1:2)"
+ ],
+ "zaktualizowano": "2024-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM438/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Short-term or occasional use of dichloralphenazone during breastfeeding is unlikely to adversely affect the breastfed infant, especially if the infant is older than 2 months. Because the active metabolite, trichloroethanol, has a long half-life, long-term use of repeated doses during breastfeeding could result in infant sedation, especially while nursing a neonate or preterm infant. The low doses of dichloralphenazone found in combination migraine products (e.g., Midrin) are less likely to cause drowsiness in the infant unless doses are repeated several times daily. The antipyrine component of dichloralphenazone is considered unlikely to harm the infant. Monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Dichloralphenazone is a chemical combination of chloral hydrate (64%) and antipyrine (36%).\nMaternal Levels. After 1.3 grams of dichloralphenazone (equivalent to about 830 mg of chloral hydrate) daily in a woman who was 5 months postpartum, milk trichloroethanol levels were found to range from 1.3 to 3.2 mg/L.\nAntipyrine was given to 7 lactating women were 2 to 19 months postpartum. Each woman drank a single oral dose of 18 mg/kg of antipyrine in solution. Peak milk levels usually occurred 10 minutes after ingestion and ranged from about 10 to 30 mg/L. The antipyrine half-life in milk averaged 11.6 hours (range 5.7 to 21.7 hours). The authors estimated that a fully breastfed infant would ingest 6.4 mg of antipyrine after this maternal dose or 0.59% of the maternal dose (not weight-adjusted). Two of the women who were studied before and after pregnancy indicated that antipyrine clearance might be increased by about two-fold during lactation. The time course of antipyrine appearance in milk is probably slower than above from dichloralphenazone in a tablet formulation.\nInfant Levels. After a 1.3 gram maternal dose of dichloralphenazone (equivalent to about 1 gram of chloral hydrate), trichloroethanol was detected in her 5-month-old breastfed infant's plasma 21 hours later."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Minimal morning sedation occurred in a 5-month-old breastfed infant whose mother was taking 1.3 grams of dichloralphenazone (equivalent to about 1 gram of chloral hydrate) every evening plus chlorpromazine 100 mg 3 times daily. The infant's overall development was said to be normal at 3 months of age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Eletriptan, Rizatriptan, Sumatriptan, Zolmitriptan"
+  ]
+ ]
+}

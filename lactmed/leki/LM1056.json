@@ -1,0 +1,47 @@
+{
+ "id": "LM1056",
+ "tytul": "Bosentan",
+ "synonimy": [
+  "Bosentan",
+  "Actelion",
+  "Tracleer",
+  "bosentanum",
+  "UNII-XUL93R30K2",
+  "Ro 47-0203",
+  "Ro-47-0203",
+  "Ro 47-0203/029",
+  "XUL93R30K2",
+  "CHEBI:31300",
+  "UNII-Q326023R30",
+  "SR-05000001532",
+  "KS-5062",
+  "starbld0043886",
+  "SCHEMBL4218",
+  "GTPL3494",
+  "4-tert-butyl-N-[6-(2-hydroxyethoxy)-5-(2-methoxyphenoxy)-2-pyrimidin-2-ylpyrimidin-4-yl]benzenesulfonamide"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1056/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "A study in one patient taking bosentan during breastfeeding found very low levels in milk. Another woman breastfed her preterm newborn while taking bosentan and sildenafil with no adverse effects reported. Amounts ingested by the infant are far below doses given to treat infants and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman breastfeeding her 21-month-old infant was taking 125 mg bosentan twice daily and 20 mg sildenafil 3 times daily to treat pulmonary arterial hypertension. She pumped three milk samples collected at home over 24 hours on days 637 and 651 postpartum. Bosentan milk concentrations ranged from 23.2 mcg/L at 10 hours after the morning dose to 86.1 mcg/L at 6 hours after the morning dose. The average steady-state milk concentration of bosentan was 49 mcg/L. The patient’s infant was breastfed 3 times daily. The estimated infant doses via milk on the two days were 0.29 and 0.60 mcg/kg in this partially breastfed infant. A fully breastfed infant might receive a dosage as high as 7.43 mcg/kg daily, which translate into a relative infant dose of 0.24%. This dosage would also be far below the infant therapeutic dosage of 4 mg/kg.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A 23-year-old woman with congenital heart disease and pulmonary hypertension was treated during pregnancy with bosentan and sildenafil in unspecified dosages. These drugs and warfarin were continued postpartum. Her infant was delivered at 30 weeks by cesarean section and weighed 1.41 kg at birth. She nursed the infant in the neonatal intensive care unit for 11 weeks “with good outcome” according to the authors, but the infant died at 26 weeks from a respiratory syncytial virus infection.\nA woman breastfeeding her 21-month-old infant was taking 20 mg of sildenafil 3 times daily and 125 mg of bosentan twice daily to treat pulmonary arterial hypertension. The drugs were begun more than 6 months postpartum. The mother did not report any possible adverse effects, serious health problem or hospitalization of the infant in the period from birth until day 651 postpartum when the infant continued to be partially breastfed."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Pulmonary Artery Hypertension) Epoprostenol, Nitric Oxide, Sildenafil, Treprostinil"
+  ]
+ ]
+}

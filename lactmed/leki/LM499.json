@@ -1,0 +1,64 @@
+{
+ "id": "LM499",
+ "tytul": "Ivermectin",
+ "synonimy": [
+  "Hyvermectin",
+  "Stromectol",
+  "Mectizan",
+  "Eqvalan",
+  "Ivomec",
+  "Equimectrin",
+  "Ivermectine",
+  "Ivermectino",
+  "Ivermectinum",
+  "Noromectin",
+  "Phoenectin",
+  "Zimecterin",
+  "Bimectin",
+  "Soolantra",
+  "Acarexx",
+  "Ivermax",
+  "Oramec",
+  "Pandex",
+  "Sklice",
+  "Uvemec",
+  "Vermic",
+  "Vetmec",
+  "Ivomec-F",
+  "Cardotek-30",
+  "22,23-Dihydroavermectin B1",
+  "CCRIS 8839",
+  "UNII-8883YP2R6D",
+  "EINECS 274-536-0",
+  "MK 933",
+  "8883YP2R6D",
+  "MK-0933",
+  "L 640471",
+  "(1R,5'S,6R,6'R,8R,10E,12S,13S,14E,16E,20R,21R,24S)-6'-butan-2-yl-21,24-dihydroxy-12-[(2R,4S,5S,6S)-5-[(4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-5',11,13,22-tetramethylspiro[3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene-6,2'-oxane]-2-one",
+  "(1R,5'S,6R,6'R,8R,10E,12S,13S,14E,16E,20R,21R,24S)-21,24-dihydroxy-12-[(2R,4S,5S,6S)-5-[(4S,5S,6S)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-5',11,13,22-tetramethyl-6'-propan-2-ylspiro[3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene-6,2'-oxane]-2-one"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM499/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that ivermectin is poorly excreted into breastmilk after oral administration. Amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants over 7 days of age. No data are available on ivermectin excretion into breastmilk after topical administration, but some expert opinion considers it to be a treatment of choice for scabies during breastfeeding. Avoid application to the breast area where the infant might directly ingest the drug."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four mothers who had lost their infants at term were given a single 150 mcg/kg dose of oral ivermectin. Ivermectin was detected in milk within 1 hour after the dose and for 72 hours after the dose. The average peak milk level was 15 mcg/L (range 11 to 21 mcg/L) and occurred 4 hours after the dose in 2 women, 6 hours in another and 12 hours after the dose in the fourth. The mean milk level was 9.85 mcg/L. Using the mean milk level data from this study, an exclusively breastfed infant would receive an average dose of 1.47 mcg/kg after a maternal dose of 150 mcg/kg, or 0.98% of the weight-adjusted maternal dose.\nA woman was treated for Strongyloides stercoralis with a single oral dose of 200 mcg/kg of ivermectin. She collected milk samples before the dose and at 1, 3, 6, 9, 12 and 24 hours after the dose. A peak level in milk of 20.8 mcg/L occurred 6 hours after the dose. The average concentration over the 24-hour period was 9.26 mcg/L. Using the average milk level data from this study, an exclusively breastfed infant would receive an average dose of 1.39 mcg/kg after a maternal dose of 200 mcg/kg, or 0.7% of the weight-adjusted maternal dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Scabies, Pediculosis) Permethrin, Pyrethrins"
+  ]
+ ]
+}

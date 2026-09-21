@@ -1,0 +1,42 @@
+{
+ "id": "LM294",
+ "tytul": "Mefloquine",
+ "synonimy": [
+  "mefloquine",
+  "Lariam",
+  "Mefloquin",
+  "Mefloquinum",
+  "Mefloquina",
+  "HSDB 6853",
+  "UNII-TML814419R",
+  "Ro 215998",
+  "Ro 21-5998",
+  "WR 142490",
+  "WR 142,490",
+  "(S)-[2,8-bis(trifluoromethyl)quinolin-4-yl]-[(2R)-piperidin-2-yl]methanol"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM294/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Very small amounts of mefloquine are excreted in breastmilk; the amount of drug is not sufficient to harm the infant nor is the quantity sufficient to protect the child from malaria. Breastfeeding infants should receive the recommended dosages of mefloquine."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two women who were 2 to 3 days postpartum were given mefloquine 250 mg orally. In one woman who provided milk samples periodically for 56 days, the milk mefloquine level declined from 53 to 32 mcg/L over this period. The average half-life in breastmilk for the 2 women was 16.6 days. The authors estimated that an exclusively breastfed infant would receive an average of 3.8% of the maternal weight-adjusted dosage of mefloquine after a single dose. However, this value could be higher with weekly doses because of accumulation.\nA physiologically based pharmacokinetic model has been developed that adequately predicts mefloquine excretion into breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Atovaquone and Proguanil, Doxycycline, Chloroquine"
+  ]
+ ]
+}

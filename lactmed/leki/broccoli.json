@@ -1,0 +1,33 @@
+{
+ "id": "broccoli",
+ "tytul": "Broccoli",
+ "synonimy": [
+  "Broccoli",
+  "Brassica oleracea var. italica",
+  "sprouting broccoli",
+  "D001937",
+  "txid3705",
+  "RefChem:30797",
+  "UOI4FT57BZ"
+ ],
+ "zaktualizowano": "2026-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/broccoli/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Broccoli (Brassica oleracea var. italica) has no specific use during breastfeeding. Broccoli contains sulforaphane, which is a bioactive phytonutrient found in cruciferous vegetables that is detectable in breastmilk. Some low-quality evidence indicates that maternal cabbage ingestion might cause colic in their breastfed infants. Many women believe that infant crying and fussiness is related to abdominal pain linked to feeding, and had eliminated items, such as broccoli, from their diet in an attempt to change infant behavior, although there is no good evidence to support this assumption. Moderately good evidence supports that maternal intake of vegetables during early breastfeeding will improve their infant’s liking of those vegetables later in life."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A pilot study detected no sulforaphane, but did detect its metabolite, sulforaphane-N-acetylcysteine, in the milk of 7 of 8 mothers who had recently eaten a cruciferous vegetable, such as broccoli. The eighth mother reported low intake of cruciferous vegetables in the prior 24 hours.\nA single oral dose of a broccoli sprout extract (EnduraCell) equivalent to 21 mg of sulforaphane, was administered to 8 women prior to cesarean section. Two to four days post-delivery, a second dose was administered. Two hours later, maternal blood and breastmilk were collected. Sulforaphane was detected in breastmilk in an average concentration of 1.33 mcg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Maternal broccoli intake was studied as a possible cause of colic in breastfed infants. A questionnaire was sent to nursing mothers asking about food intake during the previous week and their infants' symptoms of colic during that time. One hundred seventy-one mothers who reported colic in their infants during the prior week were 30% more likely to have eaten broccoli during this time than mothers of infants who did not have colic during the previous week. Additionally, many other mothers reported avoiding cruciferous vegetables (e.g., broccoli, cabbage, cauliflower) because of previous symptoms of colic in their breastfed infants that they attributed to these foods."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

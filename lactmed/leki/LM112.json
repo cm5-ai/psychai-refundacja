@@ -1,0 +1,38 @@
+{
+ "id": "LM112",
+ "tytul": "Flecainide",
+ "synonimy": [
+  "Flecainide",
+  "Flecaine",
+  "Flecainida",
+  "Flecainidum",
+  "(+-)-Flecainide",
+  "Flecainidum [INN-Latin]",
+  "Flecainida [INN-Spanish]",
+  "CCRIS 313",
+  "UNII-K94FTS1806",
+  "K94FTS1806",
+  "Benzamide, N-(2-piperidinylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)-",
+  "N-(2-Piperidinylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)benzamide"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM112/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Maternal doses of flecainide up to 200 mg daily produce low levels in milk and undetectable infant serum levels. Flecainide is not expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In one mother taking flecainide 100 mg twice daily orally, milk flecainide levels were 0.89 and 1.09 mg/L at 3 hours after the mother's second dose of the day on days 5 and 7 postpartum, respectively. Assuming the measured levels are approximately peak levels, the amounts in milk represent a maximum infant dosage of about 4.5% of the maternal weight-adjusted dosage.\nEleven healthy volunteer women were given flecainide 100 mg twice daily orally (average 3.2 mg/kg daily) for 5.5 days after delivery. Flecainide levels in 24-hour pooled milk samples averaged 0.756 mg/L (range 0.13 to 1.53 mg/L) among the 11 women on day 5 when steady state had been attained. This corresponds to an average infant dosage of 3.6% (range 0.7 to 6.9%) of the maternal weight-adjusted dosage. After the last dose, the half-life of flecainide in breastmilk averaged 14.7 hours.\nA woman with ventricular arrhythmia was treated with flecainide 87.3 mg twice daily during pregnancy and postpartum. Breastmilk levels of flecainide ranged from 0.55 to 0.99 mg/L at 8 time points over the first 2 months postpartum. Using the highest milk level the authors estimated the worst case dose that that the infant would receive would be 0.15 mg/kg daily or 5.6% of the mother’s weight-adjusted dosage and 7.5% of an infant flecainide dosage.\nInfant Levels. A woman with ventricular arrhythmia was treated with flecainide 87.3 mg twice daily during pregnancy and postpartum and exclusively breastfed her infant. At delivery, the infant’s flecainide blood level was 0.26 mg/L, probably as a result of placental transfer. On 5 additional occasions from 10 days to 6 months of age, infant flecainide blood levels were undetectable (<0.05 mg/L).\nEight breastfed infants of mothers taking flecainide were followed after safety inquiries by their mothers. The extent of breastfeeding was exclusive in 2 infants, mixed in 5 and unknown in 1. The median maternal flecainide dose was 150 mg (IQR 100 to 175 mg). Serum flecainide concentrations at day 15 were below the lower limit of detection (limit not stated) in all the infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with ventricular arrhythmia was treated with flecainide 87.3 mg twice daily during pregnancy and postpartum and exclusively breastfed her infant. Her infant was followed weekly with electrocardiograms until about 6 months of age. All were normal.\nEight breastfed infants of mothers taking flecainide were followed after inquiries by their mothers. The extent of breastfeeding was exclusive in 2 infants, mixed in 5 and unknown in 1. The median maternal flecainide dose was 150 mg (IQR 100 to 175 mg). Clinical examination at day 15 of life was normal in all infants, electrocardiograms in 2 were normal, and none of the 8 infants had an adverse effect. Two children who breastfed for 5 and 8 months, were healthy and developed normally at 1 and 2 years of age, respectively."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

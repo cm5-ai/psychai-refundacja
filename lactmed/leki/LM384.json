@@ -1,0 +1,78 @@
+{
+ "id": "LM384",
+ "tytul": "Ranitidine",
+ "synonimy": [
+  "ranitidine",
+  "Gastrosedol",
+  "Ranitidina",
+  "Ranitidinum",
+  "Duractin",
+  "Gastrial",
+  "Microtid",
+  "Ptinolin",
+  "Ranidine",
+  "Raniogas",
+  "Ranitiget",
+  "Rantacid",
+  "Raticina",
+  "Ulceranin",
+  "Weichilin",
+  "Xanidine",
+  "Zantadin",
+  "Achedos",
+  "Coralen",
+  "Istomar",
+  "Quantor",
+  "Quicran",
+  "Radinat",
+  "Ranisen",
+  "Raniter",
+  "Urantac",
+  "Verlost",
+  "Vizerul",
+  "Acidex",
+  "Atural",
+  "Axoban",
+  "Ezopta",
+  "Logast",
+  "Mauran",
+  "Randin",
+  "Sampep",
+  "Taural",
+  "Vesyca",
+  "Weidos",
+  "Zantab",
+  "Curan",
+  "Ranin",
+  "Ratic",
+  "Ul-Pep",
+  "UNII-884KT10YB7",
+  "HSDB 3925",
+  "EINECS 266-332-5",
+  "(E)-1-N'-[2-[[5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-1-N-methyl-2-nitroethene-1,1-diamine"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM384/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although interpatient variability exists, the dose of ranitidine in breastmilk is less than the dose used in newborn infants. Ranitidine itself is not a concern during breastfeeding, but it can break down to a toxic compound if not formulated and stored properly. An alternate drug might be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Six women with established lactation who were 6 to 10 days postpartum were given a single dose of 150 mg of ranitidine orally. Average milk levels were 1.28, 1.42 and 1.02 mg/L at 2, 4 and 8 hours, respectively, after the dose; however, there was great interpatient variability in both peak levels and the time of the peak.\nAfter 5 oral doses of ranitidine 150 mg every 12 hours in a 54-day postpartum woman, the highest measured milk level occurred 5.5 hours after the 5th dose and was 2.6 mg/L. The estimated half-life in milk was 2.9 hours.\nUsing the average peak milk level data from these 2 papers, an exclusively breastfed infant would receive an estimated maximum of 300 mcg/kg daily with a maternal dosage of 150 mg daily. This dosage is 20% of the dosage used intravenously in newborn infants for stress ulcer prophylaxis.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One 54-day-old breastfed infant had no observable adverse effects after maternal ingestion of ranitidine 150 mg every 12 hours for 2 days."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Histamine H2-receptor blockade is known to stimulate prolactin secretion. Ranitidine in intravenous doses over 100 mg or during long-term oral use have increased serum prolactin in some studies, and rare cases of gynecomastia have been reported. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Antacids, Cimetidine, Famotidine, Omeprazole, Pantoprazole, Sucralfate"
+  ]
+ ]
+}

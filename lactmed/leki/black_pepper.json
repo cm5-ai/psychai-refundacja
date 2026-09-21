@@ -1,0 +1,35 @@
+{
+ "id": "black_pepper",
+ "tytul": "Black Pepper",
+ "synonimy": [
+  "Black Pepper",
+  "Piper nigrum",
+  "piperine",
+  "CCRIS 7642",
+  "EINECS 284-524-7",
+  "FEMA No. 2844",
+  "FEMA No. 2846",
+  "Pepper oleoresin/extract, black",
+  "Pepper, black"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/black_pepper/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Black pepper (Piper nigrum) contains piperine, which is the main pungent component. Piperine is often incorporated into turmeric products because it enhances the oral bioavailability of curcumin. Piperine can be found in breastmilk after maternal ingestion, but the piperine levels appear to be far below the taste threshold after ingestion of typical dietary amounts of pepper. No studies have been performed with ingestion of piperine-containing pharmaceutical products. Black pepper and the related long pepper (Piper longum) are reportedly used to increase milk supply in India; however, no scientifically valid clinical trials support this use."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Thirteen nursing mothers who were nursing their infants were served a curry dish that contained an average piperine concentration of 264 nmol/gram (75 mcg/gram) of the curry sauce. The peak piperine concentration in milk of 31.2 nM (8.9 mcg/L) occurred at 1 hour after the meal in these mothers with a low basal piperine concentration in milk. The authors assumed that the concentration of piperine was too low for conscious detection by the nursing infant, but that it could contribute to a sensory desensitization toward pungency in later life.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

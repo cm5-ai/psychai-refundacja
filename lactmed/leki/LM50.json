@@ -1,0 +1,40 @@
+{
+ "id": "LM50",
+ "tytul": "Cefotetan",
+ "synonimy": [
+  "cefotetan",
+  "Cefotetanum",
+  "Cefotan",
+  "UNII-48SPP0PA9Q",
+  "ICI 156834",
+  "EINECS 274-093-3",
+  "YM 09330",
+  "BRN 1208088",
+  "ICI 156,834",
+  "(6R,7S)-7-[[4-(2-amino-1-carboxy-2-oxoethylidene)-1,3-dithietane-2-carbonyl]amino]-7-methoxy-3-[(1-methyltetrazol-5-yl)sulfanylmethyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM50/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Cefotetan is no longer marketed in the United States. A moderate amount of information indicates that cefotetan produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefotetan is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a single 1 gram dose of cefotetan to 7 women, the drug was not detected (<0.195 mg/L) in milk in 2 women at any time up to 6 hours after the dose. In the remaining 5 women, average milk levels ranged from 0.22 to 0.34 mg/L from 1 to 6 hours after the dose. The average peak level was 0.34 mg/L 4 hours after the dose, although individual peak levels ranged from 0.25 to 0.5 mg/L at 3 to 4 hours after the dose.\nFive women were given 1 gram of cefotetan every 12 hours intramuscularly for 2 days. Milk cefotetan levels were undetectable 1 hour after the first dose. From 4 to 10 hours, milk levels ranged from 0.3 to 0.59 mg/L, with the peak occurring 7 hours after the dose. Ten hours after the second, third and fifth doses, milk levels ranged from 0.29 to 0.37 mg/L.\nAfter a single 1 gram dose of cefotetan in 2 women, average cefotetan concentrations of 0.1 and 0.2 mg/L occurred at 2 and 4 hours after the dose, respectively. It was undetectable at 1 and 6 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cefoxitin"
+  ]
+ ]
+}

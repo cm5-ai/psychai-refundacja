@@ -1,0 +1,54 @@
+{
+ "id": "adagrasib",
+ "tytul": "Adagrasib",
+ "synonimy": [
+  "Adagrasib",
+  "Krazati",
+  "MRTX-849",
+  "CHEMBL4594350",
+  "SCHEMBL20974691",
+  "GTPL10888",
+  "DTXSID801336759",
+  "BCP31538",
+  "EX-A3258",
+  "MRTX-849",
+  "MRTX 849",
+  "BDBM50539763",
+  "NSC831453",
+  "WHO 11519",
+  "AKOS037648997",
+  "AT23561",
+  "NSC-831453",
+  "AC-35659",
+  "BM177692",
+  "BS-16211",
+  "HY-130149",
+  "CS-0105265",
+  "D12301",
+  "EN300-26953032",
+  "Z4145344023",
+  "MFCD32263433",
+  "UNII-8EOO6HQF8Y",
+  "2-[(2S)-4-[7-(8-chloronaphthalen-1-yl)-2-[[(2S)-1-methylpyrrolidin-2-yl]methoxy]-6,8-dihydro-5H-pyrido[3,4-d]pyrimidin-4-yl]-1-(2-fluoroprop-2-enoyl)piperazin-2-yl]acetonitrile"
+ ],
+ "zaktualizowano": "2025-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/adagrasib/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of adagrasib during breastfeeding. Because adagrasib is 98% bound to plasma proteins, the amount in milk is likely to be low. However, because of its potential toxicity in the breastfed infant and its half-life of 23 hours, the manufacturer recommends that breastfeeding be discontinued during adagrasib therapy and for 1 week after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

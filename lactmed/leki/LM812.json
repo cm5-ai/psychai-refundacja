@@ -1,0 +1,32 @@
+{
+ "id": "LM812",
+ "tytul": "Technetium Tc 99m Albumin",
+ "synonimy": [
+  "Technetium Tc 99m albumin",
+  "Technetium Tc 99m Aggregated Albumin",
+  "Draximage MAA",
+  "Pulmotech MAA",
+  "UNII-414JW8YPVE",
+  "RefChem:891284"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM812/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of technetium Tc 99m aggregated albumin (Tc 99m albumin colloid; Tc 99m microalbumin; Tc 99m HAM) as a diagnostic agent. A US Nuclear Regulatory Commission subcommittee has recommended that nursing be discontinued for 24 hours after administration of all technetium Tc 99m diagnostic products to simplify guidance recommendations, although this time interval may be longer than necessary. Other sources recommend that breastfeeding should be interrupted for 12 to 13 hours after administration of Tc 99m albumin aggregated, although one source recommends a discontinuation period of 20 hours after a dose of 200 MBq. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. Mothers need not refrain from close contact with their infants after usual clinical doses. However, reducing close contact with the child to the least possible time for 6 hours following injection of the radiopharmaceutical, will ensure that the exposure is \"as low as reasonably achievable\".\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nFor nursing mothers who work with Tc 99m substances in their workplace, there is no need to take any precautions other than those appropriate for general radiation protection."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Tc 99m is a gamma emitter with a principal photon energy of 140 keV and a physical half-life of 6.04 hours."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

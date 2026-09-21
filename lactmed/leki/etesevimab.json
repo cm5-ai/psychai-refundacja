@@ -1,0 +1,44 @@
+{
+ "id": "etesevimab",
+ "tytul": "Etesevimab and Bamlanivimab",
+ "synonimy": [
+  "Etesevimab",
+  "LYCoV016",
+  "anti-Sars-cov-2 antibody JS016",
+  "CB6",
+  "LY-3832479",
+  "LY-COV016",
+  "LY3832479",
+  "NP005",
+  "UNII-N7Q9NLF11I",
+  "WHO 11873",
+  "LY-3819253",
+  "LY-COV555",
+  "LY3819253",
+  "UNII-45I6OFJ8QH"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/etesevimab/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The distribution of etesevimab and bamlanivimab was stopped in June of 2021 because of a lack of efficacy against COVID-19 variants. Etesevimab and bamlanivimab are monoclonal antibodies directed against the SARS-CoV-2 virus that causes COVID-19. No information is available on their clinical use during breastfeeding. Because etesevimab and bamlanivimab are large protein molecules with molecular weights of 146,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nirmatrelvir, Remdesevir"
+  ]
+ ]
+}

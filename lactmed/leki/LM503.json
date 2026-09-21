@@ -1,0 +1,75 @@
+{
+ "id": "LM503",
+ "tytul": "Pentobarbital",
+ "synonimy": [
+  "pentobarbital",
+  "Pentobarbitone",
+  "Nembutal",
+  "Mebubarbital",
+  "Ethaminal",
+  "Mebumal",
+  "Neodorm",
+  "Dorsital",
+  "Nebralin",
+  "Rivadorm",
+  "Pentobarbiturate",
+  "Pentobarbituric acid",
+  "Pentobarbitalum",
+  "Aethaminalum",
+  "Sagatal",
+  "Neodorm (new)",
+  "Pentobarbitale",
+  "Phenobarbitone",
+  "Nembutal (VAN)",
+  "Neodorm (VAN)",
+  "Pentobarbital (VAN)",
+  "Pentobarbitone (VAN)",
+  "Pentobarbitale [DCIT]",
+  "Pentobarbitalum [INN-Latin]",
+  "5-Ethyl-5-(sec-pentyl)barbituric acid",
+  "5-Ethyl-5-(1-methylbutyl)barbituric acid",
+  "CCRIS 7089",
+  "5-Ethyl-5-(1-methylbutyl)malonylurea",
+  "NSC 28708",
+  "HSDB 3151",
+  "Pentobarbital [USP:INN:BAN]",
+  "UNII-I4744080IR",
+  "76-74-4",
+  "EINECS 200-983-8",
+  "Ethyl-propylmethylcarbinylbarbituric acid",
+  "BRN 0087067",
+  "Barbituric acid, 5-ethyl-5-(1-methylbutyl)-",
+  "5-Ethyl-5-(1-methylbutyl)-2,4,6(1H,3H,5H)-pyrimidinetrione",
+  "Barbituric acid, 5-ethyl-5-(2-pentyl)-",
+  "2,4,6(1H,3H,5H)-Pyrimidinetrione, 5-ethyl-5-(1-methylbutyl)-",
+  "I4744080IR",
+  "(+-)-5-Ethyl-5-(1-methylbutyl)barbituric acid",
+  "EC 200-983-8",
+  "5-24-09-00168 (Beilstein Handbook Reference)",
+  "2,4,6(1H,3H,5H)-Pyrimidinetrione, 5-ethyl-5-(1-methylbutyl)-, (+-)-"
+ ],
+ "zaktualizowano": "2023-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM503/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is little published experience with pentobarbital during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant. If pentobarbital is used, monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A mother who was 4 days postpartum had taken pentobarbital 100 mg daily for 3 days. A milk level of 170 mcg/L was measured 19 hours after the previous dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Zaleplon, Zolpidem"
+  ]
+ ]
+}

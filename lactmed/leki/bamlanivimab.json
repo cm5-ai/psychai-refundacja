@@ -1,0 +1,35 @@
+{
+ "id": "bamlanivimab",
+ "tytul": "Bamlanivimab",
+ "synonimy": [
+  "Bamlanivimab",
+  "LY-3819253",
+  "LY-COV555",
+  "LY3819253",
+  "UNII-45I6OFJ8QH"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/bamlanivimab/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The US FDA withdrew emergency-use authorization of bamlanivimab and etesevimab in June of 2021 because of a lack of efficacy against COVID-19 variants. Bamlanivimab is a monoclonal antibody given together with etesevimab. Both are directed against the SARS-CoV-2 virus that causes COVID-19. No information is available on the clinical use of bamlanivimab during breastfeeding. Because bamlanivimab is a large protein molecule with a molecular weight of 146,000 Da the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, bamlanivimab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nirmatrelvir, Remdesevir"
+  ]
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "LM136",
+ "tytul": "Hydralazine",
+ "synonimy": [
+  "hydralazine",
+  "Hypophthalin",
+  "Hydralazin",
+  "1-Hydrazinophthalazine",
+  "Hidralazina",
+  "Idralazina",
+  "Apresolin",
+  "Apressin",
+  "Hydrazinophthalazine",
+  "Hydralazinum",
+  "Hidralazin",
+  "Hipoftalin",
+  "Aprezolin",
+  "1-Phthalazinylhydrazine",
+  "Idralazina [DCIT]",
+  "Praparat 5968",
+  "Idralazina [Italian]",
+  "1(2H)-Phthalazinone, hydrazone",
+  "Ciba 5968",
+  "Apressin (pharmaceutical)",
+  "CCRIS 5385",
+  "BA 5968",
+  "26NAK24LS8",
+  "NSC 126699",
+  "EINECS 201-680-3",
+  "C-5968",
+  "BRN 0132615",
+  "C 5968",
+  "5-25-17-00412 (Beilstein Handbook Reference)",
+  "phthalazin-1-ylhydrazine"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM136/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited milk level and infant serum level data and a long history of use in postpartum mothers indicate that hydralazine is an acceptable antihypertensive in nursing mothers, even those nursing newborns."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In one case report, a mother taking oral hydralazine 50 mg 3 times daily for at least 8 weeks postpartum had hydralazine milk levels of about 130 mcg/L at 0.5 and 2 hours after a dose. In addition, milk contained an amount of acid-labile hydrazones with undefined pharmacologic activity. The authors estimated that a breastfed infant would receive a maximum of 13 mcg per feeding at this maternal dosage.\nTen lactating women had blood and breastmilk samples analyzed within 24 hours after receiving a dose of hydralazine of between 10 and 40 mg in the first week postpartum. The analytic method measured hydralazine plus its pharmacologically active acid-labile metabolites. The average concentration of drugs in breastmilk was 240 nmol/L, which was about half of the simultaneous concentration in maternal plasma. The authors estimated that the daily dose to a breastfed infant would likely not exceed 25 mcg.\nInfant Levels. Two infants were breastfed after their mothers had received a dose of hydralazine between 10 and 40 mg during the first week postpartum., At 2 hours after feeding, infant serum drug concentrations were 557 and 293 nmol/L. The analytic method measured hydralazine plus its pharmacologically active acid-labile metabolites. These values were much lower than those found in a 2 kg infant who was receiving hydralazine 6 mg/kg daily directly for coarctation of the aorta. Serum levels in this infant were 6230 nmol/L before a 4 mg dose, and 8050 and 8310 nmol/L at 2 and 4 hours after the dose, respectively. Two other infants who received sterilized (100 degrees C for 10 minutes) breastmilk from their mothers who were taking hydralazine had no detectable hydralazine in their serum 2 hours after receiving the breastmilk feeding. The authors showed that expressed milk concentrations from 2 mothers were 140 nmol/L before heating and <20 nmol/L after heating."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No adverse effects reported in one infant breastfed for 8 weeks."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Candesartan, Benazepril, Captopril, Lisinopril, Quinapril, Hydrochlorothiazide, Methyldopa, Propranolol"
+  ]
+ ]
+}

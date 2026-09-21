@@ -1,0 +1,57 @@
+{
+ "id": "LM198",
+ "tytul": "Nifedipine",
+ "synonimy": [
+  "nifedipine",
+  "Adalat",
+  "Procardia",
+  "Procardia XL",
+  "Cordipin",
+  "Corinfar",
+  "Fenihidine",
+  "Citilat",
+  "Oxcord",
+  "Fenihidin",
+  "Nifediac",
+  "Nifedical",
+  "Afeditab CR",
+  "Nifedipinum",
+  "Nifedipino",
+  "Afeditab",
+  "Adipine XL",
+  "Nifedical XL",
+  "UNII-I9ZF7L6G2L",
+  "BAY A 1040",
+  "CCRIS 6074",
+  "BAYa1040",
+  "EINECS 244-598-3",
+  "HSDB 7775",
+  "BRN 0497773",
+  "5-22-04-00268 (Beilstein Handbook Reference)",
+  "dimethyl 2,6-dimethyl-4-(2-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate"
+ ],
+ "zaktualizowano": "2025-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM198/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of nifedipine in breastmilk, amounts ingested by the infant are small, even in women with a genetic variant of breast cancer resistance protein that increases the amount of drug transferred to milk. No adverse effects have been reported among infants exposed to nifedipine in breastmilk. Nifedipine is used to treat painful nipple vasospasm (e.g., Raynaud phenomenon) in nursing mothers who do not respond to other measures such as hot compresses and avoidance of cold exposure. The dosages of nifedipine most commonly reportedly used to treat the condition is 20 to 60 mg daily either as a single dose of a sustained-release product or 10 to 20 mg 3 times daily of an immediate-release product. Lower dosages can be tried if these doses are not tolerated."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman taking nifedipine 10 mg four times daily was given a 20 mg test dose 10 days postpartum. One hour after this dose, peak milk levels of the drug and its pyridine metabolite were 43 and 15 mcg/L, respectively. By 4 hours after the dose, the levels of both drugs in breastmilk were less than 5 mcg/L.\nAnother woman took doses of 10, 20 and 30 mg every 8 hours on different days shortly after delivering a premature infant. Her peak milk nifedipine levels occurred 1 hour after each dose. The half-life of the drug in milk varied with dosage: 1.4 hours with the 10 mg dose; 3.1 hours with the 20 mg dose; and 2.4 hours with the 30 mg dose. The average milk half-life of all doses was 3.3 hours. The highest milk level found was 53 mcg/L at 30 minutes after the 30 mg dose. Nifedipine had fallen to undetectable levels (<2 mcg/L) by 5.25 hours after the 10 mg dose. At 8 hours after the dose, nifedipine concentrations in milk were 3.2 mcg/L with the 20 mg dose and 4.9 mcg/L with the 30 mg dose. The total amounts in milk collected over 24 hours were 0.12 mcg with 10 mg every 8 hours, an average of 1.07 mcg with 20 mg every 8 hours, and an average of 1.71 mcg with 30 mg every 8 hours. Using the peak milk level data from the 30 mg every 8 hour dosage in this study, the authors estimated that an exclusively breastfed infant would receive an estimated maximum of 7.5 mcg/kg daily with this maternal dosage regimen.\nIn 6 women taking a dose of 10 mg three times daily, milk levels ranged from <1 to 10.3 mcg/L at random times between 1 and 8 hours after a dose, with a median of 3.5 mcg/L.\nIn a study of 21 women taking a median dosage of 40 mg daily, mostly as a sustained-release product, 13 donated milk samples at a median of 7 days postpartum (range 1 to 100 days). The infants would receive an average daily dosage of 0.1% of their mother's weight-adjusted dosage in breast milk.\nNineteen hypertensive nursing mothers taking 20 mg of slow-release nifedipine daily for at least 15 days postpartum were genotyped for breast cancer resistance protein. Trough milk samples were obtained between 15 and 30 days postpartum. Women with the wild type homozygous ABCG2 421CA variant had median breastmilk nifedipine levels about 3 times higher (29 mcg/L) than those with the wild, homozygous ABCG2 421CC variant (10.5 mcg/L). However, the difference was not statistically significant (p =0.0793). The median milk to plasma ratio was significantly higher in those with ABCG2 421CA (about 1.2) than in those with ABCG2 421CC (0.73).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No adverse reactions have been reported among infants exposed to nifedipine in breastmilk mostly at maternal dosages of 30 mg daily beginning shortly postpartum and continuing for up to 6 months in some."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "No direct effects are known. However, nifedipine has been used to decrease the pain of nipple vasospasm (or Raynaud phenomenon of the nipple), allowing mothers to continue nursing who might otherwise discontinue breastfeeding.\nNifedipine had no effect on milk composition (sodium, potassium, calcium, chloride, nitrogen, phosphorus and total lipids) in one woman.\nIn a pilot study of the treatment of patients with postpartum hypertension, patients were randomized to either 12.5 mg hydrochlorothiazide plus 10 mg of lisinopril (n = 31) or 30 mg of nifedipine (n = 36) daily. The dosages could be increased to 12.5 mg hydrochlorothiazide plus 20 mg of lisinopril and then to 25 mg hydrochlorothiazide with 20 mg lisinopril. Nifedipine dosage was increased in 30 mg increments to a maximum daily dose of 120 mg daily. At discharge, 21 hydrochlorothiazide-lisinopril mothers (70%) were breastfeeding while19 nifedipine mothers (53%) were breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Amlodipine, Nitrendipine"
+  ]
+ ]
+}

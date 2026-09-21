@@ -1,0 +1,52 @@
+{
+ "id": "LM36",
+ "tytul": "Bumetanide",
+ "synonimy": [
+  "Use one row for each author. List authors in order of appearance in the document. Add rows to add more authors. For institutional author, enter the name of the institution in the Given Name(s) column.bumetanide",
+  "Bumex",
+  "Burinex",
+  "Fordiuran",
+  "Lunetoron",
+  "Fontego",
+  "Segurex",
+  "Enbumyst",
+  "Bumetanida",
+  "Bumetanidum",
+  "Aquazone",
+  "Butinat",
+  "Cambiex",
+  "Diurama",
+  "Yurinex",
+  "Lixil-Leo",
+  "Ro 10-6338",
+  "UNII-0Y2S3XUQ5H",
+  "PF 1593",
+  "EINECS 249-004-6",
+  "BRN 2185351",
+  "3-(butylamino)-4-phenoxy-5-sulfamoylbenzoic acid"
+ ],
+ "zaktualizowano": "2025-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM36/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "It is unknown if bumetanide is excreted into breastmilk. It should be avoided while breastfeeding a newborn because it may decrease milk flow or completely suppress lactation. Low doses in mothers whose lactation is well established are unlikely to suppress lactation."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on bumetanide was not found as of the revision date. Intense diuresis, fluid restriction and breast binding have been used to suppress lactation immediately postpartum. The added contribution of the diuretic to the other measures, which are effective in suppressing lactation, has not been studied. No data exist on the effects of loop diuretics on established, ongoing lactation."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Chlorothiazide, Hydrochlorothiazide"
+  ]
+ ]
+}

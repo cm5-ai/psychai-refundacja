@@ -1,0 +1,40 @@
+{
+ "id": "LM1220",
+ "tytul": "Nilotinib",
+ "synonimy": [
+  "Nilotinib",
+  "Tasigna",
+  "AMN107",
+  "AMN 107",
+  "UNII-F41401512X",
+  "HSDB 7842",
+  "F41401512X",
+  "EC 700-544-5",
+  "4-Methyl-N-(3-(4-methylimidazol-1-yl)-5-(trifluoromethyl)phenyl)-3-((4-pyridin-3-ylpyrimidin-2-yl)amino)benzamide",
+  "Benzamide, 4-methyl-N-((3-(4-methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)phenyl)-3-(4-(3-pyridinyl)-2-pyrimidinyl)amino)-"
+ ],
+ "zaktualizowano": "2024-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1220/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although the amount of nilotinib in milk appears to be small and one breastfed infant apparently experienced no adverse effects during maternal use of nilotinib, no long-term data are available. Because nilotinib is 98% bound to plasma proteins, the amounts in milk are likely to be low. However, there is little published experience with nilotinib during breastfeeding, and an alternate drug may be preferred, especially while nursing a newborn or preterm infant. National Comprehensive Cancer Network guidelines recommend avoiding breastfeeding during nilotinib therapy and the manufacturer recommends withholding breastfeeding until 2 weeks following the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. One woman with Ph+ chronic myelocytic leukemia was taking nilotinib before pregnancy, but stopped until breastfeeding ceased. She received one dose of nilotinib 400 mg orally and took milk samples at 1, 2, 4, 6, 8, 12 and 24 hours after the dose. She had a peak milk concentration of 129 mcg/L at 4 hours after the dose. These data were incorporated into a physiologically based pharmacokinetic model that predicted the pharmacokinetic profile relatively well. However, more data are needed to validate the model.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with chronic myeloid leukemia received nilotinib (dosage not stated) for 20 months before pregnancy, throughout pregnancy and continuing during 9 months of breastfeeding (extent not stated). No adverse reactions were reported in her breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Imatinib"
+  ]
+ ]
+}

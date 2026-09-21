@@ -1,0 +1,39 @@
+{
+ "id": "LM589",
+ "tytul": "Balsalazide",
+ "synonimy": [
+  "Balsalazide sodium",
+  "Colazal",
+  "BX 661A",
+  "Balsalazida",
+  "Balsalazido",
+  "Balsalazidum",
+  "UNII-15ASW03C9S",
+  "P80AL8J7ZP",
+  "5-[[4-(2-carboxyethylcarbamoyl)phenyl]diazenyl]-2-hydroxybenzoic acid"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM589/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although no information exists on the excretion of balsalazide into breastmilk, it is metabolized to the active drug mesalamine. A few cases of diarrhea have been reported in infants exposed to mesalamine, although the rate is not high. Most experts and professional guidelines consider mesalamine derivatives to be acceptable during breastfeeding. If balsalazide is required by the mother, it is not a reason to discontinue breastfeeding, but observe breastfed infants for diarrhea."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Balsalazide is a prodrug that liberates the active drug, mesalamine (5-aminosalicylic acid; 5-ASA), in the gastrointestinal tract. Mesalamine is metabolized to N-acetyl-5-ASA, which is inactive in treating inflammatory bowel disease, but its possible effects on the breastfed infant are unknown.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "The active metabolite of balsalazide, mesalamine, was probably responsible for diarrhea in a 6-week-old whose diarrhea recurred 4 times after rechallenging of the mother 4 times during breastfeeding.\nIn a prospective telephone follow-up study, 8 nursing mothers reported taking mesalamine (dosage and route unspecified). One mother reported diarrhea in her infant. No other adverse reactions were reported in the infants by their mothers.\nA case-control study compared the infants of mothers taking mesalamine (n = 117; average dose, 2065 mg daily), olsalazine (n = 2) or sulfasalazine (n = 2) to infants of matched control mothers (n = 121) who were exposed to no treatment known to be harmful to a breastfed infant. Infants were exposed to mesalamine through milk for a mean of 5.3 months (range: 3 days-24 months). Infants were breastfed for an average of about 7.4 months and were followed up at an average age of about 22 months. No difference in the frequency or characteristics of maternally reported adverse events were found between exposed and control infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Inflammatory Bowel Disease) Adalimumab, Azathioprine, Budesonide, Certolizumab Pegol, Infliximab, Mesalamine, Prednisone, Sulfasalazine"
+  ]
+ ]
+}

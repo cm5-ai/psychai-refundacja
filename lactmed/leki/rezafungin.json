@@ -1,0 +1,44 @@
+{
+ "id": "rezafungin",
+ "tytul": "Rezafungin",
+ "synonimy": [
+  "Rezafungin",
+  "Rezzayo",
+  "Biafungin",
+  "CD-101",
+  "CD101",
+  "SP-3025",
+  "CHEMBL3989945",
+  "SCHEMBL23484740",
+  "GLXC-25143",
+  "EX-A5920",
+  "HY-108009",
+  "CS-0027142",
+  "J3.555.717B",
+  "J3.599.425D"
+ ],
+ "zaktualizowano": "2023-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/rezafungin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of rezafungin during breastfeeding. Because rezafungin is about 90% bound to plasma proteins and has poor oral bioavailability, it is unlikely to reach the milk and be absorbed by the infant. If rezafungin is required by the mother, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Fluconazole, Miconazole"
+  ]
+ ]
+}

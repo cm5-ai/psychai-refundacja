@@ -1,0 +1,40 @@
+{
+ "id": "LM566",
+ "tytul": "Buspirone",
+ "synonimy": [
+  "buspirone",
+  "Buspironum",
+  "Buspirona",
+  "Ansial",
+  "Buspar",
+  "BucapsolUNII-TK65WKS8HL",
+  "EINECS 253-072-2",
+  "BRN 0964904",
+  "5-25-10-00059 (Beilstein Handbook Reference)",
+  "8-[4-(4-pyrimidin-2-ylpiperazin-1-yl)butyl]-8-azaspiro[4.5]decane-7,9-dione"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM566/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of buspirone up to 45 mg daily produce low levels in milk. Because no information is available on the long-term use of buspirone during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was taking buspirone 15 mg 3 times daily during pregnancy and postpartum. On day 13 postpartum, buspirone was undetectable in breastmilk by HPLC assay (limit of detection and time of sample not stated).\nNine women taking buspirone 7.5 to 30 mg twice daily donated milk samples collected at 1, 2, 4, 6, 8, 10, and 12 hours after a dose to a human milk repository. Levels of buspirone and its active metabolite 1-(2-pyrimidinyl) piperazine were measured. Buspirone was not detected (<1.5 mcg/L) in any samples, but the metabolite was found in all samples. The relative infant dose was estimated to average 0.91% (range 0.21 to 2.17%).\nInfant Levels. In the exclusively breastfed infant of a mother who was taking buspirone 15 mg 3 times daily, buspirone was undetectable in the infant's serum by HPLC assay (limit of detection and time of sample not stated) on days 13 and 21 postpartum."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Possible drug-induced seizure-like activity and cyanosis occurred in a breastfed 3-week-old whose mother was taking buspirone 15 mg 3 times daily as well as fluoxetine and carbamazepine during pregnancy and breastfeeding. The authors thought that this reaction, if drug induced, was most likely caused by fluoxetine.\nOne exclusively breastfed 11-week-old infant was breastfed during maternal therapy with buspirone 10 mg daily and venlafaxine 300 mg daily. No adverse reactions were reported by the mother or in the medical records."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Buspirone increases serum prolactin. Galactorrhea was reported in a woman taking venlafaxine after buspirone was added to her regimen. However, when buspirone was discontinued, galactorrhea persisted. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Lorazepam, Oxazepam"
+  ]
+ ]
+}

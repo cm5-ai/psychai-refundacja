@@ -1,0 +1,37 @@
+{
+ "id": "LM1017",
+ "tytul": "Trastuzumab",
+ "synonimy": [
+  "Trastuzumab",
+  "Herceptin",
+  "Thiomab",
+  "Ogivri",
+  "Herzuma",
+  "UNII-P188ANX8CK",
+  "HSDB 8142",
+  "MYL-1401O",
+  "PF 05280014",
+  "Immunoglobulin G 1 (human-mouse monoclonal rhuMab HER2gamma1-chain antihuman p185(sup c-erbB2) receptor), disulfide with human-mouse monoclonal rhuMab HER2 light chain, dimer",
+  "Immunoglobulin G1, anti-(human p185neu receptor) (human-mouse monoclonal rhuMab HER2 gamma1-chain), disulfide with human-mouse monoclonal rhuMab HER2 light chain, dimer"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1017/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Trastuzumab milk concentrations were collected in one mother. Concentrations were low, consistent with it being a large protein molecule with a molecular weight of about of 145,531 Da. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, trastuzumab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during trastuzumab therapy and for 7 months after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was diagnosed with breast cancer in pregnancy and received five cycles of 75 mg docetaxel during pregnancy. As soon as clinically feasible postpartum, she was given trastuzumab 600 mg intravenously in the first cycle. Fifteen milk samples were collected over 17 days after the first dose except for days 6, 8, and 14 because no milk was produced on those days. Milk trastuzumab concentrations ranged between 12.7 and 977 mcg/L, with the highest concentration found 10 days after the dose. The authors calculated relative infant dosage in a nonstandard way that did not take low oral bioavailability into account, thereby overstating infant exposure, so it is not reported here.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

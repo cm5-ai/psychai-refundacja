@@ -1,0 +1,45 @@
+{
+ "id": "LM1231",
+ "tytul": "Deferasirox",
+ "synonimy": [
+  "Deferasirox",
+  "Exjade",
+  "Deferasiroxum",
+  "Jadenu",
+  "Jadenu Sprinkle",
+  "ICL670A",
+  "Deferasiroxum [INN-Latin]",
+  "ICL 670A",
+  "ICL 670",
+  "UNII-V8G4MOF2V9",
+  "ICL670",
+  "V8G4MOF2V9",
+  "HSDB 7844",
+  "4-(3,5-Bis(2-hydroxyphenyl)-1H-1,2,4-triazol-1-yl)benzoic acid",
+  "Benzoic acid, 4-(3,5-bis(2-hydroxyphenyl)-1H-1,2,4-triazol-1-yl)-"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1231/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Deferasirox appears to pass into milk very poorly. Although Australian guidelines recommend against breastfeeding during deferasirox treatment, these were published before a case report of an infant being safely breastfed by a mother with beta-thalassemia receiving deferasirox and finding of no drug in breastmilk. However, since little published information is available on the use of deferasirox during breastfeeding, monitoring of the infant's serum iron is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with beta-thalassemia was started on deferasirox 2250 mg (35 mg/kg) daily immediately postpartum. The drug was undetectable (<0.1 mcg/L) in a milk sample taken 2 hours after a dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with beta-thalassemia was started on deferasirox 2250 mg (35 mg/kg) daily immediately postpartum and exclusively breastfed her infant. Blood samples were taken from the infant at 1, 10 and 30 days postpartum. Serum ferritin levels were 190, 218, and 96 mcg/L, respectively (normal range 22 to 275 mcg/L). Serum iron levels were 101, 77 and 71 mcg/dL, respectively (normal range 60 to 170 mcg/dL). The infant's growth was normal during the first month at the 41st percentile."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Deferoxamine"
+  ]
+ ]
+}

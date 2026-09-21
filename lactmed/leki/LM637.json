@@ -1,0 +1,44 @@
+{
+ "id": "LM637",
+ "tytul": "Ketotifen",
+ "synonimy": [
+  "Ketotifen",
+  "Alaway",
+  "Zaditor",
+  "Claritin Eye",
+  "Equate Eye Itch Relief",
+  "Ketotifene",
+  "Ketotifeno",
+  "Ketotifenum",
+  "UNII-X49220T18G",
+  "HSDB 7283",
+  "HC 20-511",
+  "EINECS 252-099-7",
+  "BRN 3983897",
+  "2-(1-methylpiperidin-4-ylidene)-6-thiatricyclo[8.4.0.03,7]tetradeca-1(14),3(7),4,10,12-pentaen-8-one"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM637/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because absorption from the eye is limited, ketotifen would not be expected to cause any adverse effects in breastfed infants after maternal use of ketotifen eye drops. To substantially diminish the amount of drug that reaches the breastmilk after using eye drops, place pressure over the tear duct by the corner of the eye for 1 minute or more, then remove the excess solution with an absorbent tissue."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cromolyn"
+  ]
+ ]
+}

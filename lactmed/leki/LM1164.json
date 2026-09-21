@@ -1,0 +1,38 @@
+{
+ "id": "LM1164",
+ "tytul": "Nivolumab",
+ "synonimy": [
+  "Nivolumab",
+  "Opdivo",
+  "UNII-31YO63LBSN",
+  "31YO63LBSN",
+  "HSDB 8256",
+  "MDX 1106",
+  "MDX-1106",
+  "ONO 4538",
+  "ONO-4538",
+  "BMS 936558",
+  "BMS-936558",
+  "Anti-PD-1 human monoclonal antibody MDX-1106"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1164/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Nivolumab milk levels in one mother were unexpectedly high and appeared to accumulate with repeated doses, possibly because it is an IgG4 antibody rather than the more typical IgG1 for other monoclonal antibodies It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. However, until more data become available, nivolumab should probably be avoided during breastfeeding, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during nivolumab therapy and for 5 months after the last dose of the drug."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A mother with melanoma was started on intravenous nivolumab 480 mg every four weeks at 6 weeks post-partum. Seventy-two breast milk samples were collected over a 34-day period during the first and second cycles of therapy. A peak concentration of 157 mcg/L occurred on day 3 after the first dose, then after a decline in concentrations another increase in concentrations started at day 7 reaching a peak concentration of 503 mcg/L on day 13. The milk concentration at the time of the second dose on day 27 was about 175 mcg/L and the peak milk concentration of nivolumab at 7 days after the second dose was higher after the second dose. The authors speculated that nivolumab accumulation in milk could continue because of its long half-life.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

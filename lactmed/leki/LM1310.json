@@ -1,0 +1,53 @@
+{
+ "id": "LM1310",
+ "tytul": "Deflazacort",
+ "synonimy": [
+  "DEFLAZACORT",
+  "Oxazacort",
+  "Azacort",
+  "Calcort",
+  "Flantadin",
+  "Lantadin",
+  "Deflan",
+  "Deflazacortum",
+  "Enzocort",
+  "Emflaza",
+  "14484-47-0",
+  "UNII-KR5YZ6AE4B",
+  "KR5YZ6AE4B",
+  "Deflazacortum [INN-Latin]",
+  "MDL 458",
+  "DL-458-IT",
+  "Deflazacort [USAN:INN:BAN]",
+  "EINECS 238-483-7",
+  "L-5458",
+  "11beta,21-Dihydroxy-2'-methyl-5'betaH-pregna-1,4-dieno(17,16-d)oxazole-3,20-dione 21-acetate",
+  "(11beta,16beta)-21-(Acetyloxy)-11-hydroxy-2'-methyl-5'H-pregna-1,4-dieno(17,16-d)oxazole-3,20-dione",
+  "5'-beta-H-Pregna-1,4-dieno(17,16-d)oxazole-3,20-dione, 11-beta,21-dihydroxy-2'-methyl-, 21-acetate",
+  "5'H-Pregna-1,4-dieno(17,16-d)oxazole-3,20-dione, 21-(acetyloxy)-11-hydroxy-2'-methyl-, (11beta,16beta)-"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1310/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because no information is available on the use of deflazacort during breastfeeding, an alternate corticosteroid may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "None reported with any corticosteroid."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Methylprednisolone, Prednisolone, Prednisone"
+  ]
+ ]
+}

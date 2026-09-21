@@ -1,0 +1,38 @@
+{
+ "id": "LM1166",
+ "tytul": "Pembrolizumab",
+ "synonimy": [
+  "pembrolizumab",
+  "Lambrolizumab",
+  "Keytruda",
+  "Merck 3475",
+  "UNII-DPT0O3T46P",
+  "DPT0O3T46P",
+  "HSDB 8257",
+  "Sch 900475",
+  "MK 3475",
+  "Immunoglobulin G4, anti-(human programmed cell death 1)",
+  "humanized mouse monoclonal (228-L-proline(H10-S>P))gamma 4 heavy chain (134-218')-disulfide with humanized mouse monoclonal kappa light chain dimer (226-226'':229-229'')-bisdisulfide",
+  "Immunoglobulin G4, anti-(human protein PDCD1 (programmed cell death 1)) (human-Mus musculus monoclonal heavy chain), disulfide with human-Mus musculus monoclonal light chain, dimer"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1166/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of pembrolizumab during breastfeeding. Because pembrolizumab is a large protein molecule with a molecular weight of about 149,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, pembrolizumab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during pembrolizumab therapy and for 4 months after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

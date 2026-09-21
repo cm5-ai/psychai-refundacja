@@ -1,0 +1,30 @@
+{
+ "id": "LM274",
+ "tytul": "Typhoid Vaccine",
+ "synonimy": [
+  "Vivotif",
+  "Typhin Vi",
+  "Salmonella Typhi TY2 VI Polysaccharide antigen",
+  "Salmonella Enterica Subsp. Enterica Serovar Typhi"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM274/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "In general, vaccines given to a nursing mother do not affect the safety of breastfeeding for mothers or infants and that breastfeeding is not a contraindication to typhoid vaccine. Breastfed infants should be vaccinated according to the routine recommended schedules. Mothers with high preexisting antibody titers may not respond to the oral vaccine."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Six mothers were given 3 doses of injectable inactivated whole cholera vaccine (Swedish National Bacteriological Laboratory) at 3-week intervals. They also received 3 doses of oral typhoid vaccine (Vivotif Berne, Berne, Swiss Serum and Vaccine Institute. Berne, Switzerland) on days 1, 3, and 5. Milk IgA antibody titers peaked in the first milk sample at 2 weeks after the first dose in 3 women and there was virtually no response in the other three. IgA antibodies were polymeric and short-lived (4 to 6 weeks).\nThirty lactating Pakistani women were vaccinated with 3 doses of oral typhoid vaccine (Vivotif Berne, Berne, Swiss Serum and Vaccine Institute. Berne, Switzerland) on days 1, 3, and 5 alone or in combination with injectable cholera vaccine. All mothers had high preimmunization antibody titers of IgG, IgM and IgA against the S. typhi 21 a in serum, as well as slgA antibodies in both saliva and breast milk. After vaccination, 5 mothers responded with an increase in their milk sIgA levels and 7 showed a decrease after the vaccination. The lack of or negative response to vaccination was thought to be due to prior gut exposure to typhoid.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Limited data indicate that breastfeeding can enhance the response of the infant to certain vaccine antigens."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

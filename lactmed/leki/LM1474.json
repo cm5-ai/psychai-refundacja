@@ -1,0 +1,44 @@
+{
+ "id": "LM1474",
+ "tytul": "Bedaquiline",
+ "synonimy": [
+  "Bedaquiline",
+  "Sirturo",
+  "bedaquilinum",
+  "CHEBI:72292",
+  "R 207910",
+  "R-207910 TMC207",
+  "TMC-207",
+  "TMC 207",
+  "UNII-78846I289Y",
+  "HSDB 8217",
+  "R207910",
+  "AIDS 222089",
+  "TMC 207",
+  "TMC-207",
+  "AIDS-222089",
+  "J04AK05",
+  "DTXCID501331924",
+  "(1R,2S)-1-(6-bromo-2-methoxyquinolin-3-yl)-4-(dimethylamino)-2-naphthalen-1-yl-1-phenylbutan-2-ol"
+ ],
+ "zaktualizowano": "2025-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1474/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Data from two women taking bedaquiline and one of their breastfed infants indicate that exposure of the infant to the drug via breastmilk is substantial, with the breastfed infant having a therapeutic plasma level. The clinical consequences of this exposure are unknown. The drug could protect the infant from multidrug-resistant tuberculosis, or could result in adverse effects. Monitor breastfed infants for adverse reactions, such as liver toxicity, nausea, inadequate weight gain, arthralgia, headache, hemoptysis, and chest pain. The manufacturer states that because of the potential for serious adverse reactions in a breastfed infant, breastfeeding is not recommended during treatment and for 27.5 months (5 times the half-life) after the last dose unless infant formula is not available. Donor milk may be a better option."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Bedaquiline is metabolized to an N-monodesmethyl metabolite (M2). M2 has 4-fold to 6-fold lower antimycobacterial potency than bedaquiline. After reaching peak equilibrium levels with repeat administration, the mean terminal elimination half-lives of bedaquiline and M2 are approximately 5.5 months.\nMaternal Levels. Two mothers taking bedaquiline 200 mg three times weekly provided milk samples after a dose of the drug. Both were also taking linezolid, high-dose isoniazid, levofloxacin, clofazimine, pyrazinamide and ethambutol for tuberculosis, as well as tenofovir, emtricitabine and nevirapine for HIV. One mother’s milk bedaquiline levels between 26.5 and 30.8 hours after a dose were between 5.75 and 8.11 mg/L and M2 levels were between 0.57 and 0.81 mg/L. The second woman had a bedaquiline milk level of 6 mg/L at 6 hours after a dose. Other levels taken at 2, 4 and 48 hours after a dose ranged between 2.6 and 3.2 mg/L. M2 levels at the same times ranged between 2.7 and 3.6 mg/L. A pharmacokinetic model was developed and using the average maternal bedaquiline plasma concentrations, the infant bedaquiline dose would be 0.816 mg/kg daily and the infant M2 dose would be 0.07 mg/kg daily. Based on the average maternal dose of 1.22 mg/kg daily, the estimated relative infant dosage would be about 73% of the maternal dosage.\nInfant Levels. One infant was breastfed by a mother who was taking bedaquiline. A single random plasma concentration was similar to the maternal plasma concentration. In 3 other non-breastfed infants aged 6 to 8 weeks who were exposed during pregnancy only, plasma concentrations were detectable but lower than maternal plasma concentrations."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman who was co-infected with HIV and rifampin-resistant tuberculosis took bedaquiline (dosage not stated) as part of her antituberculosis regimen, which consisted of pyrazinamide and other unnamed drugs. At the 1-month follow-up, the infant was small and not gaining weight well, but the mother was nauseated from her medication regimen and had also lost weight. Six months later after completion of the mother’s therapy, her infant’s weight was increasing, following the normal trajectory of the growth chart, and reaching her developmental milestones."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

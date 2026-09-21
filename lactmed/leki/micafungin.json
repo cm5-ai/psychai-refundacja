@@ -1,0 +1,47 @@
+{
+ "id": "micafungin",
+ "tytul": "Micafungin",
+ "synonimy": [
+  "Micafungin",
+  "Mycamine",
+  "UNII-R10H71BSWG",
+  "CHEBI:600520",
+  "FK463",
+  "CHEMBL457547",
+  "SCHEMBL11893279",
+  "C56H71N9O23S",
+  "BDBM50478216",
+  "DB01141",
+  "X7260",
+  "D08218",
+  "Z-3191",
+  "114M326",
+  "J-015136",
+  "Q6827850",
+  "[5-[(1S,2S)-2-[(3S,6S,9S,11R,15S,18S,20R,21R,24S,25S,26S)-3-[(1R)-3-amino-1-hydroxy-3-oxopropyl]-11,20,21,25-tetrahydroxy-15-[(1R)-1-hydroxyethyl]-26-methyl-2,5,8,14,17,23-hexaoxo-18-[[4-[5-(4-pentoxyphenyl)-1,2-oxazol-3-yl]benzoyl]amino]-1,4,7,13,16,22-hexazatricyclo[22.3.0.09,13]heptacosan-6-yl]-1,2-dihydroxyethyl]-2-hydroxyphenyl] hydrogen sulfate"
+ ],
+ "zaktualizowano": "2025-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/micafungin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of micafungin during breastfeeding. Because micafungin is more than 99% bound to plasma proteins and has poor oral bioavailability, it is unlikely to reach the milk and be absorbed by the infant. Micafungin can safely be given intravenously to infants under 4 months of age. Any amount absorbed from milk is likely to be far less than an infant dose. If a mother requires micafungin, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Fluconazole, Miconazole"
+  ]
+ ]
+}

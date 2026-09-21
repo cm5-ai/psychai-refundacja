@@ -1,0 +1,43 @@
+{
+ "id": "LM886",
+ "tytul": "Orlistat",
+ "synonimy": [
+  "orlistat",
+  "Tetrahydrolipstatin",
+  "Xenical",
+  "Alli",
+  "Orlipastat",
+  "Orlipastatum",
+  "96829-58-2",
+  "(-)-Tetrahydrolipstatin",
+  "Orlipastatum [INN-Latin]",
+  "Orlistat [USAN:INN:BAN]",
+  "UNII-95M8R751W8",
+  "HSDB 7556",
+  "95M8R751W8",
+  "Ro 18-0647/002",
+  "L-Leucine, N-formyl-, (1S)-1-(((2S,3S)-3-hexyl-4-oxo-2-oxetanyl)methyl)dodecyl ester",
+  "N-Formyl-L-leucine, ester with (3S,4S)-3-hexyl-4-((2S)-2-hydroxytridecyl)-2-oxetanone",
+  "L-Leucine, N-formyl-, 1-((3-hexyl-4-oxo-2-oxetanyl)methyl)dodecyl ester, (2S-(2alpha(R*),3beta))-"
+ ],
+ "zaktualizowano": "2021-04-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM886/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Orlistat is poorly absorbed orally, but a small amount has been detected in the milk of one woman. It is unlikely that orlistat will be absorbed by the infant in amounts that would adversely affect the breastfed infant. Because it inhibits the absorption of fat-soluble vitamins, mothers using it should take a multivitamin supplement at bedtime."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Orlistat was detected in the milk of one mother at a concentration of 2.3 ng/gram of milk. Because milk donors were anonymized in the study, it was not known if the mother was taking orlistat or at what dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

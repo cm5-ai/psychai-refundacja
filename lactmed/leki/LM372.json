@@ -1,0 +1,46 @@
+{
+ "id": "LM372",
+ "tytul": "Naltrexone",
+ "synonimy": [
+  "naltrexone",
+  "ReVia",
+  "Vivitrex",
+  "Vivitrol",
+  "Celupan",
+  "Naltrexonum",
+  "Naltrexona",
+  "Depade",
+  "Contrave",
+  "UNII-5S6W795CQM",
+  "CCRIS 3506",
+  "HSDB 6750",
+  "EINECS 240-649-9",
+  "UM-792",
+  "BRN 3596648",
+  "(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM372/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that naltrexone is minimally excreted into breastmilk. If the mother requires naltrexone, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Naltrexone is used as maintenance treatment of opiate dependence in opiate-detoxified patients. Peak plasma levels of 40 to 50 mcg/L at 1 hour after the dose and average plasma levels of 3 to 5 mcg/L have been reported in adults taking daily maintenance doses. Oral bioavailability is 5 to 40% in adults. Naltrexone is metabolized to active beta-naltrexol and to other inactive metabolites.\nMaternal Levels. One lactating woman who was 1.5 months postpartum and taking 50 mg of oral naltrexone daily during pregnancy and lactation had her milk sampled several times between 3.7 and 23 hours after her dose. Naltrexone milk levels were undetectable (<2 mcg/L) by 8 hours after the dose while beta-naltrexol milk levels remained detectable throughout the study period and averaged 46 mcg/L. The half-life of elimination from milk was 2.5 and 7.7 hours for naltrexone and beta-naltrexol, respectively. The authors estimated that an exclusively breastfed infant would receive about 7 mcg/kg daily of naltrexone including the active metabolite, equivalent to 0.86% of the maternal weight-adjusted dosage.\nIn a study of the pharmacokinetics of naltrexone in pregnant women, one mother had a milk sample analyzed for naltrexone and 6-beta-naltrexol 25 days after her last injection of long-acting naltrexone XR and 31 days postpartum. The naltrexone concentration was 9.58 mcg/L and the 6-beta-naltrexol concentration was 14.7 mcg/L. The molar sum of the two values indicated that the relative infant dose was 0.83% of the maternal dose.\nInfant Levels. A 1.5 month-old breastfed male infant of a mother who was taking 50 mg of oral naltrexone daily during pregnancy and lactation had undetectable (<2 mcg/L) plasma levels of both naltrexone and beta-naltrexol 9.5 hours after the maternal dose, 30 minutes after starting a feeding.\nIn a study of the pharmacokinetics of naltrexone in pregnant women, a 31-day-old breastfed infant had a plasma sample analyzed for naltrexone and 6-beta-naltrexol 25 days after the mother’s last injection of long-acting naltrexone XR. The naltrexone concentration was 10.3 mcg/L and the 6-beta-naltrexol concentration was 15.8 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A 1.5-month-old breastfed infant of a mother who was taking 50 mg of oral naltrexone daily during pregnancy and lactation was reportedly healthy with no naltrexone-related adverse effects."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Buprenorphine, Methadone"
+  ]
+ ]
+}

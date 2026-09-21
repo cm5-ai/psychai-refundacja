@@ -1,0 +1,45 @@
+{
+ "id": "orphenadrine",
+ "tytul": "Orphenadrine",
+ "synonimy": [
+  "Orphenadrine Citrate",
+  "Biorphen",
+  "Norflex",
+  "Norgesic Forte",
+  "Orphengesic Forte",
+  "BRN 1885151",
+  "Brocadisipal",
+  "BS 5930",
+  "Disipal",
+  "EINECS 201-509-2",
+  "HSDB 3139",
+  "N,N-Dimethyl-2-(alpha-2-tolylbenzoyloxy)ethylamine",
+  "N,N-Dimethyl-2-(o-methyl-alpha-phenylbenzyl)oxy)ethylamine",
+  "o-Methyldiphenhydramine",
+  "o-Monomethyldiphenhydramine",
+  "Orfenadrina",
+  "Orphenadinum",
+  "Orphenadrin",
+  "Phenyl-o-tolylmethyl dimethyaminoethyl ether"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/orphenadrine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published information is available on the use of orphenadrine during breastfeeding. Manufacturer’s estimates indicate that the amount in milk may be low. The drug’s anticholinergic activity might interfere with milk production. An alternate agent may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A European manufacturer of orphenadrine estimated that with a maternal dose of 150 mg, milk orphenadrine concentration would be about 300 to 400 mcg/L. This implies that the relative infant dosage might be about 1.8 to 2.4% of the mother’s weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Orphenadrine has anticholinergic activity. Anticholinergics can inhibit lactation in animals, apparently by inhibiting growth hormone and oxytocin secretion. Anticholinergic drugs can also reduce serum prolactin in nonnursing women. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

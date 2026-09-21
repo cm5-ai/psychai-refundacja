@@ -1,0 +1,36 @@
+{
+ "id": "LM667",
+ "tytul": "Iodohippurate Sodium I 123",
+ "synonimy": [
+  "Nephroflow",
+  "123I-Iodohippuran",
+  "Hippuran-123I",
+  "UNII-4NW20GFQ7H",
+  "Iodohippurate sodium I 123",
+  "ortho-iodohippurate sodium I 125",
+  "I 125 OIH",
+  "4NW20GFQ7H",
+  "sodium",
+  "2-[(2-(123I)iodanylbenzoyl)amino]acetate"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM667/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of iodohippurate sodium I 123 (I 123 ortho-iodohippurate; I 123 OIH) as a kidney function diagnostic agent. Some older recommendations are to nurse the infant just before administration of the radiopharmaceutical and interrupt breastfeeding for 8 to 12 hours after the dose. This recommendation is based on possible contamination with other iodine isotopes, which no longer occurs, so a US Nuclear Regulatory Commission subcommittee has recommended that breastfeeding should be interrupted for only 4 hours after administration of I 123 OIH in doses up to 100 MBq (2.7 mCi) to a nursing mother. Others recommend that no interruption is necessary with doses of 74 MBq (2 mCi). If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. Mothers need not refrain from close contact with their infants after usual clinical doses.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "I 123 is a gamma emitter with a photon energy of 159 keV and a physical half-life of 13.1 hours. The effective half-life of I 123 OIH ranges from 3.5 to 5.8 hours."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "id": "LM341",
+ "tytul": "Cimetidine",
+ "synonimy": [
+  "cimetidine",
+  "Tagamet",
+  "Eureceptor",
+  "Tametin",
+  "Dyspamet",
+  "Ulcedine",
+  "Cimetag",
+  "Ulcedin",
+  "Acinil",
+  "Tratul",
+  "Cimetidina",
+  "Gastromet",
+  "Acibilin",
+  "Cimetum",
+  "Edalene",
+  "Ulcimet",
+  "Ulcomet",
+  "Cimal",
+  "Ulhys",
+  "Cimetidinum",
+  "Metracin",
+  "Valmagen",
+  "Tagamet Hb",
+  "Gastrobitan",
+  "Ulcestop",
+  "Evicer",
+  "Equaline acid reducer",
+  "Topcare heartburn relief",
+  "SKF 92334",
+  "UNII-80061L1WGD",
+  "CCRIS 3247",
+  "DRG-0150",
+  "HSDB 3917",
+  "EINECS 257-232-2",
+  "80061L1WGD",
+  "1-cyano-2-methyl-3-[2-[(5-methyl-1H-imidazol-4-yl)methylsulfanyl]ethyl]guanidine"
+ ],
+ "zaktualizowano": "2024-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM341/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Maternal cimetidine doses of 1000 to 1200 mg daily result in infant dosages that are much less than reported neonatal dosages of 5 to 10 mg/kg daily. Cimetidine would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. However, because of its potential for causing hepatic enzyme inhibition, other drugs might be preferred. Cimetidine can increase serum prolactin and it has been used, but not validated, as a galactogogue."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a single oral dose of 400 mg of cimetidine, the peak milk level of 5 mg/L occurred about 3 hours after the dose and was about equal to the peak serum level in a woman who had been breastfeeding for 6 months. Milk levels remained higher than serum levels for the duration of the dosing interval. With a multiple-dose regimen of 200 mg 3 times daily and 400 mg at bedtime, milk levels just prior to the doses were relatively constant between 4.9 and 6 mg/L. These levels indicate that a fully breastfed infant would receive between 0.74 and 0.9 mg/kg daily.\nTwelve healthy, lactating human volunteers who were 6 to 45 weeks postpartum were given single doses of cimetidine 100 mg, 600 mg and 1200 mg on 3 different days within a 15-day period. Blood and milk samples were donated before each dose and 11 times over the next 24 hours. Average peak cimetidine levels in milk occurred at 3.3 hours after the dose. The dose-normalized peak milk level was 2.5 to 3.1 mg/L for each 100 mg of dosage. The half-life in milk was 2.5 hours, which was longer than in serum (1.4 hours). Using data from the paper, a fully breastfed infant whose mother was receiving 1200 mg daily would receive an average dose of 1.4 mg/kg daily, which is in the neonatal dosage range. Average milk values equated to a steady-state weight-adjusted relative infant dose of 1.1% of the maternal weight-adjusted dose\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Histamine H2-receptor blockade is known to stimulate prolactin secretion. In addition, cimetidine may have additional, nonspecific actions that stimulate prolactin secretion. Oral cimetidine doses of 400 mg 4 times daily increased serum prolactin by 50 to 112% in 6 patients. Cimetidine has caused dose-related gynecomastia and galactorrhea in men and nonnursing women. The prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nOne clinician reported that she used cimetidine 200 or 300 mg 4 times daily to nursing mothers with a marginal or low milk supply. Subjective reports indicated an increase in milk supply."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Antacids, Famotidine, Omeprazole, Pantoprazole, Sucralfate"
+  ]
+ ]
+}

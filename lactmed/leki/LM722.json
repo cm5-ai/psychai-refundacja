@@ -1,0 +1,45 @@
+{
+ "id": "LM722",
+ "tytul": "Zoledronic Acid",
+ "synonimy": [
+  "Zoledronic acid",
+  "Zoledronate",
+  "Zometa",
+  "Reclast",
+  "Aclasta",
+  "118072-93-8",
+  "Orazol",
+  "CGP 42446",
+  "UNII-70HZ18PH24",
+  "BPH 91",
+  "ZOL 446",
+  "70HZ18PH24",
+  "Zoledronic acid [USAN:INN:BAN]",
+  "(1-Hydroxy-2-imidazol-1-ylethylidene)diphosphonic acid",
+  "Phosphonic acid, (1-hydroxy-2-(1H-imidazol-1-yl)ethylidene)bis-"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM722/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because no information is available on the use of zoledronic acid during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. However, absorption of zoledronic acid by a breastfed infant is unlikely."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Zoledronic acid has a serum half-life of about 1.7 hours and is poorly absorbed orally, so absorption of zoledronic acid by a breastfed infant is unlikely.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Pamidronate"
+  ]
+ ]
+}

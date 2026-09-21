@@ -1,0 +1,58 @@
+{
+ "id": "filgotinib",
+ "tytul": "Filgotinib",
+ "synonimy": [
+  "Filgotinib",
+  "Jyseleca",
+  "UNII-3XVL385Q0M",
+  "GLPG0634",
+  "GLPG-0634",
+  "G146034",
+  "G-146034",
+  "SCHEMBL253559",
+  "GTPL7913",
+  "CHEMBL3301607",
+  "AMY3802",
+  "DTXSID80152935",
+  "NSC-800100",
+  "SB16799",
+  "NCGC00345855-01",
+  "NCGC00345855-07",
+  "AS-16295",
+  "BF159062",
+  "HY-18300",
+  "FT-0700114",
+  "FT-0761510",
+  "SW220020-1",
+  "D10871",
+  "P12798",
+  "US8563545, 1",
+  "EN300-7419864",
+  "A892158",
+  "J-690063",
+  "SYN1158",
+  "Q19904163",
+  "Z2037280227",
+  "N-[5-[4-[(1,1-dioxo-1,4-thiazinan-4-yl)methyl]phenyl]-[,,4]triazolo[1,5-a]pyridin-2-yl]cyclopropanecarboxamide"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/filgotinib/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Filgotinib is not approved in the US by the Food and Drug Administration. No information is available on the clinical use of filgotinib during breastfeeding. The European manufacturer and an expert opinion recommend that breastfeeding be discontinued during filgotinib therapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Filgotinib is primarily metabolized to GS-829845, an active metabolite that has about 10% the activity of filgotinib.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

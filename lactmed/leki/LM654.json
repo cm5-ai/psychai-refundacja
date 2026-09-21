@@ -1,0 +1,40 @@
+{
+ "id": "LM654",
+ "tytul": "Atazanavir",
+ "synonimy": [
+  "Atazanavir",
+  "Latazanavir",
+  "Evotaz",
+  "Reyataz",
+  "Zrivada",
+  "BMS-232632",
+  "UNII-QZU4H47A3S",
+  "BMS 232632",
+  "CGP 73547",
+  "QZU4H47A3S",
+  "HSDB 7339",
+  "ATZ",
+  "ATV",
+  "methyl N-[(2S)-1-[2-[(2S,3S)-2-hydroxy-3-[[(2S)-2-(methoxycarbonylamino)-3,3-dimethylbutanoyl]amino]-4-phenylbutyl]-2-[(4-pyridin-2-ylphenyl)methyl]hydrazinyl]-3,3-dimethyl-1-oxobutan-2-yl]carbamate"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM654/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amounts of atazanavir in milk appear to be low based on limited data. The combination product, which also contains the CYP3A inhibitor cobicistat, has not been studied during breastfeeding, but would be expected to have similar or greater levels of atazanavir in milk. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Three women taking atazanavir (dose not stated, but presumably 300 mg daily) as part of their highly active antiretroviral regimen had sampling of breastmilk and plasma on postpartum days 5 and 14 at 0, 2, 5, 8 and 24 hours after a dose. Median breastmilk levels over 24 hours were 212 mcg/L on day 5 and 265 mcg/L on day 14. Median peak breastmilk levels of 419 mcg/L occurred at 5 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

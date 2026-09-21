@@ -1,0 +1,61 @@
+{
+ "id": "LM212",
+ "tytul": "Perphenazine",
+ "synonimy": [
+  "perphenazine",
+  "Perphenazin",
+  "Trilafon",
+  "Etaperazine",
+  "Perfenazine",
+  "Ethaperazine",
+  "Etaperazin",
+  "Fentazin",
+  "Perfenazina",
+  "Thilatazin",
+  "Perphenan",
+  "Decentan",
+  "Chlorpiprazine",
+  "Tranquisan",
+  "Triphenot",
+  "Emesinal",
+  "Trifaron",
+  "Trilifan",
+  "Chlorperphenazine",
+  "F-mon",
+  "Perphenazinum",
+  "Etrafon",
+  "Triavil",
+  "Sch 3940",
+  "UNII-FTA7XXY4EZ",
+  "FTA7XXY4EZ",
+  "HSDB 3379",
+  "NSC 150866",
+  "EINECS 200-381-5",
+  "AI3-50151",
+  "2-[4-[3-(2-chlorophenothiazin-10-yl)propyl]piperazin-1-yl]ethanol"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM212/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of perphenazine up to 24 mg daily produce low levels in milk. Very limited long-term follow-up data indicate no adverse developmental effects when other phenothiazines are used alone. Monitor the infant for excessive drowsiness during breastfeeding and for developmental milestones, especially if other antipsychotics are used concurrently."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Steady-state perphenazine milk levels were measured in one woman while she was taking perphenazine at two different dosages. At a dose of 12 mg every 12 hours (480 mcg/kg daily) the drug concentration in a 24-hour milk collection was 3.2 mcg/L. At a dose of 8 mg every 12 hours, the average milk concentration in each of two 12-hour collection periods was 2.1 mcg/L. Milk was collected at this dosage in three 4-hour collection periods. Levels in fractionated 4-hour periods were as follows: 0 to 4 hours: 1.8 mcg/L; 4 to 8 hours: 3.1 mcg/L; and 8 to 12 hours: 2 mcg/L. The authors calculated that the breastfed infant would receive 0.1% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One infant was breastfed from 1 month to 4.5 months of age during maternal intake of perphenazine 16 mg daily. The infant grew normally and no adverse drug effects were seen."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Galactorrhea has been reported with perphenazine. Hyperprolactinemia appears to be the cause of the galactorrhea. The hyperprolactinemia is caused by the drug's dopamine-blocking action in the tuberoinfundibular pathway. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

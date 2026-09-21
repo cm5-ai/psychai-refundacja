@@ -1,0 +1,45 @@
+{
+ "id": "LM79",
+ "tytul": "Cyproheptadine",
+ "synonimy": [
+  "Cyproheptadine",
+  "Periactin",
+  "Eiproheptadine",
+  "Periactinol",
+  "Dronactin",
+  "Ciproheptadina",
+  "Cyproheptadinum",
+  "UNII-2YHB6175DO",
+  "MK 141",
+  "CCRIS 5232",
+  "HSDB 3048",
+  "EINECS 204-928-9",
+  "BRN 1685976",
+  "5-20-08-00500 (Beilstein Handbook Reference)",
+  "1-methyl-4-(2-tricyclo[9.4.0.03,8]pentadeca-1(15),3,5,7,9,11,13-heptaenylidene)piperidine"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM79/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Unless it is intentionally being used to lower maternal serum prolactin levels, cyproheptadine should be avoided during lactation because it may interfere with lactation, particularly in combination with a sympathomimetic such as pseudoephedrine or before lactation is well established. The nonsedating antihistamines are preferred alternatives."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information on cyproheptadine was not found as of the revision date. In one telephone follow-up study, mothers reported irritability and colicky symptoms 10% of infants exposed to various antihistamines and drowsiness was reported in 1.6% of infants. None of the reactions required medical attention and none of the infants were exposed to cyproheptadine."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Cyproheptadine 16 to 24 mg daily lowers serum prolactin in the treatment of amenorrhea-galactorrhea syndrome because of its antiserotonin activity. Additionally, antihistamines in relatively high doses given by injection can decrease basal serum prolactin in nonlactating women and in early postpartum women. However, suckling-induced prolactin secretion is not affected by antihistamine pretreatment of postpartum mothers. Whether lower oral doses of cyproheptadine has the same effect on serum prolactin or whether the effects on prolactin have any consequences on breastfeeding success have not been studied. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cetirizine, Desloratadine, Fexofenadine, Levocetirizine, Loratadine"
+  ]
+ ]
+}

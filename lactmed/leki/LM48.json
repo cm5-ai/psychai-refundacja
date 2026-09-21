@@ -1,0 +1,45 @@
+{
+ "id": "LM48",
+ "tytul": "Cefoperazone",
+ "synonimy": [
+  "cefoperazone",
+  "Cefobid",
+  "Cefoperazine",
+  "Cefoperazono",
+  "Cefoperazonum",
+  "Medocef",
+  "Cefob",
+  "Cefozon",
+  "62893-19-0",
+  "Cefoperazone [INN:BAN]",
+  "Cefoperazonum [INN-Latin]",
+  "Cefoperazono [INN-Spanish]",
+  "UNII-7U75I1278D",
+  "EINECS 263-749-4",
+  "7U75I1278D",
+  "BRN 0603333",
+  "CP 52640",
+  "(6R,7R)-7-((R)-2-(4-Ethyl-2,3-dioxo-1-piperazinylcarboxamido)-2-(4-hydroxyphenyl)acetamido)-3-((1-methyl-1H-tetrazol-5-yl)thiomethyl)-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-en-2-carbonsaeure",
+  "5-Thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid, 7-(((((4-ethyl-2,3-dioxo-1-piperazinyl)carbonyl)amino)(4-hydroxyphenyl)acetyl)amino)-3-(((1-methyl-1H-tetrazol-5-yl)thio)methyl)-8-oxo-, (6R-(6-alpha,7-beta(R*)))-"
+ ],
+ "zaktualizowano": "2023-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM48/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Cefoperazone is no longer marketed in the United States. Limited information indicates cefoperazone produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefoperazone is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After 1 gram of cefoperazone intravenously in 5 women, it was undetectable in milk in 2 women at any time up to 6 hours after the dose. The average peak milk levels of 0.33 mg/L occurred 2 hours after the dose, but in individuals, peak levels occurred 2, 3 or 4 hours after the dose.\nAfter 1 gram of cefoperazone given intravenously in 2 women, milk cefoperazone was 0.1 mg/L at 2 hours and 0.3 mg/L 3 hours after the dose. It was undetectable in milk 1 and 6 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "LM1342",
+ "tytul": "Flavoxate",
+ "synonimy": [
+  "flavoxate",
+  "Flavoxatum",
+  "Flavoxato",
+  "Flavossato",
+  "Flavossato [DCIT]",
+  "Flavoxate [INN:BAN]",
+  "Flavoxatum [INN-Latin]",
+  "Flavoxato [INN-Spanish]",
+  "15301-69-6",
+  "UNII-3E74Y80MEY",
+  "3E74Y80MEY",
+  "EINECS 239-337-5",
+  "4H-1-Benzopyran-8-carboxylic acid, 3-methyl-4-oxo-2-phenyl-, 2-(1-piperidinyl)ethyl ester",
+  "2-Piperidinoethyl 3-methyl-4-oxo-2-phenyl-4H-1-benzopyran-8-carboxylat"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1342/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of flavoxate during breastfeeding. Long-term use of trihexyphenidyl might reduce milk production or milk letdown, but a single dose is not likely to interfere with breastfeeding. During long-term use, observe for signs of decreased lactation (e.g., insatiety, poor weight gain)."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Anticholinergics can inhibit lactation in animals, apparently by inhibiting growth hormone and oxytocin secretion. Anticholinergic drugs can also reduce serum prolactin in nonnursing women. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

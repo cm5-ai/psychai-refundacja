@@ -1,0 +1,36 @@
+{
+ "id": "remdesevir",
+ "tytul": "Remdesivir",
+ "synonimy": [
+  "Remdesevir",
+  "Veklury",
+  "GS-573",
+  "GS-5734",
+  "UNII-3QKI37EEHE",
+  "2-ethylbutyl (2S)-2-[[[(2R,3S,4R,5R)-5-(4-aminopyrrolo[2,1-f]triazin-7-yl)-5-cyano-3,4-dihydroxyoxolan-2-yl]methoxy-phenoxyphosphoryl]amino]propanoate"
+ ],
+ "zaktualizowano": "2024-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/remdesevir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information from 5 patients indicate that milk levels of remdesivir and its active metabolite are very low in milk. Additionally, remdesivir is poorly absorbed orally, and the metabolite is only partially absorbed orally, so infants are not likely to absorb clinically important amounts of the drug from milk. Newborn infants have received intravenous remdesivir therapy for Ebola and for COVID-19 with no serious adverse drug reactions and it is FDA approved for use in infants of at least 28 days and weighing 3 kg. Infants exposed via breastmilk have also not had any reported adverse reactions. Given this information, mothers receiving remdesivir do not need to avoid nursing, but until more data are available, remdesivir should be used with careful infant monitoring during breastfeeding. The most common adverse effects reported after intravenous infusion include elevated aminotransferase and bilirubin levels and other liver enzyme elevations, diarrhea, rash, renal impairment and hypotension."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two days after delivery, a woman was diagnosed with a SARS-CoV-2 infection. She was given 200 mg of remdesivir on the first day of therapy, then 100 mg daily for 4 more days. Although not stated, all doses are presumed to have been given intravenously. On day 5 of therapy, milk was collected just before the dose and 1, 3, 6, and 24 hours after the last dose. Remdesevir and its metabolite GS-441524 were measured in milk. The concentration of remdesivir in milk was 1.29 mcg/L one hour before administration on day 5, but undetectable (<0.5 mcg/L) in the other samples. The concentration of the active metabolite GS-441524 in the milk samples were 13.5 mcg/L before the fifth dose, 285 mcg/L at 3 hours after the dose and 64.3 mcg/L at 24 hours after the dose. The authors estimated the relative infant doses of remdesevir and GS-441524 in breastmilk as 0.007% and 1.6%, respectively. The half-life of GS-441524 in milk was estimated to be 9.3 hours.\nFour women with COVID-19 who received remdesivir provided 17 milk samples for analysis of remdesivir and its active metabolite GS-441524. All of the milk samples had unquantifiable (<100 mcg/L) concentrations of remdesevir. Eleven of the samples contained unquantifiable (<100 mcg/L) concentrations of GS-441524. The highest concentration of the metabolite in the remaining 6 samples from one woman was 168 mcg/L. Using this “worst-case” value, the infant dose would be 25.2 mcg/kg daily, which would be a relative infant dose of <5%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "The manufacturer reports that 11 breastfed infants were exposed to remdesevir in breastmilk from pharmacovigilance reports. The reports do not indicate adverse effects on breastfed infants from exposure to remdesivir and its metabolite through breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nirmatrelvir"
+  ]
+ ]
+}

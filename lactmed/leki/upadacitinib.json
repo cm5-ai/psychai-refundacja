@@ -1,0 +1,36 @@
+{
+ "id": "upadacitinib",
+ "tytul": "Upadacitinib",
+ "synonimy": [
+  "Upadacitinib",
+  "Rinvoq",
+  "ABT-494",
+  "ABT 494",
+  "UNII-4RA0KN46E0",
+  "(3S,4R)-3-ethyl-4-(1,5,7,10-tetrazatricyclo[7.3.0.02,6]dodeca-2(6),3,7,9,11-pentaen-12-yl)-N-(2,2,2-trifluoroethyl)pyrrolidine-1-carboxamide"
+ ],
+ "zaktualizowano": "2026-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/upadacitinib/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The amounts of upadacitinib in breastmilk are low, but no information is available on the clinical use of upadacitinib during breastfeeding. Until more data become available, upadacitinib should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. Expert opinion considers breastfeeding to be unadvisable during tofacitinib use at this time. The manufacturer recommends that breastfeeding be withheld for 6 days after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Forty breastmilk samples were obtained from 4 women taking either 30 mg (n = 2) or 45 mg (n = 2) daily of upadacitinib. Three of the women had a sufficient number of samples over a 24-hour period to calculate the RID on that day, with 2 of them having a sufficient number on two separate days. The daily RID values were 6.5% and 9.6% in patient 1, 5.7% in patient 2, and 3.8% and 6.1% in patient 3. Individual single-point RIDs of patient 4 fell within the range of the other patients. When all 40 single-point RID values from the 4 women were considered, the median RID was 2.66% (IQR 0.75% to 10.58%). The daily infant dosages were calculated to range from 3.8 to 59.7 mcg/kg. It is unclear why there was such a large range of milk levels, RID values, and infant dosages.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Rheumatoid Arthritis) Adalimumab, Certolizumab Pegol, Etanercept, Infliximab, Tocilizumab"
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "bempedoic_acid",
+ "tytul": "Bempedoic Acid",
+ "synonimy": [
+  "Bempedoic acid",
+  "Nexletol",
+  "Nexlizet",
+  "Nilemdo",
+  "acido bempedoico",
+  "acide bempedoique",
+  "acidum bempedoicum",
+  "DTXSID401027952",
+  "C10AX15",
+  "DTXCID301513520",
+  "ETC 1002 UNII-1EJ6Z6Q368",
+  "CHEBI:149601",
+  "ESP 55016",
+  "ETC 1002",
+  "8-hydroxy-2,2,14,14-tetramethylpentadecanedioic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/bempedoic_acid/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The amounts of bempedoic acid and its active metabolite are very low, but there is no published experience with bempedoic acid during breastfeeding. If a mother requires bempedoic acid, it is not a reason to discontinue breastfeeding. An alternate drug might be considered while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The manufacturer reports a study in which bempedoic acid 180 mg was given orally once daily for six consecutive days to 8 healthy lactating women. The estimated geometric mean bempedoic acid peak concentration in breastmilk was 118 mcg/L (range 79.6 to 251 mcg/L), occurring at a median of about 3 hours. The mean daily infant dose of bempedoic acid through breastmilk was approximately 0.03 mg/day (95% CI: 0.02; 0.05) or 0.012 mg/kg daily. The mean RID was approximately 0.5% of the maternal weight-adjusted dosage. Concentrations of ESP15228, the active metabolite, in milk were below the limit of quantitation (<20 mcg/L) in 7 of 8 subjects.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cholestyramine, Colesevelam, Colestipol"
+  ]
+ ]
+}

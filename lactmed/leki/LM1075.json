@@ -1,0 +1,40 @@
+{
+ "id": "LM1075",
+ "tytul": "Levomilnacipran",
+ "synonimy": [
+  "Levomilnacipran",
+  "Fetzima",
+  "UNII-UGM0326TXX",
+  "UGM0326TXX",
+  "Levomilnacipran [USAN:INN]",
+  "F 2695",
+  "F2695",
+  "96847-54-0",
+  "(1S,2R)-2-(aminomethyl)-N,N-diethyl-1-phenylcyclopropanecarboxamide",
+  "Cyclopropanecarboxamide, 2-(aminomethyl)-N,N-diethyl-1-phenyl-, (1S,2R)-"
+ ],
+ "zaktualizowano": "2024-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1075/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Levomilnacipran has not been studied in nursing mothers. However, the racemic form of milnacipran has low levels in breastmilk and would not be expected to cause any adverse effects in breastfed infants. Until more data become available, levomilnacipran should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. Monitor breastfed infants for agitation, irritability, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Eight lactating women who were at least 12 weeks postpartum and weaning their infants received a single oral dose of racemic milnacipran 50 mg. The average peak milk level of milnacipran was 262 mcg/L at an average of 4 hours and the average milk level was 122 mcg/L. The relative infant dosage was estimated to be 2.8% of the weight-adjusted maternal dosage. Milnacipran was eliminated from milk with an average half-life of 7.5 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Specific published information on levomilnacipran was not found as of the revision date.\nAn observational study looked at outcomes of 2859 women who took an antidepressant during the 2 years prior to pregnancy. Compared to women who did not take an antidepressant during pregnancy, mothers who took an antidepressant during all 3 trimesters of pregnancy were 37% less likely to be breastfeeding upon hospital discharge. Mothers who took an antidepressant only during the third trimester were 75% less likely to be breastfeeding at discharge. Those who took an antidepressant only during the first and second trimesters did not have a reduced likelihood of breastfeeding at discharge. The antidepressants used by the mothers were not specified.\nA retrospective cohort study of hospital electronic medical records from 2001 to 2008 compared women who had been dispensed an antidepressant during late gestation (n = 575) to those who had a psychiatric illness but did not receive an antidepressant (n = 1552) and mothers who did not have a psychiatric diagnosis (n = 30,535). Women who received an antidepressant were 37% less likely to be breastfeeding at discharge than women without a psychiatric diagnosis, but no less likely to be breastfeeding than untreated mothers with a psychiatric diagnosis. None of the mothers were taking milnacipran.\nIn a study of 80,882 Norwegian mother-infant pairs from 1999 to 2008, new postpartum antidepressant use was reported by 392 women and 201 reported that they continued antidepressants from pregnancy. Compared with the unexposed comparison group, late pregnancy antidepressant use was associated with a 7% reduced likelihood of breastfeeding initiation, but with no effect on breastfeeding duration or exclusivity. Compared with the unexposed comparison group, new or restarted antidepressant use was associated with a 63% reduced likelihood of predominant, and a 51% reduced likelihood of any breastfeeding at 6 months, as well as a 2.6-fold increased risk of abrupt breastfeeding discontinuation. Specific antidepressants were not mentioned."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Depression) Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

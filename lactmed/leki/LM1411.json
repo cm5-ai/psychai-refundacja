@@ -1,0 +1,37 @@
+{
+ "id": "LM1411",
+ "tytul": "Moxidectin",
+ "synonimy": [
+  "Moxidectin",
+  "Cydectin",
+  "Moxidectinum",
+  "Moxidectina",
+  "Moxidectine",
+  "ProHeart 6",
+  "UNII-NGU5H31YO9",
+  "NGU5H31YO9",
+  "CL 301,423",
+  "Milbemycin B",
+  "(1R,4S,4'E,5'S,6R,6'S,8R,10E,13R,14E,16E,20R,21R,24S)-21,24-dihydroxy-4'-methoxyimino-5',11,13,22-tetramethyl-6'-[(E)-4-methylpent-2-en-2-yl]spiro[3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene-6,2'-oxane]-2-one"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1411/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of moxidectin during breastfeeding. However, amounts in breastmilk appear to be low and would not be expected to cause any adverse effects in breastfed infants. Although labeling recommends withholding breastfeeding for 7 days after a dose, this appears to be unnecessary; however, withholding breastfeeding for 1 day would decrease infant exposure by 40%. Until more data become available, moxidectin should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twelve lactating women who averaged 29.6 weeks (range 21 to 100 weeks) postpartum and had weaned their infants were given moxidectin 8 mg orally as a single dose. A breast pump was used to collect milk samples for at least 30 days, and in some, at various times for up to 90 days after the dose. The total amount of drug excreted into breastmilk averaged 0.056 mg over the study period, which was 8.7% (SD 3.2%) of the weight-adjusted maternal dose. The amount of moxidectin excreted into breastmilk tended to be higher in some women with lower maternal body weight.\nA physiologically based pharmacokinetic (PBPK) model using data from this study was developed and compared to results of animal exposure studies. It concluded that even with no interruption of breastfeeding after a dose, the dose that an exclusively breastfed infant would receive would be well below the no observed adverse effect level (NOAEL) in animal studies. Withholding breastfeeding for 24 hours would result in about a 40% decrease in infant exposure.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

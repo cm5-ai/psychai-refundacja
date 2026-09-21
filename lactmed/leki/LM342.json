@@ -1,0 +1,85 @@
+{
+ "id": "LM342",
+ "tytul": "Clarithromycin",
+ "synonimy": [
+  "clarithromycin",
+  "Biaxin",
+  "Clarithromycine",
+  "Klaricid",
+  "Clathromycin",
+  "Macladin",
+  "Clarith",
+  "Klacid",
+  "Kofron",
+  "Veclam",
+  "Clarithromycinum",
+  "Naxy",
+  "6-O-Methylerythromycin",
+  "Claritromicina",
+  "Clambiotic",
+  "Claricide",
+  "Astromen",
+  "Bicrolid",
+  "Claribid",
+  "Heliclar",
+  "Klaciped",
+  "Mabicrol",
+  "Abbotic",
+  "Clacine",
+  "Cyllid",
+  "Klarid",
+  "Klarin",
+  "Maclar",
+  "Zeclar",
+  "Helas",
+  "Mavid",
+  "Adel",
+  "Biaxin filmtab",
+  "Klax",
+  "Biaxin XL",
+  "6-O-Methylerythromycin a",
+  "Abbott-56268",
+  "Biaxin HP",
+  "Biaxin xl filmtab",
+  "Klaricid Pediatric",
+  "81103-11-9",
+  "Klaricid H.P.",
+  "Erythromycin, 6-O-methyl-",
+  "UNII-H1250JIK0A",
+  "TE-031",
+  "Clarithromycine [INN-French]",
+  "Clarithromycinum [INN-Latin]",
+  "Claritromicina [INN-Spanish]",
+  "A-56268",
+  "Clarithromycin extended release",
+  "DRG-0099",
+  "CCRIS 8833",
+  "H1250JIK0A",
+  "HSDB 8055",
+  "Clarithromycin [USAN:USP:INN:BAN:JAN]"
+ ],
+ "zaktualizowano": "2022-03-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM342/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of clarithromycin in breastmilk and safe administration directly to infants, it is acceptable in nursing mothers. The small amounts in milk are unlikely to cause adverse effects in the infant. Monitor the infant for possible effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash). Unconfirmed epidemiologic evidence indicates that the risk of infantile hypertrophic pyloric stenosis might be increased by maternal use of macrolide antibiotics during the first two weeks of breastfeeding, but others have questioned this relationship."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twelve mothers were given clarithromycin 250 mg orally twice daily for puerperal infections. Both clarithromycin and its active metabolite, 14-hydroxyclarithromycin, were found in milk. The peak clarithromycin milk level was 0.85 mg/L at 2.2 hours after the dose; the peak 14-hydroxyclarithromycin level was 0.63 mg/L at 2.8 hours after the dose. Respective trough values were 0.21 and 0.36 mg/L. The half-lives of the drug and metabolite were 4.3 hours 9 hours, respectively. Using the milk level data from this study, an exclusively breastfed infant would receive an estimated average of about 136 mcg/kg daily of drug plus metabolite with a maternal dosage of 500 mg daily. This dosage is less than 1% of the recommend pediatric (<6 months) dosage, and is about 1.7% of the maternal weight-adjusted dosage.\nA woman who had just stopped breastfeeding was given a 500 mg (8.9 mg/kg) dose of clarithromycin orally. Ten milk samples were collected over the following 24 hours. The peak milk concentration of 3.660 mg/L was obtained at 2.5 hours after the dose. The average milk concentration was 0.769 mg/L and the half-life in milk was 3.86 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A cohort study of infants diagnosed with infantile hypertrophic pyloric stenosis found that affected infants were 2.3 to 3 times more likely to have a mother taking a macrolide antibiotic during the 90 days after delivery. Stratification of the infants found the odds ratio to be 10 for female infants and 2 for male infants. All of the mothers of affected infants nursed their infants. Most of the macrolide prescriptions were for erythromycin, but only 1.7% were for clarithromycin. However, the authors did not state which macrolide was taken by the mothers of the affected infants.\nA study comparing the breastfed infants of mothers taking amoxicillin to those taking a macrolide antibiotic found no instances of pyloric stenosis. However, most of the infants exposed to a macrolide in breastmilk were exposed to roxithromycin. Only 6 of the 55 infants exposed to a macrolide were exposed to clarithromycin. Adverse reactions occurred in 12.7% of the infants exposed to macrolides which was similar to the rate in amoxicillin-exposed infants. Reactions included rash, diarrhea, loss of appetite, and somnolence.\nA retrospective database study in Denmark of 15 years of data found a 3.5-fold increased risk of infantile hypertrophic pyloric stenosis in the infants of mothers who took a macrolide during the first 13 days postpartum, but not with later exposure. The proportion of infants who were breastfed was not known, but probably high. The proportion of women who took each macrolide was also not reported.\nTwo meta-analyses failed to demonstrate a relationship between maternal macrolide use during breastfeeding and infantile hypertrophic pyloric stenosis."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Azithromycin, Erythromycin"
+  ]
+ ]
+}

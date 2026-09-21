@@ -1,0 +1,69 @@
+{
+ "id": "polidocanol",
+ "tytul": "Polidocanol",
+ "synonimy": [
+  "Polidocanol",
+  "Asclera",
+  "Nonaethylene glycol monododecyl ether",
+  "3,6,9,12,15,18,21,24,27-Nonaoxanonatriacontan-1-ol",
+  "laureth-9",
+  "Nonaoxyethylene monododecyl ether",
+  "nonaethylene glycol monolauryl ether",
+  "2-[2-[2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",
+  "CHEBI:46859",
+  "NCGC00166290-02",
+  "DODECYL NONA ETHYLENE GLYCOL ETHER",
+  "genapol X-080",
+  "Dodecylnonaglycol",
+  "C12E9",
+  "Aethoxy-sklerol",
+  "EINECS 221-284-4",
+  "MFCD00043375",
+  "POELE",
+  "VARITHENA",
+  "PEG-9 lauryl ether",
+  "Macrogol 9 lauryl ether",
+  "AEO-9",
+  "SCHEMBL25580",
+  "CHEMBL1231723",
+  "DTXSID5039721",
+  "AMY22525",
+  "C12-E9",
+  "AKOS028108701",
+  "Dodecylnonaoxyethylene glycol monoether",
+  "Tox21_112394_1",
+  "DB06811",
+  "NCGC00166290-01",
+  "NCGC00166290-03",
+  "BS-51745",
+  "HY-108294",
+  "CS-0028163",
+  "N1204",
+  "F20806",
+  "EN300-7457094",
+  "SR-01000944476",
+  "J-018016",
+  "SR-01000944476-1",
+  "Nonaethylene glycol monododecyl ether, nonionic surfactant"
+ ],
+ "zaktualizowano": "2023-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/polidocanol/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of polidocanol during breastfeeding. Although polidocanol is unlikely to adversely affect the breastfed infant, international guidelines recommend that breastfeeding be withheld for 2 days after sclerotherapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "LM424",
+ "tytul": "Loperamide",
+ "synonimy": [
+  "loperamide",
+  "Imodium",
+  "Loperamida",
+  "Loperamidum",
+  "UNII-6X9OC3H4II",
+  "6X9OC3H4II",
+  "EINECS 258-416-5",
+  "HSDB 8344",
+  "BRN 1558273",
+  "EC 258-416-5",
+  "5-21-02-00379 (Beilstein Handbook Reference)",
+  "1-Piperidinebutanamide, 4-(4-chlorophenyl)-4-hydroxy-N,N-dimethyl-alpha,alpha-diphenyl-",
+  "4-(4-Chlorophenyl)-N,N-dimethyl-alpha,alpha-diphenyl-4-hydroxy-1-piperidinebutanamide"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM424/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The amount of loperamide that enters milk from a prodrug of loperamide is minimal. Use of loperamide during breastfeeding is unlikely to affect the infant with standard doses."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Loperamide has not been studied during breastfeeding, but the loperamide prodrug, loperamide oxide, has been studied in a dosage of 2 doses of 4 mg given 12 hours apart to 6 women 18 to 47 hours after delivery. Median loperamide milk concentrations were 0.18 mcg/L at 12 hours after the first dose, 0.27 mcg/L at 6 hours after the second dose, and 0.19 mcg/L at 24 hours after the second dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

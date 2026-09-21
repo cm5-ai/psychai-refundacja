@@ -1,0 +1,53 @@
+{
+ "id": "LM148",
+ "tytul": "Interferon Alfa",
+ "synonimy": [
+  "Realdiron",
+  "Viraferon",
+  "IntronA",
+  "r-INF-alpha",
+  "Interferon alpha-2B",
+  "Interferon alpha-2b (human)",
+  "UNII-43K1W2T1M6",
+  "Recombinant interferon alpha-2b",
+  "Sch 30500",
+  "HSDB 8134",
+  "YM 14090",
+  "Canferon",
+  "Alpha Interferon",
+  "Canferon A",
+  "Roferon-A",
+  "Interferon alpha2",
+  "IFN-alphaA",
+  "interferon alfa-2a",
+  "UNII-47RRR83SK7",
+  "Ro 22-8181",
+  "Interferon alphaA (human leukocyte protein moiety reduced)",
+  "HSDB 8133",
+  "Ro 22-8181"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM148/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels in milk and poor oral absorption by the infant, it is unlikely that interferon use by a nursing mother presents any serious risk to the breastfed infant.\nFor treating maternal hepatitis B, no difference exists in infection rates between breastfed and formula-fed infants born to hepatitis B-infected women, if the infant receives hepatitis B immune globulin and hepatitis B vaccine at birth. Mothers with hepatitis B are encouraged to breastfeed their infants after their infants receive these preventative measures.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two mothers taking interferon alfa had milk levels measured. One mother taking 8 million units three times a week had a milk level of 1400 units/L and another taking 8 million units daily had a milk level of 6000 units/L. Both levels were apparently measured immediately postpartum (in colostrum), but the time since the previous dose was not stated.\nAn intravenous dose of 30 million units of interferon alfa-2B in one woman resulted in a peak milk level of 1551 International Units/L which was a slight increase over two baseline levels prior to the dose which averaged 1072 International Units/L. By 12 hours after the dose, milk interferon levels were lower than baseline.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One infant was born to a mother who received 3 million units of interferon alfa-2a subcutaneously 3 times weekly during pregnancy and postpartum for essential thrombocytopenia. Her infant was breastfed for 2 weeks postpartum before bilateral mastitis caused the mother to terminate nursing. The infant reportedly thrived, although specific measures were not mentioned.\nA preliminary report from a registry of patients with chronic myelogenous leukemia in Italy found 3 women treated with interferon (presumably interferon alfa-2b) at the time of delivery who breastfed for about a month and another breastfed for 9 months while continuing interferon therapy. The infants in the study developed within population standards."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis B) Lamivudine, Tenofovir; (Hepatitis C) Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": "LM130",
+ "tytul": "Haemophilus Vaccines",
+ "synonimy": [
+  "HibTITER",
+  "ActHIB",
+  "Hiberix",
+  "Comvax",
+  "TriHibit"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM130/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although there is some conflicting information on the effect of breastfeeding on infants' antibody response to Haemophilus influenzae type b vaccines, there is no evidence that breastfeeding reduces protection against the disease. Vaccines given to a nursing mother do not affect the safety of breastfeeding for mothers or infants and that breastfeeding is not a contraindication to the Haemophilus influenzae vaccine.\nBreastfeeding alone appears to increase antibodies against Haemophilus influenzae and reduce the incidence of Haemophilus influenzae type b meningitis. Breastfeeding also appears to reduce infant side effects associated with routine childhood immunization. Breastfed infants should be vaccinated according to the routine recommended schedules."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A study compared colostrum and milk antibody levels following maternal immunization with Haemophilus influenzae type b polysaccharide vaccine at 3 time periods. Women who were immunized at 24 to 26 weeks of pregnancy had higher antibody levels in colostrum (average 21 mg/L) and in breastmilk at 3 or 6 months after delivery (average 3.1 mg/L) than women who were immunized 1 to 8 months before pregnancy (average 0.13 mg/L at 3 or 6 months postpartum) or those who had not been immunized (average 0.91 mg/L in colostrum, and 0.09 mg/L at 3 or 6 months postpartum).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Breastfed infants are less likely to have fever and may be less likely to experience anorexia and reduced energy intake after routine childhood immunization than those who are not breastfed.\nIn 2 studies, breastfed infants had higher antibody titers against Haemophilus influenzae type b than formula-fed infants at 7 and 12 months of age after vaccination with a Haemophilus influenzae type b conjugate vaccine. In another study, infants breastfed for longer than 90 days had a better antibody response to the vaccine at 13 months of age than those breastfed less than 90 days.\nIn a study of 408 infants immunized with Haemophilus influenzae type b polysaccharide-tetanus toxoid conjugate vaccine, no difference in antibody titer was observed at 7 months between infants breastfed for less than 4 weeks and those who were breastfed for 24 weeks or more. Likewise, no difference in antibody response was found when infants were grouped by breastfeeding less than 1 month or greater than 1 month. Another study of 252 infants who each received one of 4 Haemophilus influenzae type b vaccines found no difference in antibody titers among those who were breastfed and those who were not.\nAmong 272 infants who were vaccinated with Hib PRP-OMP vaccine at 2 and 4 months postpartum, 101 were breastfed and 171 were formula fed. Of the breastfed infants, 79% were breastfed at least 80% at 7 weeks and 59% at 7 months of age. Breastfed infants had lower IgG titers than formula-fed infants at both 7 weeks and 7 months of age. Although the difference was statistically significant after adjustment for confounding variables, no invasive Haemophilus influenzae type b infections occurred in any of the infants in the study.\nA study in Sweden compared the IgG response to Haemophilus b (Hib) vaccine in infants who were either breastfed or randomized to one of 3 different formulas. In a secondary analysis of the results, breastfed infants had significantly lower IgG levels against Hib at 4, 6, and 12 months than formula-fed infants. A significantly higher proportion of the formula-fed infants showed Hib IgG concentrations above the protective levels at 4, 6, and 12 months. The authors could not explain the differences, but felt that the clinical relevance of different IgG responses is most likely limited."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

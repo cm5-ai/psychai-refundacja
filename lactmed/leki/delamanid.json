@@ -1,0 +1,63 @@
+{
+ "id": "delamanid",
+ "tytul": "Delamanid",
+ "synonimy": [
+  "Delamanid",
+  "OPC-67683",
+  "Deltyba",
+  "OPC 67683",
+  "8OOT6M1PC7",
+  "OPC67683",
+  "MMV688262",
+  "UNII-8OOT6M1PC7",
+  "SCHEMBL57791",
+  "CHEMBL218650",
+  "GTPL12876",
+  "DTXSID60218326",
+  "C25H25F3",
+  "N4O6",
+  "CHEBI:134742",
+  "BCP07838",
+  "EX-A2414",
+  "BDBM50592580",
+  "MFCD18251539",
+  "NSC794689",
+  "s5007",
+  "AKOS025289781",
+  "CCG-269934",
+  "CS-5866",
+  "DB11637",
+  "NSC-794689",
+  "SB14863",
+  "NCGC00348214-01",
+  "AC-35849",
+  "AS-56105",
+  "HY-10846",
+  "NS00072495",
+  "D09785",
+  "A856044",
+  "EN300-20602812",
+  "Q15408413",
+  "(2R)-2-methyl-6-nitro-2-[[4-[4-[4-(trifluoromethoxy)phenoxy]piperidin-1-yl]phenoxy]methyl]-3H-imidazo[2,1-b][,3]oxazole"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/delamanid/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Delamanid is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. No information is available on the clinical use of delamanid during breastfeeding. Preliminary evidence indicates that delamanid and its active metabolite are present in milk at low levels. Delamanid is usually given with several other drugs for resistant tuberculosis, so the clinical importance of these small amounts is unclear."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The breastmilk of two patients receiving delamanid in unspecified doses had peak delamanid milk levels 4 hours after a dose. One had a peak delamanid milk level of about 200 mcg/L and a level of the active metabolite DM-6705 that was undetectable (<10 mcg/L) at all time points. The second woman had a peak delamanid level of about 700 mcg/L and a peak milk level of the active metabolite DM-6705 of about 40 mcg/L at 4 hours after the dose. Because the serum level of the first patient was also low, it was thought that her adherence to the regimen was poor.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

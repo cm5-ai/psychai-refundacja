@@ -1,0 +1,52 @@
+{
+ "id": "oxaliplatin",
+ "tytul": "Oxaliplatin",
+ "synonimy": [
+  "Oxaliplatin",
+  "(SP-4-2-(1R-trans))-(1,2-Cyclohexanediamine-N,N')(ethanedioato(2-)-O,O')platinum",
+  "1-OHP",
+  "CCRIS 9143",
+  "cis-((1R,2R)-1,2-Cyclohexanediamine-N,N')(oxalato(2-)-O,O')platinum",
+  "Dacplat",
+  "Eloxatin",
+  "Elplat",
+  "JM-83",
+  "l-OHP",
+  "Lipoxal",
+  "NSC 266046",
+  "Oxalato(1R,2R-cyclohexanediammine)platinum(II)",
+  "Oxalato(trans-(-)-1,2-cyclohexanediamine)platinum(II)",
+  "Oxalato(trans-1-1,2-cyclohexanediamine)platinum(II)",
+  "Oxalatoplatin",
+  "Oxalatoplatinum",
+  "Oxaliplatinum",
+  "Oxalitin",
+  "Oxaloplatine",
+  "Oxaloplatino",
+  "RP 54780",
+  "RP-54780",
+  "SR 96669",
+  "SR-96669",
+  "trans-l-Diaminocyclohexane oxalatoplatinum"
+ ],
+ "zaktualizowano": "2023-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/oxaliplatin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider that mothers receiving antineoplastic therapy should not breastfeed, especially with alkylating agents such as oxaliplatin. In one patient, platinum was found in breastmilk for at least 65 days after her last dose. The exact form and toxicity of platinum that might be excreted into breastmilk are not known. The nursing infant would receive any platinum compounds orally rather than intravenously and oral absorption of oral platinum compounds by infants is not known. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant. The manufacturer recommends that women should not breastfeed during treatment with oxaliplatin injection and for 3 months after the final dose, which is consistent with findings of platinum in the milk of one patient."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A lactating patient with stage 3a colorectal cancer received chemotherapy including oxaliplatin 130 mg/sq m (200 mg) infused every 4 weeks. She was also receiving capecitabine 1 gram/sq m twice daily by mouth for the first 2 weeks of the 21-day cycles. The patient was breastfeeding a 7-month-old infant until chemotherapy was begun. Milk platinum concentrations 34 and 65 days after treatment were 7.8 and 10.3 mcg/L, respectively.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A telephone follow-up study was conducted on 74 women who received cancer chemotherapy at one center during the second or third trimester of pregnancy to determine if they were successful at breastfeeding postpartum. Only 34% of the women were able to exclusively breastfeed their infants, and 66% of the women reported experiencing breastfeeding difficulties. This was in comparison to a 91% breastfeeding success rate in 22 other mothers diagnosed during pregnancy, but not treated with chemotherapy. Other statistically significant correlations included: 1. mothers with breastfeeding difficulties had an average of 5.5 cycles of chemotherapy compared with 3.8 cycles among mothers who had no difficulties; and 2. mothers with breastfeeding difficulties received their first cycle of chemotherapy on average 3.4 weeks earlier in pregnancy. Of the 3 women who received a regimen containing the similar drug, cisplatin, 1 had breastfeeding difficulties."
+  ]
+ ]
+}

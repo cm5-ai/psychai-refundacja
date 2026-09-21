@@ -1,0 +1,38 @@
+{
+ "id": "LM1080",
+ "tytul": "Verteporfin",
+ "synonimy": [
+  "VERTEPORFIN",
+  "Visudyne",
+  "BPD verteporfin",
+  "verteporphin",
+  "UNII-0X9PA28K43",
+  "Verteporfin [USAN:USP:INN:BAN]",
+  "129497-78-5",
+  "0X9PA28K43",
+  "CL 318952",
+  "CL 318,952",
+  "(+-)-trans-3,4-Dicarboxy-4,4a-dihydro-4a,8,14,19-tetramethyl-18-vinyl-23H,25H-benzo(b)porphine-9,13-dipropionic acid, 3,4,9-trimethyl ester mixture with (+-)-trans-3,4-dicarboxy-4,4a-dihydro-4a,8,14,19-tetramethyl-18-vinyl-23H,25H-benzo(b)porphine-9,13-dipropionic acid, 3,4,13-trimethyl ester",
+  "23H,25H-Benzo(b)porphine-9,13-dipropanoic acid, 18-ethenyl-4,4a-dihydro-3,4-bis(methoxycarbonyl)-4a,8,14,19-tetramethyl-, monomethyl ester, trans-"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1080/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal verteporfin doses of 6 mg per square meter produce low levels in milk. Withholding breastfeeding for 24 to 48 hours after verteporfin administration should minimize risk to the breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. According to the manufacturer, verteporfin and its diacid metabolite were found in the breastmilk of one woman after a 6 mg per square meter IV infusion. The verteporfin levels in breastmilk were up to 66% of the corresponding plasma levels and became unmeasurable (<2 mcg/L) within 24 hours. The diacid metabolite had lower peak breastmilk concentrations, but persisted up to at least 48 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

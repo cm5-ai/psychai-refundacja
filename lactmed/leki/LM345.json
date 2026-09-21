@@ -1,0 +1,78 @@
+{
+ "id": "LM345",
+ "tytul": "Clorazepate",
+ "synonimy": [
+  "Chlorazepate",
+  "Tranxilium",
+  "Tranxene",
+  "clorazepate",
+  "Chlorazepam",
+  "Clorazepato",
+  "Transilium",
+  "Tranxilene",
+  "Belseren",
+  "Nevracten",
+  "Softramal",
+  "Tencilan",
+  "Tranxilen",
+  "Mendon",
+  "Modiur",
+  "Tranex",
+  "Clorazepate dipotassium",
+  "Gen-xene",
+  "Dikalii clorazepas",
+  "Chlorazepate dipotassium",
+  "Dipotassium chlorazepate",
+  "Clorazepato [DCIT]",
+  "Clorazepato dipotasico",
+  "Abbott-35616",
+  "Dipotassium clorazepate",
+  "TRANXENE SD",
+  "Bipotassium chlorazepate",
+  "Clorazepate dipotassique",
+  "UNII-63FN7G03XY",
+  "Dikalii clorazepas [INN-Latin]",
+  "Clorazepate acid dipotassium salt",
+  "4306 CB",
+  "Dipotassium clorazepate [INN]",
+  "63FN7G03XY",
+  "DEA No. 2768",
+  "EINECS 260-565-6",
+  "Clorazepato dipotasico [INN-Spanish]",
+  "Clorazepate dipotassique [INN-French]",
+  "AH 3232",
+  "CB 4306",
+  "Clorazepate dipotassium [USAN:USP:JAN]",
+  "AB 35616",
+  "TR 19119",
+  "57109-90-7",
+  "1H-1,4-Benzodiazepine-3-carboxylic acid, 7-chloro-2,3-dihydro-2-oxo-5-phenyl-, monopotassium salt, compd. with potassium hydroxide (K(OH)) (1:1)",
+  "1H-1,4-Benzodiazepine-3-carboxylic acid, 7-chloro-2,3-dihydro-2-oxo-5-phenyl-, potassium salt compd. with potassium hydroxide (1:1)",
+  "1H-1,4-Benzodiazepine-3-carboxylic acid, 7-chloro-2,3-dihydro-2-oxo-5-phenyl-, potassium salt compound with potassium hydroxide (1:1)",
+  "Potassium 7-chloro-2,3-dihydro-2-oxo-5-phenyl-1H-1,4-benzodiazepine-3-carboxylate compound with potassium hydroxide (1:1)"
+ ],
+ "zaktualizowano": "2024-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM345/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Clorazepate is excreted into breastmilk and appears to accumulate in the serum of breastfed infants. Because the half-life of clorazepate and its active metabolite are long, timing breastfeeding with respect to the dose is of little or no benefit in reducing infant exposure. Other agents may be preferred, especially while nursing a newborn or preterm infant. If clorazepate is used, monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Clorazepate is a prodrug of nordiazepam (desmethyldiazepam) which is the primary active metabolite of diazepam.\nMaternal Levels. After a single 20 mg intramuscular dose of clorazepate in 7 women, milk nordiazepam levels ranged from 7.5 to 15.5 mcg/L at 2 days after the dose and 6 to 12 mcg/L at 4 days after the dose.\nInfant Levels. Nordiazepam has been found in infants' serum in levels higher than milk levels, indicating accumulation, and only slightly lower than adult therapeutic levels after diazepam use by the mother.\nAfter a single 20 mg intramuscular dose of clorazepate in 7 women, serum levels of their breastfed infants ranged from trace levels in 5 of the infants to 4 and 7.5 mcg/L in the others on the second day after the dose. On the fourth day after the dose, infant serum levels was a trace amounts in one and ranged from 4 to 8.5 mcg/L in the others, indicating accumulation in infant serum."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Sedation in infants has been reported during maternal use of diazepam which has nordiazepam as its active metabolite. Concern has also been expressed that nordiazepam may compete with bilirubin for hepatic glucuronide conjugation in the neonate."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Anxiety) Lorazepam, Oxazepam, Temazepam (Seizure Disorder) Carbamazepine, Divalproex, Gabapentin, Lamotrigine, Oxcarbazepine, Phenytoin, Valproic Acid"
+  ]
+ ]
+}

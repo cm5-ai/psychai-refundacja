@@ -1,0 +1,41 @@
+{
+ "id": "LM1199",
+ "tytul": "Argatroban",
+ "synonimy": [
+  "argatroban",
+  "Acova",
+  "UNII-IY90U61Z3S",
+  "MCI-9038",
+  "GN1600",
+  "MD-805",
+  "DK-7419",
+  "IY90U61Z3S",
+  "(2R,4R)-4-Methyl-1-(N(sup 2)-((1,2,3,4-tetrahydro-3-methyl-8-quinolyl)sulfonyl)-L-arginyl)pipecolic acid, monohydrate",
+  "2-Piperidinecarboxylic acid, 1-(5-((aminoiminomethyl)amino)-1-oxo-2-(((1,2,3,4-tetrahydro-3-methyl-8-quinolinyl)sulfonyl)amino)pentyl)-4-methyl-, monohydrate",
+  "2-Piperidinecarboxylic acid, 1-(5-((aminoiminomethyl)amino)-1-oxo-2-(((1,2,3,4-tetrahydro-3-methyl-8-quinolinyl)sulfonyl)amino)pentyl)methyl-, monohydrate, (2R-((2S*),2-alpha,4-beta))-"
+ ],
+ "zaktualizowano": "2023-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1199/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because argatroban is poorly absorbed orally, it might not adversely affect a breastfeeding infant. However, no information is available on the use of argatroban during breastfeeding, so an alternate drug is preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acenocoumarol, Dalteparin, Enoxaparin, Heparin, Rivaroxaban, Warfarin"
+  ]
+ ]
+}

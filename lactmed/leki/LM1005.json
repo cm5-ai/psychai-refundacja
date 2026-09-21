@@ -1,0 +1,47 @@
+{
+ "id": "LM1005",
+ "tytul": "Nitazoxanide",
+ "synonimy": [
+  "NITAZOXANIDE",
+  "Alinia",
+  "Nitazoxanida",
+  "Nitazoxanidum",
+  "55981-09-4",
+  "Nitazoxanidum [INN-Latin]",
+  "Nitazoxanida [INN-Spanish]",
+  "UNII-SOA12P041N",
+  "SOA12P041N",
+  "Nitazoxanide [USAN:INN:BAN]",
+  "NSC 697855",
+  "EINECS 259-931-8",
+  "2-(Acetolyloxy)-N-(5-nitro-2-thiazolyl)benzamide",
+  "BRN 1225475",
+  "Benzamide, 2-(acetyloxy)-N-(5-nitro-2-thiazolyl)-",
+  "(2-((5-Nitro-2-thiazolyl)carbamoyl)phenyl)acetat",
+  "PH 5776",
+  "N-(5-Nitro-2-thiazolyl)salicylamide acetate (ester)",
+  "N-(5-Nitrothiazol-2-yl)salicylamide acetate ester",
+  "o-(N-(5-Nitrothiazol-2-yl)carbamoyl)phenyl acetate",
+  "Salicylamide, N-(5-nitro-2-thiazolyl)-, acetate (ester)"
+ ],
+ "zaktualizowano": "2023-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1005/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that a maternal dose of 500 mg of nitazoxanide produces low levels of an active metabolite, tizoxanide, in breastmilk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. But until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "After oral administration, nitazoxanide is not found in the bloodstream, but is rapidly converted to the active metabolites, tizoxanide and tizoxanide glucuronide, which are detectable in plasma.\nMaternal Levels. A volunteer lactating mother took a single 500 mg oral dose of nitazoxanide as a commercial suspension (Nitazode, Al Andalous Medical Co., Cairo, Egypt). The concentration of the active metabolite, tizoxanide, was 1.4 mg/L at 6 hours after the dose. Tizoxanide glucuronide was not measured.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

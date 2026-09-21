@@ -1,0 +1,44 @@
+{
+ "id": "LM295",
+ "tytul": "Metipranolol",
+ "synonimy": [
+  "Metipranolol",
+  "Trimepranol",
+  "Disorat",
+  "OptiPranolol",
+  "Metipranololum",
+  "Turoptin",
+  "UNII-X39AL81KEB",
+  "VUFB-6453",
+  "VUAB6453 (SPOFA)",
+  "X39AL81KEB",
+  "EINECS 245-151-5",
+  "BRN 2152010",
+  "BM01.004",
+  "[4-[2-hydroxy-3-(propan-2-ylamino)propoxy]-2,3,6-trimethylphenyl] acetate"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM295/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Based on its physicochemical properties and its ophthalmic route of administration, metipranolol eye drops would not be expected to cause any adverse effects in breastfed infants. Some guidelines state that gel formulations are preferred over solutions. To substantially diminish the amount of drug that reaches the breastmilk after using eye drops, place pressure over the tear duct by the corner of the eye for 1 minute or more, then remove the excess solution with an absorbent tissue."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 70% protein binding, 10% renal excretion and a moderately short half-life, metipranolol presents moderately low risk for accumulation in infants.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information on metipranolol was not found as of the revision date. A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. None of the mothers were taking metipranolol."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or metipranolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Ophthalmic) Levobunolol, Timolol"
+  ]
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "LM1418",
+ "tytul": "Doravirine",
+ "synonimy": [
+  "Doravirine",
+  "Pifeltro",
+  "Delstrigo",
+  "UNII-913P6LK81M",
+  "MK1439",
+  "MK 1439",
+  "doravirine",
+  "doravirinum",
+  "DTXCID5080877",
+  "J05AG06",
+  "807-060-4",
+  "CHEMBL2364608",
+  "3-chloro-5-[1-[(4-methyl-5-oxo-1H-1,2,4-triazol-3-yl)methyl]-2-oxo-4-(trifluoromethyl)pyridin-3-yl]oxybenzonitrile",
+  "islatravir",
+  "islatravirum",
+  "Idvynso",
+  "865363-93-5",
+  "fluoroadenosine",
+  "UNII-QPQ082R25D DTXSID601046407",
+  "MK8591",
+  "RefChem:908409",
+  "(2R,3S,5R)-5-(6-amino-2-fluoropurin-9-yl)-2-ethynyl-2-(hydroxymethyl)oxolan-3-ol"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1418/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of doravirine during breastfeeding. However, amounts in breastmilk appear to be low and would not be expected to cause any adverse effects in breastfed infants. No information is available on the excretion of islatravir, which is present in Idvynso, into breastmilk. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In a study of a new analytic technique, one healthy lactating volunteer took a single 100 mg dose of doravirine. A peak milk concentration of about 0.42 mg/L occurred at about 2 hours after the dose. By 24 hours after the dose, the milk concentration was about 0.05 mg/L.\nEight lactating women were given a single oral dose of 100 mg of doravirine was administered, with plasma samples collected at 0, 1, 2, 3, 4, 5, 6, 8, 10, 12, 24 hours after the dose. Breastmilk samples were collected with an electric breast pump, emptying both breasts, at 0, 2, 4, 6, 12, 24 hours after the dose. A median peak milk concentration of 0.31 mg/L occurred at a mean of 11.56 hours after the dose. The authors reported an RID of 0.86%, based on the actual milk volumes reported by the study participants. Based on the reported AUC value and standard daily milk volume of 150 mL/kg, the median milk concentrations was 0.22 mg/L resulting in a median daily dosage of 0.033 mg/kg. This dose resulted in a relative infant dose of 2.7%. The authors went on to create a PBPK model that predicted these values relatively well, with an RID of 1.9%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

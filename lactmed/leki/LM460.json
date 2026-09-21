@@ -1,0 +1,40 @@
+{
+ "id": "LM460",
+ "tytul": "Ethambutol",
+ "synonimy": [
+  "ethambutol",
+  "Ethambutolum",
+  "Etambutol",
+  "Tibutol",
+  "Aethambutolum",
+  "Diambutol",
+  "Etambutolo",
+  "D-Ethambutol",
+  "Purderal",
+  "Etambutolo [DCIT]",
+  "(+)-S,S-Ethambutol",
+  "UNII-8G167061QZ",
+  "HSDB 3078",
+  "EINECS 200-810-6 (2S)-2-[2-[[(2S)-1-hydroxybutan-2-yl]amino]ethylamino]butan-1-ol"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM460/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of ethambutol up to 15 mg/kg daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. The amount of ethambutol in milk is insufficient to treat tuberculosis in the breastfed infant. The Centers for Disease Control and Prevention and other professional organizations state that breastfeeding should not be discouraged in women taking ethambutol."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Information available on ethambutol excretion into breastmilk is limited to 2 cases which were originally reported only as personal communications. One mother had milk levels measured twice while taking ethambutol 15 mg/kg daily. Milk levels were 1.5 mg/L 3 hours after the dose and 1.4 mg/L during a 2-hour period after the dose, but collection methods were not stated. Another woman reportedly had a milk level of 4.6 mg/L which was similar to her plasma level, but her dosage and the milk collection time were not stated. Using these data, reviewers estimated that a breastfed infant would receive 0.51 to 0.86 mg/kg daily which is 3.4 to 5.7% of an infant's therapeutic dose. Using the above sparse data, some authors have estimated that a fully breastfed infant would receive a maximum dose of 0.69 mg/kg daily, which is 4.6% of the maternal weight-adjusted dosage.\nA physiologically based pharmacokinetic model of ethambutol predicted that a fully breastfed infant would receive a dose of 0.08 mg/kg daily with a maternal dosage of 24.5 mg/kg daily, which is 0.3% of the weight-adjusted maternal dosage.\nTwo breastfeeding women with tuberculosis were receiving ethambutol as well as at least 4 other antituberculars donated 1 mL breastmilk samples by manual expression at approximately 6 weeks postpartum. Samples were obtained immediately prior to a dose and 2, 4, and 6 hours after a dose of 1200 mg of ethambutol. Peak milk ethambutol concentrations of 20.7 and 36.4 mg/L occurred at about 6 hours after a dose. The authors used the peak concentrations to calculate infant daily dosages of 3.11 and 5.46 mg/kg, which ranged from 12 to 36% of the infant dosage and 14.5 to 23.6% of the maternal weight-adjusted dosage. These values are overestimates because peak milk concentrations were used rather than average concentrations.\nInfant Levels. Measured infant serum levels have not been reported. A physiologically based pharmacokinetic model of ethambutol predicted that a fully breastfed infant would achieve a maximum serum concentration of 0.098 mg/L with a maternal dose of 24.5 mg/kg daily."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In one uncontrolled study, 6-beta-hydroxycortisol levels were measured in 10 male infants whose mothers had tuberculosis and took ethambutol 1 gram daily plus isoniazid 300 mg daily and the infants of mothers (apparently without tuberculosis) who took no chronic drug therapy. The infants of mothers taking the antituberculars had consistently lower 6-beta-hydroxycortisol levels on 8 occasions at 15-day intervals from 90 to 195 days of age, but these differences were statistically significant on days 120 and 195 only. The authors attributed the lower levels to inhibition of hepatic metabolism of cortisol to 6-beta-hydroxycortisol by the antitubercular drugs in milk. However, ethambutol is not known to inhibit drug metabolism, so if the effect occurs it is more likely caused by isoniazid.\nEthambutol was used as part of a seven-drug regimen to treat a pregnant woman with multidrug-resistant tuberculosis during the second and third trimesters of pregnancy and postpartum. The infant was breastfed (extent and duration not stated). At age 4.6 years, the child was developing normally except for a mild speech delay.\nTwo mothers in Türkiye were diagnosed with tuberculosis at the 30th and 34th weeks of pregnancy. They immediately started isoniazid 300 mg, rifampin 600 mg, pyridoxine 50 mg daily for 6 months, plus pyrazinamide 25 mg/kg and ethambutol 25 mg/kg daily for 2 months. Both mothers breastfed their infants (extent not stated). Their infants were given isoniazid 5 mg/kg daily for 3 months prophylactically. Tuberculin skin tests were negative after 3 months and neither infant had tuberculosis at 1 year of age. No adverse effects of the drugs were mentioned."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "LM434",
+ "tytul": "Amantadine",
+ "synonimy": [
+  "amantadine",
+  "Adamantanamine",
+  "Adamantylamine",
+  "Aminoadamantane",
+  "Pk-merz",
+  "Amantadina",
+  "Amantadinum",
+  "Gocovri",
+  "Osmolex ER",
+  "UNII-BF4C9Z1J53",
+  "HSDB 3202",
+  "NSC 341865",
+  "EINECS 212-201-2",
+  "adamantan-1-amine"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM434/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "It is probably best to avoid amantadine during breastfeeding because of its potential negative effect on lactation. An alternative medication is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Amantadine is a dopamine agonist. Clinical studies using amantadine dosages of 100 mg 2 or 3 times daily have demonstrated a decrease in serum prolactin and decreased galactorrhea in patients taking dopaminergic neuroleptic drugs such as phenothiazines, haloperidol and loxapine. No studies have been reported on the effects of amantadine on the milk supply in nursing mothers. The maternal prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Influenza) Oseltamivir, Zanamivir"
+  ]
+ ]
+}

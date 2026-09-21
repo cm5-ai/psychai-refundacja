@@ -1,0 +1,39 @@
+{
+ "id": "LM218",
+ "tytul": "Pirbuterol",
+ "synonimy": [
+  "pirbuterol",
+  "Pirbuterolum",
+  "Pirbuterolum [INN-Latin]",
+  "Pirbuterol [INN:BAN]",
+  "UNII-OG645J8RVW",
+  "OG645J8RVW",
+  "38677-81-5",
+  "CP-24,314-14",
+  "6-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)pyridin-3-ol"
+ ],
+ "zaktualizowano": "2024-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM218/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Pirbuterol is no longer marketed in the US. Although no published data exist on the use of pirbuterol by mouth or inhaler during lactation, data from the related drug, terbutaline, indicate that very little is expected to be excreted into breastmilk. The authors of several reviews and an expert panel agree that use of inhaled bronchodilators is acceptable during breastfeeding because of the low bioavailability and maternal serum levels after use."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Terbutaline"
+  ]
+ ]
+}

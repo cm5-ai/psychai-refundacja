@@ -1,0 +1,36 @@
+{
+ "id": "LM1244",
+ "tytul": "Gallium Ga 68 Dotatate",
+ "synonimy": [
+  "Netspot",
+  "68Ga-DOTA-octreotide",
+  "68Ga-DOTATATE",
+  "68Ga-DOTATOC",
+  "Dotatate gallium Ga-68",
+  "Gallium Ga 68 dotatate",
+  "Gallium 68 DOTA-octreotide",
+  "68Ga-DOTA-Tyr3-octreotide",
+  "UNII-9L17Y0H71P",
+  "68gallium-DOTA-Tyr(3)-Thr(8)-octreotate"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1244/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Gallium Ga 68 dotatate is used for localization of somatostatin receptor positive neuroendocrine tumors. It can found in lactating breasts in higher than usual amounts. Labeling in the U.S. advises nursing mothers to pump and discard breastmilk for 12 hours after a dose, based on isotope's physical half-life alone. However, one group of investigators and the International Atomic Energy Agency recommend pumping and discarding breastmilk for 4 hours after a dose of 100 to 200 MBq, then resuming breastfeeding.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nNursing mothers should not work with radioactive substances used in PET scans in their workplace."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Ga 68 decays primarily by positron-emission with a half-life 68 minutes and a mean energy of 836 keV followed by photonic annihilation radiations of 511 keV.\nMaternal Levels. A nursing mother who was 7 months postpartum was administered 200 MBq of Ga68 dotatate for quantitative PET-CT imaging. An expressed breastmilk sample at about 90 minutes post injection contained 2.8 kBq of gallium 68. The authors calculated that the effective dose of radiation to the infant would be 1.03 mSv if it were fed at 4 hours after the dose, and 12 mSv if it were fed immediately after injection. They recommend avoiding breastfeeding for 4 hours after the dose, pumping and discarding the milk, then resuming breastfeeding.\nA woman received an injection of 150 MBq of Ga 68 dotatate for a PET scan. Milk samples were measured at 80 and 135 minutes after administration. The authors estimated that the infant would receive an effective dose of 0.014mSv if the patient resumed breastfeeding 80 minutes after administration. If a 4-hour interruption in breastfeeding were used, the infant would potentially receive 0.003 mSv.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

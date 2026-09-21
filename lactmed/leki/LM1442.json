@@ -1,0 +1,48 @@
+{
+ "id": "LM1442",
+ "tytul": "Cannabidiol",
+ "synonimy": [
+  "cannabidiol",
+  "Epidiolex",
+  "(-)-trans-Cannabidiol",
+  "UNII-19GBJ60SN5",
+  "GWP42003-P",
+  "ZYN002",
+  "CBD",
+  "CARDIOLRX",
+  "cannabidiolum",
+  "DTXSID301038839",
+  "CHEBI:69478",
+  "BTX-1204",
+  "BTX-1503",
+  "GWP42003",
+  "GWP-42003-P",
+  "GWP-42003",
+  "ZYN002",
+  "2-[(1R,6R)-3-methyl-6-prop-1-en-2-ylcyclohex-2-en-1-yl]-5-pentylbenzene-1,3-diol"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1442/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Cannabidiol is a component of cannabis. Cannabidiol has not been studied in nursing women taking the pharmaceutical product (Epidiolex), but it has been detected in the breastmilk of some mothers who used cannabis products. Because no published information is available with cannabidiol use as an antiepileptic during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "In published reports of anticonvulsant use during breastfeeding, most women were taking a combination of anticonvulsants. Some other anticonvulsants (e.g., phenytoin, carbamazepine) stimulate the metabolism of other drugs including anticonvulsants, whereas others (e.g., valproic acid) inhibit the metabolism of other drugs. Therefore, the relationship of the maternal dosage to the concentration in breastmilk can be quite variable, making calculation of the weight-adjusted percentage of maternal dosage less meaningful than for other drugs reported in LactMed.\nMaternal Levels. Cannabidiol was measured in the milk of mothers who reported using cannabis and donated milk samples. Fifty mothers donated 54 samples of milk to a breastmilk repository. The median concentration of cannabidiol was 5 mcg/L (range 1.3 to 8.6 mcg/L).\nA physiologically based pharmacokinetic model of cannabidiol was constructed using data from 181 cannabis-using mothers who donated 200 samples of breastmilk to a breastmilk repository. Of these, 42% had cannabidiol concentration below the level of quantification. Maternal ingestion by oil or pipe tended to result in higher predicted concentrations as compared with joint, blunt or edible forms. The dose in infants was projected to result in exposure of fully breastfed infants of less than 1% of that in children 4 to 10 years old who were receiving the drug therapeutically for seizures.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Seizure Disorder) Carbamazepine, Divalproex, Gabapentin, Lamotrigine, Oxcarbazepine, Phenytoin, Valproic Acid"
+  ]
+ ]
+}

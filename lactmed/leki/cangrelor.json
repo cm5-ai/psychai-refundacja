@@ -1,0 +1,53 @@
+{
+ "id": "cangrelor",
+ "tytul": "Cangrelor",
+ "synonimy": [
+  "Cangrelor",
+  "cangrelorum",
+  "Kengreal",
+  "AR-C69931XX",
+  "AR-C69931MX",
+  "UNII-6AQ1Y404U7",
+  "CHEBI:90841",
+  "DTXSID90167651",
+  "RefChem:57346",
+  "DTXCID8090142",
+  "B01AC25",
+  "CHEMBL334966",
+  "GTPL1776",
+  "orb1739145",
+  "SCHEMBL6113860",
+  "ARL 69931MX",
+  "HSDB 8489",
+  "GLXC-02798",
+  "BDBM50118225",
+  "EBC-27461",
+  "DB06441",
+  "NCGC00480787-02",
+  "AC-28809",
+  "HY-19638",
+  "CS-0016143",
+  "D03359",
+  "[dichloro-[[[(2R,3S,4R,5R)-3,4-dihydroxy-5-[6-(2-methylsulfanylethylamino)-2-(3,3,3-trifluoropropylsulfanyl)purin-9-yl]oxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]methyl]phosphonic acid"
+ ],
+ "zaktualizowano": "2026-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/cangrelor/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of cangrelor during breastfeeding. Because cangrelor is 97 to 98% bound to plasma proteins, the amount in milk is likely to be low. The half-life averages only 3 to 6 minutes, further limiting infant exposure. If a mother requires cangrelor, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

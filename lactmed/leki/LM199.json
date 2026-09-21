@@ -1,0 +1,44 @@
+{
+ "id": "LM199",
+ "tytul": "Nimodipine",
+ "synonimy": [
+  "nimodipine",
+  "Nimotop",
+  "Periplum",
+  "Nimodipino",
+  "Nimodipinum",
+  "Nymalize",
+  "66085-59-4",
+  "Nimodipinum [INN-Latin]",
+  "Nimodipino [INN-Spanish]",
+  "BAY e 9736",
+  "UNII-57WA9QZ5WH",
+  "DRG-0139",
+  "57WA9QZ5WH",
+  "EINECS 266-127-0",
+  "Nimodipine [USAN:USP:INN:BAN]",
+  "BRN 0459792",
+  "Isopropyl 2-methoxyethyl 1,4-dihydro-2,6-dimethyl-4-(m-nitrophenyl)-3,5-pyridinedicarboxylate",
+  "3,5-Pyridinedicarboxylic acid, 1,4-dihydro-2,6-dimethyl-4-(3-nitrophenyl)-, 2-methoxyethyl 1-methylethyl ester"
+ ],
+ "zaktualizowano": "2021-01-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM199/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Based on limited data, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman who was 3 days postpartum received 60 mg of nimodipine orally every 4 hours. She had a peak milk nimodipine level of about 3.5 mcg/L at 1 hour after a dose at steady-state. Milk levels from 1 hour before a dose (i.e., 3 hours after the previous dose) to simultaneously with a dose were less than 1 mcg/L. Using the peak milk level data, the estimated maximum intake of an exclusively breastfed infant would be about 0.0009% of the maternal weight-adjusted dosage.\nOne woman who was 3 weeks postpartum was receiving nimodipine 2 mg per hour intravenously for 22 hours. The highest milk nimodipine concentration occurred 2 hours after completing the regimen and was 4.7 mcg/L. Four hours later the level had dropped to 0.63 mcg/L. It was estimated that a nursing infant would receive a maximum daily dosage of 0.092% of the mother's weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

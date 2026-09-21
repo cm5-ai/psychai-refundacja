@@ -1,0 +1,40 @@
+{
+ "id": "LM211",
+ "tytul": "Perindopril",
+ "synonimy": [
+  "Perindopril",
+  "Coversyl",
+  "Perindoprilum",
+  "UNII-Y5GMK36KGY",
+  "McN-A-2833",
+  "McN-A 2833",
+  "S-9490",
+  "BRN 4300272",
+  "S 9490",
+  "(2S,3aS,7aS)-1-[(2S)-2-[[(2S)-1-ethoxy-1-oxopentan-2-yl]amino]propanoyl]-2,3,3a,4,5,6,7,7a-octahydroindole-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM211/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that only low levels of perindopril and its active metabolite are found in breastmilk, which is consistent with other drugs in this class. Amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A breast feeding mother who was taking perindopril erbumine 10 mg twice daily for 2 weeks donated one breastmilk sample 9 hours after a dose. The sample contained 0.9 mcg/L of perindopril and 22.5 mcg/L of perindoprilat in breastmilk.\nTen women taking perindopril donated a total of 79 milk samples. The exact timing of samples was not given. Dosages ranged from 5 to 20 mg daily. In the women taking 5 mg daily (n = 3), the average milk perindopril concentration was 0.32 mcg/L. In the women taking 10 mg daily (n = 6), the average milk perindopril concentration was 0.57 mcg/L. In the woman taking 20 mg daily (n = 1), the average milk perindopril concentration was 1.03 mcg/L. For the metabolite, perindoprilat, the 5 mg dose yielded an average milk concentration of 10.35 mcg/L, the 10 mg dose yielded an average of 9.25 mcg/L, and the 20 mg dose 0.42 mcg/L. The weight-adjusted infant dosage ranges were 0.0005 to 0.2% for perindopril and 0.03 to 4.6% for perindoprilat.\nInfant Levels. Three infants were breastfed (extent not stated) by mothers taking perindopril. One infant whose mother was taking 5 mg daily had serum levels of 1.12 mcg/L of perindopril and 10.14 mcg/L of perindoprilat. In two infants whose mothers were taking 10 mg daily, average perindopril level was 0.78 mcg/L and perindoprilat was 2.64 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Ten infants were breastfed (extent not stated) by mothers were taking perindopril 5 to 20 mg daily. All infants grew and developed normally according to their parents."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Candesartan, Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Valsartan"
+  ]
+ ]
+}

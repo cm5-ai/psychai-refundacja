@@ -1,0 +1,51 @@
+{
+ "id": "LM309",
+ "tytul": "Protriptyline",
+ "synonimy": [
+  "protriptyline",
+  "Protryptyline",
+  "Amimetilina",
+  "Triptil",
+  "Protriptilina",
+  "Protriptylinum",
+  "Protriptyline [INN:BAN]",
+  "Protriptylinum [INN-Latin]",
+  "Protriptilina [INN-Spanish]",
+  "UNII-4NDU154T12",
+  "HSDB 3391",
+  "438-60-8",
+  "EINECS 207-119-9",
+  "4NDU154T12",
+  "BRN 2217411",
+  "7-(3-Methylaminopropyl)-1,2:5,6-dibenzocycloheptatriene",
+  "N-Methyl-5H-dibenzo(a,d)cycloheptene-5-propylamine",
+  "5-(3-Methylaminopropyl)-5H-dibenzo(a,d)cycloheptene",
+  "5H-Dibenzo(a,d)cycloheptene-5-propanamine, N-methyl-",
+  "N-3-(5H-Dibenzo(a,d)cyclohepten-5-yl)propyl-N-methylamine",
+  "5H-Dibenzo(a,d)cycloheptene-5-propylamine, N-methyl-"
+ ],
+ "zaktualizowano": "2022-04-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM309/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is no published experience with protriptyline during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Published information on protriptyline was not found as of the revision date. Follow-up for 1 to 3 years in a group of 20 breastfed infants whose mothers were taking a tricyclic antidepressant found no adverse effects on growth and development. Two small controlled studies indicate that other tricyclic antidepressants have no adverse effect on infant development. In another study, 25 infants whose mothers took a tricyclic antidepressant during pregnancy and lactation were tested formally between 15 to 71 months and found to have normal growth and development."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "An observational study looked at outcomes of 2859 women who took an antidepressant during the 2 years prior to pregnancy. Compared to women who did not take an antidepressant during pregnancy, mothers who took an antidepressant during all 3 trimesters of pregnancy were 37% less likely to be breastfeeding upon hospital discharge. Mothers who took an antidepressant only during the third trimester were 75% less likely to be breastfeeding at discharge. Those who took an antidepressant only during the first and second trimesters did not have a reduced likelihood of breastfeeding at discharge. The antidepressants used by the mothers were not specified.\nA retrospective cohort study of hospital electronic medical records from 2001 to 2008 compared women who had been dispensed an antidepressant during late gestation (n = 575) to those who had a psychiatric illness but did not receive an antidepressant (n = 1552) and mothers who did not have a psychiatric diagnosis (n = 30,535). Women who received an antidepressant were 37% less likely to be breastfeeding at discharge than women without a psychiatric diagnosis, but no less likely to be breastfeeding than untreated mothers with a psychiatric diagnosis. None of the mothers were taking protriptyline.\nIn a study of 80,882 Norwegian mother-infant pairs from 1999 to 2008, new postpartum antidepressant use was reported by 392 women and 201 reported that they continued antidepressants from pregnancy. Compared with the unexposed comparison group, late pregnancy antidepressant use was associated with a 7% reduced likelihood of breastfeeding initiation, but with no effect on breastfeeding duration or exclusivity. Compared with the unexposed comparison group, new or restarted antidepressant use was associated with a 63% reduced likelihood of predominant, and a 51% reduced likelihood of any breastfeeding at 6 months, as well as a 2.6-fold increased risk of abrupt breastfeeding discontinuation. Specific antidepressants were not mentioned."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "LM1359",
+ "tytul": "Ceftazidime and Avibactam",
+ "synonimy": [
+  "Avibactam",
+  "NXL104",
+  "Avibactam [USAN:INN]",
+  "NXL 104",
+  "UNII-7352665165",
+  "1192500-31-4",
+  "ceftazidime",
+  "Pentacef",
+  "Tazidime",
+  "Tazicef",
+  "Ceptaz",
+  "Fortaz",
+  "SN 401 pentahydrate",
+  "Ceftazidime pentahydrate",
+  "UNII-9M416Z9QNR",
+  "Tazidime In Plastic Container",
+  "9M416Z9QNR",
+  "Ceftazidime [USAN:USP:INN:BAN:JAN]",
+  "GR 20263",
+  "LY 139381",
+  "1-(((6R,7R)-7-(2-(2-Amino-4-thiazolyl)glyoxylamido)-2-carboxy-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-en-3-yl)methyl)pyridinium hydroxide, inner salt, 7(sup 2)-(Z)-(O-(1-carboxy-1-methylethyl)oxime), pentahydrate",
+  "78439-06-2",
+  "Pyridinium, 1-((7-(((2-amino-4-thiazolyl)((1-carboxy-1-methylethoxy)imino)acetyl)amino)-2-carboxy-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-en-3-yl)methyl)-, hydroxide, inner salt, (6R-(6-alpha,7-beta(Z)))-, pentahydrate",
+  "Pyridinium, 1-((7-(((2-amino-4-thiazolyl)((1-carboxy-1-methylethoxy)imino)acetyl)amino)-2-carboxy-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-en-3-yl)methyl)-, hydroxide, inner salt, pentahydrate, (6R-(6alpha,7beta(Z)))-",
+  "Pyridinium, 1-((7-(((2-amino-4-thiazolyl)((1-carboxy-1-methylethoxy)imino)acetyl)amino)-2-carboxy-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-en-3-yl)methyl)-, inner salt, pentahydrate, (6R-(6alpha,7beta(Z)))-"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1359/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that ceftazidime produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Avibactam has not been studied in nursing mothers. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Ceftazidime-avibactam is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Ceftazidime 2 grams was given to 11 women intravenously every 8 hours for 5 days. The average trough milk level was 3.8 mg/L before the next dose, 5.2 mg/L 1 hour after the dose and 4.5 mg/L at 3 hours after the dose. These differences were not statistically significant. The average drug concentrations in milk were 3.9 mg/L for samples before the seventh dose and 4.9 mg/L in milk samples after the seventh dose, but this difference was not statistically significant. There was no correlation between the mother's weight and the ceftazidime milk levels.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

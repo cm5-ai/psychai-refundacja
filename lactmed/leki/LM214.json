@@ -1,0 +1,45 @@
+{
+ "id": "LM214",
+ "tytul": "Pimozide",
+ "synonimy": [
+  "pimozide",
+  "Orap",
+  "Opiran",
+  "Pimozidum",
+  "Primozida",
+  "McN-JR-6238",
+  "UNII-1HIZ4DL86F",
+  "1HIZ4DL86F",
+  "CCRIS 9172",
+  "NSC 170984",
+  "EINECS 218-171-7",
+  "R 6238",
+  "BRN 0729089",
+  "5-24-02-00367 (Beilstein Handbook Reference)",
+  "3-[1-[4,4-bis(4-fluorophenyl)butyl]piperidin-4-yl]-1H-benzimidazol-2-one"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM214/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is no published experience with pimozide during breastfeeding, other drugs are preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Pimozide can cause hyperprolactinemia. The hyperprolactinemia is caused by the drug's dopamine-blocking action in the tuberoinfundibular pathway."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

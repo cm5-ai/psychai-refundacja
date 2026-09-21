@@ -1,0 +1,41 @@
+{
+ "id": "valbenazine",
+ "tytul": "Valbenazine",
+ "synonimy": [
+  "Valbenazine",
+  "Ingrezza",
+  "NBI-98854",
+  "Mt-5199",
+  "ValbenazineNBI-98854",
+  "NBI 98854",
+  "UNII-54K37P50KH",
+  "54K37P50KH",
+  "(2R,3R,11bR)-9,10-Dimethoxy-3-(2-methylpropyl)-1,3,4,6,7,11b-hexahydro-2H- benzo(a)quinolizin-2-yl L-valinate",
+  "L-Valine, (2R,3R,11bR)-1,3,4,6,7,11b-hexahydro-9,10-dimethoxy-3-(2-methylpropyl)-2H-benzo[a]quinolizin-2-yl ester",
+  "L-Valine, (2R,3R,11bR)-1,3,4,6,7,11b-hexahydro-9,10-dimethoxy-3-(2-methylpropyl)-2H-benzo(a)quinolizin-2-yl ester",
+  "D0IX1I",
+  "GTPL8694",
+  "CHEMBL2364639",
+  "SCHEMBL15932979"
+ ],
+ "zaktualizowano": "2023-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/valbenazine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of valbenazine during breastfeeding in humans. Based on animal studies, the manufacturer recommends that breastfeeding be avoided during valbenazine therapy and for 5 days after the final dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "LM185",
+ "tytul": "Mitoxantrone",
+ "synonimy": [
+  "mitoxantrone",
+  "Mitoxanthrone",
+  "Mitozantrone",
+  "Mitoxantron",
+  "Novantron",
+  "DHAQ",
+  "Dihydroxyanthraquinone",
+  "Mitoxantrona",
+  "Mitoxantronum",
+  "UNII-BZ114NVM5P",
+  "BZ114NVM5P",
+  "CCRIS 7604",
+  "NSC 279836",
+  "BRN 2795126",
+  "1,4-dihydroxy-5,8-bis[2-(2-hydroxyethylamino)ethylamino]anthracene-9,10-dione"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM185/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy, such as mitoxantrone. It might be possible to breastfeed safely during intermittent therapy with an appropriate period of breastfeeding abstinence, but the duration of abstinence is not clear. In one patient, mitoxantrone was still detectable in milk 28 days after a dose of 6 mg per square meter. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman treated with mitoxantrone, etoposide and cytarabine for promyelocytic leukemia received 3 daily mitoxantrone doses of 6 mg per square meter intravenously. A mitoxantrone milk level of 120 mcg/L occurred immediately after the third dose. Milk mitoxantrone level dropped to a plateau value of about 20 mcg/L by 7 days after the third dose and remained at 18 mcg/L at 28 days after the last dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One mother received 3 daily doses of 6 mg/sq. m. of mitoxantrone intravenously along with 5 daily doses of etoposide 80 mg/sq. m. and cytarabine 170 mg/sq. m. intravenously. She resumed breastfeeding her infant 3 weeks after the third dose of mitoxantrone at a time when mitoxantrone was still detectable in milk. The infant had no apparent abnormalities at 16 months of age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Multiple Sclerosis) Glatiramer, Immune Globulin, Interferon Beta"
+  ]
+ ]
+}

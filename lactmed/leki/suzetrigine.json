@@ -1,0 +1,50 @@
+{
+ "id": "suzetrigine",
+ "tytul": "Suzetrigine",
+ "synonimy": [
+  "Suzetrigine",
+  "Journavx",
+  "VX-548",
+  "VX548",
+  "LOG73M21H5",
+  "CHEMBL5314487",
+  "SCHEMBL23462160",
+  "GTPL12630",
+  "VXC-548",
+  "BDBM656481",
+  "BDBM656501",
+  "GLXC-27756",
+  "EX-A7354",
+  "AT41600",
+  "VRT-1737548",
+  "DA-78125",
+  "HY-148800",
+  "CS-0641183",
+  "D12860",
+  "4-[[(2R,3S,4S,5R)-3-(3,4-difluoro-2-methoxyphenyl)-4,5-dimethyl-5-(trifluoromethyl)oxolane-2-carbonyl]amino]pyridine-2-carboxamide"
+ ],
+ "zaktualizowano": "2025-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/suzetrigine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of suzetrigine during breastfeeding. Because suzetrigine is more than 99% bound to plasma proteins and its active metabolite is more than 96% protein bound, the amounts in milk are likely to be low. If the mother requires suzetrigine, it is not a reason to discontinue breastfeeding. However, until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

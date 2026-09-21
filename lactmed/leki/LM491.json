@@ -1,0 +1,49 @@
+{
+ "id": "LM491",
+ "tytul": "Albendazole",
+ "synonimy": [
+  "albendazole",
+  "Albenza",
+  "Eskazole",
+  "Valbazen",
+  "Zentel",
+  "Proftril",
+  "Albendazolum",
+  "Albendazol",
+  "Bilutac",
+  "Albendazol [INN-Spanish]",
+  "Albendazolum [INN-Latin]",
+  "SK&F 62979",
+  "SKF 62979",
+  "UNII-F4216019LN",
+  "HSDB 7444",
+  "NSC 220008",
+  "EINECS 259-414-7",
+  "F4216019LN",
+  "methyl N-(6-propylsulfanyl-1H-benzimidazol-2-yl)carbamate"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM491/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Albendazole and its active metabolite are minimally excreted into breastmilk. An informal consultation group to the World Health Organization concluded that a single oral dose of albendazole can be given to lactating women."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Albendazole is poorly absorbed orally and is extensively metabolized to the active metabolite albendazole sulfoxide via extensive first-pass metabolism by CYP3A4. It is further metabolized to the inactive metabolite, albendazole sulfone.\nMaternal Levels. Thirty-three women who were breastfeeding infants between 2 weeks and 6 months of age were given a single dose of albendazole 400 mg orally. Milk samples were obtained before the dose and 6, 12, 24 and 36 h after drug administration. Maternal blood samples were obtained 6 hours after drug administration. Albendazole, albendazole sulfoxide, and albendazole sulfone were measured in maternal blood and milk samples. Pharmacokinetic parameters for albendazole sulfoxide were calculated using data from 20 of the women who provided 3 or more milk samples. The mean peak milk concentration was 352 mcg/L which occurred at a mean of 6.9 hours. It had a half-life in breastmilk of 12.4 hours. Albendazole sulfoxide concentration 36 hours after the dose averaged 57 mcg/L; both albendazole and albendazole sulfone were undetectable (<661 mcg/L) in milk at this time. The authors estimated that a fully breastfed infant would be exposed to less than 0.1 mg/kg of albendazole sulfoxide over a 36-hour period following a maternal dose of 400 mg and even less of albendazole. This translates into an infant dosage of less than 1.5% of the weight-adjusted maternal dosage.\nA pharmacokinetic model was constructed to estimate the amount of albendazole and its sulfoxide metabolite in milk to both. Using the peak predicted milk levels of both, the estimated infant dose was 0.011 mg/kg daily, which equates to 0.6% of the adult dose for albendazole.\nInfant Levels. No measurements of albendazole serum concentrations in breastfed infants have been found as of the revision date. A pharmacokinetic model was constructed to estimate the infant exposure of albendazole and its sulfoxide metabolite. Infant plasma concentrations for albendazole were estimated to be at least 100-fold lower than those seen in adults at the recommended dose."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Two mothers with intestinal parasites were given a single 400 mg oral dose of albendazole while exclusively breastfeeding their infants who were between 1 and 6 months of age. No mention was made of adverse reactions in the breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A study compared mothers in Peru who were given either a single dose of albendazole 400 mg (n = 117) or matching placebo (n = 99). Infant breastmilk intake was measured at 1 and 6 months postpartum. At 1 month postpartum, 92.5% of subjects were exclusively or predominantly breastfeeding. Daily infant milk intake was 756 mL in the albendazole group and 774 mL in the placebo group, which was not statistically different. A 6 months of age, only 10% of each group was exclusively or predominantly breastfeeding. Their infants’ milk intakes were not statistically different."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Mebendazole"
+  ]
+ ]
+}

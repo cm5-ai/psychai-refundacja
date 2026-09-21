@@ -1,0 +1,38 @@
+{
+ "id": "LM1097",
+ "tytul": "Nitroprusside",
+ "synonimy": [
+  "Nitroprusside",
+  "Nitroferricyanide",
+  "Sodium nitroprusside",
+  "UNII-169D1260KM",
+  "169D1260KM",
+  "azanylidyneoxidanium",
+  "iron(2+)",
+  "pentacyanide"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1097/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Breastmilk levels of nitroprusside sodium have not been measured after exogenous administration. Because of its short half-life of 2 minutes, it is unlikely to appear in breastmilk. However, its toxic metabolite, thiocyanate, is excreted into milk and can be directly toxic to the infant as well as inhibiting iodide transport into breastmilk. Cyanide is another toxic metabolite of nitroprusside that may enter breastmilk. An alternate drug is therefore preferred during breastfeeding. If use of nitroprusside sodium is unavoidable, the mother should refrain from breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Nitroprusside is converted with a half-life of about 2 minutes to cyanide and then to thiocyanate in the body. Both of these metabolites have longer half-lives: 7.3 hours for cyanide and an estimated 3 days to 2 weeks for thiocyanate.\nMaternal Levels. An older study found that thiocyanate passed into human breastmilk in concentrations from 27% to 50% of maternal serum levels. A later study found milk levels to range from 16% to 42% of maternal plasma levels. A 2004 study found values ranging from 42% to 82%, while a more recent study reported fractional excretion of thiocyanate that ranged between 1.4-14.4%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Several studies have found that breastmilk iodine levels are inversely related to the mothers' blood thiocyanate levels, probably through inhibition of the Na/I symporter by thiocyanate. However, a recent study failed to demonstrate such a correlation. The authors felt that the effect of thiocyanate on iodine transport may be less pronounced than previously reported. These low breastmilk iodine levels might pose a risk of hypothyroidism to breastfed infants whose mothers have low iodine intake."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Candesartan, Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Hydralazine, Hydrochlorothiazide, Methyldopa, Propranolol"
+  ]
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "LM756",
+ "tytul": "Acetylcholine",
+ "synonimy": [
+  "acetylcholine",
+  "Choline acetate",
+  "Acetylcholinum",
+  "Acetyl choline ion",
+  "Acetyl choline cation",
+  "Choline acetate (ester)",
+  "(2-Acetoxyethyl)trimethylammonium",
+  "UNII-N9YNS0M02X",
+  "N9YNS0M02X",
+  "2-(Acetyloxy)-N,N,N-trimethylethanaminium",
+  "EINECS 200-128-9",
+  "BRN 1764436",
+  "51-84-3",
+  "ethanaminium, 2-(acetyloxy)-N,N,N-trimethyl-",
+  "Ach",
+  "4-04-00-01446 (Beilstein Handbook Reference)",
+  "Ethanaminium, 2-(acetyloxy)-N,N,N-trimethyl- (9CI)"
+ ],
+ "zaktualizowano": "2021-04-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM756/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of acetylcholine ophthalmic drops during breastfeeding. Because of its short half-life, it is not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. In animals, cholinergic drugs increase oxytocin release, and have variable effects on serum prolactin. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

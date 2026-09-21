@@ -1,0 +1,48 @@
+{
+ "id": "LM836",
+ "tytul": "Adefovir",
+ "synonimy": [
+  "ADEFOVIR",
+  "PMEA",
+  "106941-25-7",
+  "9-(2-Phosphonylmethoxyethyl)adenine",
+  "((2-(6-Amino-9H-purin-9-yl)ethoxy)methyl)phosphonic acid",
+  "GS 0393",
+  "GS-0393",
+  "GS 393",
+  "UNII-6GQP90I798",
+  "Adefovir [USAN:INN:BAN]",
+  "9-(2-(Phosphonomethoxy)ethyl)adenine",
+  "DRG-0156",
+  "HSDB 8079",
+  "N-(2-Phosphonylmethoxyethyl)adenine",
+  "6GQP90I798",
+  "BRN 3561094",
+  "N-(2-Phophonomethoxyethyl-2,6-diaminopurine)",
+  "Phosphonic acid, ((2-(6-amino-9H-purin-9-yl)ethoxy)methyl)-"
+ ],
+ "zaktualizowano": "2020-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM836/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Adefovir has not been studied in nursing mothers being treated for hepatitis B infection. An alternate drug may be preferred, especially while nursing a newborn or preterm infant.\nNo differences exist in infection rates between breastfed and formula-fed infants born to hepatitis B-infected women, as long as the infant receives hepatitis B immune globulin and hepatitis B vaccine at birth. Mothers with hepatitis B are encouraged to breastfeed their infants after their infants receive these preventative measures."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis B) Interferon Alfa, Lamivudine, Tenofovir"
+  ]
+ ]
+}

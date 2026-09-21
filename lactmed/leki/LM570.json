@@ -1,0 +1,40 @@
+{
+ "id": "LM570",
+ "tytul": "Dicyclomine",
+ "synonimy": [
+  "dicyclomine",
+  "Bentyl",
+  "Dicycloverin",
+  "Dicycloverine",
+  "Bentylol",
+  "Dicicloverina",
+  "Diocyl",
+  "Wyovin",
+  "Di-syntramine",
+  "Dicycloverinum",
+  "UNII-4KV4X8IF6V",
+  "HSDB 3058",
+  "EINECS 201-009-4",
+  "2-(diethylamino)ethyl 1-cyclohexylcyclohexane-1-carboxylate"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM570/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Dicyclomine has not been well studied during breastfeeding. However, one possible case of apnea has been reported in a breastfed infant that is similar to reactions that have occurred in infants given the drug directly. Dicyclomine should not be used during lactation."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date. However, the manufacturer reported a mother who was given a single 20 mg dose of dicyclomine orally. Two hours after the dose, the concentration in breastmilk was 131 mcg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date. The manufacturer reported a breastfed infant who developed apnea during maternal therapy with dicyclomine. Dicyclomine is a possible cause of the reaction."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. Anticholinergics can inhibit lactation in animals, apparently by inhibiting growth hormone and oxytocin secretion. Anticholinergic drugs can also reduce serum prolactin in nonnursing women. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

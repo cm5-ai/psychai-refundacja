@@ -1,0 +1,62 @@
+{
+ "id": "anidulafungin",
+ "tytul": "Anidulafungin",
+ "synonimy": [
+  "Anidulafungin",
+  "Eraxis",
+  "Ecalta",
+  "V-Echinocandin",
+  "LY303366",
+  "VER-002",
+  "LY-303366",
+  "VER002",
+  "SCHEMBL38292",
+  "CHEBI:55346",
+  "9HLM53094I",
+  "D70013",
+  "D-70013",
+  "Anidulafungina",
+  "Anidulafungine",
+  "Anidulafunginum",
+  "UNII-9HLM53094I",
+  "CHEMBL264241",
+  "BDBM50417554",
+  "MFCD00917070",
+  "s4286",
+  "CCG-270647",
+  "CS-1824",
+  "DB00362",
+  "NCGC00386349-01",
+  "HY-13553",
+  "SW222238-1",
+  "A13436",
+  "EN300-19769052",
+  "J-010304",
+  "Q4764531",
+  "N-[(3S,6S,9S,11R,15S,18S,20R,21R,24S,25S,26S)-6-[(1S,2S)-1,2-dihydroxy-2-(4-hydroxyphenyl)ethyl]-11,20,21,25-tetrahydroxy-3,15-bis[(1R)-1-hydroxyethyl]-26-methyl-2,5,8,14,17,23-hexaoxo-1,4,7,13,16,22-hexazatricyclo[22.3.0.09,13]heptacosan-18-yl]-4-[4-(4-pentoxyphenyl)phenyl]benzamide"
+ ],
+ "zaktualizowano": "2024-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/anidulafungin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of anidulafungin in breastmilk, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants. If anidulafungin is required by the mother, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A postpartum woman was treated with intravenous anidulafungin 100 mg once daily for 14 days. Nine milk samples were obtained over the first 32 hours after the drug was discontinued. Five hours after drug was discontinued, the milk concentration of anidulafungin was 0.24 mg/L. The concentration decreased to 0.12 mg/L at 32 hours after the dose and was undetectable in milk at 38 and 48 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A postpartum woman was treated with intravenous anidulafungin 100 mg once daily for 14 days. She withheld breastfeeding until the second day after completing her 14-day course of therapy. Her milk had detectable anidulafungin levels until 32 hours after the last dose. No gastrointestinal or other adverse effects were seen in the infant up to 72 hours after the last dose of drug."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Fluconazole, Miconazole"
+  ]
+ ]
+}

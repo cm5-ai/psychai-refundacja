@@ -1,0 +1,40 @@
+{
+ "id": "brexucabtagene_auto",
+ "tytul": "Brexucabtagene Autoleucel",
+ "synonimy": [
+  "Brexucabtagene Autoleucel",
+  "Tecartus",
+  "CAR-T Cell Therapy",
+  "Chimeric antigen receptor T-cells",
+  "UNII-4MD2J2T8SJ",
+  "KTE-X19",
+  "KTE X19",
+  "KTEX19",
+  "CHEMBL4594618",
+  "D11880"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/brexucabtagene_auto/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of brexucabtagene autoleucel during breastfeeding nor on breastfeeding after CAR-T cell therapy with brexucabtagene autoleucel. However, some information on other agents indicates that breastfeeding might be acceptable after CAR-T cell therapy. If breastfeeding is attempted following brexucabtagene autoleucel CAR T-cell therapy, infants should be monitored carefully, particularly with B- and T-cell counts and immunoglobulin (IgA, IgG and IgM) blood levels."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Axicabtagene Ciloleucel"
+  ]
+ ]
+}

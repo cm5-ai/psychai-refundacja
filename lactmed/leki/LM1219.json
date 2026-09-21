@@ -1,0 +1,43 @@
+{
+ "id": "LM1219",
+ "tytul": "Ondansetron",
+ "synonimy": [
+  "ondansetron",
+  "Zofran",
+  "Zophren",
+  "Zudan",
+  "Zuplenz",
+  "UNII-4AF302ESOS",
+  "GR 38032X",
+  "GR 38032",
+  "HSDB 8304",
+  "BRN 3622981",
+  "Odansetron",
+  "BRN 3622981",
+  "DTXSID8023393",
+  "A04AA01",
+  "EUR-1025",
+  "NSC-757870",
+  "9-methyl-3-[(2-methylimidazol-1-yl)methyl]-2,3-dihydro-1H-carbazol-4-one"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1219/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ondansetron is frequently used for nausea during and after cesarean section, usually in doses of 4 to 8 mg intravenously. Use during and after cesarean section appears to not affect the onset of breastfeeding. No adverse infant effects have been reported in this setting or among women who received ondansetron postpartum in a pharmacokinetic study. Use of ondansetron in nursing mothers beyond the immediate postpartum setting has not been studied well, but the drug is labeled for use in infants as young as 1 month of age. A computer model demonstrated that the amounts in milk are much less than this dose. No special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A pharmacokinetic study was performed using opportunistic sampling of a convenience sample of 78 lactating women receiving intravenous ondansetron for the treatment of post-operative nausea and vomiting in a median dose of ondansetron of 4 mg (range 4 to 8 mg). The 78 women included in the analysis contributed a total of 67 plasma samples and 53 usable milk samples. Using the average milk concentration over 24 hours, the daily infant dose was estimated to be 0.002 mg/kg and the RID was 3.7% of a weight-adjusted single maternal dose of 4 mg. These data were used to build a computer model to simulate ondansetron levels in breastmilk. After optimizing the model, the median peak milk concentration was predicted to be 20.2 mcg/L at 0.5 hours after a 4 mg intravenous dose at 2 days postpartum. The estimated daily infant dosage was 5 mcg/kg, which translated into a relative infant dose of 3.3% of the maternal weight-adjusted dosage and was 1.6% of the standard dosage given to infants.\nInfant Levels. A pharmacokinetic study was performed using opportunistic sampling of a convenience sample of 78 lactating women receiving intravenous ondansetron for the treatment of post-operative nausea and vomiting in a median dose of ondansetron of 4 mg (range 4 to 8 mg). Among the 20 infant plasma samples that were collected, 7 were below the limit of quantification. Among the 13 infants with a quantifiable plasma concentration, the median concentration was 0.78 mcg/L (range 0 to 7.2) mcg/L. The highest observed concentration among these 13 infants was approximately 10% of the median peak concentration (76.6 mcg/L) observed in an open-label, single-dose pharmacokinetic study conducted in pediatric surgical patients aged 1 to 24 months who received a single 0.1 mg/kg dose of intravenous ondansetron."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a pharmacokinetic study of 78 women who received ondansetron intravenously postpartum, no adverse effects were reported in their breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A randomized, double-blind study compared placebo to intravenous ondansetron 4 mg given after cesarean section as prophylaxis for postoperative nausea and vomiting. There was no difference in the time of the first breastfeeding between the two groups.\nIn a retrospective study of women undergoing cesarean section deliveries, 3 regimens were compared: dexmedetomidine before anesthesia and during delivery (n = 115), normal saline before anesthesia and during delivery and dexmedetomidine after delivery (n = 109), and normal saline before anesthesia and during delivery (n = 168). All women received ondansetron 4 mg as needed and before removal of sutures. The average total amount of ondansetron consumed in the women ranged from 6 mg to 9 mg in the various groups. The time to first production of milk was similar in all groups (25 to 28 minutes)."
+  ]
+ ]
+}

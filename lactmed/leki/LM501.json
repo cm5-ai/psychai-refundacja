@@ -1,0 +1,50 @@
+{
+ "id": "LM501",
+ "tytul": "Neostigmine",
+ "synonimy": [
+  "Neostigmine",
+  "Prostigmine",
+  "Eustigmine",
+  "Eustigmin",
+  "Vagostigmine",
+  "Prostigmin",
+  "Intrastigmina",
+  "Neostigminum",
+  "Juvastigmin",
+  "Neostigmin",
+  "UNII-3982TWQ96G",
+  "BRN 3615946",
+  "CHEBI:7514",
+  "CHEMBL278020",
+  "DTXSID1023360",
+  "HMDB0015472",
+  "Prozerin",
+  "Synstigmin",
+  "Proserine",
+  "[3-(dimethylcarbamoyloxy)phenyl]-trimethylazanium"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM501/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that use of neostigmine to treat myasthenia gravis may be acceptable during breastfeeding, although pyridostigmine may be preferred. Monitor newborns because abdominal cramps after each breastfeeding has been reported. Because of its short half-life, single doses of neostigmine to reverse neuromuscular blockade following surgery are unlikely to adversely affect the breastfed infant more than transiently."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In a case series of 12 patients with 21 pregnancies in the 1950s and 1960s, the authors could not detect neostigmine in the breastmilk of several of the mothers. However, details of the dosage, timing and assay sensitivity were not stated.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Six infants of mothers treated with neostigmine for myasthenia gravis were reportedly breastfed successfully. One newborn infant appeared to have abdominal cramps after each breastfeeding, probably caused by neostigmine, although it could not be detected in the breastmilk of the infant's mother."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. In animals, cholinergic drugs increase oxytocin release, and have variable effects on serum prolactin. The prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nA study compared neostigmine to sugammadex in their effects on lactation-related hormones in women undergoing cesarean section surgery under general anesthesia. Both groups showed significant decreases in progesterone and estradiol levels after surgery compared to preoperative values; however, the sugammadex group exhibited a significantly greater decrease. Aldosterone levels reached their highest point at the end of surgery, but by 4 hours later they were lower than before surgery, especially in the sugammadex group. Cortisol showed a temporary postoperative elevation, whereas prolactin and oxytocin levels rose in both groups, with no significant intergroup variations."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Pyridostigmine"
+  ]
+ ]
+}

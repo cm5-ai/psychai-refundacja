@@ -1,0 +1,35 @@
+{
+ "id": "casirivimab",
+ "tytul": "Casirivimab",
+ "synonimy": [
+  "Casirivimab",
+  "REGEN-COV",
+  "REGN-10933",
+  "REGN10933",
+  "UNII-J0FI6WE1QN"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/casirivimab/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The distribution of casirivimab and imdevimab was stopped in the US in January of 2022 because of a lack of efficacy against COVID-19 variants. Because casirivimab is a large protein molecule, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Casirivimab is a monoclonal antibody given together with imdevimab. Both are directed against the SARS-CoV-2 virus that causes COVID-19. Casirivimab and imdevimab transiently increased anti-receptor-binding domain IgG titers in one woman."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Maternal Levels. A nursing mother received the Pfizer-BioNTech COVID-19 vaccine about 1.8 months postpartum followed by the second dose in the primary series. From 60 day postpartum, she had a poor IgG antibody response against the receptor binding domain to the vaccine compared to a matched control woman. At day 216 postpartum, she tested positive for SARS-CoV-2 and on day 222, she received an intravenous infusion of casirivimab 600 mg and imdevimab 600 mg. Her milk anti-receptor-binding domain IgG titers increased markedly before returning to her baseline at about 560 days postpartum.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "An unvaccinated Japanese woman who was 36 weeks and 6 days pregnant developed COVID-19 and was given an intravenous dose of casirivimab and imdevimab (Ronapreve) for her COVID-19 infection. Her infant was born 5 days later and separated from her. Approximately 10 days after the dose, she began breastfeeding her infant. At 30 days of age, the infant was in good health."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nirmatrelvir, Remdesevir"
+  ]
+ ]
+}

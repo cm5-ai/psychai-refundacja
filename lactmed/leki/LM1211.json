@@ -1,0 +1,30 @@
+{
+ "id": "LM1211",
+ "tytul": "Nitrogen-13",
+ "synonimy": [
+  "Nitrogen-13",
+  "Nitrogen, isotope of mass 13",
+  "Nitrogen, isotope of mass 13, at.",
+  "13981-22-1"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1211/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of nitrogen-13 radiopharmaceuticals as diagnostic agents. International guidelines state that breastfeeding need not be interrupted after administration of radiopharmaceuticals containing nitrogen-13."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Nitrogen N 13 decays by positron emission, emitting gamma photon with an energy of 511 keV. It has a physical half-life of 9.96 minutes."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

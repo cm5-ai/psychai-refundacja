@@ -1,0 +1,39 @@
+{
+ "id": "LM745",
+ "tytul": "Doxazosin",
+ "synonimy": [
+  "doxazosin",
+  "Doxazosine",
+  "Doxazosina",
+  "Doxazosinum",
+  "UNII-NW1291F1W8",
+  "UK 33274",
+  "NW1291F1W8",
+  "EC 616-059-6",
+  "[4-(4-amino-6,7-dimethoxyquinazolin-2-yl)piperazin-1-yl]-(2,3-dihydro-1,4-benzodioxin-3-yl)methanone"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM745/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of 4 mg daily produce low very levels in milk and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman who was nursing a 6-month-old infant received 2 doses of doxazosin 4 mg 24 hours apart. Four milk samples were obtained after the second dose. A peak milk level of 4.2 mcg/L occurred at 1 hour after the dose. The average concentration over the 18-hour study period was 2.9 mcg/L. The authors estimated that a fully breastfed infant would receive an average daily dosage of 440 ng/kg daily or about 0.6% of the maternal weight-adjusted dosage.\nA woman with pheochromocytoma during pregnancy was treated near term with doxazosin and metoprolol. She continued doxazosin for 3 days postpartum until adrenal surgery. Thirty hours after her last dose of 8 mg of doxazosin, the drug was undetectable (<25 mcg/L) in her breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. However, the pharmacologically similar drug prazosin does not affect serum prolactin concentration in patients with hypertension, indicating that doxazosin may not affect prolactin levels. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs",
+   "(Hypertension) Candesartan, Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Hydrochlorothiazide, Methyldopa, Propranolol"
+  ]
+ ]
+}

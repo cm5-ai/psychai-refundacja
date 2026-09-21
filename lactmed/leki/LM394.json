@@ -1,0 +1,47 @@
+{
+ "id": "LM394",
+ "tytul": "Vancomycin",
+ "synonimy": [
+  "VANCOMYCIN",
+  "Vancocin",
+  "Vancoled",
+  "Vancomycinum",
+  "Vancomicina",
+  "Vancomycine",
+  "Vancomycine [INN-French]",
+  "Vancomycinum [INN-Latin]",
+  "Vancomicina [INN-Spanish]",
+  "UNII-6Q205EH1VU",
+  "Vancomycin [USP:INN:BAN]",
+  "HSDB 3262",
+  "6Q205EH1VU",
+  "1404-90-6",
+  "EINECS 215-772-6",
+  "(3S-(3R*,6S*(S*),7S*,22S*,23R*,26R*,36S*,38aS*))-3-(2-Amino-2-oxoethyl)-44-((2-O-(3-amino-2,3,6-trideoxy-3-C-methyl-alpha-L-lyxo-hexopyranosyl)-beta-D-glucopyranosyl)oxy)-10,19-dichloro-2,3,4,5,6,7,23,24,25,26,36,37,38,38a-tetradecahydro-7,22,28,30,32-pentahydroxy-6-((4-methyl-2-(methylamino)-1-oxopentyl)amino)-2,5,24,38,39-pentaoxo-22H-8,11:18,21-dietheno-23,36-(iminomethano)-13,16:31,35-dimetheno-1H,16H-(1,6,9)oxadiazacyclohexadecino(4,5-m)(10,2,16)-benzoxadiazacyclotetracosine-26-carboxylic acid",
+  "(Sa)-(3S,6R,7R,22R,23S,26S,36R,38aR)-44-((2-O-(3-Amino-2,3,6-trideoxy-3-C-methyl-alpha-L-lyxo-hexopyranosyl)-beta-D-glucopyranosyl)oxy)-3-(carbamoylmethyl)-10,19-dichloro-2,3,4,5,6,7,23,24,25,26,36,37,38,38a-tetradecahydro-7,22,28,30,32-pentahydroxy-6-((2R)-4-methyl-2-(methylamino)valeramido)-2,5,24,38,39-pentaoxo-22H-8,11:18,21-dietheno-23,36-(iminomethano)-13,16:31,35-dimetheno-1H,16H-(1,6,9)oxadiazacyclohexadecino(4,5-m)(10,2,16)-benzoxadiazacyclotetracosine-26-carboxylic acid"
+ ],
+ "zaktualizowano": "2022-06-20",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM394/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that vancomycin produces low levels in milk and because vancomycin is poorly absorbed orally, it is not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. No special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A single colostrum vancomycin level of 12.7 mg/L was found 4 hours after the end of the infusion of vancomycin 1 gram intravenously given every 12 hours in one woman. Her colostrum was obtained after delivery at a gestational age of about 35 to 38 weeks. Assuming that the colostrum level is a peak level, an exclusively breastfed infant would receive a maximum of 1.9 mg/kg daily by mouth in breastmilk. The amount in mature milk might be lower. This dose is only about 4.8% of the oral vancomycin dose of 40 mg/kg daily used to treat Clostridioides difficile infection of the bowel in infants.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Clindamycin, Daptomycin, Doxycycline, Linezolid, Trimethoprim-Sulfamethoxazole"
+  ]
+ ]
+}

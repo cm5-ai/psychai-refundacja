@@ -1,0 +1,40 @@
+{
+ "id": "LM662",
+ "tytul": "Raltegravir",
+ "synonimy": [
+  "Raltegravir",
+  "Isentress",
+  "UNII-22VKV8053U",
+  "HSDB 8124",
+  "MK 0518",
+  "DTXSID2048660",
+  "HSDB 8124",
+  "DTXCID5028586",
+  "CHEBI:82960",
+  "N-[2-[4-[(4-fluorophenyl)methylcarbamoyl]-5-hydroxy-1-methyl-6-oxopyrimidin-2-yl]propan-2-yl]-5-methyl-1,3,4-oxadiazole-2-carboxamide"
+ ],
+ "zaktualizowano": "2025-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM662/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of up to 1200 mg daily of raltegravir produce low levels in milk and infant serum and would not be expected to cause any adverse effects in breastfed infants. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman infected with HIV was receiving raltegravir 800 mg, emtricitabine 200 mg and tenofovir disoproxil 245 mg once daily. She exclusively breastfed her infant for 4 months, then partially until 9 months postpartum. Breastmilk samples were taken over 12- to 24-hour periods at 4 and 8 months postpartum. At 4 months postpartum, the average milk concentration over 12 hours was 0.66 mg/L with an estimated daily infant dose of 0.099 mg/kg or 0.8% of the approved daily raltegravir dosage for infants. At 8 months postpartum, a peak milk level of about 6 mg/L occurred at about 6 hours after the dose. The level fell to about 0.3 mg/L at 24 hours after the dose.\nMilk samples were obtained from 10 mothers taking raltegravir either 400 mg twice daily or 1200 mg once daily. Three milk samples were obtained from others taking 400 mg twice daily at a median of 3.6 hours after a dose. The median drug concentration in milk was 1635 mcg/L, which resulted in an estimated infant dosage of 0.25 mg/kg daily and a relative infant dose of 4.1% of the maternal weight-adjusted dosage. Mothers taking raltegravir 1200 mg once daily provided 14 milk samples at a median of 13.7 hours after a dose. The median drug concentration in milk was 111 mcg/L, which resulted in an estimated infant dosage of 20 mcg/kg daily and a relative infant dose of 0.28% of the maternal weight-adjusted dosage.\nIn a retrospective study in a German hospital of mothers who were receiving antiretroviral prophylaxis, one mother was receiving raltegravir 400 mg twice daily. Breastmilk levels obtained at unspecified times with respect to the dose were 1757 mcg/L at 14 days postpartum, 293 mcg/L at 1 month postpartum and 168 mcg/L at 4 months postpartum.\nInfant Levels. A woman infected with HIV was receiving raltegravir 800 mg, emtricitabine 200 mg and tenofovir disoproxil 245 mg once daily. She exclusively breastfed her infant for 4 months, then partially until 9 months postpartum. Single blood samples taken from the infant at 4 hours after a maternal dose at 4 and 8 months postpartum were below the lower limit of quantification (0.01 mg/L) of the assay.\nAn infant was breastfed by a mother taking raltegravir 400 mg twice daily, although the extent of breastfeeding was not sated. The infant’s serum concentrations taken 2 hours after maternal drug intake at 1 month of age was 21 mcg/L. Another 6 infants were breastfed by mothers taking raltegravir 1200 mg once daily, although the extent of breastfeeding was not sated. Infant serum concentrations taken between 11 and 19 hours after maternal drug intake at 1 month of age were undetectable in 5 infants and 14 mcg/L in one.\nIn a retrospective study in a German hospital, one mother who was receiving raltegravir 400 mg twice daily exclusively breastfed her infant. Infant serum concentrations obtained at unspecified times at 2 weeks and 1 and 4 months of age were all <75 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Lamivudine, Nelfinavir, Nevirapine, Zidovudine"
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "tisagenlecleucel",
+ "tytul": "Tisagenlecleucel",
+ "synonimy": [
+  "Tisagenlecleucel",
+  "Kymriah",
+  "CAR-T Cell Therapy",
+  "Chimeric antigen receptor T-cells",
+  "UNII-Q6C9WHR03O",
+  "CART-19",
+  "CTL019",
+  "CART19",
+  "CTL-019",
+  "Cytotoxic T cell Tisagenlecleucel-T",
+  "tisagenlecleucelum",
+  "CHEMBL3301574",
+  "DB13881",
+  "D11386",
+  "HY-P99338"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/tisagenlecleucel/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of tisagenlecleucel during breastfeeding nor on breastfeeding after CAR-T cell therapy with tisagenlecleucel. However, some information on other agents indicates that breastfeeding might be acceptable after CAR-T cell therapy. If breastfeeding is attempted following tisagenlecleucel CAR T-cell therapy, infants should be monitored carefully, particularly with B- and T-cell counts and immunoglobulin (IgA, IgG and IgM) blood levels."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Axicabtagene Ciloleucel"
+  ]
+ ]
+}

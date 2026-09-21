@@ -1,0 +1,37 @@
+{
+ "id": "LM581",
+ "tytul": "Interferon Alfacon-1",
+ "synonimy": [
+  "Advaferon",
+  "Infergen",
+  "Interferon alfacon-1",
+  "IFN-Con1",
+  "Interferon-alpha Con 1",
+  "UNII-56588OP40D",
+  "N-L-Methionyl-22-L-arginine-76-L-alanine-78-L-aspartic acid-79-L-glutamic acid-86-L-tyrosine-90-L-tyrosine-156-L-threonine-157-L-asparagine-158-L-leucineinterferon alpha1 (human lymphoblast reduced)"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM581/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "There are no data on the use of interferon alfacon-1 during breastfeeding. However, the amounts of the similar drugs, interferon alfa and interferon beta-1a, excreted into milk are very low. Any interferon in breastmilk is probably destroyed in the infant’s gastrointestinal tract and not absorbed, except perhaps in neonates.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis B) Lamivudine, Tenofovir; (Hepatitis C) Interferon Alfa, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "LM303",
+ "tytul": "Quinine",
+ "synonimy": [
+  "Quinine",
+  "Chinin",
+  "Chinine",
+  "(-)-Quinine",
+  "Quinine anhydrous",
+  "(8S,9R)-Quinine",
+  "Chinin [German]",
+  "6-Methoxycinchonine",
+  "130-95-0",
+  "Quinine [BAN:NF]",
+  "UNII-A7V27PHC7A",
+  "6'-Methoxycinchonan-9-ol",
+  "A7V27PHC7A",
+  "CCRIS 5755",
+  "HSDB 2501",
+  "Cinchonan-9-ol, 6'-methoxy-",
+  "(8S,9R)-6'-Methoxycinchonan-9-ol",
+  "NSC 192949",
+  "NSC 5362",
+  "EINECS 205-003-2",
+  "(8-alpha,9R)-6'-Methoxycinchonan-9-ol",
+  "(R)-(-)-Quinine, 6-methoxycinchonidine",
+  "Cinchonan-9-ol, 6'-methoxy-, (8alpha,9R)-",
+  "EC 205-003-2",
+  "Cinchonan-9-ol, 6'-methoxy-, (8-alpha,9R)-",
+  "2-Quinuclidinemethanol, alpha-(6-methoxy-4-quinolyl)-5-vinyl-"
+ ],
+ "zaktualizowano": "2020-02-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM303/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of quinine in breastmilk, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants. The dosage in milk is far below those required to treat an infant for malaria. However, quinine should not be used in mothers with an infant who is glucose-6-phosphate dehydrogenase (G6PD) deficient. Even the relatively small amounts of quinine in tonic water ingested by the mother have caused hemolysis in G6PD-deficient infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. One old study measured quinine levels in the milk of 6 women at varying times after 2 to 3 doses of 300 or 640 mg of quinine. Milk levels ranged from traces to 4.4 mg/L, with an average of about 0.8 mg/L. The time of peak milk levels varied from 1.5 to 6.4 hours after the dose.\nAn unpublished study found that milk levels approximated one-third of simultaneous plasma levels. The author estimated that an infant would receive 1.5 to 3 mg daily of quinine base with maternal treatment.\nOne group of investigators studied 30 women who received quinine while breastfeeding intravenously or orally. Two publications reported data from the same group of women. In one paper, the milk levels reported after intravenous quinine appeared to be the levels following oral quinine and vice versa. This was apparently corrected in the later publication which is summarized as follows: twenty-five women received quinine sulfate 600 mg every 8 hours orally for 7 days had random breastmilk quinine levels averaging 2.6 mg/L (range 0.5 to 3.6 mg/L). In 3 of the women who had just initiated lactation, colostrum levels were 0.4, 0.9 and 1.9 mg/L. Five women who received a daily dosage of quinine dihydrochloride 10 mg/kg (8.3 mg/kg of quinine base) intravenously for 2 to 7 doses had random breastmilk quinine levels averaging 3.4 mg/L (range 0.5 to 8 mg/L).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Four breastfed infants of 3 mothers, 3 boys and 1 girl (one set of twins) developed severe hemolysis following maternal ingestion of beverages containing quinine (e.g., tonic water). All infants had low levels of G6PD and were jaundiced on admission. Cessation of breastfeeding and tonic water and phototherapy and/or transfusion resolved the jaundice. One of the infants who was severely jaundiced had abnormal brainstem automatized evoked potentials at discharge. At 4 months of age he had a slight decrease in reactivity and a profound bilateral deafness. The breastmilk of one of the mothers was qualitatively positive for quinine. The hemolysis was probably caused by quinine in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Chloroquine, Hydroxychloroquine"
+  ]
+ ]
+}

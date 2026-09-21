@@ -1,0 +1,37 @@
+{
+ "id": "LM1135",
+ "tytul": "Sodium Fluoride F 18",
+ "synonimy": [
+  "Sodium fluoride F 18",
+  "Sodium 18F-fluoride",
+  "Sodium fluoride-18F",
+  "Sodium fluoride (Na18F)",
+  "18F-NaF",
+  "F-18 NaF",
+  "UNII-9L75099X6R",
+  "Fluorine F 18 sodium fluoride",
+  "Sodium fluoride f 18 [USP]",
+  "Fluorine 18-labeled sodium fluoride",
+  "9L75099X6R"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1135/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of sodium fluoride F 18 as a diagnostic agent. The manufacturer recommends withholding breastfeeding for 24 hours after a diagnostic dose of 300-450 MBq (8 to 12 mCi); however, this time might be longer than necessary given the minimal amount of fluoride that appears in breastmilk. Twenty-four hours is about 10 half-lives of fluoride F 18 and less than 0.01% of the radioactivity administered will remain in the body. The mother can nurse just before administration of the radiopharmaceutical. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at background levels, they may safely resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "F18 is a positron emitter with a principal decay energy of 0.6335 MeV, annihilation photons of 0.511 MeV, and a physical half-life of 1.8 hours and 0.07% of an administered dose appears in breastmilk.\nMaternal Levels. A study in one mother who received an oral dose of 25 mg of nonradioactive sodium fluoride found that milk fluoride concentrations closely paralleled maternal serum fluoride concentration at 21 to 32% of maternal serum levels over an 8-hour period. The authors estimated that this represents only 0.2% of the dose given to the mother.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

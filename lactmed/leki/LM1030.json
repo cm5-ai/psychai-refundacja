@@ -1,0 +1,35 @@
+{
+ "id": "LM1030",
+ "tytul": "Palivizumab",
+ "synonimy": [
+  "Palivizumab",
+  "Synagis",
+  "UNII-DQ448MW7KS",
+  "DQ448MW7KS",
+  "MEDI 493",
+  "HSDB 8178",
+  "Immunoglobulin G 1 (human-mouse monoclonal MEDI-493gamma1-chain antirespiratory syncytial virus protein F), disulfide with human-mouse monoclonal MEDI-493kappa1-chain, dimer",
+  "Immunoglobulin G1 (human-mouse monoclonal MEDI-493 gamma1-chain anti-respiratory syncytial virus protain F), disulfide with human-mouse monoclonal MEDI-493 kappa-chain, dimer",
+  "Immunoglobulin G1, anti-(respiratory syncytial virus protein F) (human-mouse monoclonal MEDI-493 gamma1-chain), disulfide with human-mouse monoclonal MEDI-493 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1030/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of palivizumab during breastfeeding. Because palivizumab is a large protein molecule with a molecular weight of about 148,000 Da, the amount in milk is likely to be very low. Palivizumab appears to be degraded in the infant’s gastrointestinal tract by about 20% after 1 hour and up to 36% at 2 hours in one study and 50 to 62% in others. Normal maternal milk antibodies against respiratory syncytial virus are not degraded under the same conditions. Absorption of the undigested antibodies by the infant is probably minimal."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

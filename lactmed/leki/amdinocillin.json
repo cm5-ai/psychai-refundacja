@@ -1,0 +1,74 @@
+{
+ "id": "amdinocillin",
+ "tytul": "Amdinocillin",
+ "synonimy": [
+  "Amdinocillin",
+  "Pivmecillinam",
+  "Pivmecilinamo",
+  "Pivmecillinamum",
+  "Mecillinam",
+  "Selexid",
+  "Pivmecillinamum [INN-Latin]",
+  "Ro 10-9071",
+  "1WAM1OQ30B",
+  "Amdinocillin pivoxil",
+  "RO-10-9071",
+  "CHEBI:51210",
+  "Coactabs",
+  "FL-1039",
+  "NCGC00016813-01",
+  "UNII-1WAM1OQ30B",
+  "SR-01000838842",
+  "EINECS 251-276-6",
+  "Prestwick0_001053",
+  "Prestwick1_001053",
+  "Prestwick2_001053",
+  "Prestwick3_001053",
+  "SCHEMBL33907",
+  "SCHEMBL33908",
+  "BSPBio_001006",
+  "SPBio_002933",
+  "BPBio1_001108",
+  "CHEMBL1525183",
+  "CHEMBL1616433",
+  "CHEMBL1650818",
+  "DTXSID7048538",
+  "GTPL10922",
+  "BCP07843",
+  "HY-B0810",
+  "DB01605",
+  "Ro-109071",
+  "NCGC00179344-01",
+  "NCGC00179344-04",
+  "NCGC00179344-07",
+  "AB00514713",
+  "D02889",
+  "A918810",
+  "EN300-19766372",
+  "Q418086",
+  "SR-01000838842-2",
+  "BRD-K67100011-003-03-0",
+  "Mecillinam Pivaloyl Ester",
+  "Pivaloyl Ester, Mecillinam"
+ ],
+ "zaktualizowano": "2023-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/amdinocillin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amdinocillin (pivmecillinam; the pivaloyl ester of mecillinam) is not commercially available in the United States, but is marketed internationally. Limited information indicates that amdinocillin produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Monitor the breastfed infant for diarrhea and thrush."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four women who were 4 or 6 days postpartum were given a single 100 mg dose of amdinocillin. The drug was not detectable in breastmilk 1 or 3 hours after the dose, although the sensitivity of the assay is unknown.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

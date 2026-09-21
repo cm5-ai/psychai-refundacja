@@ -1,0 +1,53 @@
+{
+ "id": "LM94",
+ "tytul": "Diltiazem",
+ "synonimy": [
+  "diltiazem",
+  "Cardizem",
+  "Dilcontin",
+  "Dilticard",
+  "Endrydil",
+  "Anoheal",
+  "Acalix",
+  "Cardil",
+  "Dilren",
+  "Dilzen",
+  "Diltiazemum",
+  "Dilta-Hexal",
+  "Adizem",
+  "Incoril AP",
+  "Dilacor XR",
+  "Cardizem LA",
+  "UNII-EE92BBP03H",
+  "CRD-401",
+  "EE92BBP03H",
+  "HSDB 6528",
+  "EINECS 255-796-4",
+  "BRN 3573079",
+  "[(2S,3S)-5-[2-(dimethylamino)ethyl]-2-(4-methoxyphenyl)-4-oxo-2,3-dihydro-1,5-benzothiazepin-3-yl] acetate"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM94/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Based on limited data, amounts of diltiazem ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In one patient who was 14 days postpartum, peak milk levels of 190 to 230 mcg/L occurred about 2 hours after the dose during an oral regimen of 60 mg four times daily. The levels and time course of the drug in milk closely paralleled serum levels. Using the peak milk level data from this patient, an exclusively breastfed infant would receive an estimated maximum of 0.9% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nifedipine, Verapamil"
+  ]
+ ]
+}

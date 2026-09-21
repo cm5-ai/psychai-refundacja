@@ -1,0 +1,39 @@
+{
+ "id": "LM804",
+ "tytul": "Indium In 111 Pentetreotide",
+ "synonimy": [
+  "OctreoScan",
+  "Octreoscan 111",
+  "111In-Pentetreotide",
+  "Indium In 111 Pentreotide",
+  "Indium In 111 pentetreotide",
+  "UNII-M312JJ6Z32",
+  "M312JJ6Z32",
+  "MP 1727",
+  "MP-1727",
+  "Indium In 111 pentetreotide [USAN:USP]",
+  "139096-04-1",
+  "Indate (1-)-(sup 111)In,(N-(2-((2-(bis(carboxymethyl)amino)ethyl)(carboxymethyl)amino)ethyl)-N-(carboxymethyl)glycyl-D-phenylalanyl-L-cysteinyl-L-phenylalanyl-D-tryptophyl-L-lysyl-L-threonyl-N-(2-hydroxy-1-(hydroxymethyl)propyl)-L-cysteinamide cyclic (3-8)-disulfidato(4-))-, hydrogen, (R-(R*,R*))-",
+  "N-(2-((2-Bis(carboxymethyl)amino)ethyl)(carboxymethyl)amino)ethyl)-N-(carboxymethyl)glycyl-D-phenylalanyl-L-cysteinyl-L-phenylalanyl-D-tryptophyl-L-lysyl-L-threonyl-N-((1R,2R)-2-hydroxy-1-(hydroxymethyl)propyl)-L-cysteinamide, cyclic (3-8)-disulfide, ((sup 111)In)chelate"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM804/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of indium In 111 pentetreotide as a diagnostic agent. Recommendations for use in breastfeeding mothers range from no withholding of breastfeeding necessary to 60 hours after a dose of 100 to 220 MBq.\nIn some cases, imaging with indium In 111 pentetreotide is followed shortly by a therapy (peptide receptor radiotherapy; PRRT) that uses yttrium 90 or lutetium 177 compounds to selectively irradiate tumors. These agents may pose additional radiation risk to the nursing infant.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Indium 111 decays by electron capture with 173 keV and 245 keV gamma emissions and a physical half-life of 2.8 days. The maximum effective half-life of indium In 111 pentetreotide is 10 hours."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

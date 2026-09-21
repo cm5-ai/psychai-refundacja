@@ -1,0 +1,47 @@
+{
+ "id": "LM1",
+ "tytul": "Acarbose",
+ "synonimy": [
+  "acarbose",
+  "Acarbosa",
+  "Acarbosum",
+  "Glucobay",
+  "Precose",
+  "CHEBI:2376",
+  "NSC-758915",
+  "RefChem:58795",
+  "A10BF01",
+  "DTXCID301508448",
+  "UNII-T58MSI464G",
+  "Bay g 5421",
+  "BAYG5421",
+  "BAY-g 5421",
+  "HSDB 7984",
+  "EINECS 260-030-7",
+  "(2R,3R,4R,5R)-4-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,3,5,6-tetrahydroxyhexanal"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because less than 2% of a dose of acarbose is absorbed from the mother's gastrointestinal tract, it is unlikely that any drug reaches the infant through breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Colesevelam, Glipizide, Glyburide, Insulin, Metformin, Miglitol, Semaglutide, Tirzepatide"
+  ]
+ ]
+}

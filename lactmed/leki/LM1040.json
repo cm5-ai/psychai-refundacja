@@ -1,0 +1,45 @@
+{
+ "id": "LM1040",
+ "tytul": "Agalsidase Beta",
+ "synonimy": [
+  "Fabrazyme",
+  "Agalsidase beta",
+  "Alpha-galactosidase A",
+  "UNII-RZD65TSM9U",
+  "RZD65TSM9U",
+  "UNII-2HLC17MX9G",
+  "2HLC17MX9G",
+  "Galactosidase, alpha- (human Clone PGB73)",
+  "EC 3.2.1.22",
+  "Galactosidase, alpha- (human isoenzyme A reduced)",
+  "Galactosidase, alpha- (CHO cell line CTH-158 plasmid PGB86)",
+  "Galactosidase, alpha- (human clone lambdaAG18 isoenzyme A subunit protein moiety reduced)",
+  "Galactosidase, alpha-(human clone lambdaAG18 isoenzyme A subunit protein moiety reduced)",
+  "alpha-Galactosidase (human clone lambdaAG(sup 18) isoenzyme A subunit protein moiety reduced), glycoform beta",
+  "alpha-Galactosidase (human-clone lambdaAG(sup 18) isoenzyme A subunit protein moiety reduced)"
+ ],
+ "zaktualizowano": "2023-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1040/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of agalsidase beta during breastfeeding. Because it is a large protein molecule with a molecular weight of about 100,000 Da, the amount in milk is likely to be very low and absorption is unlikely because it is probably destroyed in the infant's gastrointestinal tract. Six infants who were breastfed for periods up to 12 months by mothers taking the closely related drug agalsidase alfa experienced no adverse effects associated with the drug."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Published information on agalsidase beta was not found as of the revision date. However, some information is available on the closely related drug agalsidase alfa. Six patients with Fabray disease were treated with agalsidase alfa 0.2 mg/kg every 2 weeks during pregnancy and postpartum. One infant partially breastfed for 10 months had asthma at age 4 years and an infant who was partially breastfed for 5 months had recurrent urinary tract infections up to 2 years, but was normal at the age of 5 years. Three infants who were exclusively breastfed for 6 months and partially breastfed until 12 months and one partially breastfed for 12 months were normal. None of the adverse effects appear to have been associated with agalsidase alfa."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Agalsidase Alfa"
+  ]
+ ]
+}

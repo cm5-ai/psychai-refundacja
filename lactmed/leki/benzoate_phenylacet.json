@@ -1,0 +1,54 @@
+{
+ "id": "benzoate_phenylacet",
+ "tytul": "Sodium Phenylacetate and Sodium Benzoate",
+ "synonimy": [
+  "Phenylacetic acid",
+  "phenylacetate",
+  "ammonul",
+  "FEMA No. 2878",
+  "NSC-125718’",
+  "UNII-ER5I1W795A",
+  "DTXSID2021656",
+  "CHEBI:30745",
+  "DTXCID201656",
+  "RefChem:6125",
+  "MFCD00004313",
+  "NSC 125718",
+  "BRN 1099647",
+  "AI3-08920",
+  "2-phenylacetic acid",
+  "benzoic acid",
+  "acidum benzoicum",
+  "Acide benzoique [French]",
+  "Acido benzoico [Italian]",
+  "Benzoesaeure[German]",
+  "Kyselina benzoova [Czech]",
+  "INS NO.210",
+  "DTXSID6020143",
+  "CHEBI:30746",
+  "INS-210",
+  "DTXCID80143",
+  "E-210",
+  "UNII-8SKN0B0MIM"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/benzoate_phenylacet/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Sodium phenylacetate and sodium benzoate have not been studied in nursing mothers, but sodium phenylacetate and sodium benzoate injection has been used as a treatment for acute hyperammonemia in pediatric patients in the early neonatal period. Predicted milk exposure from sodium benzoate is low. If a mother requires sodium phenylacetate and sodium benzoate, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A physiologically based pharmacokinetic model of sodium benzoate exposure of infants in utero and from breastfeeding during maternal therapy found the predicted 95th percentile of neonatal exposure to be 14% on the first day of life from intrauterine exposure and less than 3% thereafter from breastfeeding.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

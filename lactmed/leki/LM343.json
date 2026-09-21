@@ -1,0 +1,53 @@
+{
+ "id": "LM343",
+ "tytul": "Clindamycin",
+ "synonimy": [
+  "clindamycin",
+  "Chlolincocin",
+  "Clinimycin",
+  "Dalacine",
+  "Cleocin",
+  "Sobelin",
+  "Dalacin C",
+  "Clindamycinum",
+  "Clindamicina",
+  "Clindamycine",
+  "Antirobe",
+  "Klimicin",
+  "ClindaDerm",
+  "7-Chlorolincomycin",
+  "Klindan 300",
+  "7-CDL",
+  "UNII-3U02EL437C",
+  "HSDB 3037",
+  "3U02EL437C",
+  "EINECS 242-209-1",
+  "U 21251",
+  "U-21,251",
+  "(2S,4R)-N-[(1S,2S)-2-chloro-1-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-methylsulfanyloxan-2-yl]propyl]-1-methyl-4-propylpyrrolidine-2-carboxamide"
+ ],
+ "zaktualizowano": "2025-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM343/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Clindamycin has the potential to cause adverse effects on the breastfed infant's gastrointestinal flora. If a nursing mother requires oral or intravenous clindamycin, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred. Monitor the infant for possible effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.\nVaginal application is unlikely to cause infant side effects, although about 30% of a vaginal dose is absorbed. Infant side effects are unlikely with topical administration for acne; however, topical application to the breast may increase the risk of diarrhea if the infant ingests it. Only water-miscible cream, foam, gel or liquid products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two women were given clindamycin 150 mg orally. Breastmilk levels of clindamycin averaged 1.3 mg/L 4 hours after the dose.\nTwo women were treated with clindamycin 600 mg intravenously every 6 hours followed by 300 mg orally every 6 hours (time postpartum not stated). Peak milk levels after the intravenous dose were 2.65 mg/L at 3.5 hours after the dose in one and 3.1 mg/L at 30 minutes after the dose in the other. During the oral regimen, peak milk levels were 1.3 mg/L at 3.5 hours after the dose in the first woman and 1.8 mg/L at 2 hours after the dose in the other.\nFive women were given oral clindamycin 150 mg three times daily during the first 2 weeks postpartum. Milk levels were measured after at least 1 week of therapy and averaged 1.2 mg/L (range <0.5 mg/L to 3.1 mg/L) 6 hours after the dose.\nAfter a single oral dose of 150 mg of clindamycin in 2 women, milk levels averaged from 0.3 to 1.2 mg/L between 1 and 6 hours after the dose. The peak occurred at 2 hours after the dose in one woman and 4 hours after the dose in the other.\nAfter a single dose of 600 mg of clindamycin intravenously to 15 women who were 1 month postpartum, milk clindamycin levels averaged 1.03 mg/L at 2 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Bloody stools in a 5-day-old breastfed infant were possibly caused by concurrent maternal clindamycin 600 mg intravenously every 6 hours and gentamicin 80 mg intravenously every 8 hours. The infant's stools were reported to have normal flora and the stools became guaiac negative 24 hours after discontinuation of breastfeeding. On day 6 of age, the infant resumed breastfeeding after discontinuation of maternal antibiotics with no further difficulties."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Systemic infections) Amoxicillin and Clavulanic Acid, Doxycycline, Erythromycin; (Methicillin-resistant Staph. aureus) Doxycycline, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin; (Bacterial Vaginosis) Metronidazole; (Topical for Acne) Azelaic Acid, Benzoyl Peroxide, Erythromycin, Tretinoin; (Topical for Skin infections) Bacitracin, Mupirocin"
+  ]
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "id": "LM663",
+ "tytul": "Maraviroc",
+ "synonimy": [
+  "Maraviroc",
+  "Selzentry",
+  "Celsentri",
+  "UNII-MD6P741W8A",
+  "MD6P741W8A",
+  "UK-427,857",
+  "HSDB 8021",
+  "UK 427857",
+  "MVC"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM663/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Minimal information is available on the use of maraviroc during breastfeeding. An alternate agent may be preferred. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with HIV was treated with maraviroc 150 mg twice daily, lamivudine 150 mg twice daily and lopinavir 400 mg plus ritonavir 100 mg twice daily. She exclusively breastfed her infant until 6 months of age, then partially breastfed her infant until 7 months of age. At 5 months postpartum, paired maternal milk and plasma samples were obtained before a dose and at 1, 2, 4, 6, 8, and 12 hours after a dose of maraviroc. A peak milk level of 415 mcg/L occurred 2 hours after the dose. The level was almost as high at 4 hours, and then fell to less than 100 mcg/L at 12 hours after the dose. The average milk concentration was 193 mcg/L, which yields a daily infant dose of 29 mcg/kg of maraviroc. Assuming a maternal weight of 60 kg, this translates to a weight-adjusted infant dosage of 0.6%.\nInfant Levels. A woman with HIV was treated with maraviroc 150 mg twice daily, lamivudine 150mg twice daily and lopinavir 400 mg plus ritonavir 100 mg twice daily. At 5.5 months of age, a single plasma sample was obtained (time with respect to dose and nursing not stated) from the infant during exclusive breastfeeding. Maraviroc was undetectable (<2.5 mcg/L) in the infant’s plasma."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with HIV was treated with maraviroc 150 mg twice daily, lamivudine 150mg twice daily and lopinavir 400 mg plus ritonavir 100 mg twice daily. Her infant received zidovudine 4 mg/kg twice daily for 14 days at birth and was exclusively breastfed until 6 months of age, then partially breastfed until 7 months of age. Clinical and laboratory assessment at 2, 4, and 8 weeks, and 3, 6, 9, and 12 months after birth showed normal development. Full blood cell count, renal, and liver parameters remained within normal range. HIV-DNA PCR results were consistently negative, and at 12 months of age, an HIV antibody test was negative."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

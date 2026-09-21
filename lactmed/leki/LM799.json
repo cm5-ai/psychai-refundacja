@@ -1,0 +1,45 @@
+{
+ "id": "LM799",
+ "tytul": "Nifurtimox",
+ "synonimy": [
+  "NIFURTIMOX",
+  "Lampit",
+  "Nifurtimoxum",
+  "Bayer 2502",
+  "Nifurtimox [INN:BAN]",
+  "Nifurtimoxum [INN-Latin]",
+  "BAY 2502",
+  "CCRIS 2201",
+  "UNII-M84I3K7C2O",
+  "EINECS 245-531-0",
+  "M84I3K7C2O",
+  "23256-30-6",
+  "4-((5-Nitrofurfurylidene)amino)-3-methylthiomorpholine-1,1-dioxide",
+  "4-Thiomorpholinamine, 3-methyl-N-((5-nitro-2-furanyl)methylene)-, 1,1-dioxide",
+  "1-((5-Nitrofurfurylidene)amino)-2-methyltetrahydro-1,4-thiazine-4,4-dioxide",
+  "3-Methyl-4-(5'-nitrofurylidene-amino)-tetrahydro-4H-1,4-thiazine-1,1-dioxide",
+  "4-((5-Nitrofurfurylidene)amino)-3-methylthiomorpholine 1,1-dioxide",
+  "Tetrahydro-3-methyl-4-((5-nitrofurfurylidene)amino)-2H-1,4-thiazine 1,1-dioxide",
+  "Thiomorpholine, 3-methyl-4-((5-nitrofurfurylidene)amino)-, 1,1-dioxide"
+ ],
+ "zaktualizowano": "2021-12-20",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM799/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of nifurtimox up to 15 mg/kg daily produce do not cause any adverse serious effects in breastfed infants. Breastmilk levels and a computer simulation found that the dose that an exclusively breastfed infant would receive through breastmilk would be much less than the dose given to treat Chagas disease in newborn infants. Other authors consider that breastfeeding is not contraindicated during the use of nifurtimox."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A computer simulation using pharmacokinetic data from adults and assuming milk-plasma ratios of 1 resulted in an estimated median infant dose of 0.19% of the maternal weight-adjusted dosage. Assuming milk-plasma ratios of 6 resulted in an estimated maximum infant dose of 3.1% of the maternal weight-adjusted dosage.\nFour women with Chagas disease were treated with nifurtimox 10 to 15 mg/kg daily in 3 divided doses provided breastmilk samples for analysis after 4 to 10 days of therapy. The timing of the sample with respect to doses was not reported. Breastmilk concentrations of nifurtimox ranged from nonquantifiable (<0.55 mg/L) to 8.2 mg/L.\nTen women were receiving a median dose of nifurtimox of 9.75 mg/kg daily donated 1 or 2 milk samples at various times after a dose at steady state. The median nifurtimox concentration in milk was 2.15 mg/L (interquartile range 1.32 to 4.55 mg/L). The authors estimated that infants would receive a median daily dosage of 0.5 mg/kg, which is equal to a median weight-adjusted maternal dose of 6.7% (interquartile range 2.35 to 7.19%).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A cohort of 33 infants who were breastfed (extent not stated) by hospitalized mothers taking nifurtimox was followed in the Democratic Republic of the Congo. Thirty mothers took a full course of 30 doses of oral nifurtimox 15 mg/kg daily and all received 14 doses of intravenous eflornithine 400 mg/kg daily for 7 days for human African trypanosomiasis. (sleeping sickness). Nursing mothers also took a median of 4 other concomitant medications, including amoxicillin, ciprofloxacin, metronidazole, trimethoprim-sulfamethoxazole, aspirin, and diclofenac (1 patient each); hydrocortisone, promethazine and quinine (2 patients each); levamisole (6 patients); sulfadoxine-pyrimethamine (8 patients); dipyrone (13 patients); acetaminophen (16 patients); and mebendazole (17 patients). No serious adverse events were reported in any of the breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

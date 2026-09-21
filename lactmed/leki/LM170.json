@@ -1,0 +1,43 @@
+{
+ "id": "LM170",
+ "tytul": "Meropenem",
+ "synonimy": [
+  "meropenem",
+  "Merrem",
+  "Meropenemum",
+  "Meropenem anhydrous",
+  "Antibiotic SM 7338",
+  "96036-03-2",
+  "Meropenem [INN]",
+  "Merrem I.V.",
+  "UNII-YOP6PX0BAO",
+  "Meropenemum [INN-Latin]",
+  "YOP6PX0BAO",
+  "HSDB 8019",
+  "SM 7338",
+  "ICI 194660",
+  "BRN 6940582",
+  "1-Azabicyclo(3.2.0)hept-2-ene-2-carboxylic acid, 3-(((3S,5S)-5-((dimethylamino)carbonyl)-3-pyrrolidinyl)thio)-6-((1R)-1-hydroxyethyl)-4-methyl-7-oxo-, (4R,5S,6S)-",
+  "1-Azabicyclo(3.2.0)hept-2-ene-2-carboxylic acid, 3-((5-((dimethylamino)carbonyl)-3-pyrrolidinyl)thio)-6-(1-hydroxyethyl)-4-methyl-7-oxo-, (4R-(3(S*,5S*),4-alpha,5-beta,6-beta(R*)))-"
+ ],
+ "zaktualizowano": "2021-01-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM170/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although no information is available on the use of meropenem during breastfeeding, milk levels appear to be low and beta-lactams are generally not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with beta-lactams, but these effects have not been adequately evaluated. Vaborbactam, which is available in combination with meropenem in the product Vabomere, has not been studied in nursing mothers, but the combination is expected to have similar concerns as with meropenem alone."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with a history of NYHA class I heart failure was 3 days postpartum and developed a urinary tract infection and was treated with cephalexin until it was found that the organism was resistant to extended-spectrum beta-lactams. On day 6 postpartum, meropenem 1 gram IV every 8 hours was started. Five samples of hindmilk were obtained from day 6 to day 9 postpartum over 37 hours. The highest measured level was 644 mcg/L and the lowest was 246 mcg/L. Over the collection period the average breastmilk level was 480 mcg/L. The average infant intake was estimated to be 71 mcg/kg daily, which was 0.13% of the weight-adjusted maternal dosage. The maximum infant intake was estimated to be 97 mcg/kg daily, which was 0.18% of the weight-adjusted maternal dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother received meropenem 1 gram IV every 8 hours for 7 days while exclusively breastfeeding her newborn. When questioned later, she stated that her infant had no oral thrush, watery diarrhea, or diaper dermatitis that required antifungal therapy during the month following her meropenem therapy.\nAn infant was breastfed (extent not stated) until the 4th month postpartum. At 2 months of age, his mother was given a 2-week course of tobramycin and meropenem (dosage not specified) for a cystic fibrosis exacerbation. The infant displayed no change in stool pattern during the maternal treatment and had normal renal function at 6 months of age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

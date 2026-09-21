@@ -1,0 +1,35 @@
+{
+ "id": "monkeypox_vaccine",
+ "tytul": "Monkeypox Vaccine",
+ "synonimy": [
+  "Monkeypox Vaccine",
+  "Jynneos",
+  "mpox vaccine",
+  "Imvanex",
+  "Smallpox and Monkeypox Vaccine, Live, Non-replicating",
+  "vaccinia virus modified strain ankara-bavarian nordic nonreplicating antigen",
+  "MVA-BN",
+  "ACAM2000",
+  "Smallpox and Mpox (Vaccinia) Vaccine, Live"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/monkeypox_vaccine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Worldwide, three vaccines are available for monkeypox (Mpox), known as MVA-BN, ACAM-2000 and LC16. Only MVA-BN (Jynneos) and ACAM-2000 are available in the United States. The MVA-BN vaccine does not replicate and behaves like a non-live vaccine. ACAM-2000 vaccine is live and is contraindicated in breastfeeding. No information is available on the LC16 (minimally replicating) vaccine during breastfeeding, so it should probably be avoided until more information is available. The US Centers for Disease Control and Prevention and the World Health Organization state that if the MVA-BN vaccine can be offered to breastfeeding women who are otherwise eligible and breastfeeding need not be discontinued after vaccination. The risks and benefits of the vaccine should be discussed with the patient using shared decision-making.\nIndividuals with Mpox disease should feed their infants with pasteurized donor milk or infant formula until all of their lesions are healed. Numerous other safety precautions are advised for mothers with Mpox."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Milk samples were collected from a nursing mother the day before and at 2, 6, 20, 36, and 72 hours and 7 and 14 days and 10 weeks after receiving the first dose of intradermal smallpox and monkeypox vaccine, live, nonreplicating (Jynneos, Bavarian Nordic). A second dose was given at 12 weeks and milk samples were taken at 3 hours, 3 days, and 2 and 12 weeks after the dose. Milk IgA against 3 vaccine antigens increased 0.9- to 2.2-fold 2 weeks after dose 2, reaching a peak titer increase of 1.1- to 2.7-fold at 12 weeks after dose 2. Secretory antibody levels increased to 1.1- to 2-fold at 2 weeks after dose 2 and reached a peak of 2- to 3.2-fold increase at the 12-week time point. IgA and secretory antibody responses in milk were correlated, suggesting most milk IgA was secretory IgA. No vaccine protein or DNA components were detected in the milk samples.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

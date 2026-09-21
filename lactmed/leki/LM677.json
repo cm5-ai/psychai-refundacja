@@ -1,0 +1,39 @@
+{
+ "id": "LM677",
+ "tytul": "Technetium Tc 99m Pentetate",
+ "synonimy": [
+  "Technetium Tc 99m pentetate",
+  "Techneplex",
+  "AN-DTPA",
+  "Tc 99m DTPA kit",
+  "UNII-VW78417PU1",
+  "VW78417PU1",
+  "sodium",
+  "2-[bis[2-[bis(carboxylatomethyl)amino]ethyl]amino]acetate",
+  "technetium-99(4+)"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM677/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of technetium Tc 99m pentetate (Tc 99m-diethylenetriaminepentaacetic acid; Tc 99m DTPA) as a diagnostic agent. A US Nuclear Regulatory Commission subcommittee has recommended that nursing be discontinued for 24 hours after administration of all technetium Tc 99m diagnostic products to simplify guidance recommendations, although this time interval may be longer than necessary. Several international agencies and organizations state that breastfeeding need not be interrupted after administration of Tc 99m DTPA in doses up to 1000 MBq (27 mCi) intravenously or by inhalation to a nursing mother. However, to follow the principle of keeping exposure \"as low as reasonably achievable\", some experts recommend nursing the infant just before administration of the radiopharmaceutical and interrupting breastfeeding for 3 to 6 hours after the dose, then expressing the milk completely once and discarding it. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. Mothers need not refrain from close contact with their infants after usual clinical doses.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nFor nursing mothers who work with Tc 99m substances in their workplace, there is no need to take any precautions other than those appropriate for general radiation protection."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Tc 99m is a gamma emitter with a principal photon energy of 140 keV and a physical half-life of 6.04 hours. The effective half-life of Tc 99m DTPA ranges from 3.1 to 5 hours). About 41% is assumed to reach the bloodstream after aerosol inhalation and about 0.012% of a dose reaches breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Technetium Tc 99m Ethylenedicysteine"
+  ]
+ ]
+}

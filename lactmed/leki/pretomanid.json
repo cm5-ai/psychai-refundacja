@@ -1,0 +1,37 @@
+{
+ "id": "pretomanid",
+ "tytul": "Pretomanid",
+ "synonimy": [
+  "Pretomanid",
+  "(6S)-2-nitro-6-[[4-(trifluoromethoxy)phenyl]methoxy]-6,7-dihydro-5H-imidazo[2,1-b][,3]oxazine",
+  "2-nitro-6-(4-(trifluoromethoxy)benzyloxy)-6,7-dihydro-5H-imidazo(2,1-b)(1,3)oxazine",
+  "PA 824",
+  "PA-824",
+  "UNII-2XOI31YC4N",
+  "(S)-2-Nitro-6-((4-(trifluoromethoxy)benzyl)oxy)-6,7-dihydro-5H-imidazo[2,1-b][,3]oxazine",
+  "2XOI31YC4N",
+  "CHEMBL227875",
+  "MMV688755",
+  "AK161427"
+ ],
+ "zaktualizowano": "2023-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/pretomanid/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of pretomanid during breastfeeding, although the estimated dose for a breastfed infant is low. If pretomanid is required by the mother, it is not a reason to discontinue breastfeeding, but until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Using a computed milk-to-plasma ratio of 0.89, one group of authors estimated that a fully breastfed infant would receive a pretomanid dosage of 1.02 mcg/kg daily with a standard maternal dose of 200 mg daily. However, the authors used a nonstandard milk volume in their calculation. Using the standard 150 mL/kg daily, the estimated infant dosage would be 0.83 mcg/kg daily.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "LM837",
+ "tytul": "Entecavir",
+ "synonimy": [
+  "Entecavir",
+  "Baraclude",
+  "142217-69-4",
+  "Entecavir [USAN:INN]",
+  "UNII-NNU2O4609D",
+  "BMS 200475",
+  "NNU2O4609D",
+  "HSDB 7334",
+  "SQ 34676",
+  "6H-Purin-6-one, 2-amino-1,9-dihydro-9-((1S,3R,4S)-4-hydroxy-3-(hydroxymethyl)-2-methylenecyclopentyl)-"
+ ],
+ "zaktualizowano": "2020-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM837/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Entecavir has not been studied in nursing mothers being treated for hepatitis B infection. An alternate drug may be preferred, especially while nursing a newborn or preterm infant.\nNo differences exist in infection rates between breastfed and formula-fed infants born to hepatitis B-infected women, as long as the infant receives hepatitis B immune globulin and hepatitis B vaccine at birth. Mothers with hepatitis B are encouraged to breastfeed their infants after their infants receive these preventative measures."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis B) Interferon Alfa, Lamivudine, Tenofovir"
+  ]
+ ]
+}

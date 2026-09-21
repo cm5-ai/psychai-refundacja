@@ -1,0 +1,58 @@
+{
+ "id": "LM704",
+ "tytul": "Rifabutin",
+ "synonimy": [
+  "RIFABUTIN",
+  "Ansamycin",
+  "Rifabutine",
+  "Mycobutin",
+  "Ansatipine",
+  "Ansatipin",
+  "Alfacid",
+  "Rifabutina",
+  "Rifabutinum",
+  "Rifabutine [French]",
+  "Rifabutinum [Latin]",
+  "Rifabutina [Spanish]",
+  "Antibiotic LM 427",
+  "LM-427",
+  "72559-06-9",
+  "UNII-1W306TDA6S",
+  "LM 427",
+  "HSDB 3577",
+  "4-N-isobutylspiropiperidylrifamycin S",
+  "1W306TDA6S",
+  "DRG-0085",
+  "BRN 3584778",
+  "Rifabutin [USAN:USP:INN:BAN:JAN]",
+  "1,4-Dihydro-1-deoxy-1',4-didehydro-5'-(2-methylpropyl)-1-oxorifamycin XIV",
+  "4-Deoxo-3,4-(2-spiro(N-isobutyl-4-piperidyl)-2,5-dihydro-1H-imidazo)-rifamycin S",
+  "Rifamycin XIV, 1',4-didehydro-1-deoxy-1,4-dihydro-5'-(2-methylpropyl)-1-oxo-",
+  "Rifamycin XIV, 1,4-dihydro-1-deoxy-1',4-didehydro-5'-(2-methylpropyl)-1-oxo-",
+  "(9S,12E,14S,15R,16S,17R,18R,19R,20S,21S,22E,24Z)-6-16,18,20-Tetrahydroxy-1'-isobutyl-14-methoxy-7,9,15,17,19,21,25-heptamethylspiro(9,4-(epoxypentadeca(1,11,13)trienimino)-2H-furo(2',3':7,8)naphth(1,2-d)imidazole-2,4'-piperidine)-5,10,26(3H,9H)-trione,16-acetate"
+ ],
+ "zaktualizowano": "2022-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM704/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The amount of rifabutin in milk is insufficient to treat tuberculosis in the breastfed infant. The Centers for Disease Control and Prevention and other professional organizations state that breastfeeding should not be discouraged in women taking rifabutin. Monitor the infant for signs of liver toxicity. Breastmilk may be stained a brown-orange color."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Rifampin, Rifapentin"
+  ]
+ ]
+}

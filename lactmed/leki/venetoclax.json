@@ -1,0 +1,37 @@
+{
+ "id": "venetoclax",
+ "tytul": "Venetoclax",
+ "synonimy": [
+  "Venetoclax",
+  "Venclexta",
+  "ABT-199",
+  "GDC-0199",
+  "ABT199",
+  "ABT 199",
+  "UNII-N54AIC43PW",
+  "GDC 0199",
+  "N54AIC43PW",
+  "4-[4-[[2-(4-chlorophenyl)-4,4-dimethylcyclohexen-1-yl]methyl]piperazin-1-yl]-N-[3-nitro-4-(oxan-4-ylmethylamino)phenyl]sulfonyl-2-(1H-pyrrolo[2,3-b]pyridin-5-yloxy)benzamide",
+  "4-[4-[[2-(4-Chlorophenyl)-4,4-dimethyl-1-cyclohexen-1-yl]methyl]-1-piperazinyl]-N-[[3-nitro-4-[[(tetrahydro-2H-pyran-4-yl)methyl]amino]phenyl]sulfonyl]-2-(1H-pyrrolo[2,3-b]pyridin-5-yloxy)-benzamide"
+ ],
+ "zaktualizowano": "2020-12-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/venetoclax/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of venetoclax during breastfeeding. Because venetoclax is more than 99% bound to plasma proteins, the amount in milk is likely to be low. However, its half-life is 26 hours and it might accumulate in the infant. Most sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy. The manufacturer recommends that breastfeeding be discontinued during vemurafenib therapy and for 1 week after the final dose. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

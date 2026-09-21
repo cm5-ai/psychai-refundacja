@@ -1,0 +1,39 @@
+{
+ "id": "LM229",
+ "tytul": "Propafenone",
+ "synonimy": [
+  "propafenone",
+  "Propafenona",
+  "Propafenonum",
+  "Propafenonum [INN-Latin]",
+  "Propafenona [INN-Spanish]",
+  "Propafenone [INN:BAN]",
+  "54063-53-5",
+  "UNII-68IQX3T69U",
+  "HSDB 7929",
+  "EINECS 258-955-6",
+  "68IQX3T69U",
+  "1-(2-(2-Hydroxy-3-(propylamino)propoxy)phenyl)-3-phenyl-1-propanone",
+  "1-Propanone, 1-(2-(2-hydroxy-3-(propylamino)propoxy)phenyl)-3-phenyl-"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM229/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of propafenone up to 900 mg daily produce low levels in milk. If propafenone is required by the mother it is not a reason to discontinue breastfeeding. Until more data become available, propafenone should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. On the third postpartum day, one woman taking propafenone 300 mg orally 3 times daily had milk levels just before the morning dose of 32 and 47 mcg/L of propafenone and hydroxypropafenone, respectively. The authors estimated that a fully breastfed would receive a dose of propafenone and its metabolite of about 0.03% of the mother's weight-adjusted dosage.\nOne mother (time postpartum not stated) took a single dose of propafenone 150 mg orally. The highest milk propafenone level was 37.4 mcg/L at 2 hours after the dose. By 6 hours after the dose, the drug was undetectable (<10 mcg/L). The highest milk 5-hydroxypropafenone level was 102 mcg/L at 2 hours after the dose. By 6 hours after the dose, the level was 19.8 mcg/L and by 12 hours it was undetectable (<10 mcg/L) in milk. The authors estimated that an exclusively breastfed infant would receive 0.1% of the maternal weight-adjusted dosage of propafenone as drug and metabolite.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

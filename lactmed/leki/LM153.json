@@ -1,0 +1,39 @@
+{
+ "id": "LM153",
+ "tytul": "Ketorolac",
+ "synonimy": [
+  "ketorolac",
+  "Toradol",
+  "Ketorolaco",
+  "Ketorolacum",
+  "Macril",
+  "Acular LS",
+  "UNII-YZI5105V0L",
+  "RS 37619",
+  "5-benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM153/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Milk levels of ketorolac are low with the usual oral dosage, but milk levels have not been measured after higher injectable dosages or with the nasal spray. Ketorolac injection is used for a short time (typically 24 hours) after cesarean section in some hospital protocols with no evidence of harm to breastfed infants. However, the ketorolac dose an infant receives in colostrum is very low because of the small volume of colostrum produced. Some evidence suggests that IV ketorolac as part of a multimodal post-cesarean section analgesia reduces percentage of mothers who fail exclusive breastfeeding compared to patient-controlled IV morphine-based analgesia. Ketorolac has strong antiplatelet activity and can cause gastrointestinal bleeding. The manufacturer indicates that ketorolac is contraindicated during breastfeeding, so an alternate drug is preferred after the first 24 to 72 hours when larger volumes of milk are produced, especially while nursing a newborn or preterm infant.\nMaternal use of ketorolac eye drops would not be expected to cause any adverse effects in breastfed infants. To substantially diminish the amount of drug that reaches the breastmilk after using eye drops, place pressure over the tear duct by the corner of the eye for 1 minute or more, then remove the excess solution with an absorbent tissue."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Ten women who were 2 to 6 days postpartum and were taking ketorolac 10 mg orally four times daily had their milk ketorolac levels measured at various times during 2 days of drug administration. Milk levels were undetectable (<5 mcg/L) in 4 of the patients at all collection times. In the other 6 patients, ketorolac was detectable 2 hours after the first dose of the day in concentrations from 5.2 to 7.3 mcg/L on day 1 and from 5.9 to 7.9 mcg/L on day 2. Ketorolac was not detectable in milk in any patient at 10 hours after the last dose. The paper erroneously states that the breastfed infant would receive an estimated 3.16 to 7.9 mg daily based on a calculation error. The correct calculation yields an estimated maximum daily intake of 7.9 mcg or 0.18% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A randomized, double-blind study compared standard care of mothers receiving a cesarean section delivery (n = 60) to those receiving standard care plus multimodal pain management that included a single dose of 60 mg of intramuscular ketorolac given at the time of fascial closure (n = 60). No significant differences in abnormal neonatal growth, difficulty feeding, neonatal sedation, or respiratory depression rates between the two groups were seen during the first month postpartum."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A randomized, double-blind study compared standard care of mothers receiving a cesarean section delivery (n = 60) to those receiving standard care plus multimodal pain management that included a single dose of 60 mg of intramuscular ketorolac given at the time of fascial closure (n = 60). No significant differences in breastfeeding rates (78% and 79%, respectively) were seen during the first month postpartum.\nIn a study comparing standard of care to enhanced recovery after cesarean section deliveries, a fixed dose of ketorolac 15 mg every 6 hours intravenously for 24 hours postpartum was part of the enhanced recovery protocol whereas as needed ketorolac 15 mg intravenously was part of the standard protocol. Patients in the enhanced recovery protocol (n = 58) had a greater frequency of exclusive breastfeeding (67%) than those in the standard protocol (48%; n = 60).\nA retrospective study evaluated 1349 women who had undergone a cesarean section and were given ketorolac within 15 minutes of the end of surgery. The results indicated that there was no difference in pain control in the first 6 hours after surgery nor in the percentage of women who were breastfeeding at discharge.\nA prospective cohort study of postcesarean pain control compared (1) morphine PCA and scheduled ibuprofen for the first 12 hours followed by continued scheduled ibuprofen with hydrocodone-acetaminophen as needed to a multimodal pain management regimen consisting of (2) acetaminophen 1000 mg orally every 8 hours, ketorolac 30 mg IV once initially, then 15 mg IV every 8 hours for 24 hours, then ibuprofen 600 mg orally every 8 hours for the remainder of the postoperative course with opioids given only as needed. Of women who planned to exclusively breastfeed on admission, fewer women used formula prior to discharge in the multimodal group compared to the traditional group (9% vs. 12%)."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Systemic) Acetaminophen, Celecoxib, Diclofenac, Flurbiprofen, Ibuprofen, Indomethacin, Naproxen, Piroxicam"
+  ]
+ ]
+}

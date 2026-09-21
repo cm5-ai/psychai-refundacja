@@ -1,0 +1,39 @@
+{
+ "id": "relugolix",
+ "tytul": "Relugolix",
+ "synonimy": [
+  "Relugolix",
+  "Orgovyx",
+  "Myfembree",
+  "TAK-385",
+  "TAK 385",
+  "UNII-P76B05O5V6",
+  "CHEMBL1800159",
+  "C29H27F2N7O5S",
+  "DTXSID40224167",
+  "GLXC-10592",
+  "BCP21587",
+  "EX-A1083",
+  "1-[4-[1-[(2,6-difluorophenyl)methyl]-5-[(dimethylamino)methyl]-3-(6-methoxypyridazin-3-yl)-2,4-dioxothieno[2,3-d]pyrimidin-6-yl]phenyl]-3-methoxyurea"
+ ],
+ "zaktualizowano": "2025-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/relugolix/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of relugolix during breastfeeding. However, amounts in breastmilk appear to be low and would not be expected to cause any adverse effects in breastfed infants. If a mother requires relugolix, it is not a reason to discontinue breastfeeding, but until more data are available, it should only be used with careful infant monitoring during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Eight healthy lactating women who were at least 4 weeks postpartum took a single 40 mg dose of relugolix. Milk samples were obtained before the dose and at 11 intervals over the following 120 hours. The peak milk concentration averaged 15.7 mcg/L and occurred at 5.8 (range 2.8 to 8.8) hours. A total dose of 0.0051 mg (1.3% of the maternal dose) was excreted over the first 24 hours after the dose. The authors calculated a relative infant dose of 0.25% after the single dose. Relugolix has a long half-life, and its steady-state plasma concentration would be double that of a single dose. Therefore, with repeated dosing the RID would be approximately 0.5% at steady-state.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "LM580",
+ "tytul": "Interferon Gamma-1b",
+ "synonimy": [
+  "Actimmune",
+  "IFN-gamma 1b",
+  "gamma interferon 1B",
+  "Interferon gamma-1b",
+  "Interferon Gamma 1-b",
+  "UNII-21K6M2I7AG",
+  "Interferon-gamma, Recombinant",
+  "21K6M2I7AG",
+  "HSDB 8137",
+  "Interferon gamma-1b, recombinant",
+  "1-139-Interferon gamma (human lymphocyte protein moiety reduced), N(sup 2)-L-methionyl-",
+  "N(sup 2)-L-Methionyl-1-139-interferon gamma (human lymphocyte protein moiety reduced)"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM580/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Interferon gamma is a normal component of human milk. No data are available on the use of exogenous interferon gamma 1b during breastfeeding. However, the amounts of the similar drugs, interferon alfa and interferon beta-1a, excreted into milk are very low. Any interferon in breastmilk is probably destroyed in the infant's gastrointestinal tract and not absorbed, except perhaps in neonates."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Measurements of the colostrum 6 mothers of preterm infants found an average of 2 ng/L of interferon gamma; two mothers of full-term infants had an average of 2.2 ng/L. At over 30 days postpartum, milk of 3 mothers of preterm infants contained 2.6 ng/L of interferon gamma; the milk of 28 mothers of full-term infants contained an average of 0.7 ng/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

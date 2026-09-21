@@ -1,0 +1,42 @@
+{
+ "id": "LM1234",
+ "tytul": "Cladribine",
+ "synonimy": [
+  "Cladribine",
+  "Leustatin",
+  "Mavenclad",
+  "Cladarabine",
+  "UNII-47M74X9YT5",
+  "CCRIS 9374",
+  "RWJ 26251",
+  "HSDB 7564",
+  "NSC 105014-F",
+  "NSC 105014",
+  "BRN 0624220",
+  "(2R,3S,5R)-5-(6-amino-2-chloropurin-9-yl)-2-(hydroxymethyl)oxolan-3-ol"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1234/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The amount of cladribine in milk is low with oral doses of 10 to 20 mg daily used in multiple sclerosis. Data in one patient indicates that the drug is rapidly eliminated over 24 hours and undetectable at 48 hours after a dose. Manufacturers recommend a 7-day (Europe) or 10-day (US) breastfeeding abstinence period after a dose. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with multiple sclerosis who was 4 months postpartum began cladribine. In her second course of therapy, 5 weeks after the first course, she received 20 mg cladribine once daily by mouth on days 1 to 3 and 10 mg on days 4 and 5. On day 3, the patient collected samples at 0, 1, 2, 4, 6, 8, 12, and 24 hours after a 20 mg dose. The highest milk level was 281 mcg/L at 1 hour after the dose. Levels declined rapidly over 12 to 24 hours, to undetectable (<1.5 mcg/L) levels at 48 hours and beyond. The average milk level was 44 mcg/L over the 24 hour period. The authors calculated that a fully breastfed infant would receive a dose of 6.6 mcg/kg daily, which corresponds to a weight-adjusted dose of 3.1% of the maternal dose. A further analysis of two patients taking cladribine for multiple sclerosis found relative infant dosages of 2.99% with a 10 mg daily dosage and 4.73% with a 20 mg daily dosage. Peak milk concentrations were seen at 1 and 2 hours after the dose, respectively.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Multiple Sclerosis) Glatiramer, Immune Globulin, Interferon beta, Methylprednisolone, Natalizumab, Ocrelizumab, Ofatumumab, Peginterferon beta"
+  ]
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "LM1408",
+ "tytul": "Tafenoquine",
+ "synonimy": [
+  "Tafenoquine",
+  "Arakoda",
+  "Kodatef",
+  "Tafenoquine Succinate",
+  "Krintafel",
+  "UNII-262P8GS9L9",
+  "WR-238605",
+  "SB-252263-AAB",
+  "WR 238605",
+  "4-N-[2,6-dimethoxy-4-methyl-5-[3-(trifluoromethyl)phenoxy]quinolin-8-yl]pentane-1,4-diamine"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1408/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of tafenoquine during breastfeeding. The amounts in milk are acceptable if the infant is not glucose-6-phosphate dehydrogenase (G6PD) deficient, but tafenoquine can cause hemolysis in patients with G6PD deficiency. If tafenoquine is needed by the mother, testing the mother and infant for G6PD deficiency is required before the drug is given. Because the half-life of tafenoquine averages 15 days, the manufacturer recommends that breastfeeding should not breastfeed for 3 months after the dose if the infant is G6PD deficient, which implies complete cessation of nursing."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Six healthy lactating women with a median weight of 51 kg and infants at least one year old who were planning to stop breastfeeding were given a single dose of 300 mg (6 mg/kg) of tafenoquine. Women had breastmilk samples collected during 5 sampling windows after the dose: 8 to 15 hours, 16 to 24 hours, 30 to 42 hours, 6 to 8 days, and 12 to 16 days. The median peak concentration in breastmilk occurred at a median of 16 hours (range 12 to 36 hours), with a median peak concentration of 308 mcg/L. The authors estimated the median maximum cumulative exposure over the 75 days after a dose to be 0.51 mg/kg, or 8.5% of the maternal dose. Most of the exposure is expected to be in the first week. The authors compared their result to a physiologically based pharmacokinetic model that was previously published that had two very different scenarios depending on how the milk-to-plasma ratio (M/P) was calculated. Results of the clinical study were more consistent with the log-transformed method of M/P calculation.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Primaquine"
+  ]
+ ]
+}

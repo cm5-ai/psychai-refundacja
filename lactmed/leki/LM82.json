@@ -1,0 +1,41 @@
+{
+ "id": "LM82",
+ "tytul": "Desloratadine",
+ "synonimy": [
+  "Desloratadine",
+  "Clarinex",
+  "Neoclarityn",
+  "Aerius",
+  "Azomyr",
+  "Denosin",
+  "Sch-34117",
+  "Sch 34117",
+  "UNII-FVF865388R",
+  "MK-4117",
+  "13-chloro-2-piperidin-4-ylidene-4-azatricyclo[9.4.0.03,8]pentadeca-1(11),3(8),4,6,12,14-hexaene"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM82/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of its expected low milk levels and lack of sedation and anticholinergic effects, maternal use of desloratadine is unlikely to affect a breastfed infant or milk production. Desloratadine might have a negative effect on lactation in combination with a sympathomimetic agent such as pseudoephedrine."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Desloratadine is the active metabolite of loratadine and is marketed separately as a drug product.\nMaternal Levels. Milk levels have not been measured after desloratadine administration. However, after a single oral dose of 40 mg of its parent compound loratadine in 6 women, average desloratadine peak milk levels of 16 mcg/L (range 9 to 29.6 mcg/L) were measured. The total amount excreted in milk over 48 hours was 6 mcg (range 3.7 to 11.6 mcg). However, the loratadine dose was 10 times the recommended dose of desloratadine of 5 mg, assuming 100% conversion of loratadine to desloratadine and adjusting for the differences in molecular weight. The calculated maximum expected doses of desloratadine in milk was 0.42% of the maternal weight-adjusted dose of loratadine after the 40 mg loratadine dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Antihistamines in relatively high doses given by injection can decrease basal serum prolactin in nonlactating women and in early postpartum women. However, suckling-induced prolactin secretion is not affected by antihistamine pretreatment of postpartum mothers. Whether lower oral doses of antihistamines have the same effect on serum prolactin or whether the effects on prolactin have any consequences on breastfeeding success have not been studied. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cetirizine, Fexofenadine, Levocetirizine, Loratadine"
+  ]
+ ]
+}

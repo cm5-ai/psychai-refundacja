@@ -1,0 +1,43 @@
+{
+ "id": "LM1246",
+ "tytul": "Aflibercept",
+ "synonimy": [
+  "Aflibercept",
+  "Zaltrap",
+  "Eylea",
+  "Eydenzelt",
+  "VEGF Trap",
+  "VEGF Trap-Eye",
+  "VEGF Trap R1R2",
+  "UNII-15C2VL427D",
+  "HSDB 8258",
+  "AVE0005",
+  "Bay86-5321",
+  "Bay 86-5321",
+  "AVE 0005"
+ ],
+ "zaktualizowano": "2025-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1246/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "This record refers to the use of intravitreal aflibercept. Aflibercept inhibits vascular endothelial growth factor (VEGF). Aflibercept is a large protein molecule with a molecular weight of 115,000 Daltons. Aflibercept appeared in breastmilk in small amounts in only one of four days after intravitreal injection in one mother. Absorption by the infant is unlikely because it is probably partly destroyed in the infant's gastrointestinal tract and poorly absorbed orally, so systemic effects in infants are not expected. Aflibercept is approved for intravitreal injection in preterm infants with retinopathy of prematurity. The risk to nursing infants appears to be low. Since VEGF is present in human milk and is thought to help in maturation of the infant’s gastrointestinal tract, concern has been raised about the maternal use of VEGF inhibitors during breastfeeding. However, the typical alternative to breastmilk is infant formula, which contains no VEGF. Some sources consider ranibizumab to be preferable to aflibercept in nursing mothers because of its lower systemic exposure after intravitreal injection."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with diabetic macular edema was given intravitreal aflibercept 2 mg one week postpartum. She was not breastfeeding her infant. Milk samples were obtained before the injection and on days 1 to 4 after the injection. Aflibercept was detected only on day 4 in a concentration of 10.9 mcg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A woman with diabetic macular edema was given intravitreal aflibercept 2 mg one week postpartum. She was not breastfeeding her infant. Milk samples were obtained before the injection and on days 1 to 4 after the injection. VEGF levels were reduced from 10.6 mcg/L at baseline to 4.9 mcg/L on day 1, where it remained for the next 3 days."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Intravitreal) Bevacizumab, Ranibizumab"
+  ]
+ ]
+}

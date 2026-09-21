@@ -1,0 +1,42 @@
+{
+ "id": "LM297",
+ "tytul": "Nadolol",
+ "synonimy": [
+  "nadolol",
+  "Corgard",
+  "Anabet",
+  "Solgol",
+  "Nadololum",
+  "Corzide",
+  "UNII-FEN504330V",
+  "CCRIS 1048",
+  "HSDB 6532",
+  "EINECS 255-706-3",
+  "SQ 11725",
+  "(2R,3S)-5-[3-(tert-butylamino)-2-hydroxypropoxy]-1,2,3,4-tetrahydronaphthalene-2,3-diol"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM297/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "There are reports of safe use of nadolol during exclusive breastfeeding. However, because of its relatively extensive excretion into breastmilk and its renal excretion other beta-adrenergic blocking drugs are preferred to nadolol, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 25% protein binding, 70% renal excretion and long half-life, nadolol presents a high risk for accumulation in infants, especially neonates. It is estimated that a fully breastfed infant would receive about 5.1% of the maternal weight-adjusted dosage of nadolol.\nMaternal Levels. One mother received nadolol 20 mg daily during gestation for hypertension, with the last dose taken 20 hours before delivery. A single sample of breastmilk obtained 38 hours postpartum (58 hours after the last dose) was 146 mcg/L.\nAfter oral doses of 80 mg daily in 12 women, peak nadolol levels occurred in milk at an average of 6 hours after the dose, compared to peak serum levels at 2.7 hours. Serum and milk half-lives were both about 22 hours. Steady-state milk levels occurred after 3 days of therapy; peak milk levels averaged 443 mcg/L and the mean milk levels averaged 357 mcg/L. None of the infants were breastfed.\nInfant Levels. A mother with long-QT syndrome was taking nadolol 40 mg twice daily in the morning and evening during pregnancy and postpartum. While she was exclusively breastfeeding, on day 3 her infant had a serum nadolol concentration of 10 mcg/L (5.9% of the maternal serum concentration). On day 10 postpartum, her infant had a serum nadolol concentration of 19 mcg/L (13.4% of the maternal serum concentration). On day 17 postpartum, her infant had a serum nadolol concentration of 23 mcg/L (16.5% of the maternal serum concentration). On day 165 postpartum, while the mother was taking 80 mg of nadolol once daily, the infant’s serum nadolol concentration was < 2 mcg/L while the mother had a serum concentration of 84 mcg/L at 3 hours after the dose."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significantly increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. None of the mothers were taking nadolol.\nA prospective study of pregnant patients taking a beta-blocker asked mothers to complete a questionnaire about postpartum breastfeeding and any side effects in their breastfed infants. Two mothers reported taking nadolol in unreported dosages while breastfeeding. Neither reported any adverse reactions in their breastfed infants; both had breastfed during nadolol therapy in a previous pregnancy. One of the mothers had a long-QT syndrome and was taking nadolol 40 mg twice daily in the morning and evening during pregnancy and postpartum. She had successfully and safely breastfed her prior infant who also had long-QT syndrome and was taking nadolol also. In her second pregnancy, she delivered a normal, full-term infant who was exclusively breastfed from birth until 4.5 months postpartum when mixed feeding was started. At 2 months postpartum, the nadolol dosage was changed to 80 mg once daily after the morning feed. Electrocardiograms were performed at birth, day 3, and day 5. Blood glucose, blood pressure, and heart rate were measured on days 10 and 17. The initial neonatal ECG showed a prolonged QTc interval, which normalized by day 3. Genetic testing excluded congenital long QT syndrome in the infant. On day 10, the infant’s blood glucose level was 1.32 g/L, blood pressure was 70/41 mmHg with a mean of 53 mmHg, and the heart rate was 140 bpm. On day 17, the infant’s blood glucose level was 1.13 g/L, the blood pressure was 69/31 mmHg with a mean of 43 mmHg, and the heart rate was 131 bpm. No adverse cardiac, metabolic, or developmental effects occurred during the 6 months of breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or nadolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Propranolol, Labetalol, Metoprolol"
+  ]
+ ]
+}

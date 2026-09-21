@@ -1,0 +1,39 @@
+{
+ "id": "LM55",
+ "tytul": "Ceftibuten",
+ "synonimy": [
+  "ceftibuten",
+  "Cedax",
+  "Ceftibuteno",
+  "Ceftibutenum",
+  "Ceftibutene",
+  "Cephem",
+  "Antibiotic 7432S",
+  "Cephalosporin 7432-S",
+  "UNII-IW71N46B4Y",
+  "Sch 39720",
+  "IW71N46B4Y",
+  "7432-S",
+  "S 7432 (6R,7R)-7-[[(Z)-2-(2-amino-1,3-thiazol-4-yl)-4-carboxybut-2-enoyl]amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM55/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that ceftibuten produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Ceftibuten is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a single 200 mg oral dose of ceftibuten in 6 women, the drug was undetectable (<1 mg/L) at any time up to 24 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

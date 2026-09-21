@@ -1,0 +1,47 @@
+{
+ "id": "LM1109",
+ "tytul": "Cyanocobalamin Co 57",
+ "synonimy": [
+  "Racobalamin-57",
+  "Rubratope-57",
+  "Cyanocobalamin Co 57",
+  "Cyanocobalamin Co-57",
+  "Vitamin B12-57Co",
+  "Cyanocobalamin (57Co)",
+  "(57Co)Vitamin B12",
+  "57-Cobalt-vitamin B12",
+  "Cianocobalamina (57 Co)",
+  "Cyanocobalamine (57 Co)",
+  "Vitamine B12 - 57Co",
+  "Cyanocobalaminum (57 Co)",
+  "Vitamin B12-(sup 57)Co",
+  "Cyanocobalamin ((sup 57)Co)",
+  "Cyanocobalamin (57Co) [INN]",
+  "UNII-025P9I542Y",
+  "Cyanocobalamin Co 57 [USAN:USP]",
+  "025P9I542Y",
+  "Cianocobalamina (57 Co) [INN-Spanish]",
+  "Cyanocobalamine (57 Co) [INN-French]",
+  "Cyanocobalaminum (57 Co) [INN-Latin]"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1109/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of cyanocobalamin Co 57 as a diagnostic agent. Limited data indicate that excretion of radioactivity into breastmilk following cyanocobalamin Co 57 is low and does not require withholding of breastfeeding after diagnostic use. However, to minimize the radiation dose to the infant, some authors suggest that previously saved milk could be substituted for one feeding at about 24 hours after the dose.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Co 57 decays by electron capture with a physical half-life of 271.79 days.\nMaternal Levels. A woman who was 3 weeks postpartum was given oral cyanocobalamin Co 57 in a dose of 18.6 kBq, followed by an intravenous dose of unlabeled cyanocobalamin as part of the Schilling test. Milk samples were collected 6 times during the first 25 hours, then at 49 and 73 hours after the dose. Peak milk radioactivity occurred between 17 and 25 hours, with levels of 0.25 to 0.26 Bq/mL. The woman was found to have some cyanocobalamin malabsorption, so the milk levels may have been lower than in a mother with unimpaired absorption.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

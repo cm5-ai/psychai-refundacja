@@ -1,0 +1,54 @@
+{
+ "id": "LM301",
+ "tytul": "Propranolol",
+ "synonimy": [
+  "propranolol",
+  "Propanolol",
+  "Avlocardyl",
+  "Dociton",
+  "Anapriline",
+  "Euprovasin",
+  "Betalong",
+  "Proprasylyt",
+  "Propanix",
+  "Reducor",
+  "propranololo",
+  "Corpendol",
+  "Betadren",
+  "Sawatal",
+  "Sumial",
+  "Propranololum",
+  "Propranololo [DCIT]",
+  "UNII-9Y8NXQ24VQ",
+  "CCRIS 3082",
+  "9Y8NXQ24VQ",
+  "EINECS 208-378-0",
+  "AY-20694",
+  "AY 20694",
+  "1-naphthalen-1-yloxy-3-(propan-2-ylamino)propan-2-ol"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM301/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of propranolol in breastmilk, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants. Studies during breastfeeding have found no adverse reactions in breastfed infants clearly attributable to propranolol. No special precautions are required. Propranolol has been used successfully in cases of persistent pain of the breast during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 87% protein binding, less than 1% renal excretion and a moderate half-life, propranolol presents a low risk for accumulation in infants.\nMaternal Levels. One woman receiving propranolol 20 mg orally every 8 hours had milk propranolol levels between 0 and 5 mcg/L at various times after a dose during days 2 and 5 postpartum.\nA woman taking propranolol 10 mg every 8 hours was given a single 40 mg dose. The peak milk level was 30 mcg/L at 2 hours after the dose.\nFive postpartum women taking oral propranolol 40 mg twice daily had average milk levels of 27 mcg/L (range 14 to 36 mcg/L) at 2 hours after a dose.\nMilk propranolol levels were 50 to 60 mcg/L at 3 hours after an 80 mg oral dose in 2 women and 110 to 120 mcg/L in the same women 3 hours after a 160 mg oral dose.\nA woman received single oral doses of propranolol 40 mg on two days. Peak propranolol levels in milk were 4 and 9 mcg/L and occurred from 2 to 4 hours after the doses. Subsequently, she began propranolol 40 mg 4 times daily, with peak milk propranolol levels of about 42 mcg/L occurring 3 hours after a dose. Her propranolol dose was increased to 240 mg daily. Thirty days later, her pre-dose and 3-hour post-dose milk propranolol levels were 26 and 64 mcg/L, respectively.\nA woman was taking propranolol 20 mg twice daily throughout pregnancy and postpartum. She donated 4 hindmilk samples at various times after her dose. Milk levels ranged from not detectable (<2 mcg/L) at 12 hours after a dose to 20 mcg/L at 1 to 2 hours after a dose.\nThree women were studied during the first week postpartum. Two women receiving 1.1 to 1.2 mg/kg daily of oral propranolol had milk concentrations ranging from 14 to 75 mcg/L over the 8-hour period after a dose. In one woman, propranolol glucuronide added slightly to the total propranolol concentration in milk, primarily after 4 hours. A third woman was taking 2.6 mg/kg daily by mouth and had propranolol plus propranolol glucuronide concentrations of 46 to 75 mcg/L in her milk over the time period of 4.5 to 8 hours after her dose.\nA fully breastfed infant would receive between <0.1 and 0.9% of the weight-adjusted maternal dosage of propranolol.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. Of 8 mothers taking propranolol, one reported sleepiness in her breastfed infant, but she was also taking other unspecified drugs for hypertension.\nA case of bradycardia in a 2-day-old breastfed infant was reported to the French pharmacovigilance system. However it is not clear from the report whether the mother had been taking propranolol near term and might have transmitted the drug to the infant transplacentally.\nA prospective study of pregnant patients taking a beta-blocker asked mothers to complete a questionnaire about postpartum breastfeeding and any side effects in their breastfed infants. Sixteen mothers reported taking propranolol in unreported dosages while breastfeeding. Three women reported hypoglycemia in their infant with “a favorable outcome” and one reported bradycardia in her child with discontinuation of propranolol after 3 weeks of breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or propranolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Cardiovascular) Labetalol, Metoprolol; (Migraine Prophylaxis) Divalproex, Erenumab, Metoprolol, Nortriptyline, Rimegepant, Topiramate, Valproic Acid"
+  ]
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "id": "zuranolone",
+ "tytul": "Zuranolone",
+ "synonimy": [
+  "Zuranolone",
+  "Zurzuvae",
+  "SAGE-217",
+  "SGE-797",
+  "CHEMBL4105630",
+  "S-812217",
+  "UNII-7ZW49N180B",
+  "SCHEMBL16189866",
+  "DTXSID601128500",
+  "GLXC-15028",
+  "AMY27908",
+  "EX-A1880",
+  "BDBM50258216",
+  "WHO 10896",
+  "AKOS037648887",
+  "DB15490",
+  "AC-35591",
+  "BS-15950",
+  "HY-103040",
+  "CS-0023489",
+  "D11793",
+  "D80690",
+  "A905859",
+  "1-[2-[(3R,5R,8R,9R,10S,13S,14S,17S)-3-hydroxy-3,13-dimethyl-2,4,5,6,7,8,9,10,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]-2-oxoethyl]pyrazole-4-carbonitrile"
+ ],
+ "zaktualizowano": "2025-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/zuranolone/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low amounts of zuranolone in milk, it would not be expected to cause any adverse effects in breastfed infants. If zuranolone is required by the mother, it is not a reason to discontinue breastfeeding. Until more data are available, zuranolone should be used with careful infant monitoring for excessive sedation during breastfeeding, especially with higher dosages and in newborn and preterm infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A manufacturer-sponsored study was conducted in 14 healthy lactating women who were 12 or more weeks postpartum and treated with oral administration of 30 mg of zuranolone daily at home for 14 days. On day 5 of treatment, they came to the study site where they received their 8 pm dose after a fat-containing meal. Participants collected milk samples at variable times over 11 days after the start of therapy. Milk concentration values were used along with blood samples from day 5 in a population pharmacokinetic model (NONMEM) to simulate the mean breastmilk levels in 1000 female patients. The daily infant dose via milk was estimated to be 0.00125 mg/kg on day 5 of therapy, resulting in a mean weight-adjusted relative infant dose of 0.74% using the standard of 150 mL/kg of milk per day. Product information further states that the concentrations of zuranolone in breastmilk were below the level of quantification limit by 4 to 6 days after the last dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with bipolar II depression and obsessive-compulsive disorder was taking lamotrigine 400 mg, sertraline 200 mg, and adjunctive risperidone 2 mg daily. She developed postpartum depression after the birth of her child. She began zuranolone 50 mg daily and continued nursing (presumably partial) with no sedation of herself or the infant. The authors report having used it in the mothers of 25 infants without any infant side effects."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In a manufacturer-sponsored study, 14 healthy lactating women who were 12 or more weeks postpartum and treated with oral administration of 30 mg of zuranolone daily for 14 days collected milk samples from 3 days before to day 5 of treatment. There was a mean decrease of 41.2 mL or 8.3% in milk volume collected over days 3 to 5 of treatment compared with pretreatment baseline. However, this decrease could be an artifact of the study design, because participants were told to stop breastfeeding and pump their milk during the study. Other factors could have been at play, also."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Brexanolone, Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

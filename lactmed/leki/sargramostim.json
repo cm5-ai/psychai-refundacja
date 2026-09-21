@@ -1,0 +1,33 @@
+{
+ "id": "sargramostim",
+ "tytul": "Sargramostim",
+ "synonimy": [
+  "Sargramostim",
+  "Leukine",
+  "rHu GM-CSF",
+  "23-L-LEUCINECOLONY-STIMULATING FACTOR 2 (HUMAN CLONE PHG25 PROTEIN MOIETY)",
+  "B1 61.012",
+  "B1-61012",
+  "COLONY-STIMULATING FACTOR 2 (HUMAN CLONE PHG25 PROTEIN MOIETY), 23-L-LEUCINE-"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/sargramostim/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Sargramostim is a slightly modified, glycosylated form of granulocyte-macrophage colony-stimulating factor (GM-CSF). GM-CSF is a normal component of breastmilk, probably generated in milk by breastmilk macrophages. However, breastfed infants do not have greater serum GM-CSF serum levels than formula-fed infants and neutrophil activation resulting from GM-CSF is no different between breastfed and formula-fed infants. These lacks of differences are probably because GM-CSF is a large molecule with a molecular weight of 23,000 Da and is probably partly digested in the infant’s gastrointestinal tract and poorly absorbed by the infant. No information is available on the use of intravenous sargramostim in nursing mothers, but breastmilk levels of GM-CSF were not increased in one nursing mother after receiving inhaled sargramostim. Maternal sargramostim is unlikely to adversely affect her breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twenty nursing mothers of full-term infants provided milk samples at 5 days postpartum. The average concentration of GM-CSF in their milk was 100 ng/L.\nA woman with autoimmune pulmonary alveolar proteinosis caused by GM-CSF autoantibodies was treated with inhaled sargramostim 250 mcg daily. GM-CSF was undetectable in milk both before and 8 hours after receiving inhaled sargramostim.\nInfant Levels. Twenty breastfed and 13 formula-fed full-term infants had serum concentration of GM-CSF measured at 5 days of age. Breastfed infants had an average GM-CSF concentration of 33.5 ng/L and formula-fed infants had an average GM-CSF serum concentration of 18.9 ng/L, but this difference was not statistically significant. In addition, no difference was found in neutrophil chemotaxis between the two groups and no correlations were found between GM-CSF concentrations in milk or infants' sera and neutrophil chemotaxis."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

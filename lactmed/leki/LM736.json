@@ -1,0 +1,42 @@
+{
+ "id": "LM736",
+ "tytul": "Ezetimibe",
+ "synonimy": [
+  "Ezetimibe",
+  "Zetia",
+  "Ezetrol",
+  "Ezedoc",
+  "Nexlizet",
+  "Vytorin",
+  "Sch 58235",
+  "UNII-EOR26LQQ24",
+  "SCH58235",
+  "(-)-Sch 58235",
+  "HSDB 7737",
+  "( (3R,4S)-1-(4-fluorophenyl)-3-[(3S)-3-(4-fluorophenyl)-3-hydroxypropyl]-4-(4-hydroxyphenyl)azetidin-2-one"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM736/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Data from 2 mothers indicate that levels of ezetimibe and its active metabolite appear in very low amounts in milk and serum levels in infants predicted by a pharmacokinetic model are considerably lower than in adults. Ezetimibe appears to be acceptable during breastfeeding. Ezetimibe in combination with a statin (e.g., atorvastatin, simvastatin) should be avoided in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two nursing mothers taking ezetimibe 10 mg daily donated a total of 15 milk samples for analysis of ezetimibe and ezetimibe glucuronide. In one mother, the highest drug concentrations were found in hindmilk at 2.08 hours after a dose. The ezetimibe concentration was 0.95 mcg/L, and the glucuronide concentration was 1.39 mcg/L. In the second mother, the highest ezetimibe concentration of 0.98 mcg/L occurred 5.22 hours after a dose between feedings and the highest ezetimibe glucuronide concentration of 2.65 mcg/L occurred 8.47 hours after a dose just after feeding. These values result in a total ezetimibe plus ezetimibe glucuronide relative infant dosages of about 0.16% and 0.25%, respectively. A computer model of ezetimibe during nursing was consistent with the observed levels and indicated that predicted serum levels in infants were considerably lower than in adults.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cholestyramine, Colesevelam, Colestipol"
+  ]
+ ]
+}

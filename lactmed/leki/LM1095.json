@@ -1,0 +1,71 @@
+{
+ "id": "LM1095",
+ "tytul": "Thioguanine",
+ "synonimy": [
+  "6-Thioguanine",
+  "thioguanine",
+  "Tioguanine",
+  "Tioguanin",
+  "6-Mercaptoguanine",
+  "Tabloid",
+  "Lanvis",
+  "2-Amino-6-mercaptopurine",
+  "Tioguaninum",
+  "Wellcome U3B",
+  "2-Aminopurine-6-thiol",
+  "Tioguanina",
+  "2-Amino 6MP",
+  "2-Aminopurin-6-thiol",
+  "Guanine, thio-",
+  "2-Thioguanine",
+  "6-Mercapto-2-aminopurine",
+  "2-Aminopurine-6(1H)-thione",
+  "2-Amino-6-merkaptopurin",
+  "6-Tioguanine",
+  "6-TG",
+  "2-Amino-6-MP",
+  "Tioguaninum [INN-Latin]",
+  "Purine-6-thiol, 2-amino-",
+  "Guanine, thio- (VAN)",
+  "Tioguanina [INN-Spanish]",
+  "UNII-WIX31ZPX66",
+  "Purine-6(1H)-thione, 2-amino-",
+  "2-Aminopurin-6-thiol [Czech]",
+  "BW 5071",
+  "NSC 752",
+  "NSC-752",
+  "CCRIS 8997",
+  "WIX31ZPX66",
+  "2-Amino-6-merkaptopurin [Czech]",
+  "6H-Purine-6-thione, 2-amino-1,7-dihydro-",
+  "2-Amino-1,7-dihydro-6H-purine-6-thione",
+  "HSDB 2504",
+  "2-Amino-1,7-dihydro-6H-purin-6-thion",
+  "X 27",
+  "EINECS 205-827-2",
+  "AI3-26078",
+  "2-Amino-1,7-dihydro-6H-purin-6-thion [Czech]",
+  "TG",
+  "THG"
+ ],
+ "zaktualizowano": "2024-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1095/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Thioguanine nucleosides are active intracellular metabolites of azathioprine and have been measured in breastmilk and in infant serum following maternal use of azathioprine as an immunosuppressant. Thioguanine levels in milk are low after immunosuppressant doses of the drug or of azathioprine. It might be desirable to monitor exclusively breastfed infants with a complete blood count with differential, and liver function tests if thioguanine is used during lactation, although some authors feel that monitoring is unnecessary.[1] Most sources consider the thiopurines acceptable to use in low, immunosuppressant doses.[2-5]\nMost sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy, although antimetabolites such as thioguanine appear to pose the least risk to breastfed infants.[6] After high-dose thioguanine use in chemotherapy, it might be possible to breastfeed safely during intermittent therapy with an appropriate period of breastfeeding abstinence. Although no data are available to determine an appropriate period to withhold breastfeeding, the drug's terminal half-life suggests that withholding breastfeeding for 4 days may be sufficient. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk.[7]"
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four women receiving an immunomodulator to treat inflammatory bowel disease had metabolite levels measured in milk during the first 6 weeks postpartum. The abstract does not mention the specific drug and dose being taken, but the azathioprine metabolite 6-thioguanine nucleosides (6-TGNs) were measured. Although therapeutic levels were found in maternal serum, 6-TGNs was undetectable (<123 mcg/L) in milk (time of collection not stated).[8]\nOne woman received thioguanine for inflammatory bowel disease during pregnancy and lactation. She was receiving thioguanine 0.7 mg/kg daily in divided doses to treat colitis. Her breastmilk level at delivery was 48 nanomoles/L (8.03 mcg/L).[9]\nInfant Levels. Four infants were breastfed (3 exclusively, 1 rarely received formula) during maternal use of azathioprine orally in dosages of 1.2 to 2.1 mg/kg daily. All of the mothers and infants had the wild type TPMT *1/*1 genotype and all of the mothers had normal enzyme activity. At 3 to 3.5 months of age, all of the infants had undetectable blood levels of 6-TGNs.[10]\nThree infants whose mothers were taking azathioprine for inflammatory bowel disease (n = 2) or systemic lupus erythematosus (n = 1) were breastfed during maternal use of azathioprine. Azathioprine doses were 100 mg (plus prednisolone), 150 mg (plus infliximab) and 175 mg daily. In 1 infant, thioguanine was low, but detectable in blood at 3 days of age; at 3 weeks of age, thioguanine was not detectable. In another infant, thioguanine was undetectable at 3 weeks of age. Neither assay limits nor specific maternal doses were stated in the published abstract.[11]\nA woman began taking azathioprine 100 mg (1.4 mg/kg) daily for Crohn's disease while breastfeeding (extent not stated) her 3-month-old infant. After 8 days and 3 months of maternal therapy, 6-TGNs were measured, although breastfeeding had been tapered to zero by 3 months. On both occasions, 6-TGNs were not detectable in the blood of the infant. The assay limit was not stated.[1]"
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Thioguanine is an active metabolite of azathioprine. Numerous infants breastfed during maternal azathioprine in dosages up to 250 mg daily have been reported with no adverse effects noted. See the Azathioprine record for details.\nNinety-nine women, mostly with Crohn’s disease, who were taking thioguanine were followed during pregnancy and postpartum. In 98 pregnancies, thioguanine was continued during breastfeeding (extent not stated) in 38% of infants. No reported complications were reported in the 37 breastfed infants.[3]"
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

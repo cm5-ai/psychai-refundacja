@@ -1,0 +1,42 @@
+{
+ "id": "LM369",
+ "tytul": "Midazolam",
+ "synonimy": [
+  "midazolam",
+  "Dormicum",
+  "Nayzilam",
+  "Midazolamum",
+  "UNII-R60L0SM5BC",
+  "DEA No. 2884",
+  "Ro 21-3981",
+  "USL261",
+  "EINECS 261-774-5",
+  "HSDB 6751",
+  "BRN 0625572",
+  "8-chloro-6-(2-fluorophenyl)-1-methyl-4H-imidazo[1,5-a]benzodiazepine"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM369/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The small amounts of midazolam excreted into breastmilk would not be expected to cause adverse effects in most breastfed infants. A safety scoring system finds midazolam acceptable to use during breastfeeding. Two expert panels advocates waiting for at least 4 hours after a single intravenous dose of midazolam (e.g., for endoscopy) before resuming nursing. With a newborn or preterm infant a cautious approach would be to wait a period of 6 to 8 hours before resuming nursing. After general anesthesia, breastfeeding can resume as soon as the mother has recovered sufficiently from general anesthesia to nurse. When a combination of anesthetic agents is used for a procedure, follow the recommendations for the most problematic medication used during the procedure. With prolonged use (days) of intravenous therapy, an active metabolite can accumulate in the mother and might affect the infant, but data in breastfeeding are lacking. Monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Midazolam is about 36% bioavailable orally in adults. It is metabolized to 1-hydroxymidazolam (60 to 70%) and 4-hydroxymidazolam (5%) which are about equipotent to midazolam. The half-life of 1-hydroxymidazolam is about 12 hours in adults and can accumulate with prolonged or repeated doses or in renal impairment.\nMaternal Levels. Twelve mothers were given a total of 30 doses of oral midazolam 15 mg for sleep in the first 5 days postpartum if they requested it. In 11 of the mothers, midazolam was unmeasurable (<3 mcg/L) in breastmilk 7 hours after the dose. One of the mothers accidentally took a second tablet (30 mg total) on one occasion and had a 7-hour milk level of 9 mcg/L. No accumulation occurred with repeated nightly doses in any of the mothers. Two additional women who were 2 to 3 months postpartum had hourly milk sampling after a single 15 mg dose. Peak milk levels of both the drug and metabolite occurred at 1 and 2 hours after the dose in the 2 patients. Peak milk levels of midazolam plus 1-hydroxymidazolam were about 13 mcg/L and the average milk level over the 7-hour period was 6.7 mcg/L. Using these values, an infant exclusively nursing for 7 hours after a dose would receive about 0.3 mcg of the drug plus metabolite.\nA mother undergoing surgery received a single 6 mg dose of midazolam intravenously for anesthesia induction. Breastmilk concentration of midazolam was 25 mcg/L at 30 minutes after the dose, 12 mcg/L at 1 hour after the dose and 7 mcg/L at 2 hours after the dose. From 4 hours onward the drug was unmeasurable (<5 mcg/L). Hydroxymidazolam was not measured.\nFive women who were 6 to 15 weeks postpartum were given a single dose of 2 mg of midazolam intravenously before undergoing general anesthesia with propofol and fentanyl. Several milk samples were collected between 5 and 24 hours after the injection from each woman. The authors estimated that the infants would receive an average of 0.016 mcg/kg in the 24 hours after a single dose of midazolam. This corresponds to 0.06% of the maternal weight-adjusted dosage. Hydroxymidazolam was not measured. The authors concluded that this amount of midazolam in milk is unlikely to affect a healthy, term infant. The infants of mothers not undergoing a surgical procedure might receive a greater dose of midazolam in breastmilk, but it would be unlikely to be a large dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a telephone follow-up study, 124 mothers who took a benzodiazepine while nursing reported whether their infants had any signs of sedation. Nineteen mothers took midazolam (presumably orally) while breastfeeding and none reported sedation in her infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Five women who were 6 to 15 weeks postpartum were given single doses of 2 mg of midazolam and 2.5 mg/kg of propofol intravenously before undergoing general anesthesia. The women's milk output following the surgical procedure was less than half of the normal milk output of nursing mothers. The authors speculated that milk volume might be reduced postoperatively because of perioperative fluid restriction and volume losses, as well as stress-induced inhibition of milk production."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Intravenous Sedation) Dexmedetomidine, Etomidate, Methohexital, Propofol; (Oral for Sleep) Zaleplon, Zolpidem"
+  ]
+ ]
+}

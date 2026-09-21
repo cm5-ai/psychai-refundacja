@@ -1,0 +1,33 @@
+{
+ "id": "LM1132",
+ "tytul": "Strontium Chloride Sr 89",
+ "synonimy": [
+  "Metastron",
+  "Strontium-89 chloride",
+  "SMS2PA",
+  "Strontium chloride Sr 89",
+  "Strontium chloride, SR-89",
+  "UNII-5R78837D4A",
+  "5R78837D4A"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1132/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of strontium 89 as a therapeutic agent. No information is available on the therapeutic use of strontium 89 during breastfeeding. It has been estimated that about 9% of the strontium in the maternal bloodstream reaches breastmilk for another strontium isotope, strontium 90. Because strontium can substitute for calcium in infant bones, the manufacturer and expert opinion recommend discontinuing breastfeeding before a nursing mother receives strontium 89 chloride."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Strontium 89 decays by beta emission with a physical half-life of 50.5 days."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

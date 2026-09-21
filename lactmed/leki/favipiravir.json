@@ -1,0 +1,37 @@
+{
+ "id": "favipiravir",
+ "tytul": "Favipiravir",
+ "synonimy": [
+  "Favipiravir",
+  "Avigan",
+  "T 705",
+  "T-705",
+  "T705",
+  "UNII-EW5GL2X7E0",
+  "5-fluoro-2-oxo-1H-pyrazine-3-carboxamide"
+ ],
+ "zaktualizowano": "2025-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/favipiravir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Favipiravir is an antiviral drug that is not approved in the United States by the US Food and Drug Administration. Information from one patient indicates that milk levels are low with a peak level at about 1.5 to 2 hours. Avoiding nursing around the peak time could markedly reduce the infant’s dose. One infant has reportedly been breastfed by a mother receiving favipiravir and pumping her breasts after doses with no adverse effects reported in the infant. Favipiravir has caused liver enzyme abnormalities, gastrointestinal symptoms, and serum uric acid elevations. If favipiravir is used in a nursing mother, these parameters should be monitored in the breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A lactating woman took a single 200 mg dose of favipiravir (Favimol, Neutec Pharmaceutical Company) and provided milk samples at 0.5, 2 and 4 hours after the dose. Milk concentrations were 0.3, 5.5 and 2.7 mg/L, respectively.\nA woman took favipiravir 1,800 mg twice daily on day 1 and 800 mg twice daily on days 2 to 11 of therapy. She was not nursing her infant, but donated milk samples at about 13.5 hours after the previous dose and about 1.5 hours after the morning oral dose on day 9 of therapy. On day 10 of therapy, another milk sample was collected before the morning dose and a final sample was collected on day 11 of therapy 22 hours after the mother’s last dose. The highest favipiravir concentration of 80.9 mg/L was in the sample collected at 1.5 hours after the dose. The favipiravir concentrations in all other samples ranged from 3 to 9.7 mg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A nursing mother with a positive PCR for COVID-19 was prescribed favipiravir with a loading dose of 1600 mg twice on the first day, then 600 mg every 12 hours from day 2 to day 5. She breastfed her 15-month-old COVID-19-negative infant just before each dose of the drug. She pumped and discarded her milk between doses. No symptoms were observed in the baby during drug use and no abnormalities were detected in the baby’s hematological and biochemistry tests. The infant was followed for 6 months and was fed breastmilk and complementary feeding, did not develop any symptoms."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nirmatrelvir, Remdesevir"
+  ]
+ ]
+}

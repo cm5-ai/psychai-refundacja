@@ -1,0 +1,30 @@
+{
+ "id": "Enhertu",
+ "tytul": "Trastuzumab Deruxtecan",
+ "synonimy": [
+  "Fam-Trastuzumab Deruxtecan-nxki",
+  "Enhertu",
+  "DS-8201a",
+  "WHO 10516"
+ ],
+ "zaktualizowano": "2023-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/Enhertu/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of trastuzumab deruxtecan during breastfeeding. Because trastuzumab is a large protein molecule with a molecular weight of 145,531 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. However, deruxtecan (DXd) is a small-molecule topoisomerase 1 inhibitor, which might be excreted into milk. The manufacturer recommends that breastfeeding be discontinued during trastuzumab deruxtecan therapy and for 7 months after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

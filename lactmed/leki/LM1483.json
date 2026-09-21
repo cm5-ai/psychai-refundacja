@@ -1,0 +1,43 @@
+{
+ "id": "LM1483",
+ "tytul": "Ticagrelor",
+ "synonimy": [
+  "Ticagrelor",
+  "Brilinta",
+  "274693-27-5",
+  "AZD6140",
+  "AZD-6140",
+  "UNII-GLH0314RVC",
+  "AZD 6140",
+  "AR-C126532XX",
+  "GLH0314RVC",
+  "Ticagrelor [USAN:INN:BAN]",
+  "HSDB 8306",
+  "(1S,2S,3R,5S)-3-(7-((1R,2S)-2-(3,4-Difluorophenyl)cyclopropylamino)-5-(propylthio)-3H-(1,2,3)triazolo(4,5-d)pyrimidin-3-yl)-5-(2-hydroxyethoxy)cyclopentane-1,2-diol",
+  "1,2-Cyclopentanediol, 3-(7-(((1R,2S)-2-(3,4-difluorophenyl)cyclopropyl)amino)-5-(propylthio)-3H-1,2,3-triazolo(4,5-d)pyrimidin-3-yl)-5-(2-hydroxyethoxy)-, (1S,2S,3R,5S)-"
+ ],
+ "zaktualizowano": "2019-06-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1483/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published information is available on the use of ticagrelor during breastfeeding. Because ticagrelor and its active metabolite are more than 99% bound to plasma proteins, the amount in milk is likely to be low. However, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. If it is used by a nursing mother, monitor the infant for bruising and bleeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Aspirin"
+  ]
+ ]
+}

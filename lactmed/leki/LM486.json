@@ -1,0 +1,36 @@
+{
+ "id": "LM486",
+ "tytul": "Rosuvastatin",
+ "synonimy": [
+  "Rosuvastatin",
+  "Ezallor",
+  "Crestor",
+  "UNII-413KH5ZJ73",
+  "HSDB 7317",
+  "(E,3R,5S)-7-[4-(4-fluorophenyl)-2-[methyl(methylsulfonyl)amino]-6-propan-2-ylpyrimidin-5-yl]-3,5-dihydroxyhept-6-enoic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM486/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Levels of rosuvastatin in milk are low, and one case of an older infant breastfed during maternal rosuvastatin therapy found no adverse effects. The consensus opinion is that women taking a statin should not breastfeed because of a concern with disruption of infant lipid metabolism. However, others have argued that children homozygous for familial hypercholesterolemia are treated with statins beginning at 1 year of age, that statins have low oral bioavailability, and risks to the breastfed infant are low, especially with rosuvastatin and pravastatin. Until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with familial hypercholesterolemia was started on rosuvastatin 40 mg daily on day 33 postpartum. On one unspecified day after beginning rosuvastatin, the breastmilk rosuvastatin concentration was about 22 mcg/L at 21 hours after the previous dose. One hour after the dose, the breastmilk concentration was 15.2 mcg/L, and 7 hours after the dose, the breastmilk concentration was 29.4 mcg/L. Breastmilk concentrations were also measured on day 4 at 3 hours after the dose, day 24 at 3.8 hours after the dose, and on day 80 at 21 hours after the dose. All of these concentrations were in the range of 21 to 22 mcg/L.\nRosuvastatin was being initiated in a nursing mother who was 13 months postpartum and weaning her infant. She began with a dose of 20 mg daily at bedtime. After 5 days of therapy, she donated 8 milk samples over a 24-hour period. The trough milk concentration was 16.6 mcg/L at 5 hours after the dose and remained relatively constant until about 15 hours after the dose. The peak milk concentration of 58.6 mcg/L occurred 17 hours after the dose. The authors calculated a daily infant dosage of 4.63 mcg/kg, which corresponded to a weight-adjusted 1.5% of the maternal dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother with familial hypercholesterolemia hypothyroidism stopped treatment of hyperlipidemia before pregnancy and lactation. At 13 months postpartum she began rosuvastatin 10 mg daily. At the time, the infant was receiving solid foods with 3 to 4 daytime breastfeeds and 2 to 3 nighttime breastfeeds. Lipid parameters in the infant were obtained at baseline and 1 and 5 months after the start of rosuvastatin. All lipid parameters (total cholesterol, triglycerides, HDL and LDL) remained in the normal range over the 5 months. All developmental parameters were normal except for weight at the 97th percentile at 18 months."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A possible case of rosuvastatin-induced gynecomastia has been reported. Serum prolactin was not measured."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cholestyramine, Colesevelam, Colestipol"
+  ]
+ ]
+}

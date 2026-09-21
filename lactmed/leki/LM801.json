@@ -1,0 +1,47 @@
+{
+ "id": "LM801",
+ "tytul": "Primaquine",
+ "synonimy": [
+  "Primaquine",
+  "Primachin",
+  "Neo-Quipenyl",
+  "Primaquin",
+  "Primachinum",
+  "Primaquinum",
+  "Primaquina",
+  "Primachina",
+  "CCRIS 4109",
+  "UNII-MVR3634GX1",
+  "HSDB 6516",
+  "WR 2975",
+  "NSC 27296",
+  "SN 13,272",
+  "EINECS 201-987-2",
+  "BRN 0019337",
+  "4-N-(6-methoxyquinolin-8-yl)pentane-1,4-diamine"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM801/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Primaquine and its metabolite are poorly excreted into breastmilk of nursing mothers and undetectable in the serum of their breastfed infants. Breastfed infants beyond the neonatal period have shown no evidence of hemolysis. Neonates and infants with glucose-6-phosphate dehydrogenase (G6PD) deficiency have not been studied, but G6PD-deficient infants over 28 days of age appear to have a low risk of hemolysis from exposure in breastmilk. Modeling suggests that nursing mothers can receive primaquine with little risk to their infants, even if the infants are G6PD deficient.\nUnited Kingdom malaria treatment guidelines recommend that primaquine be avoided in nursing mothers with malaria and that weekly chloroquine 500 mg be given until breastfeeding is completed. However, these guidelines were developed before information on the excretion of primaquine into breastmilk and safety in breastfed infants was published. More recent information indicates that all mothers nursing infant over 28 days of age could safely receive primaquine. The Centers for Disease Control and Prevention guidelines state that primaquine may be used in breastfeeding mothers and infants with normal G6PD levels. Because the small amounts of primaquine transferred in breast milk are insufficient to provide adequate protection or treatment of malaria, infants who require chemoprophylaxis or therapy must receive the recommended dosages of primaquine."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Primaquine’s major metabolite is carboxyprimaquine, which has unknown activity against malaria. Primaquine’s half-life is about 6 hours and carboxyprimaquine’s half-life is 22 to 30 hours.\nMaternal Levels. Twenty-one mothers with vivax malaria were given a dosage of primaquine 0.5 mg/kg daily for 14 days. Milk samples were taken on days 0 (first day of therapy), 3, 7, and 13 of therapy at various times after the dose. Peak breastmilk primaquine concentrations occurred about 1 hour after peak plasma concentrations (usually 3.4 to 3.9 hours after the dose) and averaged 44 mcg/L. Average peak breastmilk carboxyprimaquine concentrations 0f 7.2 mcg/L occurred 19 hours after the dose on day 0, and 12.1 mcg/L at hours 4 hours after the dose on day 13. These data and infant blood levels of primaquine and its metabolite were incorporated into a population pharmacokinetic model. The model showed that primaquine and carboxyprimaquine weight-adjusted relative infant dosages ranged from 0.47% to 0.51% with maternal doses ranging from 0.25 mg/kg to 1 mg/kg daily. The authors concluded that even in infants with the most severe G6PD deficiency variants, it is highly unlikely that standard doses of primaquine (0.25 to 1 mg base/kg once daily given to the mother for 1 to 14 days) would cause clinically important hemolysis.\nA physiologically based pharmacokinetic model was constructed to simulate breastmilk and infant serum levels and compared to published milk level data. Results indicate that the relative infant dosage in infants would be less than 0.13%. the absolute infant dosage would be less than the dosage that might cause hemolysis in infants over 28 days of age with G-6-PD deficiency.\nA physiologically based pharmacokinetic model has been developed that adequately predicts primaquine excretion into breastmilk.\nInfant Levels. Twenty-one mothers with vivax malaria were given a dosage of primaquine 0.5 mg/kg daily for 14 days. Capillary blood samples were taken from the infants on days 0 (first day of therapy), 3, 7, and 13 of therapy at various times after the dose and after breastfeeding. All infant blood samples had unmeasurable amounts of primaquine (<1.14 mcg/L) and only 1 infant blood sample contained a measurable amount of carboxyprimaquine of 2.59 mcg/L on day 7 hour 0. Based on milk concentrations, the authors calculated median total cumulative primaquine dose expected to be ingested by the infant over the 14-day course based on measured breast milk concentrations to be approximately 0.042 mg/kg, corresponding to 2.98 mcg/kg daily (0.6% of a hypothetical infant daily dose of 0.5 mg/kg). The highest cumulative infant dose was estimated at 0.127 mg/kg, or 9.07 mcg/kg daily, which is 1.8% of a hypothetical infant daily dose of 0.5 mg/kg. These data and infant blood levels of primaquine and its metabolite were incorporated into a population pharmacokinetic model, which indicated that infant serum levels would be undetectable (<1.8 mcg/L for primaquine and <7.8 mcg/L for carboxyprimaquine)."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Twenty-one mothers with vivax malaria were given a dosage of primaquine 0.5 mg/kg daily for 14 days while breastfeeding their infants who were at least 28 days old. No alterations in hematocrit, Heinz body counts, serum bilirubin, oxygen saturation, or methemoglobinemia were seen in any of the infants.\nA woman with vivax malaria who was 5 months postpartum was given a dose of primaquine of 0.52 mg/kg daily for 7 days, then 0.46 mg/kg daily for 7 days after rechecking the patient’s weight. She was found to be heterozygous for glucose-6-phosphate dehydrogenase (G6PD) deficiency and experienced some hemolysis and anemia. Her female infant was being breastfed (extent not stated) during treatment and was found to be heterozygous for the G6PD Mahidol variant, but had no apparent hemolysis. The child’s vaccination schedule was completed, and the 6-month motor milestones were normal."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Atovaquone and Proguanil, Chloroquine, Doxycycline, Mefloquine"
+  ]
+ ]
+}

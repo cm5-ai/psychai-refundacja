@@ -1,0 +1,83 @@
+{
+ "id": "posaconazole",
+ "tytul": "Posaconazole",
+ "synonimy": [
+  "Posaconazole",
+  "Noxafil",
+  "Sch 56592",
+  "SCH-56592",
+  "SCH56592",
+  "Schering 56592",
+  "UNII-6TK1G07BHZ",
+  "6TK1G07BHZ",
+  "DTXSID6049066",
+  "CHEBI:64355",
+  "HSDB 7421",
+  "CHEMBL1397",
+  "DTXCID401474254",
+  "MMV688774",
+  "C37H42F2N8O4",
+  "pasaconazole",
+  "posaconazolum",
+  "NCGC00185736-01",
+  "SCHEMBL991747",
+  "GTPL11428",
+  "J02AC04",
+  "BCP01102",
+  "Tox21_113620",
+  "BDBM50181473",
+  "s1257",
+  "AKOS005145917",
+  "Tox21_113620_1",
+  "AC-1350",
+  "CCG-270387",
+  "CS-0998",
+  "DB01263",
+  "KS-1413",
+  "NCGC00274060-01",
+  "NCGC00274060-02",
+  "NCGC00274060-07",
+  "BP163592",
+  "BP163593",
+  "BP164281",
+  "HY-17373",
+  "1ST156847",
+  "NS00002082",
+  "P2477",
+  "SW219391-1",
+  "D02555",
+  "P-7020",
+  "SBI-0654141.0001",
+  "AB01274762-01",
+  "AB01274762_02",
+  "EN300-19769273",
+  "Q906453",
+  "BRD-K06222852-001-03-2",
+  "BRD-K06222852-001-05-7",
+  "4-[4-[4-[4-[[(3R,5R)-5-(2,4-difluorophenyl)-5-(1,2,4-triazol-1-ylmethyl)oxolan-3-yl]methoxy]phenyl]piperazin-1-yl]phenyl]-2-[(2S,3S)-2-hydroxypentan-3-yl]-1,2,4-triazol-3-one"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/posaconazole/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of posaconazole during breastfeeding. Because posaconazole is more than 98% bound to plasma proteins, the amount in milk is likely to be low. However, there is no published experience with posaconazole during breastfeeding, so an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Fluconazole, Miconazole"
+  ]
+ ]
+}

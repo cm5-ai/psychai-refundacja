@@ -1,0 +1,42 @@
+{
+ "id": "LM1221",
+ "tytul": "Dasatinib",
+ "synonimy": [
+  "Dasatinib",
+  "Sprycel",
+  "302962-49-8",
+  "BMS-354825",
+  "Dasatinib anhydrous",
+  "UNII-X78UG0A0RN",
+  "BMS 354825",
+  "BMS354825",
+  "Dasatinib [USAN:INN]",
+  "X78UG0A0RN",
+  "N-(2-chloro-6-methylphenyl)-2-((6-(4-(2-hydroxyethyl)piperazin-1-yl)-2-methylpyrimidin-4-yl)amino)thiazole-5-carboxamide",
+  "5-Thiazolecarboxamide, N-(2-chloro-6-methylphenyl)-2-((6-(4-(2-hydroxyethyl)-1-piperazinyl)-2-methyl-4-pyrimidinyl)amino)-"
+ ],
+ "zaktualizowano": "2021-07-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1221/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although one breastfed infant apparently experienced no adverse effects during maternal use of dasatinib, no long-term data are available. Because dasatinib and its metabolite are more than 90% bound to plasma proteins, the amounts in milk are likely to be low. However, there is little published experience with dasatinib during breastfeeding, and an alternate drug may be preferred, especially while nursing a newborn or preterm infant. National Comprehensive Cancer Network guidelines recommend avoiding breastfeeding during dasatinib therapy and the manufacturer recommends withholding breastfeeding until 2 weeks following the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with chronic myeloid leukemia received dasatinib 100 mg daily throughout pregnancy and continuing postpartum, apparently while breastfeeding her infant (extent not stated). No adverse reactions were reported in her infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Imatinib"
+  ]
+ ]
+}

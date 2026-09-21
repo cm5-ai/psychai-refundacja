@@ -1,0 +1,46 @@
+{
+ "id": "methylnaltrexone",
+ "tytul": "Methylnaltrexone",
+ "synonimy": [
+  "Methylnaltrexone",
+  "Relistor",
+  "DTXSID20873339",
+  "MRZ 2663BR",
+  "MRZ-2663",
+  "UNII- 0RK7M7IABE",
+  "CHEMBL470617",
+  "SCHEMBL49356",
+  "GTPL7563",
+  "orb1740872",
+  "CHEMBL1186579",
+  "SCHEMBL29359503",
+  "CHEBI:136007",
+  "NS00006486",
+  "Q411515",
+  "(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-3-methyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-3-ium-7-one"
+ ],
+ "zaktualizowano": "2026-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/methylnaltrexone/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Methylnaltrexone is not marketed in the United States, but is available in other countries. No information is available on the use of methylnaltrexone during breastfeeding. The manufacturer recommends avoiding breastfeeding in mothers taking methylnaltrexone. Based on pharmacokinetic data, the oral absorption of methylnaltrexone appears to be very low. Observe breastfed infants who have been exposed to opioids during pregnancy or postpartum for signs of opioid withdrawal, especially diarrhea."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Based on the serum AUC values of oral and subcutaneous methylnaltrexone in the product labeling, it appears that methylnaltrexone has an oral bioavailability of <5%.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Naldemedine"
+  ]
+ ]
+}

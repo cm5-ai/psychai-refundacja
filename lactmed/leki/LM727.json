@@ -1,0 +1,47 @@
+{
+ "id": "LM727",
+ "tytul": "Candesartan",
+ "synonimy": [
+  "candesartan",
+  "Atacand",
+  "Atacand-HCT",
+  "Candemore",
+  "Celexetil",
+  "CV-11974",
+  "DTXSID0022725",
+  "NSC-759858",
+  "CHEBI:3347",
+  "DTXCID202725",
+  "CV11974",
+  "Candesartanum",
+  "UNII-S8Q36MD2XX",
+  "CV-11974",
+  "HSDB 7520",
+  "EC 604-138-8",
+  "2-ethoxy-3-[[4-[2-(2H-tetrazol-5-yl)phenyl]phenyl]methyl]benzimidazole-4-carboxylic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM727/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Preliminary evidence suggests that candesartan passes poorly into milk and is barely detectable in the plasma of breastfed infants. Use of candesartan is not a reason to discontinue nursing, but use caution in newborn and preterm infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Three women taking candesartan for at least 2 weeks donated several milk samples, either as fore-and hindmilk samples or as a total milk collection at each time, over a 24-hour period after taking a dose of the drug. Two women were taking 8 mg daily and one was taking 32 mg daily. The peak milk level was 3.78 mcg/L with the 32 mg dose and 0.69 and 1.05 mcg/L with the 8 mg doses. Peak milk times were about 7.75, 8, and 9.25 hours after the dose. The authors estimated that the infant would receive a weight-adjusted maternal dosage between 0.08 and 0.1%.\nInfant Levels. Two infants aged 8 and 13 months were breasted (extent not stated) by mothers taking candesartan 8 mg daily. Blood samples were taken at about 2.5 and 3.5 hours after the maternal doses (time of nursing not reported). Plasma candesartan concentrations were less than 0.2 mcg/L in both infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Valsartan"
+  ]
+ ]
+}

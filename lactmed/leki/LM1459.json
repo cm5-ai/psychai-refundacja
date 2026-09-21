@@ -1,0 +1,35 @@
+{
+ "id": "LM1459",
+ "tytul": "Ravulizumab",
+ "synonimy": [
+  "Ravulizumab",
+  "Ultomiris",
+  "UNII-C3VX249T6L",
+  "ALXN1210",
+  "immunoglobulin G2/G4, anti-(human complement c5) (human-mus musculus alxn1210 heavy chain), disulfide with human-mus musculus alxn1210 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1459/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Several have been breastfed without harm by mothers taking ravulizumab. The milk concentration was very low in one patient, consistent with it being a large protein molecule with a molecular weight of about 148,000 Da. Absorption is unlikely because it is probably partially destroyed in the infant's gastrointestinal tract. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant. The manufacturer recommends that breastfeeding be discontinued during ravulizumab therapy and for 8 months after the final dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A multicenter, retrospective study identified one mother receiving ravulizumab during pregnancy and postpartum for paroxysmal nocturnal hemoglobinuria. Three days after delivery ravulizumab concentration in breastmilk was 1.9 mg/L in one patient, although the details of the dosage and timing of the previous dose were not provided. The milk level was much lower than the cord blood or maternal serum concentrations.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A single-center, retrospective review of 19 women who received ravulizumab during pregnancy and postpartum revealed 16 mothers who breastfed during ravulizumab therapy. After a median follow-up of 16.2 months (IQR 4.4 to 40.1 months), no developmental abnormalities or severe infectious complications were observed in the children.\nA mother taking ravulizumab was switched to eculizumab during pregnancy. She delivered a baby by cesarean section. At 3 weeks postpartum, she switched back to ravulizumab (dose not stated). The boy was fully breastfed and appeared well during the routine check-ups."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Eculizumab"
+  ]
+ ]
+}

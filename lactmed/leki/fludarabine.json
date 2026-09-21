@@ -1,0 +1,44 @@
+{
+ "id": "fludarabine",
+ "tytul": "Fludarabine",
+ "synonimy": [
+  "Fludarabine",
+  "fludarabine phosphate",
+  "F-ara-A",
+  "UNII-P2K93U8740",
+  "Fludarabina",
+  "Fluradosa",
+  "Fludarabinum",
+  "CCRIS 3382",
+  "DTXSID4039657",
+  "NSC118218",
+  "RefChem:58475",
+  "L01BB05",
+  "MFCD00132942",
+  "HSDB 6964",
+  "NCGC00181336-01",
+  "EINECS 244-525-5",
+  "NSC 118218H",
+  "(2R,3S,4S,5R)-2-(6-amino-2-fluoropurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/fludarabine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of fludarabine during breastfeeding. Because of potential toxicity to the infant, the manufacturer recommends withholding breastfeeding during therapy and for one week after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

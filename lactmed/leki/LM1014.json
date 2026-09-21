@@ -1,0 +1,41 @@
+{
+ "id": "LM1014",
+ "tytul": "Carboplatin",
+ "synonimy": [
+  "carboplatin",
+  "Carboplatine",
+  "Carboplatino",
+  "Carboplatinum",
+  "Paraplatin",
+  "UNII-BG3F62OND5",
+  "CCRIS 3404",
+  "JM 8",
+  "HSDB 6957",
+  "JM-8",
+  "EINECS 255-446-0",
+  "NSC 201345",
+  "NSC 241240",
+  "NSC-241240",
+  "azanide;cyclobutane-1,1-dicarboxylic acid;platinum(2+)"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1014/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "After carboplatin administration to nursing mothers, excretion of platinum into milk occurs. The exact forms and toxicities of platinum excreted into breastmilk are not known. The nursing infant would receive platinum compounds orally rather than intravenously and oral absorption of platinum compounds by infants is not known. Platinum in milk may increase with repeated courses of chemotherapy. Most sources consider that mothers receiving antineoplastic therapy should not breastfeed, especially with alkylating agents such as cisplatin. It is probably not safe to breastfeed during carboplatin therapy, and breastfeeding should be discontinued. Resuming breastfeeding 3 weeks after the last dose of cisplatin has been done safely in one case.\nChemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with a history of treatment for thyroid cancer and recurrence during pregnancy was treated postpartum with carboplatin and paclitaxel. Her intravenous carboplatin dose was 233 mg (2.9 mg/kg; AUC 1.5) weekly for 6 weeks. Whole milk samples were obtained at 4, 28, 172, and 316 hours after the dose. The highest milk carboplatin level was 0.9 mg/L in the 4-hour sample and carboplatin was still measurable (0.16 mg/L) in the 317 hour sample. Metabolites were not measured. The authors calculated an average milk carboplatin level over the 316 hour collection period of 0.4 mg/L, resulting in an estimated total infant weight-adjusted daily dose of 2% of the maternal weekly dose. Note that the above estimate of an infant daily dose is expressed as percentage of the maternal weekly dose, and that the authors used a level of zero as the trough milk level, rather than a milk level taken before the sixth dose (which would equal approximately the 172-hour level of 0.25 mg/L), resulting in an underestimate of the AUC and infant dose.\nA woman with breast cancer diagnosed during pregnancy received chemotherapy beginning a few days after delivery. It consisted of doxorubicin 118 mg and cyclophosphamide 1180 mg every 2 weeks for 4 cycles, followed by paclitaxel 156 mg weekly and carboplatin 900 mg every 4 weeks. She collected 97 milk samples; a selection of 78 samples were analyzed for carboplatin. Reported carboplatin concentrations in the milk samples were calculated based on the measured platinum concentrations using the molecular weight of carboplatin with the assumption that all measured platinum was carboplatin. Peak levels ranged from 160 mcg/L to 350 mcg/L. Milk levels dropped rapidly to less than 100 mcg/L by 2 days after the dose. Platinum levels plateaued after several days at levels between 10 and 50 mcg/L that appeared to increase with repeated cycles of chemotherapy. The authors calculated the times for the milk concentrations to reach various relative infant dosage (RID) levels. It took less than 1 day to fall below an RID of 1%; however, the actual platinum species in milk were not determined.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A telephone follow-up study was conducted on 74 women who received cancer chemotherapy at one center during the second or third trimester of pregnancy to determine if they were successful at breastfeeding postpartum. Only 34% of the women were able to exclusively breastfeed their infants, and 66% of the women reported experiencing breastfeeding difficulties. This was in comparison to a 91% breastfeeding success rate in 22 other mothers diagnosed during pregnancy, but not treated with chemotherapy. Other statistically significant correlations included: 1. mothers with breastfeeding difficulties had an average of 5.5 cycles of chemotherapy compared with 3.8 cycles among mothers who had no difficulties; and 2. mothers with breastfeeding difficulties received their first cycle of chemotherapy on average 3.4 weeks earlier in pregnancy. Of the 3 women who received a regimen containing the similar drug, cisplatin, 1 had breastfeeding difficulties."
+  ]
+ ]
+}

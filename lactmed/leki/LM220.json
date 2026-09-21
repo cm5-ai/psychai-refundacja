@@ -1,0 +1,31 @@
+{
+ "id": "LM220",
+ "tytul": "Pneumococcal Vaccines",
+ "synonimy": [
+  "Pneumovax-23",
+  "Prevnar-13",
+  "Capvaxive",
+  "Vaxneuvance",
+  "PPSV23"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM220/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The Centers for Disease Control and Prevention and other expert opinion state that vaccines given to a nursing mother do not affect the safety of breastfeeding for mothers or infants and that breastfeeding is not a contraindication to pneumococcal vaccine. Immunization of the mother during the third trimester of pregnancy markedly increases the amount of pneumococcal antibodies in breastmilk. Breastfed infants should be vaccinated according to the routine recommended schedules."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A study followed mothers who received the 23-valent pneumococcal polysaccharide vaccine. Mothers who received the vaccination during pregnancy or within 72 hours postpartum had sIgA and IgG in their breastmilk that persisted for at least 7 months postpartum.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Limited data indicate that breastfeeding can enhance the response of the infant to certain vaccine antigens. Infants breastfed for longer than 90 days have a better antibody response to some pneumococcal strains in the vaccine at 13 months of age than those breastfed less than 90 days. Some evidence of decreased pneumococcal disease has been found among breastfed infants of vaccinated mothers."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Immunization of pregnant women with pneumococcal vaccine increased the specific secretory IgA content of milk and colostrum. These antibodies in colostrum help inhibit epithelial adhesion of pneumococci to pharyngeal epithelial cells."
+  ]
+ ]
+}

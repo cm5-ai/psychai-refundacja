@@ -1,0 +1,34 @@
+{
+ "id": "LM1263",
+ "tytul": "Alectinib",
+ "synonimy": [
+  "Alectinib",
+  "Alecensa",
+  "CH5424802",
+  "UNII-LIJ4CT1Z3Y",
+  "CH 5424802",
+  "AF-802",
+  "LIJ4CT1Z3Y",
+  "AF 802"
+ ],
+ "zaktualizowano": "2023-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1263/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of alectinib during breastfeeding. Because alectinib is more than 99% bound to plasma proteins, the amount in milk is low. However, its half-life is about 33 hours and it might accumulate in the infant. The manufacturer recommends that breastfeeding be discontinued during alectinib therapy and for 1 week after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman being treated with alectinib 600 mg once daily for lung cancer gave birth a normal infant. A milk sample taken postpartum contained 152 mcg/L of alectinib. The time of the sample was not stated, but because of the drug’s long half-life, the timing might not be critical.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

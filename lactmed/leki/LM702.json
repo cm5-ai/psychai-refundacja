@@ -1,0 +1,37 @@
+{
+ "id": "LM702",
+ "tytul": "Levocetirizine",
+ "synonimy": [
+  "Levocetirizine",
+  "Xusal",
+  "Xarlin",
+  "Xyzal",
+  "UNII-6U5EA9RT2O",
+  "Acetic acid, (2-(4-((R)-(4-chlorophenyl)phenylmethyl)-1-piperazinyl)ethoxy)-",
+  "(2-(4-((R-p-Chloro-alpha-phenylbenzyl)-1-piperazinyl)ethoxy)acetic acid"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM702/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Levocetirizine is the R-enantiomer of cetirizine. Based on limited information from cetirizine and levocetirizine, levocetirizine appears to be acceptable during breastfeeding. Larger doses or more prolonged use may cause drowsiness and other effects in the infant or decrease the milk supply, particularly in combination with a sympathomimetic such as pseudoephedrine or before lactation is well established. International guidelines recommend cetirizine, the racemic form of the drug, as an acceptable choice if an antihistamine is required during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. As part of a validation study on analysis of cetirizine and levocetirizine in breastmilk, 252 steady-state milk samples from 228 women taking either cetirizine 5 to 20 mg daily (n = 229) or levocetirizine 5 mg daily (n = 9) were analyzed. Specific dosages and times of milk collection were not given. The median milk concentrations of cetirizine and levocetirizine was 13 mcg/L (range 0.65 to 65 mcg/L; IQR 4.9 to 24.8 mcg/L) in 228 samples. Twenty-four samples had levels below the limit of quantification (<0.39 mcg/L).\nA woman taking levocetirizine collected complete samples of milk at about 0, 2, 4, 8, 12 and 24 hours after a daily dose and submitted aliquots for analysis. The peak milk levocetirizine concentration was 19.3 mcg/L and the average concentration was 7.2 mcg/L. The peak time was 1.9 hours and half-life was 6.2 hours. Using the peak milk level, the infant daily dosage was calculated to be 1.1 mcg/kg, and the relative infant dosage was 1.9%. These values were consistent with those obtained from 31 women in the same study who were taking cetirizine. Using the average concentration would result in a daily infant dosage of 0.4 mcg/kg daily and a relative infant dosage of 0.7%. The authors used the data in this study to create a pharmacokinetic model using NONMEM. The model predicted an average RID of 1.8% and a worst-case RID of 3.4% using peak milk levels.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information on levocetirizine was not found as of the revision date. In one telephone follow-up study, mothers reported irritability and colicky symptoms in 10% of infants exposed to various antihistamines, and drowsiness was reported in 1.6% of infants. None of the reactions required medical attention.\nA nursing mother taking levocetirizine 5 mg daily reported no adverse effects in her breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Antihistamines in relatively high doses given by injection can decrease basal serum prolactin in nonlactating women and in early postpartum women. However, suckling-induced prolactin secretion is not affected by antihistamine pretreatment of postpartum mothers. Whether lower oral doses of levocetirizine have the same effect on serum prolactin or whether the effects on prolactin have any consequences on breastfeeding success have not been studied. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cetirizine, Desloratadine, Fexofenadine, Loratadine"
+  ]
+ ]
+}

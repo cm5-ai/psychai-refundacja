@@ -1,0 +1,42 @@
+{
+ "id": "LM808",
+ "tytul": "Iodofiltic Acid I 123",
+ "synonimy": [
+  "Zemiva",
+  "Zemiva",
+  "BMIPP",
+  "Iodofiltic acid IIodofiltic acid (123I)",
+  "UNII-0J7USQ749M",
+  "Iodofiltic acid (123I) [INN",
+  "AC1LCS7E",
+  "Acido iodofiltico (123i)",
+  "RefChem:791153",
+  "Acide iodofiltique (123i)",
+  "iodofiltic acid ((1)(2)(3)I) [INN]",
+  "CHEMBL3989901",
+  "SCHEMBL29410386",
+  "CHEBI:31683",
+  "DTXSID60924591",
+  "15-(4-iodophenyl)-3-methylpentadecanoic acid"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM808/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of iodofiltic acid I 123 (beta-methyl-15-(4-iodophenyl) pentadecanoic acid; I 123 BMIPP) as a diagnostic agent. The International Commission on Radiological Protection states that breastfeeding should be interrupted for more than 3 weeks following diagnostic use of I 123 BMIPP because of possible contamination with other iodine isotopes. Because this contamination does not occur with modern production methods, discontinuation of nursing is not necessary, especially if a thyroid blocking agent is given to the mother.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "I 123 is a gamma emitter with a principal photon energy of 159 keV and a physical half-life of 13.1 hours. Iodide is actively secreted into breastmilk and actively taken up by the mother's and infant's thyroid glands."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

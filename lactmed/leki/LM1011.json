@@ -1,0 +1,43 @@
+{
+ "id": "LM1011",
+ "tytul": "Elvitegravir",
+ "synonimy": [
+  "Elvitegravir",
+  "Vitekta",
+  "Genvoya",
+  "Stribild",
+  "GS-9137",
+  "JTK-303",
+  "UNII-4GDQ854U53",
+  "JTK 303",
+  "GS 9137",
+  "4GDQ854U53",
+  "EVG",
+  "6-(3-Chloro-2-fluorobenzyl)-1-((2S)-1-hydroxy-3-methylbutan-2-yl)-7-methoxy-4-oxo-1,4-dihydroquinoline-3-carboxylic acid",
+  "3-Quinolinecarboxylic acid, 6-((3-chloro-2-fluorophenyl)methyl)-1,4-dihydro-1-((1S)-1-(hydroxymethyl)-2-methylpropyl)-7-methoxy-4-oxo-"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1011/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published information is available on the use of elvitegravir during breastfeeding. An alternate agent may be preferred. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Raltegravir"
+  ]
+ ]
+}

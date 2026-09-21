@@ -1,0 +1,53 @@
+{
+ "id": "LM816",
+ "tytul": "Mifepristone",
+ "synonimy": [
+  "mifepristone",
+  "Mifegyne",
+  "Mifeprex",
+  "Corlux",
+  "Korlym",
+  "Mifepristonum",
+  "Mifepristona",
+  "84371-65-3",
+  "Mifepristonum [Latin]",
+  "Mifepristona [Spanish]",
+  "UNII-320T6RNW1F",
+  "RU 486",
+  "Mifepristone [USAN:INN:BAN]",
+  "RU 38486",
+  "HSDB 6841",
+  "320T6RNW1F",
+  "CCRIS 9332",
+  "BRN 5779404",
+  "RU 486-6",
+  "R 38486",
+  "11beta-(4-(Dimethylamino)phenyl)-17beta-hydroxy-17-(1-propynyl)estra-4,9-dien-3-on",
+  "17-beta-Hydroxy-11-beta-(4-dimethylaminophenyl-1)-17-alpha-(prop-1-ynyl)oestra-4,9-dien-3-one",
+  "11beta-(4-(Dimethylamino)phenyl)-17-hydroxy-21-methyl-19-nor-17alpha-pregna-4,9-dien-20-m-3-on",
+  "11beta-(4-(N,N-Dimethylamino)phenyl)-17alpha-(prop-1-ynyl)-delta4,9-estradiene-17beta-ol-3-one",
+  "11beta-(p-(Dimethylamino)phenyl)-17beta-hydroxy-17-(1-propynyl)estra-4,9-dien-3-one",
+  "(11beta,17beta)-11-(4-(Dimethylamino)phenyl)-17-hydroxy-17-(1-propynyl)-estra-4,9-dien-3-one",
+  "Estra-4,9-dien-3-one, 11-(4-(dimethylamino)phenyl)-17-hydroxy-17-(1-propynyl)-, (11-beta,17-beta)-"
+ ],
+ "zaktualizowano": "2022-07-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM816/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that breastfeeding need not be interrupted after a single dose of mifepristone as in a medical abortion, but a dose of 200 mg might be preferable to a 600 mg dose in nursing mothers. Breastfeeding should be avoided during long-term therapy as a cortisol receptor blocker for controlling hyperglycemia. Because of its long half-life, the manufacturer recommends pumping and discarding milk during long-term therapy and for 18 to 21 days after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twelve women (most 6 to 12 months postpartum) who had undergone a medical abortion using mifepristone and misoprostol provided milk samples for up to 5 days after the procedure for measurement of mifepristone. In the 2 women who received a single dose of 200 mg orally, mifepristone was undetectable (<5.6 mcg/L) in breastmilk at all times. Among the 10 women who received a single oral dose of 600 mg, average mifepristone breastmilk levels were 172 mcg/L on day 1 (n = 9); 66 mcg/L on day 2 (n = 9); 31 mcg/L on day 3 (n = 10); 24 mcg/L on day 4 (n = 4); and 25 mcg/L on day 5 (n = 3). Breastmilk levels of mifepristone were highest in the samples collected between 6 and 9 hours after drug administration. Samples collected between 9 and 15 hours after the dose had much lower mifepristone levels. The authors estimated that a fully breastfed infant would receive a weight-adjusted dosage of 0.5% of the maternal dosage. They suggested that breastfeeding need not be interrupted after a single dose of mifepristone and that a dose of 200 mg might be preferable to a 600 mg dose in nursing mothers.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Based on animal data, some authors suggest that mifepristone used at term might shorten the onset of lactation, increase milk flow and increase the initial growth rate of breastfed infants. However, no human data are available."
+  ]
+ ]
+}

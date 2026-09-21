@@ -1,0 +1,61 @@
+{
+ "id": "LM1123",
+ "tytul": "Dihydrocodeine",
+ "synonimy": [
+  "Dihydrocodeine",
+  "Dihydroneopine",
+  "Hydrocodeine",
+  "Codhydrine",
+  "Hydrocodin",
+  "Dehacodin",
+  "Paracodin",
+  "Cohydrin",
+  "Drocode",
+  "Novicodin",
+  "Novicondin",
+  "Paracodine",
+  "Rapacodin",
+  "Dihydrin",
+  "Didrate",
+  "Nadeine",
+  "Parzone",
+  "alpha-Hydrocodol",
+  "Dihydrocodeinum",
+  "Dihidrocodeina",
+  "Dihydrokodein",
+  "Diidrocodeina",
+  "Synalgos-dc",
+  "DHCplus",
+  "Dihydrokodein [Czech]",
+  "Diidrocodeina [DCIT]",
+  "UNII-N9I9HDB855",
+  "DEA No. 9120",
+  "EINECS 204-732-3",
+  "NSC 231319",
+  "(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,5,6,7,7a,13-octahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1123/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Dihydrocodeine products are no longer marketed in the United States. Maternal use of oral opioids during breastfeeding can cause infant drowsiness, which may progress to rare but severe central nervous system depression. Like codeine, pharmacogenetics probably plays a role in the extent of central nervous system depression with dihydrocodeine. Newborn infants seem to be particularly sensitive to the effects of even small dosages of narcotic analgesics. Dihydrocodeine possibly caused severe respiratory depression in one newborn infant whose mother was taking the drug for cough. If dihydrocodeine is required by the mother of a newborn, it is not a reason to discontinue breastfeeding; however, once the mother's milk comes in, it is best to provide pain control with a nonnarcotic analgesic and limit maternal intake of dihydrocodeine to 2 to 3 days at a low dosage with close infant monitoring. If the baby shows signs of increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness, a physician should be contacted immediately. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped. Because there is little published experience with dihydrocodeine during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Dihydrocodeine is metabolized via CYP2D6 to the active metabolite, dihydromorphine, which has a potency similar to morphine. Other weakly active metabolites include nordihydrocodeine, which is formed via CYP3A4, and dihydrocodeine-6-glucuronide. Both dihydrocodeine and dihydrocodeine-6-glucuronide are excreted renally.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman began taking dihydrocodeine drops for cough twice daily (5.28 mg) beginning on the first day postpartum. One day later, her breastfed infant was difficult to arouse and was not breastfeeding well. The infant had bradycardia, hypoglycemia, and an oxygen saturation of 85%. After 24 hours in the hospital, all symptoms resolved. The symptoms were possibly caused by dihydrocodeine in milk."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Narcotics can increase serum prolactin. However, the prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Analgesia) Acetaminophen, Butorphanol, Hydromorphone, Ibuprofen, Morphine; (Antitussive) Dextromethorphan"
+  ]
+ ]
+}

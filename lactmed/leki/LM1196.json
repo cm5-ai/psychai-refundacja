@@ -1,0 +1,42 @@
+{
+ "id": "LM1196",
+ "tytul": "Peginterferon Beta",
+ "synonimy": [
+  "Plegridy",
+  "PEG IFN-beta-1a",
+  "BIIB017",
+  "PEGINTERFERON BETA-1A",
+  "BIIB 017",
+  "UNII-I8309403R0",
+  "Peginterferon beta-1a [USAN:INN]",
+  "Polyethylene glycol-interferon beta-1a",
+  "I8309403R0",
+  "1211327-92-2",
+  "N2.1-((2RS)-2-Methyl-3-(alpha-methylpoly(oxyethylene)oxy)propyl)human interferon beta (fibroblast interferon, IFN-beta) glycosylated expressed in mammalian cells",
+  "Poly(oxy-1,2-ethanediyl), alpha-methyl-omega-hydroxy-, 1-ether with N-(3-hydroxy-2-methylpropyl)interferon beta-1a (human)"
+ ],
+ "zaktualizowano": "2023-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1196/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "After a standard subcutaneous dose of peginterferon beta-1a, the amount of peginterferon beta 1a in milk is miniscule. In addition, because interferon is poorly absorbed orally, it is not likely to reach the bloodstream of the infant. Polyethylene glycol is not excreted into breastmilk. Many women have breastfed while taking conventional interferon beta-1a and a few with peginterferon beta-1a with no adverse infant effects reported. The Multiple Sclerosis Centre of Excellence on Reproduction and Child Health considers interferon beta to be \"moderately safe\" to use during breastfeeding, and a French consensus group of neurologists concluded that interferon beta can be used during breastfeeding. No special precautions appear to be required during breastfeeding while using peginterferon beta."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Five breastfeeding women with multiple sclerosis who had weaned their infants began receiving peginterferon beta-1a subcutaneous injection at a median of 29.6 weeks postpartum. Patients collected a baseline breastmilk sample prior to treatment initiation and daily breastmilk samples on days 1 to 14 after a 125 mcg dose to measure intact peginterferon beta-1a. The peginterferon beta-1a concentration in breastmilk at baseline was below detectable levels. The highest breastmilk concentration recorded was 126.2 ng/L in one patient on day 6 after the dose. All of the other mothers had peak milk levels below 72 ng/L. Mean breast milk concentrations were 47.1, 40.9, 54.8, 65.7, 42.8, 38.2, and 27.4 ng/L on days 2, 4, 6, 8, 10, 12, and 14, respectively. Most breast milk samples had undetectable concentrations of peginterferon beta-1a (<15 mcg/L) from day 8 to day 14. The geometric mean peak concentration was 48.9 ng/L and the median time to the peak was 4 days. The mean breastmilk concentration across all study days was 35.95 ng/L. The authors estimated that a fully breastfed infant would receive a total of 0.019% of the maternal weight-adjusted dosage over a two-week dosage interval.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Six women had been receiving interferon beta-1a (Avonex, Biogen) 30 mcg intramuscularly once weekly for multiple sclerosis for months to years. None of the mothers noticed any adverse effects in their breastfed infants.\nA woman received interferon beta-1b (Betaferon, BayerHealthCare; dosage unspecified) for multiple sclerosis throughout pregnancy. She continued the drug while she exclusively breastfed her infant. At 5 months of age, the infant was monitored regularly by a physician and was developing well with no abnormalities.\nOne mother received interferon beta-1a for multiple sclerosis during pregnancy and postpartum. All of their infants were exclusively breastfed for 6 months and no noticeable problems were reported in any of them.\nIn data collected from 4 countries, 17 women received interferon and 41 women received glatiramer during pregnancy and postpartum for treatment of multiple sclerosis. Of these, 63% breastfed (extent not stated) their infants for a mean of 8.8 months. No mention was made of adverse reactions in breastfed infants.\nThirty-nine women with multiple sclerosis who were treated with interferon beta-1a during breastfeeding were followed by the German Multiple Sclerosis and Pregnancy Registry. During breastfeeding, the drug was administered every other day (n = 8), 3 times a week (n = 15), or once a week (n = 12). In addition, one woman receive peginterferon beta-1a every 2 weeks, and in 3 additional women, the frequency was not known. One woman received both interferon beta-1a every other day and glatiramer daily. Most infants were also exposed during pregnancy. Infants were breastfed for an average of 9.2 months (range 1.6 to 28.5 months) during interferon therapy. Infants were followed for 1 year and most developed normally; the percentages of infants with developmental delay, courses of antibiotics and hospitalizations did not differ from the reference German population. No conditions attributable to interferon beta-1a were found.\nA single-center study in Germany enrolled 426 women taking beta-interferon or peginterferon-beta during pregnancy who delivered 466 infants. Of these, 158 infants were breastfed, 112 exclusively until month 5 postpartum. In total, 34 of the 158 infants (21.5%) were breastfed while the mother was taking interferon. Seven infants were breastfed up to one week, 11 were breastfed over 1 week and up to 2 months, 10 were breastfed over 2 months and up to 6 months, and 6 were breastfed over 6 months and up to 12 months. In the peginterferon beta-1a group, a higher percentage stopped breastfeeding under interferon exposure within the first month after childbirth compared to the interferon beta-1a group (68.8% vs. 22.2%). Preliminary analyses did not indicate any differences in the development of weight, length, and head circumference between exposed and unexposed subgroups during breastfeeding, but the analysis was not adequately powered to reliably detect or exclude differences."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Glatiramer, Immune Globulin, Interferon Beta, Methylprednisolone"
+  ]
+ ]
+}

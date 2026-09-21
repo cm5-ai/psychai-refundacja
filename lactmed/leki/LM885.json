@@ -1,0 +1,36 @@
+{
+ "id": "LM885",
+ "tytul": "Gemifloxacin",
+ "synonimy": [
+  "Gemifloxacin",
+  "UNII-OKR68Y0E4T",
+  "HSDB 8027",
+  "LB-20304",
+  "SB 265805",
+  "7-[(4Z)-3-(aminomethyl)-4-methoxyiminopyrrolidin-1-yl]-1-cyclopropyl-6-fluoro-4-oxo-1,8-naphthyridine-3-carboxylic acid"
+ ],
+ "zaktualizowano": "2025-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM885/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of gemifloxacin during breastfeeding; however, amounts in breastmilk appear to be low. Fluoroquinolones have traditionally not been used in infants because of concern about adverse effects on the infants' developing joints. However, recent studies indicate little risk. The calcium in milk might prevent absorption of the small amounts of fluoroquinolones in milk, but insufficient data exist to prove or disprove this assertion. Use of gemifloxacin is acceptable in nursing mothers. However, it is preferable to use an alternate drug for which safety information is available."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A nursing mother took one tablet of gemifloxacin 320 mg orally. A single breastmilk sample obtained 3 hours after the dose contained approximately 0.9 mg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ciprofloxacin, Levofloxacin"
+  ]
+ ]
+}

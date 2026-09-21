@@ -1,0 +1,62 @@
+{
+ "id": "LM670",
+ "tytul": "Sodium Iodide I 131",
+ "synonimy": [
+  "I 131",
+  "I-131",
+  "I131",
+  "131I",
+  "Theriodide",
+  "Iodotope",
+  "Oriodide",
+  "Hicon",
+  "Natrii radioiodidum",
+  "Tracervial-131",
+  "Radiocaps-131",
+  "Iodotope Therapeutic",
+  "Sodium iodide I 131",
+  "Sodium iodide-131",
+  "Iodotope I-131",
+  "UNII-29VCO8ACHH",
+  "Sodium Iodide (131I)",
+  "Sodium iodide I-131",
+  "(131-I)Sodium iodide",
+  "Ioduro sodico (131I)",
+  "Natrii iodidum (131I)",
+  "Sodium Iodide, I-131",
+  "Ioduro sodico (131 I)",
+  "Sodium iodide (I-131)",
+  "Sodium iodide (Na131I)",
+  "Natrii iodidum (131 I)",
+  "Natrii jodidum (131 I)",
+  "Iodure (131I) de sodium",
+  "Iodure (131 I) de sodium",
+  "Natrium radio-iodatum (131I)",
+  "Natrium radio-iodatum (131 I)",
+  "Sodium iodide (131I) [INN]"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM670/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of sodium iodide I 131 as a diagnostic and therapeutic agent. The American Thyroid Association recommends using I 123 or Tc99m pertechnetate scans for diagnosis of hyperthyroidism in nursing mothers, with Tc99m preferred because of its shorter half-life. The use of I 131 is generally considered to be contraindicated during lactation and breastfeeding should be discontinued permanently for this child after administration of sodium iodide I 131 in a dose of 0.01 MBq (0.004 mCi) or greater to a nursing mother. Ceasing breastfeeding at least 6 to 12 weeks before receiving a therapeutic dose of sodium iodide I 131 is recommended to reduce the radiation dose to the breasts and the risk of milk leakage that can contaminate clothing with radioactive iodine. Breastfeeding after receiving I 131 would decrease the dose to the target organ (e.g., thyroid) and could decrease the effectiveness of the treatment. Nursing mothers should not work with substances containing I 131 in their workplace.\nParents should refrain from close contact with their infants after therapeutic iodine I 131 administration. The exact duration depends on the dose administered, condition being treated, and source of the recommendation. Recommended times range from 15 to 27 days after hyperthyroidism treatment, 16 to 24 days after ablation of thyroid cancer, and 4 to 5 days after follow-up therapy of thyroid ablation therapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "I 131 is a beta and high-energy gamma emitter with a main gamma emission energy of 364 keV and a physical half-life of 8.04 days. Estimates of the average effective half-life of sodium iodide I 131 vary from 9.2 hours to 14 hours, and it may be as long as 48 hours in some patients. Iodide is actively secreted into breastmilk by the NaI symporter, which is stimulated by lactation, and actively taken up by the mother’s and infant’s thyroid glands. About 31% (range 25% to 48%) of administered radioactivity is excreted into breastmilk after administration of sodium iodide I 131.\nOne 29-year-old woman was given 3574 MBq of I 131 to treat thyroid cancer. The radioactivity was measured in all breastmilk expressed over 22 days (105 samples) and one additional sample at day 44. Whole-body and SPECT-CT images were acquired 44 hours after administration and the breast dosage was calculated. Infant exposure was estimated as the sum of external radiation (contact) and internal contamination (ingestion), using the 1 mSv total effective dose limit for the public as a safety threshold. Breastmilk I 131 was excreted with biphasic clearance with half-lives 0.49 and 1.82 days. The excretion into milk represents approximately 15% of the administered activity, which could also decrease the effectiveness of the drug in the mother by 15%. Breast absorbed dose was 569 mGy. The estimated total infant radiation dosage ranged from 0.62 to 688 mSv and thyroid dose from 0.1 mGy to 13,400 mGy, depending on breastfeeding timing. The total dosage stabilized 20 to 30 days after administration. Modeling showed that resuming breastfeeding 9 to 10 days after therapy keeps infant dosage under 1 mSv and infant thyroid dose below 10 mGy. Using a stricter safety criterion of radioactivity less than twice the background level of 0.23 Bq/mL), resumption was proposed at 51 days."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hyperthyroidism Diagnosis) Sodium Pertechnetate Tc 99m, Sodium Iodide I 123; (Hyperthyroidism Treatment) Propylthiouracil, Methimazole"
+  ]
+ ]
+}

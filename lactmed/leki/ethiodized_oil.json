@@ -1,0 +1,35 @@
+{
+ "id": "ethiodized_oil",
+ "tytul": "Ethiodized Oil",
+ "synonimy": [
+  "ethiodized oil",
+  "DTXSID001027629",
+  "Ethiodized Poppy Seed Oil",
+  "Ethiodol",
+  "Lipiodol",
+  "UNII-KZW0R0686Q",
+  "RefChem:35755",
+  "EOE 13",
+  "D004998"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/ethiodized_oil/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ethiodized oil use causes large increases milk iodine concentrations, which may interfere with the thyroid function of the breastfed infant. interfere with the thyroid function of the breastfed infant. Breastfeeding should be suspended until concentrations normalize. The time for milk iodine levels to normalize is unknown, but may be 2 weeks or longer, depending on the dose. Consider thyroid function testing in a breastfed infant whose mother was exposed to ethiodized oil."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A nursing mother with metastatic thyroid cancer developed a chyle leak on postoperative day 1 after a modified radical neck dissection. After unsuccessful conservative management of the chyle leak, the interventional radiology service performed a lymphangiography and sclerotherapy under general anesthesia on postoperative day 2. The patient received 30 mL of iohexol for imaging, and 20 mL of ethiodized oil for imaging and sclerotherapy. The iodine concentrations in frozen pumped milk collected on post-procedure days 8 to 11 yielded iodine ranging from 9.6 to 21.2 ppm, 50 to 100 times the typical human milk concentration, without a consistent decline over time.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

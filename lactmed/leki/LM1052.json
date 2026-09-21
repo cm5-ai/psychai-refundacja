@@ -1,0 +1,34 @@
+{
+ "id": "LM1052",
+ "tytul": "Ammonia N 13",
+ "synonimy": [
+  "Ammonia N 13",
+  "AMMONIA N-13",
+  "N-13 Ammonia",
+  "Ammonia N 13 Injection",
+  "Ammonia-(sup 13)N",
+  "UNII-9OQO0E343Z",
+  "((sup 13)N)Ammonia",
+  "9OQO0E343Z"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1052/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of ammonia N 13 as a diagnostic agent in PET scans. No information is available on the use of ammonia N 13 during breastfeeding. The Society for Nuclear Medicine and the International Commission on Radiological Protection states that breastfeeding need not be interrupted after administration of ammonia N 13, although the manufacturer recommends withholding breastfeeding for 2 hours. This length of time is greater than 10 half-lives of the radioisotope, so the nursing infant should not be exposed to radiation if this the 2-hour time period is used. The mother can nurse just before administration of the radiopharmaceutical. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. Milk that is pumped by the mother during the time of breastfeeding interruption can either be discarded or stored and given to the infant after 10 physical half-lives, or about 2 hours, have elapsed.\nNursing mothers should not work with radioactive substances used in PET scans in their workplace."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Nitrogen N 13 decays by positron emission, emitting gamma photon with an energy of 511 keV. It has a physical half-life of 9.97 minutes."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

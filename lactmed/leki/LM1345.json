@@ -1,0 +1,50 @@
+{
+ "id": "LM1345",
+ "tytul": "Secnidazole",
+ "synonimy": [
+  "Secnidazole",
+  "Secnidazol",
+  "Secnidazolum",
+  "Solosec",
+  "3366-95-8",
+  "Secnidazolum [INN-Latin]",
+  "Secnidazol [INN-Spanish]",
+  "RP 14539",
+  "UNII-R3459K699K",
+  "PM 185184",
+  "SYM-1219",
+  "EINECS 222-134-0",
+  "Secnidazole [USAN:INN:BAN:DCF]",
+  "SYM 1219",
+  "PM-185184",
+  "1-(2-Methyl-5-nitro-1-imidazolyl)-2-propanol",
+  "1-(2-Hydroxypropyl)-2-methyl-5-nitroimidazol",
+  "R3459K699K",
+  "alpha,2-Dimethyl-5-nitroimidazole-1-ethanol",
+  "Imidazole-1-ethanol, alpha,2-dimethyl-5-nitro-"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1345/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of secnidazole during breastfeeding and no studies have evaluated adverse effects of secnidazole on the infant during breastfeeding, but presumably they are similar to those of the closely related drug, metronidazole, such as increased risk of oral and rectal Candida infections.\nAs with metronidazole, concern has been raised about exposure of healthy infants to secnidazole via breastmilk, because of possible mutagenicity and carcinogenicity. Based on the elimination half-life of secnidazole of approximately 17 hours, the manufacturer recommends avoidance of breastfeeding for 96 after a single dose. Other drugs are available for bacterial vaginosis, and can be given vaginally, which should result in lower amounts in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Bacterial Vaginosis) Clindamycin, Metronidazole"
+  ]
+ ]
+}

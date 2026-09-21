@@ -1,0 +1,37 @@
+{
+ "id": "LM1090",
+ "tytul": "Ulipristal",
+ "synonimy": [
+  "Ulipristal acetate",
+  "Uliprisnil",
+  "UNII-6J5J15Q2X8",
+  "PGL 4001",
+  "VA 2914",
+  "VA-2914",
+  "(8S,11R,13S,14S,17R)-17-acetyl-11-[4-(dimethylamino)phenyl]-17-hydroxy-13-methyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthren-3-one"
+ ],
+ "zaktualizowano": "2026-01-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1090/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ulipristal is a selective progesterone receptor modulator used in a single dose as an emergency postcoital contraceptive. No information is available on the clinical use of ulipristal during breastfeeding; however, amounts in milk are low. If ulipristal is required by the mother, it is not a reason to discontinue breastfeeding. Some older sources recommend withholding breastfeeding for 24 hours after a dose, but this is no longer a requirement according to current FDA-approved labeling."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Ulipristal acetate is metabolized to mono- and di-demethylated metabolites by CYP3A4. Monodemethyl-ulipristal is pharmacologically active.\nMaternal Levels. The breastmilk of 12 lactating women following administration of ulipristal (dosage not stated, but presumably 30 mg) was collected in 24-hour increments to measure the concentrations of ulipristal acetate and monodemethyl-ulipristal acetate in breastmilk. The mean daily concentrations of ulipristal acetate in breastmilk were 22.7 mcg/L (0 to 24 hours), 2.96 mcg/L (24 to 48 hours), 1.56 mcg/L (48 to 72 hours), 1.04 mcg/L (72 to 96 hours), and 0.69 mcg/L (96 to 120 hours). The mean daily concentrations of monodemethyl-ulipristal acetate in breastmilk were 4.49 mcg/L (0 to 24 hours), 0.62 mcg/L (24 to 48 hours), 0.28 mcg/L (48 to 72 hours), 0.17 mcg/L (72 to 96 hours), and 0.10 mcg/L (96 to 120 hours). Using these data, a fully breastfed infant would receive about 4.1 mcg/kg of drug plus active metabolite on the first day and a total of 5.2 mcg/kg over 5 days). Assuming a 30 mg dose and an average maternal weight of 60 kg, the infant would receive a weight-adjusted dosage of 0.8% of drug plus active metabolite on the first day and a total of 1% of the maternal dose over the 5-day period.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Intrauterine Copper Contraceptive, Oral Levonorgestrel"
+  ]
+ ]
+}

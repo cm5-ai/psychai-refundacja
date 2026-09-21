@@ -1,0 +1,68 @@
+{
+ "id": "LM1111",
+ "tytul": "Pancuronium",
+ "synonimy": [
+  "PANCURONIUM BROMIDE",
+  "Pavulon",
+  "Pancuronium dibromide",
+  "Mioblock",
+  "pancuronium",
+  "Pancuronii bromidum",
+  "Bromuro de pancuronio",
+  "Bromure de pancuronium",
+  "15500-66-0",
+  "ORG NA 97",
+  "UNII-U9LY9Y75X2",
+  "HSDB 3244",
+  "Pancuronii bromidum [INN-Latin]",
+  "U9LY9Y75X2",
+  "NA 97",
+  "EINECS 239-532-5",
+  "Bromure de pancuronium [INN-French]",
+  "Bromuro de pancuronio [INN-Spanish]",
+  "NSC 293162",
+  "Pancuronium bromide [USAN:USP:INN:BAN:JAN]",
+  "3alpha,17beta-Diacetoxy-2beta,16beta-dipiperidino-5alpha-androstane dimethobromide",
+  "2beta,16beta-Dipiperidino-5alpha-androstane-3alpha,17beta-diol diacetate dimethobromide",
+  "1,1'-(3,17-Bis(acetyloxy)androstane-2,16-diyl)bis(1-methylpiperidinium) dibromide",
+  "2beta,16beta-Dipiperidino-5alpha-androstane-3alpha,17beta-dioldiacetatedimethobromide",
+  "3-alpha,17-beta-Diacetoxy-2-beta,16-beta-dipiperidino-5-alpha-androstane dimethobromide",
+  "5alpha-Androstan-3alpha,17beta-diol, 2beta,16beta-dipipecolinio-, dibromide, diacetate",
+  "1,1'-(3alpha,17beta-Bis(acetyloxy)-5alpha-androstane-2beta,16beta-diyl)bis(1-methylpiperidinium) dibromide",
+  "1,1'-(3alpha,17beta-Dihydroxy-5alpha-androstan-2beta,16beta-ylene)bis(1-methylpiperidinium) dibromide diacetate",
+  "Piperidinium, 1,1'-((2beta,3alpha,5alpha,16beta,17beta)-3,17-bis(acetyloxy)androstane-2,16-diyl)bis(1-methyl-, dibromide",
+  "Piperidinium, 1,1'-(2-beta,16-beta-(3-alpha,17-beta-dihydroxy-5-alpha-androstanylene))bis(1-methyl-, dibromide, diacetate",
+  "Piperidinium, 1,1'-(3alpha,17beta-dihydroxy-5alpha-androstan-2beta,16beta-ylene)bis(1-methyl-, dibromide, diacetate",
+  "Piperidinium, 1,1'-((2beta,3alpha,5alpha,16beta,17beta)-3,17-bis(acetyloxy)androstane-2,16-diyl)bis(1-methyl)-, dibromide",
+  "Piperidinium, 1,1'-(3alpha,17beta-dihydroxy-5alpha-androstan-2beta,16beta-ylene)bis(1-methyl-, dibromide, diacetate (8CI)",
+  "pancuronium",
+  "Pancuronium cation",
+  "UNII-J76UF062FS",
+  "J76UF062FS",
+  "16974-53-1"
+ ],
+ "zaktualizowano": "2020-11-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1111/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of pancuronium during breastfeeding. Because it is highly polar and poorly absorbed orally, it is not likely to reach the breastmilk in high concentration or to reach the bloodstream of the infant. When a combination of anesthetic agents is used for a procedure, follow the recommendations for the most problematic medication used during the procedure."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Atracurium, Cisatracurium, Rocuronium"
+  ]
+ ]
+}

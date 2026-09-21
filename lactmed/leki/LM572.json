@@ -1,0 +1,44 @@
+{
+ "id": "LM572",
+ "tytul": "Dextromethorphan",
+ "synonimy": [
+  "dextromethorphan",
+  "d-Methorphan",
+  "delta-Methorphan",
+  "Dextromethorfan",
+  "Dextromorphan",
+  "Capron DM",
+  "Curahist",
+  "Delsym",
+  "Dextrometorfano",
+  "Destrometerfano",
+  "Dextromethorphane",
+  "Albutussin",
+  "Dextromethorphanum",
+  "UNII-7355X3ROTS",
+  "HSDB 3056",
+  "BA 2666",
+  "EINECS 204-752-2",
+  "(1S,9S,10S)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM572/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "When used as a cough syrup, amounts of dextromethorphan and its active metabolite in breastmilk are very low and are not expected to affect the nursing infant. It is best to avoid the use of products with a high alcohol content while nursing. The manufacturer of the combination of dextromethorphan and bupropion (Auvelity) recommends avoiding breastfeeding during treatment, and for 5 days after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Dextromethorphan is metabolized to its active metabolite of dextrorphan by CYP2D6. Dextrorphan is further metabolized to dextrorphan glucuronide by UGT2B.\nMaternal Levels. Twenty nursing mothers who were extensive metabolizers of CYP2D6 donated a blood sample and completely emptied one breast 2 hours after a single oral dose of dextromethorphan 30 mg. All mothers were at least 3 months postpartum and subjects who were poor, intermediate, or ultra-rapid metabolizers were excluded from the study. The average milk concentration of dextromethorphan at the presumed peak of 2 hours after the dose was 2.5 mcg/L (95% CI 1.5 to 3.9 mcg/L). The average milk concentration of the active metabolite dextrorphan at that time was 14 mcg/L (95% CI 10.7 to 17.9 mcg/L). These values translated to average “worst-case” daily infant dosages of 0.33 mcg/kg and 1.8 mcg/kg, and relative infant dosages of 0.07% and 0.41% for dextromethorphan and dextrorphan, respectively. The authors used published values of serum concentrations after a typical 60 mg twice daily dosage regimen to estimate average steady-state relative infant dosages of 0.04% and 0.07% for dextromethorphan and dextrorphan, respectively. The potential contribution of dextrorphan glucuronide to infant dosage in neonates, who can deconjugate glucuronides some compounds, was not estimated.\nEight women who were given dextromethorphan (dose not specified) following a full-term cesarean section delivery provided milk samples at 4 to 6 hours after their third dose. The authors calculated median estimated relative infant doses to be 0.239% for dextromethorphan and 0.288% for its major active metabolite, dextrorphan.\nInfant Levels. Blood samples were obtained at an unspecified time from 8 breastfed infants whose mothers were given dextromethorphan (dose not specified) following a full-term cesarean section delivery. Only one of the 8 infants had a detectable plasma concentration of dextromethorphan. This infant’s mother had a much higher milk level of dextromethorphan than the other 7 women."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

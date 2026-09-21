@@ -1,0 +1,35 @@
+{
+ "id": "LM810",
+ "tytul": "Fludeoxyglucose F18",
+ "synonimy": [
+  "Fludeoxyglucose F 18",
+  "Fluglucoscan",
+  "Fluorodeoxyglucose F18",
+  "18F-Flurodeoxyglucose",
+  "18F Fluorodeoxyglucose",
+  "18F-FDG",
+  "UNII-0Z5B2CJX4D",
+  "18FDG",
+  "Fludeoxyglucose (18F) [INN]"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM810/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of fludeoxyglucose F18 (fluorodeoxyglucose F18; 18F-FDG) as a diagnostic agent. The use of 18F FDG in positron emission tomography (PET) scans may be preferable to other types of scans during breastfeeding because of the low levels and rapid disappearance of radiation.\nThe amounts of 18F-FDG excreted in breastmilk after a PET scan are below the level of concern for the breastfed infant and most international radiation safety organizations state that no interruption of breastfeeding is necessary. However, to follow the principle of keeping exposure \"as low as reasonably achievable\", some guidelines recommend withholding breastfeeding for 1 to 4 hours, and product labeling recommends that mothers pump and discard breastmilk and avoid close (breast) contact with the infant for at least 9 hours after the administration of fludeoxyglucose F 18 Injection. Mothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nLactation can result in excessive uptake of 18F FDG in the breast. Some authors recommend avoiding 18F FDG imaging of the breasts in women who are lactating to avoid false-positive results. Because of extensive uptake by lactating breasts and the consequent external radiation, nursing mothers should refrain from prolonged close contact with their infants for a period of time. Some authors suggest that the infant be bottle fed with expressed breastmilk by a third person for 1 feeding or 4 to 12 hours, depending on the dose, after a PET scan with 18F-FDG in a nursing mother.\nNursing mothers should not work with radioactive substances used in PET scans in their workplace."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "F18 is a positron emitter with a principal decay energy of 0.6335 MeV, annihilation photons of 0.511 MeV, and a physical half-life of 1.8 hours and 0.07% of an administered dose appears in breastmilk. The maximum effective half-life is 0.89 hours.\nMaternal Levels. Four women provided milk samples after being given 18F-FDG for a PET scan. Doses ranged from 50 to 160 MBq. Three gave a single milk sample and one gave 4 samples between 0.75 and 3.5 hours after the dose. The authors calculated that the maximum radioactivity in milk would be 19 Bq/mL for each MBq administered and that peak activity in breastmilk would occur 3 hours after administration. Many diagnostic studies are performed using doses up to 370 MBq, which may require a longer period of breastfeeding abstinence.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

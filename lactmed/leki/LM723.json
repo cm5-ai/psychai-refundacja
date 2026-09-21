@@ -1,0 +1,50 @@
+{
+ "id": "LM723",
+ "tytul": "Alendronate",
+ "synonimy": [
+  "alendronate",
+  "ALENDRONIC ACID",
+  "Arendal",
+  "Acido alendronico",
+  "Acide alendronique",
+  "Acidum alendronicum",
+  "66376-36-1",
+  "Alendronic acid [INN:BAN]",
+  "Acide alendronique [INN-French]",
+  "Acido alendronico [INN-Spanish]",
+  "Acidum alendronicum [INN-Latin]",
+  "UNII-X1J18R4W8P",
+  "MK 217",
+  "X1J18R4W8P",
+  "(4-Amino-1-hydroxybutylidene)bisphosphonic acid",
+  "HSDB 7990",
+  "4-Amino-1-hydroxybutylidene-1,1-bisphosphonate",
+  "(4-Amino-1-hydroxybutylidene)diphosphonic acid",
+  "Phosphonic acid, (4-amino-1-hydroxybutylidene)bis-",
+  "4-Amino-1-hydroxybutylidene-1,1-bis(phosphonic acid)"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM723/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited evidence indicates that breastfeeding after cessation of long-term bisphosphonate treatment appears to have no adverse effects on the infant. Because no information is available on the use of alendronate during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. However, absorption of alendronate by a breastfed infant is unlikely. If the mother receives a bisphosphonate during pregnancy or nursing, some experts recommend monitoring the infant's serum calcium during the first 2 months postpartum."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Alendronate is poorly absorbed orally (average in adults 1% on an empty stomach, negligible with food and calcium), so absorption of alendronate by a breastfed infant is unlikely.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Because alendronate can persist in the body for years after long-term administration, the following cases may be relevant. A woman received alendronate for 6 months, then pamidronate every 4 months for 1 year prior to conception. Her infant was breastfed (extent not stated) for 3 months. The infant had mild hypocalcemia at 2 months of age, but a normal calcium level and normal long bone development at 5 months of age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Pamidronate"
+  ]
+ ]
+}

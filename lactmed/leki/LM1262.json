@@ -1,0 +1,37 @@
+{
+ "id": "LM1262",
+ "tytul": "Afatinib",
+ "synonimy": [
+  "Afatinib",
+  "Tovok",
+  "Tomtovok",
+  "BIBW2992",
+  "BIBW 2992",
+  "850140-72-6",
+  "Afatinib [USAN:INN]",
+  "UNII-41UD74L59M",
+  "41UD74L59M",
+  "(2E)-N-(4-(3-chloro-4-fluoroanilino)-7-(((3S)-oxolan-3-yl)oxy)quinoxazolin-6-yl)-4-(dimethylamino)but-2-enamide",
+  "2-Butenamide, N-(4-((3-chloro-4-fluorophenyl)amino)-7-(((3S)-tetrahydro-3-furanyl)oxy)-6-quinazolinyl)-4-(dimethylamino)-, (2E)-"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1262/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of afatinib during breastfeeding. Because afatinib is about 95% bound to plasma proteins, the amount in milk is likely to be low. However, its half-life is about 37 hours and it might accumulate in the infant. the manufacturer recommends that breastfeeding be discontinued during afatinib therapy and for 2 weeks after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

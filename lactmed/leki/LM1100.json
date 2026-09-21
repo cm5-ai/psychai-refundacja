@@ -1,0 +1,43 @@
+{
+ "id": "LM1100",
+ "tytul": "Temsirolimus",
+ "synonimy": [
+  "Temsirolimus",
+  "Torisel",
+  "CCI-779",
+  "Cci 779",
+  "UNII-624KN6GM2T",
+  "624KN6GM2T",
+  "WAY-CCI 779",
+  "162635-04-3",
+  "HSDB 7931",
+  "Temsirolimus [USAN:INN:BAN:JAN]",
+  "Rapamycin 42-(2,2-bis(hydroxymethyl)propionate)",
+  "Rapamycin, 42-(3-hydroxy-2-(hydroxymethyl)-2-methylpropanoate)",
+  "(3S,6R,7E,9R,10R,12R,14S,15E,17E,19E,21S,23S,26R,27R,34aS)-9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34a-Hexadecahydro-9,27-dihydroxy-3-((1R)-2-((1S,3R,4R)-4-hydroxy-3-methoxycyclohexyl)-1-methylethyl)-10,21-dimethoxy-6,8,12,14,20,26-hexamethyl-23,27-epoxy-3H-pyrido(2,1-c)(1,4)oxaazacyclohentriacontine-1,5,11,28,29(4H,6H,31H)-pentone 4'-(2,2-bis(hydroxymethyl)propionate)"
+ ],
+ "zaktualizowano": "2019-10-23",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1100/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Temsirolimus is a prodrug of sirolimus. Because no information is available on the use of temsirolimus or sirolimus during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during temsirolimus therapy and for 3 weeks following the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Azathioprine, Cyclosporine, Tacrolimus"
+  ]
+ ]
+}

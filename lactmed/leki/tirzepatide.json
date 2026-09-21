@@ -1,0 +1,36 @@
+{
+ "id": "tirzepatide",
+ "tytul": "Tirzepatide",
+ "synonimy": [
+  "Tirzepatide",
+  "Mounjaro",
+  "Zepbound",
+  "LY-3298176",
+  "LY3298176",
+  "UNII-OYN3CCI6QE"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/tirzepatide/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Tirzepatide is usually undetectable in breastmilk with subcutaneous doses of up to 5 mg. Furthermore, absorption by the infant is unlikely because it is probably partially destroyed in the infant’s gastrointestinal tract and poorly absorbed orally. If a mother requires tirzepatide, it is not a reason to discontinue breastfeeding. Until more data become available, tirzepatide should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. Some experts recommend closely monitoring of infant growth and developmental milestones and the nutritional status of the lactating woman."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The manufacturer reports a study of 11 lactating women who were given a single 5 mg subcutaneous dose of tirzepatide. The concentration of tirzepatide in breastmilk was undetectable (<4 mcg/L) in 164 of 171 milk samples. The cumulative amount of tirzepatide detected in the remaining 7 breastmilk samples over the 28-day sampling period was equivalent to less than 0.02% of the maternal administered dose, with the last measurable concentrations occurring 5 days after the dose. This study does not account for accumulation that would occur during typical use, so the amounts in milk at steady-state are probably greater than indicated.\nFive women who were receiving subcutaneous tirzepatide in doses of 2.5 to 5 mg per week collected milk samples multiple times on the day they received their drug dose, and one woman collected a sample 168 hours after her dose. A few samples found unquantifiable milk levels below the limit of detection of 0.7 mcg/L and no samples exceeded the limit of quantification of 2.38 mcg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Five women who were receiving tirzepatide in doses of 2.5 to 5 mg per week. All mothers continued breastfeeding to varying extents, but none reported observed adverse effects in their infants attributable to tirzepatide."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Diabetes) Acarbose, Glipizide, Glyburide, Insulin, Metformin, Miglitol, Semaglutide; (Weight Loss) Semaglutide"
+  ]
+ ]
+}

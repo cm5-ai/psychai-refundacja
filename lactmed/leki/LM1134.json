@@ -1,0 +1,42 @@
+{
+ "id": "LM1134",
+ "tytul": "Flutemetamol F 18",
+ "synonimy": [
+  "Flutemetamol",
+  "Vizamyl",
+  "18F-Flutemetamol",
+  "Flutemetamol F 18",
+  "Flutemetamol F-18",
+  "Flutemetamol ((sup18)F)",
+  "UNII-L49M066S0O",
+  "Flutemetamol ((sup 18)F)",
+  "Flutemetamol F 18 [USAN]",
+  "Flutemetamol (18F) [INN]",
+  "L49M066S0O",
+  "((18 sup)F)AH110690",
+  "765922-62-1",
+  "2-(3-(sup 18)f)Fluoro-4-(methylamino)phenyl)-1,3-benzothiazol-6-ol",
+  "2-(3-((18 sup)F)Fluoro-4-(methylamino)phenyl)-1,3-benzothiazol-6-ol",
+  "6-Benzothiazolol, 2-(3-(fluoro-(sup 18)F)-4-(methylamino)phenyl)-"
+ ],
+ "zaktualizowano": "2020-08-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1134/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of flutemetamol F 18 as a diagnostic agent. No information is available on the use of flutemetamol F 18 during breastfeeding. The manufacturer recommends withholding breastfeeding for 24 hours after a diagnostic dose of 185 MBq (5 mCi). This length of time is about 10 half-lives of fluoride F 18 and less than 0.01% of the radioactivity administered will remain in the body. The mother can nurse just before administration of the radiopharmaceutical. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "F18 is a positron emitter with a principal decay energy of 0.6335 MeV, annihilation photons of 0.511 MeV, and a physical half-life of 1.8 hours and 0.07% of an administered dose appears in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

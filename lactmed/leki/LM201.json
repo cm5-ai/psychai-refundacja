@@ -1,0 +1,49 @@
+{
+ "id": "LM201",
+ "tytul": "Nitrendipine",
+ "synonimy": [
+  "nitrendipine",
+  "Bayotensin",
+  "Baypress",
+  "Nidrel",
+  "Nitrendipinum",
+  "Nitrendipino",
+  "39562-70-4",
+  "Nitrendipinum [INN-Latin]",
+  "Nitrendipino [INN-Spanish]",
+  "BAY e 5009",
+  "UNII-9B627AW319",
+  "EINECS 254-513-1",
+  "Nitrendipine [USAN:INN:BAN:JAN]",
+  "BRN 0498823",
+  "9B627AW319",
+  "1,4-Dihydro-2,6-dimethyl-4-(3-nitrophenyl)-3,5-pyridinedicarboxylic acid ethyl methyl ester",
+  "(+-)-Ethyl methyl 1,4-dihydro-2,6-dimethyl-4-(m-nitrophenyl)-3,5-pyridinedicarboxylate",
+  "Ethyl 1,4-dihydro-5-(acetoxycarbonyl)-2,6-dimethyl-4-(3-nitrophenyl)-3-pyridincarboxylat",
+  "3,5-Pyridinedicarboxylic acid, 1,4-dihydro-2,6-dimethyl-4-(3-nitrophenyl)-, ethyl methyl ester, (+-)-"
+ ],
+ "zaktualizowano": "2021-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM201/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Based on limited data, it is unlikely that nitrendipine will reach the infant in clinically important amounts. However, it may be preferable to use another agent drug for which more safety information is available."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Three women who had been breastfeeding for at least 3 months were given nitrendipine 10 mg as a single oral dose. Peak milk levels occurred at 1 or 2 hours after the dose and peak levels ranged from 4.3 to 6.5 mcg/L. Two of the mothers had their milk levels measured after taking nitrendipine 10 mg every 12 hours for 5 days. Peak levels occurred 3 to 4 hours after the dose and ranged from 1.5 to 5.5 mcg/L. It was estimated that an exclusively breastfed infant would receive a daily dosage of 0.095% of the mother's weight-adjusted dosage of nitrendipine and 1.4% of the inactive pyridine metabolite.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Amlodipine, Nifedipine"
+  ]
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "id": "epoprostenol",
+ "tytul": "Epoprostenol",
+ "synonimy": [
+  "Epoprostenol",
+  "Flolan",
+  "Vasocyclin",
+  "VentaProst",
+  "Veletri",
+  "prostacyclin",
+  "prostaglandin I2",
+  "PGI2",
+  "Prostaglandin X",
+  "Epoprostenolum",
+  "Prostacyclin I2",
+  "KB-IV-24",
+  "UNII-DCR9Z582X0",
+  "DCR9Z582X0",
+  "PGX",
+  "CHEBI:15552",
+  "ACT-385781A",
+  "U-53217",
+  "BRN 1690090",
+  "U-53,217",
+  "DTXSID5022988",
+  "U 53217",
+  "(5Z)-5-[(3aR,4R,5R,6aS)-5-hydroxy-4-[(E,3S)-3-hydroxyoct-1-enyl]-3,3a,4,5,6,6a-hexahydrocyclopenta[b]furan-2-ylidene]pentanoic acid"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/epoprostenol/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of epoprostenol during breastfeeding. The half-life of epoprostenol is 6 minutes or less. It is unlikely that clinically important amounts of epoprostenol are excreted into milk and absorbed by the breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Pulmonary Artery Hypertension) Bosentan, Nitric Oxide, Sildenafil, Treprostinil"
+  ]
+ ]
+}

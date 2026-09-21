@@ -1,0 +1,42 @@
+{
+ "id": "LM1352",
+ "tytul": "Riluzole",
+ "synonimy": [
+  "riluzole",
+  "Rilutek",
+  "1744-22-5",
+  "Riluzolum",
+  "Riluzol",
+  "2-Amino-6-(trifluoromethoxy)benzothiazole",
+  "Riluzol [INN-Spanish]",
+  "Riluzolum [INN-Latin]",
+  "UNII-7LJ087RS6F",
+  "7LJ087RS6F",
+  "2-Benzothiazolamine, 6-(trifluoromethoxy)-",
+  "RP 54274",
+  "Riluzole [USAN:USP:INN:BAN]",
+  "Amino-2 trifluoromethoxy-6 benzothiazole",
+  "Amino-2 trifluoromethoxy-6 benzothiazole [French]",
+  "BENZOTHIAZOLE, 2-AMINO-6-TRIFLUOROMETHOXY-"
+ ],
+ "zaktualizowano": "2020-09-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1352/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of riluzole up to 100 mg daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. Until more data are available, use riluzole with caution, particularly when breastfeeding a newborn."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman who was breastfeeding her 18-month-old infant 3 to 4 times a day was diagnosed with amyotrophic lateral sclerosis and started on riluzole 50 mg twice daily by mouth. On the third day of therapy, milk samples were collected before and at 1, 2, 4, 8, and 12 hours after the first dose of the day. The pre-dose sample contained 33.8 mcg/L of riluzole. The peak concentration in milk was 229.5 mcg/L at 2 hours after the dose. The average milk concentration was 94.4 mcg/L over the 12-hour collection time, which would provide the infant with an estimated daily dosage 14.1 mcg/kg. Based on the 12-hour collection period, the maternal weight-adjusted dosage was 0.8%. Riluzole metabolites were not measured.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

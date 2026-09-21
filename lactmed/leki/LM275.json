@@ -1,0 +1,37 @@
+{
+ "id": "LM275",
+ "tytul": "Valdecoxib",
+ "synonimy": [
+  "Valdecoxib",
+  "Bextra",
+  "SC-65872",
+  "SC 65872",
+  "HSDB 7302",
+  "UNII-2919279Q3W",
+  "4-(5-methyl-3-phenyl-1,2-oxazol-4-yl)benzenesulfonamide"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM275/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Valdecoxib was removed from sale in the United States by the U.S. Food and Drug Administration because of long-term cardiovascular toxicity. Limited information indicates that levels of valdecoxib in breastmilk are low. Because there is little published experience with valdecoxib safety during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A review article states that breastmilk levels of valdecoxib are much less than 200 mcg/L based on unpublished studies from the author's laboratory.\nValdecoxib is the active metabolite that is rapidly formed from parecoxib. A single 40 mg dose of parecoxib was given intravenously to 40 mothers at an average of 41.9 hours after delivery. Four milk samples were collected over the next 24 hours. The average infant dosages in breastmilk were 0.24 mcg/kg daily for parecoxib and 1.82 mcg/kg daily for valdecoxib. This was equivalent to 0.63% of the weight-adjusted maternal dose in parecoxib equivalents, mostly excreted as valdecoxib. The half-life of valdecoxib in breastmilk was 8.5 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A single 40 mg dose of parecoxib, a prodrug of valdecoxib, was given intravenously to 40 mothers at an average of 41.9 hours after delivery. The neonatal adaptive score of the breastfed infants was normal at an average of 21.8 hours after the dose."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A study compared valdecoxib 20 mg and placebo twice daily for their opiate-sparing activity in post-cesarean section pain. All patients received epidural fentanyl and bupivacaine as well as intraspinal morphine for postoperative pain. No difference was observed in breastfeeding success rate between mothers who received valdecoxib (n = 25) and placebo (n = 23)."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Celecoxib, Diclofenac, Flurbiprofen, Ibuprofen, Indomethacin, Naproxen, Piroxicam"
+  ]
+ ]
+}

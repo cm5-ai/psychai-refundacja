@@ -1,0 +1,36 @@
+{
+ "id": "nirmatrelvir",
+ "tytul": "Nirmatrelvir",
+ "synonimy": [
+  "Nirmatrelvir",
+  "Paxlovid",
+  "PF-07321332",
+  "PF07321332",
+  "UNII-7R9A5P7H32",
+  "(1R,2S,5S)-N-[(1S)-1-cyano-2-[(3S)-2-oxopyrrolidin-3-yl]ethyl]-3-[(2S)-3,3-dimethyl-2-[(2,2,2-trifluoroacetyl)amino]butanoyl]-6,6-dimethyl-3-azabicyclo[3.1.0]hexane-2-carboxamide"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/nirmatrelvir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Nirmatrelvir is given in combination with ritonavir, which enhances its bioavailability. The concentration of nirmatrelvir in breastmilk is low. Ritonavir is excreted into milk in measurable concentrations and low levels can be found in the blood of some breastfed infants. No adverse reactions in breastfed infants have been reported. For more information, refer to the LactMed record on ritonavir. Because of the poor oral bioavailability of nirmatrelvir and small amounts of both drugs in milk, this combination is unlikely to adversely affect the nursing infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Eight women who were taking nirmatrelvir-ritonavir and had donated milk samples to a breastmilk repository had their milk analyzed for nirmatrelvir. All were taking a nirmatrelvir dose of 300 mg twice daily and reported taking milk samples at 0, 1, 2, 4, 6, 8, 10, and 12 hours after a dose. The peak nirmatrelvir concentration in milk occurred at 4 hours after the dose was 1107 mcg/L and the average concentration was 729 mcg/L. This translated into a daily infant dose of 0.108 mg/kg or a relative infant dose of 1.4%.\nEight healthy lactating women who were at least 12 weeks postpartum were administered 3 oral doses of 300 mg of nirmatrelvir and 100 mg of ritonavir every 12 hours. The peak nirmatrelvir concentration of 1.904 ng/L occurred at 3.22 hours and its mean half-life in breastmilk was 4.4 hours. The mean daily amounts of nirmatrelvir and ritonavir recovered in breastmilk were 0.752 mg and 0.027 mg, respectively, representing 0.13% and 0.014% of the corresponding administered daily maternal doses (unadjusted for weight). The estimated daily infant dosages (assuming average milk consumption of 150 mL/kg/day), were 0.16 mg/kg and 0.006 mg/kg or 1.8% and 0.19% of the maternal dose, respectively, for nirmatrelvir and ritonavir.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a cross-sectional study of women who had COVID-19 and received nirmatrelvir in combination ritonavir, two women breastfed their infants. No adverse effects were reported in the infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Remdesevir"
+  ]
+ ]
+}

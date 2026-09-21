@@ -1,0 +1,45 @@
+{
+ "id": "LM699",
+ "tytul": "Dexlansoprazole",
+ "synonimy": [
+  "dexlansoprazole",
+  "Kapidex",
+  "dexilant",
+  "Dexilant Solutab",
+  "138530-94-6",
+  "UNII-UYE4T5I70X",
+  "TAK 390",
+  "UYE4T5I70X",
+  "Dexlansoprazole [USAN:INN]",
+  "TAK-390",
+  "T 168390",
+  "T-168390",
+  "2-((R)-((3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridinyl)methyl)sulfinyl)-1H-benzimidazole",
+  "(+)-2-((R)-{(3-methyl-4-(2,2,2-trifluoroethoxy)pyridin-2-yl)methyl}sulfinyl)-1H-benzimidazole",
+  "1H-Benzimidazole, 2-((R)-((3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridinyl)methyl)sulfinyl)-"
+ ],
+ "zaktualizowano": "2022-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM699/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Dexlansoprazole is the R-enantiomer of the proton-pump inhibitor, lansoprazole. No information is available on the use of dexlansoprazole or lansoprazole during breastfeeding. However, lansoprazole has been used safely in newborn infants, so it is unlikely that the amount of dexlansoprazole in breastmilk would be harmful."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A retrospective claims database study in the United States found that users of proton pump inhibitors had an increased risk of gynecomastia.\nA review article reported that a search of database from the European Pharmacovigilance Centre found 1 case of gynecomastia, no cases of galactorrhea, 1 cases of breast pain and 1 case of breast enlargement associated with dexlansoprazole. A search of the WHO global pharmacovigilance database found 2 cases of gynecomastia, no cases of galactorrhea, 4 cases of breast pain and 1 case of breast enlargement associated with dexlansoprazole."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Antacids, Cimetidine, Famotidine, Omeprazole, Pantoprazole, Sucralfate"
+  ]
+ ]
+}

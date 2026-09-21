@@ -1,0 +1,45 @@
+{
+ "id": "LM514",
+ "tytul": "Colestipol",
+ "synonimy": [
+  "Cholestabyl",
+  "Colestipolum",
+  "colestipol",
+  "Colestid",
+  "Cholestabyl",
+  "Lestid",
+  "U 26597A",
+  "UNII-X7D10K905G",
+  "DTXCID80113228",
+  "CHEBI:59602",
+  "DTXSID40190737",
+  "NSC147003",
+  "NSC-147003",
+  "N'-[2-[2-(2-aminoethylamino)ethylamino]ethyl]ethane-1,2-diamine",
+  "hydrochloride"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM514/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Colestipol is a nonabsorbable resin. Because it does not enter the mother's bloodstream, it will not reach the infant via breastmilk. It is acceptable for use during lactation."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hypercholesterolemia) Cholestyramine, Colesevelam; (Type 2 Diabetes) Acarbose, Glipizide, Glyburide, Insulin, Metformin, Miglitol, Semaglutide, Tirzepatide"
+  ]
+ ]
+}

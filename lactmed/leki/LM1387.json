@@ -1,0 +1,37 @@
+{
+ "id": "LM1387",
+ "tytul": "Lofexidine",
+ "synonimy": [
+  "Lofexidine",
+  "Lucemyra",
+  "Lofexidina",
+  "Lofexidinum",
+  "UNII-UI82K0T627",
+  "2-[1-(2,6-dichlorophenoxy)ethyl]-4,5-dihydro-1H-imidazole",
+  "hydrochloride"
+ ],
+ "zaktualizowano": "2025-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1387/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No data are available in nursing mothers on the excretion into milk or safety of lofexidine in nursing mothers. A computer model predicted a maximum relative infant dose of about 3%, which should be acceptable. Although it is not contraindicated during breastfeeding, lofexidine should be used with caution until more data are available. An alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A pharmacokinetic model was designed using in vitro-in vivo techniques that were then used to create a physiologically based pharmacokinetic model of lofexidine. A simulation of administering a dose of lofexidine to nursing mothers resulted in peak milk levels of about 4 mcg/L with a single 1.2 mg dose and 6 mcg/L with a single 2 mg dose assuming milk pH to be 6.8. Excretion was pH-sensitive, with levels dropping by over 90% at a pH of 7. Using the peak level from a 2 mg maternal dose, the worst-case relative infant dose would be about 3%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Buprenorphine, Methadone"
+  ]
+ ]
+}

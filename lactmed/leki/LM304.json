@@ -1,0 +1,41 @@
+{
+ "id": "LM304",
+ "tytul": "Sotalol",
+ "synonimy": [
+  "sotalol",
+  "Sotalolum",
+  "Betapace",
+  "Sorine",
+  "Sotylize",
+  "beta-Cardone",
+  "DL-Sotalol",
+  "CCRIS 4204",
+  "UNII-A6D97U294I",
+  "A6D97U294I",
+  "N-[4-[1-hydroxy-2-(propan-2-ylamino)ethyl]phenyl]methanesulfonamide"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM304/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of its extensive excretion into breastmilk and its renal excretion, other beta-adrenergic blocking drugs are preferred to sotalol, especially while nursing a newborn or preterm infant. Some authors recommend using sotalol during breastfeeding only while monitoring the infant closely for signs of beta-blockade. Infant exposure is predicted to less after the infant is 4 weeks of age or older."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 0% protein binding, 80 to 90% renal excretion and a moderately long half-life, sotalol presents a high risk for accumulation in infants, especially neonates. It is estimated that a fully breastfed infant would receive 22% of the maternal weight-adjusted dosage of sotalol.\nMaternal Levels. Twenty milk samples from 5 mothers at various times during the first 7 days postpartum while taking sotalol 200 to 600 mg daily orally had average sotalol milk levels of 10.5 mg/L (range 4.8 to 20.2 mg/L).\nOne woman taking sotalol 80 mg three times daily on day 5 postpartum had sotalol milk levels of 4.1 and 3.7 mg/L at 6.3 and 7 hours after a dose, respectively. She was restudied at 105 days postpartum while taking 80 mg twice daily. Her milk sotalol levels were 2.4 and 3.2 mg/L at 2.8 and 3.3 hours after a dose, respectively.\nA mother taking oral sotalol 80 mg twice daily had milk sotalol levels of 5 and 4.4 mg/L at 3 hours after the dose on days 5 and 7 postpartum.\nA physiologically based pharmacokinetic model of sotalol exposure during breastfeeding predicted that infants in the 90th percentile in height and weight had exposures about 20% higher than infants of the same age in the 10th percentile due to increased milk intake. The simulated infant exposures increased throughout the first 2 weeks of life and are maintained at the highest concentrations in weeks 2 to 4, with a consistent decrease observed as infants aged. Simulations suggest that breastfeeding infants will have plasma concentrations in the lower range observed in infants administered sotalol directly. Infant sex and frequency of nursing had minimal effects on exposure.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. One of the mothers was taking sotalol.\nBradycardia was not seen in one 12-day-old infant who was breastfed from birth during maternal use of 600 mg of sotalol daily. In another breastfed infant whose mother was taking 80 mg 2 to 3 times daily for more than 3 months, no bradycardia was seen and developmental milestones were achieved normally.\nBeta-adrenergic blocking drugs with similar breastmilk excretion characteristics and renal elimination have caused adverse effects in breastfed newborns.\nA prospective study of pregnant patients taking a beta-blocker asked mothers to complete a questionnaire about postpartum breastfeeding and any side effects in their breastfed infants. One mother reported taking sotalol in an unreported dosage while breastfeeding. She reported weak sucking in her infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or sotalol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Propranolol, Labetalol, Metoprolol"
+  ]
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "LM797",
+ "tytul": "Linezolid",
+ "synonimy": [
+  "linezolid",
+  "Zyvox",
+  "Zivoxid",
+  "UNII-ISQ9I6J12J",
+  "PNU 100766",
+  "ISQ9I6J12J",
+  "HSDB 7478",
+  "U 100766",
+  "N-(((S)-3-(3-Fluoro-4-morpholinophenyl)-2-oxo-5-oxazolidinyl)methyl)acetamide",
+  "U-100,766",
+  "Acetamide, N-(((5S)-3-(3-fluoro-4-(4-morpholinyl)phenyl)-2-oxo-5-oxazolidinyl)methyl)-",
+  "Acetamide, N-((3-(3-fluoro-4-(4-morpholinyl)phenyl)-2-oxo-5-oxazolidinyl)methyl)-, (S)-"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM797/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Linezolid is excreted into breastmilk in concentrations likely to be effective against staphylococcal strains found in mastitis. Limited data indicate that the maximum dose an infant would receive through breastmilk would be only 6 to 9% of the standard infant dose and that resulting infant serum levels are trivial. If the mother requires linezolid, it is not a reason to discontinue breastfeeding. Monitor the infant for possible effects on the gastrointestinal tract, such as diarrhea and vomiting."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A 32-year-old lactating woman was given a single dose of 600 mg of linezolid orally. Milk samples were taken at 10 time points over the next 24 hours. The peak concentration of linezolid in breastmilk occurred 2 hours after the dose with a value of 12.4 mg/L. Milk concentrations fell with a half-life of 6.5 hours and were detectable up to 24 hours after the dose. Using the peak milk level data from this patient, an exclusively breastfed infant would receive an estimated maximum of about 2 mg/kg daily with the maximum recommended maternal dosage. The established maximum dosage of linezolid for infants is 30 mg/kg daily.\nA woman was given oral linezolid 600 mg every 12 hours for methicillin-resistant Staph. aureus mastitis. She pumped milk from both breasts 8 times daily on days 1 and 14 of therapy. Peak breastmilk linezolid levels were 9.75 mg/L on day 1 and 18.73 mg/L on day 14. The authors calculated that a fully breastfed infant would receive 7.85% of the weight-adjusted maternal dosage on day 1 and 15.61% on day 14. Using the average milk level on day 14, a fully breastfed infant would receive a dosage of 1.84 mg/kg daily, which is less than the maximum dosage of linezolid for infants of 30 mg/kg daily.\nA woman taking linezolid 600 mg orally every 12 hours donated breastmilk samples at various times over a 24 hour period after about 45 hours after the first dose. Breastmilk linezolid levels ranged from 3.5 to 12.2 mg/L, with the highest level shortly after a dose and the lowest shortly before the following dose.\nInfant Levels. A random blood sample was taken from a breastfed (extent not stated) infant about 3 to 4 hours after a maternal dose and found to contain <0.2 mg/L of linezolid, although the time of the previous breastfeeding was not known. A breast milk sample obtained 1 hour after the infant's serum sample and 4 hours after linezolid administration was 8.9 mg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-resistant Staph. aureus) Doxycycline, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "oteseconazole",
+ "tytul": "Oteseconazole",
+ "synonimy": [
+  "Oteseconazole",
+  "Vivjoa",
+  "VT-1161",
+  "UNII-VHH774W97N",
+  "WHO 10138",
+  "(2R)-2-(2,4-difluorophenyl)-1,1-difluoro-3-(tetrazol-1-yl)-1-[5-[4-(2,2,2-trifluoroethoxy)phenyl]pyridin-2-yl]propan-2-ol"
+ ],
+ "zaktualizowano": "2025-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/oteseconazole/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Oteseconazole must not be used by women of reproductive potential because of the possibility of fetal or infant harm. It is extremely long-lasting and could remain in the milk for as long as 2 years after a course of therapy. An alternate drug should be used."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Clotrimazole, Fluconazole, Miconazole, Nystatin"
+  ]
+ ]
+}

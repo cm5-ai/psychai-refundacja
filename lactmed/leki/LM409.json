@@ -1,0 +1,48 @@
+{
+ "id": "LM409",
+ "tytul": "Pantoprazole",
+ "synonimy": [
+  "pantoprazole",
+  "Pantozol",
+  "Pantoprazolum",
+  "Pantoprazol",
+  "Panyocid",
+  "Controloc Control",
+  "Somac Control",
+  "Pantecta Control",
+  "Pantoloc Control",
+  "Pantozol Control",
+  "BY-1023",
+  "SK&F-96022",
+  "UNII-D8TST4O562",
+  "BY 1023",
+  "HSDB 7292",
+  "SK&F 96022",
+  "D8TST4O562",
+  "EC 600-331-6 6-(difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methylsulfinyl]-1H-benzimidazole"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM409/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Maternal pantoprazole doses of 40 mg daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A mother who was 10 months postpartum and partially nursing her infant was given a single 40 mg dose of oral pantoprazole. Pantoprazole was detectable in milk only 2 and 4 hours after the dose with milk levels of 36 mcg/L and 24 mcg/L, respectively, at those times. It was not detectable (<10 mcg/L) in milk at 6, 8 and 24 hours after the dose. The authors estimated that a fully breastfed infant would receive 0.14% of the maternal weight-adjusted dosage.\nSixteen lactating, but not breastfeeding, women were given oral pantoprazole 40 mg daily for one week. Breastmilk samples were obtained at baseline and 1.5, 3, 4.5, and 6 h following the dose on days 1 and 7. Of 149 breastmilk samples, only 26 had detectable (>0.03 mg/L) pantoprazole concentrations. Peak milk concentrations typically occurred at 3 hours after the dose on day 7. Using the average peak milk concentration, the estimated worst-case infant daily dosage via milk was approximately 0.011 mg/kg. This represents a conservative estimate, as peak milk concentrations are not sustained over the full 24-hour dosing interval.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A retrospective claims database study in the United States found that users of proton pump inhibitors had an increased risk of gynecomastia.\nA review article reported that a search of database from the European Pharmacovigilance Centre found 48 cases of gynecomastia, 3 cases of galactorrhea, 14 cases of breast pain and 4 cases of breast enlargement associated with pantoprazole. A search of the WHO global pharmacovigilance database found 97 cases of gynecomastia, 13 cases of galactorrhea, 35 cases of breast pain and 16 cases of breast enlargement associated with pantoprazole."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Antacids, Cimetidine, Famotidine, Omeprazole, Sucralfate"
+  ]
+ ]
+}

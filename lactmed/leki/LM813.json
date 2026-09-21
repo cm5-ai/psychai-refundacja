@@ -1,0 +1,45 @@
+{
+ "id": "LM813",
+ "tytul": "Technetium Tc 99m Bicisate",
+ "synonimy": [
+  "Neurolite",
+  "Technetium Tc 99m Bicisate",
+  "UNII-H25WJA31XE",
+  "Technetium (99m Tc) bicisate",
+  "Technetii (99m Tc) bicisas",
+  "Technetium (99mTc) bicisate",
+  "H25WJA31XE",
+  "Bicisato de tecnecio (99m Tc)",
+  "Bicisate de technetium (99m Tc)",
+  "Technetii (99m Tc) bicisas [INN-Latin]",
+  "Technetium (99mTc) bicisate [INN]",
+  "Bicisato de tecnecio (99m Tc) [INN-Spanish]",
+  "Bicisate de technetium (99m Tc) [INN-French]",
+  "Technetium Tc 99m bicisate [USAN:USP:INN:BAN]",
+  "(N,N'-Ethylenedi-L-cysteinato(3-))oxo((sup 99m)Tc)technetium(V), diethyl ester",
+  "121281-41-2",
+  "Technetium-(sup 99 m)Tc, ((diethyl N,N'-1,2-ethanediylbis(L-cysteinato))(3-)-N,N',S,S')oxo-, (SP-5-35)-",
+  "Technetium-(sup 99m)Tc, ((diethyl N,N'-1,2-ethanediylbis(L-cysteinato))(3-)-N,N',S,S')oxo-, (SP-5-35)-",
+  "Technetium-99Tc, ((diethyl N,N'-1,2-ethanediylbis(L-cysteinato-kappaN,kappaS))(3-))oxo-, (SP-5-35"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM813/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of technetium Tc 99m bicisate (Tc 99m ethylcysteinate dimer; Tc 99m ECD) as a diagnostic agent. A US Nuclear Regulatory Commission subcommittee has recommended that nursing be discontinued for 24 hours after administration of all technetium Tc 99m diagnostic products to simplify guidance recommendations, although this time interval may be longer than necessary. The International Commission on Radiological Protection states that breastfeeding need not be interrupted after administration of Tc 99m ECD. To follow the principle of keeping exposure \"as low as reasonably achievable\", some experts recommend nursing the infant just before administration of the radiopharmaceutical and interrupting breastfeeding for 3 to 6 hours after the dose, then expressing the milk completely once and discarding it. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. Mothers need not refrain from close contact with their infants after usual clinical doses. However, reducing close contact with the child to the least possible time for 6 hours following injection of the radiopharmaceutical, will ensure that the exposure is \"as low as reasonably achievable\".\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published.\nFor nursing mothers who work with Tc 99m substances in their workplace, there is no need to take any precautions other than those appropriate for general radiation protection."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Tc 99m is a gamma emitter with a principal photon energy of 140 keV and a physical half-life of 6.04 hours. The elimination half-life of Tc 99m ECD is about 50 minutes in patients with normal renal function, but may be prolonged in renal impairment."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

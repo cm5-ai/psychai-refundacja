@@ -1,0 +1,41 @@
+{
+ "id": "LM908",
+ "tytul": "Pregabalin",
+ "synonimy": [
+  "Pregabalin",
+  "Lyrica",
+  "3-isobutyl GABA",
+  "CI-1008",
+  "UNII-55JG375S6M",
+  "CI 1008",
+  "HSDB 7530",
+  "55JG375S6M",
+  "PD 144723",
+  "DEA No. 2782",
+  "(3S)-3-(aminomethyl)-5-methylhexanoic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM908/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that amounts of pregabalin in breastmilk are low and one infant breastfed for 3 months with no discernable adverse effects. Pharmacokinetic model predicted that a maternal dosage of 150 mg daily would not result in a therapeutic level in an exclusively breastfed infant of any age. If pregabalin is required by the mother, it is not a reason to discontinue breastfeeding, but until more data become available, use caution while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding is not recommended during treatment with pregabalin because of the potential risk of tumorigenicity based on high-dose animal studies over a prolonged period. Pregabalin has been used to treat persistent nipple pain in a few women at an average starting dosage of 100 mg daily."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "In published reports of anticonvulsant use during breastfeeding, most women were taking a combination of anticonvulsants. Some other anticonvulsants (e.g., phenytoin, carbamazepine) stimulate the metabolism of other drugs including anticonvulsants, whereas others (e.g., valproic acid) inhibit the metabolism of other drugs. Therefore, the relationship of the maternal dosage to the concentration in breastmilk can be quite variable, making calculation of the weight-adjusted percentage of maternal dosage less meaningful than for other drugs in this database\nMaternal Levels. In one woman, the breastmilk pregabalin level was about equal to the maternal serum concentration.\nTen women who averaged 35.6 weeks postpartum (range 20 to 43 weeks) were given pregabalin 150 mg every 12 hours for 4 doses. Milk samples were obtained before the last dose and 5 times during the 24 hours after the last dose. Three additional collections were made between 24 and 48 hours after the last dose in 5 of the subjects. The average peak breastmilk pregabalin concentration was 4.63 mg/L and the average breastmilk pregabalin concentration was 2.05 mg/L. The average daily infant dosage was 0.31 mg/kg, or about 7% of the maternal weight-adjusted dosage.\nInfant Levels. The breastfed infant of a woman who was taking pregabalin (dose not specified) as an anticonvulsant during pregnancy and breastfeeding had a pregabalin serum concentration of 429 mcg/L at 48 hours postpartum, which was about 8% of the mother's serum concentration. Some of the infant's serum concentration could have been derived from transplacental passage, because the pregabalin half-life in this and another newborn averaged 17 hours.\nA physiologically based pharmacokinetic model demonstrated that with an oral maternal dosage of 150 mg given twice daily, an exclusively breastfed infant would not attain a therapeutic plasma level of about 1.5 mg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A nursing mother with Raynaud’s phenomenon of the nipple was taking nifedipine, which resolved the nipple blanching, but not the lancing pain in the breast that occurred several times daily. Pregabalin 75 mg twice daily was added which almost completely resolved the pain. Her infant was exclusively breastfed for 3 months and experienced no adverse effects."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A study randomized pregnant women to either a single dose of pregabalin 150 mg (n = 45), 300 mg (n = 45), or placebo (n = 45) orally 1 hour before induction of anesthesia for an elective cesarean section to reduce postoperative analgesia requirements. Three infants of mothers in the pregabalin 300 mg group had difficulty latching on for breastfeeding for 8 hours after delivery although none were sedated."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Neuropathic Pain) Carbamazepine, Gabapentin; (Seizure Disorder) Carbamazepine, Divalproex, Gabapentin, Lamotrigine, Oxcarbazepine, Phenytoin, Valproic Acid"
+  ]
+ ]
+}

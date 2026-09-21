@@ -1,0 +1,39 @@
+{
+ "id": "LM1172",
+ "tytul": "Perampanel",
+ "synonimy": [
+  "Perampanel",
+  "Fycompa",
+  "UNII-H821664NPK",
+  "E2007",
+  "ER-155055-90",
+  "H821664NPK",
+  "E 2007",
+  "3-(2-Cyanophenyl)-5-(2-pyridyl)-1-phenyl-1,2-dihydropyridin-2-one",
+  "Benzonitrile, 2-(1',6'-dihydro-6'-oxo-1'-phenyl(2,3'-bipyridin)-5'-yl)-"
+ ],
+ "zaktualizowano": "2023-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1172/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "A minimal amount of information indicates that perampanel milk levels are quite low. If perampanel is required by the mother, it is not a reason to discontinue breastfeeding, but monitor the infant for drowsiness, agitation, adequate weight gain, and developmental milestones, especially in younger, exclusively breastfed infants and when using combinations of drugs."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "In published reports of anticonvulsant use during breastfeeding, most women were taking a combination of anticonvulsants. Some other anticonvulsants (e.g., phenytoin, carbamazepine) stimulate the metabolism of other drugs including anticonvulsants, whereas others (e.g., valproic acid) inhibit the metabolism of other drugs. Therefore, the relationship of the maternal dosage to the concentration in breastmilk can be quite variable, making calculation of the weight-adjusted percentage of maternal dosage less meaningful than for other drugs in this database.\nMaternal Levels. A mother was taking perampanel 8 mg daily as well as lacosamide 200 mg twice daily and brivaracetam 100 mg twice daily. Her milk perampanel levels were 0.31 micromoles/L (108 mcg/L) on day 5 postpartum 12 hours after the previous dose and 0.15 micromoles/L (52 mcg/L) on week 5 postpartum 13 hours after the previous dose.[1]\nTwo breastfeeding women who were taking perampanel 4 mg daily plus lamotrigine had perampanel levels measured in their milk. One woman had a milk level of 0.06 mg/L at 3 days postpartum. The other woman had an undetectable (<0.01 mg/L) milk level at 4 days postpartum.[2]\nInfant Levels. A mother was taking perampanel 8 mg daily as well as lacosamide 200 mg twice daily and brivaracetam 100 mg twice daily. Her infant was exclusively breastfed and had serum perampanel concentration of 0.23 micromoles/L (80 mcg/L) on day 1, 0.49 micromoles/L (171 mcg/L) on day 5, and 0.23 micromoles/L (80 mg/L) in week 5 postpartum, which are near the lower end of the therapeutic range of 0.25 micromoles/L. At week 11 postpartum, the infant was partially breastfed and perampanel was undetectable (<0.15 micromoles/L; <52 mcg/L) in the infant’s serum.[1]\nOne breastfeeding mother taking perampanel 4 mg daily plus lamotrigine had perampanel measured in the serum of her and her infant. Her infant had a serum level of 0.16 mg/L at 4 days postpartum, and an infant-to-maternal serum concentration ratio of 0.36 at 4 days postpartum.[2]"
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "An infant was exclusively breastfed by a mother taking perampanel, brivaracetam and lacosamide for 6 weeks, then partially breastfed. The infant did not exhibit reduced wakefulness or feeding problems. At one year of age, the mother reported normal development.[1]"
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Seizure Disorder) Carbamazepine, Divalproex, Gabapentin, Lamotrigine, Oxcarbazepine, Phenytoin, Valproic Acid"
+  ]
+ ]
+}

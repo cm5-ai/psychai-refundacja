@@ -1,0 +1,64 @@
+{
+ "id": "LM8",
+ "tytul": "Amikacin",
+ "synonimy": [
+  "amikacin",
+  "Amicacin",
+  "amikacine",
+  "Amikacinum",
+  "Amikacina",
+  "Amikavet",
+  "Amikacillin",
+  "Arikace",
+  "Lukadin",
+  "Amiglyde-V",
+  "Kaminax",
+  "Mikavir",
+  "Amukin",
+  "Pierami",
+  "Antibiotic BB-K 8",
+  "Amikozit",
+  "Potentox",
+  "Amikacine [INN-French]",
+  "Amikacinum [INN-Latin]",
+  "Amikacina [INN-Spanish]",
+  "37517-28-5",
+  "BB-K 8",
+  "UNII-84319SGC3C",
+  "Amikacin [USP:INN:BAN]",
+  "Amikacin Inhalation Solution",
+  "HSDB 3583",
+  "EINECS 253-538-5",
+  "84319SGC3C",
+  "NSC 177001",
+  "BAY 41-6551",
+  "MAT2501",
+  "BAY41-6551",
+  "1-N-(L(-)-gamma-Amino-alpha-hydroxybutyryl)kanamycin A",
+  "O-3-Amino-3-deoxy-alpha-D-glucopyranosyl-(1-4)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-6))-N(sup 3)-(4-amino-L-2-hydroxybutyryl)-2-deoxy-L-streptamine",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1-6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4))-N1-(4-amino-2-hydroxy-1-oxobutyl)-2-deoxy-, (S)-",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1->6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1->4))-N(sup 1)-(4-amino-2-hydroxy-1-oxobutyl)-2-deoxy-, (S)-",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1-6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4))-N(sup 1)-(4-amino-2-hydroxy-1-oxobutyl)-2-deoxy-, (S)-",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1.fwdarw.6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1.fwdarw.4))-N1-((2S)-4-amino-2-hydroxy-1-oxobutyl)-2-deoxy-"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM8/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amikacin is poorly excreted into breastmilk. Newborn infants apparently absorb small amounts of other aminoglycosides, but serum levels with typical three times daily dosages are far below those attained when treating newborn infections and systemic effects of amikacin are unlikely. Older infants would be expected to absorb even less amikacin. Because there is little variability in the milk amikacin levels during multiple daily dose regimens, timing breastfeeding with respect to the dose is of little or no benefit in reducing infant exposure. Data are not available with single daily dose regimens. Monitor the infant for possible effects on the gastrointestinal flora, such as diarrhea, candidiasis (e.g., thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two women were given a single dose of 100 mg amikacin intramuscularly, and milk levels were measured at 2 and 6 hours after the dose. Only trace levels were detected. In one woman on amikacin therapy, the peak amikacin milk level was 1.5 mg/L 2.5 hours after a 100 mg dose by injection.\nTwo women were given a single 200 mg dose of amikacin intramuscularly and milk levels were measured hourly for 6 hours. They had only trace levels in milk 6 hours after the dose.\nA woman given a single dose of amikacin 100 mg intramuscularly had undetectable milk amikacin levels 1 and 2 hours after the dose and only trace amounts in milk at 4 and 6 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

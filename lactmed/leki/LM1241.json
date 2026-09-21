@@ -1,0 +1,37 @@
+{
+ "id": "LM1241",
+ "tytul": "Paritaprevir",
+ "synonimy": [
+  "Paritaprevir",
+  "Viekira",
+  "Veruprevir",
+  "ABT450",
+  "UNII-OU2YM37K86",
+  "ABT 450",
+  "(2R,6S,12Z,13aS,14aR,16aS)-N-(Cyclopropylsulfonyl)-6-(5-methylpyrazin-2-carboxamido)-5,16-dioxo-2-(phenanthridin-6-yloxy)-1,2,3,6,7,8,9,10,11,13a,14,15,16,16atetradecahydrocyclopropa(E)pyrrolo(1,2-a)(1,4)diazacyclopentadecine-14a(5H)-carboxamide"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1241/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Paritaprevir has not been studied in nursing mothers being treated for hepatitis C infection. Because it is greater than 97% bound to maternal plasma proteins, amounts in breastmilk are likely to be very low.\nRitonavir used as a booster has been studied in several studies of breastfeeding mothers. It is excreted into milk in measurable concentrations and low levels can be found in the blood of some breastfed infants. No reports of adverse reactions in breastfed infants have been reported. For more information, refer to the LactMed record on ritonavir.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

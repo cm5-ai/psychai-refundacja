@@ -1,0 +1,52 @@
+{
+ "id": "LM740",
+ "tytul": "Sirolimus",
+ "synonimy": [
+  "Sirolimus",
+  "Rapamycin",
+  "Rapamune",
+  "(-)- Supralimus",
+  "Rapammune",
+  "Cypher",
+  "RAPA",
+  "Hyftor",
+  "Antibiotic AY 22989",
+  "UNII-W36ZG6FT64",
+  "AY-22989",
+  "CCRIS 9024",
+  "SILA 9268A",
+  "W36ZG6FT64",
+  "HSDB 7284",
+  "WY-090217",
+  "AY 22989",
+  "DE-109",
+  "NSC 226080",
+  "Wy 090217",
+  "EC 610-965-5",
+  "(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-1,18-dihydroxy-12-[(2R)-1-[(1S,3R,4R)-4-hydroxy-3-methoxycyclohexyl]propan-2-yl]-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM740/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information from one mother indicates that the amount of sirolimus in milk is very low. Additionally, the oral bioavailability of the drug is poor, so systemic exposure in the infant is likely very low. A few infants have reportedly been breastfed during maternal sirolimus therapy. Until more data become available, sirolimus should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant.\nSirolimus is undetectable in the bloodstream after application to the skin, so use of topical sirolimus is unlikely to affect a nursing infant. Avoid application to the nipple area and ensure that the infant’s skin does not come into direct contact with the areas of skin that have been treated."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman taking sirolimus for tuberous sclerosis in a dose of 4 mg daily donated a total of 18 milk samples on days 10, 11 and 15 postpartum, although she was not breastfeeding her infant. Milk concentrations ranged from 173 to 492 ng/L, with the highest value 1 hour after the dose. Using the highest level measured, the worst-case RID value would be 0.1%.\nInfant Levels. One breastfed infant whose mother was taking sirolimus for lymphangioleiomyomatosis in an unspecified dosage had an undetectable amount of blood sirolimus."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One infant was reported breastfed (extent not stated) during maternal therapy with sirolimus, tacrolimus and prednisone in unspecified dosages following a kidney-pancreas transplant. The authors who followed the mother knew of no serious side effects in the infant.\nA review of the Transplant Pregnancy Registry International database from 1999 to 2024 found that 4 mothers with transplants had breastfed their infants for at least 4 weeks while taking sirolimus.\nSeven women with breastfed their infants (extent not stated) while using sirolimus for treatment of lymphangioleiomyomatosis. At a median age of 3.5 years (range 1 to 6.5 years) no adverse health outcomes had been reported."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Azathioprine, Cyclosporine, Tacrolimus"
+  ]
+ ]
+}

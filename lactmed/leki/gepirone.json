@@ -1,0 +1,60 @@
+{
+ "id": "gepirone",
+ "tytul": "Gepirone",
+ "synonimy": [
+  "Gepirone",
+  "Exxua",
+  "BMY-13805",
+  "CHEMBL284092",
+  "JW5Y7B8Z18",
+  "Variza",
+  "Ariza",
+  "Gepirona",
+  "Gepironum",
+  "2,6-Piperidinedione, 4,4-dimethyl-1-(4-(4-(2-pyrimidinyl)-1-piperazinyl)butyl)-",
+  "3,3-dimethyl-1-[4-[4-(2-pyrimidinyl)-1-piperazinyl]butyl]glutarimide",
+  "UNII-JW5Y7B8Z18",
+  "3,3-DIMETHYL-1-(4-(4-(2-PYRIMIDINYL)-1-PIPERAZINYL)BUTYL)GLUTARIMIDE",
+  "SCHEMBL79040",
+  "OCTANOIC-2,2-D2ACID",
+  "DTXSID90232813",
+  "CHEBI:135990",
+  "BCP28729",
+  "BDBM50005132",
+  "AKOS015924526",
+  "DB12184",
+  "DS-4359",
+  "SB19632",
+  "NCGC00408912-01",
+  "A864197",
+  "L001135",
+  "Q2650256",
+  "9995-2711",
+  "4,4-Dimethyl-1-[4-(4-pyrimidin-2-yl-piperazin-1-yl)-butyl]-piperidine-2,6-dione",
+  "4,4-Dimethyl-1-[4-(4-pyrimidin-2-yl-piperazin-1-yl)-butyl]-piperidine-2,6-dione"
+ ],
+ "zaktualizowano": "2023-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/gepirone/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of gepirone during breastfeeding. The drug has poor oral bioavailability, so the infant is unlikely to absorb large amounts. Monitor breastfed infants for adverse reactions, such as irritability, restlessness, excessive somnolence, decreased feeding, and weight loss. An alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

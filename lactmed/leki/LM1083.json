@@ -1,0 +1,41 @@
+{
+ "id": "LM1083",
+ "tytul": "Floxacillin",
+ "synonimy": [
+  "Flucloxacillin",
+  "floxacillin",
+  "Floxapen",
+  "flucloxacilina",
+  "Flucloxacilline",
+  "Flucloxacillinum",
+  "UNII-43B2M34G2V",
+  "BRL 2039",
+  "EINECS 226-051-0",
+  "43B2M34G2V",
+  "(2S,5R,6R)-6-[[3-(2-chloro-6-fluorophenyl)-5-methyl-1,2-oxazole-4-carbonyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1083/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Floxacillin (flucloxacillin) is not approved for marketing in the United States by the U.S. Food and Drug Administration. It is acceptable to use during breastfeeding and is frequently used abroad to treat mastitis in nursing mothers. Limited information indicates that floxacillin levels in milk are low and are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with penicillins, but these effects have not been adequately evaluated. Floxacillin is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. One report states that the manufacturer supplied information on floxacillin excretion into breastmilk. After a 250 mg oral dose, a milk level of 0.1 mg/L was measured. Further details are lacking. This value is consistent with that of other penicillins.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-sensitive Staph. aureus) Cefazolin, Cephalexin, Dicloxacillin, Oxacillin, Methicillin, Nafcillin; (Methicillin-resistant Staph. aureus) Doxycycline, Linezolid, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

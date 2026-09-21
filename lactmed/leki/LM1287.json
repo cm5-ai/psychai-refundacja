@@ -1,0 +1,37 @@
+{
+ "id": "LM1287",
+ "tytul": "Linaclotide",
+ "synonimy": [
+  "Linaclotide",
+  "Linzess",
+  "UNII-N0TXR0XR5X",
+  "N0TXR0XR5X",
+  "HSDB 8224",
+  "ASP 0456",
+  "L-Tyrosine, L-cysteinyl-L-cysteinyl-L-alpha-glutamyl-L-tyrosyl-L-cysteinyl-L-cysteinyl-L-asparaginyl-L-prolyl-L-alanyl-L-cysteinyl-L-threonylglycyl-L-cysteinyl-, cyclic (1->6),(2->10),(5->13)-tris(disulfide)"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1287/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Linaclotide is minimally absorbed from the gastrointestinal tract and the drug and its active metabolite are not measurable in milk following administration of doses up to 290 mcg daily. Linaclotide appears to be acceptable in nursing mothers and no special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Linaclotide is metabolized in the gastrointestinal tract to its active metabolite, MM-419447.\nMaternal Levels. In a multicenter study, 7 lactating women were taking linaclotide in doses of 72 mcg (n = 5), 145 mcg (n = 1) or 290 mcg (n = 1) once daily. Milk was pumped on day 1 and day 3 of the study. Over 24-hours of milk collection on day 3, concentrations of linaclotide and MM-419447 in milk samples were below the quantitation limits (<0.25 mcg/L and <1 mcg/L, respectively) at all time points in all participants.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Irritable Bowel Syndrome) Lubiprostone, Plecanatide, Polyethylene Glycol, Psyllium, Tenapanor"
+  ]
+ ]
+}

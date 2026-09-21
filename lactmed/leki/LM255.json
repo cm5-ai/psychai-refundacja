@@ -1,0 +1,65 @@
+{
+ "id": "LM255",
+ "tytul": "Thioridazine",
+ "synonimy": [
+  "thioridazine",
+  "Mellaril",
+  "Thioridazin",
+  "Melleril",
+  "Meleril",
+  "Malloryl",
+  "Sonapax",
+  "Melleretten",
+  "Mellerette",
+  "Mellerets",
+  "Mallorol",
+  "Mellaril-S",
+  "Tioridazina",
+  "dl-Thioridazine",
+  "Thioridazinum",
+  "Melleryl",
+  "Thiozine",
+  "Melleril (liquid)",
+  "(+-)-Thioridazine",
+  "Thioridazine prolongatum",
+  "TP-21",
+  "Thioridazinum [INN-Latin]",
+  "Tioridazina [INN-Spanish]",
+  "50-52-2",
+  "UNII-N3D6TG58NI",
+  "HSDB 3189",
+  "N3D6TG58NI",
+  "EINECS 200-044-2",
+  "Thioridazine [USAN:USP:INN:BAN]",
+  "AI3-51923",
+  "2-Methylmercapto-10-(2-(N-methyl-2-piperidyl)ethyl)phenothiazine",
+  "3-Methylmercapto-N-(2'-(N-methyl-2-piperidyl)ethyl)phenothiazine",
+  "10-(2-(1-Methyl-2-piperidyl)ethyl)-2-(methylthio)phenothiazine",
+  "10H-Phenothiazine, 10-(2-(1-methyl-2-piperidinyl)ethyl)-2-(methylthio)-",
+  "Phenothiazine, 10-((1-methyl-2-piperidyl)ethyl)-2-(methylthio)-"
+ ],
+ "zaktualizowano": "2022-11-30",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM255/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is no published experience with thioridazine during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Phenothiazines cause galactorrhea in 26 to 40% of female patients. Hyperprolactinemia appears to be the cause of the galactorrhea. There is some evidence that thioridazine increases serum prolactin to a greater extent than other phenothiazines. The hyperprolactinemia is caused by the drug's dopamine-blocking action in the tuberoinfundibular pathway. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

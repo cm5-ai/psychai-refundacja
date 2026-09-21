@@ -1,0 +1,45 @@
+{
+ "id": "LM717",
+ "tytul": "Zanamivir",
+ "synonimy": [
+  "zanamivir",
+  "Relenza",
+  "GANA",
+  "4-Guanidino-Neu5Ac2en",
+  "139110-80-8",
+  "GANA (inhibitor)",
+  "UNII-L6O3XI777I",
+  "Zanamivir [USAN:INN:BAN]",
+  "L6O3XI777I",
+  "GG 167",
+  "HSDB 7437",
+  "GR 121167X",
+  "4-Guanidino-2,4-dideoxy-2,3-dehydro-N-acetylneuraminic acid",
+  "5-Acetamido-2,6-anhydro-3,4,5-trideoxy-4-guanidino-D-glycero-D-galacto-non-2-enonic acid",
+  "D-glycero-D-galacto-Non-2-enonic acid, 5-(acetylamino)-4-(aminoiminomethyl)amino)-2,6-anhydro-3,4,5-trideoxy-"
+ ],
+ "zaktualizowano": "2021-04-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM717/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of zanamivir during breastfeeding. One group of authors estimated that an exclusively breastfed 5 kg infant would receive about 0.075 mg daily in breastmilk after an inhaled maternal dose of 10 mg, which is less than 1% of the dose in older children. In addition, because zanamivir is poorly absorbed orally, it is not likely to reach the bloodstream of the infant in clinically important amounts."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Oseltamivir"
+  ]
+ ]
+}

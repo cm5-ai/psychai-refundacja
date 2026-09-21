@@ -1,0 +1,46 @@
+{
+ "id": "LM385",
+ "tytul": "Remifentanil",
+ "synonimy": [
+  "Remifentanil",
+  "Ultiva",
+  "Remifentanyl",
+  "UNII-P10582JYYK",
+  "DEA No. 9739",
+  "GI 87084X",
+  "HSDB 8377",
+  "Remifentanilo",
+  "CHEBI:8802",
+  "IDS-NR-005",
+  "HSDB 8377",
+  "DTXSID00157826",
+  "remifentanilum",
+  "DTXCID6080317",
+  "N01AH06",
+  "methyl 1-(3-methoxy-3-oxopropyl)-4-(N-propanoylanilino)piperidine-4-carboxylate"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM385/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because the half-life of remifentanil is extremely short, it is unlikely to cause any adverse effects in the breastfed newborn if it is given to the mother for labor analgesia or a surgical procedure. Maternal use of opioids during breastfeeding can cause infant drowsiness, which may progress to rare but severe central nervous system depression. Newborn infants seem to be particularly sensitive to the effects of even small dosages of narcotic analgesics. If the mother of a newborn requires remifentanil, it is not a reason to discontinue breastfeeding; however, once the mother's milk comes in, it is best to provide pain control with a nonnarcotic analgesic and limit maternal intake of remifentanil to a few days with close infant monitoring. If the baby shows signs of increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness, a physician should be contacted immediately. Because no information is available on the use of remifentanil during breastfeeding, an alternate drug may be preferred if the mother requires prolonged administration of remifentanil during the early postpartum period. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Remifentanil is administered intravenously and has a half-life of about 3 minutes in adults. Its oral bioavailability is unknown.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Four mothers who were breastfeeding their infants received remifentanil as part of their general anesthesia for surgical procedures. All patients also received intravenous propofol and rocuronium, and inhaled xenon as part of the anesthesia. They were given doses of remifentanil that targeted a serum concentration of 4.5 mcg/L during the procedure and reduced to achieve a target concentration of 1.5 mcg/L at the end of anesthesia. Individual infants were first breastfed as follows: 1.5 hours, 2.8 hours, 4.6 hours, and 5 hours after extubation. No signs of sedation were observed in any of the infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Narcotics can increase serum prolactin. However, the prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nA double-blind, randomized study compared patient-controlled intravenous (IV) analgesia with remifentanil (n = 43) to a continuous meperidine infusion (n = 45) for labor analgesia. Patients receiving remifentanil used an average total dosage of 1035 mcg/kg and those receiving meperidine received an average total dosage of 150 mg/kg. Breastfeeding difficulties were experienced in 6.3% of the infants of mothers who received remifentanil and 12.8% of infants whose mothers received meperidine; however, this difference was not statistically significant."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Butorphanol, Fentanyl, Hydromorphone, Morphine"
+  ]
+ ]
+}

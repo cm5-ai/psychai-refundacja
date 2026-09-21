@@ -1,0 +1,57 @@
+{
+ "id": "LM858",
+ "tytul": "Reboxetine",
+ "synonimy": [
+  "Reboxetine",
+  "Vestra",
+  "Edronax",
+  "947S0YZ36I",
+  "98769-81-4",
+  "105017-38-7",
+  "UNII-947S0YZ36I",
+  "SCHEMBL34533",
+  "CHEMBL383921",
+  "DTXSID1048257",
+  "CHEBI:135342",
+  "BDBM388642",
+  "DTXSID401315414",
+  "BCP12060",
+  "AKOS015966368",
+  "DB00234",
+  "AS-56251",
+  "HY-14560",
+  "US9944618, Compound ID No. 178",
+  "CS-0003444",
+  "D08472",
+  "D95753",
+  "AB00920697_06",
+  "A837261",
+  "EN300-19659906",
+  "BRD-K77224738-066-02-7",
+  "(2R)-2-[(R)-(2-ethoxyphenoxy)-phenylmethyl]morpholine"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM858/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Reboxetine is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. Limited information indicates that maternal doses of up to 10 mg daily produce low levels in milk and appear to not result in any adverse effects in breastfed infants. Until more data are available, reboxetine should be used with careful monitoring during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four women with postpartum depression had been taking reboxetine in an average dose of 6.5 mg daily (range 4 to 10 mg daily) equivalent to 79 mcg/kg daily (range 44 to 172 mcg/kg daily) for an average of 2.5 months (range 1.3 to 4.1 months). The mothers collected fore- and hindmilk samples before the first daily dose and with each infant feeding throughout 24 hours (7 to 8 times). Average peak milk reboxetine levels of 16 mcg/L (range 10 to 21 mcg/L) occurred at an average of 4.3 hours (range 1 to 8.8 hours) after the dose. The mean of the average plasma concentrations was 11.3 mcg/L (range 6.7 to 16.3 mcg/L). The infant dosage averaged 1.7 mcg/kg daily (range 1 to 2.4 mcg/kg daily) which was 2% (range 1.4 to 2.5%) of the maternal weight-adjusted dosage.\nInfant Levels. Four infants whose mothers had postpartum depression had been breastfed (extent not stated) for 1.3 to 2.1 months during maternal reboxetine therapy at an average dose of 6.5 mg (79 mcg/kg) daily. The infant dosage was calculated to be 1.7 mcg/kg daily (range 1 to 2.4 mcg/kg daily). Individual infant plasma levels obtained (times not stated) were 2.3, 2.6, 5 and undetectable (<4) mcg/L. The mean of the average maternal plasma concentrations was 192 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Four infants whose mothers had postpartum depression had been breastfed (extent not stated) for 1.3 to 2.1 months during maternal reboxetine therapy at an average dose of 6.5 mg (79 mcg/kg) daily. One of the mothers was also taking escitalopram 20 mg daily and another was taking sertraline 300 mg daily. None of the infants exhibited any adverse reactions. Three of the infants had normal Denver developmental scores; the fourth whose mother was taking reboxetine had a developmental age of only 71% of normal, but the problem predated maternal reboxetine therapy.\nFive women used reboxetine during pregnancy and lactation (extent not stated) in unspecified doses. No adverse effects were noted in their infants and normal developmental milestones were reported."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Reboxetine increased serum prolactin in male subjects. The relevance of this finding to nursing mothers is not clear. The prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nAn observational study looked at outcomes of 2859 women who took an antidepressant during the 2 years prior to pregnancy. Compared to women who did not take an antidepressant during pregnancy, mothers who took an antidepressant during all 3 trimesters of pregnancy were 37% less likely to be breastfeeding upon hospital discharge. Mothers who took an antidepressant only during the third trimester were 75% less likely to be breastfeeding at discharge. Those who took an antidepressant only during the first and second trimesters did not have a reduced likelihood of breastfeeding at discharge. The antidepressants used by the mothers were not specified.\nA retrospective cohort study of hospital electronic medical records from 2001 to 2008 compared women who had been dispensed an antidepressant during late gestation (n = 575) to those who had a psychiatric illness but did not receive an antidepressant (n = 1552) and mothers who did not have a psychiatric diagnosis (n = 30,535). Women who received an antidepressant were 37% less likely to be breastfeeding at discharge than women without a psychiatric diagnosis, but no less likely to be breastfeeding than untreated mothers with a psychiatric diagnosis. None of the mothers were taking reboxetine.\nIn a study of 80,882 Norwegian mother-infant pairs from 1999 to 2008, new postpartum antidepressant use was reported by 392 women and 201 reported that they continued antidepressants from pregnancy. Compared with the unexposed comparison group, late pregnancy antidepressant use was associated with a 7% reduced likelihood of breastfeeding initiation, but with no effect on breastfeeding duration or exclusivity. Compared with the unexposed comparison group, new or restarted antidepressant use was associated with a 63% reduced likelihood of predominant, and a 51% reduced likelihood of any breastfeeding at 6 months, as well as a 2.6-fold increased risk of abrupt breastfeeding discontinuation. Specific antidepressants were not mentioned."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

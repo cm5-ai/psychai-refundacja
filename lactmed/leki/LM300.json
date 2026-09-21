@@ -1,0 +1,56 @@
+{
+ "id": "LM300",
+ "tytul": "Pindolol",
+ "synonimy": [
+  "pindolol",
+  "Visken",
+  "Prinodolol",
+  "Betapindol",
+  "Durapindol",
+  "Carvisken",
+  "Pinbetol",
+  "Calvisken",
+  "Pectobloc",
+  "Decreten",
+  "Pynastin",
+  "Pindololum",
+  "Blocklin L",
+  "Glauco-Viskin",
+  "LB-46",
+  "LB 46",
+  "UNII-BJ4HF6IU1D",
+  "CCRIS 9215",
+  "BJ4HF6IU1D",
+  "HSDB 6539",
+  "4-(2-Hydroxy-3-isopropylaminopropoxy)-indole",
+  "EINECS 236-867-9",
+  "EINECS 244-623-8",
+  "BRN 1536506",
+  "5-21-03-00017 (Beilstein Handbook Reference)",
+  "1-(1H-indol-4-yloxy)-3-(propan-2-ylamino)propan-2-ol"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM300/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Recommendation for Use During Lactation: Limited information indicates that maternal pindolol produces low levels in milk. It also has a short half-life and only moderate renal excretion, so it would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 60% protein binding, 40% renal excretion and a half-life of 3 hours, pindolol presents moderately low risk for accumulation in infants. Pindolol is administered as a racemic mixture, but the (-)-S enantiomer has much more activity than the (+)-R enantiomer.\nMaternal Levels. Three women were receiving pindolol 10 mg every 12 hours during pregnancy and postpartum. A single breastmilk sample was collected from each mother on the day of delivery at 11, 12 or 14 hours after the previous pindolol dose. The 2 pindolol enantiomers were measured separately in milk, with (-)-S-pindolol concentration averaging 3.1 mcg/L (range 1.5 to 3.9 mcg/L) and (+)-R-pindolol averaging 1.9 mcg/L (range 1.2 to 4.2 mcg/L). Using the AUC and milk/plasma ratio values reported, a fully breastfed infant would receive an average of 0.36% of the maternal weight-adjusted dosage of pindolol.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information on pindolol was not found as of the revision date. A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. None of the mothers were taking pindolol."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or pindolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Propranolol, Labetalol, Metoprolol"
+  ]
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "tirofiban",
+ "tytul": "Tirofiban",
+ "synonimy": [
+  "Tirofiban",
+  "Aggrastat",
+  "Agrastat",
+  "L 700,462",
+  "L 700462",
+  "L-700,462",
+  "L-700462",
+  "L700,462",
+  "MK 383",
+  "MK-383",
+  "tirofibanum",
+  "HSDB 7323",
+  "UNII-GGX234SI5H",
+  "CHEBI:9605",
+  "DTXSID20162730",
+  "DTXCID7085221",
+  "B01AC17",
+  "(2S)-2-(butylsulfonylamino)-3-[4-(4-piperidin-4-ylbutoxy)phenyl]propanoic acid"
+ ],
+ "zaktualizowano": "2025-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/tirofiban/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Tirofiban is an antiplatelet drug given by intravenous infusion. Its oral bioavailability has not been studied in humans, but is only 2.2% in rats. No information is available on the drug’s use during breastfeeding, but infants would not be expected to absorb clinically relevant amounts of the drug from milk. If a mother requires tirofiban, it is not a reason to discontinue breastfeeding, but monitor the infant for bruising or bleeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

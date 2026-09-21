@@ -1,0 +1,51 @@
+{
+ "id": "LM314",
+ "tytul": "Nortriptyline",
+ "synonimy": [
+  "nortriptyline",
+  "Aventyl",
+  "Pamelor",
+  "Desitriptilina",
+  "Noritren",
+  "Sensaval",
+  "Avantyl",
+  "Ateben",
+  "Noramitriptyline",
+  "Lumbeck",
+  "Nortryptiline",
+  "Nortryptyline",
+  "Desmethylamitriptyline",
+  "Demethylamitriptyline",
+  "Nortriptylinum",
+  "Nortriptilina",
+  "UNII-BL03SY4LXB",
+  "CCRIS 9175",
+  "HSDB 3371",
+  "EINECS 200-788-8",
+  "BRN 2216786"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM314/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of nortriptyline in breastmilk, amounts ingested by the infant are small and usually not been detected in the serum of the infant, although the less active metabolites are often detectable in low levels in infant serum. Immediate side effects have not been reported and a limited amount of follow-up has found no adverse effects on infant growth and development. A safety scoring system finds nortriptyline use to be possible with caution during breastfeeding. Most authoritative reviewers consider nortriptyline one of the preferred antidepressants during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Nortriptyline is metabolized to E-10-hydroxynortriptyline and Z-10-hydroxynortriptyline, the antidepressant activity of each considered to be 50% of nortriptyline's.\nMaternal Levels. Nortriptyline, a metabolite of amitriptyline, was measured in breastmilk in a mother who was taking amitriptyline 75 mg daily. Her milk levels were 75 and 63 mcg/L at 2 and 10 weeks, respectively, after starting treatment (time after dose not specified). After 19 weeks of therapy, an amitriptyline dose of 25 mg daily produced milk nortriptyline levels that were not detectable (<30 mcg/L).\nA mother began taking nortriptyline 125 mg daily immediately postpartum and exclusively breastfed her infant. Milk samples were taken 9 times over 36 hours on days 6 and 7 postpartum. Peak milk nortriptyline levels of about 220 mcg/L occurred 8 hours after the dose, and the average of the 9 milk levels was 180 mcg/L. Milk levels measured on days 20 and 48 postpartum while the mother was taking 125 mg and 75 mg daily, respectively, were similar to the levels on days 6 and 7. Milk levels taken after feeding were much higher than those taken before feeding, probably because of higher concentrations in the more fat-rich hindmilk. The authors estimated that an exclusively breastfed infant would receive 27 mcg/kg daily or 1.3% of the maternal weight-adjusted dosage.\nAnother mother who was taking amitriptyline 175 mg daily had nortriptyline milk levels of 17 and 20 mcg/L on the morning and evening of the first day of therapy and 87 mcg/L on day 26 of therapy. E-10-hydroxynortriptyline was found in milk in levels averaging 89 mcg/L over this time period.\nInfant Levels. In a pooled analysis of 32 mother-infant pairs from published and unpublished cases, the authors found that infants had an average of 10% (range 0 to 24%) of the nortriptyline plasma levels of the mothers'; 1 of the 32 infants had a plasma level greater than 10% of the mother’s, which was defined by the authors as being elevated. In mothers taking 75 to 150 mg daily of nortriptyline, E-10-hydroxynortriptyline was found in levels ranging from barely detectable (<4 mcg/L) to 16 mcg/L in the serum of 5 of 9 breastfed infants and Z-10-hydroxynortriptyline has been detected in levels ranging from barely detectable (<4 mcg/L) to 17 mcg/L in the serum of 5 of 9 breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "At least 44 infants have been reported to have been exposed to nortriptyline in breastmilk with no reports of adverse reactions with maternal dosages from 25 to 175 mg daily. The time of initial exposure ranged from the immediate newborn period to 3.5 months. The follow-up ranged from observation of the infants to full developmental testing.\nTwenty-seven of the above infants were tested formally between 15 to 71 months and found to have normal growth and development. Two small controlled studies found that other tricyclic antidepressants in breastmilk also had no adverse effect on infant development."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Nortriptyline usually increases serum prolactin only slightly, but has caused galactorrhea in nonpregnant, nonnursing patients rarely.\nAn observational study looked at outcomes of 2859 women who took an antidepressant during the 2 years prior to pregnancy. Compared to women who did not take an antidepressant during pregnancy, mothers who took an antidepressant during all 3 trimesters of pregnancy were 37% less likely to be breastfeeding upon hospital discharge. Mothers who took an antidepressant only during the third trimester were 75% less likely to be breastfeeding at discharge. Those who took an antidepressant only during the first and second trimesters did not have a reduced likelihood of breastfeeding at discharge. The antidepressants used by the mothers were not specified.\nA retrospective cohort study of hospital electronic medical records from 2001 to 2008 compared women who had been dispensed an antidepressant during late gestation (n = 575) to those who had a psychiatric illness but did not receive an antidepressant (n = 1552) and mothers who did not have a psychiatric diagnosis (n = 30,535). Women who received an antidepressant were 37% less likely to be breastfeeding at discharge than women without a psychiatric diagnosis, but no less likely to be breastfeeding than untreated mothers with a psychiatric diagnosis. None of the mothers were taking nortriptyline.\nIn a study of 80,882 Norwegian mother-infant pairs from 1999 to 2008, new postpartum antidepressant use was reported by 392 women and 201 reported that they continued antidepressants from pregnancy. Compared with the unexposed comparison group, late pregnancy antidepressant use was associated with a 7% reduced likelihood of breastfeeding initiation, but with no effect on breastfeeding duration or exclusivity. Compared with the unexposed comparison group, new or restarted antidepressant use was associated with a 63% reduced likelihood of predominant, and a 51% reduced likelihood of any breastfeeding at 6 months, as well as a 2.6-fold increased risk of abrupt breastfeeding discontinuation. Specific antidepressants were not mentioned."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Paroxetine, Sertraline"
+  ]
+ ]
+}

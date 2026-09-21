@@ -1,0 +1,44 @@
+{
+ "id": "LM1120",
+ "tytul": "Telithromycin",
+ "synonimy": [
+  "Telithromycin",
+  "Ketek",
+  "UNII-KI8H7H19WL",
+  "HMR3647",
+  "KI8H7H19WL",
+  "Telithromycin [USAN:INN:BAN]",
+  "HMR-3647",
+  "HSDB 7359",
+  "HMR 3647",
+  "RU-66647",
+  "RU 66647",
+  "191114-48-4",
+  "(3aS,4R,7R,9R,10R,11R,13R,15R,15aR)-4-Ethyl-11-methoxy-3a,7,9,11,13,15-hexamethyl-1-(4-(4-(pyridin-3-yl)-1H-imidazol-1-yl)butyl)-10-((3,4,6-trideoxy-3-(dimethylamino)-b-d-xylo-hexopyranosyl)oxy)octahydro-2H-oxacyclotetradecino(4,3-d)oxazole-2,6,8,14(1H,7H,9H)-tetrone",
+  "Erythromycin, 3-de((2,6-dideoxy-3-C-methyl-3-O-methyl-alpha-L-ribo-hexopyranosyl)oxy)-11,12-dideoxy-6-O-methyl-3-oxo-12,11-(oxycarbonyl((4-(4-(3-pyridinyl)-1H-imidazol-1-yl)butyl)imino))-"
+ ],
+ "zaktualizowano": "2019-02-07",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1120/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is no published experience with telithromycin during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Azithromycin, Clarithromycin"
+  ]
+ ]
+}

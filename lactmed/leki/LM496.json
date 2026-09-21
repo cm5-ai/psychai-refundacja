@@ -1,0 +1,53 @@
+{
+ "id": "LM496",
+ "tytul": "Epoetin Alfa",
+ "synonimy": [
+  "binocrit",
+  "Abseamed",
+  "Procrit",
+  "Epogen",
+  "Eprex",
+  "Epoetinum alfa",
+  "Epogen/procrit",
+  "Epoetin alpha",
+  "Epoetina alfa",
+  "Epoetine alfa",
+  "Erythropoietin alfa",
+  "Erythropoietin-alfa",
+  "r-HuEPO",
+  "ERYPO",
+  "EPOETIN ALFA",
+  "Epoetine alfa [INN-French]",
+  "Epoetinum alfa [INN-Latin]",
+  "Epoetina alfa [INN-Spanish]",
+  "Erythropoietin-alfa, recombinant",
+  "HSDB 7584",
+  "DRG-0062",
+  "Epoetin Alfa [USAN:INN:BAN:JAN]",
+  "HX 575",
+  "Epoetin-alpha (genetical recombination)",
+  "1-165-Erythropoietin (human clone lambdaHEPOFL13 protein moiety), glycoform alpha",
+  "113427-24-0",
+  "EPO"
+ ],
+ "zaktualizowano": "2023-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM496/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The excretion of exogenous epoetin alfa (recombinant human erythropoietin; EPO) in breastmilk has not been studied. Erythropoietin is a normal component of human milk. Although some studies have shown an improve response of postpartum anemia when epoetin alfa was used with iron therapy, current consensus is that epoetin alfa has no clinically important effect on the increase in hemoglobin concentration over iron alone. No adverse reactions were reported in the breastfed infants of mothers who received epoetin alfa. Based on theoretical considerations, the manufacturer recommends avoiding the use of epoetin alfa multiple-dose vials for lactating women because of its benzyl alcohol content and to avoid breastfeeding for 2 weeks after a dose that contains benzyl alcohol. No special precautions are required during breastfeeding if mothers receive epoetin alfa from a single-use vial without preservatives.\nSome authors have hypothesized that erythropoietin in milk might help maintain the integrity of the lining of the mammary epithelium and the infant gastrointestinal tract, thereby reducing the risk of mother-to-child transmission of HIV infection (MTCT). A case-control study in Tanzania supports the protective role of erythropoietin in breastmilk against MTCT. Erythropoietin might also have a modest beneficial effect on the infant's red cell production."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information on exogenous administration of epoetin alfa was not found as of the revision date. However, breastmilk normally contains erythropoietin. Erythropoietin concentrations in human milk are in the range of approximately 4 to 5 units/L in the first 1 to 2 months postpartum and increase to 20 to 40 units/L by the third month and to 100 to 150 units/L by 12 months.\nInfant Levels. Published information on absorption of epoetin alfa from breastmilk was not found as of the revision date. However, several studies in which oral doses of epoetin alfa and other recombinant forms of erythropoietin were given to preterm infants found that epoetin is absorbed to a small extent. Increases in hematocrit in infants treated with oral epoetin alfa have been small to negligible. However, one study found that hospitalized preterm infants taking enteral feedings and given 400 units daily of recombinant human erythropoietin by mouth with ferrous sulfate had higher reticulocyte counts and serum erythropoietin concentrations upon hospital discharge than control infants given only ferrous sulfate."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Enhancement of gastrointestinal tract maturation has been proposed as a function of erythropoietin in breastmilk.\nIn a study of 40 women with postpartum anemia, 19 of 20 women who received iron and subcutaneous recombinant human erythropoietin (generic name and brand not specified) 200 IU/kg daily for 15 days were able to breastfeed their infants. This regimen is more aggressive than the approved three times/week regimen. In the control group that received only oral iron and folic acid, only 10 were able to breastfeed their infants. No adverse reactions were reported among the infants of women who receive epoetin."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In small studies, epoetin alfa administration decreased serum prolactin in patients with amyotrophic lateral sclerosis, but had no effect in normal subjects or in patients with renal failure undergoing chronic ambulatory peritoneal dialysis. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

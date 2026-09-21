@@ -1,0 +1,65 @@
+{
+ "id": "LM35",
+ "tytul": "Budesonide",
+ "synonimy": [
+  "budesonide",
+  "Pulmicort",
+  "Rhinocort",
+  "Entocort",
+  "Preferid",
+  "Budeson",
+  "Rhinocort Aqua",
+  "Pulmicort",
+  "Spirocort",
+  "Tarpeyo",
+  "Uceris",
+  "Micronyl",
+  "Respules",
+  "Bidien",
+  "Breztri",
+  "Budesonidum",
+  "Uceris",
+  "Rhinocort alpha",
+  "Entocort EC",
+  "Budesonido",
+  "Pulmicort Respules",
+  "Budecort Inhaler",
+  "Fvolir",
+  "Pulmicort Flexhaler",
+  "Rhinocort Allergy",
+  "Symbicort",
+  "Airsupra",
+  "Breyna",
+  "Eohilia",
+  "UNII-Q3OKS62Q6X",
+  "CCRIS 5230",
+  "EINECS 257-139-7",
+  "HSDB 8279",
+  "S 1320",
+  "(1S,2S,4R,8S,9S,11S,12S,13R)-11-hydroxy-8-(2-hydroxyacetyl)-9,13-dimethyl-6-propyl-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-16-one"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM35/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The amounts of inhaled budesonide excreted into breastmilk are minute and infant exposure is negligible. When taken by mouth, budesonide is only about 9% bioavailable; bioavailability in the infant is likely to be similarly low for any budesonide that enters the breastmilk. Expert opinion considers inhaled, nasal, oral and rectal corticosteroids acceptable to use during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The manufacturer reports that the maximum budesonide plasma concentration following a 9 mg daily dose in both single- and repeated-dose pharmacokinetic studies of oral budesonide ranges from 2.15 to 4.31 mcg/L, which is 10 times higher than with inhaled budesonide. With rectal budesonide, maternal serum levels are about 0.4 mcg/L. Inhaled budesonide results in a relative infant dose of 0.3%, so the oral dose could provide an oral weight-adjusted dose of 3% to a breastfed infant. However, since the drug is only about 9% absorbed orally, the infant’s systemic RID after maternal oral use would be about 0.27%. The RID after rectal budesonide would be about 0.025%.\nEight women with asthma were using inhaled budesonide 200 mcg (n = 4) or 400 mcg twice daily (n = 4) by Pulmicort Turbihaler. Peak milk levels of budesonide of 168 ng/L and 335 ng/L occurred at 32 and 43 minutes after inhalation with the 200 mcg and 400 mcg doses, respectively. Average infant doses were estimated to be 6.8 and 14.2 ng/kg daily for the 200 mcg and 400 mcg dosages. A fully breastfed infant would receive a maximum of 0.3% of the weight-adjusted maternal dosage, assuming 100% oral bioavailability from breastmilk.\nInfant Levels. Four infants whose mothers were taking budesonide 200 mcg (n = 2) or 400 mcg (n = 2) twice daily by Pulmicort Turbihaler. The infants had serum samples taken 1.5 hours (range 0.7 to 2 hours) after the first breastfeeding after drug administration and 2.3 hours (range 2.1 to 2.6 hours) after maternal drug inhalation. All had undetectable (<8.6 to 17.2 ng/L) serum budesonide concentrations."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "None reported with any corticosteroid."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Inhalation) Beclomethasone"
+  ]
+ ]
+}

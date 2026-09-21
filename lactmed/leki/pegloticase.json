@@ -1,0 +1,41 @@
+{
+ "id": "pegloticase",
+ "tytul": "Pegloticase",
+ "synonimy": [
+  "Pegloticase",
+  "Krystexxa",
+  "Puricase",
+  "Puricase",
+  "Methoxypolyethylene glycol uricase",
+  "PEG-uricase",
+  "Pegloticase",
+  "Polyethylene glycol-uricase",
+  "HSDB 8391",
+  "UNII-R581OT55EAx",
+  "des-(1-5)-(6-Threonine,45-threonine,290-lysine,300-serine)uricase (EC 1.7.3.3,urate oxidase) from Sus scrofa (Pig), tetramer"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/pegloticase/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of pegloticase during breastfeeding. Because pegloticase is a very large molecule with molecular weight of 540,000 Da, and composed of smaller subunits with molecular weights of 34,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Polyethylene glycol is not excreted into breastmilk. Until more safety data become available, an alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Allopurinol, Probenecid"
+  ]
+ ]
+}

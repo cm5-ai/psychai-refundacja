@@ -1,0 +1,50 @@
+{
+ "id": "LM625",
+ "tytul": "Carteolol",
+ "synonimy": [
+  "carteolol hydrochloride",
+  "Carteolol HCl",
+  "Arteoptic",
+  "Cartrol",
+  "Mikelan",
+  "Ocupress",
+  "Endak",
+  "Carbonolol",
+  "Endak mite",
+  "Endak hydrochloride",
+  "Abbott-43326",
+  "Abbott 43326",
+  "OPC-1085",
+  "UNII-4797W6I0T4",
+  "OPC 1085",
+  "EINECS 257-415-7",
+  "NSC 300906",
+  "4797W6I0T4",
+  "5-(3-tert-Butylamino-2-hydroxy-propoxy)-3,4-dihydro-2(1H)-chinolinon-hydrochlorid [German]",
+  "5-[3-(tert-butylamino)-2-hydroxypropoxy]-3,4-dihydro-1H-quinolin-2-one"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM625/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No data are available for the use of carteolol during breastfeeding. Because its excretion into breastmilk is probably extensive, other beta-adrenergic blocking drugs are preferred to oral carteolol while breastfeeding a neonate. Infants over 2 months of age have more mature kidney function and are less likely to be affected.\nOphthalmic use of carteolol by the mother should pose little risk to the breastfed infant, although some guidelines state that gel formulations are preferred over solutions. To substantially diminish the amount of drug that reaches the breastmilk after using eye drops, place pressure over the tear duct by the corner of the eye for 1 minute or more, then remove the excess solution with an absorbent tissue."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 60% protein binding, 15% renal excretion and a moderately long half-life, carteolol presents a relatively high risk for accumulation in infants, especially neonates.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. None of the mothers were taking carteolol. Beta-adrenergic blocking drugs with similar breastmilk excretion characteristics have caused adverse effects in breastfed newborns."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol. There are no reports on the effects of beta-blockade or carteolol use during normal lactation."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Systemic) Propranolol, Labetalol, Metoprolol; (Ophthalmic) Levobunolol, Metipranolol, Timolol"
+  ]
+ ]
+}

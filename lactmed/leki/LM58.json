@@ -1,0 +1,43 @@
+{
+ "id": "LM58",
+ "tytul": "Cefuroxime",
+ "synonimy": [
+  "cefuroxime",
+  "Cephuroxime",
+  "Cefuroxim",
+  "Cefuroximo",
+  "Cefuroximum",
+  "Sharox",
+  "Zinacef Danmark",
+  "Biofuroksym",
+  "Cefuril",
+  "Cefuroximum [INN-Latin]",
+  "Cefuroximo [INN-Spanish]",
+  "UNII-O1R9FJ93ED",
+  "O1R9FJ93ED",
+  "EINECS 259-560-1",
+  "BRN 5783190",
+  "(6R,7R)-7-(2-(2-Furyl)glyoxylamido)-3-(hydroxymethyl)-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid 7(sup 2)-(Z)-(O-methyloxime) carbamate (ester)",
+  "5-Thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid, 3-(((aminocarbonyl)oxy)methyl)-7-((2-furanyl(methoxyimino)acetyl)amino)-8-oxo-, (6R-(6alpha,7beta(Z)))-"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM58/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that cefuroxime produces low levels in milk that are not expected to cause severe adverse effects in breastfed infants. Cefuroxime does not appear to alter the flora of breastmilk when used alone, but it can alter the infant’s fecal flora.[1] Occasionally, diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefuroxime is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A single intravenous dose of 750 mg of cefuroxime was given to 5 women. The average peak cefuroxime level in milk was 0.37 mg/L 3 hours after the dose. Individual peak levels of 0.33 to 0.5 mg/L occurred 2 to 4 hours after the dose.[2]\nA single intramuscular injection of 750 mg of cefuroxime was given to 8 women with endometritis. Milk cefuroxime levels increased from 0.34 mg/L at 30 minutes after the injection to 1.45 mg/L at 8 hours after the injection.[3]\nAfter cefuroxime 750 mg three times daily intramuscularly, peak milk levels averaging 1.2 mg/L occurred 6 hours after the dose. Cefuroxime was detectable at a concentration of 0.36 mg/L 30 minutes after the dose, and by 8 hours the milk level had decreased to 1.06 mg/L.[4]\nOne mother received cefuroxime axetil 500 mg orally three times daily for acute mastitis of the left breast following incision and drainage of the lesion. Milk samples were taken from each breast 30 minutes after the dose on day 1 of therapy. The concentration of cefuroxime in the unaffected breast was 90 mcg/L and the concentration in the breast treated for mastitis was 590 mcg/L. On day 2 of therapy, milk samples from the right and left breast were taken 90 minutes after the dose were 57 and 59 mcg/L, respectively. On day 3, milk samples obtained 90 minutes after the dose contained 27 mcg/L in the unaffected breast and 1.07 mg/L in the affected breast.[5]\nTwo women were who had been receiving intravenous cefuroxime 750 mg 3 times daily for 2 days following cesarean section donated milk samples 1 hours after the dose. Milk concentrations were 0.34 and 0.39 mg/L.[6]\nTwo women who had just stopped breastfeeding each took a single 500 mg dose or oral cefuroxime axetil. Ten milk samples collected over 24 hours found peak milk concentrations of 618.9 and 685.3 mcg/L at 4 hours after the dose. At 24 hours after the dose, the milk concentration were 28.6 and 26.4 mcg/L.[7]\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A prospective, controlled study asked mothers who called an information service about adverse reactions experience by their breastfed infants. Mothers were taking either cephalexin or cefuroxime. No statistical difference was found in the rate of adverse reactions in the 2 groups, with 1 case of diarrhea in each. This amounted to 2.6% of the cefuroxime-exposed infants.[8]"
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

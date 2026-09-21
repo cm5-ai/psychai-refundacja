@@ -1,0 +1,36 @@
+{
+ "id": "LM1456",
+ "tytul": "Prucalopride",
+ "synonimy": [
+  "Prucalopride",
+  "179474-81-8",
+  "UNII-0A09IUW5TP",
+  "0A09IUW5TP",
+  "Motegrity",
+  "4-Amino-5-chloro-2,3-dihydro-N-(1-(3-methoxypropyl)-4-piperidyl)-7-benzofurancarboxamide"
+ ],
+ "zaktualizowano": "2020-07-20",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1456/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published experience exists with prucalopride during breastfeeding. However, the manufacturer reports an unpublished study that indicates a relatively low amount of drug in breastmilk. Until more data become available, monitor the breastfed infant for diarrhea."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The manufacturer reports an unpublished study in 8 healthy lactating women who were weaning their infants and given prucalopride 2 mg daily for 4 days. Plasma and milk samples were collected at predose (day 1 and 4), and at 2, 4, 8, 12, and 24 hours after the dose on day 4. The dose to the breastfed infant was estimated to be 1.74 mcg/kg daily, which is about 6% of the weight-adjusted maternal dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Linaclotide, Lubiprostone, Plecanatide, Psyllium"
+  ]
+ ]
+}

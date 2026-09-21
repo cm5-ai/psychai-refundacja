@@ -1,0 +1,50 @@
+{
+ "id": "LM1404",
+ "tytul": "Roxithromycin",
+ "synonimy": [
+  "roxithromycin",
+  "Roxithromycine",
+  "Roxithromycinum",
+  "Roxitromicina",
+  "Rulide",
+  "Roxithromycine [French]",
+  "Roxithromycinum [Latin]",
+  "Roxitromicina [Spanish]",
+  "UNII-21KOF230FA",
+  "RU 965",
+  "80214-83-1",
+  "21KOF230FA",
+  "CCRIS 3461",
+  "RU 28965",
+  "Roxithromycin [USAN:INN:BAN:JAN]",
+  "BRN 4286925",
+  "Erythromycin 9-(O-((2-methoxyethoxy)methyl)oxime)",
+  "9-(O-((2-Methoxyethoxy)methyl)oxime)erythromycin",
+  "Erythromycin, 9-(O-((2-methoxyethoxy)methyl)oxime)",
+  "Erythromycin, 9-(O-((2-methoxyethoxy)methyl)oxime), (9E)-"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1404/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Roxithromycin is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. Because of the low levels of roxithromycin in breastmilk, it would not be expected to cause adverse effects in breastfed infants. Monitor the infant for possible effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash). Unconfirmed epidemiologic evidence indicates that the risk of infantile hypertrophic pyloric stenosis might be increased by maternal use of macrolide antibiotics during the first two weeks of breastfeeding, but others have questioned this relationship."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Ten healthy lactating women who were at least 1 month postpartum were given a single 300 mg oral dose of roxithromycin. Milk was collected in 2-hour aliquots for 24 hours, then in 12-hour aliquots until 48 hours after the dose. The drug was detectable between 2 and 10 hours after the dose. The average milk concentration of the first 12 hours after the dose was 0.26 mg/L, or about 0.8% of the weight-adjusted maternal dosage. A total of 0.14 mg of roxithromycin was recovered from milk during the collection period.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A cohort study of infants diagnosed with infantile hypertrophic pyloric stenosis found that affected infants were 2.3 to 3 times more likely to have a mother taking a macrolide antibiotic during the 90 days after delivery. Stratification of the infants found the odds ratio to be 10 for female infants and 2 for male infants. All of the mothers of affected infants nursed their infants. Most of the macrolide prescriptions were for erythromycin, but 19% were for roxithromycin. However, the authors did not state which macrolide was taken by the mothers of the affected infants.\nA retrospective database study in Denmark of 15 years of data found a 3.5-fold increased risk of infantile hypertrophic pyloric stenosis in the infants of mothers who took a macrolide during the first 13 days postpartum, but not with later exposure. The proportion of infants who were breastfed was not known, but probably high. The proportion of women who took each macrolide was also not reported.\nA study comparing the breastfed infants of mothers taking amoxicillin to those taking a macrolide antibiotic found no instances of pyloric stenosis. Sixty-seven percent of the infants exposed to a macrolide in breastmilk were exposed to roxithromycin. Adverse reactions occurred in 12.7% of the infants exposed to macrolides which was similar to the rate in amoxicillin-exposed infants. Reactions included rash, diarrhea, loss of appetite, and somnolence.\nTwo meta-analyses failed to demonstrate a relationship between maternal macrolide use during breastfeeding and infantile hypertrophic pyloric stenosis."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In a double-blind, controlled study in Gambia, women who were nasopharyngeal carriers of Staphylococcus aureus, Streptococcus pneumoniae or group B streptococcus were given a single 2 gram dose of azithromycin during labor. Milk samples from women who received azithromycin had 9.6% prevalence of carriage of the organisms compared to 21.9% in women who received placebo. Nasopharyngeal carriage in mothers and infants was also reduced on day 6 postpartum."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Azithromycin, Clarithromycin, Erythromycin"
+  ]
+ ]
+}

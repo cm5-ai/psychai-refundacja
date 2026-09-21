@@ -1,0 +1,48 @@
+{
+ "id": "LM786",
+ "tytul": "Alglucerase",
+ "synonimy": [
+  "Alglucerase",
+  "Elelyso",
+  "Uplyso",
+  "UNII-0R4NLX88O4",
+  "Glucocerebrosidase",
+  "Glucosylceramidase",
+  "Ceramide glucosidase",
+  "Glucosylcerebrosidase",
+  "Glucose cerebrosidase",
+  "Acid beta-glucosidase",
+  "Ceramidase, glucosyl-",
+  "beta-Glucosylceramidase",
+  "beta-D-Glucocerebrosidase",
+  "Cerebroside beta-glucosidase",
+  "Glucocerebroside beta-glucosidase",
+  "Glucosylceramide beta-glucosidase",
+  "Glucosylsphingosine beta-glucosidase",
+  "Glucosylsphingosine beta-D-glucosidase"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM786/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Alglucerase is the placenta-derived form of the enzyme, beta-glucocerebrosidase that is a normal component of human milk. Studies with alglucerase and synthetic forms of the enzyme have found very low levels of the enzyme in breastmilk. Absorption is unlikely because it is probably destroyed in the infant’s gastrointestinal tract.. International panels of clinicians that treat Gaucher’s disease recommend breastfeeding with enzyme replacement theapy such as alglucerase. Consider limiting the duration of breastfeeding to about 6 months to avoid excessive bone loss in the nursing mother."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. One woman received 60 units/kg of alglucerase intravenously. Alglucerase appeared in breastmilk in levels above the baseline control values at 2, 6, 12, 24 and 48 hours postinfusion. Concentrations ranged between 69 and 187 ng/L above baseline.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One woman received alglucerase 30 international units/kg intravenously every 2 weeks during pregnancy and lactation. Her breastfed infant reportedly grew and developed normally."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Imiglucerase, Taliglucerase Alfa"
+  ]
+ ]
+}

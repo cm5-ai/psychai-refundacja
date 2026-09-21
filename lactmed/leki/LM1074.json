@@ -1,0 +1,46 @@
+{
+ "id": "LM1074",
+ "tytul": "Eslicarbazepine",
+ "synonimy": [
+  "Eslicarbazepine",
+  "Stedesa",
+  "Erelib",
+  "Pazzul",
+  "Eslicarbazepina",
+  "eslicarbazepinum",
+  "UNII-S5VXA428R4",
+  "BIA 2-194",
+  "BIA-2194",
+  "CGP-13751",
+  "RefChem:56794",
+  "N03AF04",
+  "DTXCID201746722",
+  "DTXSID901316900",
+  "EC 810-248-9",
+  "(5S)-5-hydroxy-5,6-dihydrobenzo[b]benzazepine-11-carboxamide"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1074/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "One mother breastfed two infants while taking eslicarbazepine with no adverse effects. Additionally, eslicarbazepine is the active metabolite of oxcarbazepine. Limited information indicates that oxcarbazepine or eslicarbazepine would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. Monitor the infant for drowsiness, adequate weight gain, and developmental milestones, especially in younger, exclusively breastfed infants and when using combinations of anticonvulsants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "In published reports of anticonvulsant use during breastfeeding, most women were taking a combination of anticonvulsants. Some other anticonvulsants (e.g., phenytoin, carbamazepine) stimulate the metabolism of other drugs including anticonvulsants, whereas others (e.g., valproic acid) inhibit the metabolism of other drugs. Therefore, the relationship of the maternal dosage to the concentration in breastmilk can be quite variable, making calculation of the weight-adjusted percentage of maternal dosage less meaningful than for other drugs in this database.\nEslicarbazepine is the active 10-hydroxy metabolite of oxcarbazepine.\nMaternal Levels. Two women were treated with oxcarbazepine during pregnancy and lactation. Milk levels of eslicarbazepine metabolite in breastmilk were 50 to 65% of the maternal blood level in one mother during the first week postpartum. Specific values were not provided in the abstract.\nAn epileptic woman took oxcarbazepine orally 300 mg 3 times daily during pregnancy and postpartum. Milk levels of eslicarbazepine taken in the 6 months postpartum were about 50% of maternal blood levels which averaged 5.7 mg/L. Therefore, milk levels averaged 2.85 mg/L for eslicarbazepine, although the authors reported that the assay method was not very accurate for breastmilk.\nA woman diagnosed with bipolar disorder was taking oxcarbazepine 300 mg every 12 hours (9 mg/kg) by mouth. Milk and blood samples were taken in the morning 11 hours after the previous dose twice at 8 and 23 days postpartum. Levels of eslicarbazepine were 5.6 and 10.4 mg/L on the 2 days, respectively.\nInfant Levels. A woman diagnosed with bipolar disorder was taking oxcarbazepine 300 mg every 12 hours (9 mg/kg) by mouth. Blood samples were obtained from her breastfed infant (extent not stated) after breastfeeding (exact time not stated) on 2 occasions, at 8 and 23 days of age. The infant had serum concentrations of eslicarbazepine of <0.1 and 0.2 mg/L at the 2 times, respectively.\nTwo infants whose mothers were taking oxcarbazepine during pregnancy and postpartum breastfeeding (extent not stated) had blood samples at 3 to 4 weeks of age. Their serum eslicarbazepine concentrations were about 5% of their mothers' serum concentrations.\nAn infant was born to a mother who was taking oxcarbazepine 150 mg twice daily during pregnancy and postpartum. The infant's serum eslicarbazepine concentration on postnatal day 6 was 2.6 mg/L, which was about 15% that of the mother's.\nA mother was taking eslicarbazepine for seizure disorder. She was taking eslicarbazepine 2000 mg daily in two divided doses, 800 mg in the morning and 1400 mg in the evening, during pregnancy and immediately postpartum. At 14 days of age, her exclusively breastfed infant had a serum concentration of 1.8 mg/L at 8 hours after the mother’s previous dose, which was 9.13% of the maternal serum concentration. With her second baby, she was taking eslicarbazepine 1600 mg daily in two divided doses. At 18 days of age, her exclusively breastfed infant had a serum concentration of 1.5 mg/L at 10 hours after the mother’s previous dose."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother exclusively breastfed two successive infants for 4 months and partially breastfed them for 13 months while taking eslicarbazepine. No adverse events were reported in either infant and the infants had normal developmental milestones and normal growth and 5 and 2.5 years of age, respectively.\nSee also the LactMed record on oxcarbazepine for relevant information."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Seizure Disorder) Carbamazepine, Divalproex, Gabapentin, Lamotrigine, Oxcarbazepine, Phenytoin, Valproic Acid"
+  ]
+ ]
+}

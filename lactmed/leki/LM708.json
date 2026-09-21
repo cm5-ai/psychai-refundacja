@@ -1,0 +1,50 @@
+{
+ "id": "LM708",
+ "tytul": "Daptomycin",
+ "synonimy": [
+  "DAPTOMYCIN",
+  "Cubicin",
+  "Deptomycin",
+  "Cidecin",
+  "Daptomicina",
+  "Daptomycine",
+  "Daptomycinum",
+  "Cubicin Rf",
+  "Daptomycine [French]",
+  "Daptomycinum [Latin]",
+  "Daptomicina [Spanish]",
+  "UNII-NWQ5N31VKK",
+  "Daptomycin for injection",
+  "NWQ5N31VKK",
+  "Daptomycin [USAN:INN:BAN]",
+  "LY-146032",
+  "LY146032",
+  "103060-53-3",
+  "LY 146032",
+  "N-Decanoyl-L-tryptophyl-L-asparaginyl-L-aspartyl-L-threonylglycyl-L-ornithyl-L-aspartyl-D-alanyl-L-aspartylglycyl-D-seryl-threo-3-methyl-L-glutamyl-3-anthraniloyl-L-alanine epsilon1-lactone"
+ ],
+ "zaktualizowano": "2021-04-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM708/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited and somewhat inconsistent information indicates that daptomycin produces very low levels in milk and it would not be expected to cause any adverse effects in breastfed infants. No special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A nursing mother received intravenous daptomycin 500 mg (6.7 mg/kg) and ertapenem 1 gram once daily for 28 days to treat a pelvic infection. On day 27 of therapy, expressed breastmilk was collected over six 4-hour intervals. Daptomycin milk concentrations were highest in the second sample with a concentration of 44.7 mcg/L. The fifth sample, ending at 20 hours after the dose, contained 29.2 mcg/L of daptomycin and the final sample had no detectable drug (<25 mcg/L). Using the average maximum milk level, the infant would receive a weight-adjusted dosage of 0.1% of the maternal dosage.\nA woman nursing a newborn was given daptomycin 500 mg (7.4 mg/kg) intravenously once daily for 14 days for a soft tissue infection. Hindmilk samples were taken during the last 4 days of therapy and for 2 days after the last dose. Trough daptomycin levels taken during therapy averaged 208 mcg/L. Levels of about 270 mcg/L were found at 6 and 12 hours after one of the doses. The highest concentration in milk was at 78 h after the eleventh dose, with a concentration of 329 mcg/L. After the last dose, milk levels dropped from 330 mcg/L to 121 mcg/L over a period of 42 hours. Using the median milk level, the infant would receive a dose of 36.5 mcg/kg daily or a weight-adjusted dosage of 0.5% of the maternal dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother nursing (extent not stated) a 5-month-old infant received intravenous daptomycin 500 mg and ertapenem 1 gram once daily for 28 days to treat a pelvic infection. No adverse events were noted in the infant during the treatment or follow-up examination.\nA woman nursing a newborn was given daptomycin 500 mg intravenously once daily for 14 days. No adverse effects were noted in the infant during therapy and for 7 days after the end of therapy."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Vancomycin"
+  ]
+ ]
+}

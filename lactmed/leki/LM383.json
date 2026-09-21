@@ -1,0 +1,54 @@
+{
+ "id": "LM383",
+ "tytul": "Quazepam",
+ "synonimy": [
+  "quazepam",
+  "Doral",
+  "Prosedar",
+  "Quazium",
+  "Dormalin",
+  "Selepam",
+  "Oniria",
+  "Quazepamum",
+  "Quazapam",
+  "Quazepamum [INN-Latin]",
+  "Doral [Sedative]",
+  "Sch 16134",
+  "UNII-JF8V0828ZI",
+  "JF8V0828ZI",
+  "DEA No. 2881",
+  "EINECS 253-179-4",
+  "Quazepam [USAN:USP:INN:BAN]",
+  "NSC 309702",
+  "36735-22-5",
+  "BRN 0901084",
+  "5-24-04-00356 (Beilstein Handbook Reference)",
+  "7-Chloro-5-(2-fluorophenyl)-1,3-dihydro-1-(2,2,2-trifluoroethyl)-2H-1,4-benzodiazepine-2-thione",
+  "7-Chloro-5-(o-fluorophenyl)-1,3-dihydro-1-(2,2,2-trifluoroethyl)-2H-1,4-benzodiazepine-2-thione",
+  "2H-1,4-Benzodiazepine-2-thione, 7-chloro-5-(2-fluorophenyl)-1,3-dihydro-1-(2,2,2-trifluoroethyl)-"
+ ],
+ "zaktualizowano": "2024-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM383/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the long-term use of quazepam during breastfeeding. Because the drug and metabolites could accumulate in the breastfed infant, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Quazepam has a half-life of about 41 hours and is extensively metabolized to 2-oxoquazepam, which is in turn metabolized to desalkylflurazepam having a half-life of 47 to 100 hours.\nMaternal Levels. Four women received a single dose of quazepam 15 mg orally. Milk was collected at intervals up to 48 hours after the dose. Quazepam reached a maximum milk level averaging 95.8 mcg/L (range 26 to 216 mcg/L) at 3 hours (range 2 to 4 hours) after the dose. The 2-oxoquazepam metabolite reached a maximum milk level averaging 26.1 mcg/L at 3 hours (range 2 to 4 hours) after the dose. Desalkylflurazepam reached a maximum milk level averaging 2 mcg/L at 7 hours (range 4 to 12 hours) after the dose. Over the 48 hours after the dose, about 0.11% of the mother's total dose was excreted into breastmilk. The authors estimated that this amounts to 2.3% of the maternal weight-adjusted dosage. Because of accumulation with repeated administration, an exclusively breastfed infant would receive 0.19% of the mother's absolute dose or about 4% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Zaleplon, Zolpidem"
+  ]
+ ]
+}

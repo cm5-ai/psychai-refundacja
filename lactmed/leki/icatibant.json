@@ -1,0 +1,53 @@
+{
+ "id": "icatibant",
+ "tytul": "Icatibant",
+ "synonimy": [
+  "Icatibant",
+  "Farazyr",
+  "Sajazir",
+  "Hoe-140",
+  "HOE 140",
+  "HOE-140",
+  "HOE140",
+  "Hoechst 140",
+  "JE 049",
+  "UNII-7PG89G35Q7",
+  "CHEMBL2028850",
+  "SCHEMBL21495177",
+  "DTXSID20903963",
+  "BDBM50403371",
+  "BDBM50406750",
+  "AT24149",
+  "CS-3381",
+  "DB06196",
+  "NCGC00390805-02",
+  "HY-17446",
+  "EN300-18166877",
+  "Q902379",
+  "(2S)-2-[[(2S,3aS,7aS)-1-[(3R)-2-[(2S)-2-[[(2S)-2-[[2-[[(2S,4R)-1-[(2S)-1-[(2S)-2-[[(2R)-2-amino-5-(diaminomethylideneamino)pentanoyl]amino]-5-(diaminomethylideneamino)pentanoyl]pyrrolidine-2-carbonyl]-4-hydroxypyrrolidine-2-carbonyl]amino]acetyl]amino]-3-thiophen-2-ylpropanoyl]amino]-3-hydroxypropanoyl]-3,4-dihydro-1H-isoquinoline-3-carbonyl]-2,3,3a,4,5,6,7,7a-octahydroindole-2-carbonyl]amino]-5-(diaminomethylideneamino)pentanoic acid"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/icatibant/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the excretion of icatibant into breastmilk. Because icatibant is a protein molecule with a molecular weight of 1305 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. One patient reportedly used the drug safely during breastfeeding. Waiting 6-12 hours after a dose before breastfeeding should minimize the amount of drug excreted into breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with hereditary angioedema began using icatibant 30 mg subcutaneously as needed for hereditary angioedema attacks when her breastfed infant was 4 months of age and continued breastfeeding for 1 year while taking icatibant. Doses were injected at night before the infant’s longest sleep period and breastfeeding was not resumed until at least 6 hours after a dose. In cases of swelling of the face and neck and abdominal pain, icatibant was immediately self-administered, and formula was given instead of breastmilk. In her second pregnancy 2 years later, she used C1 esterase inhibitor until the infant was 1 month of age, when she resumed icatibant therapy."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "C1 Esterase Inhibitor"
+  ]
+ ]
+}

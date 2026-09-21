@@ -1,0 +1,44 @@
+{
+ "id": "LM1416",
+ "tytul": "Epoetin Beta",
+ "synonimy": [
+  "Mircera",
+  "Pegzerepoetin alfa",
+  "CERA",
+  "CERA [WHO-DD]",
+  "UNII-LR3UXN0193",
+  "Pegzerepoetin alfa [WHO-DD]",
+  "LR3UXN0193",
+  "HSDB 8219",
+  "Methoxy polyethylene glycol-epoetin beta",
+  "Continuous erythropoietin receptor activator",
+  "Methoxy polyethylene glycol-epoetinbeta [MART.]",
+  "Methoxy polyethylene glycol-epoetinbeta [EMA EPAR]",
+  "1-165-Erythropoietin (human), monamide with alpha-(3-carboxypropyl)-omega-methoxypoly(oxy-1,2-ethanediyl)",
+  "677324-53-7"
+ ],
+ "zaktualizowano": "2023-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1416/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Methoxy polyethylene glycol-epoetin beta is a synthetic form of erythropoietin that slowly releases the active drug, epoetin beta (recombinant human erythropoietin). Erythropoietin is a normal component of human milk. The excretion of exogenous methoxy polyethylene glycol-epoetin beta in breastmilk has not been studied; although the similar drug epoetin alfa has been studied and is considered to be acceptable during breastfeeding. Since no information is available on its use during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information on exogenous administration of epoetin beta was not found as of the revision date. However, breastmilk normally contains erythropoietin. Erythropoietin concentrations in human milk are in the range of approximately 4 to 5 units/L in the first 1 to 2 months postpartum and increase to 20 to 40 units/L by the third month and to 100 to 150 units/L by 12 months.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Enhancement of gastrointestinal tract maturation has been proposed as a function of erythropoietin in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In small studies, epoetin alfa administration decreased serum prolactin in patients with amyotrophic lateral sclerosis, but had no effect in normal subjects or in patients with renal failure undergoing chronic ambulatory peritoneal dialysis. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Epoetin Alfa"
+  ]
+ ]
+}

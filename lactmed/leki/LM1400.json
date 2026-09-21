@@ -1,0 +1,43 @@
+{
+ "id": "LM1400",
+ "tytul": "Bictegravir",
+ "synonimy": [
+  "Bictegravir",
+  "Biktarvy",
+  "UNII-8GB79LOJ07",
+  "GS-9883",
+  "GS-9883-01",
+  "CHEBI:172943",
+  "DTXSID701027937",
+  "RefChem:568041",
+  "DTXCID901513504",
+  "CHEMBL3989866",
+  "SCHEMBL15914278",
+  "GTPL11575",
+  "(1S,11R,13R)-5-hydroxy-3,6-dioxo-N-[(2,4,6-trifluorophenyl)methyl]-12-oxa-2,9-diazatetracyclo[11.2.1.02,11.04,9]hexadeca-4,7-diene-7-carboxamide"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1400/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Maternal bictegravir 50 mg once daily produce low levels in milk and infant serum. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A mother taking bictegravir 50 mg once daily provided 3 milk samples at a median of 8.5 hours after a dose. The median drug concentration in milk was 57 mcg/L, which resulted in an estimated infant dosage of 10 mcg/kg daily.\nTwelve healthy lactating volunteers took a single 50 mg dose of bictegravir in a combination product that also contained emtricitabine 200 mg and tenofovir alafenamide 25 mg (Biktarvy). Milk samples were taken before the dose and 2, 4, 6, 12 and 24 hours after the dose. The mean peak milk concentration was 0.03 mg/L occurring at a mean of 3.13 hours after the dose. The estimated median daily infant dosage was 0.0378 mg/kg and the RID was 0.68%.\nInfant Levels. An infant was breastfed by a mother taking bictegravir 50 mg once daily, although the extent of breastfeeding was not sated. The infant’s serum concentrations taken 19 hours after maternal drug intake at 1 month of age was 103 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Raltegravir"
+  ]
+ ]
+}

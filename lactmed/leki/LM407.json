@@ -1,0 +1,48 @@
+{
+ "id": "LM407",
+ "tytul": "Miglitol",
+ "synonimy": [
+  "miglitol",
+  "Glyset",
+  "Diastabol",
+  "Seibule",
+  "Plumarol",
+  "Miglitolum",
+  "Bay m 1099",
+  "DTXSID0023323",
+  "NSC-758702",
+  "DTXCID703323",
+  "RefChem:57016",
+  "MFCD00867240",
+  "CHEMBL1561",
+  "UNII-0V5436JAQW",
+  "Bay 1099",
+  "HSDB 8022",
+  "EINECS 276-661-6",
+  "(2R,3R,4R,5S)-1-(2-hydroxyethyl)-2-(hydroxymethyl)piperidine-3,4,5-triol"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM407/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that miglitol is poorly excreted into breastmilk. Because miglitol is also poorly absorbed orally, it is unlikely to adversely affect the breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. No published information was found as of the revision date. According to the manufacturer, 0.02% of a 100 mg oral dose or 0.2% of the weight-adjusted maternal dosage is excreted into breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acarbose, Colesevelam, Glipizide, Glyburide, Insulin, Metformin, Semaglutide, Tirzepatide"
+  ]
+ ]
+}

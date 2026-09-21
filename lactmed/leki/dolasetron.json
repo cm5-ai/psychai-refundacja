@@ -1,0 +1,36 @@
+{
+ "id": "dolasetron",
+ "tytul": "Dolasetron",
+ "synonimy": [
+  "Dolasetron",
+  "Anzemet",
+  "Dolasetronum",
+  "HSDB 7565",
+  "UNII-82WI2L7Q6E",
+  "[(3S,7R)-10-oxo-8-azatricyclo[5.3.1.03,8]undecan-5-yl] 1H-indole-3-carboxylate"
+ ],
+ "zaktualizowano": "2025-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/dolasetron/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Little information is available on the use of dolasetron during breastfeeding. Until more data become available, dolasetron should be used with caution during breastfeeding. An alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A double-blind study randomized 160 women receiving an elective cesarean section under spinal anesthesia to receive either sufentanil for patient-controlled intravenous analgesia (standard care) or standard care plus dexmedetomidine. Dexmedetomidine was given as 5 mcg/kg, followed by a continuous infusion of 0.5 mcg/kg per hour until the end of surgery. Patient in this latter group received dexmedetomidine plus sufentanil for patient-controlled intravenous analgesia postoperatively for 2 days. Both groups had 25 mg of dolasetron added to the patient-controlled intravenous analgesia solution and all mothers breastfed their infants. Both groups had good neonatal behavioral neurological assessments on days 1 and 2 postpartum."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A double-blind study randomized 160 women receiving an elective cesarean section under spinal anesthesia to receive either sufentanil for patient-controlled intravenous analgesia (standard care) or standard care plus dexmedetomidine. Dexmedetomidine was given as 5 mcg/kg, followed by a continuous infusion of 0.5 mcg/kg per hour until the end of surgery. Patient in this latter group received dexmedetomidine plus sufentanil for patient-controlled intravenous analgesia postoperatively for 2 days. Both groups had 25 mg of dolasetron added to the patient-controlled intravenous analgesia solution. Patients who received dexmedetomidine had a shorter time to the first lactation (28 vs 34 hours), achieved exclusive breastfeeding sooner (8 vs 11 days) and had a greater amount of milk on the second day postpartum."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ondansetron"
+  ]
+ ]
+}

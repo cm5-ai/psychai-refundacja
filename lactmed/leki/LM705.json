@@ -1,0 +1,54 @@
+{
+ "id": "LM705",
+ "tytul": "Rifapentine",
+ "synonimy": [
+  "RIFAPENTINE",
+  "Priftin",
+  "Cyclopentylrifampicin",
+  "Rifapentina",
+  "Rifapentinum",
+  "Rifamycin AF/ACPP",
+  "Rifapentinum [Latin]",
+  "Rifapentina [Spanish]",
+  "Antibiotic DL 473IT",
+  "KTC 1",
+  "UNII-XJM390A33U",
+  "XJM390A33U",
+  "61379-65-5",
+  "MDL 473",
+  "Rifapentine [USAN:INN:BAN]",
+  "DL 473",
+  "DRG-0283",
+  "EINECS 262-743-9",
+  "R 77-3",
+  "R-773",
+  "3-(((4-Cyclopentyl-1-piperazinyl)imino)methyl)rifamycin",
+  "3-(4-Cyclopentyl-1-piperazinyl)iminomethylrifamycin SV",
+  "3-(N-(4-Cyclopentyl-1-piperazinyl)formimidoyl)rifamycin",
+  "Rifamycin, 3-(((4-cyclopentyl-1-piperazinyl)imino)methyl)-"
+ ],
+ "zaktualizowano": "2022-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM705/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The amount of rifapentine and its metabolite in milk is insufficient to treat tuberculosis in the breastfed infant. The Centers for Disease Control and Prevention and other professional organizations state that breastfeeding should not be discouraged in women taking rifapentine. Monitor the infant for signs of liver toxicity. Breastmilk may be stained a red-orange color."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Rifapentine is metabolized to 25-O-desacetylrifapentine, which has about half the in vitro activity of rifapentine against M. tuberculosis. 25-O-desacetylrifapentine has a longer half-life and accumulates over time, increasing its antimycobacterial impact.\nMaternal Levels. In a study of pregnant and postpartum women with latent tuberculosis infection, participants received 12 directly observed once-weekly doses of rifapentine 900 mg, isoniazid 900 mg, and pyridoxine 25 to 100 mg. In 22 women who donated milk samples, the average rifapentine milk concentrations were about 280 mcg/L at 3 hours after the first dose, 533 mcg/L at 6 hours after the second dose and 293 mcg/L at 24 hours after the last dose. The average 25-O-desacetylrifapentine milk concentrations were about 67 mcg/L at 3 hours after the first dose, 180 mcg/L at 6 hours after the second dose and 360 mcg/L at 24 hours after the last dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Rifampin"
+  ]
+ ]
+}

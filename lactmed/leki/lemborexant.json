@@ -1,0 +1,35 @@
+{
+ "id": "lemborexant",
+ "tytul": "Lemborexant",
+ "synonimy": [
+  "Lemborexant",
+  "Dayvigo",
+  "E 2006",
+  "UNII- 0K5743G68X",
+  "(1R,2S)-2-[(2,4-dimethylpyrimidin-5-yl)oxymethyl]-2-(3-fluorophenyl)-N-(5-fluoropyridin-2-yl)cyclopropane-1-carboxamide"
+ ],
+ "zaktualizowano": "2025-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/lemborexant/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amounts of lemborexant in milk are low. If lemborexant is required by the mother, it is not a reason to discontinue breastfeeding. Until more data become available, monitor the infant for sedation, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman took lemborexant 10 mg, brotizolam 0.25 mg and etizolam 0.5 mg at bedtime during pregnancy and postpartum. Five colostrum samples were taken during day 2 and 3 postpartum at times ranging from 8 to 19.6 hours after a dose. Milk concentrations ranged from 1.8 to 12.7 mcg/L, with the highest concentration in the sample taken 8 hours after the dose. The estimated daily infant dose via breastmilk using the highest milk level value was 1.91 mcg/kg daily, which translates to a relative infant dose of 1.21%.\nA manufacturer-sponsored study was done in 8 women who had breastfed for at least 5 weeks postpartum. Each was given a single 10 mg oral dose of lemborexant, and complete extractions of breastmilk were collected by an electric breast pump in intervals up to 10 days after the dose. Over the 240-hour collection period a total of 0.0174 mg of the unchanged drug was collected in milk, 70% of which was from the first 24 hours of collection. The authors calculated that a fully breastfed infant would receive an average weight-adjusted relative infant dose of 1.96% of the mother’s dose.\nIn a study describing a new assay method, milk samples were donated by a woman with bipolar disorder who was on long-term lemborexant therapy at a dose of 5 mg every night before sleep. Milk samples were collected “a few days” after delivery at 70 and 565 minutes after a dose. The concentrations in breastmilk were 4.69 mcg/L at 70 minutes and 5.12 mcg/L at 565 minutes after administration. The authors estimated a relative infant dose of 1.05% at 565 minutes after administration.\nFive women who were taking an average dose of 7 mg of lemborexant during pregnancy and breastfeeding were studied. The abstract did not report milk sample collection methods, but stated that the median milk level of lemborexant was 4.50 mcg/L (IQR, 3.34 to 14.45 mcg/L), resulting in a median RID of 0.89% (IQR, 0.65% to 1.37%).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Five women who were taking an average dose of 7 mg of lemborexant during pregnancy and breastfeeding were studied. No neonatal abstinence syndrome or neurological complications were observed in their neonates up to 1 month after delivery."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Zaleplon, Zolpidem"
+  ]
+ ]
+}

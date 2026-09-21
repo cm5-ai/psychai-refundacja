@@ -1,0 +1,51 @@
+{
+ "id": "LM331",
+ "tytul": "Acyclovir",
+ "synonimy": [
+  "acyclovir",
+  "Aciclovir",
+  "Acycloguanosine",
+  "Zovirax",
+  "Vipral",
+  "Virorax",
+  "Aciclovirum",
+  "Wellcome-248U",
+  "Activir",
+  "Hascovir",
+  "Sitavig",
+  "Xerese",
+  "UNII-X4HES1O11F",
+  "BW-248U",
+  "CCRIS 1953",
+  "W-248-U",
+  "DRG-0008",
+  "HSDB 6511",
+  "NSC 645011",
+  "EINECS 261-685-1",
+  "2-amino-9-(2-hydroxyethoxymethyl)-1H-purin-6-one"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM331/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Even with the highest maternal dosages, the dosage of acyclovir in milk is only about 1% of a typical infant dosage and would not be expected to cause any adverse effects in breastfed infants. Acyclovir is considered a treatment of choice for Herpes infections during breastfeeding. Topical acyclovir applied to small areas of the mother's body away from the breast should pose no risk to the infant. Only water-miscible cream or gel products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A 4-month-postpartum woman was taking 200 mg of acyclovir orally 5 times daily every 4 hours while awake. After 4 days of therapy, milk samples were taken 9 hours after the previous dose and at 4 times after a 200 mg dose. The lowest milk level of 427 mcg/L occurred 30 minutes after the first dose. At 3.2 hours after the dose, the milk acyclovir level was 1.3 mg/L and apparently still increasing.\nA woman who was 1 year postpartum was taking acyclovir 200 mg orally 5 times daily. Milk levels taken immediately before a dose during 5 days of therapy ranged from 0.78 to 1.07 mg/L. Acyclovir in milk samples taken after the last dose decreased with a half-life of 2.8 hours.\nA woman who had taken oral acyclovir 400 mg 3 times daily for 3 days in the peripartum period had a breastmilk acyclovir level of 54 mcg/L at 5 days after her last dose of acyclovir.\nA mother nursing her 7-month-old infant took acyclovir 800 mg orally 5 times a day. Three milk acyclovir levels on days 5 and 6 of therapy ranged from 4.2 to 5.8 mg/L, with the highest level 9.4 hours after the previous dose. The authors estimated that a fully breastfed infant would receive a daily dosage of 0.73 mg/kg of acyclovir at this maternal dosage or about 1% of the maternal weight-adjusted dosage.\nA woman who was 6 weeks postpartum received intravenous acyclovir 300 mg (5 mg/kg) three times daily for 5 days. Milk samples were taken every 6 hours after the last dose. The peak level was 7.3 mg/L and the drug was detectable in milk for up to 88 hours after the last dose. Using the level 6 hours after the last dose, a fully breastfed infant would receive a daily dosage of 1.1 mg/kg with this maternal dosage regimen.\nInfant Levels. A 4-month-old infant whose mother was taking 200 mg orally 5 times daily was breastfed just before a dose. The infant's urine collected over the next 2 hours contained a total of 27 mcg of acyclovir."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "The mother of a 4-month-old infant noticed no adverse effects in her breastfed infant while she was taking an acyclovir dosage of 800 mg orally 5 times daily.\nA mother with necrotizing herpes simplex keratitis was treated with 3% acyclovir ointment to the affected eye as well as acyclovir 500 mg orally, both 5 times a day. She continued oral acyclovir for 1 year and breastfed during treatment. At the 3 months follow-up, the baby was clinically healthy."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Valacyclovir"
+  ]
+ ]
+}

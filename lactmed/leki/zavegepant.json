@@ -1,0 +1,45 @@
+{
+ "id": "zavegepant",
+ "tytul": "Zavegepant",
+ "synonimy": [
+  "Zavegepant",
+  "Zavzpret",
+  "Vazegepant",
+  "BMS-742413",
+  "BHV-3500",
+  "UNII-ODU3ZAZ94J",
+  "CHEMBL2397415",
+  "GTPL11513",
+  "EX-A6698",
+  "BDBM50436107",
+  "BMS742413",
+  "WHO 11512",
+  "HY-134992",
+  "CS-0168642",
+  "N-[(2R)-3-(7-methyl-1H-indazol-5-yl)-1-[4-(1-methylpiperidin-4-yl)piperazin-1-yl]-1-oxopropan-2-yl]-4-(2-oxo-1H-quinolin-3-yl)piperidine-1-carboxamide"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/zavegepant/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of zavegepant in breastmilk after intranasal administration, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants. No special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twelve healthy lactating women who were at least 2 weeks postpartum were give a single intranasal dose of 10 mg of zavegepant. Milk samples were taken before the dose and at 0 to 2, 2 to 4, 4 to 6, 6 to 8, 8 to 12, 12 to 16, and 16 to 24 hours after the dose. The median peak milk concentration was 1.10 mcg/L, and the geometric mean peak concentration was 0.77 mcg/L at a median of 4.83 hours after the dose. The estimated infant daily dosage was 0.05 to 0.06 mcg/kg, which resulted in an RID of 0.04 to 0.05%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Migraine Prophylaxis) Divalproex, Erenumab, Metoprolol, Nortriptyline, Propranolol, Topiramate, Valproic Acid; (Migraine Treatment) Eletriptan, Rimegepant, Rizatriptan, Sumatriptan, Ubrogepant, Zolmitriptan"
+  ]
+ ]
+}

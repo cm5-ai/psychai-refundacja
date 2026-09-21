@@ -1,0 +1,57 @@
+{
+ "id": "LM559",
+ "tytul": "Iodipamide",
+ "synonimy": [
+  "IODIPAMIDE",
+  "Adipiodone",
+  "Iodipamic acid",
+  "Biligrafin",
+  "Bilignostum",
+  "Cholografin",
+  "Cholospect",
+  "Transbilix",
+  "Adipiodon",
+  "Bilignost",
+  "Adipiodona",
+  "Adipiodonum",
+  "Adipiodonum [INN-Latin]",
+  "Adipiodona [INN-Spanish]",
+  "Adipiodone [INN]",
+  "Iodipamide [USP:INN]",
+  "UNII-TKQ858A3VW",
+  "606-17-7",
+  "TKQ858A3VW",
+  "HSDB 8066",
+  "EINECS 210-105-5",
+  "BRN 2230896",
+  "3,3'-(Adipoyldiimino)bis(2,4,6-triiodobenzoic acid)",
+  "N,N''-Adipoyl-bis(3-amino-2,4,6-triiodbenzoesaeure)",
+  "4-14-00-01122 (Beilstein Handbook Reference)",
+  "Benzoic acid, 3,3'-(adipoyldiimino)bis(2,4,6-triiodo-",
+  "Benzoic acid, 3,3'-((1,6-dioxo-1,6-hexanediyl)diimino)bis(2,4,6-triiodo-"
+ ],
+ "zaktualizowano": "2022-11-30",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM559/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Intravenous iodinated contrast media are poorly excreted into breastmilk and poorly absorbed orally so they are not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. Guidelines developed by several professional organizations state that breastfeeding need not be disrupted after a nursing mother receives an iodine-containing contrast medium. However, because there is no published experience with iodipamide during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Diatrizoate, Iohexol"
+  ]
+ ]
+}

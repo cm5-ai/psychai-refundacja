@@ -1,0 +1,43 @@
+{
+ "id": "LM1324",
+ "tytul": "Sarilumab",
+ "synonimy": [
+  "Sarilumab",
+  "Kevzara",
+  "Sarilumab [USAN:INN]",
+  "REGN88",
+  "UNII-NU90V55F8I",
+  "REGN 88",
+  "NU90V55F8I",
+  "SAR153191",
+  "SAR 153191",
+  "1189541-98-7",
+  "Immunoglobulin G1, anti-(human interleukin 6 receptor alpha) (human REGN88 heavy chain), disulfide with human REGN88 light chain, dimer",
+  "Immunoglobulin G1, anti-(human interleukin-6 receptor subunit alpha (IL-6RA, membrane glycoprotein 80, CD126))",
+  "human monoclonal RGN88 gamma1 heavy chain (219- 214')-disulfide with human monoclonal RGN88 kappa light chain dimer (225-225'':228- 228'')-bisdisulfide"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1324/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because sarilumab is a large protein molecule with a molecular weight of about 150,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. One infant was safely breastfed for 6 months after maternal sarilumab was resumed at 28 days postpartum. If sarilumab is required by the mother, it is not a reason to discontinue breastfeeding. Until more data become available, sarilumab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A lactating woman was receiving subcutaneous sarilumab 150 mg every 2 weeks for rheumatoid arthritis. After 5 doses of the drug, she donated 6 milk samples over a 28-day period. The peak concentration of about 160 mcg/L occurred on day 3 after the dose. By day 7, the milk sarilumab concentration decreased to about 110 mcg/L; on day 14, the milk concentration was about 75 mcg/L. The drug was undetectable in mill at 28 days after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with rheumatoid arthritis refractory to etanercept took sarilumab 200 mg every two weeks during pregnancy until 37 weeks of gestation. She was also taking prednisolone 10 mg and tacrolimus 3 mg daily. She delivered a healthy infant at 38 weeks of gestation and breastfed her infant. Prednisolone was continued postpartum; tacrolimus was restarted at 7 days postpartum and sarilumab was restarted at 28 days postpartum. The mother continued to breastfeed until 6 months postpartum. The infant was vaccinated with multiple live vaccines after reaching six months old, including the Bacille-Calmette-Guerin vaccine, with no adverse effects."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Rheumatoid Arthritis) Adalimumab, Certolizumab Pegol, Etanercept, Infliximab, Tocilizumab"
+  ]
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "lysine",
+ "tytul": "Lysine",
+ "synonimy": [
+  "Lysine",
+  "l-lysine",
+  "Aminutrin",
+  "Lisina",
+  "lysina",
+  "Lysinum",
+  "lysin",
+  "CHEBI:18019",
+  "BRN 1722531",
+  "HSDB 2108",
+  "AI3-26523",
+  "EINECS 200-294-2",
+  "UNII-K3Z4F929H6",
+  "DTXSID6023232",
+  "DTXCID403232",
+  "(2S)-2,6-diaminohexanoic acid"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/lysine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Lysine is an indispensable (essential) amino acid that is normally present in breastmilk. The recommended dietary allowance for nursing mothers for lysine is 52 mg/kg daily or 3.6 grams daily for a 70 kg person. No information is available on the use of high-dose lysine supplementation during breastfeeding, such as for Herpes infection. There is no correlation between dietary intake of lysine and milk lysine content, so oral lysine supplementation might not markedy increase the amount of lysine in milk. Caution is warranted in using any single amino acid at a level significantly above that normally found in food, but lysine supplements are probably a low risk during breastfeeding. An alternate drug may be preferred while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The dietary reference intake (DRI) for infants up to 6 months of age is 640 mg or 107 mg/kg daily of lysine.\nMaternal Levels. The total lysine content of milk averages 915 mg/L in the first month postpartum and decreases to an average of 622 mg/L in month 6 postpartum. Mature milk is considered to contain an average of about 755 mg/L of lysine. No information is available on levels after the use of lysine supplements.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Herpes simplex) Acyclovir, Penciclovir, Valacyclovir"
+  ]
+ ]
+}

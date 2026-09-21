@@ -1,0 +1,48 @@
+{
+ "id": "LM46",
+ "tytul": "Cefepime",
+ "synonimy": [
+  "cefepime",
+  "Maxipime",
+  "Cefepima",
+  "Cefepimum",
+  "UNII-807PW4VQE3",
+  "BMY 28142",
+  "BMY-28142",
+  "(6R,7R)-7-[[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-methoxyiminoacetyl]amino]-3-[(1-methylpyrrolidin-1-ium-1-yl)methyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate",
+  "zidebactam",
+  "Zaynich",
+  "1436861-97-0",
+  "UNII-YPM97423DB",
+  "orb1308920",
+  "CHEMBL4533605",
+  "SCHEMBL16151824",
+  "GTPL10874",
+  "EX-A5156",
+  "[(2S,5R)-7-oxo-2-[[[(3R)-piperidine-3-carbonyl]amino]carbamoyl]-1,6-diazabicyclo[3.2.1]octan-6-yl] hydrogen sulfate"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM46/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although no published information is available on the use of cefepime during breastfeeding, the levels in breastmilk appear to be low and cephalosporins are generally not expected to cause serious adverse effects in breastfed infants. No human information is available on zidebactam (a component of Zaynich) in breastmilk. Occasional disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush, has been reported with beta-lactam antibiotics, but these effects have not been adequately evaluated. Cefepime is acceptable in nursing mothers. The combination of cefepime and zidebactam has not been studied in humans during breastfeeding, but the adverse effects are probably similar to those of cefepime."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The manufacturer reports that the mean concentration of cefepime in breastmilk in 9 healthy women was about 0.5 mcg/mL during the first 8 hours, following a single intravenous dose of 1 gram, then undetectable between 12 and 24 hours. The mean cumulative breast milk excretion of cefepime over 24 hours was 0.01% of the administered dose. A nursing infant consuming approximately 1000 mL of human milk per day would receive approximately 0.5 mg of cefepime per day. This is consistent with the low levels of other cephalosporins in breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ceftazidime, Ceftriaxone"
+  ]
+ ]
+}

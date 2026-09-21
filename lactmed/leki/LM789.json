@@ -1,0 +1,44 @@
+{
+ "id": "LM789",
+ "tytul": "Atovaquone",
+ "synonimy": [
+  "Atovaquone",
+  "Mepron",
+  "Wellvone",
+  "Acuvel",
+  "Malarone",
+  "UNII-Y883P1Z2LT",
+  "BW 566C",
+  "566C80",
+  "DRG-0084",
+  "HSDB 7083",
+  "566C",
+  "Y883P1Z2LT",
+  "BW 566C-80",
+  "3-[4-(4-chlorophenyl)cyclohexyl]-4-hydroxynaphthalene-1,2-dione"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM789/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of atovaquone during breastfeeding. However, the quantity of drug in breast milk is assumed too low to provide adequate protection against malaria for the breastfed infant. A dosage has been established for infants weighing as little as 5 kg, so it is unlikely to adversely affect breastfed infants weighing 5 kg or more."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Chloroquine, Mefloquine"
+  ]
+ ]
+}

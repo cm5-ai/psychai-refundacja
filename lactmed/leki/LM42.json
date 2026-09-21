@@ -1,0 +1,42 @@
+{
+ "id": "LM42",
+ "tytul": "Cefadroxil",
+ "synonimy": [
+  "cefadroxil",
+  "Cephadroxil",
+  "Cefadroxilo",
+  "Cefadroxilum",
+  "Oracefal",
+  "UNII-Q525PA8JJB",
+  "BL-S 578",
+  "Q525PA8JJB",
+  "EINECS 256-555-6",
+  "S 578",
+  "S-578",
+  "(6R,7R)-7-[[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino]-3-methyl-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM42/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Cefadroxil is no longer marketed in in the US. Limited information indicates that cefadroxil produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefadroxil is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a single 500 mg oral dose of cefadroxil in 5 women, peak milk levels ranged from 0.6 to 0.9 mg/L. Peak levels occurred from 5 to 6 hours after the dose with an average of 0.65 mg/L at 5 hours and 0.68 mg/L at 6 hours after the dose.\nAfter a single 1 gram oral dose of cefadroxil in 6 women who were 2 days postpartum, peak levels occurred 6 to 7 hours after the dose and averaged 1.83 mg/L (range 1.2 to 2.4 mg/L).\nAfter a single 500 mg oral dose of cefadroxil in 2 or 3 women, peak milk levels of 0.4 mg/L occurred 4 hours after the dose.\nIn all of the above studies, cefadroxil was undetectable in most women's milk for the first hour after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-sensitive Staph. aureus) Cefazolin, Cephalexin, Dicloxacillin, Floxacillin, Oxacillin, Methicillin, Nafcillin; (Methicillin-resistant Staph. aureus) Doxycycline, Linezolid, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

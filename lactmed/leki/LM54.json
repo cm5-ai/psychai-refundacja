@@ -1,0 +1,38 @@
+{
+ "id": "LM54",
+ "tytul": "Ceftazidime",
+ "synonimy": [
+  "ceftazidime",
+  "Pentacef",
+  "Tazidime",
+  "Tazicef",
+  "Ceptaz",
+  "Fortaz",
+  "SN 401 pentahydrate",
+  "UNII-9M416Z9QNR",
+  "9M416Z9QNR",
+  "GR 20263",
+  "LY 139381",
+  "(6R,7R)-7-[[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-(2-carboxypropan-2-yloxyimino)acetyl]amino]-8-oxo-3-(pyridin-1-ium-1-ylmethyl)-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM54/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that ceftazidime produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Ceftazidime and is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Ceftazidime 2 grams was given to 11 women intravenously every 8 hours for 5 days. The average trough milk level was 3.8 mg/L before the next dose, 5.2 mg/L 1 hour after the dose and 4.5 mg/L at 3 hours after the dose. These differences were not statistically significant. The average drug concentrations in milk were 3.9 mg/L for samples before the seventh dose and 4.9 mg/L in milk samples after the seventh dose, but this difference was not statistically significant. There was no correlation between the mother's weight and the ceftazidime milk levels.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

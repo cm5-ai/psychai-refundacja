@@ -1,0 +1,37 @@
+{
+ "id": "daridorexant",
+ "tytul": "Daridorexant",
+ "synonimy": [
+  "Daridorexant",
+  "Quviviq",
+  "Nemorexant",
+  "ACT-541468",
+  "Methanone, ((2S)-2-(6-chloro-7-methyl-1H-benzimidazol-2-yl)-2-methyl-1-pyrrolidinyl)(5-methoxy-2-(2H-1,2,3-triazol-2-yl)phenyl)-",
+  "UNII-LMQ24G57E9",
+  "WHO 10679"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/daridorexant/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amounts of daridorexant in milk are very low. If daridorexant is required by the mother, it is not a reason to discontinue breastfeeding. Until more data in breastfed infants are available, monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Three major metabolites of daridorexant with much lower affinity to orexin receptors than the parent drug have been identified in plasma, but they do not appear to contribute to the pharmacological effect of daridorexant.\nMaternal Levels. In a manufacturer-sponsored study, 10 healthy women who were at least 2 weeks postpartum were given a single 50 mg oral dose of daridorexant. Milk was collected either every 4 or 8 hours for 3 days. The peak daridorexant milk level of 35.3 mcg/L occurred 2 hours after the dose. The metabolites M1, M3 and M10 had peak milk levels of 5.61 mcg/L, 9.1 mcg/L and 3.7 mcg/L, respectively. Peak levels of M3 and M10 occurred at 2 hours after the dose, while the peak level of M1 occurred at 6 hours after the dose. The mean daridorexant milk concentration was 6.3 mcg/L and its half-life was 7 hours. It was estimated that 9 mcg of daridorexant was excreted into milk in the first 24 hours after a dose and 10 mcg over 72 hours. The mean absolute infant dose of daridorexant was 0.0016 mg/kg daily and the relative infant dose was 0.22% in the first 24 hours and 0.25% over 72 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Zaleplon, Zolpidem"
+  ]
+ ]
+}

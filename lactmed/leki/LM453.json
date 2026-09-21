@@ -1,0 +1,35 @@
+{
+ "id": "LM453",
+ "tytul": "Colistimethate",
+ "synonimy": [
+  "Colistinmethanesulfonic acid",
+  "UNII-DL2R53P963",
+  "DL2R53P963",
+  "pentasodium",
+  "[2-[17-(1-hydroxyethyl)-22-[[2-[[3-hydroxy-2-[[2-(6-methyloctanoylamino)-4-(sulfonatomethylamino)butanoyl]amino]butanoyl]amino]-4-(sulfonatomethylamino)butanoyl]amino]-5,8-bis(2-methylpropyl)-3,6,9,12,15,18,23-heptaoxo-11,14-bis[2-(sulfonatomethylamino)ethyl]-1,4,7,10,13,16,19-heptazacyclotricos-2-yl]ethylamino]methanesulfonate"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM453/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that colistin is minimally excreted into breastmilk following intramuscular administration of colistimethate. Because colistin is poorly absorbed orally, it is unlikely to be absorbed in appreciable amounts by the infant or adversely affect the breastfed infant. However, no studies have evaluated serum levels or adverse effects in breastfed infants whose mothers were receiving colistimethate. Breastfeeding is acceptable with the use of inhaled colistin or colistimethate."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A single dose of colistimethate equal to 33 mg of colistin was given intramuscularly to 9 women and milk levels were measured once in each woman over the next 3 hours. Milk concentrations were 740 mcg/L at 1 hour (n = 1), 760 mcg/L at 2 hours (n = 3) and 140 mcg/L at 3 hours (n = 5) after the dose. Another 20 women were given single intramuscular doses equivalent to 66 mg of colistin. Milk concentrations averaged 500 mcg/L (range 160 to 1100 mcg/L) at 1 hour after the dose, and 789 mcg/L at 2 hours after the dose (range 0 to 2100 mcg/L).\nColistimethate was given to 15 women intramuscularly on day 5 postpartum in a dose equivalent to 66 mg of colistin. After 2 doses, the average peak level was 165 mcg/L and trough was 50 mcg/L. Another 5 women were given a dose equivalent to 132 mg of colistin intramuscularly on day 5 postpartum. After 2 doses, the average peak level was 215 mcg/L and trough was 50 mcg/L. With both doses, peak milk levels occurred 5 hours after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Amikacin, Gentamicin, Imipenem and Cilastatin, Tobramycin"
+  ]
+ ]
+}

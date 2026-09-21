@@ -1,0 +1,61 @@
+{
+ "id": "selexipag",
+ "tytul": "Selexipag",
+ "synonimy": [
+  "Selexipag",
+  "Uptravi",
+  "NS-304",
+  "ACT-293987",
+  "NS 304",
+  "ACT 293987",
+  "UNII-5EXC0E384L",
+  "5EXC0E384L",
+  "ACT293987",
+  "CHEBI:90844",
+  "selexipagum",
+  "MFCD10567093",
+  "SCHEMBL674122",
+  "CHEMBL238804",
+  "GTPL7552",
+  "B01AC27",
+  "QXWZQTURMXZVHJ-UHFFFAOYSA-N",
+  "DTXSID301027959",
+  "GLXC-27569",
+  "BCP09146",
+  "EX-A7991",
+  "BDBM50235383",
+  "HY-14870R",
+  "s3726",
+  "AKOS024457572",
+  "CCG-269668",
+  "CS-3774",
+  "DB11362",
+  "SB17055",
+  "NCGC00370833-01",
+  "2-[4-[(5,6-diphenylpyrazin-2-yl)-propan-2-ylamino]butoxy]-N-methylsulfonylacetamide"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/selexipag/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of selexipag during breastfeeding. Because selexipag is more than 99% bound to plasma proteins, the amount in milk is likely to be low. The manufacturer recommends that breastfeeding be discontinued during selexipag therapy. Selexipag and its active metabolite should be completely eliminated from milk in 1 day."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Pulmonary Artery Hypertension) Bosentan, Epoprostenol, Nitric Oxide, Sildenafil, Treprostinil"
+  ]
+ ]
+}

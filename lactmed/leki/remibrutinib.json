@@ -1,0 +1,47 @@
+{
+ "id": "remibrutinib",
+ "tytul": "Remibrutinib",
+ "synonimy": [
+  "remibrutinib",
+  "Rhapsido",
+  "LOU064 RefChem:178828",
+  "NVP-LOU064-NXA",
+  "LOU064-NXA",
+  "UNII-I7MVZ8HDNU",
+  "orb1307808",
+  "CHEMBL4483575",
+  "SCHEMBL16754888",
+  "SCHEMBL29377382",
+  "SCHEMBL29395016",
+  "SCHEMBL29564556",
+  "GTPL10457",
+  "C27H27F2N5O3",
+  "GLXC-22285",
+  "EX-A3421",
+  "MFCD32215329",
+  "s9660",
+  "WHO 11062",
+  "AKOS040742536",
+  "N-[3-[6-amino-5-[2-[methyl(prop-2-enoyl)amino]ethoxy]pyrimidin-4-yl]-5-fluoro-2-methylphenyl]-4-cyclopropyl-2-fluorobenzamide"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/remibrutinib/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of remibrutinib during breastfeeding. Because remibrutinib is more than 95% bound to plasma proteins, and is rapidly cleared with a half-life of less than 2 hours, the amount in milk is likely to be low. If a mother requires remibrutinib, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

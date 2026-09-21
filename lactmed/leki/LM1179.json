@@ -1,0 +1,40 @@
+{
+ "id": "LM1179",
+ "tytul": "Ramelteon",
+ "synonimy": [
+  "Ramelteon",
+  "Rozerem",
+  "196597-26-9",
+  "TAK-375",
+  "UNII-901AS54I69",
+  "HSDB 7787",
+  "901AS54I69",
+  "(S)-N-(2-(1,6,7,8-tetrahydro-2H-indeno-(5,4)furan-8-yl)ethyl)propionamide",
+  "(-)-N-(2-(((8S)-1,6,7,8-Tetrahydro-2H-indeno(5,4-b)furan-8-yl)ethyl)propanamide",
+  "Propanamide, N-(2-((8S)-1,6,7,8-tetrahydro-2H-indeno(5,4-b)furan-8-yl)ethyl)-"
+ ],
+ "zaktualizowano": "2022-04-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1179/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Data from one patient indicates that ramelteon and its principle active metabolite have low levels in milk. Monitor the infant for drowsiness and adequate feeding, especially while nursing a newborn or preterm infant. Until more data become available an alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Ramelteon undergoes rapid and almost complete first-pass metabolism to several metabolites. The principle active metabolite is M-II, which has an elimination half-life of 2 to 5 hours in adults.\nMaternal Levels. A woman was taking oral ramelteon 8 mg nightly for sleep during pregnancy and postpartum while nursing. Breastmilk concentrations of ramelteon and its active M-II metabolite were measured at 3 times postpartum: on day 1 at 8.2 hours after a dose, concentrations were 0.4 and 14.6 mcg/L, respectively; day 2 at 9.1 hours after the dose, concentrations were 0.2 and 7.1 mcg/L, respectively; day 3 at 2.2 hours after the dose, concentrations were 2.6 and 88.9 mcg/L, respectively. The authors calculated that the infant would receive 0.24% of the mother’s weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Prolactin levels increased by 4.9 mcg/L (34%) in non-breastfeeding women with chronic insomnia who were taking ramelteon 16 mg nightly for 6 months. No clinical symptoms of hyperprolactinemia were reported. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Zaleplon, Zolpidem"
+  ]
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "id": "Evusheld",
+ "tytul": "Tixagevimab and Cilgavimab",
+ "synonimy": [
+  "Evusheld",
+  "AZD-8895",
+  "AZD8895",
+  "COV2-2196",
+  "UNII-F0LZ415Z3B",
+  "WHO 11776",
+  "AZD-1061",
+  "AZD1061",
+  "COV2-2130",
+  "UNII-1KUR4BN70F",
+  "WHO 11777"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/Evusheld/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The US FDA has withdrawn emergency-use authorization for tixagevimab and cilgavimab because of a lack of efficacy against some strains of SARS-CoV-2. These drugs are monoclonal antibodies directed against the SARS-CoV-2 virus that causes COVID-19 and used for prophylaxis in immune-compromised individuals. No information is available on their clinical use during breastfeeding. Because tixagevimab and cilgavimab are large protein molecules, the amount in milk is likely to be very low. They are also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, tixagevimab and cilgavimab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nirmatrelvir, Remdesevir"
+  ]
+ ]
+}

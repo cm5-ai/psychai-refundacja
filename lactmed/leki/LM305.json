@@ -1,0 +1,42 @@
+{
+ "id": "LM305",
+ "tytul": "Timolol",
+ "synonimy": [
+  "timolol",
+  "Istalol",
+  "Betimol",
+  "Timopic",
+  "Timololum",
+  "Azarga",
+  "Istalol",
+  "Combigan",
+  "UNII-5JKY92S7BR",
+  "HSDB 6533",
+  "EINECS 248-032-6",
+  "(2S)-1-(tert-butylamino)-3-[(4-morpholin-4-yl-1,2,5-thiadiazol-3-yl)oxy]propan-2-ol"
+ ],
+ "zaktualizowano": "2026-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM305/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the variability in excretion of timolol into breastmilk and minimal reported experience during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant.\nOphthalmic use of timolol by the mother should pose little risk to the breastfed infant, although some guidelines state that gel formulations are preferred over solutions. To substantially diminish the amount of drug that reaches the breastmilk after using eye drops, place pressure over the tear duct by the corner of the eye for 1 minute or more, then remove the excess solution with an absorbent tissue. The manufacturer of Combigan states that it is not recommended for use during lactation, but there is no evidence for this statement."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With less than 10% protein binding, 20% renal excretion and a relatively short half-life, timolol presents a moderate risk for accumulation in infants, especially neonates.\nMaternal Levels. Timolol was measured in milk during the use of ophthalmic drops twice daily in one eye. Although the time of the previous dose was not stated, a predose milk level of 0.5 mcg/L was measured. One and one-half hours after a single drop of 0.5% timolol maleate, the milk level was 5.6 mcg/L. The authors estimated that use of 0.5% timolol drops in one eye twice daily gave the infant 0.63% of a cardiac dose and treatment of both eyes would be 1.25% of a cardiac dose.\nA 32-year-old woman was using ophthalmic drops containing 0.5% timolol and 0.2% brimonidine twice daily in the right eye for 6 months. Four milk samples were collected over 6 days, but the times with respect to dosages or nursing were not reported. Milk timolol concentrations ranged from 0 to 0.37 mcg/L. The authors estimated that the maximum dose that a fully breastfed infant would obtain would be 123 ng/kg daily or 0.012% of the weight-adjusted maternal dosage. If the mother had been applying the medication to both eyes, these values would be approximately doubled.\nNine women taking oral timolol 5 mg three times a day had a mean milk timolol level of 15.9 mcg/L (range 2 to 55 mcg/L). In 4 women taking 10 mg three times a day, the mean milk timolol levels was 41 mcg/L (range 7 to 88 mcg/L). The time after the dose when milk was sampled was not stated. In these cases it was estimated that a fully breastfed infant would receive between 0.96 to 1.2% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "None reported, but beta-adrenergic blocking drugs with similar breastmilk excretion characteristics have caused adverse effects in breastfed newborns.\nNo side effects were reported in one case report of a 9-week-old breastfed infant whose mother was using 0.5% ophthalmic timolol drops twice daily in one eye.\nA mother who was taking 2 drops of timolol 0.5% eye drops daily as well as using pilocarpine eye drops twice daily and acetazolamide 250 mg orally twice daily and delivered a preterm infant at 36 weeks of gestation. The infant began 5 months of exclusive breastfeeding at 6 hours after birth. On day 2, the infant developed electrolyte abnormalities consisting of hypocalcemia, hypomagnesemia, and metabolic acidosis. The infant was treated with oral calcium gluconate and a single dose of intramuscular magnesium sulfate. Despite continued breastfeeding and maternal drug therapy, the infant's mild metabolic acidosis disappeared on day 4 of life and the infant was gaining weight normally at 1, 3 and 8 months, but had mild hypotonicity. The authors considered the metabolic effects to be caused by transplacental passage of acetazolamide that resolved despite the infant being breastfed. The infant gained weight adequately during breastfeeding, but had some mild, residual hypertonicity of the lower limbs requiring physical therapy.\nA newborn infant was breastfed during maternal therapy with various combinations of ocular timolol, dipivifrin, dorzolamide, brimonidine and several doses of acetazolamide. Ultimately, the mother was treated with timolol gel-forming solution 0.5% and dorzolamide 2% drops. The drugs were given immediately following breastfeeding with punctal occlusion and no apnea or bradycardia was observed in the infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or timolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Systemic) Propranolol, Labetalol, Metoprolol; (Ophthalmic) Levobunolol, Metipranolol; (Migraine Prophylaxis) Divalproex, Erenumab, Metoprolol, Nortriptyline, Propranolol, Rimegepant, Topiramate, Valproic Acid"
+  ]
+ ]
+}

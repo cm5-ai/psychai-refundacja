@@ -1,0 +1,33 @@
+{
+ "id": "Cu_64_dotatate",
+ "tytul": "Copper Cu 64 Dotatate",
+ "synonimy": [
+  "Copper Cu 64 Dotatate",
+  "Detectnet",
+  "Copper dotatate Cu-64",
+  "UNII-N3858377KC",
+  "N3858377KC",
+  "2-[4-[2-[[(2R)-1-[[(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-4-[[(1S,2R)-1-carboxy-2-hydroxypropyl]carbamoyl]-7-[(1R)-1-hydroxyethyl]-16-[(4-hydroxyphenyl)methyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicos-19-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-2-oxoethyl]-10-(carboxylatomethyl)-7-(carboxymethyl)-1,4,7,10-tetrazacyclododec-1-yl]acetate",
+  "copper-64(2+)"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/Cu_64_dotatate/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Copper Cu 64 dotatate is a radiolabeled somatostatin analog indicated for use with positron emission tomography for localization of somatostatin receptor positive neuroendocrine tumors. No information is available on the use of copper Cu 64 dotatate during breastfeeding. The manufacturer recommends that breastfeeding be interrupted for 12 hours after copper Cu 64 dotatate administration.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Copper Cu 64 decays to nickel 64 (Ni 64) with a half-life of 12.7 hours by positron emission followed by emission of two 511 keV annihilation photons. It also decays to Ni 64 by electron capture and to zinc 64 by beta decay.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "LM893",
+ "tytul": "Abatacept",
+ "synonimy": [
+  "Abatacept",
+  "Orencia",
+  "CTLA4-Ig",
+  "CTLA4-Ig immunoconjugate",
+  "CTLA4-Ig B7 Inhibitor",
+  "UNII-7D0YB67S97",
+  "Abatacept [USAN:INN:BAN:JAN]",
+  "7D0YB67S97",
+  "RG2077",
+  "BMS 188667",
+  "BMS-188667",
+  "RG 2077",
+  "Cytotoxic T lymphocyte-associated antigen 4",
+  "Cytotoxic T lymphocyte-associated antigen 4-immunoglobulin",
+  "332348-12-6"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM893/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Abatacept is a large fusion protein that interferes with T-cell activation. It has a molecular weight of 92,000, so only small amounts are expected to enter breastmilk and absorbed by the infant. Case reports indicate that amounts in milk are very low and do not appear to affect the breastfed infant. Some professional guidelines consider abatacept to be acceptable during breastfeeding. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with rheumatoid arthritis resumed weekly doses of abatacept 125 mg subcutaneously 2 days after delivery. Maternal serum and breastmilk samples were obtained after the 9th and 10th doses. Peak abatacept concentrations in milk occurred at about 3 days after each dose at 256 mcg/L. Prior to the next dose, the trough concentration was 170 mcg/L. The authors estimated the daily infant dose to be between 25 and 38 mcg/kg, which translates into a weight-adjusted percent of maternal dosage of 1 to 1.5% (median 1.3%).\nTwo lactating women who were receiving abatacept for rheumatoid arthritis donated milk samples for analysis. The first, who was receiving a subcutaneous dose of 125 mg once weekly, had a peak milk level of about 200 mcg/L at 3 days after the dose and a level of about 100 mcg/L at 7 days after the dose. The second, who was receiving an intravenous dose of 500 mg every 2 weeks, had a peak milk level of about 100 mcg/L at 3 days after the dose and a level of about 50 mcg/L at 7 days after the dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with rheumatoid arthritis resumed weekly doses of abatacept 125 mg subcutaneously 2 days after delivery. Her infant was exclusively breastfed up until 12 months of age. Her infant had no adverse effects and developed normally during this time. She also received routine childhood vaccinations at 3 months of age as well as rotavirus and BCG vaccination at 6 months of age. No infections or adverse immune reactions were seen following the vaccinations."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Rheumatoid Arthritis) Adalimumab, Certolizumab Pegol, Etanercept, Infliximab, Tocilizumab"
+  ]
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "LM518",
+ "tytul": "Terbinafine",
+ "synonimy": [
+  "terbinafine",
+  "Lamisil",
+  "Lamasil",
+  "UNII-G7RIW8S0XP",
+  "G7RIW8S0XP",
+  "SF-86-327",
+  "SF 86-327",
+  "BRN 4256376",
+  "EC 618-706-8(E)-N,6,6-trimethyl-N-(naphthalen-1-ylmethyl)hept-2-en-4-yn-1-amine"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM518/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that oral maternal doses of 500 mg daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. Monitor the infant for jaundice or other signs of liver toxicity, especially in younger, exclusively breastfed infants. Some sources recommend avoiding oral terbinafine during nursing.\nTopical terbinafine has not been studied during breastfeeding. Because only about 1% is absorbed after topical application, it is considered a low risk to the nursing infant. Avoid application to the nipple area and ensure that the infant's skin does not come into direct contact with the areas of skin that have been treated. Only water-miscible cream, gel or liquid products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A review article states that 2 women excreted totals of 0.7 and 0.2 mg in their milk after a single oral dose of 500 mg of terbinafine. The details of this study were obtained from the manufacturer (Sandoz). Two healthy women aged 32 and 33 years and weighing 57.9 kg and 53.1 kg, respectively, were not breastfeeding, but had some milk production. They were each given four 125 mg tablets of terbinafine after an 8-hour fast. All milk was collected at 6-hour intervals for 72 hours after the dose. The highest concentrations of terbinafine in milk occurred in the first 6-hour aliquot and were 7.3 and 7.9 mg/L, respectively. In the 6- to 12-hour sample, milk concentrations were 2.0 and 2.4 mg/L. In the 12- to 18-hour sample, milk concentrations were 0.15 and 0.25 mg/L. After 18 hours, terbinafine was undetectable (<150 mcg/L[5]) by HPLC assay in milk. The major metabolite of terbinafine was undetectable (<150 mcg/L[5]) by HPLC assay in all aliquots. The cumulative amounts in milk over the 18 hours after the dose were 0.65 mg and 0.15 mg, respectively (noted above as rounded values). Milk production over this time period was 218 mL and 41 mL, respectively. Using the average milk concentration values over the 24-hour period in the 2 subjects, an exclusively breastfed infant would receive 3.8% of the maternal weight-adjusted dosage of terbinafine.\nSome package inserts in the U.S. state that milk concentrations of terbinafine are 7-fold maternal plasma concentrations. Communication with the originator U.S. manufacturer, Novartis, indicates that this value was derived from an animal experiment (species not specified). This value is far higher than that found in humans and cannot be considered to be reliable.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Topical to Toenails) Ciclopirox, Efinaconazole, Tavaborole"
+  ]
+ ]
+}

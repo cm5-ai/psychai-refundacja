@@ -1,0 +1,40 @@
+{
+ "id": "LM155",
+ "tytul": "Levalbuterol",
+ "synonimy": [
+  "Levalbuterol",
+  "Levosalbutamol",
+  "(-)-Salbutamol",
+  "(-)-Albuterol",
+  "R-Albuterol",
+  "UNII-EDN2NBH5SS",
+  "EDN2NBH5SS",
+  "Levosalbutamol [INN]",
+  "(-)-alpha(sup 1)-(((1,1-Dimethylethyl)amino)methyl)-4-hydroxy-1,3-benzenedimethanol",
+  "4-[(1R)-2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM155/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Levalbuterol is the R-enantiomer of the beta-2 adrenergic agonist, albuterol (salbutamol). Although no published data exist on the use of levalbuterol by mouth or inhaler during lactation, data from the related drug, terbutaline, indicate that very little is expected to be excreted into breastmilk. The authors of several reviews and expert guidelines agree that use of inhaled bronchodilators is acceptable during breastfeeding because of the low bioavailability and maternal serum levels after use."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Terbutaline"
+  ]
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "id": "somapacitan",
+ "tytul": "Somapacitan",
+ "synonimy": [
+  "somapacitan",
+  "somapacitan-beco",
+  "Sogroya",
+  "NN8640",
+  "NNC0195-0092"
+ ],
+ "zaktualizowano": "2021-09-20",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/somapacitan/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because somapacitan is a large molecule that is poorly absorbed orally, it is not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. However, there is no published experience with somapacitan during breastfeeding, so an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date. However, the closely related recombinant human growth hormone, somatropin, has been reported to increase milk production."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Somatropin"
+  ]
+ ]
+}

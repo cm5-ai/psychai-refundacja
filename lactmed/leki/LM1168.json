@@ -1,0 +1,37 @@
+{
+ "id": "LM1168",
+ "tytul": "Apixaban",
+ "synonimy": [
+  "Apixaban",
+  "Eliquis",
+  "UNII-3Z9Y7UWC1J",
+  "BMS-562247-01",
+  "BMS 562247-01",
+  "HSDB 8223",
+  "1-(4-methoxyphenyl)-7-oxo-6-[4-(2-oxopiperidin-1-yl)phenyl]-4,5-dihydropyrazolo[3,4-c]pyridine-3-carboxamide"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1168/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information from four mothers indicates that apixaban levels in milk are high, potentially resulting in infant anticoagulation and bleeding, which was confirmed with a pharmacokinetic model. An alternate drug is preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A nursing mother who was 23 months postpartum received 2 doses of 5 mg of oral apixaban 12 hours apart. Blood and milk samples were obtained before the first dose and at 3.5, 7, 12 (before the second dose), 16, and 24 hours after the first dose. Peak apixaban milk levels of about 230 mcg/L occurred at 3.5 to 4 hours after each dose. The average milk level over 24 hours was 113.6 mcg/L, which corresponds to a daily infant dosage of 17 mcg/kg daily and a relative infant dose of 12.8% of the maternal weight-adjusted dosage.\nThree lactating women were taking 5 mg of apixaban twice daily by mouth and were at steady-state. They extracted milk and provided samples at 0, 1, 2, 4, 6, 8, 10, and 12 hours after a dose. Peak milk levels of apixaban occurred at 1 hours after the dose in one woman and 2 hours after the dose in the others two. Peak levels ranged from 0.2 to 0.25 mg/L and average milk levels ranged from 0.134 to 0.16 mg/L. The absolute infant dosage was calculated to be 10 mcg/kg every 12 hours, which amounted to weight adjusted infant RID values of 14%, 20% and 21% in the three infants.\nA physiologically based pharmacokinetic (PBPK) model was constructed to simulate breastmilk and infant serum apixaban concentrations and compared to published data. The model predicted peak milk levels of 212 and 416 mcg/L for dosages of 2.5 and 5 mg twice daily, respectively. Results indicate that the worst-case relative infant dosage in infants would be about 140%.\nAnother PBPK model that used experimentally derived values for protein binding and transmembrane passage was developed. Simulated RID values were about 11.9% using the average milk concentration and 25.9% using the peak concentrations as a worst-case value.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acenocoumarol, Dabigatran, Dalteparin, Enoxaparin, Heparin, Rivaroxaban, Warfarin"
+  ]
+ ]
+}

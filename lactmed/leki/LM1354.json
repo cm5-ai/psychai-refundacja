@@ -1,0 +1,33 @@
+{
+ "id": "LM1354",
+ "tytul": "Valganciclovir",
+ "synonimy": [
+  "Valganciclovir",
+  "Valganciclovir [INN:BAN]",
+  "UNII-GCU97FKN3R",
+  "GCU97FKN3R",
+  "175865-60-8",
+  "HSDB 8085",
+  "L-Valine, 2-((2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)methoxy)-3-hydroxypropyl ester"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1354/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Valganciclovir is rapidly converted to ganciclovir. Several factors might affect the decision to use valganciclovir in a nursing mother. No information is available on the clinical use of ganciclovir or valganciclovir during breastfeeding. Cytomegalovirus (CMV) can be transmitted to infants though breastmilk, with preterm and immunocompromised infants at greatest risk. No information is available on any changes in the risk of transmission if the mother is being treated with ganciclovir or valganciclovir. Although the manufacturer recommends avoiding breastfeeding during valganciclovir use because of the risk of infant drug toxicity, neonates with CMV infections are often treated directly with ganciclovir or valganciclovir. If the mother has a concurrent infection with HIV, breastfeeding is not recommended in the United States and other developed countries."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

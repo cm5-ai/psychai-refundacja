@@ -1,0 +1,42 @@
+{
+ "id": "LM1462",
+ "tytul": "Rasagiline",
+ "synonimy": [
+  "rasagiline",
+  "Azilect",
+  "136236-51-6",
+  "Rasagiline [USAN:INN]",
+  "(R)-N-2-Propynyl-1-indanamine",
+  "UNII-003N66TS6T",
+  "HSDB 7699",
+  "003N66TS6T",
+  "1-Indanamine, N-2-propynyl-, (R)-",
+  "TV-1030",
+  "TV 1030",
+  "1H-Inden-1-amine, 2,3-dihydro-N-2-propynyl-, (1R)"
+ ],
+ "zaktualizowano": "2020-10-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1462/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No clinical use of rasagiline during breastfeeding has been reported. Rasagiline might reduce serum prolactin and interfere with milk production. An alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Animal studies show that rasagiline reduces serum prolactin. The clinical relevance of these findings in nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Selegiline"
+  ]
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "id": "LM1242",
+ "tytul": "Sofosbuvir",
+ "synonimy": [
+  "Sofosbuvir",
+  "PSI-7977",
+  "Sovaldi",
+  "Hepcinat",
+  "Hepcvir",
+  "Resof",
+  "SoviHep",
+  "Vosevi",
+  "Harvoni",
+  "Epclusa",
+  "UNII-WJ6CA3ZU8B",
+  "PSI 7977",
+  "1620486-68-1",
+  "GS-7977",
+  "GS 7977",
+  "HSDB 8226",
+  "propan-2-yl (2S)-2-[[[(2R,3R,4R,5R)-5-(2,4-dioxopyrimidin-1-yl)-4-fluoro-3-hydroxy-4-methyloxolan-2-yl]methoxy-phenoxyphosphoryl]amino]propanoate"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1242/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that typical doses of sofosbuvir produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. If sofosbuvir alone or in combination with ledipasvir (Harvoni), velpatasvir (Epclusa) or velpatasvir, and voxilaprevir (Vosevi), it is not a reason to discontinue breastfeeding.\nHepatitis C is not transmitted through breastmilk, and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four mothers with hepatitis C infections began taking sofosbuvir 400 mg in combination with velpatasvir 100 mg orally once daily shortly after delivery. Paired samples of maternal serum and breastmilk were collected within the first 24 hours after commencing the drug regimen and at up to 6 days after initiation. Samples were collected from 1 to 25.6 hours after a dose. Sofosbuvir and its inactive metabolite, were quantifiable (1 mcg/L or greater) in 9 breastmilk samples. The median sofosbuvir milk concentration was 11.1 mcg/L (range 1.3 to 60.1 mcg/L) with a median infant daily dosage of 1.7 mcg/kg and a relative infant dose of 0.014%. The median GS-331007 milk concentration was 5.4 mcg/L (range 1.8 to 15 mcg/L) with a median infant daily dosage of 0.8 mcg/kg and a relative infant dose of 0.014%. Because of the random collection and the reporting method, the true values may vary somewhat from these numbers.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "An infant was breastfed (extent not stated) for 3 weeks postpartum by a mother who took sofosbuvir 400 mg plus ledipasvir 90 mg daily for 12 weeks beginning at 31 weeks of gestation for her chronic hepatitis C infection. The infant was followed for 1 year and found to have normal growth and development."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa"
+  ]
+ ]
+}

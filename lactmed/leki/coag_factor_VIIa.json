@@ -1,0 +1,35 @@
+{
+ "id": "coag_factor_VIIa",
+ "tytul": "Coagulation Factor VIIa",
+ "synonimy": [
+  "Coagulation Factor VIIa, Recombinant",
+  "NovoSeven RT",
+  "blood-coagulation factor VII (human clone lhvii2463 protein moiety)",
+  "blood-coagulation factor VII (human clone lambdahvii2463 protein moiety)",
+  "eptacog alfa (activated) (mart.)",
+  "eptacog alfa activated",
+  "factor VIIa,recombinant",
+  "recombinant activated factor vii",
+  "UNII-AC71R787OV"
+ ],
+ "zaktualizowano": "2025-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/coag_factor_VIIa/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of coagulation factor VIIa during breastfeeding. Because it is a large protein molecule, the amount in milk is likely to be very low and absorption is unlikely because it is probably destroyed in the infant's gastrointestinal tract. Until more data become available, coagulation factor VIIa should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

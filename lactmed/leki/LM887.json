@@ -1,0 +1,76 @@
+{
+ "id": "LM887",
+ "tytul": "Rotigotine",
+ "synonimy": [
+  "Rotigotine",
+  "Neupro",
+  "Leganto",
+  "rotigotinum",
+  "Rotigotina",
+  "UNII-87T4T8BO2E",
+  "SPM 962",
+  "87T4T8BO2E",
+  "N 0923",
+  "HSDB 8254",
+  "SPM-962",
+  "SPM-936",
+  "SPM-937",
+  "UNII-87T4T8BO2E",
+  "87T4T8BO2E",
+  "DTXSID5046772",
+  "CHEMBL1303",
+  "DTXCID3026772",
+  "HSDB 8254",
+  "N 0923",
+  "NCGC00168748-01",
+  "SCHEMBL1088585",
+  "N04BC09",
+  "CHEBI:135351",
+  "HMS3885D17",
+  "EX-A1164",
+  "Tox21_112627",
+  "BDBM50123626",
+  "MFCD00870193",
+  "s4274",
+  "AKOS016340728",
+  "Tox21_112627_1",
+  "AC-3547",
+  "CCG-267650",
+  "CS-0376",
+  "DB05271",
+  "SS-4572",
+  "NCGC00168748-02",
+  "HY-75502",
+  "NS00122814",
+  "R0220",
+  "SW220014-1",
+  "D05768",
+  "F13103",
+  "A846076",
+  "EN300-26189697",
+  "Q411985",
+  "J-502471",
+  "BRD-K91111634-001-01-2",
+  "(6S)-6-[propyl(2-thiophen-2-ylethyl)amino]-5,6,7,8-tetrahydronaphthalen-1-ol"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM887/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of rotigotine during breastfeeding, but it suppresses serum prolactin and may interfere with breastfeeding. An alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. Rotigotine lowers serum prolactin. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

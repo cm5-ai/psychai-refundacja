@@ -1,0 +1,47 @@
+{
+ "id": "LM835",
+ "tytul": "Physostigmine",
+ "synonimy": [
+  "physostigmine",
+  "Eserine",
+  "Antilirium",
+  "Esromiotin",
+  "Physostol",
+  "Ezerin",
+  "Calabarine",
+  "Fysostigmin",
+  "Fysostigmin [Czech]",
+  "UNII-9U1VM840SP",
+  "RCRA waste no. P204",
+  "CCRIS 3422",
+  "Eserolein, methylcarbamate (ester)",
+  "HSDB 3161",
+  "9U1VM840SP",
+  "MCV 4484",
+  "EINECS 200-332-8",
+  "NIH 10421",
+  "NSC 30782",
+  "CS 58525",
+  "[(3aR,8bS)-3,4,8b-trimethyl-2,3a-dihydro-1H-pyrrolo[2,3-b]indol-7-yl] N-methylcarbamate"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM835/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of physostigmine during breastfeeding. It should be used during breastfeeding if it is essential to the mother’s health."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. In animals, cholinergic drugs increase oxytocin release, and physostigmine increases serum prolactin in humans. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

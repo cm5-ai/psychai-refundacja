@@ -1,0 +1,38 @@
+{
+ "id": "LM481",
+ "tytul": "Pravastatin",
+ "synonimy": [
+  "pravastatin",
+  "Pravastatina",
+  "Pravastatine",
+  "Pravastatinum",
+  "UNII-KXO2KT9N0G",
+  "CCRIS 7557",
+  "HSDB 8368",
+  "(3R,5R)-7-[(1S,2S,6S,8S,8aR)-6-hydroxy-2-methyl-8-[(2S)-2-methylbutanoyl]oxy-1,2,6,7,8,8a-hexahydronaphthalen-1-yl]-3,5-dihydroxyheptanoic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM481/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Levels of pravastatin in milk are low, but no relevant published information exists with its use during breastfeeding. The consensus opinion is that women taking a statin should not breastfeed because of a concern with disruption of infant lipid metabolism. However, others have argued that children homozygous for familial hypercholesterolemia are treated with statins beginning at 1 year of age, that statins have low oral bioavailability, and risks to the breastfed infant are low, especially with pravastatin and rosuvastatin. Until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Eleven lactating women who were not breastfeeding were given 20 mg of pravastatin orally twice daily for 2.5 days. Serum and milk samples were taken at various times after the 5th dose and analyzed for pravastatin and its active metabolite. Peak milk levels averaged 3.9 mcg/L for pravastatin and 2.1 mcg/L for its metabolite. The authors suggested that negligible levels were excreted into breast milk, but that benefits and risks should be carefully considered. Using the peak levels above, a fully breastfed infant would receive a maximum of 900 ng/kg daily with this dosage or about 0.13% of the maternal weight-adjusted dosage.\nTwo women were receiving oral pravastatin 10 mg daily during pregnancy. Two milk samples from each woman were obtained between 69.3 and 130 hours after their previous doses. Pravastatin was undetectable (<5 ng/L) in all the samples.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Cholestyramine, Colesevelam, Colestipol"
+  ]
+ ]
+}

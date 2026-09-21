@@ -1,0 +1,40 @@
+{
+ "id": "LM1114",
+ "tytul": "Rocuronium",
+ "synonimy": [
+  "Rocuronium Bromide",
+  "Zemuron",
+  "1-Allyl-1-(3alpha,17beta-dihydroxy-2beta-morpholino-5alpha-androstan-16beta-yl)pyrrolidinium bromide, 17-acetate",
+  "ORG 9426",
+  "Pyrrolidinium, 1-((2beta,3alpha,5alpha,16beta,17beta)-17-(acetyloxy)-3-hydroxy-2-(4-morpholinyl)androstan-16-yl)-1-(2-propenyl)-, bromideRocuronium",
+  "Zemuron",
+  "UNII-WRE554RFEZ",
+  "WRE554RFEZ",
+  "ORG 9426",
+  "143558-00-3"
+ ],
+ "zaktualizowano": "2021-06-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1114/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information on the use of rocuronium during breastfeeding indicates that no adverse infant effects occur. Because it is short acting, highly polar and poorly absorbed orally, it is not likely to reach the breastmilk in high concentration or to reach the bloodstream of the infant. When a combination of anesthetic agents is used for a procedure, follow the recommendations for the most problematic medication used during the procedure. General anesthesia for cesarean section using rocuronium as a component may delay the onset of lactation."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Four mothers who were breastfeeding 3- to 5-month-old infants underwent general anesthesia were given intravenous propofol and remifentanil as induction agents and rocuronium 0.5 mg/kg for intubation. After induction, propofol was stopped and xenon inhalation was used to maintain anesthesia for between 57 and 70 minutes. Infants resumed breastfeeding from 1.5 to 5 hours after the end of surgery. None of the infants had noticeable symptoms of dizziness or drowsiness. All infants fared well at home after their mothers were discharged with no adverse events noticed at home."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A randomized study compared the effects of cesarean section using general anesthesia, spinal anesthesia, or epidural anesthesia, to normal vaginal delivery on serum prolactin and oxytocin as well as time to initiation of lactation. General anesthesia was performed using propofol 2 mg/kg and rocuronium 0.6 mg/kg for induction, followed by sevoflurane and rocuronium 0.15 mg/kg as needed. After delivery, patients in all groups received an infusion of oxytocin 30 international units in 1 L of saline, and 0.2 mg of methylergonovine if they were not hypertensive. Fentanyl 1 to 1.5 mcg/kg was administered after delivery to the general anesthesia group. Patients in the general anesthesia group (n = 21) had higher post-procedure prolactin levels and a longer mean time to lactation initiation (25 hours) than in the other groups (10.8 to 11.8 hours). Postpartum oxytocin levels in the nonmedicated vaginal delivery group were higher than in the general and spinal anesthesia groups."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Atracurium, Cisatracurium"
+  ]
+ ]
+}

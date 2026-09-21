@@ -1,0 +1,43 @@
+{
+ "id": "LM604",
+ "tytul": "Paliperidone",
+ "synonimy": [
+  "Paliperidone",
+  "9-Hydroxyrisperidone",
+  "Invega",
+  "paliperidone palmitate",
+  "HSDB 8148",
+  "UNII-838F01T721",
+  "HSDB 5716",
+  "RO76477",
+  "R 76477",
+  "R-76477",
+  "199739-10-1",
+  "xeplion",
+  "3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-9-hydroxy-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM604/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although no published data are available for the use of paliperidone during breastfeeding, the manufacturer reported milk levels indicating that an infant would receive about 1% of the maternal weight-adjusted dosage. Paliperidone is the active metabolite of risperidone. Risperidone data indicate that the concentrations of paliperidone (9-hydroxyrisperidone) in breastmilk are low, and amounts ingested by the infant are small. A safety scoring system finds paliperidone possible to use cautiously during breastfeeding, although others do not recommend it. Because there is no published experience with paliperidone during breastfeeding and little long-term follow-up data, other agents may be preferred, especially while nursing a newborn or preterm infant. Because paliperidone is available only as long-acting products, timing of nursing with respect to doses would not be useful. Long-acting injectable formulations may continue to deliver small amounts to breastmilk for many months. Monitor breastfed infants for drowsiness, adequate growth and weight gain, jitteriness, tremors, and abnormal movements."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Paliperidone is 9-hydroxyrisperidone, the active metabolite of risperidone and has been measured in milk and plasma after administration of risperidone.\nMaternal Levels. The manufacturer reports that the average adult plasma concentration of paliperidone after the maximum dose of 12 mg daily is about 37 mcg/L. Using the average milk-to-plasma ratio of 9-hydroxyrisperidone of 0.3 from 3 reports of risperidone use during breastfeeding, the average milk concentration would be expected to be about 11 mcg/L or a dose of 1.7 mcg/kg daily. An exclusively breastfed infant would receive an average of less than 1% of the maternal weight-adjusted dosage with this maternal dosage.\nInfant Levels. In 2 breastfed infants (6 weeks and 3.3 months old) whose mothers were taking 2 mg of risperidone twice daily and 1.5 mg daily in 2 divided doses, respectively, risperidone and 9-hydroxyrisperidone were both undetectable (<1 mcg/L) in the serums of the infants.\nAn infant was breastfed 6 times daily during maternal therapy with risperidone 2 mg once daily. Fifteen hours after the mother's last dose, the infant's plasma levels of risperidone was undetectable and 9-hydroxyrisperidone was 0.1 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No published information on paliperidone was found as of the revision date. However, limited data from the use of its parent drug, risperidone, during nursing indicate no short- or long-term adverse effects on the infant.\nPatients enlisted in the National Pregnancy Registry for Atypical Antipsychotics who were taking a second-generation antipsychotic drug while breastfeeding (n = 576) were compared to control breastfeeding patients who were not treated with a second-generation antipsychotic (n = 818). Of the patients who were taking a second-generation antipsychotic drug, 60.4% were on more than one psychotropic. A review of the pediatric medical records, no adverse effects were noted among infants exposed or not exposed to second-generation antipsychotic monotherapy or to polytherapy. The number of women taking paliperidone was not reported."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Paliperidone has caused elevated prolactin serum levels, gynecomastia, and galactorrhea in patients taking the drug. The prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nPatients enlisted in the National Pregnancy Registry for Atypical Antipsychotics who were taking a second-generation antipsychotic drug while breastfeeding (n = 576) were compared to control breastfeeding patients who had primarily diagnoses of major depressive disorder and anxiety disorders, most often treated with SSRI or SNRI antidepressants, but not with a second-generation antipsychotic (n = 818). Among women on a second-generation antipsychotic, 60.4% were on more than one psychotropic compared with 24.4% among women in the control group. Of the women on a second-generation antipsychotic, 59.3% reported “ever breastfeeding” compared to 88.2% of women in the control group. At 3 months postpartum, 23% of women on a second-generation antipsychotic were exclusively breastfeeding compared to 47% of women in the control group. The number of women taking paliperidone was not reported.\nA review of the FDA’s FAERS database analyzed 6,195 reports of drug-induced galactorrhea in all patient populations. Paliperidone had the second-highest report count (1,214) of all drugs reported.\nA 26-year-old woman with paranoid schizophrenia was started on paliperidone 12 mg daily. Twenty-six days after treatment initiation a satisfactory plasma paliperidone level of 42 mcg/L was achieved (therapeutic range 20 to 60 mcg/L). The patient developed galactorrhea 4 weeks following paliperidone initiation. Two serial prolactin measurements, weeks 4 and 5 weeks after treatment onset revealed persistent elevation of prolactin above the upper limit of normal, at 130 mcg/L (physiological range 5 to 23 mcg /L). Brexpiprazole 1 mg daily was begun to normalize serum prolactin. Three weeks after the introduction of brexpiprazole, a prolactin assay demonstrated a marked reduction in serum prolactin, from 130 to 37 mcg/L and the galactorrhea resolved. One month later the prolactin level remained at 39 mcg/L. The patient’s periods subsequently returned to a regular pattern also."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

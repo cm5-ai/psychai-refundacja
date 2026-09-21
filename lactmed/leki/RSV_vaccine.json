@@ -1,0 +1,30 @@
+{
+ "id": "RSV_vaccine",
+ "tytul": "Respiratory Syncytial Virus Vaccine",
+ "synonimy": [
+  "Respiratory Syncytial Virus Vaccine",
+  "Abrysvo",
+  "Arexvy",
+  "RSV vaccine"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/RSV_vaccine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The Centers for Disease Control and Prevention and other expert opinion state that vaccines given to a nursing mother do not affect the safety of breastfeeding for mothers or infants and that breastfeeding is not a contraindication to respiratory syncytial virus vaccine. Of the two available vaccines, the adjuvanted vaccine (Arexvy) is indicated only for persons over 60 years of age and the nonadjuvanted vaccine (Abrysvo) is indicated for pregnant persons and for persons over 60 years of age. Neither vaccine contains live organisms and non-live vaccines are generally considered to be acceptable during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

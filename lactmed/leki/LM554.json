@@ -1,0 +1,56 @@
+{
+ "id": "LM554",
+ "tytul": "Misoprostol",
+ "synonimy": [
+  "misoprostol",
+  "Cytotec",
+  "Isprelor",
+  "Misoprostolum",
+  "Misoprostil",
+  "Arthrotec",
+  "Misoprost",
+  "Misotol",
+  "Misogon",
+  "Misotac",
+  "Misoprostolum [INN-Latin]",
+  "59122-46-2",
+  "CCRIS 6859",
+  "HSDB 3573",
+  "UNII-0E43V0BB57",
+  "SC-29333",
+  "SC 29333",
+  "MVI 200",
+  "BRN 4155643",
+  "0E43V0BB57",
+  "Misoprostol [USAN:USP:INN:BAN:JAN]",
+  "Methyl (+-)-11-alpha,16-dihydroxy-16-methyl-9-oxoprost-13-en-1-oate",
+  "(11-alpha,13E)-(+-)-11,16-Dihydroxy-16-methyl-9-oxoprost-13-en-1-oic acid methyl ester",
+  "Prost-13-en-1-oic acid, 11,16-dihydroxy-16-methyl-9-oxo-, methyl ester, (11alpha,13E)-",
+  "(+-)-Methyl (1R,2R,3R)-3-hydroxy-2-((E)-(4RS)-4-hydroxy-4-methyl-1-octenyl)-5-oxocyclopentaneheptanoate",
+  "Prost-13-en-1-oic acid, 11,16-dihydroxy-16-methyl-9-oxo-, methyl ester, (11alpha,13E)-(+-)-"
+ ],
+ "zaktualizowano": "2022-07-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM554/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Misoprostol is a prostaglandin E1 analogue. Prostaglandin E1 and other prostaglandins appear normally in colostrum and milk. Because of the extremely low levels of misoprostol in breastmilk, amounts ingested by the infant are trivial and would not be expected to cause any adverse effects in breastfed infants. No special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "After absorption, misoprostol is rapidly converted into misoprostol acid in the liver. Studies of misoprostol measure misoprostol acid in the colostrum or milk.\nMaternal Levels. Twenty women received misoprostol 600 mcg orally during the first 4 days postpartum. Twelve of them collected a total of 24 colostrum samples at various times during the first 5 hours after the dose. The average misoprostol concentration was highest in colostrum 1 hour after the dose at 20.9 ng/L. Average concentrations fell to 17.8 ng/L at 2 hours after the dose, 9.4 ng/L at 3 hours, 2.8 ng/L at 4 hours and <1 ng/L at 5 hours after the dose.\nTen women who averaged 3.9 days postpartum received a single oral dose of misoprostol 200 mcg. Milk samples were obtained from one breast from 0.5 to 5 hours after the dose. The mean and median peak milk levels were 7.6 and 3.6 ng/L, respectively, at 1.1 hours after the dose. In 2 women, the peak milk level occurred 2 hours after the dose. By 5 hours, the median milk level was 0.2 ng/L. The half-life in milk averaged 1.1 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Oxytocic) Ergonovine, Methylergonovine; (Ulcers) Famotidine, Nizatidine, Omeprazole, Pantoprazole"
+  ]
+ ]
+}

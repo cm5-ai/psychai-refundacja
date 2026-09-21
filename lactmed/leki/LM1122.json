@@ -1,0 +1,38 @@
+{
+ "id": "LM1122",
+ "tytul": "Oritavancin",
+ "synonimy": [
+  "Oritavancin",
+  "Kimyrsa",
+  "Orbactiv",
+  "UNII-PUG62FRZ2E",
+  "PUG62FRZ2E",
+  "LY333328",
+  "LY 333328",
+  "(1S,2R,18R,19R,22S,25R,28R,40S)-2-[(2R,4S,5R,6S)-4-amino-5-hydroxy-4,6-dimethyloxan-2-yl]oxy-22-(2-amino-2-oxoethyl)-5,15-dichloro-48-[(2S,3R,4S,5S,6R)-3-[(2S,4S,5R,6S)-4-[[4-(4-chlorophenyl)phenyl]methylamino]-5-hydroxy-4,6-dimethyloxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-18,32,35,37-tetrahydroxy-19-[[(2R)-4-methyl-2-(methylamino)pentanoyl]amino]-20,23,26,42,44-pentaoxo-7,13-dioxa-21,24,27,41,43-pentazaoctacyclo[26.14.2.23,6.214,17.18,12.129,33.010,25.034,39]pentaconta-3,5,8,10,12(48),14,16,29(45),30,32,34(39),35,37,46,49-pentadecaene-40-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1122/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of oritavancin during breastfeeding. Oritavancin is poorly absorbed orally, so it is not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. Monitor the infant for possible effects on the gastrointestinal tract, such as diarrhea, vomiting, and candidiasis (e.g., thrush, diaper rash). However, because there is no published experience with oritavancin during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Clindamycin, Daptomycin, Doxycycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

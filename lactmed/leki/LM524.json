@@ -1,0 +1,50 @@
+{
+ "id": "LM524",
+ "tytul": "Iodixanol",
+ "synonimy": [
+  "iodixanol",
+  "Visipaque",
+  "Iodixanolum",
+  "Indixanol",
+  "OptiPrep",
+  "Visipaque 270",
+  "Visipaque 320",
+  "Iodixanolum [Latin]",
+  "92339-11-2",
+  "UNII-HW8W27HTXX",
+  "HW8W27HTXX",
+  "CCRIS 7567",
+  "HSDB 8076",
+  "Iodixanol [USAN:USP:INN:BAN]",
+  "EC 618-837-0",
+  "2-5410-3A",
+  "5,5'-((2-Hydroxytrimethylene)bis(acetylimino))bis(N,N'-bis(2,3-dihydroxypropyl)-2,4,6-triiodoisophthalamide)",
+  "1,3-Benzenedicarboxamide, 5,5'-((2-hydroxy-1,3-propanediyl)bis(acetylimino))bis(N,N'-bis(2,3-dihydroxypropyl)-2,4,6-triiodo-",
+  "5-(Acetyl-(3-(acetyl-(3,5-bis(2,3-dihydroxypropylcarbamoyl)-2,4,6-triiodophenyl)amino)-2- hydroxypropyl)amino)-N,N'-bis(2,3-dihydroxypropyl)-2,4,6-triiodobenzene-1,3-dicarboxamide",
+  "5,5'-((2-hydroxytrimethylene)bis(acetylimino))bis(N,N'-bis(2,3-dihydroxypropyl)-2,4,6- triiodoisophthalamide)"
+ ],
+ "zaktualizowano": "2022-11-30",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM524/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Intravenous iodinated contrast media are poorly excreted into breastmilk and poorly absorbed orally so they are not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. One report of very small amounts of iodine from iodixanol in breastmilk supports this generalization. Guidelines developed by several professional organizations state that breastfeeding need not be disrupted after a nursing mother receives an iodine-containing contrast medium."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A mother was given 100 mL of iodixanol (containing 320 mg of iodine per mL) intravenously immediately postpartum for diagnosis of severe abdominal pain. She was found to have a hematoma resulting in acute tubular necrosis with a serum creatinine of 2.5 mg/dL (222 micromoles/L). Breastmilk samples taken on days 1 and 4 postpartum contained 55 and 28 mg/L of iodine, respectively. The authors calculated that the infant would receive 0.017% of the total administered maternal dose of iodine on day 1 and 0.05% on day 4 postpartum. However, these values could be somewhat different in a patient with normal kidney function.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Diatrizoate, Iohexol"
+  ]
+ ]
+}

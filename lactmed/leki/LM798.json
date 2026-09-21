@@ -1,0 +1,55 @@
+{
+ "id": "LM798",
+ "tytul": "Metyrapone",
+ "synonimy": [
+  "metyrapone",
+  "Metopirone",
+  "Methopyrapone",
+  "Metopiron",
+  "Methapyrapone",
+  "Methopirapone",
+  "Methopyrinine",
+  "Methopyrone",
+  "Metyrapon",
+  "Metopyrone",
+  "Metirapona",
+  "Metyraponum",
+  "2-Methyl-1,2-di-3-pyridyl-1-propanone",
+  "54-36-4",
+  "Metyraponum [INN-Latin]",
+  "Metirapona [INN-Spanish]",
+  "UNII-ZS9KD92H6V",
+  "Su 4885",
+  "ZS9KD92H6V",
+  "HSDB 2500",
+  "1-Propanone, 2-methyl-1,2-di-3-pyridinyl-",
+  "NSC 25265",
+  "EINECS 200-206-2",
+  "2-Methyl-1,2-di-3-pyridinyl-1-propanone",
+  "2-Methyl-1,2-bis(3-pyridyl)-1-propanone",
+  "1,2-Di-3-pyridyl-2-methyl-1-propanone",
+  "1-Propanone, 2-methyl-1,2-di-3-pyridyl-",
+  "Metyrapone [USAN:USP:INN:BAN:JAN]",
+  "1-Propanone, 1,2-di-3-pyridyl-2-methyl-"
+ ],
+ "zaktualizowano": "2021-04-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM798/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Evidence from two patients indicate that amounts of metyrapone and its active metabolite in breastmilk are very small and unlikely to adversely affect a breastfed infant. Exposure of the infant can be markedly decreased by avoiding nursing for 2 to 2.5 hours after each dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Metyrapone is metabolized to the active metabolite, metyrapol, which has a longer half-life than metyrapone.\nMaternal Levels. A woman was taking metyrapone 250 mg orally 4 times daily by mouth during pregnancy and postpartum for Cushing's disease. At 1 week postpartum, milk samples were obtained before the midday dose and at 1.25, 2.25, 3.25, 4.24 and 5.25 hours after the dose. Samples were analyzed for metyrapone and metyrapol. Peak milk concentrations of the drug and metabolite occurred at 1.25 hours after the dose; by 2.25 hours after the dose, milk levels had dropped by about 75%. Half-lives in milk were 3.63 hours for metyrapone and 34 hours for metyrapol. The authors calculated that the combined dosage a fully breastfed infant would receive is 9 mcg/kg daily or 0.1% of the weight-adjusted maternal dosage.\nA woman was diagnosed with Cushing's disease during pregnancy and managed with an average oral dose of 750 mg daily. Postpartum, she took metyrapone 250 mg 3 times daily, as well as bisoprolol 10 mg and captopril 12.5 mg twice a day. Starting at 5 weeks postpartum she collected serial breastmilk samples over 6 hours on 3 separate occasions and over 24 hours at another time. Peak milk levels of the drug and metabolite occurred at about 30 minutes after a dose. The milk values for metyrapone and metyrapol differed with the sampling scheme, with higher average amounts when milk as sampled every 30 minutes rather than every hour. Average milk metyrapone concentrations were 176 and 10 mcg/L with the 30-minute and 60-minute collection methods, respectively. Average milk metyrapol concentrations were 310 and 19 mcg/L with the 30-minute and 60-minute collection methods, respectively. Foremilk and hindmilk concentrations were similar. The apparent half-lives were 33 minutes for metyrapone and 67 minutes for metyrapol. The infant dosage of the combined drugs was 73 mcg/kg daily, which is 820 times lower than the lowest recommend dose used in pediatric diagnostic testing. Average total weight adjusted dosages of metyrapone plus metyrapol were calculated to be 1.9% with 30-minute sampling and 0.1% with 60-minute sampling. These results indicate that avoiding breastfeeding for at least an hour after a dose will markedly decrease infant exposure.\nInfant Levels. A woman was taking metyrapone 250 mg 3 times daily. She breastfed her preterm infant about 50% milk and 50% formula. At 5 weeks postpartum, infant blood was collected 1 hour after receiving 40 mL of expressed breastmilk that had been collected 3 hours after a 250 mg maternal dose of metyrapone. The infant plasma concentrations of metyrapone and metyrapol were 0.05 mcg/L and 4 mcg/L, respectively. Comparable maternal serum values were 41.5 mcg/L and 338 mcg/L, respectively."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman was taking metyrapone 250 mg 3 times daily, as well as bisoprolol 10 mg and captopril 12.5 mg twice a day postpartum. She breastfed her preterm infant about 50% milk and 50% formula. At 5 weeks postpartum, infant blood was collected. ACTH was 160 ng/L, cortisol was 98 nmol/L, 11-deoxycortisol was 2 nmol/L, sodium was 133 mmol/L, and potassium was 4.8 mmol/L. All values were within normal limits and his pediatric team found his growth and development to be appropriate."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date. Women taking metyrapone chronically for suppression of hypercorticism associated with Cushing's syndrome may have other hormonal abnormalities that might interfere with lactation."
+  ]
+ ]
+}

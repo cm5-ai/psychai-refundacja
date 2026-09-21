@@ -1,0 +1,40 @@
+{
+ "id": "LM747",
+ "tytul": "Dobutamine",
+ "synonimy": [
+  "dobutamine",
+  "Dobutamina",
+  "Dobutaminum",
+  "racemic-Dobutamine",
+  "Dobutaminum [INN-Latin]",
+  "Compound 81929",
+  "Dobutamina [INN-Spanish]",
+  "34368-04-2",
+  "Dobutamine [USAN:USP:INN:BAN]",
+  "UNII-3S12J47372",
+  "LY 81929",
+  "3S12J47372",
+  "(+-)-4-(2-((3-(p-Hydroxyphenyl)-1-methylpropyl)amino)ethyl)pyrocatechol",
+  "1,2-Benzenediol, 4-(2-((3-(4-hydroxyphenyl)-1-methylpropyl)amino)ethyl)-, (+-)-"
+ ],
+ "zaktualizowano": "2021-04-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM747/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of dobutamine during breastfeeding. Because of its poor oral bioavailability and short half-life, any dobutamine in milk is unlikely to affect the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information in nursing mothers was not found as of the revision date. Unlike dopamine, dobutamine infusion does not affect serum prolactin concentration in infants and in adult males. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

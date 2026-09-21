@@ -1,0 +1,39 @@
+{
+ "id": "LM1149",
+ "tytul": "Florbetapir F 18",
+ "synonimy": [
+  "Florbetapir F-18",
+  "4-(2-(6-(2-(2-(2-Fluoroethoxy)ethoxy)ethoxy)pyridin-3-yl)vinyl)-N-methylbenzamide",
+  "Florbetapir (18F)",
+  "18F-AV-45",
+  "18F-AV45",
+  "18FAV45",
+  "Amyvid",
+  "AV-45 compound",
+  "Florbetapir F 18",
+  "Pet AV-45",
+  "UNII-6W15Z5R0RU",
+  "4-((1E)-2-(6-{2-(2-(2-(18F)fluoroethoxy)ethoxy)ethoxy}pyridin-3-yl)ethenyl)-N- methylbenzenamine",
+  "Benzenamine, 4-((1E)-2-(6-(2-(2-(2-(fluoro-18F)ethoxy)ethoxy)ethoxy)-3- pyridinyl)ethenyl)-N- methyl-"
+ ],
+ "zaktualizowano": "2020-08-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1149/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of florbetapir 18 as a diagnostic agent. No information is available on the use of florbetapir 18 during breastfeeding. The manufacturer recommends withholding breastfeeding for 24 hours after a diagnostic dose of 370 MBq (10 mCi). This length of time is greater than 10 half-lives of the radioisotope, so the nursing infant should not be exposed to radiation if this guideline is followed. The mother can nurse just before administration of the radiopharmaceutical. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "F18 is a positron emitter with a principal decay energy of 0.6335 MeV, annihilation photons of 0.511 MeV, and a physical half-life of 1.8 hours and 0.07% of an administered dose appears in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

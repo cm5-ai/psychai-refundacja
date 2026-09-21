@@ -1,0 +1,56 @@
+{
+ "id": "LM1085",
+ "tytul": "Flunitrazepam",
+ "synonimy": [
+  "flunitrazepam",
+  "Narcozep",
+  "Rohypnol",
+  "Roipnol",
+  "Primun",
+  "Flunitrazepamum",
+  "Fluninoc",
+  "flunipam",
+  "Silece",
+  "Flunitrazepamum [INN-Latin]",
+  "1622-62-4",
+  "CCRIS 5287",
+  "UNII-620X0222FQ",
+  "HSDB 6960",
+  "Ro 5-4200",
+  "DEA No. 2763",
+  "EINECS 216-597-8",
+  "RO54200",
+  "BRN 0702691",
+  "620X0222FQ",
+  "1-Methyl-7-nitro-5-(2-fluorophenyl)-3H-1,4-benzodiazepin-2(1H)-one",
+  "2H-1,4-Benzodiazepin-2-one, 5-(2-fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-",
+  "5-(o-Fluorophenyl)-1,3-dihydro-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one",
+  "5-24-04-00350 (Beilstein Handbook Reference)",
+  "1,3-Dihydro-5-(o-fluorophenyl)-1-methyl-7-nitro-2H-1,4-benzodiazepin-2-one",
+  "2h-1,4-benzodiazepin-2-one, 1,3-dihydro-5-(2-fluorophenyl)-1-methyl-7-nitro-"
+ ],
+ "zaktualizowano": "2024-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1085/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Flunitrazepam is not approved for marketing in the United States by the U.S. Food and Drug Administration. It is excreted into breastmilk and, because of its long half-life of about 20 hours, it may accumulate in the serum of breastfed infants with repeated doses. Other agents are preferred, especially while nursing a newborn or preterm infant. If flunitrazepam is used long-term, monitor the infant for sedation, poor feeding and poor weight gain. After a single dose of flunitrazepam, as for sedation before a procedure, there is usually no need to wait to resume breastfeeding, although with a newborn or preterm infant, a cautious approach would be to wait a period of 6 to 8 hours before resuming nursing."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Flunitrazepam is metabolized to the active metabolite norflunitrazepam.\nMaternal Levels. Five nursing mothers were given a single oral dose of flunitrazepam 2 mg (66 mcg/kg) at 8 pm. Milk samples were collected 11, 15 and 27 hours later. The average flunitrazepam concentrations in milk were 2 mcg/L at 11 hours after the dose, 1.7 mcg/L at 15 hours after the dose, and 0.6 mcg/L at 27 hours after the dose. Norflunitrazepam was not detectable (<0.2 mcg/L) in milk at any of these times. From these data, it is estimated that a fully breastfed infant would receive about 1% of the maternal weight-adjusted dosage.\nTwo women who were taking oral flunitrazepam donated milk samples between 3 and 6 days postpartum at 2 hours after a dose at the estimated peak serum concentration and just before a dose. One woman who was taking a dose of 1 mg daily had a 2-hour milk level of 2.48 mcg/L and a trough milk level of 0.524 mcg/L. The other woman was taking a dose of 2 mg daily. She had a 2-hour milk level of 4.09 mcg/L and a trough milk level of 1.48 mcg/L. Norflunitrazepam was not measured.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Lorazepam, Oxazepam, Temazepam"
+  ]
+ ]
+}

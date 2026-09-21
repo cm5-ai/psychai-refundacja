@@ -1,0 +1,43 @@
+{
+ "id": "LM1296",
+ "tytul": "Capecitabine",
+ "synonimy": [
+  "CAPECITABINE",
+  "Xeloda",
+  "Capiibine",
+  "154361-50-9",
+  "Caxeta",
+  "Xabine",
+  "UNII-6804DJ8Z9U",
+  "Ro 09-1978",
+  "HSDB 7656",
+  "6804DJ8Z9U",
+  "Capecitabine [USAN:USP:INN:BAN]",
+  "Ro 09-1978/000",
+  "N(4)-Pentyloxycarbonyl-5'-deoxy-5-fluorocytidine",
+  "5'-Deoxy-5-fluoro-N-((pentyloxy)carbonyl)cytidine",
+  "Cytidine, 5'-deoxy-5-fluoro-N-((pentyloxy)carbonyl)-",
+  "Pentyl 1-(5-deoxy-beta-D-ribofuranosyl)-5-fluoro-1,2-dihydro-2-oxo-4-pyrimidinecarbamate",
+  "Carbamic acid, (1-(5-deoxy-beta-D-ribofuranosyl)-5-fluoro-1,2-dihydro-2-oxo-4-pyrimidinyl)-, pentyl ester"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1296/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy. It might be possible to breastfeed safely during intermittent therapy with an appropriate period of breastfeeding abstinence. some have suggested a period of 24 hours before resuming nursing, although the manufacturer recommends an abstinence period of 2 weeks. Capecitabine is metabolized to fluorouracil. Limited information indicates that a maternal continuous intravenous fluorouracil infusion at a dose of 200 mg/square meter daily produces undetectable levels in milk. If capecitabine use is undertaken, monitoring of the infant's complete blood count and differential is advisable. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Capecitabine is a prodrug that is metabolized to fluorouracil.\nMaternal Levels. A mother who was 9 months postpartum was diagnosed with rectal cancer and began treatment with pelvic radiotherapy and a continuous intravenous infusion of fluorouracil 200 mg/square meter daily. Her plasma fluorouracil concentration was constant at about 110 micromoles/L (14.3 mg/L) from weeks 2 to 5 of therapy. She discontinued nursing her infant and pumped her breasts twice daily and collected 36 breastmilk samples before, during and for 10 days following fluorouracil therapy (exact times not specified). Fluorouracil was undetectable (<0.5 micromole/L [<65 mcg/L]) in all of the milk samples.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

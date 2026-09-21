@@ -1,0 +1,47 @@
+{
+ "id": "LM802",
+ "tytul": "Sulfadoxine and Pyrimethamine",
+ "synonimy": [
+  "Fansidar",
+  "Suldox",
+  "Pyrimethamine-sulfadoxine",
+  "sulphadoxine-pyrimethamine",
+  "Sulphadoxyne-pyrimethamine",
+  "sulfadoxine / pyrimethamine",
+  "Pyrimethamine / sulfadoxine",
+  "Sulphadoxine / pyrimethamine",
+  "Pyrimethamine-sulfadoxine mixt.",
+  "Sulfadoxine-pyrimethamine mixt.",
+  "Sulfadoxine and pyrimethamine",
+  "Pyrimethamine mixture with sulfadoxine",
+  "Sulfadoxine mixture with pyrimethamine",
+  "Pyrimethamine combination with sulfadoxine",
+  "fanasil, pyrimethamine drug combination",
+  "37338-39-9",
+  "Benzenesulfonamide, 4-amino-N-(5,6-dimethoxy-4-pyrimidinyl)-, mixt. with 5-(4-chlorophenyl)-6-ethyl-2,4-pyrimidinediamine"
+ ],
+ "zaktualizowano": "2021-05-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM802/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is little published experience with sulfadoxine during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. The manufacturer states that the combination of sulfadoxine-pyrimethamine is contraindicated for prophylaxis during nursing and in children under 2 months of age. However, some authors have found no contraindication to the use of sulfadoxine-pyrimethamine during breastfeeding. It has been suggested that maternal pyrimethamine clearance might be increased during lactation, but data are insufficient to make a definitive conclusion.\nSulfadoxine-pyrimethamine prophylaxis of the mother should be discontinued at the first appearance in the infant of jaundice, skin rash, if a significant reduction in the count of any formed blood elements is noted, or upon the occurrence of active bacterial or fungal infections."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information on sulfadoxine was not found as of the revision date.\nPyrimethamine milk levels have been reported to range from 0.2 to 0.26 mcg/L at 6 hours after doses of 25, 50 or 75 mg in 6 women. Milk levels ranged from 0.125 to 0.155 mcg/L 24 hours after the dose and 0.095 to 0.0105 mcg/L at 48 hours.\nThree women were given a single dose of pyrimethamine 12.5 mg orally 2 to 5 days postpartum. Milk samples were obtained periodically for about 9 days after the dose. Assuming a daily intake of 1 L of milk, the infants would receive 0.14, 0.21 and 0.34 mg in milk over the study period. These values equate to an average of 46% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Administration of pyrimethamine to mothers of 26 predominantly breastfed infants 2 to 6 months old who were infected with malaria was curative in the infants. The regimen consisted of 75 mg followed by a subsequent dose of 50-75 mg 4 to 7 days later. The efficacy apparently is related to breastfeeding habits, because infants in another tribal group who breastfed their infants less extensively were not protected. An additional case report indicates that a maternal dose of 75 mg orally followed by 25 mg weekly cured malaria in her infant and protected her breastfed infant against becoming infected with malaria for 6 months. No adverse effects were reported in any of the infants.\nA study of women with HIV infection being treated for presumptive malaria included 12 nursing mothers who were taking the sulfadoxine-pyrimethamine combination. The drug combination appeared to reduce breastmilk viral load less than chloroquine treatment. No mention was made of the effects in breastfed infants.\nA cohort of 33 infants who were breastfed (extent not stated) by hospitalized mothers taking nifurtimox was followed in the Democratic Republic of the Congo. Thirty mothers took a full course of 30 doses of oral nifurtimox 15 mg/kg daily and all received 14 doses of intravenous eflornithine 400 mg/kg daily for 7 days for human African trypanosomiasis. (sleeping sickness). Eight mothers also took sulfadoxine-pyrimethamine. No serious adverse events were reported in any of the breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Chloroquine, Mefloquine"
+  ]
+ ]
+}

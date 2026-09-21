@@ -1,0 +1,39 @@
+{
+ "id": "LM1358",
+ "tytul": "Benralizumab",
+ "synonimy": [
+  "Benralizumab",
+  "Fasenra",
+  "UNII-71492GE1FX",
+  "MEDI 563",
+  "MEDI-563",
+  "71492GE1FX",
+  "BIW 8405",
+  "Immunoglobulin G1, anti-(human interleukin 5 receptor <SYM97>-chain)(human-mouse monoclonal MEDI-563 heavy chain), disulfide with human-mouse monoclonal MEDI-563 <SYM107>-chain, dimer",
+  "Immunoglobulin G1-kappa, anti-(homo sapiens il5ra (interleukin 5receptor subunit alpha, cd125)), humanized monoclonalantibody"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1358/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of benralizumab during breastfeeding. Because benralizumab is a large protein molecule with a molecular weight of about 150,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. A task force respiratory experts from Europe, Australia and New Zealand found that benralizumab is possibly acceptable during breastfeeding and an international consensus panel concluded that if the patient is in agreement, and the risks and benefits have been discussed, asthma biologics can be initiated or continued while breastfeeding. Until more data become available, benralizumab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Asthma) Omalizumab, Mepolizumab"
+  ]
+ ]
+}

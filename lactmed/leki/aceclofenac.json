@@ -1,0 +1,44 @@
+{
+ "id": "aceclofenac",
+ "tytul": "Aceclofenac",
+ "synonimy": [
+  "Aceclofenac",
+  "Aceclofenaco",
+  "Aceclofenacum",
+  "Hifenac",
+  "Cincofen",
+  "Clanza",
+  "Preservex",
+  "CHEBI:31159",
+  "UNII-RPK779R03H",
+  "BRN 4884476",
+  "DTXSID7045522",
+  "PR-82/3",
+  "DTXCID5025522",
+  "2-[2-[2-(2,6-dichloroanilino)phenyl]acetyl]oxyacetic acid"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/aceclofenac/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Aceclofenac is not approved for marketing in the United States by the U.S. Food and Drug Administration but is available in other countries. No information is available on the use of aceclofenac during breastfeeding. Because it is over 99% protein bound, the amounts in milk are likely to be very low. If a mother requires aceclofenac, it is not a reason to discontinue breastfeeding; however, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Celecoxib, Diclofenac, Flurbiprofen, Ibuprofen, Indomethacin, Naproxen, Piroxicam"
+  ]
+ ]
+}

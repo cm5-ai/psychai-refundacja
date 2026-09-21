@@ -1,0 +1,40 @@
+{
+ "id": "LM1155",
+ "tytul": "Efinaconazole",
+ "synonimy": [
+  "EFINACONAZOLE",
+  "JUBLIA",
+  "UNII-J82SB7FXWB",
+  "164650-44-6",
+  "KP-103",
+  "J82SB7FXWB",
+  "Efinaconazole [USAN:INN]",
+  "HSDB 8341",
+  "(2R,3R)-2-(2,4-Difluorofenil)-3-(4-metilenopiperidin-1-il)-1-(1H-1,2,4-triazin-1-il)butan-2-ol",
+  "1-Piperidineethanol, alpha-(2,4-difluorophenyl)-beta-methyl-4-methylene-alpha-(1H-1,2,4-triazol-1- ylmethyl)-, (alphaR,betaR)-"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1155/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Topical efinaconazole has not been studied during breastfeeding. Because maternal blood levels are very low after topical application to the toenails, it is unlikely that a measurable amount of the drug will enter the breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ciclopirox, Tavaborole, Terbinafine"
+  ]
+ ]
+}

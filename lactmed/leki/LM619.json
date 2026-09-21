@@ -1,0 +1,77 @@
+{
+ "id": "LM619",
+ "tytul": "Acenocoumarol",
+ "synonimy": [
+  "ACENOCOUMAROL",
+  "Acenocoumarin",
+  "Nicoumalone",
+  "Nitrovarfarian",
+  "Nitrowarfarin",
+  "Nicumalon",
+  "Sinthrome",
+  "Sintrom",
+  "Acenocumarol",
+  "Syncoumar",
+  "Sinkumar",
+  "Syncumar",
+  "Acenocoumarolum",
+  "Sincoumar",
+  "Sinthrom",
+  "Ascumar",
+  "Syntrom",
+  "Zotil",
+  "Acenokumarin",
+  "Neositron",
+  "Sintroma",
+  "Acenocumarolo",
+  "Acenocumarolum",
+  "Trombostop",
+  "Acitrom",
+  "Acenokumarin [Czech]",
+  "Acenocumarolo [DCIT]",
+  "Acenocoumarolum [INN-Latin]",
+  "152-72-7",
+  "Nitrophenylacetylethyl-4-hydroxycoumarine",
+  "UNII-I6WP63U32H",
+  "Acenocoumarol [INN:BAN:NF]",
+  "HSDB 3201",
+  "EINECS 205-807-3",
+  "I6WP63U32H",
+  "G-23350",
+  "3-(alpha-Acetonyl-4-nitrobenzyl)-4-hydroxycoumarin",
+  "G 23350",
+  "3-(alpha-Acetonyl-p-nitrobenzyl)-4-hydroxycoumarin",
+  "G-23,350",
+  "G23350",
+  "3-(alpha-p-Nitrophenyl-beta-acetylethyl)-4-hydroxycoumarin",
+  "3-(alpha-(p-Nitrophenol)-beta-acetylethyl)-4-hydroxycoumarin",
+  "4-Hydroxy-3-(1-(4-nitrophenyl)-3-oxobutyl)-2H-1-benzopyran-2-one",
+  "3-(alpha-(4'-Nitrophenyl)-beta-acetylethyl)-4-hydroxycoumarin",
+  "2H-1-Benzopyran-2-one, 4-hydroxy-3-(1-(4-nitrophenyl)-3-oxobutyl)-",
+  "Coumarin, 3-(alpha-acetonyl-p-nitrobenzyl)-4-hydroxy-"
+ ],
+ "zaktualizowano": "2020-11-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM619/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Acenocoumarol is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in Canada and other countries. Because of the low levels of acenocoumarol in breastmilk, amounts ingested by the infant are small. No changes in coagulation measurements or adverse reactions in breastfed infants have been reported from maternal acenocoumarol use during lactation. There is a consensus that maternal acenocoumarol therapy during breastfeeding poses little risk to the breastfed infant. No special precautions are necessary."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twenty women were anticoagulated with oral acenocoumarol starting on the first day postpartum with 4 mg, followed by 2 mg daily for 2 days, then adjusted individually based on prothrombin time. After at least 5 days of therapy, milk samples were obtained before and at 1, 4, 7, and 10 hours after the dose. No breastmilk sample had acenocoumarol detected by HPLC assay (lower limit not stated).\nSixteen patients who required anticoagulation immediately postpartum were given acenocoumarol in a dosage according to their clinical need. Two had their dosage titrated to an international normalized ratio (INR) between 1.5 and 1.9, nine were titrated to an INR between 2.0 and 2.5, and 4 were titrated to an INR between 2.6 and 3.5. Milk samples were analyzed for acenocoumarol on days 5, 15, 30 and 45 postpartum. On days 5 and 15 postpartum, acenocoumarol was detectable in only 4 patients at a concentration of 10 mcg/L. On days 30 and 45 postpartum, the average acenocoumarol concentrations in milk from all mothers were 11 and 12 mcg/L, respectively. On these latter days, the average dosage that an exclusively breastfed infant would receive would be about 1.6 and 1.8 mcg/kg daily, respectively, which is far below anticoagulant doses reported in the literature for infants.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Nineteen infants were breastfed (extent not stated) while their mothers were anticoagulated with acenocoumarol immediately postpartum. Despite not receiving prophylactic vitamin K at birth, none of the infants had abnormal blood clotting as measured by the Thrombotest after at least 5 days of maternal therapy.\nSeven infants were exclusively breastfed by mothers who were receiving long-term anticoagulation with acenocoumarol for thromboprophylaxis following heart valve replacement. All women were therapeutically anticoagulated and receiving an average of 21 mg of acenocoumarol per week (range 12 to 45 mg per week). Each infant received 1 mg of vitamin K prophylactically at birth and had their prothrombin time measured after at least 7 days of breastfeeding. The prothrombin times of the infants was not different from those of a control group of 42 breastfed infants whose mothers were not anticoagulated. No instances of bleeding were reported."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   ", Dalteparin, Enoxaparin, Heparin, Rivaroxaban, Warfarin"
+  ]
+ ]
+}

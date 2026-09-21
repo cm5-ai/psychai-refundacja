@@ -1,0 +1,63 @@
+{
+ "id": "LM361",
+ "tytul": "Ketoconazole",
+ "synonimy": [
+  "ketoconazole",
+  "Nizoral",
+  "Panfungol",
+  "Ketoderm",
+  "Fungarest",
+  "Ketoisdin",
+  "Fungoral",
+  "Ketoconazol",
+  "Orifungal M",
+  "Extina",
+  "Ketozole",
+  "Xolegel",
+  "Ketoconazolum",
+  "Brizoral",
+  "Kuric",
+  "Nizoral a-D",
+  "Onofin K",
+  "Ketoconazol [INN-Spanish]",
+  "Ketoconazolum [INN-Latin]",
+  "Levoketoconazole",
+  "142128-57-2",
+  "Recorlev",
+  "UNII-R9400W927I",
+  "HSDB 7447",
+  "EINECS 265-667-4",
+  "NSC 317629",
+  "KW-1414",
+  "BRN 4303081",
+  "R9400W927I",
+  "R 41400",
+  "R 41,400",
+  "(+-)-cis-1-Acetyl-4-(p-((2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl)methoxy)phenyl)piperazine",
+  "Piperazine, 1-acetyl-4-(4-((2-(2,4-dichlorophenyl)-2-(1H-imidazol-1-ylmethyl)-1,3-dioxolan-4-yl)methoxy)phenyl)-, cis-"
+ ],
+ "zaktualizowano": "2023-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM361/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is little published experience with ketoconazole or levoketoconazole during breastfeeding and its potential liver enzyme inhibition and liver toxicity, other agents are preferred. The manufacturers recommend that mothers taking ketoconazole or levoketoconazole avoid breastfeeding during treatment and for 1 day after the last dose.\nUse of ketoconazole shampoo or topical use on the skin by the mother poses little to no risk to the breastfed infant. However, topical use on the breast or nipples should be avoided in nursing mothers because of possible oral ingestion by the infant and the availability of safer alternatives. Only water-miscible cream or gel products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A mother who was 1 month postpartum took ketoconazole 200 mg orally for 10 days. A peak ketoconazole milk level of 220 mcg/L occurred 3.25 hours after the dose and the average milk level was 68 mcg/L. The authors calculated that an exclusively breastfed infant would ingest an average of 0.01 mg/kg daily or about 0.4% of the maternal weight-adjusted dosage and a maximum of 0.033 mg/kg daily or about 1.4% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother taking ketoconazole 200 mg orally for 10 days noticed no adverse effects in her breastfed 1-month-old infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Clotrimazole, Fluconazole, Miconazole, Nystatin"
+  ]
+ ]
+}

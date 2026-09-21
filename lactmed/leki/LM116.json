@@ -1,0 +1,68 @@
+{
+ "id": "LM116",
+ "tytul": "Fluphenazine",
+ "synonimy": [
+  "FLUPHENAZINE",
+  "Triflumethazine",
+  "Fluorophenazine",
+  "Fluorphenazine",
+  "Fluorfenazine",
+  "Siqualon",
+  "Elinol",
+  "Phthorphenazine",
+  "Ftorphenazine",
+  "Siqualine",
+  "Vespazine",
+  "Pacinol",
+  "Sevinol",
+  "Fluphenazinum",
+  "Flufenazina",
+  "Valamina",
+  "Dapotum",
+  "Flufenazina [DCIT]",
+  "Moditen",
+  "Fluphenazinum [INN-Latin]",
+  "SQ 4918",
+  "UNII-S79426A41Z",
+  "HSDB 3334",
+  "EINECS 200-702-9",
+  "NSC 62323",
+  "S79426A41Z",
+  "10-(3-(2-Hydroxyethyl)piperazinopropyl)-2-(trifluoromethyl)phenothiazine",
+  "4-(3-(2-Trifluoromethyl-10-phenothiazyl)-propyl)-1-piperazineethanol",
+  "4-(3-(-Trifluoromethyl-10-phenothiazyl)-propyl)-1-piperazineethanol",
+  "1-(2-Hydroxyethyl)-4-(3-(trifluoromethyl-10-phenothiazinyl)propyl)-piperazine",
+  "1-Piperazineethanol, 4-(3-(2-(trifluoromethyl)-10H-phenothiazin-10-yl)propyl)-",
+  "4-(3-(2-(Trifluoromethyl)-10H-phenothiazin-10-yl)propyl)-1-piperazineethanol",
+  "S94",
+  "10-(3'-(4''-(beta-Hydroxyethyl)-1''-piperazinyl)-propyl)-3-trifluoromethylphenothiazine",
+  "2-(Trifluoromethyl)-10-(3-(1-(beta-hydroxyethyl)-4-pipe razinyl)propyl)phenothiazine",
+  "Phenothiazine, 10-(3-(4-(2-hydroxyethyl)-1-piperazinyl)propyl)-2-(trifluoromethyl)-",
+  "1-Piperazineethanol, 4-(3-(2-(trifluoromethyl)phenothiazin-10-yl)propyl)-",
+  "1-Piperazineethanol, 4-(3-(2-(trifluoromethyl)-10H-phenothiazin-10-yl)propyl)- (9CI)"
+ ],
+ "zaktualizowano": "2023-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM116/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "There is no published experience with fluphenazine during breastfeeding. Very limited long-term follow-up data indicate no adverse developmental effects when other phenothiazines are used alone. Because of the lack of published experience with fluphenazine during breastfeeding, other antipsychotic agents may be preferred, especially while nursing a newborn or preterm infant. Monitor the infant for drowsiness and developmental milestones, especially if other antipsychotics are used concurrently."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Like other phenothiazines, fluphenazine elevates serum prolactin and has caused galactorrhea. The elevation is related to serum levels and lasts 2 to 4 weeks with the depot injectable formulation. The maternal prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

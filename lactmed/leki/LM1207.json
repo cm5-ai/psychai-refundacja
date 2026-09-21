@@ -1,0 +1,46 @@
+{
+ "id": "LM1207",
+ "tytul": "Peramivir",
+ "synonimy": [
+  "Peramivir",
+  "Rapiacta",
+  "RAPIVAB",
+  "BCX-1812",
+  "330600-85-6",
+  "UNII-9ZS94HQO3B",
+  "Peramivir [USAN:INN]",
+  "RWJ-270201",
+  "9ZS94HQO3B",
+  "BCX1812",
+  "BCX 1812",
+  "RWJ270201",
+  "RWJ 270201",
+  "3-(1'-acetylamino-2'-ethyl)butyl-4-((aminoimino)methyl)amino-2-hydroxycyclopentane-1-carboxylic acid",
+  "(1s,2s,3r,4r)-3-((1s)-1-acetylamino-2-ethylbutyl))-4-((aminoiminomethyl)amino)-2-hydroxycyclopentane",
+  "Cyclopentanecarboxylic acid, 3-((1S)-1-(acetylamino)-2-ethylbutyl)-4-((aminoiminomethyl)amino)-2-hydroxy-, (1S,2S,3R,4R)-"
+ ],
+ "zaktualizowano": "2019-02-07",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1207/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because peramivir is poorly absorbed orally, it is not likely to reach the bloodstream of the infant in clinically important amounts. However, because no information is available on the use of peramivir breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Oseltamivir, Zanamivir"
+  ]
+ ]
+}

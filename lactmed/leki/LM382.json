@@ -1,0 +1,50 @@
+{
+ "id": "LM382",
+ "tytul": "Propoxyphene",
+ "synonimy": [
+  "propoxyphene",
+  "Dextropropoxyphene",
+  "d-Propoxyphene",
+  "Dextropropoxyphen",
+  "Dextroproxifeno",
+  "Proxagesic",
+  "Antalvic",
+  "Algafan",
+  "Femadol",
+  "Destropropossifene",
+  "Dextropropoxifeno",
+  "Dextropropoxyphenum",
+  "Proxyvon",
+  "Destropropossifene [DCIT]",
+  "UNII-S2F83W92TK",
+  "SK 65",
+  "HSDB 3175",
+  "DEA No. 9273",
+  "EINECS 207-420-5",
+  "[(2S,3R)-4-(dimethylamino)-3-methyl-1,2-diphenylbutan-2-yl] propanoate"
+ ],
+ "zaktualizowano": "2026-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM382/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Maternal use of oral opioids during breastfeeding can cause infant drowsiness, which may progress to rare but severe central nervous system depression. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped. Newborn infants seem to be particularly sensitive to the effects of even small dosages of propoxyphene may be particularly prone to causing these effects. Propoxyphene should be avoided during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Propoxyphene is metabolized to active norpropoxyphene (25%) and to several inactive metabolites. Norpropoxyphene has a 30 to 36 hour half-life. The oral bioavailability of norpropoxyphene is unknown. Propoxyphene is available in 2 salt forms: 65 mg of the hydrochloride form is equivalent to 100 mg of the napsylate.\nMaternal Levels. Six breastfeeding mothers, 5 in the first few days postcesarean section and 1 at 10 months postpartum were given oral propoxyphene hydrochloride 130 mg once then 65 mg every 4 hours for 16 hours for a cumulative dose of 390 mg. Breastmilk propoxyphene was measured at 1, 3, 5, 7, and 9 hours after the last dose. Propoxyphene peak levels occurred at 3 hours while norpropoxyphene levels remained fairly constant. An average propoxyphene and norpropoxyphene milk level over the 8-hour collection period was calculated for each patient and varied substantially among patients (range 24 to 210 mcg/L for propoxyphene and 54 to 606 mcg/L for norpropoxyphene). Norpropoxyphene had a longer maternal plasma half-life and thus accumulated in breastmilk more than propoxyphene. Greater breastmilk production was associated with higher milk levels of both propoxyphene and norpropoxyphene. Using the highest average milk propoxyphene level in this study, an exclusively breastfed infant would receive 32 mcg/kg daily of propoxyphene and 91 mcg/kg daily of norpropoxyphene, equivalent to about 2% of the maternal weight-adjusted dosage.\nInfant Levels. An infant's mother had been prescribed 6 capsules daily of propoxyphene 30 mg plus acetaminophen 500 mg for the first 10 days postpartum. The infant showed signs of toxicity, so on day 13, an infant hair sample was obtained. It contained propoxyphene 330 pg/mg and norpropoxyphene 430 pg/mg. The authors estimated that these values corresponded to serum concentrations of 42 mcg/L of propoxyphene and 462 mcg/L or norpropoxyphene."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a case-control study of 12 breastfed term newborns with unexplained episodes of apnea, bradycardia or cyanosis during the first week of life, maternal oral propoxyphene use was determined to be the probable cause. A higher proportion of newborns with episodes, 83 compared to 31%, had mothers using opiates, including propoxyphene, for postpartum analgesia. The mean number of doses taken was also higher with mothers of affected newborns taking a mean of 10 doses (range 4 to 22) compared to 5 doses (range 1 to 13) in the control group.\nA fullterm breastfed infant had mild hypotonia and nursing poorly at 10 days of age; the infant had not regained her birth weight by this time. Seven days later, the mother had less milk and stopped nursing. The infant's mother had been prescribed 6 capsules daily of propoxyphene 30 mg plus acetaminophen 500 mg for the first 10 days postpartum. Hair samples from the infant were positive for propoxyphene and norpropoxyphene and were higher than the mother's hair sample concentrations. Propoxyphene was probably the cause of the adverse reactions in the infant.\nAll adverse reactions in breastfed infants reported in France between January 1985 and June 2011 were compiled by a French pharmacovigilance center. Of 174 reports, propoxyphene was reported to cause adverse reactions in 11 infants and to be one of the drugs most often suspected in serious adverse reactions. Reactions included hypotonia, apnea, respiratory distress, bradycardia, constipation and weight loss."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Narcotics can increase serum prolactin. However, the prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Butorphanol, Hydromorphone, Ibuprofen, Morphine"
+  ]
+ ]
+}

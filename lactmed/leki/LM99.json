@@ -1,0 +1,45 @@
+{
+ "id": "LM99",
+ "tytul": "Doxorubicin",
+ "synonimy": [
+  "doxorubicin",
+  "Adriamycin",
+  "Doxil",
+  "Adriblastina",
+  "Adriablastin",
+  "Adriblastin",
+  "Doxorubicine",
+  "Doxorubicinum",
+  "Doxorubicina",
+  "Caelyx",
+  "CCRIS 739",
+  "FI 106",
+  "HSDB 3070",
+  "NCI-C01514",
+  "UNII-80168379AG",
+  "EINECS 245-495-6",
+  "NSC 123127",
+  "NDC 38242-874",
+  "(7S,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione"
+ ],
+ "zaktualizowano": "2025-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM99/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy, especially anthracyclines such as doxorubicin. It might be possible to breastfeed safely during intermittent therapy with an appropriate period of breastfeeding abstinence; however, the high levels and persistence of the active metabolite doxorubicinol in milk make defining an appropriate abstinence interval difficult. Some have suggested a breastfeeding abstinence period of 5 to 10 days after a dose. More recent pharmacokinetic modeling using a worst-case scenario suggests that 13 days would be required to minimize both systemic and gut toxicity after the colostral phase.\nChemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Doxorubicin, doxorubicinol and two other metabolites were detected in milk after administration of 70 mg/sq. m. (90 mg) of doxorubicin intravenously. Peak milk levels of 128 mcg/L of doxorubicin and 111 mcg/L of its active metabolite doxorubicinol occurred 24 hours after the dose. Both drugs were detectable in milk for at least 72 hours after the dose. Other metabolites were also detected in milk at lower levels. Using these data, the breastfed infant in this case would have received an estimated 2% of maternal weight-adjusted dosage if he had been allowed to nurse throughout the 72 hours after the dose.\nA woman was diagnosed with B-cell non-Hodgkins lymphoma at 4 months postpartum. She received R-CHOP therapy every 21 days for 6 cycles. It consisted of rituximab 375 mg/sq. m, cyclophosphamide 750 mg/sq. m., doxorubicin 50 mg/sq. m., vincristine 1.4 mg/sq. m. (capped at 2 mg) plus prednisone 40 mg/sq. m. daily. She also received oral 300 mg of allopurinol daily during the whole therapy course. Milk samples were collected twice daily during the first 3 cycles then once daily for the remaining cycles for a total of 290 samples. Doxorubicin was detectable in milk shortly after administration, with the peak milk level of about 300 mcg/L occurring in the first few hours after the first dose. After doses 2 and 3, peak milk levels were about 105 mcg/L. Doxorubicin concentrations fell slowly and were still detectable on day 21 at about 5 mcg/L. Peak levels of the active metabolite, doxorubicinol occurred on about day 2 to 3 after the dose and were about 700 mcg/L after the first dose and about 200 mcg/L after the second and third doses. Doxorubicinol concentrations fell slowly and were still detectable on day 21 at about 20 to 40 mcg/L. The authors suggested a 6-week time period from the last dose of a regimen until breastfeeding is resumed.\nA woman with breast cancer diagnosed during pregnancy received chemotherapy beginning a few days after delivery. It consisted of doxorubicin 118 mg and cyclophosphamide 1180 mg every 2 weeks for 4 cycles, followed by paclitaxel 156 mg weekly and carboplatin 900 mg every 4 weeks. She collected 97 milk samples. A second patient was diagnosed with breast cancer 6.5 months postpartum. Her treatment consisted of doxorubicin 130 mg and cyclophosphamide 1300 mg every 2 weeks for 4 cycles, followed by paclitaxel weekly and carboplatin every 4 weeks. She collected 15 milk samples. A selection of 30 samples from the two patients were analyzed for doxorubicin after their first cycles of therapy. Peak milk levels after the first round of chemotherapy were about 295 mcg/L in the first patient and about 240 mcg/L in the second. Levels decreased to less than 20 mcg/L by about 4 days after the dose and to unmeasurable levels (<1 mcg/L) by day 8 after the dose. The authors calculated the time for the milk concentration to reach a relative infant dosage (RID) level below 1% to be 3 days; however, the longer-acting active metabolite, doxorubicinol, was not measured in milk. A further pharmacokinetic analysis of all breastmilk samples found that doxorubicin levels in milk decrease slowly and that milk should be discarded for 3 to 6 days after each dose in a cycle to achieve a cumulative relative infant dosage of <1% of doxorubicin. However, this estimate did not include the presence of active metabolite(s) in milk, so this time represents the minimum time to withhold breastfeeding.\nThe same authors developed a physiologically based pharmacokinetic model for doxorubicin. Assuming the worst-case scenario, the model predicted reductions of infant peripheral blood exposure of 60%, 72%, and 79% when milk was discarded for 1, 2, or 3 days after the maternal dose, respectively. In addition, the model predicted that it would take 13 days for the gut concentration to fall below the IC50 for cell death. However, these values apply only to mature milk and not necessarily to colostrum.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman was diagnosed with B-cell lymphoma at 27 weeks of pregnancy. Labor was induced at 34 4/7 weeks and treatment was begun with a standard regimen of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone in unspecified doses on a 21-day cycle, starting on day 2 postpartum. She pumped and discarded her milk and fed her infant donor milk for the first 10 days of each cycle and then breastfed her infant for the remaining 10 days before the next treatment cycle. The 10-day period of breastfeeding abstinence was determined by using about 3 half-lives of vincristine. After completion of 4 cycles of chemotherapy, her infant was reportedly healthy and developing without any complications."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A study of adolescent males who had received chemotherapy for childhood malignancies found that having received doxorubicin was associated with elevated serum prolactin concentrations.\nA woman diagnosed with Hodgkin's lymphoma during the second trimester of pregnancy received 3 rounds of chemotherapy during the third trimester of pregnancy and resumed chemotherapy 4 weeks postpartum. Milk samples were collected 15 to 30 minutes before and after chemotherapy for 16 weeks after restarting. The regimen consisted of doxorubicin 40 mg, bleomycin 16 units, vinblastine 9.6 mg and dacarbazine 600 mg, all given over a 2-hour period every 2 weeks. The microbial population and metabolic profile of her milk were compared to those of 8 healthy women who were not receiving chemotherapy. The breastmilk microbial population in the patient was markedly different from that of the healthy women, with increases in Acinetobacter sp., Xanthomonadacae and Stenotrophomonas sp. and decreases in Bifidobacterium sp. and Eubacterium sp. Marked differences were also found among numerous chemical components in the breastmilk of the treated woman, most notably DHA and inositol were decreased.\nA telephone follow-up study was conducted on 74 women who received cancer chemotherapy at one center during the second or third trimester of pregnancy to determine if they were successful at breastfeeding postpartum. Only 34% of the women were able to exclusively breastfeed their infants, and 66% of the women reported experiencing breastfeeding difficulties. This was in comparison to a 91% breastfeeding success rate in 22 other mothers diagnosed during pregnancy, but not treated with chemotherapy. Other statistically significant correlations included: 1. mothers with breastfeeding difficulties had an average of 5.5 cycles of chemotherapy compared with 3.8 cycles among mothers who had no difficulties; and 2. mothers with breastfeeding difficulties received their first cycle of chemotherapy on average 3.4 weeks earlier in pregnancy. Of the 62 women who received a doxorubicin-containing regimen, 39 had breastfeeding difficulties."
+  ]
+ ]
+}

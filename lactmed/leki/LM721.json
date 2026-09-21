@@ -1,0 +1,46 @@
+{
+ "id": "LM721",
+ "tytul": "Risedronate",
+ "synonimy": [
+  "Risedronate",
+  "Risedronic acid",
+  "Acido risedronico",
+  "Acidum risedronicum",
+  "105462-24-6",
+  "Acide risedronique",
+  "Risedronic acid [INN:BAN]",
+  "UNII-KM2Z91756Z",
+  "Acide risedronique [INN-French]",
+  "Acido risedronico [INN-Spanish]",
+  "Acidum risedronicum [INN-Latin]",
+  "HSDB 7326",
+  "KM2Z91756Z",
+  "NE 58019",
+  "(1-Hydroxy-2-(3-pyridyl)ethylidene)diphosphonic acid",
+  "Phosphonic acid, (1-hydroxy-2-(3-pyridinyl)ethylidene)bis-"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM721/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because no information is available on the use of risedronate during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. However, absorption of risedronate by a breastfed infant is unlikely."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Risedronate has a serum half-life of about 1.5 hours and is poorly absorbed orally (average in adults 0.6% on an empty stomach, 0.3% with food), so absorption of risedronate by a breastfed infant is unlikely.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Pamidronate"
+  ]
+ ]
+}

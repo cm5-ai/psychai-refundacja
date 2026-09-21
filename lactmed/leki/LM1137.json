@@ -1,0 +1,42 @@
+{
+ "id": "LM1137",
+ "tytul": "Sodium Phosphate P 32",
+ "synonimy": [
+  "Phosphotope",
+  "Sodium phosphate P 32",
+  "Sodium phosphate 32P",
+  "Sodium phosphate (32P)",
+  "Sodium Phosphate, P-32",
+  "UNII-O181101B5G",
+  "Sodium phosphate (32P) [INN]",
+  "Disodium hydrogen phosphate (32P)",
+  "O181101B5G",
+  "Sodium hydrogen phosphate (P-32)",
+  "Dibasic sodium phosphate-(sup 32)P",
+  "Phosphoric-32P acid, disodium salt",
+  "Sodium phosphate P 32 [USAN:USP]",
+  "Phosphoric-(sup 32)P acid, disodium salt",
+  "Disodium hydrogen phosphate labeled with 32P",
+  "7635-46-3"
+ ],
+ "zaktualizowano": "2020-08-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1137/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of sodium phosphate P 32 as a therapeutic agent. No information is available on the use of sodium phosphate P 32 during breastfeeding. The European Association of Nuclear Medicine recommends using other modalities to treat polycythemia vera and essential thrombocytopenia in patients under 60 to 65 years of age and states that the drug is contraindicated in nursing mothers. If a nursing mother is given sodium phosphate P 32 systemically, breastfeeding should be discontinued permanently for this child."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Phosphorus P 32 decays by beta emission with an energy of 1.709 MeV and a half-life of 14.3 days. Radioactivity declines with an effective half-life of 11 days after injection of sodium phosphate P 32.\nMaternal Levels. A mother was given 37 MBq of phosphorus P 32 intravenously for diagnosis of a malignant tumor in the eye. Two breastmilk samples were collected, one a few hours after the injection and another on the following day. The first milk sample contained 0.005% of the injected radioactivity per liter and the second day's milk contained 0.016% of the injected radioactivity per liter.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

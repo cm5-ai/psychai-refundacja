@@ -1,0 +1,41 @@
+{
+ "id": "LM1055",
+ "tytul": "Sildenafil",
+ "synonimy": [
+  "sildenafil",
+  "Revatio",
+  "Viagra",
+  "Vizarsin",
+  "Liqrev",
+  "UNII-3M7OB98Y7H",
+  "HSDB 7305",
+  "3M7OB98Y7H",
+  "UK-92,480-10",
+  "UK 92480-10",
+  "5-[2-ethoxy-5-(4-methylpiperazin-1-yl)sulfonylphenyl]-1-methyl-3-propyl-6H-pyrazolo[4,3-d]pyrimidin-7-one"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1055/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that sildenafil and its active metabolite in breastmilk are poorly excreted into breastmilk. Amounts ingested by the infant are far below doses given to treat infants and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Sildenafil is metabolized by CYP3A4 and 2C9 to the active metabolite, desmethylsildenafil, which has about one-half the potency of sildenafil.\nMaternal Levels. A breastfeeding woman receiving sildenafil 20 mg for pulmonary hypertension. Breastmilk samples were taken 8 hours after a dose, followed by another dose 11 hours after the first. Then further milk samples were obtained about 3.5 and 6 hours after the second dose. The highest sildenafil and desmethylsildenafil milk levels of 4.49 mcg/L and 1.82 mcg/L, respectively, were in the second sample. Concentrations of sildenafil at the first and last samples were 1.64 and 1.67 mcg/L. Concentrations of desmethylsildenafil at the first and last sampling times were 1.18 and 1.73 mcg/L.\nA woman breastfeeding her 21-month-old infant was taking 20 mg of sildenafil 3 times daily and 125 mg of bosentan twice daily to treat pulmonary arterial hypertension. She pumped three milk samples collected at home over 24 hours on days 637 and 651 postpartum. Milk sildenafil concentrations ranged from 1.43 mcg/L at the time of the first morning dose to 5.65 mcg/L at 4 hours after a dose; desmethylsildenafil was not measured. The average steady-state milk concentration of sildenafil was 2.8 mcg/L. The patient’s infant was breastfed 3 times daily. The estimated infant doses via milk on the two days were 0.02 and 0.03 mcg/kg in this partially breastfed infant. A fully breastfed infant might receive a dosage as high as 0.43 mcg/kg daily, which translates into a relative infant dose of 0.06%. This dosage would also be far below the infant therapeutic dosage of 1.5 mg/kg.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A 23-year-old woman with congenital heart disease and pulmonary hypertension was treated during pregnancy with sildenafil and bosentan in unspecified dosages. These drugs and warfarin were continued postpartum. Her infant was delivered at 30 weeks by cesarean section and weighed 1.41 kg at birth. She nursed the infant in the neonatal intensive care unit for 11 weeks \"with good outcome\" according to the authors, but the infant died at 26 weeks from a respiratory syncytial virus infection.\nA woman breastfeeding her 21-month-old infant was taking 20 mg of sildenafil 3 times daily and 125 mg of bosentan twice daily to treat pulmonary arterial hypertension. The drugs were begun more than 6 months postpartum. The mother did not report any possible adverse effects, serious health problems or hospitalization of the infant in the period from birth until day 651 postpartum when the infant was partially breastfed."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Pulmonary Artery Hypertension) Bosentan, Epoprostenol, Nitric Oxide, Treprostinil"
+  ]
+ ]
+}

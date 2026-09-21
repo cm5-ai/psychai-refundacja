@@ -1,0 +1,39 @@
+{
+ "id": "LM354",
+ "tytul": "Famciclovir",
+ "synonimy": [
+  "famciclovir",
+  "Famvir",
+  "Famciclovirum",
+  "BRL-42810",
+  "UNII-QIC03ANI02",
+  "BRL 42810",
+  "QIC03ANI02",
+  "HSDB 8121",
+  "[2-(acetyloxymethyl)-4-(2-aminopurin-9-yl)butyl] acetate"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM354/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because there is no published experience with famciclovir during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acyclovir, Valacyclovir"
+  ]
+ ]
+}

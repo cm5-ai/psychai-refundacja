@@ -1,0 +1,40 @@
+{
+ "id": "LM1128",
+ "tytul": "Thallous Chloride Tl 201",
+ "synonimy": [
+  "Thallium-201 chloride",
+  "Thallous chloride tl 201",
+  "allous Chloride Tl-201",
+  "Thallous Chloride T1-201",
+  "(201-Tl)Thallous chloride",
+  "Thallous Chloride, Tl-201",
+  "UNII-3I8Y076A0E",
+  "Thallous chloride (201TlCl)",
+  "3I8Y076A0E",
+  "chloro(201Tl)thallium-201"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1128/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of thallous chloride Tl 201 as a diagnostic agent. Most experts recommend a period of breastfeeding interruption after maternal thallous chloride Tl 201, although some disagreement exists on the exact duration, probably because of the long physical half-life of the radioisotope and variable elimination of the drug from the body. Most current guidelines recommend a breastfeeding abstinence period of 4 days. During the period of interruption, the breasts should be emptied regularly and completely. If the mother has expressed and saved milk prior to the examination, she can feed it to the infant during the period of nursing interruption. The milk that is pumped by the mother during the time of breastfeeding interruption can either be discarded or stored frozen and given to the infant after 10 physical half-lives, or about 30 days, have elapsed. After doses greater than 150 MBq, consideration of temporarily limiting close contact between the mother and infant.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at background levels, she may safely resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Thallium Tl 201 decays by electron capture with principal photon energies of 69 to 80 and 167 keV and a physical half-life of 3.04 days. The maximum effective half-life of thallous chloride Tl 201 is 43 hours."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Technetium Tc 99m Sestamibi, Technetium Tc 99m Tetrofosmin"
+  ]
+ ]
+}

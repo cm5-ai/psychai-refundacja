@@ -1,0 +1,53 @@
+{
+ "id": "fostemsavir",
+ "tytul": "Fostemsavir",
+ "synonimy": [
+  "Fostemsavir",
+  "Rukobia",
+  "BMS-663068",
+  "BMS 663068",
+  "97IQ273H4L",
+  "UNII-97IQ273H4L",
+  "SCHEMBL754395",
+  "CHEMBL3301594",
+  "GTPL11100",
+  "DTXSID40235596",
+  "BCP13226",
+  "EX-A1973",
+  "HY-15440A",
+  "s7220",
+  "AKOS025396430",
+  "CS-1059",
+  "DB11796",
+  "SB11250",
+  "GSK-3684934",
+  "NCGC00510187-01",
+  "AC-30663",
+  "NS00071059",
+  "D10707",
+  "A863152",
+  "EN300-20207550",
+  "Q17001240",
+  "[3-[2-(4-benzoylpiperazin-1-yl)-2-oxoacetyl]-4-methoxy-7-(3-methyl-1,2,4-triazol-1-yl)pyrrolo[2,3-c]pyridin-1-yl]methyl dihydrogen phosphate"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/fostemsavir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of fostemsavir during breastfeeding. Because the drug and its active metabolite temsavir are over 80% protein bound, the amounts in milk are likely to be low. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

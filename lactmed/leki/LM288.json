@@ -1,0 +1,33 @@
+{
+ "id": "LM288",
+ "tytul": "Epinastine",
+ "synonimy": [
+  "epinastine",
+  "Epinastina",
+  "Epinastinum",
+  "WAL 801",
+  "UNII-Q13WX941EF",
+  "EC 616-785-3",
+  "2,4-diazatetracyclo[12.4.0.02,6.07,12]octadeca-1(18),3,7,9,11,14,16-heptaen-3-amine"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM288/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Evidence from 7 individuals indicates that transfer of epinastine into breastmilk and the resulting infant serum levels are likely to be minimal and unlikely to cause adverse effects in breastfed infants. In the U.S., epinastine is only available as eye drops. Because absorption from the eye is limited, epinastine would not be expected to cause any adverse effects in breastfed infants. To substantially diminish the amount of drug that reaches the breastmilk after using eye drops, place pressure over the tear duct by the corner of the eye for 1 minute or more, then remove the excess solution with an absorbent tissue."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Seven nursing mothers who had taken oral epinastine 20 mg once daily for at least 7 days donated milk samples at 2, 4 and 10 hours after their daily dose. Average milk levels were 17.6 mcg/L at 2 hours, 31.0 mcg/L at 4 hours and 17.2 mcg/L at 10 hours after the dose. Using the highest average milk level (at 4 hours), the maximum dose that an infant might obtain through breastmilk is 2.6 mcg/kg daily or 8.2% of the maternal weight-adjusted dosage. However, if the 2 and 10-hour milk levels are used, the average infant dosage would be 4.6% of the maternal weight-adjusted dosage.\nInfant Levels. Two infants who were almost exclusively breastfed were nursed by mothers who had taken oral epinastine 20 mg once daily for at least 7 days. Their plasma epinastine levels were under the quantification limit of the assay, but estimated to be 0.0189 and 0.0449 mcg/L. These values correspond to 0.2% and 0.3% of maternal plasma levels, respectively."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a study of 7 nursing mothers who were taking oral epinastine 20 mg once daily. No adverse reactions in the infants were reported."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Antihistamines in relatively high doses given by injection can decrease basal serum prolactin in nonlactating women and in early postpartum women. However, suckling-induced prolactin secretion is not affected by antihistamine pretreatment of postpartum mothers. The prolactin level in a mother with established lactation may not affect her ability to breastfeed. Low ophthalmic doses of epinastine are unlikely to have the same effect on serum prolactin."
+  ]
+ ]
+}

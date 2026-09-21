@@ -1,0 +1,40 @@
+{
+ "id": "LM80",
+ "tytul": "Dalteparin",
+ "synonimy": [
+  "Fragmin",
+  "Kabi-2165",
+  "Kabi 2165",
+  "FR860",
+  "FR 860",
+  "Kabi2165",
+  "FR-860",
+  "Fragmine",
+  "Tedelparin",
+  "D017985"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM80/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of dalteparin in breastmilk and its large molecular weight of 2000 to 9000 daltons, amounts ingested by the infant are small and it would not be expected to be absorbed from breastmilk by the infant. No special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In two women receiving subcutaneous dalteparin 5000 IU and 10,000 IU daily, respectively, dalteparin was undetectable in breastmilk.\nAnti-Xa activity (a measurement of anticoagulant activity) was measured in the milk of 15 patients before and 3 to 4 hours after 4 to 8 days at a daily dosage of 2500 IU subcutaneously. Anti-Xa activity in milk ranged from less than 5 to 37 IU/L which was 2.5 to 22.4% of the simultaneous maternal plasma anti-Xa activity.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Although not clearly stated, it appears that 15 neonates were breastfed during maternal dalteparin use in one study with no adverse effects reported.\nIn another report, one mother breastfed her infant for 20 days starting at 7 weeks of age while taking subcutaneous dalteparin 5000 IU subcutaneously twice daily with no adverse effects to her infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acenocoumarol, Enoxaparin, Heparin, Rivaroxaban, Warfarin"
+  ]
+ ]
+}

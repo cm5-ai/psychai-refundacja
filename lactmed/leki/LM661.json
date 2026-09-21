@@ -1,0 +1,42 @@
+{
+ "id": "LM661",
+ "tytul": "Fosamprenavir",
+ "synonimy": [
+  "Fosamprenavir",
+  "Telzir",
+  "Lexiva",
+  "FOS-APV",
+  "UNII-WOU1621EEG",
+  "WOU1621EEG",
+  "GW433908",
+  "VX 175",
+  "HSDB 7340",
+  "GW 433908",
+  "(3-(((4-Aminophenyl)sulfonyl)(2-methylpropyl)amino)-1-(phenylmethyl)-2-(phosphonooxy)propyl)carbamic acid C-(tetrahydro-3-furanyl) ester Carbamic acid, ((1S,2R)-3-(((4-aminophenyl)sulfonyl)(2-methylpropyl)amino)-1-(phenylmethyl)-2-(phosphonooxy)propyl)-, C-((3S)-tetrahydro-3-furanyl) ester",
+  "FPV"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM661/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published information is available on the use of fosamprenavir during breastfeeding. Fosamprenavir is not recommended during breastfeeding. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Gynecomastia has been reported among men receiving highly active antiretroviral therapy. Gynecomastia is unilateral initially, but progresses to bilateral in about half of cases. No alterations in serum prolactin were noted and spontaneous resolution usually occurred within one year, even with continuation of the regimen. Some case reports and in vitro studies have suggested that protease inhibitors might cause hyperprolactinemia and galactorrhea in some male patients, although this has been disputed. The relevance of these findings to nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Lamivudine, Nelfinavir, Nevirapine, Zidovudine"
+  ]
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "id": "LM408",
+ "tytul": "Nicardipine",
+ "synonimy": [
+  "nicardipine",
+  "Nicardipinum",
+  "Nicardipino",
+  "UNII-CZ5312222S",
+  "EINECS 259-932-3",
+  "BRN 0504321",
+  "CZ5312222S",
+  "5-O-[2-[benzyl(methyl)amino]ethyl] 3-O-methyl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM408/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of nicardipine in breastmilk, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants. No special precautions are required."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Ten women were treated with oral nicardipine 4 to 14 days postpartum. Four received an immediate-release product 40 to 80 mg daily, and 6 received a sustained-release product 100 to 150 mg daily. Another woman received intravenous nicardipine 120 mg daily. The authors calculated that the infants received an average of 0.073% of the maternal weight-adjusted dose with the oral dosage and 0.14% of the maternal weight-adjusted dose with the intravenous dosage. They estimated that the average dosage that an infant would receive is about 0.3% of the projected infant dosage.\nSeven women received intravenous infusions of nicardipine for an average of 1.9 days in the immediate postpartum period as therapy for pre-eclampsia. Thirty-four milk samples were obtained at unspecified times; nicardipine was undetectable (<5 mcg/L) in 82% of samples. Four women receiving 1 to 6.5 mg/hour of nicardipine had 6 milk samples with detectable nicardipine ranging from 5.1 to 18.5 mcg/L. The highest concentration of 18.5 mcg/L was found in a woman receiving 5.5 mg/hour of nicardipine. The authors estimated that the maximum dose that could be received by a breastfed infant was less than 0.3 mcg daily or between 0.015 to 0.004% of a therapeutic dose in a 1 kg infant.\nEighteen women with severe preeclampsia were given continuous infusion of nicardipine to control their blood pressure during pregnancy and postpartum. Blood and breastmilk samples were taken between 2 and 7 days postpartum from 17 of the women. The median postpartum nicardipine dosage was 0.54 mg/kg daily (mean 0.26 0.54 mg/kg daily; range 0.43 to 1.63 mg/kg daily). The median breastmilk nicardipine concentration in milk was 4.7 mcg/L (mean 6.9 mcg/L; range 2.3 to 37.7 mcg/L). Milk nicardipine levels were proportional to maternal plasma levels. The median weight-adjusted percentage of the maternal dose was 0.045% (mean 0.08%; range 0.006 to 0.33%).\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nifedipine"
+  ]
+ ]
+}

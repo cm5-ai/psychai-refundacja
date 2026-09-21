@@ -1,0 +1,45 @@
+{
+ "id": "LM840",
+ "tytul": "Darbepoetin",
+ "synonimy": [
+  "Darbepoetin",
+  "Aranesp",
+  "Nespo",
+  "Darbepoetin alfa",
+  "NESP",
+  "Erythropoietin, recombinant",
+  "UNII-15UQ94PT4P",
+  "15UQ94PT4P",
+  "KRN321",
+  "HSDB 7583",
+  "KRN 321",
+  "Darbepoetin Alfa [USAN:INN:BAN]",
+  "Erythropoietin (30-asparagine,32-threonine,87-valine,88-asparagine,90-threonine) (human)",
+  "(30-L-Asparagine-32-L-threonine-87-L-valine-88-L-asparagine-90-L-threonine)erythropoietin (human)",
+  "209810-58-2"
+ ],
+ "zaktualizowano": "2021-05-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM840/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The excretion of darbepoetin alfa in breastmilk or its effects on breastfed infants have not been studied. However, erythropoietin is a normal component of human milk and darbepoetin is immunologically and biologically indistinguishable from native erythropoietin. Intravenous darbepoetin has been given safely to newborn infants in doses much larger than those expected to appear in breastmilk. No special precautions are required during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information on exogenous administration of darbepoetin alfa to nursing mothers was not found as of the revision date. However, breastmilk normally contains erythropoietin.\nInfant Levels. Published information on absorption of darbepoetin alfa from breastmilk was not found as of the revision date. However, several studies in which oral doses of epoetin alfa and other recombinant forms of erythropoietin were given to preterm infants found that epoetin is absorbed to a small extent. Increases in hematocrit in infants treated with oral epoetin alfa have been small to negligible. However, one study found that hospitalized preterm infants taking enteral feedings and given 400 units daily of recombinant human erythropoietin by mouth with ferrous sulfate had higher reticulocyte counts and serum erythropoietin concentrations upon hospital discharge than control infants given only ferrous sulfate."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Enhancement of gastrointestinal tract maturation has been proposed as a function of erythropoietin in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In small studies, epoetin alfa administration decreased serum prolactin in patients with amyotrophic lateral sclerosis, but had no effect in normal subjects or in patients with renal failure undergoing chronic ambulatory peritoneal dialysis. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Epoetin Alfa"
+  ]
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "id": "LM778",
+ "tytul": "Naloxone",
+ "synonimy": [
+  "naloxone",
+  "Naloxonum",
+  "Naloxona",
+  "Nalossone",
+  "Kloxxado",
+  "Suboxone",
+  "Evzio",
+  "Rextovy",
+  "Rezenopy",
+  "Rivive",
+  "Zimhi",
+  "Zubsolv",
+  "UNII-36B82AMQ7N",
+  "HSDB 3279",
+  "EINECS 207-365-7",
+  "NSC 70413",
+  "BRN 1089071",
+  "(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-prop-2-enyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM778/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Naloxone is excreted into milk in very small amounts and is not detectable in the plasma of breastfed infants because of its very poor oral bioavailability. Routine use of naloxone in combination products is of no concern during breastfeeding. However, if naloxone is required by the mother for an opioid overdose, she should withhold nursing until the opioid is out of her system."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four women receiving buprenorphine and naloxone combination therapy as sublingual filmstrips for opioid use disorder provided milk samples at 2.5 hours after ingestion of the drug. Three participants provided samples on Days 2, 3, 4, 14, and 30; one participant provided samples only until Day 4. Maternal buprenorphine-naloxone doses ranged from 12 mg/3 mg to 20 mg/5 mg. Naloxone was detected only on day 14 in one participant at a concentration of 1.3 mcg/L. Naloxone glucuronide was detected in only some milk samples in average concentrations ranging from 3.15 to 5.7 mcg/L.\nInfant Levels. Women receiving buprenorphine and naloxone combination in doses ranging from 12 mg/3 mg to 20 mg/5 mg therapy as sublingual filmstrips for opioid use disorder breastfed their infants, one exclusively and three partially. Plasma was obtained from 3 infants via a heel stick on day 14. Naloxone and naloxone glucuronide were either not detected or detected at concentrations below the limit of quantification in all infant plasma samples at day 14."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In contrast to its effect in some animal species, naloxone does not affect suckling-induced secretion of oxytocin or prolactin in postpartum women."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Naltrexone"
+  ]
+ ]
+}

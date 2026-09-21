@@ -1,0 +1,43 @@
+{
+ "id": "LM1364",
+ "tytul": "Bendamustine",
+ "synonimy": [
+  "Bendamustine",
+  "Bendamustina",
+  "Bendamustinum",
+  "Bendeka",
+  "Bendamustinum [Latin]",
+  "Bendamustina [Spanish]",
+  "16506-27-7",
+  "Bendamustine [INN:BAN]",
+  "UNII-9266D9P3PQ",
+  "SDX-105",
+  "SDX 105",
+  "HSDB 7763",
+  "9266D9P3PQ",
+  "1H-Benzimidazole-2-butanoic acid, 5-(bis(2-chloroethyl)amino)-1-methyl-",
+  "5-(Bis(2-chloroethyl)amino)-1-methyl-2-benzimidazolebutyric acid",
+  "2-Benzimidazolebutyric acid, 5-(bis(2-chloroethyl)amino)-1-methyl-",
+  "omega-(1-Methyl-5-bis(beta-chloroethyl)aminobenzimidazole-(2)-butyric acid"
+ ],
+ "zaktualizowano": "2021-07-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1364/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of bendamustine during breastfeeding. Most sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy, especially alkylating agents such as bendamustine. Based on the half-life of the drug and its metabolites, the drug should be eliminated from the milk by 24 to 48 hours after the last dose. The manufacturer recommends that breastfeeding be discontinued during bendamustine therapy and for at least 1 week after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Some evidence indicates that the closely related drug carmustine can increase serum prolactin."
+  ]
+ ]
+}

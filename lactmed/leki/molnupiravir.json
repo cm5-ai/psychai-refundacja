@@ -1,0 +1,41 @@
+{
+ "id": "molnupiravir",
+ "tytul": "Molnupiravir",
+ "synonimy": [
+  "Molnupiravir",
+  "MK-4482",
+  "EIDD-2801",
+  "N4-Hydroxycytidine, 5'-isopropyl ester",
+  "UNII-YA84KI1VEW",
+  "Uridine, 4-oxime, 5'-(2-methylpropanoate)",
+  "Uridine, 4-oxime, 5'-(2-methylpropanoate), (4Z)-",
+  "WHO 11853",
+  "((2R,3S,4R,5R)-3,4-Dihydroxy-5-((4Z)-4-(hydroxyimino)-2-oxo-3,4- dihydropyrimidin-1(2H)-yl)oxolan-2-yl)methyl 2-methylpropanoate",
+  "beta-D-N4 Hydroxycytidine-5'-isopropyl ester",
+  "Eidd 1931-isopropyl ester"
+ ],
+ "zaktualizowano": "2023-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/molnupiravir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of molnupiravir during breastfeeding. Breastfeeding is not recommended during treatment and for 4 days after the last dose of molnupiravir."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nirmatrelvir, Remdesevir"
+  ]
+ ]
+}

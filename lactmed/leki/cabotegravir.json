@@ -1,0 +1,45 @@
+{
+ "id": "cabotegravir",
+ "tytul": "Cabotegravir",
+ "synonimy": [
+  "Cabotegravir",
+  "Vocabria",
+  "Cabenuva",
+  "Apretude",
+  "744 LA",
+  "GSK 1265744",
+  "GSK 744",
+  "GSK1265744A",
+  "GSK744",
+  "GSK744 LA",
+  "GSK744 LAP",
+  "S-265744",
+  "S/GSK1265744",
+  "UNII-HMH0132Z1Q",
+  "(3R,6S)-N-[(2,4-difluorophenyl)methyl]-10-hydroxy-6-methyl-8,11-dioxo-4-oxa-1,7-diazatricyclo[7.4.0.03,7]trideca-9,12-diene-12-carboxamide"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/cabotegravir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "A pharmacokinetic analysis found low levels of cabotegravir in breastmilk with maternal use of long-acting cabotegravir. Maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended. Extended postnatal prophylaxis of breastfed infants with cabotegravir should continue until breastfeeding is stopped."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. An abstract reports a study in which long-acting cabotegravir 600 mg was injected intramuscularly every 56 days to 27 nursing mothers. Median breastmilk concentrations at these times were 14.6 mcg/L just before the 1-month injection, 29.8 mcg/L one week later, 27.4 mcg/L just before the 5-month injection, and 36.1 mcg/L one week later.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Raltegravir"
+  ]
+ ]
+}

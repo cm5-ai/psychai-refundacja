@@ -1,0 +1,80 @@
+{
+ "id": "LM613",
+ "tytul": "Halothane",
+ "synonimy": [
+  "halothane",
+  "Fluothane",
+  "Narcotane",
+  "Rhodialothan",
+  "Phthorothanum",
+  "Ftorotan",
+  "Narcotan",
+  "Anestan",
+  "Fluorotane",
+  "Ftuorotan",
+  "Halothan",
+  "Halotano",
+  "Narkotan",
+  "Fluktan",
+  "Halotan",
+  "Halsan",
+  "Halan",
+  "Chalothane",
+  "Halothanum",
+  "Alotano",
+  "Bromochlorotrifluoroethane",
+  "Ftorotan [Russian]",
+  "Alotano [DCIT]",
+  "2-BROMO-2-CHLORO-1,1,1-TRIFLUOROETHANE",
+  "Narcotann ne-spofa",
+  "Freon 123B1",
+  "Bromchlortrifluoraethanum",
+  "Halotano [INN-Spanish]",
+  "Halothanum [INN-Latin]",
+  "151-67-7",
+  "Narcotann NE-spofa [Russian]",
+  "1,1,1-Trifluoro-2-chloro-2-bromoethane",
+  "1-Bromo-1-chloro-2,2,2-trifluoroethane",
+  "1,1,1-Trifluoro-2-bromo-2-chloroethane",
+  "2,2,2-Trifluoro-1-chloro-1-bromoethane",
+  "UNII-UQT9G45D1P",
+  "CCRIS 6244",
+  "Ethane, 2-bromo-2-chloro-1,1,1-trifluoro-",
+  "HSDB 6753",
+  "UQT9G45D1P",
+  "Halothane [Anaesthetics, volatile]",
+  "2-Brom-2-chlor-1,1,1-trifluorethan",
+  "Halothane [USP:INN:BAN:JAN]",
+  "NSC 143490",
+  "EINECS 205-796-5",
+  "BRN 1736947",
+  "Ethane, 1-bromo-1-chloro-2,2,2-trifluoro-",
+  "(+-)-2-Bromo-2-chloro-1,1,1-trifluoroethane",
+  "4-01-00-00156 (Beilstein Handbook Reference)",
+  "Ethane, 2-bromo-2-chloro-1,1,1-trifluoro-, (+-)-"
+ ],
+ "zaktualizowano": "2020-12-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM613/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Halothane is no longer available in the United States. There is no published experience with the therapeutic use of halothane as an anesthetic during breastfeeding, but trace amounts were found in the milk of a practicing anesthesiologist who had administered halothane in the operating room. Various recommendations have been made regarding breastfeeding after halothane anesthesia, from discarding the first pumping after recovery to discarding breastmilk for 24 to 48 hours after the surgical procedure. Although withholding breastfeeding for 24 h is probably unnecessary, a short-acting anesthetic is preferred. In one study, breastfeeding before general anesthesia induction reduced requirements of sevoflurane and propofol compared to those of nursing mothers whose breastfeeding was withheld or nonnursing women. It is possible that requirements for other anesthetic agents would be affected similarly."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Foremilk samples taken on two occasions from a practicing anesthesiologist after administering halothane anesthesia in the operating room contained from 630 mcg/L to 2.1 mg/L (0.63-2.1 ppm) of halothane. These values were higher than air samples from the operating room, but may be underestimates because of sampling techniques.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Desflurane, Enflurane, Isoflurane, Sevoflurane"
+  ]
+ ]
+}

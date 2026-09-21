@@ -1,0 +1,79 @@
+{
+ "id": "LM473",
+ "tytul": "Rifampin",
+ "synonimy": [
+  "Rifampicin",
+  "rifampin",
+  "Rifadin",
+  "Rimactane",
+  "Rimactan",
+  "Rifampicinum",
+  "Rifaldazine",
+  "Rifaprodin",
+  "Riforal",
+  "Tubocin",
+  "Ramp",
+  "Rifa",
+  "Rifamycin AMP",
+  "Rimactizid",
+  "Rifoldine",
+  "Archidyn",
+  "Rifoldin",
+  "Rifagen",
+  "Rimazid",
+  "Rifampicina",
+  "Benemicin",
+  "Doloresum",
+  "Fenampicin",
+  "Rifaldazin",
+  "Rimactazid",
+  "Rifampicin SV",
+  "Sinerdol",
+  "Arficin",
+  "Eremfat",
+  "Rifamor",
+  "Rifinah",
+  "Rifobac",
+  "Arzide",
+  "Rifcin",
+  "Rifam",
+  "Rifampicine",
+  "Rifater",
+  "Dione 21-acetate",
+  "R/AMP",
+  "L-5103 Lepetit",
+  "UNII-VJT6J7R4TR",
+  "13292-46-1",
+  "VJT6J7R4TR",
+  "CCRIS 551",
+  "Ba 41166/E",
+  "HSDB 3181",
+  "EINECS 236-312-0",
+  "NSC 113926",
+  "[(7S,9E,11S,12R,13S,14R,15R,16R,17S,18S,19E,21Z)-2,15,17,27,29-pentahydroxy-11-methoxy-3,7,12,14,16,18,22-heptamethyl-26-[(E)-(4-methylpiperazin-1-yl)iminomethyl]-6,23-dioxo-8,30-dioxa-24-azatetracyclo[23.3.1.14,7.05,28]triaconta-1(29),2,4,9,19,21,25,27-octaen-13-yl] acetate"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM473/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that there are low levels of rifampin in breastmilk that would not be expected to cause any adverse effects in breastfed infants. The amount of rifampin in milk is insufficient to treat tuberculosis in the breastfed infant. The Centers for Disease Control and Prevention and other professional organizations state that breastfeeding should not be discouraged in women taking rifampin. Breastmilk may be stained a yellow, orange, red or brown color."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. One old study reported that after a single oral dose of rifampin of 150 mg, milk levels 4 hours after the dose ranged from 0 to 1.8 mg/L. After a single oral dose of 450 mg, milk levels 12 hours after the dose ranged from 3.4 to 4.9 mg/L. Details of the study and patients were not stated.\nA physiologically based pharmacokinetic model of rifampin predicted that a fully breastfed infant would receive a dose of 0.4 mg/kg daily with a maternal dosage of 10.9 mg/kg daily, which is 3.7% of the weight-adjusted maternal dosage.\nSix nursing mothers who were taking oral rifampin 600 mg daily for tuberculosis provided milk samples at 2, 4, 6, and 8 hours after a directly observed dose on two occasions at steady state. The median peak milk levels were 0.99 and 0.92 mg/L at 3.2 and 4.7 hours after the dose, respectively. Average milk levels over 24 hours were 0.28 and 0.3 mg/L, respectively, o, one at n the two occasions. The values in this study equate to a relative infant dose of about 0.4%.\nInfant Levels. Measured infant serum levels have not been reported. A physiologically based pharmacokinetic model of rifampin predicted that a fully breastfed infant would achieve a maximum serum concentration of about 0.2 mg/L with a maternal dose of 10.9 mg/kg daily.\nSix nursing mothers were taking oral rifampin 600 mg daily for tuberculosis. Each of their infants had heel sticks for obtaining blood samples twice, once just before the maternal dose and another at a time within 8 hours after the maternal dose. Rifampin was undetectable (<0.117 mg/L) in the plasma of all but one infant who had a concentration of 2.93 mg/L at 6 hours after the maternal dose on one occasion. That infant’s mother had an unexpectedly high milk rifampin level."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One woman taking rifampin 450 mg, isoniazid 300 mg and ethambutol 1200 mg daily during pregnancy and rifampin 450 mg and isoniazid 300 mg for the first 7 months of lactation (extent not stated). The infant was born with mildly elevated serum liver enzymes which persisted for to 1 (alanine transferase) to 2 years (aspartate transaminase), but had no other adverse reactions.\nRifampin was used as part of multi-drug regimens to treat 2 pregnant women with multidrug-resistant tuberculosis throughout pregnancy and postpartum. Their two infants were breastfed (extent and duration not stated). At age 3.9 and 5.1 years, the children were developing normally except for hyperactivity in one.\nTwo mothers in Türkiye were diagnosed with tuberculosis at the 30th and 34th weeks of pregnancy. They immediately started isoniazid 300 mg, rifampin 600 mg, pyridoxine 50 mg daily for 6 months, plus pyrazinamide 25 mg/kg and ethambutol 25 mg/kg daily for 2 months. Both mothers breastfed their infants (extent not stated). Their infants were given isoniazid 5 mg/kg daily for 3 months prophylactically. Tuberculin skin tests were negative after 3 months and neither infant had tuberculosis at 1 year of age. No adverse effects of the drugs were mentioned.\nA woman with leprosy took clofazimine, dapsone and rifampin during pregnancy and breastfeeding. Her infant developed skin discoloration attributed to clofazimine which reversed 3 months after cessation of breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-resistant Staph. aureus) Doxycycline, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin; (M. tuberculosis) Rifapentine"
+  ]
+ ]
+}

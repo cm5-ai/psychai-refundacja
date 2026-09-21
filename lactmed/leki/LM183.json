@@ -1,0 +1,47 @@
+{
+ "id": "LM183",
+ "tytul": "Minocycline",
+ "synonimy": [
+  "Minocycline",
+  "Minocyclin",
+  "Solodyn",
+  "Amzeeq",
+  "Minociclina",
+  "Minocyclinum",
+  "Dynacin",
+  "Minocyn",
+  "Borymycin",
+  "Minoz",
+  "UNII-FYY3R43WGO",
+  "HSDB 3130",
+  "CL 59806",
+  "NSC 141993",
+  "BRN 3077644",
+  "2-Naphthacenecarboxamide, 4,7-bis(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,10,12,12a-tetrahydroxy-1,11-dioxo-, (4S,4aS,5aR,12aS)-",
+  "(4S,4aS,5aR,12aR)-4,7-bis(dimethylamino)-1,10,11,12a-tetrahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM183/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Many reviews state that tetracyclines are contraindicated during breastfeeding because of possible staining of infants’ dental enamel or bone deposition of tetracyclines. However, available literature indicates that there is not likely to be harm in short-term use of minocycline during lactation because milk levels are low and absorption by the infant is inhibited by the calcium in breastmilk. Although the manufacturer recommends avoiding breastfeeding during administration of minocycline and for 4 days after the last dose, short-term use of minocycline is probably acceptable in nursing mothers. As a theoretical precaution, avoid prolonged or repeat courses during nursing. Monitor the infant for rash and for possible effects on the gastrointestinal flora, such as diarrhea or candidiasis (thrush, diaper rash). Black discoloration of breastmilk has been reported with minocycline. Topical minocycline for acne by the mother poses no risk to the breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a single dose of minocycline 200 mg orally in 2 patients (time postpartum not stated), a peak milk level of 0.8 mg/L occurred at 6 hours after the dose. Average milk levels ranged between 0.5 and 0.8 mg/L during the 12 hours after the dose and a total of 18 mcg was excreted during this time.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A woman taking minocycline 100 mg twice daily for almost 4 years developed galactorrhea after taking perphenazine, amitriptyline and diphenhydramine, and the breast secretion was black in color.\nAnother woman who had nursed her infant and produced occasional small amounts of breastmilk during the 18 months after weaning was given oral minocycline 150 mg daily. After 3 to 4 weeks, expressed milk had become black. Iron levels in milk were over 100 times greater than that found in normal milk. A mammogram was normal.\nIn both of these cases, macrophages containing a black, iron-containing pigment were found in milk. It is thought that the pigment is an iron chelate of minocycline or one of its metabolites."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Doxycycline, Tetracycline"
+  ]
+ ]
+}

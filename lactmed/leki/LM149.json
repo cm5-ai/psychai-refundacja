@@ -1,0 +1,43 @@
+{
+ "id": "LM149",
+ "tytul": "Isoetharine",
+ "synonimy": [
+  "isoetharine",
+  "Isoetarine",
+  "Isoetarin",
+  "Isoetarina",
+  "Isoetarinum",
+  "Isoetarinum [INN-Latin]",
+  "Isoetarina [INN-Spanish]",
+  "Win 3406",
+  "Isoetharine [USAN:USP]",
+  "EINECS 208-472-1",
+  "530-08-5",
+  "3,4-Dihydroxy-alpha-(1-(isopropylamino)propyl)benzyl alcohol",
+  "1,2-Benzenediol, 4-(1-hydroxy-2-((1-methylethyl)amino)butyl)-"
+ ],
+ "zaktualizowano": "2024-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM149/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Isoetharine is no longer marketed in the US. Although no published data exist on the use of isoetharine during lactation, data from the related drug, terbutaline, indicate that very little is expected to be excreted into breastmilk. The authors of several reviews and an expert panel agree that use of inhaled bronchodilators is acceptable during breastfeeding because of the low bioavailability and maternal serum levels after use."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Terbutaline"
+  ]
+ ]
+}

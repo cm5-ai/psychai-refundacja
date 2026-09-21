@@ -1,0 +1,44 @@
+{
+ "id": "LM51",
+ "tytul": "Cefoxitin",
+ "synonimy": [
+  "cefoxitin",
+  "Cefoxitina",
+  "Cefoxitine",
+  "Cefoxitinum",
+  "Rephoxitin",
+  "CEPHOXITIN",
+  "35607-66-0",
+  "UNII-6OEV9DX57Y",
+  "Cefoxitine [INN-French]",
+  "Cefoxitinum [INN-Latin]",
+  "Cefoxitina [INN-Spanish]",
+  "6OEV9DX57Y",
+  "Cefoxitin [USAN:INN:BAN]",
+  "EINECS 252-641-2",
+  "CFX",
+  "(6R,7S)-3-(Hydroxymethyl)-7-methoxy-8-oxo-7-(2-(2-thienyl)acetamido)-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid carbamate (ester)",
+  "5-Thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid, 3-(((aminocarbonyl)oxy)methyl)-7-methoxy-8-oxo-7-((2-thienylacetyl)amino)-, (6R-cis)-",
+  "5-Thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid, 3-(((aminocarbonyl)oxy)methyl)-7-methoxy-8-oxo-7-((2-thienylacetyl)amino)-, (6R,7S)-"
+ ],
+ "zaktualizowano": "2022-09-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM51/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Substantial information indicates that cefoxitin produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Combined use of cefoxitin and cefuroxime can alter the milk flora and infant fecal flora. Occasionally, diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefoxitin is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a 1 gram dose of cefoxitin in one woman, the cefoxitin level in milk 2 hours after the dose was 5.6 mg/L.\nFour postpartum women received 1 gram of cefoxitin three times a day. Only 8 of 50 breastmilk samples had measurable cefoxitin levels of 0.8 to 1 mg/L. Other samples had unmeasurable (<0.8 mg/L) cefoxitin levels.\nFifteen nursing others received a single intramuscular dose of cefoxitin 1 gram. Cefoxitin was not detected (<0.5 mg/L) in any milk samples taken up to 24 hours after the dose.\nAfter a single 2 gram intramuscular dose of cefoxitin in 5 women, peak milk levels of 0.31 to 0.65 mg/L occurred 1 to 5 hours after the dose.\nCefoxitin was not measurable in breastmilk at any time up to 6 hours after a single 1 gram intravenous dose of cefoxitin in 2 women.\nEighteen women undergoing cesarean section were given either a single 2 gram dose of cefoxitin or 2 g followed by two 1 gram doses (route unspecified). Cefoxitin was detected (detection limit 0.5 mg/L) in the milk of only one woman at a concentration of 0.9 mg/L 19 hours after the third dose of cefoxitin.\nFifteen women were given a single 1 gram dose of cefoxitin intravenously at about 1 month after delivery. The average milk level 2 hours after the dose was 0.05 mg/L.[\nFive women were who had been receiving intravenous cefoxitin 1 gram twice daily for 2 days following cesarean section each donated a milk sample. The highest milk concentration was 1.71 mg/L at 1 hour after the dose in one woman. Drug concentrations in samples taken at 1.5 or 2 hours after the dose in 3 women ranged from 0.71 to 0.94 mg/L. A fifth woman who donated a milk sample at 2.5 hours after the dose had a milk cefoxitin concentration of 0.57 mg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "LM90",
+ "tytul": "Dicloxacillin",
+ "synonimy": [
+  "dicloxacillin",
+  "Dicloxacycline",
+  "Dicloxacilline",
+  "Dicloxacillinum",
+  "Dicloxacilina",
+  "Dicloxacilin",
+  "Maclicine",
+  "Diclossacillina",
+  "Diclossacillina [DCIT]",
+  "Dicloxacilina [INN-Spanish]",
+  "Dicloxacilline [INN-French]",
+  "Dicloxacillinum [INN-Latin]",
+  "UNII-COF19H7WBK",
+  "COF19H7WBK",
+  "Dicloxacillin [USAN:INN:BAN]",
+  "BRL 1702",
+  "3116-76-5",
+  "HSDB 3222",
+  "Methyldichlorophenylisoxazolylpenicillin",
+  "BRL-1702",
+  "EINECS 221-488-3",
+  "R-13423",
+  "3-(2,6-Dichlorophenyl)-5-methyl-4-isoxazolylpenicillin",
+  "6-(3-(2,6-Dichlorophenyl)-5-methyl-4-isoxazolecarboxamido)penicillanic acid",
+  "4-Thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid, 6-(((3-(2,6-dichlorophenyl)-5-methyl-4-isoxazolyl)carbonyl)amino)-3,3-dimethyl-7-oxo-, (2S-(2alpha,5alpha,6beta))-",
+  "6-(3-(2,6-Dichlorophenyl)-5-methyl-4-isoxazolecarboxamido)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM90/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that dicloxacillin levels in milk are very low and are not expected to cause adverse effects in breastfed infants. It is frequently used to treat mastitis in nursing mothers. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with penicillins, but these effects have not been adequately evaluated. Dicloxacillin is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a single oral dose of 250 mg of dicloxacillin in 2 women, milk samples were assayed using a bioassay. Milk levels ranged from 200 to 300 mcg/L between 2 and 4 hours after the dose. The drug was undetectable (lower limit of assay not stated) in milk at 1 and 6 hours after the dose.\nThree nursing mothers with mastitis were prescribed dicloxacillin 500 mg every 6 hours. They collected milk samples at 0, 1, 2, 3, 4, 5, and 6 hours after a dose on or after the fourth day of therapy by pumping both breasts and combining the resultant milk. Measurement with liquid chromatography mass spectrometry found that the average peak milk concentration was 67.6 mcg/L at 4 hours after the dose and the average concentration was 57.7 mcg/L. These values resulted in an average infant dosage of 8 mcg/kg daily, which is 0.03% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-sensitive Staph. aureus) Cefazolin, Cephalexin, Floxacillin, Oxacillin, Methicillin, Nafcillin; (Methicillin-resistant Staph. aureus) Doxycycline, Linezolid, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

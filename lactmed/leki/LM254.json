@@ -1,0 +1,43 @@
+{
+ "id": "LM254",
+ "tytul": "Thiethylperazine",
+ "synonimy": [
+  "thiethylperazine",
+  "Tietilperazina",
+  "Thiethylperazinum",
+  "ETHYLTHIOPERAZINE",
+  "Thiethylpipezazine",
+  "Tietilperazina [DCIT]",
+  "UNII-8ETK1WAF6R",
+  "Thiethylperazinum [INN-Latin]",
+  "8ETK1WAF6R",
+  "Thiethylperazine [USAN:INN:BAN]",
+  "HSDB 3400",
+  "1420-55-9",
+  "EINECS 215-819-0",
+  "3-Ethylmercapto-10-(1'-methylpiperazinyl-4'-propyl)phenothiazine",
+  "10H-Phenothiazine, 2-(ethylthio)-10-(3-(4-methyl-1-piperazinyl)propyl)-",
+  "2-(Ethylthio)-10-(3-(4-methyl-1-piperazinyl)propyl)phenothiazine",
+  "Phenothiazine, 2-(ethylthio)-10-(3-(4-methyl-1-piperazinyl)propyl)-"
+ ],
+ "zaktualizowano": "2021-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM254/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Based on minimal excretion of other phenothiazine derivatives, it appears that occasional short-term use of thiethylperazine for the treatment of nausea and vomiting poses little risk to the breastfed infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Phenothiazines cause galactorrhea in 26 to 40% of female patients. Hyperprolactinemia appears to be the cause of the galactorrhea. The hyperprolactinemia is caused by the drug's dopamine-blocking action in the tuberoinfundibular pathway."
+  ]
+ ]
+}

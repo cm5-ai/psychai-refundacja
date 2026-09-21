@@ -1,0 +1,42 @@
+{
+ "id": "quinagolide",
+ "tytul": "Quniagolide",
+ "synonimy": [
+  "Quinagolide",
+  "Norprolac",
+  "CV 205-502",
+  "CV-205-502",
+  "CV205-502",
+  "SCHEMBL143485",
+  "CHEMBL290962",
+  "CHEBI:135627",
+  "BDBM50225362",
+  "DB09097",
+  "NCGC00522534-01",
+  "D07217",
+  "EN300-18435304",
+  "Q4860568",
+  "(3S,4aS,10aR)-3-[(diethylsulfamoyl)amino]-1-propyl-1H,2H,3H,4H,4aH,5H,10H,10aH-benzo[g]quinolin-6-ol",
+  "(+-)-N,N-Diethyl-N'-((3R*,4aR*,10aS*)-1,2,3,4,4a,5,10,10a-octahydro-6-hydroxy-1-propylbenzo(g)quinolin-3-yl)sulfamide"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/quinagolide/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Quinagolide is not approved for marketing in the US by the US Food and Drug Administration. It is selective dopamine D2 receptor that reduces serum prolactin. Quinagolide is usually not used during breastfeeding because it suppresses lactation. No published information was found on the use of quinagolide in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A small preliminary study compared quinagolide (CV 205-502) to bromocriptine for 21 days starting in the first day postpartum in mothers who did not wish to breastfeed. Serum prolactin normalized more rapidly with bromocriptine and more women had breast symptoms with quinagolide. Efficacy in suppressing lactation was similar between the groups.[1]"
+  ]
+ ]
+}

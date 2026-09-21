@@ -1,0 +1,37 @@
+{
+ "id": "cidofovir",
+ "tytul": "Cidofovir",
+ "synonimy": [
+  "Cidofovir",
+  "Vistide",
+  "DRG-0145",
+  "GS-0504",
+  "NSC 742135",
+  "UNII-JIL713Q00N",
+  "[(2S)-1-(4-amino-2-oxopyrimidin-1-yl)-3-hydroxypropan-2-yl]oxymethylphosphonic acid"
+ ],
+ "zaktualizowano": "2025-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/cidofovir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of cidofovir during breastfeeding. Until more safety data become available, an alternate drug is preferred. Individuals with smallpox are recommended to not breastfeed their infant because of the risk of passing variola virus to the infant through direct contact. Providing pumped milk to the infant may be possible if no lesions are near the breast and adequate precautions are taken with respect to cleaning hands, breasts, breast pumps and any other apparatuses used to provide milk to the infant. Individuals with Mpox should feed their infants with pasteurized donor milk or infant formula until all of their lesions are healed. Numerous other safety precautions are advised for mothers with Mpox.[1]"
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Mpox) Tecovirimat"
+  ]
+ ]
+}

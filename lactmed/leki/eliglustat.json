@@ -1,0 +1,40 @@
+{
+ "id": "eliglustat",
+ "tytul": "Eliglustat",
+ "synonimy": [
+  "eliglustat",
+  "eliglustate tartrate",
+  "Cerdelga",
+  "Genz-112638",
+  "Genz112638",
+  "Genz-99067",
+  "Genz99067",
+  "UNII-DR40J4WA67",
+  "CHEBI:82752",
+  "N-[(1R,2R)-1-(2,3-dihydro-1,4-benzodioxin-6-yl)-1-hydroxy-3-pyrrolidin-1-ylpropan-2-yl]octanamide"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/eliglustat/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published experience exists with miglustat during breastfeeding. Because of the lack of information and its side effect profile, most sources, including the manufacturer, consider breastfeeding to be contraindicated during maternal eliglustat therapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Alglucerase, Imiglucerase, Taliglucerase Alfa"
+  ]
+ ]
+}

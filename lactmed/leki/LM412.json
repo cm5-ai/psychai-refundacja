@@ -1,0 +1,46 @@
+{
+ "id": "LM412",
+ "tytul": "Esomeprazole",
+ "synonimy": [
+  "Esomeprazole",
+  "(S)-Omeprazole",
+  "(-)-Omeprazole",
+  "Alenia",
+  "Esofag",
+  "Nexiam",
+  "Escz",
+  "(S)-(-)-Omeprazole",
+  "Esomeprazole [INN:BAN]",
+  "119141-88-7",
+  "UNII-N3PA6559FT",
+  "IZRA 40",
+  "N3PA6559FT",
+  "HSDB 8158",
+  "5-Methoxy-2-((S)-((4-methoxy-3,5-dimethyl-2-pyridyl)methyl)sulfinyl)benzimidazole",
+  "1H-Benzimidazole, 5-methoxy-2-((S)-((4-methoxy-3,5-dimethyl-2- pyridinyl)methyl)sulfinyl)-"
+ ],
+ "zaktualizowano": "2022-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM412/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Esomeprazole is the S-enantiomer of the proton-pump inhibitor, omeprazole. Limited information indicates that maternal doses of 10 mg daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with rheumatoid arthritis was treated with oral esomeprazole 10 mg (0.17 mg/kg), prednisone 2.5 mg and sulfasalazine 1 gram once daily as well as injections of certolizumab pegol 200 mg every 2 weeks. Milk samples were measured several times during the first 4 days postpartum at 0.7, 4, and 8.2 hours after various doses, milk levels were 10.5 mcg/L, 19.6 mcg/L and 3 mcg/L, respectively. At 8, 10.5 and 19.4 hours after various doses, the drug was undetectable (<0.1 mcg/L) in milk. Using the highest measured level of 19.6 mcg/L, the authors calculated that a fully breastfed infant would receive a dose of 0.003 mg/kg daily, which would result in a maximum weight-adjusted dose of 1.8% of the mothers dose.\nInfant Levels. A woman with rheumatoid arthritis was treated with oral esomeprazole 10 mg (0.17 mg/kg) once daily. Her infant was about 50% breastfed and 50% formula fed. At 12.5 hours after the dose on the day of the infant’s birth, the cord blood level was 14.8 mcg/L, representing placental passage. By 23.2 hours after the mother’s previous dose (12 hours postpartum), esomeprazole was undetectable (<0.1 mcg/L) in the infant’s serum."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One mother taking omeprazole 20 mg daily orally pumped and discarded her milk once each day 4 hours after her morning dose. She breastfed her infant the remainder of the day for 3 months before weaning. The infant remained well at 12 months of age.\nA woman with rheumatoid arthritis was treated with oral esomeprazole 10 mg, prednisone 2.5 mg and sulfasalazine 1 gram once daily as well as injections of certolizumab pegol 200 mg every 2 weeks. Her infant was about 50% breastfed and 50% formula fed. The infant had no detectable drug-related adverse effects."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Omeprazole (the racemic form) has been reported to cause gynecomastia in several men and a retrospective claims database study in the United States found that users of proton pump inhibitors had an increased risk of gynecomastia.\nA review article reported that a search of database from the European Pharmacovigilance Centre found 45 cases of gynecomastia, 9 cases of galactorrhea, 19 cases of breast pain and 12 cases of breast enlargement associated with esomeprazole. A search of the WHO global pharmacovigilance database found 114 cases of gynecomastia, 38 cases of galactorrhea, 56 cases of breast pain and 28 cases of breast enlargement associated with esomeprazole.\nOne woman developed elevated serum prolactin and estradiol with bilateral galactorrhea one week after starting esomeprazole 40 mg once daily for reflux esophagitis. The galactorrhea disappeared 3 days after discontinuing esomeprazole and prolactin and estradiol returned to normal 7 days after discontinuation. One month later, the patient restarted esomeprazole and again developed bilateral galactorrhea. She was switched to lansoprazole with no galactorrhea developing. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Antacids, Cimetidine, Famotidine, Omeprazole, Pantoprazole, Sucralfate"
+  ]
+ ]
+}

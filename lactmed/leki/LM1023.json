@@ -1,0 +1,40 @@
+{
+ "id": "LM1023",
+ "tytul": "Ofatumumab",
+ "synonimy": [
+  "Ofatumumab",
+  "Arzerra",
+  "Kesimpta",
+  "HuMax-CD20",
+  "HUMAX-CD20, 2F2",
+  "UNII-M95KG522R0",
+  "HSDB 8170",
+  "GSK1841157",
+  "GSK 1841157",
+  "Immunoglobulin G1, anti-(human CD20 (antigen)(human monoclonal HuMax-CD20 heavy chain), disulfide with human monoclonal HuMax-CD20 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1023/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information on the clinical use of ofatumumab during breastfeeding indicates that the drug has no effect on the immunity or growth of breastfed infants. The amounts in milk are extremely low. It is also likely to be partially destroyed in the infant’s gastrointestinal tract and absorption by the infant is probably minimal. Ofatumumab is considered to be acceptable to use during breastfeeding. Breastfeeding can resume after the injection; however, waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Twelve mothers (11 received a loading dose) who were receiving ofatumumab for multiple sclerosis collected milk before treatment initiation, before the next ofatumumab dose, and 24 hours after a dose at weeks 4, 8, and 12 of therapy. Additional samples were taken at either 16 days after the dose at weeks 4, 8, and 12 and 7 hours after a dose at week 12, or at 8 and 15 days after a dose at weeks 4, 8, and 12. Mothers collected between 7 and 15 milk samples. Of the 141 samples collected after ofatumumab initiation, 30.5% had a concentration below the quantification limit of 1.5 mcg/L. The median time to the peak concentration was 37 days (range 14 to 107 days) after ofatumumab treatment initiation, during which 2 to 6 ofatumumab doses were given. Milk concentration were between the quantification limit and 56.3 mcg/L, with large inter- and intra-individual variations. The average milk concentration was 4.5 mcg/L (range 2 to 12 mcg/L) and the average infant dose was 0.68 (range 0.26 to 1.77) mcg/kg daily.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A report from the German multiple sclerosis registry found 2 infants who were breastfed (extent not stated) during ofatumumab use. No effect on the B-cell count of the infants was noted.\nIn a prospective cohort study, 12 women with multiple sclerosis and their breastfed infants were followed after starting ofatumumab between 0.6 and 19.6 months (median 3.9 months) postpartum. They breastfed (8 exclusively) for a median of 9.6 months (range 1.8 to 23.8 months) while taking ofatumumab. The infants were followed for a median of 23.6 months (range 12.2 to 27.0 months) postpartum. No infants had developmental delays. Ten had at least one typical childhood infection after initiation of ofatumumab, including respiratory infections, COVID-19, and hand, foot, and mouth disease. Two infants were hospitalized for respiratory syncytial virus (RSV) and bronchitis. Eight infants received live vaccines, two against RSV and eight against measles-mumps-rubella-varicella. No adverse reactions were reported after the vaccinations. None of five infants with B-cell counts taken during exposure, had counts below the lower limit of normal.\nA follow-up study of 3 infants who were breastfed during maternal ofatumumab therapy for multiple sclerosis found no development delays over with observation period up to one year. The amount of breastfeeding and other details were not provided in the abstract.\nA prospective single-center cohort study of infants, born in 2013 to 2022 were followed up at 6 to 36 months postpartum via telephone interviews. One hundred eighty-three infants who were breastfed during maternal monoclonal antibody therapy for multiple sclerosis or neuromyelitis optica spectrum disorder were matched to infants of disease-modifying therapy-naïve mothers. No differences were found in developmental delay, systemic antibiotic use, severe infections, or hospitalizations. Of the 183 infants, 10 were exposed to ofatumumab.\nA retrospective chart review found one term breastfed infant of a multiple sclerosis patient who received ofatumumab while breastfeeding (extent not stated). Ofatumumab was reinitiated 21.4 weeks postpartum. The infant had blood drawn 2 weeks after maternal drug initiation. The infant had a CD19 count within the normal range for age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs",
+   "(Multiple Sclerosis) Glatiramer, Immune Globulin, Interferon beta, Methylprednisolone, Natalizumab, Ocrelizumab, Peginterferon beta"
+  ]
+ ]
+}

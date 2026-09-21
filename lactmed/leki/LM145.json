@@ -1,0 +1,87 @@
+{
+ "id": "LM145",
+ "tytul": "Indomethacin",
+ "synonimy": [
+  "indomethacin",
+  "indometacin",
+  "Indocin",
+  "Indometacine",
+  "Indomethacine",
+  "Indocid",
+  "Metindol",
+  "Indomethazine",
+  "Imbrilon",
+  "Tannex",
+  "Amuno",
+  "Indomethacinum",
+  "Idomethine",
+  "Artrinovo",
+  "Confortid",
+  "Indomecol",
+  "Metartril",
+  "Methazine",
+  "Mikametan",
+  "Reumacide",
+  "Artracin",
+  "Artrivia",
+  "Indoptic",
+  "Indoptol",
+  "Inflazon",
+  "Infrocin",
+  "Sadoreum",
+  "Dolovin",
+  "Indacin",
+  "Indomed",
+  "Indomee",
+  "Metacen",
+  "Mobilan",
+  "Inacid",
+  "Lausit",
+  "Indo-rectolmin",
+  "Indo-tablinen",
+  "Indometacyna",
+  "Indometicina",
+  "Inteban sp",
+  "Mezolin",
+  "Indometacina",
+  "Indometacinum",
+  "Indo-Lemmon",
+  "Osmosin",
+  "Indocin Sr",
+  "Tivorbex",
+  "Indomet 140",
+  "Indometacyna [Polish]",
+  "FLAM",
+  "CCRIS 3502",
+  "HSDB 3101",
+  "XXE1CET956",
+  "NCI-C56144",
+  "EINECS 200-186-5",
+  "BRN 0497341",
+  "2-[1-(4-chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetic acid"
+ ],
+ "zaktualizowano": "2024-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM145/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of indomethacin in breastmilk and therapeutic administration directly to infants, it is acceptable to use in nursing mothers. However, other agents with more published information on use during lactation may be preferable, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In one study, 15 women who were less than 1 week postpartum took indomethacin in dosages ranging from 75 mg orally to 300 mg rectally daily (0.94 to 4.29 mg/kg daily). Milk samples were taken before and after feeding at times ranging from 0.7 to 21.4 hours after the last dose. In 11 of the women, indomethacin was undetectable (<20 mcg/L) in milk. Assuming that undetectable milk levels had the concentration of the assay limit, the average dosage excreted in milk was 0.27% of maternal weight-adjusted dosage. However, the excretion of the glucuronide metabolite into milk was not measured and it could be absorbed as indomethacin by a newborn.\nEight women donated milk on days 4, 12 and 26 postpartum for an in vitro measurement of protein binding and lipid partitioning of indomethacin in milk. Results were used to estimate passage into milk using physicochemical principles. The authors calculated that a breastfed infant would receive about 0.5% of the maternal weight-adjusted dosage or about 3% of the neonatal dose used to treat patent ductus arteriosus with a maternal dosage of 75 mg daily. This study did not account for possible contribution to the infant's dosage by the glucuronide metabolite.\nInfant Levels. In 6 of 7 infants breastfed during maternal indomethacin use of 75 mg orally to 300 mg rectally daily, the drug was undetectable (<20 mcg/L) in plasma. One infant had a plasma level of 47 mcg/L at 1.2 hours after the midpoint of the breastfeed. This infant's mother was taking 2.94 mg/kg daily of indomethacin and had a milk indomethacin level of 111 mcg/L 2.3 hours after the dose."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In one case report, a breastfeeding mother had been taking daily doses of indomethacin that increased to 200 mg (3 mg/kg) from the fourth to the sixth day postpartum. On the same day that indomethacin was stopped, the infant had a generalized seizure, followed by another on the next day. No metabolic findings could account for the convulsions and no indomethacin levels were measured in the mother or infant. This case was rated as indomethacin possibly causing the seizure; however, later studies and the established therapeutic use of indomethacin in newborns make this causality seem unlikely.\nIn one study, 7 women breastfed their neonates while taking indomethacin. No adverse effects were noted in any of the infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Flurbiprofen, Ibuprofen, Naproxen, Piroxicam"
+  ]
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "id": "LM1333",
+ "tytul": "Enasidenib",
+ "synonimy": [
+  "Enasidenib",
+  "AG-221",
+  "Enasidenib [INN]",
+  "IDHIFA",
+  "1446502-11-9",
+  "UNII-3T1SS4E7AG",
+  "CC-90007 Free Base",
+  "Enasidenib [USAN:INN]",
+  "3T1SS4E7AG",
+  "2-Methyl-1-(4-(6-(trifluoromethyl)pyridin-2-yl)-6-(2-(trifluoromethyl)pyridin-4-ylamino)-1,3,5-triazin-2-ylamino)propan-2-ol",
+  "2-Propanol, 2-methyl-1-((4-(6-(trifluoromethyl)-2-pyridinyl)-6-((2-(trifluoromethyl)-4-pyridinyl)amino)-1,3,5-triazin-2-yl)amino)-"
+ ],
+ "zaktualizowano": "2020-12-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1333/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of enasidenib during breastfeeding. Because enasidenib is 98.5% bound to plasma proteins and its active metabolite is 96.6% bound to plasma proteins, the amount in milk is likely to be low. However, the half-life of enasidenib is 137 hours and it might accumulate in the infant. The manufacturer recommends that breastfeeding be discontinued during enasidenib therapy and for at least 2 months after the end of therapy."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

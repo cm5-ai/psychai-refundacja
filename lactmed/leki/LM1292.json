@@ -1,0 +1,39 @@
+{
+ "id": "LM1292",
+ "tytul": "Bivaracetam",
+ "synonimy": [
+  "Brivaracetam",
+  "Briviact",
+  "Rikelta",
+  "UNII-U863JGG2IA",
+  "UCB 34714",
+  "UCB-34714",
+  "UCB34714",
+  "CHEBI:133013",
+  "DTXSID00905081 (2S)-2-[(4R)-2-oxo-4-propylpyrrolidin-1-yl]butanamide"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1292/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information on use of brivaracetam during breastfeeding indicates that infants might have serum levels in the therapeutic range with exclusive breastfeeding, but undetectable levels with partial breastfeeding. If brivaracetam is required by the mother, it is not a reason to discontinue breastfeeding, but monitor the infant for drowsiness, agitation, adequate weight gain, and developmental milestones, especially in younger, exclusively breastfed infants and when using combinations of drugs. Measurement of infant serum levels may help rule out toxicity if there is a concern."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "In published reports of anticonvulsant use during breastfeeding, most women were taking a combination of anticonvulsants. Some other anticonvulsants (e.g., phenytoin, carbamazepine) stimulate the metabolism of other drugs including anticonvulsants, whereas others (e.g., valproic acid) inhibit the metabolism of other drugs. Therefore, the relationship of the maternal dosage to the concentration in breastmilk can be quite variable, making calculation of the weight-adjusted percentage of maternal dosage less meaningful than for other drugs in this database.\nMaternal Levels. Two mothers with seizure disorders were reported in one paper. The first mother was taking brivaracetam 75 mg twice daily during pregnancy and breastfeeding. On day 5 postpartum, 12 hours after her prior dose, her milk brivaracetam levels were 3.6 micromoles/L (764 mcg/L) in foremilk and 3.2 micromoles/L (679 mcg/L) in hindmilk. On week 3 postpartum, 12 hours after her prior dose, her milk brivaracetam levels were 3.4 (722 mcg/L) micromoles/L in foremilk and 3.2 micromoles/L (679 mcg/L) in hindmilk. A second mother was taking brivaracetam 100 mg twice daily. The second mother was taking brivaracetam 100 mg twice daily as well as lacosamide 200 mg twice daily, and perampanel 8 mg daily. Her milk brivaracetam levels were 5 micromoles/L (1.06 mg/L) on day 5 postpartum 12 hours after the previous dose and 4.5 micromoles/L (955 mcg/L) on week 5 postpartum 13 hours after the previous dose.\nInfant Levels. Three infants were breastfed by mothers taking brivaracetam during pregnancy and breastfeeding. One pair of twins had umbilical cord concentrations of 4.1 and 4.2 micromoles/L (870 and 892 mcg/L) at birth, one hour after that previous maternal dose of 75 mg (taken twice daily), but both infants, who were partially breastfed twice daily had undetectable (<0.47 micromoles/L; <100 mcg/L) serum concentrations at 5 days and 3 weeks postpartum. The second mother was taking brivaracetam 100 mg twice daily as well as lacosamide 200 mg twice daily, and perampanel 8 mg daily. Her infant was exclusively breastfed and had serum brivaracetam concentration of 1.2 micromoles/L (255 mcg/L) on day 1, day 5 and week 5 postpartum, which is in the lower end of the therapeutic range. At week 11 postpartum, the infant was partially breastfed and brivaracetam was undetectable in the infant’s serum."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Three infants, including one pair of twins, were breastfed while their mothers were taking brivaracetam. The twins were partially breastfed twice daily by a mother taking only brivaracetam and the other infant was exclusively breastfed by a mother taking brivaracetam, lacosamide and perampanel for 6 weeks, then partially breastfed. None of the infants exhibited reduced wakefulness or feeding problems. At one year of age, the mothers reported normal development."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Seizure Disorder) Carbamazepine, Divalproex, Gabapentin, Lamotrigine, Oxcarbazepine, Phenytoin, Valproic Acid"
+  ]
+ ]
+}

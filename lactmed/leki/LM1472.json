@@ -1,0 +1,51 @@
+{
+ "id": "LM1472",
+ "tytul": "Brexanolone",
+ "synonimy": [
+  "Allopregnanolone",
+  "Brexanolone",
+  "Zulresso",
+  "Allotetrahydroprogesterone",
+  "3alpha,5alpha-THP",
+  "SAGE-547",
+  "Allopregnan-3alpha-ol-20-one",
+  "5alpha-Pregnan-3alpha-ol-20-one",
+  "Brexanolone [USAN]",
+  "UNII-S39XZ5QV8Y",
+  "516-54-1",
+  "3-alpha,5-alpha-Pregnanolone",
+  "S39XZ5QV8Y",
+  "SGE-102",
+  "3alpha-Hydroxy-5alpha-dihydroprogesterone",
+  "3-alpha,5-alpha-Tetrahydroprogesterone",
+  "BRN 3211363",
+  "3-alpha-Hydroxy-5-alpha-pregnan-20-one",
+  "5-alpha-Pregnan-20-one, 3-alpha-hydroxy-",
+  "4-08-00-00664 (Beilstein Handbook Reference)",
+  "Pregnan-20-one, 3-hydroxy-, (3-alpha,5-alpha)- (9CI)"
+ ],
+ "zaktualizowano": "2023-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1472/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low amounts of brexanolone in milk and low oral bioavailability, brexanolone would not be expected to cause any adverse effects in breastfed infants. If brexanolone is required by the mother, it is not a reason to discontinue breastfeeding. Because excessive sedation or sudden loss of consciousness can occur during brexanolone infusion, it is suggested that patients provide a separate caregiver for any child who is present during the infusion."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Brexanolone is the pharmaceutical name for the naturally occurring hormone allopregnanolone. Brexanolone has an oral bioavailability of less than 5% in adults.\nMaternal Levels. Twelve healthy women who were less than 6 months postpartum received an intravenous infusion of brexanolone titrated to a maximum of 90 mg/kg per hour then tapered down over 60 hours at various study sites. Breastmilk was collected at random times, but at least every 12 hours, daily for 7 days. Peak milk levels occurred between hours 24 and 48 of the infusion when the maximum dosage was being infused. The average peak allopregnanolone breastmilk level was 125 mcg/L. Milk levels fell below the limit of detection (5 mcg/L) in most women by about 3 days after the end of the infusion. These data were incorporated into a population pharmacokinetic model that predicted that 95% of patients have milk allopregnanolone levels <10 mcg/L at 36 hours after the end of the infusion. The predicted median weight-adjusted percent of maternal dosage was 0.69% and the maximum was 1.3%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In a study of 12 healthy women given a 60-hour infusion of brexanolone, there were no reports of effects on milk production according to the manufacturer."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline, Zuranolone"
+  ]
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "palonosetron",
+ "tytul": "Palonosetron",
+ "synonimy": [
+  "Palonosetron",
+  "Aloxi",
+  "2-Qhbiqo",
+  "UNII-5D06587D6R",
+  "5D06587D6R",
+  "DTXSID5048342",
+  "GTPL7486",
+  "CHEMBL1189679",
+  "DTXCID6028317",
+  "(3aS)-2-[(3S)-1-azabicyclo[2.2.2]octan-3-yl]-3a,4,5,6-tetrahydro-3H-benzo[de]isoquinolin-1-one",
+  "Netupitant",
+  "Akynzeo",
+  "290297-26-6",
+  "Ro-67-3189",
+  "Ro-673189000",
+  "Ro 67-3189/000",
+  "CHEMBL206253",
+  "CHEBI:85155",
+  "7732P08TIR",
+  "2-[3,5-bis(trifluoromethyl)phenyl]-N,2-dimethyl-N-[4-(2-methylphenyl)-6-(4-methylpiperazin-1-yl)pyridin-3-yl]propanamide"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/palonosetron/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of palonosetron during breastfeeding. Until more data become available, palonosetron should be used with caution during breastfeeding. An alternate drug may be preferred.\nNo information is available on the use of netupitant, which is the other component of the combination product Akynzeo, during breastfeeding. Because netupitant and its metabolites are more than 97% bound to plasma proteins, the amount in milk is likely to be low. Until more data become available, Akynzeo should be used with caution during breastfeeding. An alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ondansetron"
+  ]
+ ]
+}

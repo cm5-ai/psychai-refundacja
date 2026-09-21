@@ -1,0 +1,39 @@
+{
+ "id": "LM1448",
+ "tytul": "Clopidogrel",
+ "synonimy": [
+  "Clopidogrel bisulfate",
+  "Iscover",
+  "Plavix",
+  "Myogrel",
+  "Plavitor",
+  "Osvix",
+  "UNII-08I79HTP27",
+  "SR 25990C",
+  "methyl (2S)-2-(2-chlorophenyl)-2-(6,7-dihydro-4H-thieno[3,2-c]pyridin-5-yl)acetate"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1448/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information from two mothers indicates that minute quantities of clopidogrel and its metabolites are excreted into milk and one breastfed infant had trivial serum levels. Two mothers and the manufacturer reported that no adverse effects have been observed in breastfed infants with maternal clopidogrel use during lactation in two cases. If a mother requires clopidogrel, it is not a reason to discontinue breastfeeding, but monitor the infant for bruising or bleeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Milk samples were obtained over a 24-hour period from two nursing mothers who were taking clopidogrel 75 mg daily. In the first patient, milk collections were done at 7 and 9 months postpartum. At 220 days months postpartum, clopidogrel concentrations ranged from 0.03 to 1.11 mcg/L, clopidogrel carboxylic acid concentrations ranged from 1.5 to 22.44 mcg/L and clopidogrel active metabolite concentrations were below the limit of quantification (<0.008 mcg/L). At 288 days postpartum, clopidogrel concentrations ranged from 0.42 to 10.46 mcg/L, clopidogrel carboxylic acid concentrations ranged from 1.25 to 36.32 mcg/L and clopidogrel active metabolite concentrations were below the limit of quantification (<0.008 mcg/L) in 5 samples and 0.18 mcg/L in 1 sample. In the second patient, milk samples taken at 435 days postpartum, clopidogrel concentrations ranged from 0.02 to 1.69 mcg/L, clopidogrel carboxylic acid concentrations ranged from 1.43 to 26.96 mcg/L and clopidogrel active metabolite concentrations were below the limit of quantification (<0.008 mcg/L). Relative infant dosages averaged 0.008% for clopidogrel and 0.071% when the two metabolites were included.\nInfant Levels. An infant aged 14 months was partially breastfed by a mother taking clopidogrel 75 mg daily. A blood sample was obtained from the infant. The concentrations in the infant blood sample were clopidogrel <0.01 mcg/L, CAMD <0.01 mcg/L, and clopidogrel carboxylic acid 0.05 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Two infants aged 7 to 14 months were partially breastfed by mothers taking clopidogrel 75 mg daily. No adverse health issues were reported for either infant by their mothers."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Aspirin"
+  ]
+ ]
+}

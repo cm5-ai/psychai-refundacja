@@ -1,0 +1,50 @@
+{
+ "id": "LM395",
+ "tytul": "Zaleplon",
+ "synonimy": [
+  "zaleplon",
+  "Sonata",
+  "Zerene",
+  "151319-34-5",
+  "UNII-S62U433RMH",
+  "ZAL-846",
+  "DEA No. 2781",
+  "SKP-1041",
+  "ZAL 846",
+  "LJC 10846",
+  "S62U433RMH",
+  "CL 284846",
+  "L846",
+  "CL 284,846",
+  "Zaleplon [USAN:USP:INN:BAN]",
+  "3'-(3-Cyanopyrazolo(1,5-a)pyrimidin-7-yl)-N-ethylacetanilide",
+  "N-(3-(3-Cyanopyrazolo(1,5-a)pyrimidin-7-yl)phenyl)-N-ethylacetamide",
+  "3'-(3-Cyanopyrazolo(1,5-alpha)pyrimidin-7-yl)-N-ethylacetanilide",
+  "Acetamide, N-(3-(3-cyanopyrazolo(1,5-a)pyrimidin-7-yl)phenyl)-N-ethyl-",
+  "Acetamide, N-(3-(3-cyanopyrazolo(1,5-alpha)pyrimidin-7-yl)phenyl)-N-ethyl-"
+ ],
+ "zaktualizowano": "2023-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM395/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Little information is available on the use of zaleplon during breastfeeding. A safety scoring system finds zaleplon to be not recommended during breastfeeding. However, the low levels of zaleplon in breastmilk and its short half-life indicate that amounts ingested by the infant are small and would not be expected to cause any adverse effects in older breastfed infants. Other agents may be preferred in newborn and preterm infants. Monitor the infant for sedation, poor feeding and poor weight gain."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Five nursing mothers who were at least 14 days postpartum were given a single oral dose of zaleplon 10 mg. The peak milk level averaged 14 mcg/L at 1.2 hours after the dose. The mean half-life in milk was 1.1 hours. Using the peak milk level data from this study, an exclusively breastfed infant would receive an estimated maximum of 2.1 mcg/kg daily with this maternal dosage regimen or about 1.4% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Zolpidem"
+  ]
+ ]
+}

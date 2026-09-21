@@ -1,0 +1,51 @@
+{
+ "id": "LM891",
+ "tytul": "Nebivolol",
+ "synonimy": [
+  "Nebivolol",
+  "Vasoxyn",
+  "Nobiten",
+  "DTXSID9040556",
+  "CHEBI:64019",
+  "R-65824",
+  "Ro-67555",
+  "R65,824",
+  "Nebivololum",
+  "UNII-030Y90569U",
+  "R 065824",
+  "nebibolol",
+  "SCHEMBL19863",
+  "R 67138",
+  "CHEMBL434394",
+  "GTPL7246",
+  "DTXCID7020556",
+  "BDBM84735",
+  "CHEBI:64022",
+  "HY-B0203B",
+  "1-(6-fluoro-3,4-dihydro-2H-chromen-2-yl)-2-[[2-(6-fluoro-3,4-dihydro-2H-chromen-2-yl)-2-hydroxyethyl]amino]ethanol"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM891/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because no information is available on the use of nebivolol during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the excretion rate. With 98% protein binding and a relatively long half-life, nebivolol presents a moderate risk for accumulation in infants.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Propranolol, Labetalol, Metoprolol"
+  ]
+ ]
+}

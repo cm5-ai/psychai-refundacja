@@ -1,0 +1,50 @@
+{
+ "id": "LM1239",
+ "tytul": "Ombitasvir",
+ "synonimy": [
+  "Ombitasvir",
+  "Viekira",
+  "ABT-267",
+  "UNII-2302768XJ8",
+  "ABT 267",
+  "ABT267",
+  "CHEBI:85183",
+  "GTPL11272",
+  "EX-A5846",
+  "BDBM50453112",
+  "AKOS025396425",
+  "CCG-270561",
+  "CS-5330",
+  "DB09296",
+  "NCGC00510316-01",
+  "NCGC00510316-02",
+  "AO178040",
+  "DA-56437",
+  "DTXSID201027920",
+  "methyl N-[(2S)-1-[(2S)-2-[[4-[(2S,5S)-1-(4-tert-butylphenyl)-5-[4-[[(2S)-1-[(2S)-2-(methoxycarbonylamino)-3-methylbutanoyl]pyrrolidine-2-carbonyl]amino]phenyl]pyrrolidin-2-yl]phenyl]carbamoyl]pyrrolidin-1-yl]-3-methyl-1-oxobutan-2-yl]carbamate"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1239/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ombitasvir is no longer marketed in the United State. It has not been studied in nursing mothers being treated for hepatitis C infection. Because it is 99.9% bound to maternal plasma proteins, amounts in breastmilk are likely to be very low.\nRitonavir used as a booster has been studied in several studies of breastfeeding mothers. It is excreted into milk in measurable concentrations and low levels can be found in the blood of some breastfed infants. No reports of adverse reactions in breastfed infants have been reported. For more information, refer to the LactMed record on ritonavir.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

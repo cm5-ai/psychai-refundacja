@@ -1,0 +1,40 @@
+{
+ "id": "LM1308",
+ "tytul": "Ferric Derisomaltose",
+ "synonimy": [
+  "ferric derisomaltose",
+  "MonoFerric",
+  "Diafer",
+  "NS32",
+  "UNII-AHU547PI9H",
+  "WHO 9712",
+  "Monofer",
+  "Iron isomaltoside 1000",
+  "iron(3+)",
+  "(2S,3R,4R,5R)-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxan-2-yl]oxyhexane-1,2,3,4,5-pentol"
+ ],
+ "zaktualizowano": "2025-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1308/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that breastmilk iron is increased 3 days after an intravenous infusion of ferric derisomaltose (formerly called iron isomaltoside), but levels remain within the normal range. By 7 days after the dose, breastmilk iron levels were similar to that of mothers taking oral iron. Ferric derisomaltose appears to be acceptable to use in nursing mothers with no special precautions required. For additional information on iron use during breastfeeding, see the monograph on Iron Salts."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Thirty women with postpartum anemia were given intravenous ferric derisomaltose 1200 mg in a single intravenous dose over 15 minutes. They were compared to 35 women with postpartum anemia who took 100 mg of oral iron once or twice daily. Breastmilk samples were taken before treatment, 3 (range 2 to 4) days and again at 7 (range 6 to 8) days after the intravenous iron dose. At the 3-day point, the average breastmilk iron concentration was 0.72 mg/L in the IV iron group and 0.4 mg/L in the oral iron group, which was significantly different. At the 7-day point, the average breastmilk iron concentration was 0.47 mg/L in the IV iron group and 0.44 mg/L in the oral iron group, which was not significantly different.\nA study in Japan of women with postpartum hemorrhage gave ferric derisomaltose in a dose determined by a formula for iron need. The cumulative total iron dose in 1 or 2 doses was 1000 mg in 6 patients, 1500 mg in 14 patients, and 2000 mg in 1 patient. Breastmilk iron concentrations were in the normal range for the 21 women tested, with an average concentration of 0.98 mg/L on day 4 after the infusion falling to 0.66 mg/L by day 15.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a randomized, nonblinded study, randomly assigned to receive either a single intravenous dose of 1200 mg ferric derisomaltose (iron isomaltoside; n = 97) or oral iron 40 to 50 mg oral iron daily or 100 mg oral iron one or two times daily (n = 99). There was no significant difference between groups in the median time to lactogenesis, nor in the time of discontinuation of breastfeeding among those who weaned their infants.\nA study in Japan of women with postpartum hemorrhage gave ferric derisomaltose in a dose determined by a formula for iron need. The cumulative total iron dose in 1 or 2 doses was 1000 mg in 6 patients, 1500 mg in 14 patients, and 2000 mg in 1 patient. Adverse reactions occurred in 5 of 21 breastfed neonates and included neonatal jaundice, hydrocele, anal fissure, and diaper dermatitis diaper. With the exception of neonatal jaundice, all events were mild; none were severe and none appeared to be directly related to ferric derisomaltose."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ferric Carboxymaltose, Iron Sucrose"
+  ]
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "LM317",
+ "tytul": "Desipramine",
+ "synonimy": [
+  "desipramine",
+  "Norimipramine",
+  "Desipramin",
+  "Demethylimipramine",
+  "Desmethylimipramine",
+  "Desimipramine",
+  "Monodemethylimipramine",
+  "Dezipramine",
+  "Dimethylimipramine",
+  "desipraminum",
+  "Desipramina",
+  "Pertofrane",
+  "Desipramine (D4)",
+  "DMI (pharmaceutical)",
+  "Methylaminopropyliminodibenzyl",
+  "Imipramine, demethyl-",
+  "Desipramine [INN:BAN]",
+  "Desipraminum [INN-Latin]",
+  "Desipramina [INN-Spanish]",
+  "50-47-5",
+  "N-(3-Methylaminopropyl)iminobibenzyl",
+  "5-(gamma-Methylaminopropyl)iminodibenzyl",
+  "DMI 50475",
+  "UNII-TG537D343B",
+  "CCRIS 7091",
+  "HSDB 3052",
+  "EINECS 200-040-0",
+  "TG537D343B",
+  "BRN 1432747",
+  "DMI",
+  "10,11-Dihydro-5-(3-methylaminopropyl)-5H-dibenz(b,f)azepine",
+  "5-20-08-00096 (Beilstein Handbook Reference)",
+  "5H-Dibenz(b,f)azepine-5-propanamine, 10,11-dihydro-N-methyl-",
+  "5H-Dibenz(b,f)azepine, 10,11-dihydro-5-(3-(methylamino)propyl)-"
+ ],
+ "zaktualizowano": "2022-04-18",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM317/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Milk levels of desipramine and its metabolite are low and have not been detected in the serum of breastfed infants. Immediate side effects have not been reported and a limited amount of follow-up has found no adverse effects on infant growth and development. Desipramine use during breastfeeding would usually not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. A safety scoring system finds desipramine use to be possible during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Desipramine is metabolized to 2-hydroxydesipramine which has antidepressant activity equal to that of desipramine.\nMaternal Levels. A mother who was taking desipramine 300 mg daily had average milk desipramine plus 2-hydroxydesipramine milk levels of 338 mcg/L at 9 hours after the dose 10 to 11 weeks postpartum.\nInfant Levels. Two infants whose mothers were taking desipramine during pregnancy and lactation with a maternal dosage of 200 mg daily. One infant was tested at 2.3 and 14.9 weeks of age while breastfeeding 7 to 9 times daily and the other was tested at 5.4 weeks of age while breastfeeding 10 to 12 weeks of age. Neither had detectable (<25 mcg/L) serum desipramine.\nTwo other infants had mothers who began desipramine postpartum. One infant whose mother took desipramine 150 mg daily was tested at 12.3 weeks of age while breastfeeding 4 to 6 times daily. The other whose mother took desipramine 37 mg daily was tested at 33 weeks of age while breastfeeding 0 to 3 times daily. Both had undetectable (<10 mcg/L) serum desipramine levels."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One infant whose mother took desipramine 100 mg daily for 8 weeks starting at 16 weeks postpartum was followed up at 36 months of age. No adverse effects on growth and development were found."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Desipramine has caused increased serum prolactin levels in some patients. The clinical relevance of these findings in nursing mothers is not known. The prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nAn observational study looked at outcomes of 2859 women who took an antidepressant during the 2 years prior to pregnancy. Compared to women who did not take an antidepressant during pregnancy, mothers who took an antidepressant during all 3 trimesters of pregnancy were 37% less likely to be breastfeeding upon hospital discharge. Mothers who took an antidepressant only during the third trimester were 75% less likely to be breastfeeding at discharge. Those who took an antidepressant only during the first and second trimesters did not have a reduced likelihood of breastfeeding at discharge. The antidepressants used by the mothers were not specified.\nA retrospective cohort study of hospital electronic medical records from 2001 to 2008 compared women who had been dispensed an antidepressant during late gestation (n = 575) to those who had a psychiatric illness but did not receive an antidepressant (n = 1552) and mothers who did not have a psychiatric diagnosis (n = 30,535). Women who received an antidepressant were 37% less likely to be breastfeeding at discharge than women without a psychiatric diagnosis, but no less likely to be breastfeeding than untreated mothers with a psychiatric diagnosis. None of the mothers were taking desipramine.\nIn a study of 80,882 Norwegian mother-infant pairs from 1999 to 2008, new postpartum antidepressant use was reported by 392 women and 201 reported that they continued antidepressants from pregnancy. Compared with the unexposed comparison group, late pregnancy antidepressant use was associated with a 7% reduced likelihood of breastfeeding initiation, but with no effect on breastfeeding duration or exclusivity. Compared with the unexposed comparison group, new or restarted antidepressant use was associated with a 63% reduced likelihood of predominant, and a 51% reduced likelihood of any breastfeeding at 6 months, as well as a 2.6-fold increased risk of abrupt breastfeeding discontinuation. Specific antidepressants were not mentioned."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nortriptyline, Paroxetine, Sertraline"
+  ]
+ ]
+}

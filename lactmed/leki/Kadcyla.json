@@ -1,0 +1,37 @@
+{
+ "id": "Kadcyla",
+ "tytul": "Trastuzumab Emtansine",
+ "synonimy": [
+  "Ado-Trastuzumab Emtansine",
+  "Kadcyla",
+  "PRO 132365",
+  "PRO132365",
+  "T-DM 1",
+  "T-DM1",
+  "Trastuzumab conjugate with emtasine",
+  "Trastuzumab-DM1",
+  "Trastuzumab-MCC-DM 1",
+  "Trastuzumab-MCC-DM1",
+  "Trastuzumab-MCC-DM1 antibody-drug conjugate"
+ ],
+ "zaktualizowano": "2023-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/Kadcyla/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of trastuzumab emtansine during breastfeeding. Because trastuzumab is a large protein molecule with a molecular weight of 145,531 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. However, emtansine (DM1) is a small-molecule microtubule inhibitory drug, which might be excreted into milk. The manufacturer recommends that breastfeeding be discontinued during trastuzumab deruxtecan therapy and for 7 months after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

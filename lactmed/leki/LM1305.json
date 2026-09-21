@@ -1,0 +1,51 @@
+{
+ "id": "LM1305",
+ "tytul": "Teicoplanin",
+ "synonimy": [
+  "Teicoplaninum",
+  "Tecoplanina",
+  "Tecoplanine",
+  "Tecoplaninum",
+  "Teichomycin",
+  "Teicoplanina",
+  "Teicoplanine",
+  "Targocid",
+  "TEICOPLANIN",
+  "Antibiotic 8327A",
+  "Teicoplanine [French]",
+  "Teicoplaninum [Latin]",
+  "Teicoplanina [Spanish]",
+  "Tecoplanine [INN-French]",
+  "Tecoplaninum [INN-Latin]",
+  "Tecoplanina [INN-Spanish]",
+  "Teicoplanine [INN-French]",
+  "Teicoplaninum [INN-Latin]",
+  "Teicoplanina [INN-Spanish]",
+  "UNII-4U3D3YY81M",
+  "Teicoplanin [USAN:INN:BAN]",
+  "4U3D3YY81M",
+  "MDL 507",
+  "8327A",
+  "61036-62-2"
+ ],
+ "zaktualizowano": "2021-08-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1305/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Teicoplanin is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. Limited data indicate that teicoplanin is poorly excreted into breastmilk. Because teicoplanin is not orally absorbed it is unlikely to adversely affect the breastfed infant. One infant was safely breastfed during maternal therapy with teicoplanin and ceftriaxone. Until more information becomes available, monitor the breastfed infant for gastrointestinal disturbances such as diarrhea, particularly in newborn and preterm infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman who was 2 months postpartum was given teicoplanin 500 mg twice daily for an infected fistula. The drug was discontinued after 3 doses and a sample of milk from a complete emptying of the breast was taken 19 hours after the third dose. The concentration of the A2-2 component of teicoplanin in breastmilk was 0.94 mg/L. The authors estimated that this would represent a dose to the infant of 141 mcg/kg daily or about 1.4% of the maternal weight-adjusted dosage. However, if the other components of teicoplanin distribute into milk similarly, these values could be approximately doubled.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother who was exclusively nursing her 52-day-old infant developed a soft-tissue infection. She was treated with intravenous teicoplanin 400 mg every 12 hours for 3 doses, then 400 mg daily for 5 days total, intravenous ceftriaxone 1 gram daily, and topical mupirocin cream twice daily. A careful follow-up indicated that her infant had no adverse effects."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Vancomycin"
+  ]
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "sulopenem_probeneci",
+ "tytul": "Sulopenem and Probenecid",
+ "synonimy": [
+  "Sulopenem etzadroxil",
+  "probenecid",
+  "Orlynvah",
+  "CP-70429",
+  "CP-70,429",
+  "XX514BJ1XW",
+  "CP 70429",
+  "SCHEMBL2256409",
+  "CHEMBL1908305",
+  "GTPL10862",
+  "DTXSID20869656",
+  "EX-A4518",
+  "AKOS040745084",
+  "CP-65207-S",
+  "CP70429",
+  "DB15284",
+  "AC-33244",
+  "MS-25396",
+  "CP-70429",
+  "HY-105284",
+  "CS-0025618",
+  "D05969",
+  "G12694",
+  "Q27294038",
+  "(5R,6S)-6-[(1R)-1-hydroxyethyl]-7-oxo-3-[(1R,3S)-1-oxothiolan-3-yl]sulfanyl-4-thia-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/sulopenem_probeneci/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of sulopenem during breastfeeding. Its excretion into breastmilk is likely similar to that of imipenem and meropenem, which produce low levels in milk that are not expected to cause adverse effects in breastfed infants. Limited information indicates that maternal doses of probenecid up to 2 grams daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush has been reported with beta-lactams, but these effects have not been adequately evaluated. Sulopenem-probenecid is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was given probenecid 500 mg orally 4 times daily to enhance cephalexin serum levels. After 16 days of therapy at 4.5 weeks postpartum, 12 samples of breastmilk (6 pairs of fore- and hindmilk) were collected over a 16-hour period. The average concentration of probenecid in milk was 964 mcg/L, corresponding to an infant dosage of 145 mcg/kg daily and 0.7% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

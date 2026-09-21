@@ -1,0 +1,30 @@
+{
+ "id": "LM733",
+ "tytul": "Rotavirus Vaccines",
+ "synonimy": [
+  "Rotarix",
+  "Rotateq",
+  "Rotavac",
+  "RotaSiil"
+ ],
+ "zaktualizowano": "2025-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM733/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Rotavirus vaccines are used only in infants and are not indicated for use in women of childbearing age. Breastfeeding protects infants against acute gastroenteritis caused by rotavirus. However, breastfeeding can reduce the immune response of an infant to rotavirus vaccines in low- and middle-income countries. Breastfeeding might also reduce viral shedding in the stool by the vaccinated infants. Maternal antibodies are probably an important cause of the lower response rate, but lactadherin, a milk glycoprotein, and infant genetics may also be factors. The extent of the effect depends on the maternal anti-rotavirus antibody titer in breastmilk with higher titers found in less developed areas. Withholding breastfeeding for up to 2 hours before and after vaccine administration has been recommended to minimize the interference. However, other studies found that withholding breastfeeding for either one hour before and after immunization, or for 30 minutes before vaccination had no effect on seroconversion. Reviews have concluded that withholding of breastfeeding at the time of vaccination has no effect on seroconversion of infants. A new vaccine strain (RV3-BB) has been developed that is not as susceptible to maternal milk antibodies and provides good protection by 18 weeks of age.\nA European study found no difference in rotavirus infection rates during the first season between infants who were breastfed and formula-fed when they received rotavirus vaccination. In the second season, protection against infection was slightly less in breastfed infants. A German study found that exclusive or partial breastfeeding increased the risk of breakthrough infection fourfold. A study in Indonesia found that rotavirus vaccine was cost-effective for the health system, even with improved breastfeeding rates.\nStudies have found that breastfeeding decreases the risk of intestinal intussusception caused by rotavirus vaccine by about half."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A subset of 300 infants in a multicenter European rotavirus efficacy trial had antirotavirus IgA titers measured 1 to 2 months after the second rotavirus dose (Rotarix - GSK). Breast-fed infants had an 85.5% conversion rate compared with 89.2% rate in exclusively formula-fed infants, which was not statistically different. The serum antirotavirus IgA concentrations were 185.8 units/mL and 231.5 units/mL in the breastfed and exclusively formula-fed infants, respectively.\nTwo hundred fifty breastfed infants were randomized to receive their routine rotavirus vaccination (Rotarix) with either unrestricted breastfeeding or withholding breastfeeding from 1 hour before to 1 hour after the vaccination. No difference were found in the rate of seroconversion between the two groups of infants.\nFour hundred infants in India were randomized to either be breastfed before receiving rotavirus vaccine (Rotarix) or to not be breastfed within 30 minutes of their vaccination. Vaccinations were given at 6 to 7 weeks and at 10 to 14 weeks of age. Of the 388 infants with evaluable information, no difference was found in the seroconversion rate between the two groups.\nAmong 45 breastfed (at least 4 times daily) Nicaraguan infants who were given a rotavirus vaccination (Rotateq-MSD), 31 infants seroconverted and 14 infants did not. The seroconversion failures were mostly in infants who had high preimmunization IgA levels and whose mothers had high serum IgG antibody levels against rotavirus. No correlation was found between breastmilk IgA or neutralizing antibodies and seroconversion, although the sample size was small.\nIn a monovalent G1P rotavirus vaccine (Rotarix) trial in Bangladesh, rotavirus-specific plasma IgA antibody seroconversion rates were higher among infants of maternal non-secretors of antibodies (39%) compared to mothers who secreted anti-rotavirus antibodies (23%). Maternal secretor status was a significant predictor of infant response to the vaccine."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

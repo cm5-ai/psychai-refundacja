@@ -1,0 +1,33 @@
+{
+ "id": "LM1269",
+ "tytul": "Erlotinib",
+ "synonimy": [
+  "Erlotinib",
+  "183321-74-6",
+  "Erlotinib [INN:BAN]",
+  "UNII-J4T82NDH7E",
+  "J4T82NDH7E",
+  "HSDB 8082",
+  "4-Quinazolinamine, N-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)-"
+ ],
+ "zaktualizowano": "2018-12-03",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1269/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of erlotinib during breastfeeding. Because erlotinib is 93% bound to plasma proteins, the amount in milk is likely to be low. However, its half-life is about 36 hours and it might accumulate in the infant. It is also given in combination with gemcitabine for pancreatic cancer, which may increase the risk to the infant. The manufacturer recommends that breastfeeding be discontinued during erlotinib therapy and for 2 weeks after the final dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

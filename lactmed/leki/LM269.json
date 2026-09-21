@@ -1,0 +1,48 @@
+{
+ "id": "LM269",
+ "tytul": "Trifluoperazine",
+ "synonimy": [
+  "trifluoperazine",
+  "Trifluperazine",
+  "Trifluoroperazine",
+  "Trifluoperazina",
+  "Trifluoperazin",
+  "Triperazine",
+  "Triflurin",
+  "Flurazine",
+  "Trifluoromethylperazine",
+  "Trifluoperazinum",
+  "UNII-214IZI85K3",
+  "CCRIS 6994",
+  "RP 7623",
+  "HSDB 3195",
+  "NSC 17474",
+  "EINECS 204-219-4",
+  "NSC 46061",
+  "10-[3-(4-methylpiperazin-1-yl)propyl]-2-(trifluoromethyl)phenothiazine"
+ ],
+ "zaktualizowano": "2025-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM269/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of trifluoperazine up to 10 mg daily do not affect the breastfed infant. Very limited long-term follow-up data indicate no adverse developmental effects when other phenothiazines are used alone. A safety scoring system finds trifluoperazine to be not recommended during breastfeeding. Because there is little published experience with trifluoperazine during breastfeeding, other antipsychotic agents may be preferred, especially wile nursing an newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two mothers taking trifluoperazine 5 and 10 mg per day orally had undetectable milk levels (<1 mcg/L) of trifluoperazine.\nInfant Levels. Trifluoperazine was undetectable (<2 mcg/L) in urine at 86 days of age in an infant whose mother was taking trifluoperazine 10 mg daily.\nThe infant of one mother who was taking trifluoperazine 10 mg per day orally while breastfeeding had a serum trifluoperazine level of 1 mcg/L. The infant was 1.9 weeks old when tested and the mother had been taking trifluoperazine during pregnancy which might have contributed to the infant's serum level."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Two mothers taking trifluoperazine 5 and 10 mg per day orally breastfed their infants from 1 week and 8 weeks of age, respectively. Mental and psychomotor development were normal at various times up to 30 months of age.\nOne infant was breastfed from birth during maternal trifluoperazine 10 mg daily in addition to clonazepam 0.25 mg daily and valproic acid 500 mg daily. No adverse effects in the infant were reported by the mother (follow-up time unspecified).\nOne mother began taking trifluoperazine (dosage unspecified) 2 months postpartum while breastfeeding her infant. She also started olanzapine 10 mg daily, paroxetine and procyclidine (dosages unspecified). The infant experiences no adverse reactions."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Phenothiazines cause galactorrhea in 26 to 40% of female patients. Hyperprolactinemia appears to be the cause of the galactorrhea. The hyperprolactinemia is caused by the drug's dopamine-blocking action in the tuberoinfundibular pathway."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Haloperidol, Olanzapine, Quetiapine, Risperidone"
+  ]
+ ]
+}

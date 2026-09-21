@@ -1,0 +1,66 @@
+{
+ "id": "LM620",
+ "tytul": "Aspartame",
+ "synonimy": [
+  "aspartame",
+  "Nutrasweet",
+  "Aspartam",
+  "Asp-phe-ome",
+  "Aspartamum",
+  "Aspartamo",
+  "Canderel",
+  "Sweet dipeptide",
+  "Tri-sweet",
+  "Equal",
+  "22839-47-0",
+  "Dipeptide sweetener",
+  "Aspartylphenylalanine methyl ester",
+  "Aspartam [INN-French]",
+  "Aspartame, L,L-alpha-",
+  "Methyl aspartylphenylalanate",
+  "Aspartamum [INN-Latin]",
+  "L-Aspartyl-L-phenylalanine methyl ester",
+  "Aspartamo [INN-Spanish]",
+  "UNII-Z0H242BBR1",
+  "CCRIS 5456",
+  "HSDB 3915",
+  "Methyl L-aspartyl-L-phenylalanine",
+  "Z0H242BBR1",
+  "Aspartame [USAN:INN:BAN:NF]",
+  "1-Methyl N-L-alpha-aspartyl-L-phenylalanate",
+  "EINECS 245-261-3",
+  "SC 18862",
+  "SC-18862",
+  "Methyl L-alpha-aspartyl-L-phenylalanate",
+  "N-L-alpha-Aspartyl-L-phenylalanine 1-methyl ester",
+  "Methyl N-L-alpha-aspartyl-L-phenylalaninate",
+  "1-Methyl N-L-alpha-aspartyl-L-phenylalanine",
+  "3-Amino-N-(alpha-methoxycarbonylphenethyl) succinamic acid",
+  "3-Amino-N-(alpha-carboxyphenethyl)succinamic acid N-methyl ester",
+  "L-Phenylalanine, N-L-alpha-aspartyl-, 1-methyl ester",
+  "L-Phenylalanine, L-alpha-aspartyl-, 2-methyl ester",
+  "3-Amino-N-(alpha-carboxyphenethyl)succinamic acid N-methyl ester, stereoisomer",
+  "APM",
+  "Succinamic acid, 3-amino-N-(alpha-carboxyphenethyl)-, N-methyl ester, stereoisomer"
+ ],
+ "zaktualizowano": "2024-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM620/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Aspartame is not detectable in breastmilk after maternal ingestion because it is rapidly broken down in the mother's body. An extremely large intake of aspartame (equivalent to 17 cans of soda or 100 packets of Equal Sweetener) can slightly increase the amount of phenylalanine in breastmilk. Phenylalanine concentrations in milk return to baseline by 12 hours after a large single dose of aspartame. Although it is prudent to avoid the use of aspartame in women who are nursing an infant with phenylketonuria, amounts that are typically ingested in aspartame-sweetened foods and beverages do not result in any additional risk to breastfed infants with phenylketonuria. Ingestion of diet drinks containing low-calorie sweeteners might increase the risk of vomiting in breastfed infants. An association between low-calorie sweeteners, and especially aspartame, and the risk of autism in boys has been found, but more data are needed to establish a cause-and-effect relationship."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Aspartame is rapidly metabolized in the body to 2 amino acids that occur naturally in breastmilk, aspartic acid and phenylalanine and methanol.\nMaternal Levels. Six lactating women an average of 98 days postpartum (range 42 to 159 days) were given aspartame or lactose orally in a dose of 50 mg/kg (equivalent to 17 aspartame-sweetened sodas or 100 packets of Equal in a 68 kg [150 lb.] adult) on 2 separate occasions 2 weeks apart in a randomized crossover trial. Breastmilk samples were collected over the next 24 hours. Breastmilk phenylalanine levels increased to a maximum of about 6 mg/L between 1 and 8 hours after the dose of aspartame and returned to baseline by about 12 hours after the dose. Lactose had no effect on breastmilk phenylalanine levels. Aspartame was not detected (<1.4 mg/L) in breastmilk at any time. The authors calculated that if the milk phenylalanine concentration were elevated for 24 hours to the maximum found in this study, a fully breastfed infant would receive an additional 0.5 mg/kg daily above the normal intake of 79 mg/kg of phenylalanine that occurs naturally in breastmilk.\nTwenty lactating women completed background questionnaires about breastfeeding and the intake of nonnutritive sweeteners in the prior 24 hours. Each then donated a milk sample that was analyzed for the presence of nonnutritive sweeteners. Sweetener intake was primarily from diet sodas and sweetener packets. Of the 14 women who reported intake of a nonnutritive sweetener, none had quantifiable levels of aspartame in their breastmilk.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A cross-sectional survey assessed the dietary history of US mothers nursing infants between 11 and 15 weeks of age. The survey was used to estimate the amount of diet soda and fruit drinks consumed by the women. There were no statistically significant differences in infants’ weight or z-scores based on low calorie sweetener exposure. However, infants exposed to low calorie sweetener in milk once or less per week had a statistically significantly higher risk of vomiting than those who were not exposed. Greater exposure was not associated with vomiting. It was not possible to assess the effects of specific sweeteners.\nA retrospective dietary recall study compared the use of diet soda and aspartame during pregnancy and/or lactation to the risk of autism in the children. Among boys, autism was associated with three times the likelihood of exposure to aspartame. No statistically significant associations were found in girls. The contribution of exposure during breastfeeding was not separated from the risk of exposure during pregnancy, and intact aspartame is usually not found in milk, so breastmilk exposure cannot be claimed to cause autism based on these data. The authors propose that the methanol metabolite might have an impact on infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

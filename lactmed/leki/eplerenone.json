@@ -1,0 +1,42 @@
+{
+ "id": "eplerenone",
+ "tytul": "Eplerenone",
+ "synonimy": [
+  "Eplerenone",
+  "Inspra",
+  "Selara",
+  "9,11alpha-Epoxy-17-hydroxy-3-oxo-17alpha-pregn-4-ene-7alpha,21-dicarboxylic acid, gamma-lactone, methyl ester",
+  "CGP 30083",
+  "CGP-30083",
+  "Epoxymexrenone",
+  "HSDB 7522",
+  "SC 6110",
+  "SC-66110",
+  "UNII-6995V82D0B",
+  "Pregn-4-ene-7,21-dicarboxylic acid, 9,11-epoxy-17-hydroxy-3-oxo-, gamma-lactone, methyl ester, (7alpha,11alpha,17alpha)-"
+ ],
+ "zaktualizowano": "2022-09-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/eplerenone/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Data from one mother-infant pair indicate that eplerenone is poorly excreted into breastmilk. Until more data are available, eplerenone should be used with careful infant monitoring during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with primary aldosteronism was receiving eplerenone 50 mg (0.79 mg/kg) once daily during pregnancy and postpartum. On postpartum day 7, eplerenone breastmilk concentrations were measured at 1, 1.5, and 11.5 hours after the dose. Eplerenone milk concentrations were 0, 104.1, and 61.3 mcg/L, respectively. On postpartum day 35, eplerenone milk concentrations were measured at 1, 4, 6.5, 13.5, 18.5, and 22 hours after the dose. Eplerenone milk concentrations were 130.2, 161.2, 55.8, 6.0, 0.7, and 0.3 mcg/L, respectively. The authors calculated a maximum daily infant dose of eplerenone, based on the maximum detected eplerenone concentration in breastmilk, to be 0.024 mg/kg daily, which corresponds to a weight-adjusted dosage of 3% relative to the maternal dosage. The average daily and relative dosages would be considerably less.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with primary aldosteronism was receiving eplerenone 50 mg once daily (0.79 mg/kg daily) during pregnancy and postpartum. Her infant was partially breastfed for 3 months, with over 50% of nutrition from breastmilk. The infant developed normally and had no detectable adverse drug effects at the 1- or 3-month checkups."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Spironolactone"
+  ]
+ ]
+}

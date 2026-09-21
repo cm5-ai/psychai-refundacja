@@ -1,0 +1,34 @@
+{
+ "id": "LM258",
+ "tytul": "Ticarcillin",
+ "synonimy": [
+  "Ticarcillin",
+  "Ticarcilline",
+  "Ticarcillinum",
+  "Ticarcilina",
+  "UNII-F93UJX4SWT",
+  "F93UJX4SWT",
+  "EINECS 252-213-5",
+  "(2S,5R,6R)-6-[[(2R)-2-carboxy-2-thiophen-3-ylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM258/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that ticarcillin produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with penicillins, but these effects have not been adequately evaluated. Ticarcillin is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Only trace levels of ticarcillin were detected for 6 hours after single 1 gram intramuscular doses in 3 women in one study, and 5 women in another early study.\nAfter ticarcillin doses of 5 grams intravenously three times a day in 10 women, milk levels averaged 2 to 2.5 mg/L. By 12 hours after the last dose, ticarcillin was undetectable in the milk. The total daily intake of a breastfed infant would be negligible.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

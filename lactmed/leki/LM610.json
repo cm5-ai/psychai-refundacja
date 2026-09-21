@@ -1,0 +1,56 @@
+{
+ "id": "LM610",
+ "tytul": "Isoflurane",
+ "synonimy": [
+  "isoflurane",
+  "Forane",
+  "Forene",
+  "Aerrane",
+  "Isoflurano",
+  "Isofluranum",
+  "IsoFlo",
+  "Compound 469",
+  "Terrell",
+  "26675-46-7",
+  "AErrane (Veterinary)",
+  "1-Chloro-2,2,2-trifluoroethyl difluoromethyl ether",
+  "Isofluranum [INN-Latin]",
+  "R-E 235dal",
+  "Isoflurano [INN-Spanish]",
+  "UNII-CYS9AKD70P",
+  "2-Chloro-2-(difluoromethoxy)-1,1,1-trifluoroethane",
+  "CCRIS 3043",
+  "CYS9AKD70P",
+  "HSDB 8057",
+  "Isoflurane [Anaesthetics, volatile]",
+  "EINECS 247-897-7",
+  "Ethane, 2-chloro-2-(difluoromethoxy)-1,1,1-trifluoro-",
+  "BRN 1852087",
+  "Isoflurane [USAN:USP:INN:BAN:JAN]",
+  "Ether, 1-chloro-2,2,2-trifluoroethyl difluoromethyl"
+ ],
+ "zaktualizowano": "2020-11-16",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM610/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "There is no published experience with isoflurane during breastfeeding. Because the serum half-life of isoflurane in the mother is short and the drug is not expected to be absorbed by the infant, no waiting period or discarding of milk is required. Breastfeeding can be resumed as soon as the mother has recovered sufficiently from general anesthesia to nurse. When a combination of anesthetic agents is used for a procedure, follow the recommendations for the most problematic medication used during the procedure. In one study, breastfeeding before general anesthesia induction reduced requirements of sevoflurane and propofol compared to those of nursing mothers whose breastfeeding was withheld or nonnursing women. It is possible that requirements for other anesthetic agents would be affected similarly."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A randomized, but nonblinded, study in women undergoing cesarean section compared epidural anesthesia with bupivacaine to general anesthesia with intravenous thiopental 4 mg/kg and succinylcholine 1.5 mg/kg for induction followed by nitrous oxide and isoflurane. The time to the first breastfeed was significantly shorter (107 vs 228 minutes) with the epidural anesthesia than with general anesthesia. This difference was probably caused by the anesthesia's effects on the infant, because the Apgar and neurologic and adaptive scores were significantly lower in the general anesthesia group of infants.\nA randomized study compared the effects of cesarean section using general anesthesia, spinal anesthesia, or epidural anesthesia, to normal vaginal delivery on serum prolactin and oxytocin as well as time to initiation of lactation. General anesthesia was performed using propofol 2 mg/kg and rocuronium 0.6 mg/kg for induction, followed by sevoflurane and rocuronium 0.15 mg/kg as needed. After delivery, patients in all groups received an infusion of oxytocin 30 international units in 1 L of saline, and 0.2 mg of methylergonovine if they were not hypertensive. Fentanyl 1 to 1.5 mcg/kg was administered after delivery to the general anesthesia group. Patients in the general anesthesia group (n = 21) had higher post-procedure prolactin levels and a longer mean time to lactation initiation (25 hours) than in the other groups (10.8 to 11.8 hours). Postpartum oxytocin levels in the nonmedicated vaginal delivery group were higher than in the general and spinal anesthesia groups.\nA retrospective study of women in a Turkish hospital who underwent elective cesarean section deliveries compared women who received bupivacaine spinal anesthesia (n = 170) to women who received general anesthesia (n = 78) with propofol for induction, sevoflurane for maintenance and fentanyl after delivery. No differences in breastfeeding rates were seen between the groups at 1 hour and 24 hours postpartum. However, at 6 months postpartum, 67% of women in the general anesthesia group were still breastfeeding compared to 81% in the spinal anesthesia group, which was a statistically significant difference."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Desflurane, Enflurane, Sevoflurane"
+  ]
+ ]
+}

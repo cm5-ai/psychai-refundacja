@@ -1,0 +1,46 @@
+{
+ "id": "LM538",
+ "tytul": "Pimecrolimus",
+ "synonimy": [
+  "Pimecrolimus",
+  "Elidel",
+  "SDZ-ASM 981",
+  "SDZ ASM 981",
+  "UNII-7KYV510875",
+  "DTXCID0026674",
+  "Pimecrolimusum",
+  "NCGC00167506-01",
+  "SCHEMBL438880",
+  "SDZ ASM-981",
+  "GTPL6783",
+  "SCHEMBL3000675",
+  "CHEMBL1200686",
+  "CHEBI:135888",
+  "D11AX15",
+  "(1R,9S,12S,13R,14S,17R,18E,21S,23S,24R,25S,27R)-12-[(E)-1-[(1R,3R,4S)-4-chloro-3-methoxycyclohexyl]prop-1-en-2-yl]-17-ethyl-1,14-dihydroxy-23,25-dimethoxy-13,19,21,27-tetramethyl-11,28-dioxa-4-azatricyclo[22.3.1.04,9]octacos-18-ene-2,3,10,16-tetrone"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM538/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Topical pimecrolimus has not been studied during breastfeeding; however, it is used topically in children as young as 3 months of age. Because it is poorly absorbed after topical application and plasma concentrations after topical use in adults are less than 2 mcg/L, it is a low risk to the nursing infant. Ensure that the infant’s skin does not come into direct contact with the areas of skin that have been treated. Current guidelines allow topical pimecrolimus to be applied to the nipples just after nursing for eczema, with the nipples cleaned gently before nursing."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Tacrolimus"
+  ]
+ ]
+}

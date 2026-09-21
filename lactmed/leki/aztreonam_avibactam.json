@@ -1,0 +1,52 @@
+{
+ "id": "aztreonam_avibactam",
+ "tytul": "Aztreonam and Avibactam",
+ "synonimy": [
+  "Avibactam",
+  "Aztreonam",
+  "Aztreonamum",
+  "Emblaveo",
+  "UNII-7352665165",
+  "SCHEMBL1666807",
+  "GTPL10761",
+  "DTXSID901026066",
+  "BDBM50339145",
+  "AKOS030526",
+  "CS-0593",
+  "DB09060",
+  "AC-35749",
+  "DA-71166",
+  "HY-14879",
+  "MS-23747",
+  "NS00070484",
+  "Squibb 26,776",
+  "UNII-G2B4VE5GH8",
+  "EINECS 278-839-9",
+  "NSC 646279",
+  "BRN 3577211",
+  "SQ 26,776",
+  "SQ 26776",
+  "[(2S,5R)-2-carbamoyl-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl] hydrogen sulfate",
+  "2-[(Z)-[1-(2-amino-1,3-thiazol-4-yl)-2-[[(2S,3S)-2-methyl-4-oxo-1-sulfoazetidin-3-yl]amino]-2-oxoethylidene]amino]oxy-2-methylpropanoic acid"
+ ],
+ "zaktualizowano": "2025-03-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/aztreonam_avibactam/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that aztreonam produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Avibactam has not been studied in nursing mothers. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush, have been reported with beta-lactams, but these effects have not been adequately evaluated. Aztreonam-avibactam is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After a single intramuscular dose of aztreonam 1 gram in 6 women, peak milk levels averaging 0.3 mg/L occurred 6 hours after the dose. In 6 other women given a single 1 gram dose of aztreonam intravenously, peak milk levels averaged 0.2 mg/L at 2.4 hours after the dose. Aztreonam was detectable (detection limit 0.09 mg/L) in milk between 2 and 8 hours after the intramuscular dose and 1.5 and 8 hours after the intravenous dose.\nAfter a single intravenous dose of aztreonam 1 gram, milk levels ranging from 0.4 to 1 mg/L occurred 1 to 5 hours after the dose in 10 women with little variation in milk levels during this time in each woman. On average, levels were slightly higher 2 hours after the dose, but in individuals the peak level occurred at various times between 1 and 4 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "fluoroestradiol_F18",
+ "tytul": "Fluoroestradiol F18",
+ "synonimy": [
+  "Fluoroestradiol F18",
+  "Cerianna",
+  "Fluoroestradiol F-18",
+  "F-18 Fes",
+  "Fes F-18",
+  "F-18 16 alpha-Fluoroestradiol",
+  "(18F)FES",
+  "UNII-T32277KB09",
+  "NSC-743445",
+  "T32277KB09",
+  "16alpha-(18F)Fluoro-17beta-estradiol",
+  "16-alpha-(18-Fluoro)-17betaestradiol",
+  "16-alpha-(18F)Fluoro-17beta-estradiol",
+  "Fluoroestradiol (18f)",
+  "16alpha-[18F]Fluoroestradiol",
+  "CHEMBL4594261",
+  "FLUOROESTRADIOL F18 [MI]",
+  "DTXSID101027872",
+  "NSC743445",
+  "Fluorine-18 Fluoroestradiol (18F-FES)",
+  "FLUOROESTRADIOL (18F) [WHO-DD]D11829",
+  "16.ALPHA.-(18F)FLUORO-17.BETA.-ESTRADIOL",
+  "16-.alpha.-[18F]-fluoro-17.beta. estradiol(FES)",
+  "Q27289599"
+ ],
+ "zaktualizowano": "2023-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/fluoroestradiol_F18/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of fluoroestradiol F18 (18F-FES) as a diagnostic agent. No information is available on the clinical use of fluoroestradiol F18 during breastfeeding. The manufacturer recommends that mothers avoid breastfeeding for 4 hours after administration of fluoroestradiol F18. Nursing mothers should not work with radioactive substances used in PET scans in their workplace."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "F18 is a positron emitter with a principal decay energy of 0.6335 MeV, annihilation photons of 0.511 MeV, and a physical half-life of 1.8 hours and 0.07% of an administered dose appears in breastmilk. The maximum effective half-life is 0.89 hours.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

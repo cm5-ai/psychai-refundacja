@@ -1,0 +1,49 @@
+{
+ "id": "LM768",
+ "tytul": "Tolterodine",
+ "synonimy": [
+  "Tolterodine",
+  "Detrusitol",
+  "Unidet",
+  "tolterodine",
+  "Kabi 2234",
+  "Kabi-2234",
+  "Tolterodina",
+  "Urotrol",
+  "UNII-WHE7A56U7K",
+  "WHE7A56U7K",
+  "PNU 200583",
+  "CHEBI:9622",
+  "DTXSID3023687",
+  "CHEMBL1382",
+  "DTXCID703687",
+  "NCGC00159519-02",
+  "SMR000596518",
+  "MFCD07771985",
+  "PHA-686464B",
+  "SCHEMBL3064",
+  "GTPL360",
+  "MLS001195620",
+  "2-[(1R)-3-[di(propan-2-yl)amino]-1-phenylpropyl]-4-methylphenol"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM768/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of tolterodine during breastfeeding. Long-term use of tolterodine might reduce milk production or milk letdown. During long-term use, observe for signs of decreased lactation (e.g., insatiety, poor weight gain)."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Anticholinergics can inhibit lactation in animals, apparently by inhibiting growth hormone and oxytocin secretion. Anticholinergic drugs can also reduce serum prolactin in nonnursing women. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ]
+ ]
+}

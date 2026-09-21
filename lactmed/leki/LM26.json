@@ -1,0 +1,37 @@
+{
+ "id": "LM26",
+ "tytul": "Benazepril",
+ "synonimy": [
+  "benazepril",
+  "Benazeprilum",
+  "Lotrel",
+  "Lotensin HCT",
+  "UNII-UDM7Q7QWP8",
+  "CGS-14824-A",
+  "2-[(3S)-3-[[(2S)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino]-2-oxo-4,5-dihydro-3H-1-benzazepin-1-yl]acetic acid"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM26/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because of the low levels of benazepril in breastmilk, amounts ingested by the infant are small and would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Benazepril is an inactive drug that is metabolized to the active metabolite benazeprilat. Benazeprilat is poorly absorbed orally.\nMaternal Levels. In 9 women (time postpartum not stated) given an oral dose of 20 mg of benazepril daily for 3 days, peak milk levels of 0.9 mcg/L of benazepril at 1 hour after the dose and 2 mcg/L of its active metabolite benazeprilat at 1.5 hours after the dose were detected. The authors estimated that the infant would receive a dose less than 0.14% of the mother's weight-adjusted dose of benazepril, mostly as benazeprilat.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Candesartan, Captopril, Enalapril, Lisinopril, Quinapril, Valsartan"
+  ]
+ ]
+}

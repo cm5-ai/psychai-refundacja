@@ -1,0 +1,40 @@
+{
+ "id": "LM831",
+ "tytul": "Liotrix",
+ "synonimy": [
+  "Liotrix",
+  "Combithyrex",
+  "Novothyral",
+  "Euthroid",
+  "Thyrolar",
+  "Diotroxin",
+  "UNII-YW8HJ0N26X",
+  "Levothyroxine mixture with Liothyronine",
+  "Liothyronine Sodium and Levothyroxine Sodium",
+  "W 1782",
+  "Levothyroxine Sodium mixture with Liothyronine Sodium",
+  "disodium",
+  "(2S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoate",
+  "(2S)-2-amino-3-[4-(4-hydroxy-3-iodophenoxy)-3,5-diiodophenyl]propanoate"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM831/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Liotrix is a mixture of levothyroxine (T4) and liothyronine (T3), which are normal components of human milk. Limited data on exogenous replacement doses of levothyroxine during breastfeeding indicate no adverse effects in infants. No information is available on the use of exogenous liothyronine during breastfeeding. The American Thyroid Association recommends that subclinical and overt hypothyroidism should be treated with levothyroxine in lactating women seeking to breastfeed. Thyroid dosage requirement may be increased in the postpartum period compared to prepregnancy requirements patients with Hashimoto's thyroiditis."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Milk levels of thyroid hormones have not been measured after exogenous administration of liotrix in humans. In a study of a new analytic technique, concentrations of several thyroid hormones were measured in 30 milk samples. The mean levothyroxine (T4) concentration was 94 mcg/L (range 48 to 194 mcg/L) and the mean dextrothyroxine concentration was 135 mcg/L (range 115 to 158 mcg/L). The mean liothyronine (T3) concentration was 52 mcg/L (range 32 to 109 mcg/L) and the mean reverse T3 concentration was 65 mcg/L (range 21 to 180 mcg/L). Among the 30 samples, the dextrothyroxine concentration was always higher than the levothyroxine concentration, and the reverse T3 concentration was always higher than the liothyronine concentration. The levels of levothyroxine were also higher than liothyronine levels. Several other thyroid hormones such as thyroxine; monoiodothyronine; 3,3 and 3,5-diiodothyronine were also measured.\nAlthough somewhat controversial, it appears that levothyroxine passes into milk poorly and that liothyronine might pass into milk in amounts that affect infant thyroid status.\nMaternal Levels. In a study of 56 mothers with thyroid disorders, 50 had hypothyroidism and were being treated with levothyroxine; 5 mothers had controlled hyperthyroidism with no medications and 1 had hyperthyroidism treated with a medication. Milk levels of thyroid hormones were free T4 4.5 ng/L, total T4 29.6 mcg/L, free T3 2.3 ng/L and total T3 0.35 mcg/L. The average milk to serum level ratios over the period were free T4 0.32 and total T4 0.3. Levels of free and total T3 and total T4 in milk were positively correlated with their respective plasma levels.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Effects of exogenous thyroid hormone administration to mothers on their infant have not been reported. One case of apparent mitigation of cretinism in hypothyroid infants by breastfeeding has been reported, but the amounts of thyroid hormones in milk are not optimal, and this result has been disputed. The thyroid hormone content of human milk from the mothers of very preterm infants appears not to be sufficient to affect the infants' thyroid status. The amounts of thyroid hormones in milk are apparently not sufficient to interfere with diagnosis of hypothyroidism.\nIn a telephone follow-up study, 5 nursing mothers reported taking levothyroxine (dosage unspecified). The mothers reported no adverse reactions in their infants.\nOne mother who had undergone a thyroidectomy was taking levothyroxine 100 mcg daily as well as calcium carbonate and calcitriol. Her breastfed infant was reportedly \"thriving\" at 3 months of age."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Adequate thyroid hormone serum levels are required for normal lactation. Replacing deficient thyroid levels should improve milk production caused by hypothyroidism. Supraphysiologic doses would not be expected to further improve lactation."
+  ]
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "id": "LM339",
+ "tytul": "Butorphanol",
+ "synonimy": [
+  "butorphanol",
+  "Butorfanol",
+  "Butorphanolum",
+  "levo-BC-2627",
+  "UNII-QV897JC36D",
+  "l-BC 2627",
+  "QV897JC36D",
+  "DEA No. 9720",
+  "EINECS 255-808-8",
+  "(1S,9R,10S)-17-(cyclobutylmethyl)-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene-4,10-diol"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM339/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Maternal use of oral opioids during breastfeeding can cause infant drowsiness, which may progress to rare but severe central nervous system depression. Limited data indicate that butorphanol is excreted into breastmilk in small amounts. Butorphanol is poorly orally absorbed, so it is unlikely to adversely affect the breastfed infant. Monitor the infant for drowsiness, adequate weight gain, and developmental milestones, especially in younger, exclusively breastfed infants. If butorphanol is required by the mother of a newborn, it is not a reason to discontinue breastfeeding; however, once the mother's milk comes in, it is best to provide pain control with a nonnarcotic analgesic and limit maternal intake to 2 to 3 days with close infant monitoring. If the baby shows signs of increased sleepiness (more than usual), difficulty breastfeeding, breathing difficulties, or limpness, a physician should be contacted immediately. Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped. Labor pain medication may delay the onset of lactation. Because there is no published experience with repeated, high intravenous or intranasal doses of butorphanol during breastfeeding, other agents may be preferred in these situations, especially while nursing a newborn or preterm infant"
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "In adults, the oral bioavailability of butorphanol is 17% while the intranasal bioavailability is 70%. Butorphanol is metabolized to inactive metabolites. Intranasal and parenteral doses of 25 to 30 mcg/kg have been used in infants as young as 6 months for postoperative analgesia.\nMaternal Levels. Twelve lactating women were given a single butorphanol dose at 2 to 4 days postpartum. Six of these women were given a 2 mg single intramuscular dose and 6 others were given a single 8 mg oral dose. Milk was sampled 3 times after the dose. The reported average milk levels were 1.5, 0.7 and 0.3 mcg/L at 2, 4 and 8 hours, respectively, after the 2 mg intramuscular dose. The average milk levels after the 8 mg oral dose were 3.6, 1.8 and 1.1 mcg/L at 3, 5 and 8 hours, respectively. The half-life of elimination from milk was about 2 hours. Using the data from this study, doses of butorphanol 2 mg intramuscularly or 8 mg orally will result in average milk levels of 0.7 and 2 mcg/L, respectively, over 8 hours after the dose. Using these calculated average milk levels, an exclusively breastfed infant would receive 0.035 mcg/kg from a 2 mg intramuscular maternal dose of butorphanol, and 0.1 mcg/kg from an 8 mg oral maternal dose of butorphanol, from milk ingested up through 8 hours after the dose. These amounts represent 0.11% and 0.08% of the maternal weight-adjusted dosages, respectively.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Narcotics and narcotic agonist-antagonists can increase serum prolactin. However, the prolactin level in a mother with established lactation may not affect her ability to breastfeed.\nA study compared women who received butorphanol or nalbuphine during labor (n = 26) to those who received no analgesia (n = 22). The time to effective breastfeeding was longer (46.5 minutes) in the analgesia group than in the no analgesia group (35.4 minutes).\nA national survey of women and their infants from late pregnancy through 12 months postpartum compared the time of lactogenesis II in mothers who did and did not receive pain medication during labor. Categories of medication were spinal or epidural only, spinal or epidural plus another medication, and other pain medication only. Women who received medications from any of the categories had about twice the risk of having delayed lactogenesis II (>72 hours) compared to women who received no labor pain medication.\nA double-blind study compared women undergoing cesarean section with combined spinal-epidural anesthesia. Women received either intranasal saline, 1 mg of intranasal butorphanol after delivery of the infant or 5 mg of intravenous butorphanol by PCA pump after closure of the abdomen. All patients received 1.5 mcg/kg of sufentanil and 10 mg tropisetron intravenously by PCA pump after delivery. No significant differences among the 3 groups on the time to initiation of lactation (26 to 27 hours) and no significant differences in prolactin levels pre- and postoperatively.\nA study in women undergoing a normal delivery compared the use of epidural alone to a combination of butorphanol nasal spray preceding epidural administration"
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Hydromorphone, Ibuprofen, Morphine, Nalbuphine"
+  ]
+ ]
+}

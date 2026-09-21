@@ -1,0 +1,39 @@
+{
+ "id": "LM393",
+ "tytul": "Valacyclovir",
+ "synonimy": [
+  "Valacyclovir hydrochloride",
+  "Valacyclovir HCl",
+  "Valtrex",
+  "Zelitrex",
+  "256U87 hydrochloride",
+  "UNII-G447S0T1VC",
+  "BW-256U87",
+  "BW 256",
+  "2-[(2-amino-6-oxo-1H-purin-9-yl)methoxy]ethyl (2S)-2-amino-3-methylbutanoate"
+ ],
+ "zaktualizowano": "2026-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM393/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "The dosage of acyclovir in milk after valacyclovir is less than 1% of a typical infant dosage and would not be expected to cause any adverse effects in breastfed infants. Valacyclovir is considered a treatment of choice for Herpes infections during breastfeeding. No special precautions are required when using valacyclovir during breastfeeding. In one study, administration of valacyclovir to mothers with concurrent herpes simplex type 2 and HIV infections reduced breastmilk shedding of the HIV virus in breastmilk at 6 and 14 weeks postpartum, but not later. In another study in HIV-positive mothers, valacyclovir did not reduced breastmilk shedding of cytomegalovirus (CMV) or infant CMV acquisition."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Valacyclovir is a prodrug that is rapidly converted to acyclovir in the body.\nMaternal Levels. Five mothers who were nursing neonates were given valacyclovir 500 mg orally every 12 hours for 5 days. Valacyclovir was not detected in milk. Median peak acyclovir concentrations in milk of 4.2 mg/L occurred at 2 to 4 hours after the first dose and was similar after the last dose. The authors calculated the median milk concentration at steady-state to be 2.24 mg/L. The median half-life in milk was 2.1 hours (range 1.3 to 12.2 hours). A 500 mg maternal dose of valacyclovir twice daily would provide a breastfed child with a daily oral acyclovir dosage of approximately 0.6 mg/kg. This is about 1% of the neonatal intravenous dose of acyclovir.\nIn a study of pregnant women with concurrent HIV and Herpes simplex infections, mothers received zidovudine 300 mg daily from week of pregnancy until 12 months postpartum and nevirapine at delivery. Half of the women (n = 74) also received valacyclovir 500 mg orally twice daily from 34 weeks gestation until 12 months postpartum. Milk samples (timing not stated) from 44 women obtained at 2 weeks postpartum found detectable acyclovir in 35 samples, with a median concentration of 2.6 mg/L (range 0.15 to 10.15 mg/L) Three of the 9 women with undetectable milk acyclovir levels had missed one or more doses of valacyclovir in the previous 2 days.\nInfant Levels. The urine of 5 infants whose mothers were taking valacyclovir 500 mg every 12 hours orally was collected. Valacyclovir was not detected in any of the infant's urine. The median infant urine acyclovir concentration on day 5 of therapy was 0.74 mg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In a study of pregnant women with concurrent HIV and Herpes simplex infections, mothers received zidovudine 300 mg daily from week of pregnancy until 12 months postpartum and nevirapine at delivery. Half of the women (n = 74) also received valacyclovir 500 mg orally twice daily from 34 weeks gestation until 12 months postpartum. At 6 weeks postpartum, all infants who received acyclovir in breastmilk had normal serum creatinine (<0.83 mg/dL). Their median serum creatinine and alanine aminotransferase (ALT) values, and growth were no different from those of unexposed infants, with the exception of one infant with an ALT level of 70.1 units/L. Infants whose mothers received valacyclovir generally had adverse effects that were similar to the placebo group, except that treated infants had a lower risk of eczema and oral thrush than infants in the placebo arm."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acyclovir"
+  ]
+ ]
+}

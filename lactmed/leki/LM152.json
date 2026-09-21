@@ -1,0 +1,43 @@
+{
+ "id": "LM152",
+ "tytul": "Kanamycin",
+ "synonimy": [
+  "kanamycin",
+  "Kanamycine",
+  "Kantrex",
+  "Kanamycinum",
+  "Kanamicina",
+  "UNII-EQK9Q303C5",
+  "HSDB 3107",
+  "EQK9Q303C5",
+  "EINECS 200-411-7",
+  "BRN 0061647",
+  "4-18-00-07631 (Beilstein Handbook Reference)",
+  "4,6-Diamino-2-hydroxy-1,3-cyclohexane 3,6'diamino-3,6'-dideoxydi-alpha-D-glucoside",
+  "Glucopyranoside, 4,6-diamino-2-hydroxy-1,3-cyclohexylene 3,6'-diamino-3,6'-dideoxydi-, D-",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1-6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1,4))-2-deoxy-",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1-6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1-4))-2-deoxy-",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1->6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1->4))-2-deoxy-",
+  "D-Streptamine, O-3-amino-3-deoxy-alpha-D-glucopyranosyl-(1.fwdarw.6)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1.fwdarw.4))-2-deoxy-"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM152/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "If kanamycin is required by the mother, it is not a reason to discontinue breastfeeding. Kanamycin is poorly excreted into breastmilk. Newborn infants apparently absorb small amounts of other aminoglycosides, but serum levels with typical three times daily dosages are far below those attained when treating newborn infections and systemic effects of kanamycin are unlikely. Older infants would be expected to absorb even less kanamycin. Because there is little variability in the milk kanamycin levels during multiple daily dose regimens, timing breastfeeding with respect to the dose is of little or no benefit in reducing infant exposure. Data are not available with single daily dose regimens. Monitor the infant for possible effects on the gastrointestinal flora, such as diarrhea, candidiasis (e.g., thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Among 4 women given a single 2 gram dose or kanamycin orally, milk levels were undetectable in two. In the other 2 women, kanamycin milk levels averaged 1.2 mg/L at 1 hour after the dose. At 3 hours after a dose, peak milk levels were 1.35 and 1.6 mcg/L. At 5 and 7 hours after a dose, kanamycin was undetectable in one mother and 1.16 and 1.11 mg/L, respectively, in the other. In the same study, 4 women were given a single 1 gram dose of kanamycin by intramuscular injection. Average milk levels were relatively constant from 0.5 to 8 hours after the injection at about 10 mg/L, except for a peak milk level of 18.4 mg/L at 1 hour after injection.\nAfter administration of a single 1 gram dose of kanamycin intramuscularly to several women (exact number not stated), average kanamycin milk levels were as follows: undetectable at 1 hour; 0.1 mg/L at 2 hours; 0.3 mg/L at 4 hours; and 0.5 mg/L at 6 hours after the dose.\nIn 15 women given kanamycin 500 mg intramuscularly three times daily, average kanamycin milk levels were as follows: undetectable at 0.5 hour; 2.57 mg/L at 1 hour; 2.51 mg/L at 2 hours; 2.12 mg/L at 4 hours; 2.06 mg/L at 6 hours; and 1.6 mg/L at 8 hours after the dose.Using data from this study, an exclusively breastfed infant would receive an estimated maximum daily dosage of 386 mcg/kg with this maternal dosage regimen.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Kanamycin was used as part of a six-drug regimen to treat a pregnant woman with multidrug-resistant tuberculosis during the first trimester of pregnancy and postpartum. The infant was breastfed (extent and duration not stated). At age 1.8 years, the child had failure to thrive, possibly due to tuberculosis contracted after birth, but was otherwise developing normally."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

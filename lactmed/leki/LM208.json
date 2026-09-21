@@ -1,0 +1,71 @@
+{
+ "id": "LM208",
+ "tytul": "Penicillamine",
+ "synonimy": [
+  "penicillamine",
+  "Cuprimine",
+  "Depen",
+  "Cuprenil",
+  "Artamine",
+  "D-Penamine",
+  "Cuprenil",
+  "Cupripen",
+  "Metalcaptase",
+  "Trolovol",
+  "Kuprenil",
+  "Mercaptovaline",
+  "Metalcaptase",
+  "Penicillamin",
+  "Pendramine",
+  "Mercaptyl",
+  "Cupripen",
+  "Depamine",
+  "Kuprenil",
+  "Perdolat",
+  "Sufortan",
+  "Trolovol",
+  "Kelatin",
+  "Atamir",
+  "Distamine",
+  "Pendramine",
+  "Penicillaminum",
+  "Penicilamina",
+  "Sufirtan",
+  "Emtexate",
+  "Artamine",
+  "Mercaptyl",
+  "Perdolat",
+  "Penicillamina",
+  "UNII-GNN1DV99GX",
+  "CCRIS 2904",
+  "HSDB 3378",
+  "EINECS 200-148-8",
+  "NSC 81549",
+  "DPA",
+  "(2S)-2-amino-3-methyl-3-sulfanylbutanoic acid"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM208/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that penicillamine is not detectable in breastmilk and no adverse effects have been reported among breastfed infants whose mothers were taking the drug. Copper and zinc levels in breastmilk are reduced in some mothers receiving penicillamine. Penicillamine has been used with apparent safety during nursing of several infants. Based on available data, it appears that penicillamine is acceptable to use during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Four patients received penicillamine for Wilson’s disease in dosages of 500, 600 mg (2 patients), and 800 mg daily. Penicillamine was not detectable by HPLC in the breastmilk of any of the mothers’ milk samples.\nSeven patients with Wilson’s disease were taking penicillamine in dosages of 300 to 800 mg daily. Penicillamine-copper complex was not detected in any milk samples.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "One woman taking penicillamine 1500 mg daily for cystinuria breastfed her infant for 3 months with no apparent adverse effects in her infant.\nA woman taking penicillamine in an unspecified dosage for Wilson’s disease breastfed her infant. The infant’s serum copper and zinc levels were normal. The infant fed well and developed normally.\nAnother woman breastfed 2 infants after 2 pregnancies while being treated for Wilson’s disease with penicillamine 750 mg daily. One infant had prolonged icterus that was unlikely to have been related to the penicillamine.\nA center in Türkiye reported 23 infants born to mothers with Wilson’s disease over a 20-year period. Twenty-one were treated with penicillamine 600 mg and zinc 100 mg daily. All infants were breastfed (extent and duration not specified). One premature infant died at 3 weeks of age (maternal drug not specified), but the other infant had no apparent complications over a median of 51 months (range 13 to 105 months) of follow-up.\nA center in Germany reports 32 patients with Wilson’s disease who became pregnant. Thirteen of the patients were taking penicillamine in dosages of 600 to 1200 mg daily. Of the 31 women who delivered a live infant, 27 of them breastfed their infants (extent not stated). Four of the infants had neonatal jaundice, but its relationship to penicillamine cannot be determined. The exact number of women who breastfed while taking penicillamine is unclear in the report.\nSeven patients with Wilson’s disease were taking penicillamine in dosages of 300 to 800 mg daily. Maternal reports indicate that all infants exhibited normal development.\nA patient with Wilson’s disease started taking penicillamine 250 mg once daily two weeks before delivery and continued the drug postpartum in dosages adjusted to as high as 875 mg daily as well as zinc 30 mg three times daily and pyridoxine 20 mg twice daily. She breastfed her infant for an unspecified time. At 1 year and 5 months of age, her baby remained healthy."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In some case reports and studies, milk concentrations of copper and zinc were reduced during therapy of Wilson’s disease with penicillamine.\nA more recent study compared copper concentration in the milk of 7 mothers taking penicillamine compared to 25 control mothers without Wilson’s disease. The copper concentration in the colostrum (0-4 days postpartum) of women treated with penicillamine was slightly higher than normal. Copper and zinc concentrations were normal in mature breastmilk (>14 days postpartum) from all mothers treated with penicillamine, despite lower copper concentrations in maternal serum."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Rheumatoid Arthritis) Auranofin, Etanercept, Gold Sodium Thiomalate, Hydroxychloroquine, Infliximab, Methotrexate, Sulfasalazine; (Wilson’s disease) Trientine"
+  ]
+ ]
+}

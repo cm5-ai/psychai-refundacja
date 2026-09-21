@@ -1,0 +1,37 @@
+{
+ "id": "LM1022",
+ "tytul": "Abciximab",
+ "synonimy": [
+  "Abciximab",
+  "ReoPro",
+  "Abciximab [USAN:INN:BAN]",
+  "UNII-X85G7936GV",
+  "C7E3",
+  "HSDB 8179",
+  "X85G7936GV",
+  "143653-53-6",
+  "Immunoglobulin G, (human-mouse monoclonal c7E3 clone p7E3V(sub H)hC(sub gamma4) Fab fragment anti-human glycoprotein IIbIIIa receptor), disulfide with human-mouse monoclonal c7E3 clone p7E3V(sub kappa)hC(sub kappa) light chain",
+  "Immunoglobulin G1 (human-mouse monoclonal c7E3 clone p7E3VHhCgamma1 Fab fragment anti-human glycoprotein IIb/IIIa receptor), disulfide with human-mouse monoclonal c7E3 clone p7E3VkappahCkappa light chain. Molecular weight is approximately 47,600 daltons",
+  "Immunoglobulin G1, (human-mouse monoclonal c7E3 clone p7E3VHhCgamma1 Fab fragment anti-human glycoprotein IIb/IIIa receptor), disulfide with human-mouse monoclonal c7E3 clone p7E3VkappahCkappa light chain"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1022/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of abciximab during breastfeeding. Because abciximab is a large protein molecule with a molecular weight of 47,615 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, abciximab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant. If it is used by a nursing mother, monitor the infant for bruising and bleeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

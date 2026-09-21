@@ -1,0 +1,51 @@
+{
+ "id": "paltusotine",
+ "tytul": "Paltusotine",
+ "synonimy": [
+  "Paltusotine",
+  "Palsonify",
+  "CRN00808",
+  "CRN-00808",
+  "UNII-F2IBD1GMD3",
+  "RefChem:169779",
+  "CRN 00808",
+  "orb1297944",
+  "CHEMBL5267842",
+  "SCHEMBL19769109",
+  "SCHEMBL29418948",
+  "SCHEMBL30036441",
+  "GTPL14237",
+  "YQF2667",
+  "BDBM405588",
+  "GLXC-26596",
+  "EX-A8341",
+  "AKOS040759931",
+  "AT37182",
+  "DA-76575",
+  "MS-28323",
+  "HY-109155",
+  "CS-0116068",
+  "D12477",
+  "3-[4-(4-aminopiperidin-1-yl)-3-(3,5-difluorophenyl)quinolin-6-yl]-2-hydroxybenzonitrile"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/paltusotine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of paltusotine during breastfeeding. Because paltusotine is 99% bound to plasma proteins, the amount in milk is likely to be low. If a mother requires paltusotine, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

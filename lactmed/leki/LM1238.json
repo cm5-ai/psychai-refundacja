@@ -1,0 +1,48 @@
+{
+ "id": "LM1238",
+ "tytul": "Grazoprevir",
+ "synonimy": [
+  "Grazoprevir",
+  "Zepatier",
+  "UNII-4O2AB118LA",
+  "MK 5172",
+  "MK-5172",
+  "CHEBI:132975",
+  "DTXSID50159234",
+  "DTXSID00159229",
+  "grazoprevirum",
+  "DTXCID4081725",
+  "DTXCID9081720",
+  "J05AP11",
+  "AKOS030253227",
+  "CCG-270451",
+  "CS-1374",
+  "DB11575",
+  "FG74818",
+  "(1R,18R,20R,24S,27S)-24-tert-butyl-N-[(1R,2S)-1-(cyclopropylsulfonylcarbamoyl)-2-ethenylcyclopropyl]-7-methoxy-22,25-dioxo-2,21-dioxa-4,11,23,26-tetrazapentacyclo[24.2.1.03,12.05,10.018,20]nonacosa-3,5(10),6,8,11-pentaene-27-carboxamide"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1238/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Grazoprevir has not been studied in nursing mothers being treated for hepatitis C infection. Because it is greater than 98.9% bound to maternal plasma proteins, amounts in breastmilk are likely to be very low.\nHepatitis C is not transmitted through breastmilk and breastmilk has been shown to inactivate hepatitis C virus (HCV). However, the Centers for Disease Control recommends that mothers with HCV infection should consider abstaining from breastfeeding if their nipples are cracked or bleeding. It is not clear if this warning would apply to mothers who are being treated for hepatitis C.\nInfants born to mothers with HCV infection should be tested for HCV infection; because maternal antibody is present for the first 18 months of life and before the infant mounts an immunologic response, nucleic acid testing is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hepatitis C) Interferon Alfa, Interferon Alfacon-1, Peginterferon Alfa, Sofosbuvir"
+  ]
+ ]
+}

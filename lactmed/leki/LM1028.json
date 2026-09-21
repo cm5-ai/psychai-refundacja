@@ -1,0 +1,35 @@
+{
+ "id": "LM1028",
+ "tytul": "Pertuzumab",
+ "synonimy": [
+  "Pertuzumab",
+  "Omnitarg",
+  "Perjeta",
+  "Poherdy",
+  "Omnitarg, 2C4",
+  "rhuMAb 2C4",
+  "UNII-K16AIQ8CTM",
+  "HSDB 8141",
+  "Immunoglobulin G1, anti-(human v (receptor)) (human-mouse monoclonal 2C4 heavy chain), disulfide with human-mouse monoclonal 2C4 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1028/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Pertuzumab milk concentrations were collected in one mother. Concentrations were low, consistent with it being a large protein molecule with a molecular weight of about 148,000 Da. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, pertuzumab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. The manufacturer recommends that breastfeeding be discontinued during pertuzumab therapy and for 7 months after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was diagnosed with breast cancer in pregnancy and received five cycles of 75 mg docetaxel during pregnancy. As soon as clinically feasible postpartum, she was given pertuzumab 1200 mg intravenously in the first cycle. Fifteen milk samples were collected over 17 days after the first dose except for days 6, 8, and 14 because no milk was produced on those days. Milk pertuzumab concentrations ranged between 137 and 3034 mcg/L, with the highest concentration found 17 days after the dose. The authors calculated relative infant dosage in a nonstandard way that did not take low oral bioavailability into account, thereby overstating infant exposure, so it is not reported here.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

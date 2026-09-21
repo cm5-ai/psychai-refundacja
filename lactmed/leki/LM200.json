@@ -1,0 +1,47 @@
+{
+ "id": "LM200",
+ "tytul": "Nisoldipine",
+ "synonimy": [
+  "nisoldipine",
+  "Sular",
+  "Nisocor",
+  "Nisoldipinum",
+  "Nisoldipino",
+  "63675-72-9",
+  "Nisoldipinum [INN-Latin]",
+  "Bay k 5552",
+  "Nisoldipino [INN-Spanish]",
+  "UNII-4I8HAB65SZ",
+  "4I8HAB65SZ",
+  "EINECS 264-407-7",
+  "Nisoldipine [USAN:INN:BAN:JAN]",
+  "BRN 0454188",
+  "(+-)-Isobutyl methyl 1,4-dihydro-2,6-dimethyl-4-(o-nitrophenyl)-3,5-pyridinedicarboxylate",
+  "Isobutyl 1,4-dihydro-5-methoxycarbonyl-2,6-dimethyl-4-(2-nitrophenyl)-3-pyridincarboxylat",
+  "3,5-Pyridinedicarboxylic acid, 1,4-dihydro-2,6-dimethyl-4-(2-nitrophenyl)-, methyl 2-methylpropyl ester, (+-)-"
+ ],
+ "zaktualizowano": "2018-10-31",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM200/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because no information is available on the use of nisoldipine during breastfeeding, an alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels.Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nifedipine, Nitrendipine"
+  ]
+ ]
+}

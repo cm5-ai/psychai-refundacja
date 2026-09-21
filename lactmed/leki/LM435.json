@@ -1,0 +1,50 @@
+{
+ "id": "LM435",
+ "tytul": "Dantrolene",
+ "synonimy": [
+  "dantrolene",
+  "Dantroleno",
+  "Dantrolenum",
+  "Ryanodex",
+  "Dantrolenum [INN-Latin]",
+  "Dantroleno [INN-Spanish]",
+  "UNII-F64QU97QCR",
+  "F64QU97QCR",
+  "Dantrolene [USAN:INN:BAN]",
+  "HSDB 3050",
+  "7261-97-4",
+  "EINECS 230-684-8",
+  "F-368",
+  "BRN 0705189",
+  "1-((5-(p-Nitrophenyl)furfurylidene)amino)hydantoin",
+  "F 368",
+  "Hydantoin, 1-((5-(p-nitrophenyl)furfurylidene)amino)-",
+  "5-24-05-00226 (Beilstein Handbook Reference)",
+  "1-(((5-(4-Nitrophenyl)-2-furanyl)methylene)amino)-2,4-imidazolidinedione",
+  "2,4-Imidazolidinedione, 1-(((5-(4-nitrophenyl)-2-furanyl)methylene)amino)-"
+ ],
+ "zaktualizowano": "2021-03-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM435/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because no information is available on the long-term use of dantrolene during breastfeeding, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. After short-term use, the drug would be expected to be eliminated from milk in 1 to 2 days."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Administration of several intravenous dantrolene doses were given over 3 days to a postpartum mother in divided doses. Total daily dosages were 720 mg on day 1, 320 mg on day 2, and 80 mg on day 3. A milk level of 1.2 mg/L was measured on day 2 after a total of 640 mg had been given. The milk level was 50 mcg/L on day 4 about 35 hours after the last dose. Dantrolene half-life in milk was 9.2 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Baclofen"
+  ]
+ ]
+}

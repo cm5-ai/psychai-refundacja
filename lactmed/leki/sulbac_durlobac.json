@@ -1,0 +1,47 @@
+{
+ "id": "sulbac_durlobac",
+ "tytul": "Sulbactam and Durlobactam",
+ "synonimy": [
+  "Sulbactam and Durlobactam",
+  "Xacduro",
+  "CP 45899",
+  "CP-45899",
+  "CP45899",
+  "Penicillanic Acid Sulfone",
+  "Sulfone, Penicillanic Acid",
+  "PSA33KO9WA",
+  "EXT2514",
+  "UNII-PSA33KO9WA",
+  "WHO 10824",
+  "Sulfuric acid, mono((2S,5R)-2-(aminocarbonyl)-3-methyl-7-oxo-1,6-diazabicyclo(3.2.1)oct-3-en-6-yl) ester",
+  "[(2S,5R)-2-carbamoyl-3-methyl-7-oxo-1,6-diazabicyclo[3.2.1]oct-3-en-6-yl] hydrogen sulfate",
+  "ETX2514",
+  "CHEMBL4298137",
+  "SCHEMBL15319894",
+  "BISPBXFUKNXOQY-RITPCOANSA-N",
+  "AKOS040746784",
+  "D11591",
+  "(2S,5R)-2-CARBAMOYL-3-METHYL-7-OXO-1,6-DIAZABICYCLO(3.2.1)OCT-3-EN-6-YL SULFATE",
+  "(2S,5R)-2-carbamoyl-3-methyl-7-oxo-1,6-diazabicyclo[3.2.1]oct-3-en-6-yl hydrogen sulfate"
+ ],
+ "zaktualizowano": "2023-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/sulbac_durlobac/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Sulbactam produces low levels in milk that are not expected to cause adverse effects in breastfed infants. It is likely that durlobactam produces similar levels in milk. Occasionally, disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush, have been reported with penicillins, but these effects have not been adequately evaluated. Sulbactam-durlobactam is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. No information is available about the passage of durlobactam into milk.\nA study in postpartum women with endometritis who received ampicillin 1 gram plus sulbactam 0.5 gram or ampicillin 2 grams plus 1 gram of sulbactam infused intravenously over 20 minutes found the average milk levels of ampicillin to be 1.7 mg/L with the highest level observed 3 mg/L. Sulbactam milk levels averaged 0.58 mg/L with the highest level observed 2.8 mg/L.\nMilk was collected at random times after 0.5 or 1 gram doses of sulbactam infused intravenously over 20 minutes. Little fluctuation occurred in milk levels over the first 8 hours after the dose with little difference in milk levels between the two dosages. Milk levels averaged 0.52 mg/L during this period with the highest level being 2.8 mg/L. Other levels from 10.5 to 20.5 hours after the dose ranged from 0.12 to 1.2 mg/L. It is unclear whether some of the patients in this report were the same as those in reference.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

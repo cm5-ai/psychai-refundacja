@@ -1,0 +1,39 @@
+{
+ "id": "LM1290",
+ "tytul": "Irinotecan",
+ "synonimy": [
+  "irinotecan",
+  "Camptosar",
+  "Irinotecanum",
+  "Irinophore C",
+  "Irinotecan lactone",
+  "HSDB 7607",
+  "UNII-7673326042",
+  "SN-38",
+  "SN 38 lactone",
+  "SN 38",
+  "LE-SN38",
+  "UNII-0H43101T0J",
+  "(19S)-10,19-diethyl-7,19-dihydroxy-17-oxa-3,13-diazapentacyclo[11.8.0.02,11.04,9.015,20]henicosa-1(21),2,4(9),5,7,10,15(20)-heptaene-14,18-dione"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1290/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited data indicate that irinotecan is found in breastmilk for 2 days and its active metabolite is found in breastmilk for up to a week after a dose of 60 mg/square meter, although the highest amounts occur during the first 4 days after a dose. Higher maternal doses have not been studied and the oral absorption and toxicity in breastfed infants are not known. Based on this limited evidence, it appears that breastfeeding should be avoided for at least a week after a dose of irinotecan 60 mg/square meter. Higher dosages probably require a longer abstinence period. Some authors recommend discontinuing breastfeeding during irinotecan therapy. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Irinotecan is metabolized to the active metabolite, 7-ethyl-10-hydroxycamptothecin (SN-38), which is further conjugated with glucuronic acid.\nMaternal Levels. A woman with cervical cancer discovered during pregnancy was treated with irinotecan 60 mg/square meter plus nedaplatin 80 mg/square meter. She had been nursing her infant prior to chemotherapy and collected morning breastmilk samples on days 2 to 7 following the first dose of irinotecan. Irinotecan was detectable in breastmilk on days 2 and 3 after the dose in concentrations of 399 and 60.21 mcg/L, respectively. Irinotecan was undetectable (<0.1 mcg/L) on day 4 and after. SN-38 was also measured, but not its glucuronide. SN-38 was highest in breastmilk on day 2, with a concentration of 3.9 mcg/L. Levels fell, but were still measurable on days 6 and 7, with concentrations of 0.16 and 0.2 mcg/L, respectively.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

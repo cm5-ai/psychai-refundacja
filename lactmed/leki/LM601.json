@@ -1,0 +1,41 @@
+{
+ "id": "LM601",
+ "tytul": "Zafirlukast",
+ "synonimy": [
+  "zafirlukast",
+  "Accolate",
+  "Olmoran",
+  "Aeronix",
+  "107753-78-6",
+  "ICI-204219",
+  "UNII-XZ629S5L50",
+  "ICI 204219",
+  "ICI 204,219",
+  "XZ629S5L50",
+  "cyclopentyl N-[3-[[2-methoxy-4-[(2-methylphenyl)sulfonylcarbamoyl]phenyl]methyl]-1-methylindol-5-yl]carbamate"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM601/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published information is available on the use of zafirlukast during breastfeeding; however, manufacturer's data indicate that the dose in milk is low. Zafirlukast has been used in children as young as 12 months of age. International guidelines consider that leukotriene receptor antagonists can be used during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nThe manufacturer reports that after administration of zafirlukast 40 mg twice daily to lactating women (number not reported), average steady-state milk concentrations were 50 mcg/L. Using these data, a fully breastfed infant would be expected to receive about 0.6% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Beclomethasone, Cromolyn, Montelukast, Terbutaline, Theophylline"
+  ]
+ ]
+}

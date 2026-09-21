@@ -1,0 +1,48 @@
+{
+ "id": "LM11",
+ "tytul": "Amlodipine",
+ "synonimy": [
+  "amlodipine",
+  "Norvasc",
+  "Amlodis",
+  "Amlodipino",
+  "Amlodipinum",
+  "Amlocard",
+  "Coroval",
+  "Lipinox",
+  "Lotrel",
+  "Amlor",
+  "Exforge",
+  "Amlodipinum [Latin]",
+  "Amlodipino [Spanish]",
+  "UNII-1J444QC288",
+  "HSDB 7079",
+  "1J444QC288",
+  "EC 425-820-1",
+  "3-O-ethyl 5-O-methyl 2-(2-aminoethoxymethyl)-4-(2-chlorophenyl)-6-methyl-1,4-dihydropyridine-3,5-dicarboxylate"
+ ],
+ "zaktualizowano": "2024-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM11/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that milk levels of amlodipine are usually low and plasma levels in breastfed infants are undetectable. Maternal use of amlodipine during breastfeeding has not caused any adverse effects in breastfed infants. If the mother requires amlodipine, it is not a reason to discontinue breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Thirty-one postpartum women with pregnancy-induced hypertension received amlodipine 5 mg daily by mouth, with the dosage increased as needed to maintain blood pressure of 140/90 mm Hg or less. The final mean dosage for the group was 6 mg (0.099 mg/kg) daily. Simultaneous predose maternal blood and breastmilk samples were obtained within 3 weeks postpartum, after at least 6 days of therapy. The median milk concentration was 11.5 mcg/L (intraquartile range 9.8 to 18 mcg/L). The authors calculated a median infant dosage of 4.2 mcg/kg (intraquartile range 3.1 to 6.3 mcg/kg), which corresponds to a weight-adjusted maternal dosage of 4.2% (intraquartile range 3.1 to 7.3%). However, using the median milk concentration, one would calculate an infant dosage of only 1.73 mcg/kg daily and a weight-adjusted relative dosage of 1.7%. It is unclear why the difference exists between reported and calculate values. In 5 mothers, the weight-adjusted maternal dosage was above 10%, with a maximum value of 15.2% in one mother. All of these calculations are suboptimal because only single points of maternal plasma and milk concentrations were measured rather than using an area-under-the-curve to calculate them.\nSix mothers were taking amlodipine 5 mg daily during pregnancy and postpartum. On the second day postpartum, 6 colostrum samples were obtained at 4, 6, 8, 12, 15 and 24 hours following the dose. Amlodipine was undetectable (<0.1 mcg/L) in all samples.\nEight mothers with infants 5 to 7 days old were taking amlodipine 2.5 mg (1 subject) or 5 mg (7 subjects) daily. They donated foremilk samples at various times after the dose. Peak concentrations in milk occurred from 4 to 8 hours after a dose and ranged from 8 to 20 mcg/L in 5 women with more than 4 milk samples. The weight-adjusted maternal dosage averaged 3.3% (range 1.6% to 4.3%) among the 8 mothers.\nInfant Levels. A preterm infant of 32 weeks gestation was breastfed exclusively from day 7 to day 20 postpartum. The infant's mother was taking amlodipine and labetalol in unspecified dosages for hypertension. After 4 days of breastfeeding, the infant's blood amlodipine level was unmeasurable (lower limit of assay not specified).\nEight infants whose mothers were taking amlodipine 5 mg daily during pregnancy had blood samples taken at 24 to 48 hours postpartum. Amlodipine concentrations were unmeasurable (<0.1 mcg/L) in all samples, although the paper does not state how many of the infants were being breastfed.\nNine infants aged 5 to 7 days were exclusively breastfed by 8 mothers who were taking amlodipine 2.5 mg (1 mother) or 5 mg (7 mothers) daily. Blood samples were taken from the infants before and after nursing at 8 hours after their mothers' amlodipine dose. All infant blood levels were undetectable (<0.4 mcg/L)."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman took amlodipine for hypertension 5 mg daily beginning 2 weeks postpartum. Her exclusively breastfed infant was examined regularly and at 3 months of age was healthy and had normal physical and neurological development.\nOne woman received amlodipine 2.5 mg orally twice daily during pregnancy for hypertension associated with glomerulonephritis. The dose was increased to 5 mg twice daily on day 2 postpartum. Her exclusively breastfed infant's growth was normal throughout the first year of life and no adverse effects were noted.\nA preterm infant of 32 weeks gestation was breastfed exclusively from day 7 to day 20 postpartum. The infant's mother was taking amlodipine and labetalol in unspecified dosages for hypertension. The infant had apnea episodes unrelated to amlodipine. Growth at 2 months of age was slightly low.\nThirty-one women with pregnancy-induced hypertension postpartum received amlodipine 5 mg daily by mouth, with the dosage increased as needed to maintain blood pressure of 140/90 mm Hg or less. Their breastfed (extent not stated) infants exhibited no observed adverse cardiovascular effects within 3 weeks postpartum, although exact measurement methods were not stated."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Nifedipine, Nitrendipine"
+  ]
+ ]
+}

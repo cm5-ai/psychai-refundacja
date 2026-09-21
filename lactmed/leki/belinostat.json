@@ -1,0 +1,72 @@
+{
+ "id": "belinostat",
+ "tytul": "Belinostat",
+ "synonimy": [
+  "Belinostat",
+  "Beleodaq",
+  "PXD101",
+  "NSC726630",
+  "PX-105684",
+  "UNII-F4H96P17NZ",
+  "F4H96P17NZ",
+  "CHEBI:61076",
+  "belinostatum",
+  "PX105684",
+  "MFCD08064035",
+  "MLS006011091",
+  "CHEMBL408513",
+  "GTPL7496",
+  "BDBM25150",
+  "CHEBI:94531",
+  "DTXCID70116869",
+  "EX-A180",
+  "L01XX49",
+  "NCNRHFGMJRPRSK-MDZDMXLPSA-N",
+  "BCPP000351",
+  "BCP01741",
+  "NSC758774",
+  "s1085",
+  "AKOS025401741",
+  "BCP9000386",
+  "CCG-208758",
+  "DB05015",
+  "NSC-758774",
+  "NCGC00263155-02",
+  "NCGC00263155-05",
+  "NCGC00263155-09",
+  "AC-25046",
+  "AC-35365",
+  "AS-17068",
+  "SMR004702879",
+  "B5888",
+  "NS00069313",
+  "SW219445-1",
+  "D08870",
+  "EN300-7361191",
+  "J-523584",
+  "Q4882925",
+  "BRD-K17743125-001-01-9",
+  "BRD-K17743125-001-08-4",
+  "(E)-N-hydroxy-3-[3-(phenylsulfamoyl)phenyl]prop-2-enamide"
+ ],
+ "zaktualizowano": "2025-01-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/belinostat/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of belinostat during breastfeeding. Because belinostat is >92% bound to plasma proteins, amounts in milk are likely to be low. The manufacturer states that breastfeeding is not recommended during treatment with belinostat, and for 2 weeks after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

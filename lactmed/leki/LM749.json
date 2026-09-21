@@ -1,0 +1,43 @@
+{
+ "id": "LM749",
+ "tytul": "Saxagliptin",
+ "synonimy": [
+  "Saxagliptin hydrate",
+  "Onglyza",
+  "BMS 477118",
+  "Saxagliptine",
+  "8I7IO46IVQ",
+  "DTXSID7048580",
+  "DTXCID3028506",
+  "BMS477118",
+  "CHEBI:71272",
+  "Saxagliptina",
+  "NSC760407 UNII-9GB927LAJW",
+  "BMS-477118-11",
+  "(1S,3S,5S)-2-[(2S)-2-amino-2-(3-hydroxy-1-adamantyl)acetyl]-2-azabicyclo[3.1.0]hexane-3-carbonitrile"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM749/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of saxagliptin during breastfeeding. Saxagliptin has a shorter half-life than the other dipeptidyl-peptidase IV inhibitors, so it might be a better choice among drugs in this class for nursing mothers. Monitoring of the breastfed infant's blood glucose is advisable during maternal therapy with saxagliptin. However, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acarbose, Colesevelam, Glipizide, Glyburide, Insulin, Metformin, Miglitol, Semaglutide, Tirzepatide"
+  ]
+ ]
+}

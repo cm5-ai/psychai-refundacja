@@ -1,0 +1,37 @@
+{
+ "id": "LM1110",
+ "tytul": "Xenon",
+ "synonimy": [
+  "XENON",
+  "Xenon, compressed",
+  "UNII-3H3U766W84",
+  "EINECS 231-172-7",
+  "UN2036",
+  "UN2591",
+  "7440-63-3",
+  "3H3U766W84",
+  "Xenon, refrigerated liquid (cryogenic liquids)",
+  "Xenon, compressed [UN2036] [Nonflammable gas]",
+  "Xenon, refrigerated liquid (cryogenic liquids) [UN2591] [Nonflammable gas]"
+ ],
+ "zaktualizowano": "2021-06-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1110/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Xenon is an inert gas that has been used for general anesthesia. It was undetectable in breastmilk after extubation of the mothers. Breastfeeding can be resumed as soon as the mother has recovered sufficiently from general anesthesia to nurse. When a combination of anesthetic agents is used for a procedure, follow the recommendations for the most problematic medication used during the procedure."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Two mothers who underwent general anesthesia were given propofol and remifentanil as induction agents and rocuronium for intubation. After induction, propofol was stopped and xenon inhalation was used to maintain anesthesia for 57 and 59 minutes, respectively. Xenon was undetectable in breastmilk at 0 and 300 minutes after extubation in both mothers.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Four mothers who underwent general anesthesia were given propofol and remifentanil as induction agents and rocuronium for intubation. After induction, propofol was stopped and xenon inhalation was used to maintain anesthesia for between 57 and 70 minutes. Infants resumed breastfeeding from 1.5 to 5 hours after the end of surgery. None of the infants had noticeable symptoms of dizziness or drowsiness. All infants fared well at home after their mothers were discharged."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

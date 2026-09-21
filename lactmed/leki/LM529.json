@@ -1,0 +1,50 @@
+{
+ "id": "LM529",
+ "tytul": "Ioxaglate",
+ "synonimy": [
+  "ioxaglic acid",
+  "Ioxaglate",
+  "Acido ioxaglico",
+  "Acide ioxaglique",
+  "Acidum ioxaglicum",
+  "Hexabrix 160",
+  "UNII-Z40X7EI2AF",
+  "P 286 (Contrast medium)",
+  "Acide ioxaglique [INN-French]",
+  "Acido ioxaglico [INN-Spanish]",
+  "Acidum ioxaglicum [INN-Latin]",
+  "Z40X7EI2AF",
+  "HSDB 8077",
+  "EINECS 261-560-1",
+  "59017-64-0",
+  "P 286",
+  "Ioxaglic acid [USAN:USP:INN:BAN:JAN]",
+  "P-286",
+  "N-(2-Hydroxyethyl)-2,4,6-triiodo-5-(2-(2,4,6-triiodo-3-(N-methylacetamido)-5-(methylcarbamoyl)benzamido)acetamido)isophthalamic acid",
+  "Benzoic acid, 3-((((3-(acetylmethylamino)-2,4,6-triiodo-5-((methylamino)carbonyl)benzoyl)amino)acetyl)amino)-5-(((2-hydroxyethyl)amino)carbonyl)-2,4,6-triiodo-"
+ ],
+ "zaktualizowano": "2022-11-30",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM529/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Intravenous iodinated contrast media are poorly excreted into breastmilk and poorly absorbed orally so they are not likely to reach the bloodstream of the infant or cause any adverse effects in breastfed infants. Guidelines developed by several professional organizations state that breastfeeding need not be disrupted after a nursing mother receives an iodine-containing contrast medium. However, because there is no published experience with ioxaglate during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Diatrizoate, Iohexol"
+  ]
+ ]
+}

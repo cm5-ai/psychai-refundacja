@@ -1,0 +1,37 @@
+{
+ "id": "LM350",
+ "tytul": "Eletriptan",
+ "synonimy": [
+  "Eletriptan hydrobromide",
+  "Eletriptan",
+  "Relpax",
+  "UNII-M41W832TA3",
+  "UK 116044-04",
+  "UK-116,044-04",
+  "5-[2-(benzenesulfonyl)ethyl]-3-[[(2R)-1-methylpyrrolidin-2-yl]methyl]-1H-indole"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM350/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that a maternal dose of eletriptan up to 80 mg daily produces low levels in milk and would not be expected to cause any adverse effects in breastfed infants. Eletriptan has been recommended as a triptan of choice in breastfeeding. Painful, burning nipples and breast pain have been reported after doses of sumatriptan and other triptans. This has occasionally been accompanied by a decrease in milk production."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Eletriptan is metabolized to an active metabolite that has a longer half-life than eletriptan, but its serotonin agonist activity is only about 10% that of eletriptan.\nMaternal Levels. Eight lactating women who were at least 1 month postpartum were given a single 80 mg oral dose of eletriptan. An average of 12.9 mcg was excreted in the 24 hours after the dose. At 24 hours, breastmilk levels averaged 1.7 mcg/L. The half-life in milk of eletriptan was 3.6 hours. The active metabolite was not measured in breastmilk.\nThree women who were at least 1 month postpartum used eletriptan to treat migraine provided one milk sample before the dose, then additional milk samples at 1, 2, 4, 8, 12 and 24 hours after the dose. Desmethyleletriptan was undetectable (<1 nM) in milk. One mother took a 20 mg dose. The peak milk level of 18.2 mcg/L occurred 2 hours after the dose. The average milk level was 5.7 mcg/L and the half-life in milk was 4 hours. Her infant’s daily dosage of eletriptan was 0.9 mcg/kg and the weight-adjusted infant dosage was 0.3% of the maternal dose. The two other women took a 40 mg dose. Peak milk levels of 78.1 and 102.4 mcg/L occurred at 2 hours after the dose and the half-lives in milk were 5.1 and 3.7 hours, respectively. The average milk levels were 24 and 23.5 mcg/L, respectively. Their infants’ daily dosages of eletriptan were 3.6 and 3.5 mcg/kg and their weight-adjusted infant dosages were 0.6% and 0.8% of the maternal dose. The overall average infant dosage was 0.6% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A review of four European adverse reaction databases found 26 reported cases of painful, burning nipples, painful breasts, breast engorgement and/or painful milk ejection in women who took a triptan while nursing. Pain was sometimes intense and occasionally led to decreased milk production. Pain generally subsided with time as the drug was eliminated. The authors proposed that triptans may cause vasoconstriction of the arteries in the breast, nipples, and the arteries surrounding the alveoli and milk ducts, causing a painful sensation and a painful milk ejection reﬂex."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Rizatriptan, Sumatriptan, Zolmitriptan"
+  ]
+ ]
+}

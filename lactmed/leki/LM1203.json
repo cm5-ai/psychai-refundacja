@@ -1,0 +1,36 @@
+{
+ "id": "LM1203",
+ "tytul": "Daratumumab",
+ "synonimy": [
+  "Daratumumab",
+  "Darzalex",
+  "HuMax-CD38",
+  "Daratumumab [USAN:INN]",
+  "UNII-4Z63YK6E0E",
+  "Anti-CD38 monoclonal antibody",
+  "4Z63YK6E0E",
+  "JNJ 54767414",
+  "JNJ-54767414",
+  "945721-28-8"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1203/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of daratumumab during breastfeeding. Because daratumumab is a large protein molecule with a molecular weight of 148,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant. However, daratumumab is administered with lenalidomide, pomalidomide, or thalidomide, three drugs that have no information on use in nursing mothers. For this reason, the manufacturer recommends that women receiving daratumumab should not breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

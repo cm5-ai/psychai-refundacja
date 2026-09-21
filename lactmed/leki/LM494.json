@@ -1,0 +1,53 @@
+{
+ "id": "LM494",
+ "tytul": "Chlorhexidine",
+ "synonimy": [
+  "chlorhexidine",
+  "Chlorhexidinum",
+  "Chlorhexidin",
+  "Rotersept",
+  "ReadyPrep HG",
+  "Tubulicid",
+  "Nolvasan",
+  "Hexadol",
+  "Soretol",
+  "Fimeil",
+  "Clorhexidina",
+  "Cloresidina",
+  "Sterilon",
+  "Cloresidina [DCIT]",
+  "Chlorhexidin [Czech]",
+  "Excel",
+  "CCRIS 9230",
+  "R4KO0DY52L",
+  "HSDB 7196",
+  "BRN 2826432",
+  "EC 200-238-7",
+  "4-12-00-01201 (Beilstein Handbook Reference)",
+  "(1E)-2-[6-[[amino-[(E)-[amino-(4-chloroanilino)methylidene]amino]methylidene]amino]hexyl]-1-[amino-(4-chloroanilino)methylidene]guanidine"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM494/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Chlorhexidine has been used vaginally or topically on the abdomen or perineum prior to delivery to prevent infection. No toxicity has been reported in breastfed infants and it has clearly less toxicity compared to povidone-iodine in these situations. Topical application of chlorhexidine to the breast before and after nursing did not appear to adversely affect the breastfed infants in one study. Use of chlorhexidine oral rinse by a nursing mother is unlikely to adversely affect her infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Iodine milk levels were measured in a study of mothers who received 10% povidone-iodine (n = 21) or chlorhexidine (n = 13) topically to the perineum starting immediately before the final stage of labor and daily postpartum to the episiotomy. At 96 hours postpartum, milk iodine levels averaged 1.2 mg/L in mothers who received topical povidone-iodine compared to average milk levels of 0.1 mg/L in the mothers who received chlorhexidine.\nInfant Levels. In a study of mothers who received 10% povidone-iodine (n = 21) or chlorhexidine (n = 13) topically to the perineum starting immediately before the final stage of labor and daily postpartum to the episiotomy, urine iodine levels were measured in their infants. In the infants whose mothers received povidone-iodine, urine iodine levels were much higher at 24 and 48 hours postpartum. At 96 hours postpartum, the breastfed infants (n = 13) whose mothers received povidone-iodine had urine iodine levels of 8.3 mg/L compared to levels of 0.4 mg/L in infants who did not breastfeed (n = 8) and 0.6 mg/L in the infants of mothers who received chlorhexidine (n = 13)."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A group of investigators in Belgium reviewed the results of infant thyrotropin levels on day 5 postpartum in 4745 newborn infants delivered over a 2-year period at their hospital. Infants were divided among those whose mothers had iodine overload (n = 3086) from topical povidone-iodine 10% solution during labor and delivery and those whose mothers had no iodine overload (n = 1659). Mothers had povidone-iodine applied either as a single application to 900 square cm for epidural anesthesia or 3 applications to the entire abdominal wall for cesarean section. Breastfed infants whose mothers had iodine overload had a greater risk for having elevated thyrotropin levels and requiring recall for retesting (3.2% with cesarean section and 2.7% with epidural anesthesia) compared to those who did not (0.1%). Bottle-fed infants were affected much less than breastfed infants. After replacing povidone-iodine with chlorhexidine 0.5% in 70% isopropanol for disinfection for 6 months, 1178 infants that were delivered at this institution had no increased rate of elevations in thyroid function tests and a reduced rate of recalls in breastfed infants.\nIn a study of mothers in Spain who received 10% povidone-iodine (n = 21) or chlorhexidine (n = 13) topically to the perineum starting immediately before the final stage of labor and daily postpartum to the episiotomy, no differences in thyrotropin, thyroxine or free thyroxine was found among their breastfed infants at day 5 to 7 postpartum.\nStudies in Africa have used chlorhexidine vaginally prior to delivery in an attempt to reduce the frequency of mother-to-child transmission (MTCT) of HIV. In one, cotton soaked in 0.25% chlorhexidine solution was used to swab the vaginal walls every 4 hours from admission into labor until delivery in 4078 women. The other study used 120 mL of either 0.2% or 0.4% chlorhexidine solution as a vaginal lavage every 3 hours from admission to labor until delivery in 309 women. The average number of lavages was 2.1 (range 1 to 11). Chlorhexidine 0.25% swabs reduced MTCT in patients whose membranes ruptured more than 4 hours before delivery, but not in other women. Vaginal lavage showed a statistically nonsignificant trend towards reduction of MTCT, with the 0.4% greater than the 0.2%. Almost all of the infants in these studies were breastfed. No adverse events were reported in the infants, but follow-up related primarily to infant mortality and HIV status rather than effects of chlorhexidine."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A randomized study compared 0.2% chlorhexidine in alcohol to distilled water as a spray to the breast in 200 mothers who were nursing newborns. The mothers sprayed their breasts with the liquid before and after each feeding. Mothers and infants were assessed at discharge and weekly thereafter. Discomfort and nipple trauma were less frequent in the chlorhexidine group than in the placebo group, particularly at the first assessment. Although skin flora on the breasts of the treated mothers was reduced, there was no difference in the frequency of mastitis between the treated and placebo groups. No obvious side effects occurred in the breastfed infants and there were no differences in the rates of oral thrush in infants between the treatments. A systematic review concluded that this practice is not justified based on current evidence."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Benzalkonium Chloride"
+  ]
+ ]
+}

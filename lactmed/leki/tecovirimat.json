@@ -1,0 +1,33 @@
+{
+ "id": "tecovirimat",
+ "tytul": "Tecovirimat",
+ "synonimy": [
+  "Tecovirimat",
+  "TPOXX",
+  "ST-246",
+  "SIGA 246",
+  "SIGA-246",
+  "ST 246",
+  "UNII-F925RR824R"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/tecovirimat/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information from one patient indicates that milk levels of tecovirimat are low, consistent with relatively high protein binding and low oral absorption. Additionally, tecovirimat is approved for use in pediatric patients weighing as little as 3 kg. Amounts in breastmilk are unlikely to adversely affect the breastfed infant. Tecovirimat is considered to be the drug of choice for treating Mpox during lactation. Individuals with Mpox should feed their infants with pasteurized donor milk or infant formula until all of their lesions are healed. Numerous other safety precautions are advised for mothers with Mpox. Individuals with smallpox are recommended not to breastfeed their infant because of the risk of passing variola virus to the infant through direct contact."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A women was diagnosed with Mpox after viral DNA was detected in maternal blood, urine, breastmilk, vaginal, pharyngeal, and lesion swabs. Tecovirimat was given at a dosage of 600 mg twice daily for 14 days. Breast milk samples were obtained by manual expression before a dose, and 3, 5, and 7 hours after the dose on day 13 of treatment. The predose concentration was used as the 12-hour result and AUC0-12 of tecovirimat was calculated by the trapezoidal method. The predose concentration was 99.1 mcg/L, with a peak concentration of 227.2 mcg/L occurring at 7 hours after the dose. Using the AUC0–12 of 2028 hours per ng/mL, a mean value of 169 mcg/L was calculated, which would result in a daily infant dosage of 50.7 mcg/kg daily. Assuming a maternal weight of 70 kg, the relative infant dosage would be 0.99%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

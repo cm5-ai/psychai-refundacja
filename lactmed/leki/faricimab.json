@@ -1,0 +1,41 @@
+{
+ "id": "faricimab",
+ "tytul": "Faricimab",
+ "synonimy": [
+  "Faricimab",
+  "Vabysmo",
+  "faricimab-svoa",
+  "RG-7716",
+  "RG-7716",
+  "antivascular endothelial growth factor/anti-angiopoietin 2 bispecific antibody",
+  "RG7716",
+  "RO-6867461",
+  "RO6867461",
+  "UNII-QC4F7FKK7I",
+  "WHO 10563"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/faricimab/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of faricimab during breastfeeding. Because faricimab is a large protein molecule with a molecular weight of 149,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Until more data become available, faricimab should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant. An alternate drug with more breastfeeding information may be preferred. Faricimab inhibits vascular endothelial growth factor (VEGF). Since VEGF is present in human milk and is thought to help in maturation of the infant’s gastrointestinal tract, concern has been raised about the maternal use of VEGF inhibitors during breastfeeding. Note that the typical alternative to breastmilk is infant formula, which contains no VEGF. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Intravitreal) Aflibercept, Bevacizumab, Ranibizumab"
+  ]
+ ]
+}

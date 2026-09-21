@@ -1,0 +1,51 @@
+{
+ "id": "LM515",
+ "tytul": "Cholestyramine",
+ "synonimy": [
+  "Cholestyramine",
+  "Colestiramina",
+  "Colestyramine",
+  "Colestyraminum",
+  "Colestyramin",
+  "Cholybar",
+  "Locholest",
+  "Prevalite",
+  "Quantalan",
+  "Questran",
+  "Cuemid",
+  "Duolite AP143 Resin",
+  "Duolite AP-143 Resin",
+  "CCRIS 725",
+  "UNII-4B33BGI082",
+  "HSDB 7219",
+  "EINECS 234-270-8",
+  "azane",
+  "2-methylbutane",
+  "trimethyl-[[4-(5-phenylhexan-3-yl)phenyl]methyl]azanium",
+  "chloride"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM515/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Cholestyramine is a nonabsorbable resin. Because it does not enter the mother's bloodstream, it will not reach the infant via breastmilk. It is acceptable for use during lactation."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hypercholesterolemia) Colesevelam, Colestipol; (Type 2 Diabetes) Acarbose, Glipizide, Glyburide, Insulin, Metformin, Miglitol, Semaglutide, Tirzepatide"
+  ]
+ ]
+}

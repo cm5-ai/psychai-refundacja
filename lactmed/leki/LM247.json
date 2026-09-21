@@ -1,0 +1,57 @@
+{
+ "id": "LM247",
+ "tytul": "Streptomycin",
+ "synonimy": [
+  "streptomycin",
+  "Streptomycin A",
+  "Agrimycin",
+  "Strepcen",
+  "Gerox",
+  "Estreptomicina",
+  "Streptomicina",
+  "Streptomycine",
+  "Streptomyzin",
+  "Agrept",
+  "Neodiestreptopab",
+  "Streptomycinum",
+  "Hokko-mycin",
+  "Caswell No. 804",
+  "Streptomyzin [German]",
+  "Streptomicina [Italian]",
+  "UNII-Y45QSO73OB",
+  "Streptomycin [INN:BAN]",
+  "57-92-1",
+  "Y45QSO73OB",
+  "Estreptomicina [INN-Spanish]",
+  "CCRIS 5730",
+  "HSDB 1768",
+  "NSC 14083",
+  "EINECS 200-355-3",
+  "EPA Pesticide Chemical Code 006306",
+  "BRN 0074498",
+  "4-18-00-07540 (Beilstein Handbook Reference)",
+  "2,4-Diguanidino-3,5,6-trihydroxycyclohexyl 5-deoxy-2-O-(2-deoxy-2-methylamino-alpha-L-glucopyranosyl)-3-C-formyl-beta-L-lyxopentanofuranoside",
+  "D-Streptamine, O-2-deoxy-2-(methylamino)-alpha-L-glucopyranosyl-(1-2)-O-5-deoxy-3-C-formyl-alpha-L-lyxofuranosyl-(1-4)-N,N'-bis(aminoiminomethyl)-",
+  "D-Streptamine, O-2-deoxy-2-(methylamino)-alpha-L-glucopyranosyl-(1.fwdarw.2)-O-5-deoxy-3-C-formyl-alpha-L-lyxofuranosyl-(1.fwdarw.4)-N,N'-bis(aminoiminomethyl)-"
+ ],
+ "zaktualizowano": "2020-09-21",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM247/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Similar to other aminoglycoside antibiotics, streptomycin is poorly excreted into breastmilk. Newborn infants apparently absorb small amounts of aminoglycosides, but serum levels are far below those attained when treating newborn infections and systemic effects of streptomycin are unlikely. Older infants would be expected to absorb even less streptomycin Monitor the infant for possible effects on the gastrointestinal flora, such as diarrhea, candidiasis (e.g., thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Forty-six mothers receiving intramuscular streptomycin 250,000 MU had milk streptomycin levels measured hourly after a dose. The peak concentration in milk averaged 0.64 MU and occurred 9 hours after the dose. Mothers with unilateral mastitis had higher levels in the breast with mastitis than in the unaffected breast. Although it is not clear what the above dose was in milligrams in this older Russian paper, if the same proportion is used, a 1 g intramuscular dose would result in a peak streptomycin milk level of 2.6 mg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "One observational study found no inhibition of lactation by streptomycin."
+  ]
+ ]
+}

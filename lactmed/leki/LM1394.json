@@ -1,0 +1,38 @@
+{
+ "id": "LM1394",
+ "tytul": "Armodafinil",
+ "synonimy": [
+  "Armodafinil",
+  "Nuvigil",
+  "(R)-(-)-Modafinil",
+  "UNII-V63XWA605I",
+  "CEP-10953",
+  "CRL 40982",
+  "CEP 10953",
+  "2-[(R)-benzhydrylsulfinyl]acetamide"
+ ],
+ "zaktualizowano": "2025-04-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1394/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Armodafinil is the R-enantiomer of modafinil. Armodafinil has only been measured in the milk of mothers taking modafinil, where it is the predominant form, and its milk levels were extremely low. Some information from women who breastfed their infant's while using racemic modafinil found no adverse effects in their infants. Until more safety data are available, armodafinil should be used with careful infant monitoring during breastfeeding, or an alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with idiopathic hypersomnolence was treated with racemic modafinil 250 mg daily. She was also taking 75 mcg of levothyroxine daily for Hashimoto's thyroiditis, sertraline 200 mg daily for obsessive-compulsive and major depressive disorders, and inhaled albuterol as needed for mild intermittent asthma. At 19 days postpartum, milk samples were collected at 0, 1, 2, 4, 6, 8, 10, 12, and 24 hours after the dose. The trough milk R-modafinil level was 0.43 mg/L, with peak value of 2.3 mg/L at 2 hours after the dose. Based on the average amount of R-modafinil in milk of 1.2 mg/L, the daily infant dosage was estimated to be 0.18 mg/kg. All of these values may be underestimates of the pharmacologically active total drug (both R- and S-enantiomers), because S-modafinil was not measured.\nA nursing mother with narcolepsy was taking racemic modafinil 300 mg in the morning and 100 mg at noon. Eight milk samples were collected over a 26-hour period and the active isomer, armodafinil, was measured in milk. The peak milk concentrations of R-modafinil 3.89 and 4.07 mg/L occurred about 2 and 4 hours after the morning dose on the two days, respectively. The lowest milk level was 0.92 mg/L just before the dose on day 2. The authors estimated the R-modafinil infant dosage for a fully breastfed infant to be 294 mcg/kg daily. All of these values may be underestimates of the pharmacologically active total drug (both R- and S-enantiomers), because S-modafinil was not measured.\nInfant Levels. A nursing mother with narcolepsy was taking modafinil 300 mg in the morning and 100 mg at noon. Her exclusively breastfed infant had a blood sample taken 110 minutes after the morning dose (and 30 minutes after breastfeeding was started), which was 0.19 mg/L, which was 1.6% of the mother’s simultaneous plasma level; however this may be an underestimate of the pharmacologically active total drug (both R- and S-enantiomers) because S-modafinil was not measured."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "In one case-control study of women having narcolepsy with cataplexy, some women (fewer than 6) breastfed their infants while taking modafinil. No adverse effects were noted. The authors felt that the risk from the medication is low.\nAn infant was exclusively breastfed by a mother taking modafinil 300 mg in the morning and 100 mg at noon. The authors state that the infant had no adverse events during the 2-day study period and normal growth and development at 6 weeks postpartum."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A case control study comparing women with narcolepsy with cataplexy to a control group found that those with narcolepsy breastfed longer than those without the disease. The authors felt that the difference likely due to a lower employment rate among the women with narcolepsy."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Narcolepsy) Amphetamine, Dextroamphetamine, Lisdexamfetamine, Methylphenidate, Modafinil, Oxybate Salts, Pitolisant"
+  ]
+ ]
+}

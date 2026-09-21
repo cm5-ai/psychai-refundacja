@@ -1,0 +1,40 @@
+{
+ "id": "LM1383",
+ "tytul": "Semaglutide",
+ "synonimy": [
+  "Semaglutide",
+  "Ozempic",
+  "Wegovy",
+  "Rybelsus",
+  "UNII-53AXN4NNHX",
+  "53AXN4NNHX",
+  "NN9535",
+  "NN 9535",
+  "NNC 0113-0217",
+  "L-Histidyl-2-methylalanyl-L-alpha-glutamylglycyl-L-threonyl-L-phenylalanyl-L-threonyl-L-seryl-L-alpha-aspartyl-L-valyl-L-seryl-L-seryl-L-tyrosyl-L-leucyl-L-alpha-glutamylglycyl-L-glutaminyl-L-alanyl-L-alanyl-N6-(N-(17-carboxy-1-oxoheptadecyl)-L-gamma-glutamyl-2-(2-(2-aminoethoxy)ethoxy)acetyl-2-(2-(2-aminoethoxy)ethoxy)acetyl)-L-lysyl-L-alpha-glutamyl-L-phenylalanyl-L-isoleucyl-L-alanyl-L-tryptophyl-L-leucyl-L-valyl-L-arginylglycyl-L-arginylglycine"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1383/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Semaglutide was not detectable in the milk of mothers taking the drug subcutaneously. Their breastfed infants experienced no adverse effects. Some brands of oral semaglutide, such as Rybelsus, contain the absorption enhancer salcaprozate sodium, which may enter milk and accumulate in infants. Only injectable forms of semaglutide should be used during breastfeeding. Some experts recommend closely monitoring of infant growth and developmental milestones and the nutritional status of the lactating woman."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Eight nursing mothers, who were using subcutaneous semaglutide in doses ranging from 0.25 to 1 mg weekly, donated milk samples at 0,12 and 24 hours after a dose. None of the samples contained any measurable semaglutide (<1.7 mcg/L). The authors calculated that if milk had contained semaglutide at the detection limit, the relative infant dose would have averaged only 1.12%. This does not take into consideration that the drug is poorly absorbed orally, with a maximum bioavailability of 1% in adults.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Eight nursing mothers were using subcutaneous semaglutide in doses ranging from 0.25 to 1 mg weekly. Their infants ranged in age from 4 to 23 months of age and were mixed fed. They were fed breastmilk for 3 to 9 weeks while their mothers were taking semaglutide. All of the infants were reported to have normal growth and development by their mothers."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Diabetes) Acarbose, Colesevelam, Glipizide, Glyburide, Insulin, Metformin, Miglitol, Tirzepatide; (Weight Loss) Tirzepatide"
+  ]
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "id": "LM695",
+ "tytul": "Dapsone",
+ "synonimy": [
+  "dapsone",
+  "Diaphenylsulfone",
+  "Dapson",
+  "Diaphenylsulfon",
+  "Sulfona",
+  "Avlosulfone",
+  "Diphenasone",
+  "Sulfadione",
+  "Sulphadione",
+  "Disulone",
+  "Udolac",
+  "Croysulfone",
+  "Avlosulfon",
+  "Novophone",
+  "Dapsonum",
+  "Dumitone",
+  "Diphone",
+  "Eporal",
+  "Diaphenylsulphon",
+  "Avlosulphone",
+  "Croysulphone",
+  "Dubronax",
+  "Diaphenylsulphone",
+  "Tarimyl",
+  "Metabolite C",
+  "Aczone",
+  "Sumicure S",
+  "Sulfone ucb",
+  "DADPS",
+  "Dapsona",
+  "Sulfona-MAE",
+  "Araldite HT 976",
+  "Hardener HT 976",
+  "CCRIS 192",
+  "NCI-C01718",
+  "WR 448",
+  "4,4-Diaminodifenylsulfon [Czech]",
+  "HT 976",
+  "HSDB 5073",
+  "UNII-8W5C518302",
+  "HY 976",
+  "NSC 6091",
+  "EINECS 201-248-4",
+  "1358F",
+  "F 1358",
+  "BRN 0788055",
+  "AI3-08087",
+  "DDS",
+  "8W5C518302",
+  "EC 201-248-4",
+  "4-13-00-01306 (Beilstein Handbook Reference)",
+  "4-(4-aminophenyl)sulfonylaniline"
+ ],
+ "zaktualizowano": "2024-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM695/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Dapsone can be used during breastfeeding; however, hemolytic anemia might occur, especially in newborn infants and in those with glucose-6-phosphate dehydrogenase (G6PD) deficiency. The time of greatest risk for hemolysis in fullterm newborns without G6PD deficiency might be as short as 8 days after birth. One source states that use of dapsone in the treatment of leprosy is advantageous because it kills the organisms in breastmilk. Monitor the infant for signs of hemolysis, especially in newborn or premature breastfed infants.\nTopical dapsone gel used to treat acne has not been studied during breastfeeding. According to the manufacturer, topical dapsone gel results in a blood level of 1% that of a 100 mg oral dose. It is unlikely that the topical gel would affect the breastfed infant, but the manufacturer states that it should not be used during nursing. Until more data are available, an alternative topical agent might be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. In one mother who was 41 days postpartum, a random milk level of dapsone was about 1.1 mg/L with a maternal dose of 50 mg daily. Monoacetyldapsone was not detectable in milk although the maternal serum level was 744 mcg/L.\nThree women who were 2 to 5 days postpartum were given a single dose of 100 mg of dapsone orally. Milk samples were obtained at various times up to about 220 hours after the dose. The authors calculated that the breastfed infants would receive an average of 9.6% (range 4.6 to 14.3%) of the maternal weight-adjusted dosage.\nInfant Levels. A mother who was 41 days postpartum was taking dapsone 50 mg daily. Her breastfed infant's serum had levels of 439 mcg/L of dapsone and 204 mcg/L of monoacetyldapsone."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A case of mild hemolytic anemia occurred in a 41-day-old breastfed infant whose mother was taking dapsone 50 mg daily. The hemolysis was probably caused by dapsone in milk.\nA woman with leprosy took dapsone, clofazimine and rifampin during pregnancy and breastfeeding. Her infant developed skin discoloration attributed to clofazimine which reversed 3 months after cessation of breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Leprosy) Clofazimine; (Topical for Acne) Adapalene; Azelaic Acid; Benzoyl Peroxide; Clindamycin; Erythromycin; Tretinoin"
+  ]
+ ]
+}

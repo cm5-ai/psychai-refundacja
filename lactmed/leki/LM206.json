@@ -1,0 +1,43 @@
+{
+ "id": "LM206",
+ "tytul": "Oxacillin",
+ "synonimy": [
+  "oxacillin",
+  "Oxazocillin",
+  "Oxacilline",
+  "Oxacillinum",
+  "Oxacilina",
+  "MPI-penicillin",
+  "Ossacillina",
+  "Prostaphlyn",
+  "MPi-PC",
+  "UNII-UH95VD7V76",
+  "UH95VD7V76",
+  "EINECS 200-635-5",
+  "(2S,5R,6R)-3,3-dimethyl-6-[(5-methyl-3-phenyl-1,2-oxazole-4-carbonyl)amino]-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM206/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that oxacillin produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with penicillins, but these effects have not been adequately evaluated. Oxacillin is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After 3 to 4 doses of oxacillin 500 mg orally in 10 women, the highest level detected was 0.2 mg/L in two women 4 hours after the dose. In the other 8 women, milk levels were less than 0.2 mg/L at times between 1 and 3.75 hours after the dose.\nOne woman received oral oxacillin 3 grams daily. After the third dose, milk oxacillin levels ranged from 0.04 to 0.1 mg/L, with the peak occurring at 3 hours after the dose. The authors estimated that a breastfed infant would receive 0.3 mg daily of oxacillin in milk.\nIn 10 women with mastitis who received 1 gram of oxacillin orally 3 times daily for 5 to 6 days, the average milk concentrations ranged from 0.43 to 0.68 mg/L.\nRepeated injections of oxacillin 1 gram intramuscularly every 6 hours for 6 to 9 days in 15 women with unilateral mastitis yielded oxacillin milk levels that reached a peak of 0.49 mg/L at 3 hours after the first dose on the first day in the healthy breast, and somewhat lower levels in the breast with mastitis. After the last dose, peak milk levels of 0.64 mg/L occurred 6 hours after the dose in the unaffected breast with slightly lower levels in the breast with mastitis.\nAfter a single intramuscular dose of 500 mg of oxacillin in 2 women, milk levels ranged from 0.18 to 0.7 mg/L between 1 and 4 hours, with the peak occurring at 2 to 4 hours after the dose. Only a trace was detectable at 6 hours after the dose.\nIn 15 women given a single 1 gram dose of oxacillin intravenously, milk levels averaged 0.68 mg/L at 2 hours after the dose.\nInfant Levels. Ten women with mastitis received 1 gram of oxacillin orally 3 times daily for 5 to 6 days. Oxacillin was detectable in the urine in 5 of 6 of the breastfed infants in whom it was measured. Urine concentrations ranged from 0.2 to 3.7 mg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-sensitive Staph. aureus) Cefazolin, Cephalexin, Dicloxacillin, Floxacillin, Methicillin, Nafcillin; (Methicillin-resistant Staph. aureus) Doxycycline, Linezolid, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

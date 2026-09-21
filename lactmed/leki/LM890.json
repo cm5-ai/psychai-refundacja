@@ -1,0 +1,39 @@
+{
+ "id": "LM890",
+ "tytul": "Omalizumab",
+ "synonimy": [
+  "Omalizumab",
+  "Xolair",
+  "rhuMab-E25",
+  "UNII-2P471X1Z11",
+  "HSDB 5742",
+  "HSDB 8176",
+  "2P471X1Z11",
+  "Immunoglobulin G (human-mouse monoclonal E25 clone pSV1E26 gamma-chain anti-human immunoglobulin E Fc region), disulfide with human-mouse monoclonal E25 clone pSVIE126 kappa-chain, dimer",
+  "Immunoglobulin G, anti-(human immunoglobin E FC region) (human-mouse monoclonal E25 clone PSVIE26 gamma-chain), disulfide with human-mouse monoclonal E25 clone PSVIE26 kappa-chain, dimer"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM890/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Preliminary evidence indicates that the amount of omalizumab in milk is very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Many infants have been breastfed during maternal omalizumab therapy, with no increase in infectious complications. Omalizumab is considered acceptable to use during breastfeeding. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman received omalizumab 5 weekly doses of omalizumab 150 mg subcutaneously during pregnancy until 28 weeks of gestation. Breastmilk omalizumab levels were determined on days 4 and 5 postpartum, which were 85 and 86 days after the last dose of omalizumab. Four concentrations in milk were below 2 mcg/L and one was just over 8 mcg/L.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A manufacturer-based omalizumab pregnancy registry has followed pregnant and nursing mothers for several years. Of 230 infants followed, 154 were breastfed while their mothers were taking omalizumab. Another 32 were breastfed without being exposed to the drug in milk and 44 were not breastfed. No difference in serious adverse events were seen among the three groups of infants. Infections occurred at a similar rate in all groups.\nSeveral case reports of infants being breastfed during maternal omalizumab therapy have been published. No adverse effects have been found.\nA woman with cystic fibrosis and severe, persistent asthma was started on omalizumab 600 mg subcutaneously every 2 weeks. She was maintained on this regimen for 5 years when she became pregnant. The regimen was continued during pregnancy and postpartum. She breastfed (extent not stated) for 8 months. At 10 months of age, her infant was in good health.\nA retrospective study in a hospital in China found 5 infants who were breastfed during maternal omalizumab use at a dosage of 150 to 300 mg every 4 weeks. No adverse effects were seen in the infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Asthma) Benralizumab, Mepolizumab"
+  ]
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "LM277",
+ "tytul": "Verapamil",
+ "synonimy": [
+  "Verapamil",
+  "Iproveratril",
+  "Vasolan",
+  "Dilacoran",
+  "Dexverapamil",
+  "Verapamilo",
+  "Verapamilum",
+  "Falicard",
+  "Finoptin",
+  "Isoptimo",
+  "Isoptine",
+  "Lekoptin",
+  "CCRIS 6749",
+  "UNII-CJ0O37KU29",
+  "D-365",
+  "CP-16533-1",
+  "EINECS 200-145-1",
+  "NSC 272306NA",
+  "CJ0O37KU29",
+  "NSC 135784",
+  "EINECS 260-462-6",
+  "HSDB 3928",
+  "CP 16533-1",
+  "D 365",
+  "2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]-2-propan-2-ylpentanenitrile"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM277/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of verapamil up to 360 mg daily produce low levels in milk. Newborns may have detectable verapamil serum levels, but levels are low. Verapamil would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The first 2 cases of verapamil excretion in milk found disparate results. In one, milk levels ranging from 19 to 38 mcg/L were found at various times during a dosing regimen of 80 mg orally 3 times daily in a mother who was 3 to 5 days postpartum. Milk levels averaged 23% of serum levels. In the second woman who was 13 days postpartum, milk levels peaked at about 300 mcg/L about 1 hour after each 80 mg dose in a 80 mg 4 times daily regimen and were approximately equal to serum levels at most times.\nIn 2 later cases (below), plasma and milk verapamil and norverapamil levels were measured using more accurate methods. The results reported in these 2 papers were consistent with each other and differed from both of the earlier studies in some aspects.\nA woman who was 8 weeks postpartum and taking 120 mg of verapamil orally every 8 hours had milk verapamil levels of 113 and 154 mcg/L of verapamil just before a dose, with the higher level occurring later in the feeding, probably because of the higher fat content. At 4 hours after a dose, levels were 133 and 205 mcg/L early and late in the feeding, respectively. Norverapamil levels were similar early and late in each feeding and averaged 50 mcg/L before the dose and 58 mcg/L at 4 hours. The authors estimated that a nursing infant would receive less than 0.5% of the mother’s weight-adjusted dosage.\nA 3-month-postpartum woman taking verapamil 80 mg orally three times daily had peak milk levels of verapamil of 79 mcg/L 1 hour after the dose and norverapamil of 22 mcg/L 2 hours after the dose. The authors estimated that a nursing infant would receive less than 0.01% of the mother’s weight-adjusted dose daily.\nA study of a new analytic technique found verapamil concentration in the breastmilk of one nursing mother taking verapamil 80 mg daily to range from 1.8 to 10.73 mcg/L, and norverapamil to range from 2.15 to 5.15 mcg/L. The peak concentrations of the two drugs occurred at about 4 hours after the dose. The authors estimated the RID to be about 0.15%.\nInfant Levels. A serum level of 2.1 mcg/L was reported in a 5-day-old infant whose mother was taking 80 mg of verapamil orally 3 times daily. It is possible that some of the drug in the infant’s serum derived from transplacental passage, although the mother received no verapamil on the day of delivery.\nTwo older infants (8 weeks and 3 months) had no detectable serum verapamil or norverapamil (<1 mcg/L) with oral maternal doses of 80 and 120 mg 3 times daily."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No adverse reactions have been reported among 3 infants aged 13 days, 8 weeks and 3 months who were exposed to verapamil in breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Verapamil can cause hyperprolactinemia and galactorrhea. The clinical relevance of these findings in nursing mothers is not known. The maternal prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Calcium Channel Blockers) Diltiazem, Nifedipine; (Hypertension) Benazepril, Captopril, Enalapril, Lisinopril, Quinapril, Hydrochlorothiazide, Methyldopa, Propranolol"
+  ]
+ ]
+}

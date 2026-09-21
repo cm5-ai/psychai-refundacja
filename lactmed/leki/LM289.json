@@ -1,0 +1,74 @@
+{
+ "id": "LM289",
+ "tytul": "Esmolol",
+ "synonimy": [
+  "Esmolol",
+  "UNII-MDY902UXSR",
+  "MDY902UXSR",
+  "ASL 8052-001",
+  "BRN 5287174",
+  "UNII-MDY902UXSR",
+  "NCGC00185766-01",
+  "esmololum",
+  "SR-01000763706",
+  "CHEMBL768",
+  "SCHEMBL3605",
+  "CHEBI:4856",
+  "DTXCID702995",
+  "GTPL7178",
+  "C07AB09",
+  "HMS2090P06",
+  "HMS3743M15",
+  "HMS3886F03",
+  "BDBM50404796",
+  "MFCD00864566",
+  "s5778",
+  "AKOS015960734",
+  "DB00187",
+  "MRF-0000253",
+  "NCGC00185766-02",
+  "NCGC00185766-05",
+  "AC-12058",
+  "AC-35197",
+  "DB-015362",
+  "DB-297892",
+  "E1106",
+  "NS00002313",
+  "C06980",
+  "D07916",
+  "D90594",
+  "AB00698516-07",
+  "AB00698516-09",
+  "AB00698516_10",
+  "EN300-7384765",
+  "L001332",
+  "Q418139",
+  "SR-01000763706-3",
+  "BRD-A07395371-003-10-0",
+  "methyl 3-[4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]propanoate"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM289/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No published information is available on the use esmolol during breastfeeding. Based on its physicochemical properties and extremely short half-life, esmolol would not be expected to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "The excretion of beta-adrenergic blocking drugs into breastmilk is largely determined by their protein binding. Those with low binding are more extensively excreted into breastmilk. Accumulation of the drugs in the infant is related to the fraction excreted in urine. With 55% protein binding, less than 1% renal excretion and an extremely short half-life of less than 10 minutes, esmolol presents no risk for accumulation in infants.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study of mothers taking beta-blockers during nursing found a numerically, but not statistically significant increased number of adverse reactions in those taking any beta-blocker. Although the ages of infants were matched to control infants, the ages of the affected infants were not stated. None of the mothers were taking esmolol."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information on the effects of beta-blockade or esmolol during normal lactation was not found as of the revision date. A study in 6 patients with hyperprolactinemia and galactorrhea found no changes in serum prolactin levels following beta-adrenergic blockade with propranolol."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Propranolol, Labetalol, Metoprolol"
+  ]
+ ]
+}

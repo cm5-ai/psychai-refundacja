@@ -1,0 +1,41 @@
+{
+ "id": "LM193",
+ "tytul": "Nafcillin",
+ "synonimy": [
+  "nafcillin",
+  "Naphcillin",
+  "Nafcillinum",
+  "Nafcilline",
+  "Nafcilina",
+  "UNII-4CNZ27M7RV",
+  "4CNZ27M7RV",
+  "HSDB 3133",
+  "EINECS 205-690-9",
+  "BRN 0862393",
+  "(2S,5R,6R)-6-[(2-ethoxynaphthalene-1-carbonyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM193/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although no information is available on the use of nafcillin during breastfeeding, penicillins are generally not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with penicillins, but these effects have not been adequately evaluated. Nafcillin is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-sensitive Staph. aureus) Cefazolin, Cephalexin, Dicloxacillin, Floxacillin, Oxacillin, Methicillin; (Methicillin-resistant Staph. aureus) Doxycycline, Linezolid, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

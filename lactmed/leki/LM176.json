@@ -1,0 +1,46 @@
+{
+ "id": "LM176",
+ "tytul": "Methicillin",
+ "synonimy": [
+  "methicillin",
+  "Meticillin",
+  "Methycillin",
+  "Methicillinum",
+  "Meticillinum",
+  "Meticilline",
+  "Metacillin",
+  "Meticilina",
+  "Dimocillin",
+  "Meticillina",
+  "UNII-Q91FH1328A",
+  "BRL 1241",
+  "HSDB 3121",
+  "EINECS 200-505-8",
+  "Q91FH1328A",
+  "(2S,5R,6R)-6-[(2,6-dimethoxybenzoyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM176/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amounts of methicillin ingested by the infant in breastmilk are small and would not be expected to cause any adverse effects. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with penicillins, but these effects have not been adequately evaluated. Methicillin is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Intramuscular injections of methicillin 1 gram every 6 hours for 6 to 9 days in 17 women with monolateral mastitis yielded methicillin levels in milk that reached a peak of 0.31 mg/L at 3 hours after the first dose on the first day in the healthy breast, and much lower levels in the breast with mastitis. After the last dose, peak milk levels of 1.53 mg/L occurred 6 hours after the dose. Methicillin milk levels from both breasts were equal.\nAfter a single intramuscular dose of 1 gram of methicillin in 3 women, milk levels ranged from 0.2 to 0.3 mg/L between 1 and 6 hours.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Methicillin-sensitive Staph. aureus) Cefazolin, Cephalexin, Dicloxacillin, Floxacillin, Oxacillin, Nafcillin; (Methicillin-resistant Staph. aureus) Doxycycline, Linezolid, Minocycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

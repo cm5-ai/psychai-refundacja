@@ -1,0 +1,42 @@
+{
+ "id": "LM25",
+ "tytul": "Beclomethasone",
+ "synonimy": [
+  "Beclomethasone",
+  "Beclomethasone Dipropionate",
+  "Qnasl",
+  "Becotide",
+  "Beconase AQ",
+  "QVAR",
+  "Beclometasona",
+  "Beclometasone",
+  "Beclometasonum",
+  "Beclometasonum",
+  "BMJ 5800",
+  "(8S,9R,10S,11S,13S,14S,16S,17R)-9-chloro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one"
+ ],
+ "zaktualizowano": "2024-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM25/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Although not measured, the amounts of inhaled corticosteroids absorbed into the maternal bloodstream and excreted into breastmilk are probably too small to affect a breastfed infant. Expert opinion considers inhaled, nasal and oral corticosteroids acceptable to use during breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "None reported with any corticosteroid. Three infants were breastfed for 6 months during maternal treatment with beclomethasone dipropionate by inhaler."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Budesonide"
+  ]
+ ]
+}

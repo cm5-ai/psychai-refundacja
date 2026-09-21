@@ -1,0 +1,54 @@
+{
+ "id": "LM18",
+ "tytul": "Auranofin",
+ "synonimy": [
+  "Auranofina",
+  "Auranofine",
+  "Auranofinum",
+  "Ridaura",
+  "AURANOFIN",
+  "Triethylphosphine gold",
+  "Auranofine [INN-French]",
+  "Auranofinum [INN-Latin]",
+  "Auranofina [INN-Spanish]",
+  "SKF-39162d",
+  "UNII-3H04W2810V",
+  "HSDB 7172",
+  "Auranofin [USAN:INN:BAN:JAN]",
+  "SK&F 39162D",
+  "EINECS 251-801-9",
+  "SK&F D-39162",
+  "3H04W2810V",
+  "SK&F 39162",
+  "(1-Thio-beta-D-glucopyranosato)(triethylphosphine)gold 2,3,4,6-tetraacetate",
+  "2,3,4,6-Tetra-O-acetyl-1-thio-beta-D-glucopyranosato-S (triethylphosphine)gold",
+  "Gold, (1-thio-beta-D-glucopyranosato-S)(triethylphosphine)-, 2,3,4,6-tetraacetate",
+  "Gold, (1-thio-beta-D-glucopyranose 2,3,4,6-tetraacetato-S)(triethylphosphine)- (9CI)",
+  "Gold, (2,3,4,6-tetra-O-acetyl-1-thio-beta-D-glucopyranosato-S)(triethylphosphine)-",
+  "34031-32-8"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM18/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Excretion of gold into milk after auranofin has not been studied. Case reports with other gold salts indicate that gold appears in milk in small quantities and at least a little of it is absorbed because it is detectable in the infant's urine. No convincing cases of toxicity have been reported. Opinions of authors of review articles vary from recommending avoidance to allowing use. Monitoring for possible adverse effects in the breastfed infant would seem prudent."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Four infants reportedly have been breastfed during maternal gold therapy (including gold sodium thiomalate and gold aurothioglucose). Transient facial edema occurred in an 18-month-old infant, 3 months after the mother's treatment stopped. The reaction was possibly due to gold in the mother's milk ingested by the infant."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Rheumatoid Arthritis) Etanercept, Gold Sodium Thiomalate, Hydroxychloroquine, Infliximab, Methotrexate, Penicillamine, Sulfasalazine"
+  ]
+ ]
+}

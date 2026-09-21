@@ -1,0 +1,37 @@
+{
+ "id": "LM1279",
+ "tytul": "Ruxolitinib",
+ "synonimy": [
+  "Ruxolitinib",
+  "Opzelura",
+  "Jakafi",
+  "CHEBI:66919",
+  "INCB018424",
+  "UNII-82S8X8XX8H",
+  "INCB 018424",
+  "INC 424",
+  "HSDB 8259",
+  "DTXSID10240930",
+  "(3R)-3-cyclopentyl-3-[4-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)pyrazol-1-yl]propanenitrile"
+ ],
+ "zaktualizowano": "2025-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1279/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of ruxolitinib during breastfeeding. Because ruxolitinib is 97% bound to plasma proteins, the amount in milk is likely to be low. The manufacturer recommends that breastfeeding be discontinued during ruxolitinib therapy and for 2 weeks after the last dose for the oral tablets and for 4 weeks after the last dose for the topical cream. However, ruxolitinib cream is approved for direct application in children as young as 2 years of age."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

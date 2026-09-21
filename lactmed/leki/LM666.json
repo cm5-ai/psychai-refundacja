@@ -1,0 +1,36 @@
+{
+ "id": "LM666",
+ "tytul": "Sodium Iodide I 123",
+ "synonimy": [
+  "Sodium iodide (123I)",
+  "(123-I)Sodium iodide",
+  "Sodium iodide (I-123)",
+  "Sodium iodide (I123)",
+  "Sodium iodide I 123",
+  "UNII-29UKX3A616"
+ ],
+ "zaktualizowano": "2026-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM666/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information in this record refers to the use of sodium iodide I 123 as a diagnostic agent. A US Nuclear Regulatory Commission subcommittee and the American Thyroid Association recommend discontinuation of breastfeeding for 3 to 4 days after a diagnostic scan. and UK authorities recommend a cessation of 42 hours after a 20 MBq dose. These values assume no contamination with I 124 or I 125, which has been reported in the past. The safest course of action may be to have breastmilk tested at a nuclear medicine facility at a hospital. When the radioactivity is at a safe level the mother may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published. Mothers who receive a dose less than 400 MBq for a thyroid scan need not refrain from close contact with their infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "I 123 is a gamma emitter with a principal photon energy of 159 keV and a physical half-life of 13.1 hours. Iodide is actively secreted into breastmilk by the NaI symporter, which is stimulated by lactation, and actively taken up by the mother's and infant's thyroid glands. The maximum effective half-life of I 123 is 10.4 hours.\nMaternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Hyperthyroidism Diagnosis) Sodium Pertechnetate Tc 99m"
+  ]
+ ]
+}

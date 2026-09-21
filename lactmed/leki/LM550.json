@@ -1,0 +1,40 @@
+{
+ "id": "LM550",
+ "tytul": "Polymyxin B",
+ "synonimy": [
+  "Aerosporin",
+  "polymyxin b",
+  "Polymyxinum B",
+  "Polimixina B",
+  "Polymyxine B",
+  "Polymixin B",
+  "UNII-J2VZ07J96K",
+  "J2VZ07J96K",
+  "EINECS 215-768-4",
+  "N-[4-amino-1-[[1-[[4-amino-1-oxo-1-[[6,9,18-tris(2-aminoethyl)-15-benzyl-3-(1-hydroxyethyl)-12-(2-methylpropyl)-2,5,8,11,14,17,20-heptaoxo-1,4,7,10,13,16,19-heptazacyclotricos-21-yl]amino]butan-2-yl]amino]-3-hydroxy-1-oxobutan-2-yl]amino]-1-oxobutan-2-yl]-6-methyloctanamide"
+ ],
+ "zaktualizowano": "2024-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM550/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because it is poorly absorbed after topical application, polymyxin B is considered a low risk to the nursing infant. Only water-miscible cream or gel products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Clindamycin, Mupirocin"
+  ]
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "LM1369",
+ "tytul": "Lutetium Lu 177 Dotatate",
+ "synonimy": [
+  "Lutathera",
+  "177Lu-dotatate",
+  "Lu-DOTA-TATE",
+  "177Lu-DOTA-octreotate",
+  "UNII-AE221IM3BB",
+  "Dotatate lutenium Lu-177",
+  "Lutetium Lu 177 Dotatate",
+  "177Lu-DOTA-Tyr3-octreotate",
+  "2-[4-[2-[[(2R)-1-[[(4R,7S,10S,13R,16S,19R)-10-(4-aminobutyl)-4-[[(1S,2R)-1-carboxy-2-hydroxypropyl]carbamoyl]-7-[(1R)-1-hydroxyethyl]-16-[(4-hydroxyphenyl)methyl]-13-(1H-indol-3-ylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentazacycloicos-19-yl]amino]-1-oxo-3-phenylpropan-2-yl]amino]-2-oxoethyl]-7,10-bis(carboxylatomethyl)-1,4,7,10-tetrazacyclododec-1-yl]acetate",
+  "lutetium-177(3+)"
+ ],
+ "zaktualizowano": "2025-07-17",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1369/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Lutetium Lu 177 dotatate is a radiolabeled somatostatin analog indicated for the treatment of somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors. No information is available on the use of lutetium Lu 177 dotatate during breastfeeding. The manufacturer recommends that breastfeeding be discontinued during lutetium Lu 177 dotatate therapy and for 2.5 months following the last dose, which would usually mean permanently discontinuing breastfeeding of the current infant.\nMothers concerned about the level of radioactivity in their milk could ask to have it tested at a nuclear medicine facility at their hospital. When the radioactivity is at a safe level, she may resume breastfeeding. A method for measuring milk radioactivity and determining the time when a mother can safely resume breastfeeding has been published."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Lutetium 177 decays to stable hafnium (Hf 177) with a half-life of 6.65 days, by emitting beta radiation with a maximum energy of 0.498 MeV and photonic gamma radiation of 0.208 MeV and 0.113 MeV."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

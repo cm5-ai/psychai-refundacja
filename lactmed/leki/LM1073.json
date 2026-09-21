@@ -1,0 +1,42 @@
+{
+ "id": "LM1073",
+ "tytul": "Belatacept",
+ "synonimy": [
+  "Belatacept",
+  "Nulojix",
+  "CTLA-4 Antigen",
+  "CD152 antigen",
+  "LEA29Y",
+  "UNII-E3B2GI648A",
+  "LEA 29Y",
+  "cytotoxic T-lymphocyte antigen 4",
+  "BMS224818",
+  "BMS 224818",
+  "BMS-224818",
+  "CTLA-4 (antigen) (29-tyrosine,104-glutamic acid) (human extracellular domain-containing fragment) fusion protein with immunoglobulin G1 (human monoclonal Fc domain-containing fragment), bimol. (120->120’)-disulfide"
+ ],
+ "zaktualizowano": "2025-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1073/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Information from one patient indicates that the drug may be used in nursing mothers; however, more data are needed. Since glycosylated belatacept has a molecular weight of 92,300 Da, it is unlikely to appear in milk. The manufacturer recommends avoiding nursing if belatacept is given. Because the drug’s half-life is 8 to 10 days, it may be more than a month after a dose before the drug is absent from breastmilk. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A mother with a liver transplant was maintained on belatacept 10 mg/kg monthly, slow-release tacrolimus (Envarsus and Veloxis) 2 mg daily, azathioprine 25 mg daily, and prednisone 2.5 mg daily. She breastfed her infant for a year (extent not stated). The infant’s growth and cognitive milestones were normal.\nIn a case series from the Transplant Pregnancy Registry International of women who received belatacept during pregnancy and postpartum, 5 women with kidney transplants breastfeed their 7 children while continuing belatacept infusions with no reports of problems breastfeeding or issues in the children. The duration and extent of breastfeeding was not reported in 4 instances, but in the other 3, the durations were 1 month, 2 months, and 4 weeks exclusive breastfeeding, followed by partial breastfeeding. A review of the Transplant Pregnancy Registry International database from 1999 to 2024 found that 6 mothers with transplants had breastfed their infants for at least 4 weeks while taking belatacept. These 6 probably included the 5 women reported above."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Azathioprine, Cyclosporine, Tacrolimus"
+  ]
+ ]
+}

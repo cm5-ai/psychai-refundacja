@@ -1,0 +1,34 @@
+{
+ "id": "LM1360",
+ "tytul": "Emicizumab",
+ "synonimy": [
+  "Emicizumab",
+  "emicizumabum",
+  "Hemlibra",
+  "UNII-7NL2E3F6K3",
+  "ACE910",
+  "B02BX06",
+  "RG6013",
+  "Immunoglobulin G4-kappa, bispecific, anti-(homo sapiens F9a (activated coagulation factor F9, activated coagulation factor IX) and anti-(homo sapiens F10 (coagulation factor 10, coagulation factor X)), humanized monoclonal antibody"
+ ],
+ "zaktualizowano": "2026-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1360/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "A low level of emicizumab was found in the milk of 2 women. The drug is likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. One infant was breastfed for 2 months starting at 4 months of age during maternal therapy with no obvious adverse reaction. Waiting for at least 2 weeks postpartum to resume therapy may minimize transfer to the infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman with severe hemophilia A received emicizumab every 4 weeks (dose not stated, but probably 6 mg/kg) throughout pregnancy and postpartum as well as recombinant factor VIIa (NovoSeven) 90 mcg/kg every 2 hours initially with a gradually increasing dosage interval postpartum for severe bleeding. A milk sample taken at an unreported time contained 38 mg/L of emicizumab.\nMilk samples were collected from a woman who developed acquired hemophilia A four months after delivery. She was treated with emicizumab in a loading doses of 600 mg (6 mg/kg) and 300 mg (3 mg/kg) subcutaneously on days 3 and 4 of hospitalization, respectively, followed by a maintenance dose of 150 mg on day 10 and continued weekly thereafter. Emicizumab was first detected on day 4 of hospitalization at concentrations below the lower limit of quantification (LLOQ) of 10 mg/L. Milk concentrations increased over time and exceeded the LLOQ on day 6. By day 8, the mean concentration reached 20.1 mg/L in breastmilk. Anti-FVIII IgG and IgA were not detected in breastmilk samples.\nInfant Levels. A woman with severe hemophilia A was receiving emicizumab every 4 weeks (dose not stated, but probably 6 mg/kg) throughout pregnancy and postpartum as well as recombinant factor VIIa (NovoSeven) 90 mcg/kg every 2 hours initially with a gradually increasing dosage interval postpartum for severe bleeding. A serum sample taken from the infant at an unreported time contained 106 mg/L of emicizumab, probably obtained transplacentally."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman who developed acquired hemophilia A four months after delivery. She was treated with emicizumab in a loading doses of 600 mg (6 mg/kg) and 300 mg (3 mg/kg) subcutaneously on days 3 and 4 of hospitalization, respectively, followed by a maintenance dose of 150 mg on day 10 and continued weekly thereafter. Her infant was exclusively breastfed for six months and demonstrated normal weight gain without failure to thrive. No signs of bleeding or thromboembolic events were observed at any time."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

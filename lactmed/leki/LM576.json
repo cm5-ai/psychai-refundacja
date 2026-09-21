@@ -1,0 +1,52 @@
+{
+ "id": "LM576",
+ "tytul": "Naratriptan",
+ "synonimy": [
+  "naratriptan",
+  "Amerge",
+  "Naramig",
+  "Colatan",
+  "UNII-QX3KXL1ZA2",
+  "AKOS015895854",
+  "AC-5013",
+  "BCP9000978",
+  "DB00952",
+  "NCGC00181786-03",
+  "NCGC00181786-04",
+  "NCGC00181786-08",
+  "TS-09866",
+  "NS00006374",
+  "A25336",
+  "C07792",
+  "D08255",
+  "AB01565792_02",
+  "EN300-18567334",
+  "L000432",
+  "Q421315",
+  "N-methyl-2-[3-(1-methylpiperidin-4-yl)-1H-indol-5-yl]ethanesulfonamide"
+ ],
+ "zaktualizowano": "2025-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM576/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "There is minimal published experience with naratriptan during breastfeeding. If naratriptan is required by the mother of an older infant, it is not a reason to discontinue breastfeeding, but until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant. Painful, burning nipples and breast pain have been reported after doses of sumatriptan and other triptans. This has occasionally been accompanied by a decrease in milk production."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. One woman who was over 1 month postpartum using naratriptan to treat migraine provided one milk sample before the dose, then additional milk samples at 1, 2, 4, 8, 12 and 24 hours after a 2.5 mg dose. A peak milk level of 23.4 mcg/L occurred 4 hours after the dose. The average milk level was 12.8 mcg/L and the half-life in milk was 6.5 hours. The infant’s daily dosage of naratriptan was 1.9 mcg/kg and the weight-adjusted infant dosage was 5% of the maternal dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "A review of four European adverse reaction databases found 26 reported cases of painful, burning nipples, painful breasts, breast engorgement and/or painful milk ejection in women who took a triptan while nursing. Pain was sometimes intense and occasionally led to decreased milk production. Pain generally subsided with time as the drug was eliminated. The authors proposed that triptans may cause vasoconstriction of the arteries in the breast, nipples, and the arteries surrounding the alveoli and milk ducts, causing a painful sensation and a painful milk ejection reﬂex."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Eletriptan, Rizatriptan, Sumatriptan, Zolmitriptan"
+  ]
+ ]
+}

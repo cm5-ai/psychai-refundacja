@@ -1,0 +1,39 @@
+{
+ "id": "idarubicin",
+ "tytul": "Idarubicin",
+ "synonimy": [
+  "Idarubicin",
+  "Idamycin",
+  "IMI-30",
+  "IMI30",
+  "IMI 30",
+  "NSC-256439",
+  "NSC256439",
+  "NSC 256439",
+  "CCRIS 5083",
+  "UNII-ZRP63D75JW",
+  "CHEBI:42068",
+  "DTXSID7023142",
+  "(7S,9S)-9-acetyl-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-8,10-dihydro-7H-tetracene-5,12-dione"
+ ],
+ "zaktualizowano": "2026-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/idarubicin/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy, especially anthracyclines such as idarubicin. The manufacturer recommends that breastfeeding be discontinued during therapy with idarubicin and for 14 days after the last dose, which is consistent with the 72-hour half-life of the active metabolite idarubicinol.\nChemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk. Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

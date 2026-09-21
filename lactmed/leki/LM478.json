@@ -1,0 +1,58 @@
+{
+ "id": "LM478",
+ "tytul": "Fosfomycin",
+ "synonimy": [
+  "phosphomycin",
+  "Phosphonomycin",
+  "Fosfomicin",
+  "Fosfomicina",
+  "Fosfomycine",
+  "Fosfomycinum",
+  "Fosfonomycin",
+  "Infectophos",
+  "Fosfocina",
+  "FOSFOMYCIN",
+  "Levo-phosphonomycin",
+  "Antibiotic 833A",
+  "Fosfomycine [INN-French]",
+  "Fosfomycinum [INN-Latin]",
+  "Fosfomicina [INN-Spanish]",
+  "UNII-2N81MY12TE",
+  "Fosfomycin [USAN:INN:BAN]",
+  "2N81MY12TE",
+  "EINECS 245-463-1",
+  "MK-955",
+  "BRN 1680831",
+  "883A",
+  "(2R-cis)-(3-Methyloxiranyl)phosphonic acid",
+  "(-)-(1R,2S)-(1,2-Epoxypropyl)phosphonic acid",
+  "5-18-12-00526 (Beilstein Handbook Reference)",
+  "Phosphonic acid, (3-methyloxiranyl)-, (2R-cis)-",
+  "Phosphonic acid, (1,2-epoxypropyl)-, (1R,2S)-(-)-",
+  "23155-02-4"
+ ],
+ "zaktualizowano": "2024-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM478/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that fosfomycin produces low levels in milk and is unlikely to be absorbed well by the infant because of the binding to calcium in the milk. It is unlikely to cause any adverse effects in breastfed infants."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. After 1 to 2 grams of fosfomycin given by injection, colostrum levels in 2 women were 4.8 mg/L and milk levels were 3.6 mg/L. Further details of the studies were not given.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ciprofloxacin, Levofloxacin, Nitrofurantoin, Trimethoprim"
+  ]
+ ]
+}

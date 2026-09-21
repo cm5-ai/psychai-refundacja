@@ -1,0 +1,53 @@
+{
+ "id": "LM5",
+ "tytul": "Alatrofloxacin",
+ "synonimy": [
+  "Alatrofloxacin",
+  "Alatrofloxacino",
+  "Alatrofloxacine",
+  "Alatrofloxacinum",
+  "CP-116517",
+  "DTXSID4057893",
+  "CP-116,517",
+  "CP 116517",
+  "UNII-7QVV6I50DT",
+  "SCHEMBL140567",
+  "SCHEMBL7616277",
+  "CHEMBL1201197",
+  "CHEBI:135829",
+  "GLXC-23123",
+  "AKOS040745545",
+  "DB09335",
+  "HY-16035",
+  "CS-0006126",
+  "NS00007312",
+  "NS00125820",
+  "D07562",
+  "EN300-19997200",
+  "7-[(1S,5R)-6-[[(2S)-2-[[(2S)-2-aminopropanoyl]amino]propanoyl]amino]-3-azabicyclo[3.1.0]hexan-3-yl]-1-(2,4-difluorophenyl)-6-fluoro-4-oxo-1,8-naphthyridine-3-carboxylic acid"
+ ],
+ "zaktualizowano": "2025-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM5/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Alatrofloxacin is no longer marketed in the US. No information is available on the clinical use of alatrofloxacin during breastfeeding. Fluoroquinolones have traditionally not been used in infants because of concern about adverse effects on the infants' developing joints. However, recent studies indicate little risk. The calcium in milk might prevent absorption of the small amounts of fluoroquinolones in milk, but insufficient data exist to prove or disprove this assertion. Use of alatrofloxacin is acceptable in nursing mothers with monitoring of the infant for effects on the gastrointestinal flora, such as diarrhea or candidiasis (thrush, diaper rash). However, it is preferable to use an alternate drug for which safety information is available."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. The manufacturer reports that trovafloxacin was found in the breast milk of three lactating subjects. The average measurable breast milk concentration was 0.8 mcg/mL (range 0.3 to 2.1 mcg/mL) after a single intravenous alatrofloxacin dose equivalent to 300 mg of trovafloxacin. Further details on the study are not available.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Ciprofloxacin, Levofloxacin"
+  ]
+ ]
+}

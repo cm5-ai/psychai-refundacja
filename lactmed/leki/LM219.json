@@ -1,0 +1,48 @@
+{
+ "id": "LM219",
+ "tytul": "Piroxicam",
+ "synonimy": [
+  "piroxicam",
+  "Feldene",
+  "Piroxicamum",
+  "Pyroxycam",
+  "Roxicam",
+  "Piroftal",
+  "BAXO",
+  "Rosiden",
+  "UNII-13T4O6VMAM",
+  "CHF 1251",
+  "CCRIS 3719",
+  "CP 16171",
+  "NSC 666076",
+  "EINECS 252-974-3",
+  "BRN 0627692",
+  "CP-16,171",
+  "4-Hydroxy-2-methyl-N-(2-pyridyl)-2H-1,2-benzothiazin-3-caboxyamid-1,1-dioxid [German]",
+  "4-hydroxy-2-methyl-1,1-dioxo-N-pyridin-2-yl-1λ6,2-benzothiazine-3-carboxamide"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM219/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Low amounts of piroxicam in milk and failure to detect piroxicam or its metabolites in the urine of 2 older infants indicates that it would not be expected to cause adverse effects in older breastfed infants. Because there is no published experience with piroxicam during breastfeeding in the newborn period, shorter-acting agents may be preferred while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Peak milk levels of 170 and 220 mcg/L were found in the milk of 2 women who were taking piroxicam 20 and 40 mg daily, respectively. The time of the peak milk levels were 12 and 4 hours after the dose, respectively, in the 2 women.\nMaximum milk piroxicam levels averaging 40 mcg/L were found in 3 women during the first week of therapy with oral piroxicam 20 mg daily. After steady-state was attained in these 3 women plus one additional woman, milk levels averaged 102 mcg/L during the first 12 hours after the dose and 73 mcg/L during the period of 13 to 24 hours after the dose. A nursing infant would receive an estimated average 3.5% and maximum 6.3% of the weight-adjusted maternal dosage.\nInfant Levels. No piroxicam could be detected in the serum of a 13-month-old infant whose mother had been taking 20 mg daily of piroxicam for 4 months.\nNeither piroxicam nor its conjugates could be detected (<15 mcg/L) in the urine of one infant after 52 days of maternal therapy with 20 mg daily."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "No adverse effects were found in the breastfed infant of a patient receiving 20 mg of piroxicam daily for 4 months starting the 9th month postpartum.\nFour infants 3 to 4.5 months of age remained healthy during long-term therapy of their mothers with piroxicam 20 mg daily."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Celecoxib, Diclofenac, Flurbiprofen, Ibuprofen, Indomethacin, Naproxen"
+  ]
+ ]
+}

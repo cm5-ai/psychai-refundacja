@@ -1,0 +1,75 @@
+{
+ "id": "LM507",
+ "tytul": "Probenecid",
+ "synonimy": [
+  "probenecid",
+  "Probenecid acid",
+  "Probecid",
+  "Benemid",
+  "Benecid",
+  "Probalan",
+  "Benuryl",
+  "Probenemid",
+  "Prolongine",
+  "Probexin",
+  "Tubophan",
+  "Uricosid",
+  "Apurina",
+  "Proben",
+  "Synergid R",
+  "Probenecidum",
+  "Probampacin",
+  "Probenecida",
+  "Probenecide",
+  "Ethamide",
+  "Robenecid",
+  "Benemide",
+  "Probenid",
+  "4-(Dipropylsulfamoyl)benzoic acid",
+  "Col-Probenecid",
+  "Polycillin-BRB",
+  "ColBenemid",
+  "57-66-9",
+  "Polycillin-PRB",
+  "p-(Dipropylsulfamoyl)benzoic acid",
+  "Probenecide [INN-French]",
+  "Probenecidum [INN-Latin]",
+  "Probenecida [INN-Spanish]",
+  "4-((Dipropylamino)sulfonyl)benzoic acid",
+  "NCI-C56097",
+  "4-(Di-n-propylsulfamoyl)benzoesaeure",
+  "4-(N,N-Dipropylsulfamoyl)benzoesaeure",
+  "CCRIS 3643",
+  "UNII-PO572Z7917",
+  "Benzoic acid, p-(dipropylsulfamoyl)-",
+  "HSDB 3387",
+  "NSC 18786",
+  "EINECS 200-344-3",
+  "Probenecid [USP:INN:BAN:JAN]",
+  "BRN 2815775",
+  "Benzoic acid, 4-((dipropylamino)sulfonyl)-",
+  "PO572Z7917",
+  "AI3-50078",
+  "4-11-00-00691 (Beilstein Handbook Reference)"
+ ],
+ "zaktualizowano": "2021-07-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM507/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that maternal doses of probenecid up to 2 grams daily produce low levels in milk and would not be expected to cause any adverse effects in breastfed infants, especially if the infant is older than 2 months. In animal studies, probenecid increased the breastmilk excretion of cimetidine, possible via an interaction with an active transport mechanism in the breast. The implications of enhanced excretion of drugs given with probenecid for nursing mothers and their infants has not been studied; however, only a few drugs are known to undergo active transport into breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A woman was given probenecid 500 mg orally 4 times daily to enhance cephalexin serum levels. After 16 days of therapy at 4.5 weeks postpartum, 12 samples of breastmilk (6 pairs of fore- and hindmilk) were collected over a 16-hour period. The average concentration of probenecid in milk was 964 mcg/L, corresponding to an infant dosage of 145 mcg/kg daily and 0.7% of the maternal weight-adjusted dosage.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A woman with mastitis received 3 days of intravenous cephalothin, followed by 16 days of probenecid 500 mg and cephalexin 500 mg 4 times daily for 16 days. Her infant developed green liquid stools, severe diarrhea, discomfort and crying. The authors judged the effects to be probably related to the cephalothin and cephalexin in milk rather than the probenecid."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

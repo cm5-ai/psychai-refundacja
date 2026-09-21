@@ -1,0 +1,36 @@
+{
+ "id": "voxelotor",
+ "tytul": "Voxelotor",
+ "synonimy": [
+  "Voxelotor",
+  "Oxbryta",
+  "GBT 440",
+  "GBT440",
+  "GBT-440",
+  "Hemoglobin Modulators-1",
+  "GTX-011",
+  "UNII-3ZO554A4Q8",
+  "CHEMBL4101807",
+  "2-hydroxy-6-[[2-(2-propan-2-ylpyrazol-3-yl)pyridin-3-yl]methoxy]benzaldehyde"
+ ],
+ "zaktualizowano": "2025-02-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/voxelotor/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Voxelotor is an orally administered drug that binds to hemoglobin S, inhibiting polymerization. No information is available on the appearance of voxelotor in milk or on the safety of the drug in breastfed infants, but its low molecular weight of 337 Da indicates that it probably passes into milk. Because of the potential for serious adverse reactions in the infant, breastfeeding is currently not recommended during treatment and for at least 2 weeks after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

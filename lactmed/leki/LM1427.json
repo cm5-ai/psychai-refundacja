@@ -1,0 +1,41 @@
+{
+ "id": "LM1427",
+ "tytul": "Moxetumomab Pasudotox",
+ "synonimy": [
+  "Moxetumomab pasudotox",
+  "Lumoxiti",
+  "CAT-8015 immunotoxin",
+  "Immunotoxin CAT-8015",
+  "UNII-2NDX4B6N8F",
+  "2NDX4B6N8F",
+  "HA22",
+  "HA 22",
+  "CAT 8015",
+  "CAT-8015",
+  "GCR 8015",
+  "GCR-8015",
+  "Immunoglobulin Fv fragment fused to Pseudomonas toxin, anti-(Homo sapiens CD22 (sialic acid-binding Ig-like lectin 2, Siglec-2, SIGLEC2, Leu-14, B-lymphocyte cell adhesion molecule, BL-CAM)),Mus musculus monoclonal antibody disulfide stabilized Fv fragment with the variable heavy VH domain fused with the truncated form PE38 of Pseudomonas aeruginosa exotoxin A (VH-PE38), disulfide linked with the variable kappa domain (V-KAPPA))",
+  "VH-PE38 (1-476) comprising the VH domain (1-123) (methionyl -Mus musculus VH ((IGHV5-12-1*01 -(IGHD)-IG",
+  "Immunoglobulin, anti-(human CD22 (antigen)) (synthetic Mus musculus CAT-8015 heavy chain variable region fragment) fusion protein with exotoxin PE38 (Pseudomonas fragment), disulfide with immunoglobulin, anti-(human CD22 (antigen)) (synthetic Mus musculus CAT-8015 light chain fragment)"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1427/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of moxetumomab pasudotox during breastfeeding. Because moxetumomab is a large protein molecule with a molecular weight of about 63,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. Pasudotox is a 38 KDa fragment of Pseudomonas exotoxin-A (PE38) with potential anti-cancer activity that may enter milk. Until more data become available, moxetumomab pasudotox should be used with caution during breastfeeding, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

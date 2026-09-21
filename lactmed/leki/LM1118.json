@@ -1,0 +1,36 @@
+{
+ "id": "LM1118",
+ "tytul": "Telavancin",
+ "synonimy": [
+  "Telavancin",
+  "UNII-XK134822Z0",
+  "HSDB 8194",
+  "XK134822Z0",
+  "TD-6424",
+  "(1S,2R,18R,19R,22S,25R,28R,40S)-22-(2-amino-2-oxoethyl)-5,15-dichloro-48-[(2S,3R,4S,5S,6R)-3-[(2S,4S,5S,6S)-4-[2-(decylamino)ethylamino]-5-hydroxy-4,6-dimethyloxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,18,32,35,37-pentahydroxy-19-[[(2R)-4-methyl-2-(methylamino)pentanoyl]amino]-20,23,26,42,44-pentaoxo-36-[(phosphonomethylamino)methyl]-7,13-dioxa-21,24,27,41,43-pentazaoctacyclo[26.14.2.23,6.214,17.18,12.129,33.010,25.034,39]pentaconta-3,5,8(48),9,11,14,16,29(45),30,32,34,36,38,46,49-pentadecaene-40-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-12-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1118/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the use of telavancin during breastfeeding. Telavancin is 93% plasma protein bound and is poorly absorbed orally, so it is not likely to appear in milk in large amounts, reach the infant’s bloodstream or cause any adverse effects in breastfed infants. If telavancin is required by the mother, it is not a reason to discontinue breastfeeding. Monitor the infant for possible effects on the gastrointestinal tract, such as diarrhea, vomiting, and candidiasis (e.g., thrush, diaper rash)."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Clindamycin, Daptomycin, Doxycycline, Trimethoprim-Sulfamethoxazole, Vancomycin"
+  ]
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "id": "LM368",
+ "tytul": "Miconazole",
+ "synonimy": [
+  "miconazole",
+  "Monistat",
+  "Monistat IV",
+  "Daktarin IV",
+  "Miconazolo",
+  "Miconazolum",
+  "Miconazol",
+  "22916-47-8",
+  "Oravig",
+  "Miconazolo [DCIT]",
+  "Miconazolum [INN-Latin]",
+  "Miconazol [INN-Spanish]",
+  "MJR 1762",
+  "UNII-7NNO0D7S5M",
+  "CCRIS 7924",
+  "NSC 170986",
+  "7NNO0D7S5M",
+  "EINECS 245-324-5",
+  "Miconazole [USP:INN:BAN:JAN]",
+  "R 18134",
+  "BRN 0965511",
+  "1-(2,4-Dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl)imidazole",
+  "5-23-04-00320 (Beilstein Handbook Reference)",
+  "1H-Imidazole, 1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl)methoxy)ethyl)-",
+  "Imidazole, 1-(2,4-dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl)-",
+  "(+-)-1-(2,4-Dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl)imidazole",
+  "1H-Imidazole, 1-2-((2,4-dichlorophenyl)-2-((2,4-dichlorophenyl))methoxy)ethyl)-, (+-)-",
+  "Imidazole, 1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl)methoxy)ethyl)- (9CI)"
+ ],
+ "zaktualizowano": "2022-09-19",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM368/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Because miconazole has poor absorption from the skin and vagina and has poor oral bioavailability, it is unlikely to adversely affect the breastfed infant, including after topical application to the nipples. However, miconazole ointment appears to have no advantage over lanolin for treating sore nipples during breastfeeding and a survey of members of the Academy of Breastfeeding Medicine found topical miconazole is rarely prescribed to nursing mothers to treat thrush. Any excess cream or ointment should be removed from the nipples before nursing. Only water-miscible cream or gel products should be applied to the breast because ointments may expose the infant to high levels of mineral paraffins via licking."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "In a randomized, double-bind trial, lanolin was compared to an all-purpose nipple ointment containing mupirocin 1%, betamethasone 0.05%, and miconazole 2% for painful nipples while nursing in the first 2 weeks postpartum. The two treatments were equally effective in reducing nipple pain, nipple healing time, breastfeeding duration, breastfeeding exclusivity rate, mastitis and nipple symptoms, side effects or maternal satisfaction with treatment."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Clotrimazole, Fluconazole, Nystatin"
+  ]
+ ]
+}

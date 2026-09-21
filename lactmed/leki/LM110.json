@@ -1,0 +1,39 @@
+{
+ "id": "LM110",
+ "tytul": "Fenoprofen",
+ "synonimy": [
+  "Fenoprofen calcium",
+  "Nalfon",
+  "Fenoprofene",
+  "Fenoprofeno",
+  "Fenoprofenum",
+  "HSDB 3328",
+  "Lilly 53858",
+  "UNII-RA33EAC7KY",
+  "2-(3-phenoxyphenyl)propanoic acid"
+ ],
+ "zaktualizowano": "2025-06-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM110/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Some reviewers consider fenoprofen to be acceptable during breastfeeding. Because there is little published experience with fenoprofen during breastfeeding, other agents may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date. Data are limited to those reported in a review article by the drug’s manufacturer in which no study details are reported. After a dose of 600 mg every 6 hours for 4 days in postpartum mothers, breastmilk fenoprofen levels were reportedly 1.6% of those in maternal plasma and below those accurately detected by the assay (assay limit not stated). Additionally, fenoprofen has glucuronide metabolites that could be absorbed as fenoprofen by a newborn.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Celecoxib, Diclofenac, Flurbiprofen, Ibuprofen, Indomethacin, Naproxen, Piroxicam"
+  ]
+ ]
+}

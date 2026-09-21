@@ -1,0 +1,39 @@
+{
+ "id": "LM53",
+ "tytul": "Cefprozil",
+ "synonimy": [
+  "cefprozil",
+  "Cefzil",
+  "Cefprozilum",
+  "Cefprozilo",
+  "Brisoral",
+  "Arzimol",
+  "Procef",
+  "Cronocef",
+  "Serozil",
+  "28100",
+  "UNII-1M698F4H4E",
+  "1M698F4H4E",
+  "(6R,7R)-7-[[(2R)-2-amino-2-(4-hydroxyphenyl)acetyl]amino]-8-oxo-3-[(E)-prop-1-enyl]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"
+ ],
+ "zaktualizowano": "2024-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM53/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Limited information indicates that cefprozil produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefprozil is acceptable in nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Nine healthy women were given a single 1 gram dose of cefprozil orally 6 to 12 months postpartum. Milk levels of cis-cefprozil (which accounts for 90% of cefprozil) ranged from 0.7 to 1.3 mg/L during the 12 hours after the dose. The peak level averaged 3.4 mg/L at 6 hours after the dose. By 24 hours after the dose, milk cefprozil levels were 0.3 mg/L. Using the peak milk level value and assuming that the trans-isomer adds an additional 10% to the peak, an exclusively breastfed infant would receive a maximum of 3.3% of the weight-adjusted maternal dosage.\nInfant Levels. Relevant published information was not found as of the revision date"
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

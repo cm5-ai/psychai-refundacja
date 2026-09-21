@@ -1,0 +1,35 @@
+{
+ "id": "conbercept",
+ "tytul": "Conbercept",
+ "synonimy": [
+  "Conbercept",
+  "KH902 fusion protein",
+  "UNII-1P05PW62F3",
+  "DB12460",
+  "Lumitin"
+ ],
+ "zaktualizowano": "2021-12-20",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/conbercept/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Conbercept is not approved for marketing in the United States by the U.S. Food and Drug Administration. Conbercept is a large protein molecule that inhibits vascular endothelial growth factor (VEGF). Amounts in milk after intravitreal injection is likely to be low and absorption by the infant is unlikely because it is probably partly destroyed in the infant's gastrointestinal tract and poorly absorbed orally, so systemic effects in infants are not expected. Since VEGF is present in human milk and is thought to help in maturation of the infant’s gastrointestinal tract, concern has been raised about the maternal use of VEGF inhibitors during breastfeeding. However, only 1 of 3 mothers given conbercept had a small decrease in milk VEGF levels and it rebounded in a few days. Furthermore, the typical alternative to breastmilk is infant formula, which contains no VEGF."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Three women were given intravitreal injections of conbercept 0.05 mg in one eye to treat choroidal neovascularization. VEGF levels were measured in breastmilk after one injection. Two of the women had no decrease in breastmilk VEGF. The third woman had a decrease in her milk VEGF level on day 7 after the injection, from 1.72 ng/mL to 1.42 ng/mL, a decrease of 15%. Over the following 3 weeks, the VEGF level increased to the baseline value."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "(Intravitreal) Aflibercept, Bevacizumab, Ranibizumab"
+  ]
+ ]
+}

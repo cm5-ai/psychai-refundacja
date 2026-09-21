@@ -1,0 +1,59 @@
+{
+ "id": "LM140",
+ "tytul": "Hydroxyurea",
+ "synonimy": [
+  "hydroxyurea",
+  "Hydroxycarbamide",
+  "N-Hydroxyurea",
+  "Hydrea",
+  "Oxyurea",
+  "Carbamoyl oxime",
+  "Biosupressin",
+  "Hydroxycarbamine",
+  "Onco-carbide",
+  "Litalir",
+  "Hydura",
+  "Hydurea",
+  "Siklos",
+  "Hidroxicarbamida",
+  "Hydroxyharnstoff",
+  "Hydroxycarbamidum",
+  "Idrossicarbamide",
+  "N-Hydroxymocovina",
+  "Idrossicarbamide [DCIT]",
+  "Hydroxyharnstoff [German]",
+  "N-Hydroxymocovina [Czech]",
+  "UNII-X6Q56QN5QC",
+  "CCRIS 958",
+  "NCI-C04831",
+  "SQ 1089",
+  "NSC 32065",
+  "SK 22591",
+  "HSDB 6887",
+  "EINECS 204-821-7",
+  "AI3-51139",
+  "BRN 1741548",
+  "HU",
+  "4-03-00-00170 (Beilstein Handbook Reference)"
+ ],
+ "zaktualizowano": "2026-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM140/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider breastfeeding to be contraindicated during maternal antineoplastic drug therapy, although the evidence for this recommendation for hydroxyurea is very weak. A clinical study and a pharmacokinetic model indicate that hydroxyurea is acceptable during breastfeeding. Avoiding breastfeeding during the first 3 hours after a dose can markedly decrease the infant dose. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A mother was taking 500 mg of hydroxyurea orally three times a day. Milk samples taken 2 hours after the last dose of each day on 3 days, averaged 6.1 mg/L (range 3.8 to 8.4 mg/L). Using these data, the infant in this case would have received less than 4% of maternal weight-adjusted dosage.\nUsing a more modern assay, investigators measured hydroxyurea in a mother who was taking an oral dose of 1 gram once daily. Nine milk samples were taken over a 3-day period. Trough milk levels ranged from 0.51 to 1.23 mg/L and the highest level was 19.24 mg/L at 3 hours after the dose on one day. All other measurements fell between these values.\nSixteen lactating mothers, 2 with sickle cell disease, were given 1 gram of hydroxyurea orally. Mothers were a median of 8.6 months (range 2.5 to 22.1 months) postpartum. Milk samples were collected before the dose and at 10 time points over the next 12 hours. A further milk sample obtained at 24 hours after the dose contained no detectable drug (<5 mg/L). Peak plasma levels averaging 12.9 mg/L (range 6.2 to 23 mg/L) occurred at a mean of 2.2 hours (range 0.9 to 3.6 hours) after the dose. Milk levels averaged about 84% of plasma levels and closely paralleled plasma levels. There was no difference between the patients and normal volunteers. The authors calculated that an average of 2.2 mg (0.41 mg/kg) was excreted into breastmilk over 24 hours, but 1.2 mg of this was in the first 3 hours. A pharmacokinetic model created using these data predicted that the daily dosage that an infant would receive would be 0.46 mg/kg daily or 3.4% of the maternal weight-adjusted dosage. By avoiding breastfeeding for 3 hours after the dose, the amount of drug transferred to the infant would be cut in half. Data from this study were used to create a population pharmacokinetic model. The model showed that the RID remained below 10% of the maternal dose across all age cohorts between 0 to 9 months of age.\nA physiologically based pharmacokinetic model developed from previously published data indicate that the breastfed infant’s exposure to hydroxyurea was greatest at about one month of age when milk intake is at its highest. Neonatal RID increased from 0.6% at 1 day to 10% at the 4th week postpartum before declining to 5%, 3%, and 2% at 6, 9, and 12 months postpartum, respectively. It also predicted that about 56% of total milk hydroxyurea exposure is within the first 3 hours after a dose.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

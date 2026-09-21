@@ -1,0 +1,37 @@
+{
+ "id": "cipaglucosidase",
+ "tytul": "Cipaglucosidase Alfa",
+ "synonimy": [
+  "Cipaglucosidasecipaglucosidase alfa-atga",
+  "Pombiliti",
+  "AT GAA",
+  "ATB-200",
+  "(homo sapiens lysosomal alpha-glucosidase (acid maltase, aglucosidase alfa) precursor)-(57-952)-peptide (1-896), produced in recombinant cho cells, glycoform alfa",
+  "recombinant human acid alpha-glucosidase optimized for high expression of mannose 6-phosphate",
+  "4SED7F4BSG"
+ ],
+ "zaktualizowano": "2023-11-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/cipaglucosidase/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of cipaglucosidase alfa during breastfeeding. Because cipaglucosidase alfa is a large protein molecule with a molecular weight of about 110,000 Da, the amount in milk is likely to be very low. It is also likely to be partially destroyed in the infant's gastrointestinal tract and absorption by the infant is probably minimal. However, the drug is given with miglustat, which has no safety information during breastfeeding, so the manufacturer recommends that neither drug be given to nursing mothers. An alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Alglucerase, Imiglucerase, Taliglucerase Alfa"
+  ]
+ ]
+}

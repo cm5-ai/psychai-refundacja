@@ -1,0 +1,46 @@
+{
+ "id": "LM241",
+ "tytul": "Rosiglitazone",
+ "synonimy": [
+  "rosiglitazone",
+  "Brl-49653",
+  "Brl 49653",
+  "TDZ 01",
+  "BRL49653",
+  "Rezult",
+  "rosiglitazone",
+  "Gaudil",
+  "Rosvel",
+  "rosiglitazonum",
+  "NSC-758698",
+  "DTXSID7037131",
+  "CHEBI:50122",
+  "UNII-05V02F2KDG",
+  "HSDB 7555",
+  "5-[[4-[2-[methyl(pyridin-2-yl)amino]ethoxy]phenyl]methyl]-1,3-thiazolidine-2,4-dione"
+ ],
+ "zaktualizowano": "2026-05-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM241/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of rosiglitazone during breastfeeding. Rosiglitazone is over 99% protein bound in plasma, so it is unlikely to pass into breastmilk in clinically important amounts. The manufacturer recommends avoiding breastfeeding during rosiglitazone use, so pioglitazone might be a better choice of the drugs in this class for nursing mothers."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acarbose, Colesevelam, Glipizide, Glyburide, Insulin, Metformin, Miglitol, Semaglutide, Tirzepatide"
+  ]
+ ]
+}

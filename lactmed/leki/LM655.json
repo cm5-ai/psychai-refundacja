@@ -1,0 +1,44 @@
+{
+ "id": "LM655",
+ "tytul": "Etravirine",
+ "synonimy": [
+  "Etravirine",
+  "Intelence",
+  "269055-15-4",
+  "TMC-125",
+  "TMC125",
+  "TMC 125",
+  "UNII-0C50HW4FO1",
+  "0C50HW4FO1",
+  "Etravirine [USAN:INN:BAN:JAN]",
+  "R 165335",
+  "4-((6-amino-5-bromo-2-((4-cyanophenyl)amino)-4-pyrimidinyl)oxy)-3,5-dimethyl-benzonitrile",
+  "Benzonitrile, 4-((6-amino-5-bromo-2-((4-cyanophenyl)amino)-4-pyrimidinyl)oxy)-3,5-dimethyl-",
+  "ETV",
+  "4-(6-Amino-5-bromo-2-(4-cyanoanilino)pyrimidin-4-yloxy)-3,5-dimethylbenzonitrile"
+ ],
+ "zaktualizowano": "2024-07-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM655/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Etravirine is excreted in breastmilk in concentrations exceeding the maternal plasma and appears to increase in concentration over time. Until more information becomes available, an alternate agent may be preferred. Achieving and maintaining viral suppression with antiretroviral therapy decreases breastfeeding transmission risk to less than 1%, but not zero. Individuals with HIV who are on antiretroviral therapy with a sustained undetectable viral load and who choose to breastfeed should be supported in this decision. If a viral load is not suppressed, banked pasteurized donor milk or formula is recommended."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Nine HIV-positive women had etravirine added to their existing antiretroviral regimens between postpartum days 1 and 14 postpartum. The dosage was not stated, but was presumably 200 mg twice daily. Breastmilk and maternal serum samples were obtained at 0, 2, 5, 8 and 24 hours after the dose of etravirine on days 5 and 14 postpartum. The median breastmilk concentration of etravirine on day 5 was 241 mcg/L (range 161 to 891 mcg/L) and on day 14 was 798 mcg/L (range 161 to 2714 mcg/L). The median milk to plasma ratio was 1.09 on day 5 and 3.27 on day 14.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Lamivudine, Nelfinavir, Nevirapine, Zidovudine"
+  ]
+ ]
+}

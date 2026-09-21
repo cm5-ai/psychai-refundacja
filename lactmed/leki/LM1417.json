@@ -1,0 +1,37 @@
+{
+ "id": "LM1417",
+ "tytul": "Pemetrexed",
+ "synonimy": [
+  "Pemetrexed",
+  "Alimta",
+  "UNII-04Q9AIZ7NO",
+  "04Q9AIZ7NO",
+  "HSDB 7316",
+  "Premetrexed [Common mis-spelling]",
+  "(2S)-2-[[4-[2-(2-amino-4-oxo-3,7-dihydropyrrolo[2,3-d]pyrimidin-5-yl)ethyl]benzoyl]amino]pentanedioic acid"
+ ],
+ "zaktualizowano": "2024-08-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1417/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Most sources consider breastfeeding to be contraindicated during maternal high-dose antineoplastic drug therapy. The manufacturer recommends that mothers should not to breastfeed during treatment with pemetrexed and for one week after the last dose. Chemotherapy may adversely affect the normal microbiome and chemical makeup of breastmilk.[1] Women who receive chemotherapy during pregnancy are more likely to have difficulty nursing their infant.[2]"
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date.\n28170295"
+  ],
+  [
+   "Drug Levels and Effects > References",
+   "1. Urbaniak C, McMillan A, Angelini M, et al. Effect of chemotherapy on the microbiota and metabolome of human milk, a case report. Microbiome 2014;2:24.\n2. Stopenski S, Aslam A, Zhang X, et al. After chemotherapy treatment for maternal cancer during pregnancy, is breastfeeding possible? Breastfeed Med 2017;12:91-7."
+  ]
+ ]
+}
