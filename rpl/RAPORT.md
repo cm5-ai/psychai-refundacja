@@ -2,9 +2,9 @@
 
 Stan RPL: 2026-09-22  
 Produkty: 2450, opakowania: 8947 (bez GTIN: 1049), błędy odczytu: 0, odczyt kontrolny: 0  
-Statusy opakowań: {'Skasowane': 327, 'Pharmapoint SA': 2}  
+Statusy opakowań: {'Skasowane': 327}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `bea2df003cc0a80a7926f567e3d31907d4ebbfa8fa9f36a28365d0eaf04825ce`
+sha256 spisu: `ca3f2c67479d8ba9329fb4eb128fc2e06e1aaa2d4be870b8bf43e9587562f40a`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 

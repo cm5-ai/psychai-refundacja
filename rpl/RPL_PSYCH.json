@@ -19,8 +19,7 @@
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1049,
   "opakowania_ze_statusem": {
-   "Skasowane": 327,
-   "Pharmapoint SA": 2
+   "Skasowane": 327
   },
   "odczyt_kontrolny": 0,
   "komunikaty_produkty": 149,
@@ -8213,8 +8212,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/276/014",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 139258 56 tabl.",
+     "id_opakowania": "139258",
+     "opis": "56 tabl.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -8227,8 +8227,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/276/012",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 139259 28 tabl.",
+     "id_opakowania": "139259",
+     "opis": "28 tabl.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -8241,8 +8242,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/276/012",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 141278 28 tabl.",
+     "id_opakowania": "141278",
+     "opis": "28 tabl.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -8255,8 +8257,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/276/014",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 141279 56 tabl.",
+     "id_opakowania": "141279",
+     "opis": "56 tabl.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -71949,8 +71952,9 @@
      "kategoria": "Rpz",
      "status": null,
      "pozwolenie_eu": "EU/1/13/820/002",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 130383 28 tabl.",
+     "id_opakowania": "130383",
+     "opis": "28 tabl.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -72257,8 +72261,9 @@
      "kategoria": "Rpz",
      "status": null,
      "pozwolenie_eu": "EU/1/13/880/005",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 165865 56 tabl.",
+     "id_opakowania": "165865",
+     "opis": "56 tabl.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -73554,8 +73559,9 @@
      "kategoria": "Rpz",
      "status": null,
      "pozwolenie_eu": "EU/1/13/284/007",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 131468 56 tabl.",
+     "id_opakowania": "131468",
+     "opis": "56 tabl.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -87910,8 +87916,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/08/475/019",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 130107 28 tabl. w blistrze",
+     "id_opakowania": "130107",
+     "opis": "28 tabl. w blistrze",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -87920,8 +87927,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/08/475/058",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 150888 98 tabl.",
+     "id_opakowania": "150888",
+     "opis": "98 tabl.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -87930,8 +87938,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/08/475/058",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 150889 28 tabl.",
+     "id_opakowania": "150889",
+     "opis": "28 tabl.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -89824,8 +89833,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/07/415/018",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 130100 28 tabl.",
+     "id_opakowania": "130100",
+     "opis": "28 tabl.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -89838,8 +89848,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/07/415/018",
-     "id_opakowania": null,
-     "opis": "Pretium Farm Sp. z o.o. 130313 28 tabl.",
+     "id_opakowania": "130313",
+     "opis": "28 tabl.",
+     "uwaga": "Pretium Farm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -89848,8 +89859,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/07/415/018",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 130338 28 tabl.",
+     "id_opakowania": "130338",
+     "opis": "28 tabl.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -89860,10 +89872,11 @@
     {
      "gtin": "05909991441463",
      "kategoria": "Rp",
-     "status": "Pharmapoint SA",
+     "status": null,
      "pozwolenie_eu": "EU/1/07/415/018",
      "id_opakowania": "138187",
      "opis": "28 tabl.",
+     "uwaga": "Pharmapoint SA",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -89872,8 +89885,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/07/415/018",
-     "id_opakowania": null,
-     "opis": "Medezin Sp. z o.o. 138623 28 tabl.",
+     "id_opakowania": "138623",
+     "opis": "28 tabl.",
+     "uwaga": "Medezin Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -90421,8 +90435,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/07/415/007",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 130340 28 tabl.",
+     "id_opakowania": "130340",
+     "opis": "28 tabl.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -90435,8 +90450,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/07/415/007",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 140905 28 tabl.",
+     "id_opakowania": "140905",
+     "opis": "28 tabl.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -92436,8 +92452,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/96/022/016",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 130103 1 fiol. proszku",
+     "id_opakowania": "130103",
+     "opis": "1 fiol. proszku",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -92446,8 +92463,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/96/022/016",
-     "id_opakowania": null,
-     "opis": "Aga Kommerz spol. s r.o. 130284 1 fiol. proszku",
+     "id_opakowania": "130284",
+     "opis": "1 fiol. proszku",
+     "uwaga": "Aga Kommerz spol. s r.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -92456,8 +92474,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/96/022/016",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 132742 1 fiol. proszku",
+     "id_opakowania": "132742",
+     "opis": "1 fiol. proszku",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -101641,8 +101660,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/279/018",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 130112 56 kaps.",
+     "id_opakowania": "130112",
+     "opis": "56 kaps.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -101655,8 +101675,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/279/018",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 130382 56 kaps.",
+     "id_opakowania": "130382",
+     "opis": "56 kaps.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -102170,8 +102191,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/279/012",
-     "id_opakowania": null,
-     "opis": "Delfarma Sp. z o.o. 130111 56 kaps.",
+     "id_opakowania": "130111",
+     "opis": "56 kaps.",
+     "uwaga": "Delfarma Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -102180,18 +102202,20 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/04/279/012",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 130381 56 kaps.",
+     "id_opakowania": "130381",
+     "opis": "56 kaps.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
     {
      "gtin": "05909991440329",
      "kategoria": "Rp",
-     "status": "Pharmapoint SA",
+     "status": null,
      "pozwolenie_eu": "EU/1/04/279/012",
      "id_opakowania": "138031",
      "opis": "56 kaps.",
+     "uwaga": "Pharmapoint SA",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -105818,8 +105842,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/15/1011/045",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 136090 56 kaps.",
+     "id_opakowania": "136090",
+     "opis": "56 kaps.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -105828,8 +105853,9 @@
      "kategoria": "Rp",
      "status": null,
      "pozwolenie_eu": "EU/1/15/1011/046",
-     "id_opakowania": null,
-     "opis": "InPharm Sp. z o.o. 136091 70 kaps.",
+     "id_opakowania": "136091",
+     "opis": "70 kaps.",
+     "uwaga": "InPharm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -118566,8 +118592,9 @@
      "kategoria": "Rpz",
      "status": "Skasowane",
      "pozwolenie_eu": "EU/1/98/066/001",
-     "id_opakowania": null,
-     "opis": "Forfarm Sp. z o.o. 130428 28 kaps.",
+     "id_opakowania": "130428",
+     "opis": "28 kaps.",
+     "uwaga": "Forfarm Sp. z o.o.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
