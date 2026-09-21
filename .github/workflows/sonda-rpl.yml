@@ -3,40 +3,63 @@ name: Sonda RPL
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   sonda:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Sprawdź eksport Rejestru Produktów Leczniczych
         run: |
-          python3 - <<'PY'
-          import re, urllib.request, html
-          UA = {"User-Agent": "Mozilla/5.0 (psychai-rpl sonda)"}
+          mkdir -p wyniki
+          python3 - <<'PY' 2>&1 | tee wyniki/sonda-rpl.txt
+          import re, urllib.request, html, datetime
+          UA = {"User-Agent": "Mozilla/5.0 (psychai-rpl sonda)", "Accept": "*/*"}
           def get(u, n=None):
-              r = urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=120)
+              r = urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=180)
               return r.status, dict(r.headers), (r.read(n) if n else r.read())
-          PAGES = ["https://rejestry.ezdrowie.gov.pl/rpl/eksport-danych-v4.0.0",
-                   "https://rejestrymedyczne.ezdrowie.gov.pl/rpl/eksport-danych-v4.0.0",
-                   "https://ezdrowie.gov.pl/portal/home/rejestry-medyczne/dane-z-rejestrow-medycznych"]
-          links = set()
-          for p in PAGES:
+          print("SONDA RPL v2", datetime.datetime.utcnow().isoformat(), "UTC")
+          apis = set(); scripts = set()
+          for base in ["https://rejestry.ezdrowie.gov.pl", "https://rejestrymedyczne.ezdrowie.gov.pl"]:
               try:
-                  s, h, b = get(p); t = html.unescape(b.decode("utf-8", "replace"))
-                  print(f"STRONA {p}: {s}, {len(b)} B")
-                  for l in re.findall(r'(?:href|src)="([^"]+)"', t):
-                      if re.search(r'(xml|csv|xlsx|zip|json|export|eksport|report|api/rpl)', l, re.I): links.add(l if l.startswith("http") else re.match(r'https://[^/]+', p).group(0) + ("" if l.startswith("/") else "/") + l)
-                  for m in re.findall(r'https?://[^\s"\'<>]+', t):
-                      if re.search(r'(\.xml|\.csv|\.xlsx|\.zip|api/rpl)', m, re.I): links.add(m)
-              except Exception as e:
-                  print(f"STRONA {p}: BLAD {e}")
-          print("\nZNALEZIONE LINKI:")
-          for l in sorted(links)[:40]: print("  ", l)
-          print("\nPROBA POBRANIA (pierwsze 1500 bajtów):")
-          for l in sorted(links)[:12]:
+                  s, h, b = get(base + "/rpl/eksport-danych-v4.0.0"); t = b.decode("utf-8", "replace")
+                  for js in re.findall(r'src="([^"]+\.js)"', t): scripts.add(js if js.startswith("http") else base + ("" if js.startswith("/") else "/") + js)
+              except Exception as e: print("STRONA", base, "BLAD", e)
+          print("SKRYPTY:", len(scripts))
+          for js in sorted(scripts):
               try:
-                  s, h, b = get(l, 1500)
-                  print(f"\n== {l}\n   status {s}, typ {h.get('Content-Type')}, rozmiar {h.get('Content-Length')}")
-                  print("  ", b[:1500].decode("utf-8", "replace").replace("\n", " ")[:1500])
+                  s, h, b = get(js); t = b.decode("utf-8", "replace")
+                  for m in re.findall(r'["\'`](/?api/[^"\'`\s]{3,160})["\'`]', t): apis.add(m)
+                  for m in re.findall(r'["\'`]([^"\'`\s]{0,120}(?:\.xml|\.csv|\.xlsx|report|eksport|export)[^"\'`\s]{0,80})["\'`]', t, re.I):
+                      if "/" in m: apis.add(m)
+              except Exception as e: print("SKRYPT", js, "BLAD", e)
+          print("\nZNALEZIONE ŚCIEŻKI API/EKSPORT (%d):" % len(apis))
+          for a in sorted(apis)[:150]: print("  ", a)
+          CAND = [
+            "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/4.0.0/overall.xml",
+            "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/4.0.0/overall.csv",
+            "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/4.0.0/overall.xlsx",
+            "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/get-xml",
+            "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/get-csv",
+            "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/get-xml",
+            "https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?page=0&size=2&name=sertralina",
+            "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?page=0&size=2&name=sertralina",
+          ]
+          for a in sorted(apis):
+              if a.startswith("http"): CAND.append(a)
+              elif "rpl" in a and "{" not in a and "$" not in a: CAND.append("https://rejestry.ezdrowie.gov.pl/" + a.lstrip("/"))
+          print("\nPROBY POBRANIA:")
+          for u in CAND[:40]:
+              try:
+                  s, h, b = get(u, 1200)
+                  print(f"\n== {u}\n   status {s}, typ {h.get('Content-Type')}, rozmiar {h.get('Content-Length')}, plik {h.get('Content-Disposition')}")
+                  print("   ", b.decode("utf-8", "replace").replace("\n", " ")[:1200])
               except Exception as e:
-                  print(f"\n== {l}\n   BLAD {e}")
+                  print(f"\n== {u}\n   BLAD {e}")
           PY
+      - name: Zapisz wynik w repozytorium
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          git add wyniki/ && git commit -m "Wynik sondy RPL" && git push || true
