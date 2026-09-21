@@ -1,0 +1,42 @@
+name: Sonda RPL
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sprawdź eksport Rejestru Produktów Leczniczych
+        run: |
+          python3 - <<'PY'
+          import re, urllib.request, html
+          UA = {"User-Agent": "Mozilla/5.0 (psychai-rpl sonda)"}
+          def get(u, n=None):
+              r = urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=120)
+              return r.status, dict(r.headers), (r.read(n) if n else r.read())
+          PAGES = ["https://rejestry.ezdrowie.gov.pl/rpl/eksport-danych-v4.0.0",
+                   "https://rejestrymedyczne.ezdrowie.gov.pl/rpl/eksport-danych-v4.0.0",
+                   "https://ezdrowie.gov.pl/portal/home/rejestry-medyczne/dane-z-rejestrow-medycznych"]
+          links = set()
+          for p in PAGES:
+              try:
+                  s, h, b = get(p); t = html.unescape(b.decode("utf-8", "replace"))
+                  print(f"STRONA {p}: {s}, {len(b)} B")
+                  for l in re.findall(r'(?:href|src)="([^"]+)"', t):
+                      if re.search(r'(xml|csv|xlsx|zip|json|export|eksport|report|api/rpl)', l, re.I): links.add(l if l.startswith("http") else re.match(r'https://[^/]+', p).group(0) + ("" if l.startswith("/") else "/") + l)
+                  for m in re.findall(r'https?://[^\s"\'<>]+', t):
+                      if re.search(r'(\.xml|\.csv|\.xlsx|\.zip|api/rpl)', m, re.I): links.add(m)
+              except Exception as e:
+                  print(f"STRONA {p}: BLAD {e}")
+          print("\nZNALEZIONE LINKI:")
+          for l in sorted(links)[:40]: print("  ", l)
+          print("\nPROBA POBRANIA (pierwsze 1500 bajtów):")
+          for l in sorted(links)[:12]:
+              try:
+                  s, h, b = get(l, 1500)
+                  print(f"\n== {l}\n   status {s}, typ {h.get('Content-Type')}, rozmiar {h.get('Content-Length')}")
+                  print("  ", b[:1500].decode("utf-8", "replace").replace("\n", " ")[:1500])
+              except Exception as e:
+                  print(f"\n== {l}\n   BLAD {e}")
+          PY
