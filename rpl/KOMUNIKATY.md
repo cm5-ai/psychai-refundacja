@@ -2,7 +2,7 @@
 
 Stan RPL: 2026-09-22
 
-Pierwszy przebieg — stan wyjściowy, bez porównania.
+Brak nowych komunikatów od poprzedniego spisu.
 
 ## Wszystkie produkty z komunikatami (149)
 

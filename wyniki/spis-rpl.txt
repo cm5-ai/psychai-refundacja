@@ -1,3 +1,4 @@
+odczyt_zapasowy 1275
 nowe_komunikaty 0
-produkty 2423 opakowania 6316 bledy 431 A1_bez_RPL 140
+produkty 2423 opakowania 7591 bledy 131 A1_bez_RPL 16
 BLOKADA: podejrzanie mało produktów albo dużo błędów parsowania
