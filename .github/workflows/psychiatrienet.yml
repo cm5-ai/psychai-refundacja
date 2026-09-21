@@ -1,0 +1,33 @@
+name: Psychiatrienet - straznik zmian
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 5 * * 3"   # co srode ok. 7:00 czasu polskiego
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  straz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sprawdz tabele i pary
+        run: python3 generator/psychiatrienet_straz.py
+      - name: Zapisz
+        if: always()
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          git add zrodla/ wyniki/ && git commit -qm "Psychiatrienet straz $(TZ=Europe/Warsaw date +%F)" && git push || true
+      - name: Zgloszenie przy zmianie
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f ALARM ]; then
+            gh issue create --title "Psychiatrienet - zmiana $(TZ=Europe/Warsaw date +%F)" --body "$(cat ALARM)
+
+          Indeks par w module 19 moze byc nieaktualny. Do przegladu przez lekarza."
+          fi

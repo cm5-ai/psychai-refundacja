@@ -1,0 +1,3 @@
+# Węzły z mapy w module 19
+agomelatine amitriptyline bupropion citalopram clomipramine dosulepine doxepine duloxetine escitalopram fenelzine fluoxetine fluvoxamine hypericum imipramine maprotiline mirtazapine moclobemide nortriptyline paroxetine sertraline tranylcypromine trazodone venlafaxine vortioxetine
+amisulpride clozapine haloperidol lurasidone olanzapine paliperidone quetiapine risperidone sulpiride partial-agonist rest-ap

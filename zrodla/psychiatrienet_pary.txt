@@ -1,0 +1,22 @@
+# Pary z indeksu w module 19 (SWITCH_GATEWAY). Tylko adresy — bez treści źródła.
+fluoxetine-moclobemide
+sertraline-moclobemide
+escitalopram-moclobemide
+venlafaxine-moclobemide
+duloxetine-moclobemide
+clomipramine-moclobemide
+amitriptyline-moclobemide
+moclobemide-sertraline
+moclobemide-escitalopram
+moclobemide-venlafaxine
+moclobemide-mirtazapine
+fluoxetine-tranylcypromine
+fluoxetine-sertraline
+olanzapine-risperidone
+olanzapine-quetiapine
+clozapine-olanzapine
+clozapine-quetiapine
+clozapine-risperidone
+clozapine-haloperidol
+clozapine-amisulpride
+clozapine-partial-agonist
