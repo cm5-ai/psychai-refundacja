@@ -1,0 +1,48 @@
+<stdin>:6: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+SONDA RPL v2 2026-09-21T22:10:50.340204 UTC
+SKRYPTY: 4
+
+ZNALEZIONE ŚCIEŻKI API/EKSPORT (4):
+   /api/rpl/medicinal-products
+   /reports
+   api/rpl/publish-dodi-files
+   api/rpl/users
+
+PROBY POBRANIA:
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/4.0.0/overall.xml
+   status 200, typ application/xml, rozmiar 66856118, plik attachment; filename="Rejestr_Produktow_Leczniczych_calosciowy_stan_na_dzien_20260921_4.0.0.xml"
+    <?xml version="1.0" encoding="UTF-8" standalone="yes"?> <produktyLecznicze stanNaDzien="2026-09-21" xmlns="http://rejestry.ezdrowie.gov.pl/rpl/eksport-danych-v4.0.0">     <produktLeczniczy nazwaProduktu="Zoledronic acid Fresenius Kabi" rodzajPreparatu="ludzki" nazwaPowszechnieStosowana="Acidum zoledronicum" nazwaPoprzedniaProduktu="brak" moc="4 mg/5 ml" nazwaPostaciFarmaceutycznej="Koncentrat do sporządzania roztworu do infuzji" podmiotOdpowiedzialny="Fresenius Kabi Polska Sp. z o.o." typProcedury="DCP" numerPozwolenia="20708" waznoscPozwolenia="Bezterminowe" ulotka="https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/1/leaflet" charakterystyka="https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/1/characteristic" id="100000014">         <kodyATC>             <kodATC>M05BA08</kodATC>         </kodyATC>         <drogiPodania>             <drogaPodania drogaPodaniaNazwa="dożylna"/>         </drogiPodania>         <substancjeCzynne>             <substancjaCzynna nazwaSubstancji="Acidum zoledronicum" iloscSubstancji="4" jednostkaMiaryIlosciSubstancji="mg" iloscPreparatu="5" jednostkaMiaryIlosciPreparatu="ml" innyOpisIlosci=""/>         </substancjeCzynne>         <opa
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/4.0.0/overall.csv
+   BLAD HTTP Error 404: Not Found
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/4.0.0/overall.xlsx
+   BLAD HTTP Error 404: Not Found
+
+== https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/get-xml
+   BLAD HTTP Error 500: Internal Server Error
+
+== https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/get-csv
+   status 200, typ text/csv, rozmiar 17023282, plik attachment; filename="Rejestr_Produktow_Leczniczych_calosciowy_stan_na_dzien_20260921.csv"
+    "Identyfikator Produktu Leczniczego";"Nazwa Produktu Leczniczego";"Nazwa powszechnie stosowana";"Rodzaj preparatu";"Zakaz stosowania u zwierząt";"Nazwa poprzednia produktu";"Droga podania - Gatunek - Tkanka - Okres karencji";"Moc";"Postać farmaceutyczna";"Typ procedury";"Numer pozwolenia";"Ważność pozwolenia";"Kod ATC";"Podmiot odpowiedzialny";"Opakowanie";"Substancja czynna";"Nazwa wytwórcy";"Kraj wytwórcy";"Nazwa importera";"Kraj importera";"Nazwa wytwórcy/importera";"Kraj wytwórcy/importera";"Podmiot odpowiedzialny w kraju eksportu";"Kraj eksportu";"Podstawa prawna wniosku";"Ulotka";"Charakterystyka";"Etykieto-ulotka";"Ulotka importu równoległego";"Etykieto-ulotka importu równoległego";"Oznakowanie opakowań importu równoległego";"Narzędzia edukacyjne dla osoby wykonującej zawód medyczny";"Narzędzia edukacyjne dla pacjenta";"Komunikaty bezpieczeństwa" "100000014";"Zoledronic acid Fresenius Kabi";"Acidum zoledronicum";"Ludzki";"";"";"dożylna";"4 mg/5 ml";"Koncentrat do sporządzania roztworu do infuzji";"DCP";"20708";"Bezterminowe";"M05BA08";"Fresenius Kabi Polska Sp. z o.o.";"05909991023652 ¦ Rpz ¦ 2 1 fiol. 5 ml 05909991023669 ¦ Rpz ¦ 3 4 fiol. 5 ml 059
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/public-pl-report/get-xml
+   BLAD HTTP Error 500: Internal Server Error
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?page=0&size=2&name=sertralina
+   status 200, typ application/json, rozmiar None, plik None
+    {"content":[{"id":26243,"specimenType":"Ludzki","vetClassification":false,"hasDownloadableMaterials":false,"hasSecurityMessages":false,"medicinalProductName":"Sertralina Krka","commonName":"Sertralinum","pharmaceuticalFormName":"Tabletki powlekane","medicinalProductPower":"50 mg","activeSubstanceName":"Sertralini hydrochloridum","subjectMedicinalProductName":"Krka, d.d., Novo mesto","registryNumber":"18834","procedureTypeName":"MRP","expirationDateString":"Bezterminowe","atcCode":"N06AB06","targetSpecies":""},{"id":26245,"specimenType":"Ludzki","vetClassification":false,"hasDownloadableMaterials":false,"hasSecurityMessages":false,"medicinalProductName":"Sertralina Krka","commonName":"Sertralinum","pharmaceuticalFormName":"Tabletki powlekane","medicinalProductPower":"100 mg","activeSubstanceName":"Sertralini hydrochloridum","subjectMedicinalProductName":"Krka, d.d., Novo mesto","registryNumber":"18835","procedureTypeName":"MRP","expirationDateString":"Bezterminowe","atcCode":"N06AB06","targetSpecies":""}],"pageable":{"pageNumber":0,"pageSize":2,"sort":[],"offset":0,"unpaged":false,"paged":true},"totalPages":1,"totalElements":2,"last":true,"numberOfElements":2,"sort":[],"first":true,
+
+== https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/search/public?page=0&size=2&name=sertralina
+   status 200, typ application/json, rozmiar None, plik None
+    {"content":[{"id":26243,"specimenType":"Ludzki","vetClassification":false,"hasDownloadableMaterials":false,"hasSecurityMessages":false,"medicinalProductName":"Sertralina Krka","commonName":"Sertralinum","pharmaceuticalFormName":"Tabletki powlekane","medicinalProductPower":"50 mg","activeSubstanceName":"Sertralini hydrochloridum","subjectMedicinalProductName":"Krka, d.d., Novo mesto","registryNumber":"18834","procedureTypeName":"MRP","expirationDateString":"Bezterminowe","atcCode":"N06AB06","targetSpecies":""},{"id":26245,"specimenType":"Ludzki","vetClassification":false,"hasDownloadableMaterials":false,"hasSecurityMessages":false,"medicinalProductName":"Sertralina Krka","commonName":"Sertralinum","pharmaceuticalFormName":"Tabletki powlekane","medicinalProductPower":"100 mg","activeSubstanceName":"Sertralini hydrochloridum","subjectMedicinalProductName":"Krka, d.d., Novo mesto","registryNumber":"18835","procedureTypeName":"MRP","expirationDateString":"Bezterminowe","atcCode":"N06AB06","targetSpecies":""}],"pageable":{"pageNumber":0,"pageSize":2,"sort":[],"offset":0,"unpaged":false,"paged":true},"totalPages":1,"totalElements":2,"last":true,"numberOfElements":2,"sort":[],"first":true,
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/medicinal-products
+   BLAD HTTP Error 403: Forbidden
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/publish-dodi-files
+   BLAD HTTP Error 404: Not Found
+
+== https://rejestry.ezdrowie.gov.pl/api/rpl/users
+   BLAD HTTP Error 403: Forbidden
