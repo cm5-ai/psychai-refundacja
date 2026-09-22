@@ -5,7 +5,8 @@ Uzycie: python3 generator/chpl_cache.py --lista zrodla/chpl_cache_lista.txt [--t
 import json, re, os, sys, subprocess, tempfile, argparse, unicodedata, hashlib, datetime
 
 KATALOG = "chpl"
-LIMIT_ZNAKOW = 6000          # na punkt; ChPL 4.4 potrafi byc dlugi
+LIMIT_ZNAKOW = 20000         # na punkt. Przy 6000 ucinalo klozapinie 4.2/4.4/4.5/4.8
+                             # i metadonowi 4.2 - czyli progi przerwania i dawkowanie.
 MAX_PRODUKTOW = 3            # na substancje; ChPL nalezy do PRODUKTU
 
 
@@ -72,6 +73,9 @@ def pdf_tekst(url):
 
 
 def punkty(t, chce):
+    """Zwraca {punkt: {"tekst":..., "uciety":bool, "dlugosc_zrodla":int}}.
+    Uciecie MUSI byc jawne: punkt uciety w polowie wyglada jak kompletny,
+    a to w nim siedza progi przerwania leczenia i schematy dawkowania."""
     t = " ".join(t.split())
     ms = list(re.finditer(r'(?<![\d.])([45])\.(\d{1,2})\.?\s+(?=[A-ZŁŚŻŹĆŃÓĘĄ])', t))
     out = {}
@@ -79,7 +83,9 @@ def punkty(t, chce):
         k = f"{m.group(1)}.{m.group(2)}"
         if k not in chce or k in out:
             continue
-        out[k] = t[m.start(): ms[i + 1].start() if i + 1 < len(ms) else len(t)][:LIMIT_ZNAKOW]
+        pelny = t[m.start(): ms[i + 1].start() if i + 1 < len(ms) else len(t)]
+        out[k] = {"tekst": pelny[:LIMIT_ZNAKOW], "uciety": len(pelny) > LIMIT_ZNAKOW,
+                  "dlugosc_zrodla": len(pelny)}
     return out
 
 
@@ -141,9 +147,11 @@ for s in substancje:
         rekord["produkty"].append({"nazwa": p.get("nazwa"), "moc": p.get("moc"),
                                    "podmiot": p.get("podmiot"), "zrodlo": p.get("chpl"),
                                    "sha256_pdf": info, "stan": "OK",
-                                   "punkty": {k: got[k] for k in sorted(got)},
+                                   "punkty": {k: got[k]["tekst"] for k in sorted(got)},
+                                   "punkty_uciete": sorted(k for k in got if got[k]["uciety"]),
                                    "punkty_nieznalezione": sorted(chce - set(got))})
-        print(f"{s:22} {p.get('nazwa'):22} OK  punkty: {','.join(sorted(got)) or 'brak'}")
+        uc = sorted(k for k in got if got[k]["uciety"])
+        print(f"{s:22} {p.get('nazwa'):22} OK  punkty: {','.join(sorted(got)) or 'brak'}" + (f"  UCIETE: {','.join(uc)}" if uc else ""))
     json.dump(rekord, open(f"{KATALOG}/{plik}.json", "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     indeks[s] = {"plik": f"{KATALOG}/{plik}.json", "stan": "OK", "pobrano": dzis,
