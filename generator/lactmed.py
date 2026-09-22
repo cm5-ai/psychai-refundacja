@@ -66,6 +66,11 @@ def main(src, out, zrodlo_data, zrodlo_sha):
         idx.append({"id": r["id"], "tytul": r["tytul"], "zaktualizowano": r["zaktualizowano"],
                     "synonimy": [k for k in r["synonimy"] if len(k) <= 40 and not re.search(r'\d{3,}|UNII|HSDB|EC ', k)][:25], "plik": "leki/" + fn})
     idx.sort(key=lambda x: x["tytul"].lower())
+    # BLOKADA PRZED KASOWANIEM I ZAPISEM. Wczesniej stala na koncu: przy zlym
+    # przebiegu skrypt najpierw USUWAL pliki lekow spoza nowego indeksu
+    # i zapisywal okrojony INDEKS.json, a dopiero potem mowil BLOKADA.
+    print("wpisy", len(idx), "bledy", len(bledy))
+    if len(idx) < 1000 or len(bledy) > 20: print("BLOKADA"); sys.exit(2)
     keep = {x["plik"].split("/")[1] for x in idx}
     for f in os.listdir(os.path.join(out, "leki")):
         if f not in keep: os.remove(os.path.join(out, "leki", f))
@@ -77,8 +82,6 @@ def main(src, out, zrodlo_data, zrodlo_sha):
     open(os.path.join(out, "INDEKS.json"), "w", encoding="utf-8").write(json.dumps({"metadata": meta, "wpisy": idx}, ensure_ascii=False, indent=0) + "\n")
     os.makedirs("wyniki", exist_ok=True)
     open("wyniki/lactmed.txt", "w", encoding="utf-8").write("wpisy %d bledy %d\n%s\n" % (len(idx), len(bledy), "\n".join(bledy[:30])))
-    print("wpisy", len(idx), "bledy", len(bledy))
-    if len(idx) < 1000 or len(bledy) > 20: print("BLOKADA"); sys.exit(2)
     print("OK")
 
 if __name__ == "__main__": main(*sys.argv[1:5])
