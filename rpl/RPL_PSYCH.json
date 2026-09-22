@@ -2,7 +2,7 @@
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
   "stan_na_dzien": "2026-09-22",
-  "sha256_zrodla": "41af7e936fe793a8dd65b278684313f4d19ba674d59eb180b41b168b027f03f7",
+  "sha256_zrodla": "263fdd3faf3430fe365f27aab373e07185f97d7b5a6f7df5b4b684b6b887774c",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -10,14 +10,15 @@
    "N07BB",
    "N07BC",
    "N02BF",
-   "N02AE01"
+   "N02AE01",
+   "C02AC02"
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2450,
-  "opakowania": 8947,
+  "produkty": 2461,
+  "opakowania": 8963,
   "bledy_parsowania_opakowan": 0,
-  "opakowania_bez_gtin": 1049,
+  "opakowania_bez_gtin": 1058,
   "opakowania_ze_statusem": {
    "Skasowane": 327
   },
@@ -35495,7 +35496,7 @@
    ],
    "podmiot": "Delfarma Sp. z o.o.",
    "pozwolenie": "328/21",
-   "waznosc_pozwolenia": "2026-09-07",
+   "waznosc_pozwolenia": "2031-09-07",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -51769,6 +51770,375 @@
      "pozwolenie_eu": null,
      "id_opakowania": "114689",
      "opis": "120 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100090715",
+   "nazwa": "Intuniv",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacini hydrochloridum 1 mg",
+   "moc": "1 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Takeda Pharmaceuticals International AG",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/001",
+     "id_opakowania": "111248",
+     "opis": "7 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/002",
+     "id_opakowania": "111249",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100126175",
+   "nazwa": "Intuniv",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacini hydrochloridum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Takeda Pharmaceuticals International AG",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/003",
+     "id_opakowania": "111250",
+     "opis": "7 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/004",
+     "id_opakowania": "111251",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/005",
+     "id_opakowania": "111252",
+     "opis": "84 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100236001",
+   "nazwa": "Intuniv",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacini hydrochloridum 3 mg",
+   "moc": "3 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Takeda Pharmaceuticals International AG",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/006",
+     "id_opakowania": "111253",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/007",
+     "id_opakowania": "111254",
+     "opis": "84 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100157974",
+   "nazwa": "Intuniv",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacini hydrochloridum 4 mg",
+   "moc": "4 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Takeda Pharmaceuticals International AG",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/008",
+     "id_opakowania": "111255",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/15/1040/009",
+     "id_opakowania": "111256",
+     "opis": "84 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100514987",
+   "nazwa": "Paxneury",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacinum 1 mg",
+   "moc": "1 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Neuraxpharm Pharmaceuticals, S.L.",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08436027473572",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/24/1908/001",
+     "id_opakowania": "160976",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100514994",
+   "nazwa": "Paxneury",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacinum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Neuraxpharm Pharmaceuticals, S.L.",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08436027473589",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/24/1908/002",
+     "id_opakowania": "160977",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100515007",
+   "nazwa": "Paxneury",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacinum 3 mg",
+   "moc": "3 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Neuraxpharm Pharmaceuticals, S.L.",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08436027473596",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/24/1908/003",
+     "id_opakowania": "160978",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100515014",
+   "nazwa": "Paxneury",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacinum 4 mg",
+   "moc": "4 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Neuraxpharm Pharmaceuticals, S.L.",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08436027473602",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/24/1908/004",
+     "id_opakowania": "160979",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100515021",
+   "nazwa": "Paxneury",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacinum 5 mg",
+   "moc": "5 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Neuraxpharm Pharmaceuticals, S.L.",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08436027473619",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/24/1908/005",
+     "id_opakowania": "160980",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100515039",
+   "nazwa": "Paxneury",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacinum 6 mg",
+   "moc": "6 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Neuraxpharm Pharmaceuticals, S.L.",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08436027473626",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/24/1908/006",
+     "id_opakowania": "160981",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100515046",
+   "nazwa": "Paxneury",
+   "nazwa_powszechna": "Guanfacinum",
+   "substancja": "Guanfacinum 7 mg",
+   "moc": "7 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "C02AC02"
+   ],
+   "podmiot": "Neuraxpharm Pharmaceuticals, S.L.",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08436027473633",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/24/1908/007",
+     "id_opakowania": "160982",
+     "opis": "28 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -82370,7 +82740,7 @@
    "id": "100163555",
    "nazwa": "ValproLEK 500",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Acidum valproicum + Natrii valproas",
+   "substancja": "Natrii valproas + Acidum valproicum",
    "moc": "500 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [

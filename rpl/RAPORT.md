@@ -1,10 +1,10 @@
 # Spis RPL — leki psychiatryczne
 
 Stan RPL: 2026-09-22  
-Produkty: 2450, opakowania: 8947 (bez GTIN: 1049), błędy odczytu: 0, odczyt kontrolny: 0  
+Produkty: 2461, opakowania: 8963 (bez GTIN: 1058), błędy odczytu: 0, odczyt kontrolny: 0  
 Statusy opakowań: {'Skasowane': 327}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `ca3f2c67479d8ba9329fb4eb128fc2e06e1aaa2d4be870b8bf43e9587562f40a`
+sha256 spisu: `a6152c135cca3f6299e2856326bb724ab83e364e1abb37ad33fc83679b9f8426`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
@@ -78,6 +78,7 @@ sha256 spisu: `ca3f2c67479d8ba9329fb4eb128fc2e06e1aaa2d4be870b8bf43e9587562f40a`
 - **Ginkgo bilobae folii tinctura**: Płyn doustny: -
 - **Ginkgo folii extractum siccum**: Tabletki powlekane: 40 mg
 - **Ginkgonis extractum siccum raffinatum et quantificatum**: Kapsułki twarde: 120 mg, 80 mg; Tabletki powlekane: 120 mg, 240 mg
+- **Guanfacinum**: Tabletki o przedłużonym uwalnianiu: 1 mg, 2 mg, 3 mg, 4 mg, 5 mg, 6 mg, 7 mg
 - **Haloperidoli decanoas**: Roztwór do wstrzykiwań: 50 mg/ml
 - **Haloperidolum**: Krople doustne, roztwór: 2 mg/ml; Roztwór do wstrzykiwań: 5 mg/ml; Tabletki: 1 mg, 5 mg
 - **Hydroxyzini hydrochloridum**: Roztwór do wstrzykiwań: 50 mg/ml; Syrop: 10 mg/5 ml, 100 mg, 2 mg/ml; Tabletki powlekane: 10 mg, 25 mg, 25,00 mg
