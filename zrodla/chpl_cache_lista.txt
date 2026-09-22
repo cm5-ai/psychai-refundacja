@@ -1,42 +1,118 @@
 # CHPL_CACHE — substancje objete cache'em.
-# Jedna nazwa na linie, po polsku, tak jak nazywa sie karta w DRUG_DB.
-# Kazda pozycja = jeden plik chpl/<nazwa>.json w repo.
+# Zakres: leki wystepujace w Jaremie "Psychiatria" + karty DRUG_DB.
+# Jedna nazwa na linie, po polsku. Kazda pozycja = jeden plik chpl/<nazwa>.json.
+# Ksiazka decyduje TYLKO o tym, ktory lek jest na liscie. Liczby pochodza z ChPL.
+
+# --- przeciwdepresyjne
 sertralina
 escitalopram
+citalopram
 fluoksetyna
+fluwoksamina
 paroksetyna
 wenlafaksyna
 duloksetyna
+reboksetyna
+mianseryna
 mirtazapina
 trazodon
 bupropion
+tianeptyna
 agomelatyna
+moklobemid
+amitryptylina
+klomipramina
+imipramina
+doksepina
+nortryptylina
+
+# --- przeciwpsychotyczne
+klozapina
 kwetiapina
 olanzapina
 arypiprazol
 risperidon
+amisulpryd
+ziprasidon
+sertindol
 haloperidol
+perazyna
+perfenazyna
+flufenazyna
+chlorpromazyna
+lewomepromazyna
+promazyna
+prometazyna
+chlorprotiksen
+zuklopentiksol
+flupentiksol
+sulpiryd
+tiapryd
+
+# --- normotymiczne i przeciwpadaczkowe
+lit
+walproinian
+karbamazepina
 lamotrygina
+okskarbazepina
+topiramat
+gabapentyna
 pregabalina
-amitryptylina
-klomipramina
-doksepina
-imipramina
-zopiklon
-zolpidem
-alprazolam
-lorazepam
-klonazepam
-temazepam
-bromazepam
+
+# --- anksjolityki i nasenne
 diazepam
+lorazepam
+oksazepam
+klonazepam
+alprazolam
+bromazepam
+klorazepat
+chlordiazepoksyd
+midazolam
 estazolam
+temazepam
+nitrazepam
+zolpidem
+zopiklon
+zaleplon
+melatonina
 hydroksyzyna
 buspiron
-prometazyna
+
+# --- otepienie
+donepezil
+riwastygmina
+galantamina
+memantyna
+
+# --- ADHD i psychostymulujace
 atomoksetyna
 metylofenidat
 lisdeksamfetamina
 guanfacyna
-walproinian
-lit
+modafinil
+
+# --- uzaleznienia
+naltrekson
+akamprozat
+disulfiram
+metadon
+buprenorfina
+
+# --- objawy pozapiramidowe i wegetatywne
+biperyden
+triheksyfenidyl
+amantadyna
+propranolol
+
+# --- dopisane po konsultacji z Grokiem 2026-09-22 (realia PZP 2026)
+wortioksetyna
+opipramol
+milnacipran
+kariprazyna
+lurazydon
+paliperydon
+pipamperon
+deksamfetamina
+nalmefen
+esketamina

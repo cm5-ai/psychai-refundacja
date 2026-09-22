@@ -12,7 +12,7 @@ MAX_PRODUKTOW = 3            # na substancje; ChPL nalezy do PRODUKTU
 def norm(s):
     s = unicodedata.normalize('NFKD', s.lower())
     s = ''.join(c for c in s if not unicodedata.combining(c))
-    for a, b in (("qu", "kw"), ("ph", "f"), ("th", "t"), ("x", "ks"), ("v", "w"), ("y", "i"), ("c", "k")):
+    for a, b in (("z", "s"), ("qu", "kw"), ("ph", "f"), ("th", "t"), ("x", "ks"), ("v", "w"), ("y", "i"), ("c", "k")):
         s = s.replace(a, b)
     return s
 
