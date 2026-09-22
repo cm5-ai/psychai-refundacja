@@ -6,8 +6,31 @@ import json, re, os, sys, subprocess, tempfile, argparse, unicodedata
 
 def norm(s):
     s = unicodedata.normalize('NFKD', s.lower()); s = ''.join(c for c in s if not unicodedata.combining(c))
-    for a, b in (("ph","f"),("th","t"),("x","ks"),("v","w"),("y","i"),("c","k")): s = s.replace(a, b)
+    for a, b in (("qu","kw"),("ph","f"),("th","t"),("x","ks"),("v","w"),("y","i"),("c","k")): s = s.replace(a, b)
     return s
+
+def szkielet(s):
+    "Szkielet spolgloskowy - zdejmuje roznice PL/lacina (metylofenidat vs Methylphenidati)."
+    return re.sub(r'[^bcdfghjklmnpqrstvwxz]', '', norm(s))
+
+# Nazwa polska vs lacinska rozchodzi sie tak, ze szkielet nie wystarcza.
+SYNONIMY = {"walproinian": ["valproicum", "valproas"], "kwas walproinowy": ["valproicum"],
+            "lit": ["lithii", "lithium"], "weglan litu": ["lithii carbonas"]}
+
+def dopasuj(zapyt, produkty):
+    "Zwraca liste produktow. Pusta lista = NIE ZNALEZIONO, nie 'nie ma'."
+    trafy, widziane = [], set()
+    q = szkielet(zapyt)[:5]
+    if len(q) >= 4:
+        for p in produkty:
+            if q in szkielet(p.get("substancja","") + " " + p.get("nazwa","")):
+                if id(p) not in widziane: widziane.add(id(p)); trafy.append(p)
+    for syn in SYNONIMY.get(zapyt.lower().strip(), []):
+        qs = norm(syn)[:5]
+        for p in produkty:
+            if qs in norm(p.get("substancja","") + " " + p.get("nazwa","")):
+                if id(p) not in widziane: widziane.add(id(p)); trafy.append(p)
+    return trafy
 
 def pdf_tekst(url):
     with tempfile.TemporaryDirectory() as t:
@@ -37,9 +60,8 @@ if x.produkt:
     cele = [("(podany ID)", f"https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/{x.produkt}/characteristic")]
 else:
     for s in [q.strip() for q in x.substancje.split(",") if q.strip()]:
-        q = norm(s)[:6]
-        pr = [p for p in d["produkty"] if q in norm(p.get("substancja","") + " " + p.get("nazwa",""))]
-        if not pr: print(f"\n## {s.upper()}: BRAK W SPISIE RPL (spis obejmuje wybrane ATC) — podaj --produkt ID albo poszerz spis"); continue
+        pr = dopasuj(s, d["produkty"])
+        if not pr: print(f"\n## {s.upper()}: NIE ZNALEZIONO W SPISIE RPL — to nie znaczy, ze produktu nie ma (spis obejmuje wybrane ATC). Podaj --produkt ID albo poszerz spis."); continue
         widz = {}
         for p in pr: widz.setdefault(p.get("nazwa","?"), p)
         for p in list(widz.values())[:2]: cele.append((f"{s.upper()} / {p.get('nazwa')} {p.get('moc','')}", p.get("chpl")))
