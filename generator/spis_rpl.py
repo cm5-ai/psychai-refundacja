@@ -86,6 +86,14 @@ def main(csv_path, refund_path, out_json, out_md):
     nowe_k = [(p, k) for p in prods for k in p["komunikaty_bezpieczenstwa"] if (p["id"], k) not in old_k]
     meta["komunikaty_produkty"] = sum(1 for p in prods if p["komunikaty_bezpieczenstwa"])
     meta["nowe_komunikaty"] = 0 if pierwszy else len(nowe_k)
+    # BLOKADA PRZED ZAPISEM. Do 2026-09-23 ta kontrola stala PO zapisaniu
+    # rpl/RPL_PSYCH.json, a workflow mial "if: always()" i commitowal mimo
+    # kodu 2. Wynik: spis odrzucony jako podejrzany i tak trafial do repo,
+    # skad czyta go modul 19 (RPL_SPIS) przy wizycie.
+    if meta["produkty"] < 300 or bad_pkg > meta["produkty"] * 0.01:
+        print("produkty", meta["produkty"], "bledy", bad_pkg)
+        print("BLOKADA: podejrzanie mało produktów albo błędy odczytu opakowań")
+        sys.exit(2)
     K = ["# Komunikaty bezpieczeństwa — leki psychiatryczne (RPL)", "", "Stan RPL: %s" % meta["stan_na_dzien"], ""]
     if pierwszy: K += ["Pierwszy przebieg — stan wyjściowy, bez porównania.", ""]
     elif nowe_k: K += ["## NOWE od poprzedniego spisu (%d)" % len(nowe_k), ""] + ["- **%s** (%s, %s) — %s" % (p["nazwa"], p["nazwa_powszechna"], p["moc"], k) for p, k in nowe_k] + [""]
@@ -115,7 +123,6 @@ def main(csv_path, refund_path, out_json, out_md):
     print("nowe_komunikaty", meta["nowe_komunikaty"])
     if meta["nowe_komunikaty"]: open("NOWE_KOMUNIKATY", "w").write(str(meta["nowe_komunikaty"]))
     print("produkty", meta["produkty"], "opakowania", meta["opakowania"], "bledy", bad_pkg, "A1_bez_RPL", len(A1_bez_rpl))
-    if meta["produkty"] < 300 or bad_pkg > meta["produkty"] * 0.01: print("BLOKADA: podejrzanie mało produktów albo błędy odczytu opakowań"); sys.exit(2)
     print("OK")
 
 if __name__ == "__main__": main(*sys.argv[1:5])

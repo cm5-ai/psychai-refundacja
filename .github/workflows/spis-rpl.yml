@@ -29,7 +29,11 @@ jobs:
         if: always()
         run: |
           git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
-          git add rpl/ wyniki/ && git commit -m "Spis RPL $(TZ=Europe/Warsaw date +%F)" && git push || true
+          # Dane spisu zapisujemy TYLKO przy powodzeniu. Log zawsze.
+          # Wczesniej bylo "git add rpl/ wyniki/" przy if: always(), wiec
+          # spis odrzucony przez BLOKADE i tak trafial do repo i do modulu 19.
+          if [ "${{ job.status }}" = "success" ]; then git add rpl/ wyniki/; else git add wyniki/; fi
+          git commit -m "Spis RPL $(TZ=Europe/Warsaw date +%F) ${{ job.status }}" && git push || true
       - name: Powiadom o nowych komunikatach bezpieczeństwa
         if: always()
         env:
