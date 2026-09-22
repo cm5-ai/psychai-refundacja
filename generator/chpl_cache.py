@@ -84,7 +84,12 @@ def punkty(t, chce):
 
 
 def plik_nazwy(s):
-    return re.sub(r'[^a-z0-9]+', '_', norm(s)).strip('_')
+    """Nazwa pliku STABILNA: tylko bez znakow diakrytycznych i malymi literami.
+    NIE uzywa norm() - norm() sluzy do dopasowania i jego zmiana (np. z->s)
+    przemianowywala pliki, zostawiajac w repo sieroty ze starymi danymi."""
+    b = unicodedata.normalize('NFKD', s.lower())
+    b = ''.join(c for c in b if not unicodedata.combining(c))
+    return re.sub(r'[^a-z0-9]+', '_', b).strip('_')
 
 
 ap = argparse.ArgumentParser()
@@ -143,6 +148,19 @@ for s in substancje:
               ensure_ascii=False, indent=1)
     indeks[s] = {"plik": f"{KATALOG}/{plik}.json", "stan": "OK", "pobrano": dzis,
                  "produkty": [p["nazwa"] for p in rekord["produkty"]]}
+
+# Sprzatanie sierot: plik, ktorego INDEX nie wskazuje, nie ma prawa zostac
+# w repo - runtime moze go trafic zgadujac nazwe i przeczytac stare dane.
+# ZABEZPIECZENIE: kasowanie wylacznie po PELNYM przebiegu generujacym kompletny
+# INDEX; tryb --tylko nie usuwa zadnych plikow spoza aktualizowanego zakresu.
+if x.tylko:
+    print("tryb --tylko: sprzatanie sierot POMINIETE (niepelny przebieg)")
+else:
+    uzywane = {os.path.basename(v["plik"]) for v in indeks.values() if v.get("plik")}
+    for f in sorted(os.listdir(KATALOG)):
+        if f.endswith(".json") and f != "INDEX.json" and f not in uzywane:
+            os.remove(os.path.join(KATALOG, f))
+            print(f"sierota usunieta: {KATALOG}/{f}")
 
 json.dump({"opis": "Indeks CHPL_CACHE. Wlascicielem pinu jest sekcja CHPL_WYCIAG w module 19.",
            "zbudowano": dzis, "punkty": sorted(chce), "substancje": indeks},
