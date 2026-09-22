@@ -1,0 +1,44 @@
+name: CHPL cache
+
+on:
+  workflow_dispatch:
+    inputs:
+      tylko:
+        description: "Tylko te substancje (po przecinku). Puste = cala lista."
+        required: false
+        default: ""
+      punkty:
+        description: "Punkty ChPL"
+        required: false
+        default: "4.1,4.2,4.3,4.4,4.5,4.6,4.8,5.2"
+  schedule:
+    # 5. dnia miesiaca, 04:20 UTC — odswiezenie przed progiem 45 dni z modulu 19
+    - cron: "20 4 5 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zaleznosci
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Budowa cache
+        run: |
+          python3 generator/chpl_cache.py \
+            --lista zrodla/chpl_cache_lista.txt \
+            --tylko "${{ inputs.tylko }}" \
+            --punkty "${{ inputs.punkty || '4.1,4.2,4.3,4.4,4.5,4.6,4.8,5.2' }}"
+      - name: Commit
+        run: |
+          git config user.name "chpl-cache"
+          git config user.email "actions@github.com"
+          git add chpl/
+          if git diff --cached --quiet; then
+            echo "Bez zmian w ChPL."
+          else
+            git commit -m "CHPL_CACHE: odswiezenie $(date +%F)"
+            git push
+          fi

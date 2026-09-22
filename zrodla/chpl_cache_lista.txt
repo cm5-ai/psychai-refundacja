@@ -1,0 +1,42 @@
+# CHPL_CACHE — substancje objete cache'em.
+# Jedna nazwa na linie, po polsku, tak jak nazywa sie karta w DRUG_DB.
+# Kazda pozycja = jeden plik chpl/<nazwa>.json w repo.
+sertralina
+escitalopram
+fluoksetyna
+paroksetyna
+wenlafaksyna
+duloksetyna
+mirtazapina
+trazodon
+bupropion
+agomelatyna
+kwetiapina
+olanzapina
+arypiprazol
+risperidon
+haloperidol
+lamotrygina
+pregabalina
+amitryptylina
+klomipramina
+doksepina
+imipramina
+zopiklon
+zolpidem
+alprazolam
+lorazepam
+klonazepam
+temazepam
+bromazepam
+diazepam
+estazolam
+hydroksyzyna
+buspiron
+prometazyna
+atomoksetyna
+metylofenidat
+lisdeksamfetamina
+guanfacyna
+walproinian
+lit
