@@ -1,0 +1,19 @@
+name: Wyciag z ChPL (na zadanie)
+on:
+  workflow_dispatch:
+    inputs:
+      substancje: {description: "np. lisdeksamfetamina,metylofenidat,atomoksetyna", required: true}
+      punkty:     {description: "punkty ChPL", required: false, default: "4.2,4.4,4.5,5.2"}
+      produkt:    {description: "opcjonalnie ID produktu w RPL (gdy brak w spisie)", required: false, default: ""}
+jobs:
+  wyciag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get -qq update && sudo apt-get -qq install -y poppler-utils
+      - name: Wyciag
+        run: |
+          python3 generator/chpl_wyciag.py "${{ inputs.substancje }}" --punkty "${{ inputs.punkty }}" \
+            ${{ inputs.produkt != '' && format('--produkt {0}', inputs.produkt) || '' }} | tee chpl.md
+      - uses: actions/upload-artifact@v4
+        with: {name: chpl-wyciag, path: chpl.md}
