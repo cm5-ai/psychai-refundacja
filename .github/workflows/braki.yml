@@ -1,0 +1,32 @@
+name: Braki MZ - wykaz zagrozonych
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 5 * * 1"   # co poniedzialek ok. 7:30 czasu polskiego
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  braki:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Narzedzia PDF
+        run: sudo apt-get install -y -qq poppler-utils >/dev/null
+      - name: Szukaj obwieszczenia
+        run: python3 generator/braki.py
+      - name: Zapisz
+        if: always()
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          git add braki/ zrodla/braki_stan.json && git commit -qm "Braki MZ $(TZ=Europe/Warsaw date +%F)" && git push || true
+      - name: Zgloszenie
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          [ -f ZGLOSZENIE ] && gh issue create --title "Braki MZ - nowe obwieszczenie $(TZ=Europe/Warsaw date +%F)" --body-file ZGLOSZENIE || true
