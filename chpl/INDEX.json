@@ -23,7 +23,7 @@
    ]
   },
   "escitalopram": {
-   "plik": "chpl/eskitalopram.json",
+   "plik": "chpl/escitalopram.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -33,7 +33,7 @@
    ]
   },
   "fluoksetyna": {
-   "plik": "chpl/fluoksetina.json",
+   "plik": "chpl/fluoksetyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -43,7 +43,7 @@
    ]
   },
   "paroksetyna": {
-   "plik": "chpl/paroksetina.json",
+   "plik": "chpl/paroksetyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -53,7 +53,7 @@
    ]
   },
   "wenlafaksyna": {
-   "plik": "chpl/wenlafaksina.json",
+   "plik": "chpl/wenlafaksyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -63,7 +63,7 @@
    ]
   },
   "duloksetyna": {
-   "plik": "chpl/duloksetina.json",
+   "plik": "chpl/duloksetyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -73,7 +73,7 @@
    ]
   },
   "mirtazapina": {
-   "plik": "chpl/mirtasapina.json",
+   "plik": "chpl/mirtazapina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -83,7 +83,7 @@
    ]
   },
   "trazodon": {
-   "plik": "chpl/trasodon.json",
+   "plik": "chpl/trazodon.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -103,7 +103,7 @@
    ]
   },
   "agomelatyna": {
-   "plik": "chpl/agomelatina.json",
+   "plik": "chpl/agomelatyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -123,7 +123,7 @@
    ]
   },
   "olanzapina": {
-   "plik": "chpl/olansapina.json",
+   "plik": "chpl/olanzapina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -133,7 +133,7 @@
    ]
   },
   "arypiprazol": {
-   "plik": "chpl/aripiprasol.json",
+   "plik": "chpl/arypiprazol.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -163,7 +163,7 @@
    ]
   },
   "lamotrygina": {
-   "plik": "chpl/lamotrigina.json",
+   "plik": "chpl/lamotrygina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -183,7 +183,7 @@
    ]
   },
   "amitryptylina": {
-   "plik": "chpl/amitriptilina.json",
+   "plik": "chpl/amitryptylina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -213,7 +213,7 @@
    "sprawdzono": "2026-09-22"
   },
   "zopiklon": {
-   "plik": "chpl/sopiklon.json",
+   "plik": "chpl/zopiklon.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -223,7 +223,7 @@
    ]
   },
   "zolpidem": {
-   "plik": "chpl/solpidem.json",
+   "plik": "chpl/zolpidem.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -233,7 +233,7 @@
    ]
   },
   "alprazolam": {
-   "plik": "chpl/alprasolam.json",
+   "plik": "chpl/alprazolam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -243,7 +243,7 @@
    ]
   },
   "lorazepam": {
-   "plik": "chpl/lorasepam.json",
+   "plik": "chpl/lorazepam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -253,7 +253,7 @@
    ]
   },
   "klonazepam": {
-   "plik": "chpl/klonasepam.json",
+   "plik": "chpl/klonazepam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -262,7 +262,7 @@
    ]
   },
   "temazepam": {
-   "plik": "chpl/temasepam.json",
+   "plik": "chpl/temazepam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -271,7 +271,7 @@
    ]
   },
   "bromazepam": {
-   "plik": "chpl/bromasepam.json",
+   "plik": "chpl/bromazepam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -281,7 +281,7 @@
    ]
   },
   "diazepam": {
-   "plik": "chpl/diasepam.json",
+   "plik": "chpl/diazepam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -291,7 +291,7 @@
    ]
   },
   "estazolam": {
-   "plik": "chpl/estasolam.json",
+   "plik": "chpl/estazolam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -301,7 +301,7 @@
    ]
   },
   "hydroksyzyna": {
-   "plik": "chpl/hidroksisina.json",
+   "plik": "chpl/hydroksyzyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -319,7 +319,7 @@
    ]
   },
   "prometazyna": {
-   "plik": "chpl/prometasina.json",
+   "plik": "chpl/prometazyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -329,7 +329,7 @@
    ]
   },
   "atomoksetyna": {
-   "plik": "chpl/atomoksetina.json",
+   "plik": "chpl/atomoksetyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -339,7 +339,7 @@
    ]
   },
   "metylofenidat": {
-   "plik": "chpl/metilofenidat.json",
+   "plik": "chpl/metylofenidat.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -359,7 +359,7 @@
    ]
   },
   "guanfacyna": {
-   "plik": "chpl/guanfakina.json",
+   "plik": "chpl/guanfacyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -386,7 +386,7 @@
    ]
   },
   "citalopram": {
-   "plik": "chpl/kitalopram.json",
+   "plik": "chpl/citalopram.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -404,7 +404,7 @@
    ]
   },
   "reboksetyna": {
-   "plik": "chpl/reboksetina.json",
+   "plik": "chpl/reboksetyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -412,7 +412,7 @@
    ]
   },
   "mianseryna": {
-   "plik": "chpl/mianserina.json",
+   "plik": "chpl/mianseryna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -422,7 +422,7 @@
    ]
   },
   "tianeptyna": {
-   "plik": "chpl/tianeptina.json",
+   "plik": "chpl/tianeptyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -447,7 +447,7 @@
    "sprawdzono": "2026-09-22"
   },
   "klozapina": {
-   "plik": "chpl/klosapina.json",
+   "plik": "chpl/klozapina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -457,7 +457,7 @@
    ]
   },
   "amisulpryd": {
-   "plik": "chpl/amisulprid.json",
+   "plik": "chpl/amisulpryd.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -467,7 +467,7 @@
    ]
   },
   "ziprasidon": {
-   "plik": "chpl/siprasidon.json",
+   "plik": "chpl/ziprasidon.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -483,7 +483,7 @@
    ]
   },
   "perazyna": {
-   "plik": "chpl/perasina.json",
+   "plik": "chpl/perazyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -503,7 +503,7 @@
    "sprawdzono": "2026-09-22"
   },
   "chlorpromazyna": {
-   "plik": "chpl/khlorpromasina.json",
+   "plik": "chpl/chlorpromazyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -513,7 +513,7 @@
    ]
   },
   "lewomepromazyna": {
-   "plik": "chpl/lewomepromasina.json",
+   "plik": "chpl/lewomepromazyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -522,7 +522,7 @@
    ]
   },
   "promazyna": {
-   "plik": "chpl/promasina.json",
+   "plik": "chpl/promazyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -531,7 +531,7 @@
    ]
   },
   "chlorprotiksen": {
-   "plik": "chpl/khlorprotiksen.json",
+   "plik": "chpl/chlorprotiksen.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -541,7 +541,7 @@
    ]
   },
   "zuklopentiksol": {
-   "plik": "chpl/suklopentiksol.json",
+   "plik": "chpl/zuklopentiksol.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -560,7 +560,7 @@
    ]
   },
   "sulpiryd": {
-   "plik": "chpl/sulpirid.json",
+   "plik": "chpl/sulpiryd.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -569,7 +569,7 @@
    ]
   },
   "tiapryd": {
-   "plik": "chpl/tiaprid.json",
+   "plik": "chpl/tiapryd.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -578,7 +578,7 @@
    ]
   },
   "karbamazepina": {
-   "plik": "chpl/karbamasepina.json",
+   "plik": "chpl/karbamazepina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -588,7 +588,7 @@
    ]
   },
   "okskarbazepina": {
-   "plik": "chpl/okskarbasepina.json",
+   "plik": "chpl/okskarbazepina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -608,7 +608,7 @@
    ]
   },
   "gabapentyna": {
-   "plik": "chpl/gabapentina.json",
+   "plik": "chpl/gabapentyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -618,7 +618,7 @@
    ]
   },
   "oksazepam": {
-   "plik": "chpl/oksasepam.json",
+   "plik": "chpl/oksazepam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -628,7 +628,7 @@
    ]
   },
   "klorazepat": {
-   "plik": "chpl/klorasepat.json",
+   "plik": "chpl/klorazepat.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -638,7 +638,7 @@
    ]
   },
   "chlordiazepoksyd": {
-   "plik": "chpl/khlordiasepoksid.json",
+   "plik": "chpl/chlordiazepoksyd.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -647,7 +647,7 @@
    ]
   },
   "midazolam": {
-   "plik": "chpl/midasolam.json",
+   "plik": "chpl/midazolam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -657,7 +657,7 @@
    ]
   },
   "nitrazepam": {
-   "plik": "chpl/nitrasepam.json",
+   "plik": "chpl/nitrazepam.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -666,7 +666,7 @@
    ]
   },
   "zaleplon": {
-   "plik": "chpl/saleplon.json",
+   "plik": "chpl/zaleplon.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -684,7 +684,7 @@
    ]
   },
   "donepezil": {
-   "plik": "chpl/donepesil.json",
+   "plik": "chpl/donepezil.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -694,7 +694,7 @@
    ]
   },
   "riwastygmina": {
-   "plik": "chpl/riwastigmina.json",
+   "plik": "chpl/riwastygmina.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -712,7 +712,7 @@
    ]
   },
   "memantyna": {
-   "plik": "chpl/memantina.json",
+   "plik": "chpl/memantyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -739,7 +739,7 @@
    ]
   },
   "akamprozat": {
-   "plik": "chpl/akamprosat.json",
+   "plik": "chpl/akamprozat.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -796,7 +796,7 @@
    "sprawdzono": "2026-09-22"
   },
   "wortioksetyna": {
-   "plik": "chpl/wortioksetina.json",
+   "plik": "chpl/wortioksetyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -821,7 +821,7 @@
    "sprawdzono": "2026-09-22"
   },
   "kariprazyna": {
-   "plik": "chpl/kariprasina.json",
+   "plik": "chpl/kariprazyna.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -829,7 +829,7 @@
    ]
   },
   "lurazydon": {
-   "plik": "chpl/lurasidon.json",
+   "plik": "chpl/lurazydon.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
@@ -839,7 +839,7 @@
    ]
   },
   "paliperydon": {
-   "plik": "chpl/paliperidon.json",
+   "plik": "chpl/paliperydon.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
