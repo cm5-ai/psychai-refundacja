@@ -1,0 +1,388 @@
+{
+ "opis": "Indeks CHPL_CACHE. Wlascicielem pinu jest sekcja CHPL_WYCIAG w module 19.",
+ "zbudowano": "2026-09-22",
+ "punkty": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancje": {
+  "sertralina": {
+   "plik": "chpl/sertralina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "ApoSerta",
+    "Apiolin",
+    "Asentra"
+   ]
+  },
+  "escitalopram": {
+   "plik": "chpl/eskitalopram.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Aciprex",
+    "ApoEscitaxin ORO",
+    "Betesda"
+   ]
+  },
+  "fluoksetyna": {
+   "plik": "chpl/fluoksetina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Andepin",
+    "Bioxetin",
+    "Fluoksetyna EGIS"
+   ]
+  },
+  "paroksetyna": {
+   "plik": "chpl/paroksetina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Arketis tabletki 20 mg",
+    "ParoGen",
+    "Paroxetine Aurovitas"
+   ]
+  },
+  "wenlafaksyna": {
+   "plik": "chpl/wenlafaksina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Alventa",
+    "Axyven",
+    "Efectin ER 150"
+   ]
+  },
+  "duloksetyna": {
+   "plik": "chpl/duloksetina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "AuroDulox",
+    "Cymbalta",
+    "Depratal"
+   ]
+  },
+  "mirtazapina": {
+   "plik": "chpl/mirtazapina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "AuroMirta ORO",
+    "Mirtagen",
+    "Mirtazapine Bluefish"
+   ]
+  },
+  "trazodon": {
+   "plik": "chpl/trazodon.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Azoneurax",
+    "Trazodone Neuraxpharm",
+    "Trittico CR"
+   ]
+  },
+  "bupropion": {
+   "plik": "chpl/bupropion.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Bucidar",
+    "Bupropion Accord",
+    "Bupropion Hasco Lek"
+   ]
+  },
+  "agomelatyna": {
+   "plik": "chpl/agomelatina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Agolek",
+    "Agomelatine +pharma",
+    "Agomelatine Adamed"
+   ]
+  },
+  "kwetiapina": {
+   "plik": "chpl/kwetiapina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "ApoTiapina",
+    "ApoTiapina PR",
+    "Bonogren"
+   ]
+  },
+  "olanzapina": {
+   "plik": "chpl/olanzapina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Olanzin",
+    "Anzorin",
+    "Egolanza"
+   ]
+  },
+  "arypiprazol": {
+   "plik": "chpl/aripiprazol.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Abilify",
+    "Abilify Maintena",
+    "Abilium"
+   ]
+  },
+  "risperidon": {
+   "plik": "chpl/risperidon.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Okedi",
+    "Orizon",
+    "Risperidon Vipharm"
+   ]
+  },
+  "haloperidol": {
+   "plik": "chpl/haloperidol.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Decaldol",
+    "Haloperidol UNIA",
+    "Haloperidol WZF"
+   ]
+  },
+  "lamotrygina": {
+   "plik": "chpl/lamotrigina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Epitrigine 100 mg tabletki",
+    "Epitrigine 50 mg tabletki",
+    "Lamilept"
+   ]
+  },
+  "pregabalina": {
+   "plik": "chpl/pregabalina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Bulgaplin",
+    "Egzysta",
+    "Linefor"
+   ]
+  },
+  "amitryptylina": {
+   "plik": "chpl/amitriptilina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Amitriptylinum VP"
+   ]
+  },
+  "klomipramina": {
+   "plik": "chpl/klomipramina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Anafranil",
+    "Anafranil SR 75"
+   ]
+  },
+  "doksepina": {
+   "plik": "chpl/doksepina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Doxepin Teva"
+   ]
+  },
+  "imipramina": {
+   "plik": "chpl/imipramina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Anafranil",
+    "Anafranil SR 75"
+   ]
+  },
+  "zopiklon": {
+   "plik": "chpl/zopiklon.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Esogno",
+    "ApoDream",
+    "Dobroson"
+   ]
+  },
+  "zolpidem": {
+   "plik": "chpl/zolpidem.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Apo-Zolpin",
+    "ApoZolpin",
+    "Hypnogen"
+   ]
+  },
+  "alprazolam": {
+   "plik": "chpl/alprazolam.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Afobam",
+    "Alpragen",
+    "Alpraxil"
+   ]
+  },
+  "lorazepam": {
+   "plik": "chpl/lorazepam.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Lorabex",
+    "Lorafen",
+    "Lorazepam Orion"
+   ]
+  },
+  "klonazepam": {
+   "plik": "chpl/klonazepam.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Clonazepamum TZF",
+    "Klonafen"
+   ]
+  },
+  "temazepam": {
+   "plik": "chpl/temazepam.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Signopam",
+    "Teseda"
+   ]
+  },
+  "bromazepam": {
+   "plik": "chpl/bromazepam.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Bromox",
+    "Lexotan",
+    "Sedam 3"
+   ]
+  },
+  "diazepam": {
+   "plik": "chpl/diazepam.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Diazepam Genoptim",
+    "Diazepam Grindeks",
+    "Neorelium"
+   ]
+  },
+  "estazolam": {
+   "plik": "chpl/estazolam.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Estazolam Espefa",
+    "Estazolam Polfarmex",
+    "Estazolam TZF"
+   ]
+  },
+  "hydroksyzyna": {
+   "plik": "chpl/hidroksizina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Atarax",
+    "Comfortin",
+    "Hydroxyzine Orion"
+   ]
+  },
+  "buspiron": {
+   "plik": "chpl/buspiron.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Spamilan"
+   ]
+  },
+  "prometazyna": {
+   "plik": null,
+   "stan": "NIE_ZNALEZIONO_W_SPISIE",
+   "sprawdzono": "2026-09-22"
+  },
+  "atomoksetyna": {
+   "plik": "chpl/atomoksetina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Atofab",
+    "Atomoksetyna Medice",
+    "Auroxetyn"
+   ]
+  },
+  "metylofenidat": {
+   "plik": "chpl/metilofenidat.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Adehader",
+    "Atenza",
+    "Cognimentin LA"
+   ]
+  },
+  "lisdeksamfetamina": {
+   "plik": "chpl/lisdeksamfetamina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Eldefab",
+    "Elvanse",
+    "Lisdexamfetamine Aristo"
+   ]
+  },
+  "guanfacyna": {
+   "plik": "chpl/guanfakina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Intuniv",
+    "Paxneury"
+   ]
+  },
+  "walproinian": {
+   "plik": "chpl/walproinian.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Convulex",
+    "Convulex 150",
+    "Convulex 300"
+   ]
+  },
+  "lit": {
+   "plik": "chpl/lit.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Lithium Carbonicum GSK"
+   ]
+  }
+ }
+}
