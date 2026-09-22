@@ -11,16 +11,17 @@
    "N07BC",
    "N02BF",
    "N02AE01",
-   "C02AC02"
+   "C02AC02",
+   "R06AD02"
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2461,
-  "opakowania": 8963,
+  "produkty": 2465,
+  "opakowania": 8975,
   "bledy_parsowania_opakowan": 0,
-  "opakowania_bez_gtin": 1058,
+  "opakowania_bez_gtin": 1060,
   "opakowania_ze_statusem": {
-   "Skasowane": 327
+   "Skasowane": 332
   },
   "odczyt_kontrolny": 0,
   "komunikaty_produkty": 149,
@@ -109455,6 +109456,202 @@
      "pozwolenie_eu": null,
      "id_opakowania": "122122",
      "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100019309",
+   "nazwa": "Diphergan",
+   "nazwa_powszechna": "Promethazini hydrochloridum",
+   "substancja": "Promethazini hydrochloridum 10 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki drażowane",
+   "atc": [
+    "R06AD02"
+   ],
+   "podmiot": "Bausch Health Ireland Ltd.",
+   "pozwolenie": "02283",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1930/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1930/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990228317",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "3203",
+     "opis": "20 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990228324",
+     "kategoria": "Rp",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "3204",
+     "opis": "60 draż.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990228331",
+     "kategoria": "Rp",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "3205",
+     "opis": "250 draż.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100019315",
+   "nazwa": "Diphergan",
+   "nazwa_powszechna": "Promethazini hydrochloridum",
+   "substancja": "Promethazini hydrochloridum 25 mg",
+   "moc": "25 mg",
+   "postac": "Tabletki drażowane",
+   "atc": [
+    "R06AD02"
+   ],
+   "podmiot": "Bausch Health Ireland Ltd.",
+   "pozwolenie": "01078",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1931/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1931/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990107810",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "3206",
+     "opis": "20 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rp",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "3207",
+     "opis": "60 draż.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rp",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "3208",
+     "opis": "250 draż.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100082495",
+   "nazwa": "Diphergan",
+   "nazwa_powszechna": "Promethazini hydrochloridum",
+   "substancja": "Promethazini hydrochloridum 5 mg/5 ml",
+   "moc": "5 mg/5 ml",
+   "postac": "Syrop",
+   "atc": [
+    "R06AD02"
+   ],
+   "podmiot": "Bausch Health Ireland Ltd.",
+   "pozwolenie": "08046",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8249/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8249/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990804610",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "12412",
+     "opis": "1 butelka 150 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100204538",
+   "nazwa": "Polfergan",
+   "nazwa_powszechna": "Promethazini hydrochloridum",
+   "substancja": "Promethazini hydrochloridum 0.1 g/100 ml",
+   "moc": "5 mg/5 ml",
+   "postac": "Syrop",
+   "atc": [
+    "R06AD02"
+   ],
+   "podmiot": "Polfarmex S.A.",
+   "pozwolenie": "01389",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20453/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20453/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990138913",
+     "kategoria": "Rp",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "3211",
+     "opis": "1 fl. 50 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990664535",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "46151",
+     "opis": "1 butelka 150 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990138920",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "48477",
+     "opis": "1 butelka 150 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990732555",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "53402",
+     "opis": "1 butelka 150 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990732562",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "53406",
+     "opis": "1 butelka 150 ml",
      "refundacja_A1": null,
      "refundacja_LP": null
     }

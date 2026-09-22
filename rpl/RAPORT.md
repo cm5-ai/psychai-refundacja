@@ -1,10 +1,10 @@
 # Spis RPL — leki psychiatryczne
 
 Stan RPL: 2026-09-22  
-Produkty: 2461, opakowania: 8963 (bez GTIN: 1058), błędy odczytu: 0, odczyt kontrolny: 0  
-Statusy opakowań: {'Skasowane': 327}  
+Produkty: 2465, opakowania: 8975 (bez GTIN: 1060), błędy odczytu: 0, odczyt kontrolny: 0  
+Statusy opakowań: {'Skasowane': 332}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `a6152c135cca3f6299e2856326bb724ab83e364e1abb37ad33fc83679b9f8426`
+sha256 spisu: `25a680cf0556c612e46a04e674c31caf2e07a815872e0d8182e178a220fc43f9`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
@@ -140,6 +140,7 @@ sha256 spisu: `a6152c135cca3f6299e2856326bb724ab83e364e1abb37ad33fc83679b9f8426`
 - **Primidonum**: Tabletki: 250 mg
 - **Prochlorperazini  dimaleas**: Tabletki: 10 mg
 - **Promazini hydrochloridum**: Tabletki drażowane: 100 mg, 25 mg, 50 mg; Tabletki powlekane: 100 mg, 25 mg, 50 mg
+- **Promethazini hydrochloridum**: Syrop: 5 mg/5 ml; Tabletki drażowane: 10 mg, 25 mg
 - **Quetiapinum**: Tabletki o przedłużonym uwalnianiu: 150 mg, 200 mg, 300 mg, 400 mg, 50 mg, 600 mg; Tabletki powlekane: 100 mg, 150 mg, 200 mg, 25 mg, 300 mg; Zawiesina doustna: 25 mg/ml
 - **Reboxetinum**: Tabletki: 4 mg
 - **Remimazolamum**: Proszek do sporządzania koncentratu roztworu do wstrzykiwań lub infuzji: 50 mg; Proszek do sporządzania roztworu do wstrzykiwań: 20 mg
