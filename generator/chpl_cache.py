@@ -5,7 +5,8 @@ Uzycie: python3 generator/chpl_cache.py --lista zrodla/chpl_cache_lista.txt [--t
 import json, re, os, sys, subprocess, tempfile, argparse, unicodedata, hashlib, datetime
 
 KATALOG = "chpl"
-LIMIT_ZNAKOW = 20000         # na punkt. Przy 6000 ucinalo klozapinie 4.2/4.4/4.5/4.8
+LIMIT_ZNAKOW = 200000        # praktycznie bez limitu. Przy 6000 ucinalo klozapinie 4.2/4.4/4.5/4.8,
+                             # przy 20000 nadal ucinalo klozapinie 4.4 (rozrost 5,2 MB -> ok. 5,4 MB)
                              # i metadonowi 4.2 - czyli progi przerwania i dawkowanie.
 MAX_PRODUKTOW = 3            # na substancje; ChPL nalezy do PRODUKTU
 
