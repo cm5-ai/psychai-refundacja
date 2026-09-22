@@ -1,0 +1,83 @@
+== https://dziennikmz.mz.gov.pl/DUM_MZ/2026/50/akt.pdf
+HTTP 200 application/pdf 1087636
+== https://dziennikmz.mz.gov.pl/legalact/2026/
+HTTP 200 text/html; charset=utf-8 21529
+== https://www.gov.pl/web/zdrowie/obwieszczenia-ministra-zdrowia-lista-lekow-zagrozonych-brakiem-dostepnosci
+HTTP 200 text/html;charset=UTF-8 39694
+== linie: 1088, GTIN: 333
+                       DZIENNIK URZĘDOWY
+                                           MINISTRA ZDROWIA
+
+                                      Warszawa, dnia 8 lipca 2026 r.                     Podpisany przez:
+                                                                                          Mateusz Oczkowski
+                                                                                          Data: 08.07.2026 10:49:04
+                                                    Poz. 50
+
+
+                                             OBWIESZCZENIE
+                                           MINISTRA ZDROWIA1)
+
+                                               z dnia 8 lipca 2026 r.
+
+       w sprawie wykazu produktów leczniczych, środków spożywczych specjalnego przeznaczenia
+       żywieniowego oraz wyrobów medycznych zagrożonych brakiem dostępności na terytorium
+                                     Rzeczypospolitej Polskiej
+
+
+   Na podstawie art. 37av ust. 14 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2026 r.
+poz. 612 i 791) ustala się na dzień 16 lipca 2026 r. wykaz produktów leczniczych, środków spożywczych
+specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych zagrożonych brakiem dostępności na
+terytorium Rzeczypospolitej Polskiej, stanowiący załącznik do obwieszczenia2).
+
+
+
+
+                                                                          MINISTER ZDROWIA
+
+
+
+
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa
+
+   Rady Ministrów z dnia 25 lipca 2025 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U.
+   poz. 1004).
+2) Niniejsze obwieszczenie było poprzedzone obwieszczeniem Ministra Zdrowia z dnia 25 maja 2026 r. w sprawie wykazu
+
+   produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
+   zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej (Dz. Urz. Min. Zdrow. poz. 40).
+Dziennik Urzędowy Ministra Zdrowia                                                                    –2–                                                                                     Poz. 50
+
+
+                                                                          Załącznik do obwieszczenia Ministra Zdrowia z dnia 8 lipca 2026 r. (poz. 50)
+
+              Wykaz produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych
+                           zagrożonych brakiem dostępności na terytorium Rzeczypospolitej Polskiej na dzień 16 lipca 2026 r.
+
+             Nazwa produktu leczniczego, środka
+                  spożywczego specjalnego
+       Lp.                                         Nazwa międzynarodowa                          Postać                           Moc           Wielkość opakowania            Kod GTIN
+              przeznaczenia żywieniowego oraz
+                    wyrobu medycznego
+
+
+
+        1.          5-Fluorouracil-Ebewe                Fluorouracilum               roztwór do wstrzykiwań i infuzji          50 mg/ml              1 fiol. 100 ml          05909990336258
+
+
+        2.               Abasaglar                    Insulinum glarginum               roztwór do wstrzykiwań                 100 j.m./ml         10 wkładów 3 ml           05909991201982
+== probka z GTIN
+        1.          5-Fluorouracil-Ebewe                Fluorouracilum               roztwór do wstrzykiwań i infuzji          50 mg/ml              1 fiol. 100 ml          05909990336258
+        2.               Abasaglar                    Insulinum glarginum               roztwór do wstrzykiwań                 100 j.m./ml         10 wkładów 3 ml           05909991201982
+                          Absenor                       Natrii valproas            tabletki o przedłużonym uwalnianiu           300 mg                  100 tabl.            05909990042371
+                          Absenor                       Natrii valproas            tabletki o przedłużonym uwalnianiu           500 mg                  100 tabl.            05909990042364
+        6.                Activelle                                                        tabletki powlekane                1 mg + 0,5 mg              28 tabl.             05909990451210
+        7.             Actrapid Penfill               Insulinum humanum                 roztwór do wstrzykiwań                 100 j.m./ml          5 wkładów 3 ml           05909990237920
+        8.                 Angeliq                Estradiolum + Drospirenonum              tabletki powlekane                 1 mg + 2 mg               28 tabl.             05909990221073
+        9.              Anoro Ellipta             Umeclidinium + Vilanterolum       proszek do inhalacji, podzielony        55 mcg + 22 mcg      1 inhalator 30 dawek        05909991108984
+                                                                                                                                                      1 fiol. 10 ml          05909990008483
+       10.                 Apidra                     Insulinum glulisinum              roztwór do wstrzykiwań                 100 j.m./ml          5 wkładów 3 ml           05909990008575
+                                                                                                                                                                             05909990617197
+       11.                Aspulmo                       Salbutamolum                 aerozol inhalacyjny, zawiesina        100 mcg/dawkę inh.         1 poj. 10 ml           05909990848065
+                                                                                                                                                        30 tabl.             05909991495817
+                                                        Methylphenidati                                                                         60 tabl. (2 op.x 30 tabl.)   05909991495800
+                                                                                                                                                                             05909991495794
