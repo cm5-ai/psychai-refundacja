@@ -1,0 +1,105 @@
+# Braki MZ — leki psychiatryczne
+
+Dz.Urz.MZ 2026 poz. 63 z dnia 2026-09-01, stan na 2026-09-09 — 336 GTIN ogółem, psychiatrycznych: 99
+
+https://dziennikmz.mz.gov.pl/DUM_MZ/2026/63/akt.pdf
+
+- Absenor 300 mg (Natrii valproas) — GTIN 05909990042371
+- Absenor 500 mg (Natrii valproas) — GTIN 05909990042364
+- Atenza 18 mg (Methylphenidati hydrochloridum) — GTIN 05909991495794
+- Atenza 18 mg (Methylphenidati hydrochloridum) — GTIN 05909991495800
+- Atenza 18 mg (Methylphenidati hydrochloridum) — GTIN 05909991495817
+- Atenza 27 mg (Methylphenidati hydrochloridum) — GTIN 05909991495824
+- Atenza 27 mg (Methylphenidati hydrochloridum) — GTIN 05909991495831
+- Atenza 27 mg (Methylphenidati hydrochloridum) — GTIN 05909991495848
+- Atenza 36 mg (Methylphenidati hydrochloridum) — GTIN 05909991495855
+- Atenza 36 mg (Methylphenidati hydrochloridum) — GTIN 05909991495862
+- Atenza 36 mg (Methylphenidati hydrochloridum) — GTIN 05909991495879
+- Atenza 45 mg (Methylphenidati hydrochloridum) — GTIN 05909991531133
+- Atenza 45 mg (Methylphenidati hydrochloridum) — GTIN 05909991531140
+- Atenza 45 mg (Methylphenidati hydrochloridum) — GTIN 05909991531157
+- Atenza 54 mg (Methylphenidati hydrochloridum) — GTIN 05909991495886
+- Atenza 54 mg (Methylphenidati hydrochloridum) — GTIN 05909991495893
+- Atenza 54 mg (Methylphenidati hydrochloridum) — GTIN 05909991495909
+- Clopixol 10 mg (Zuclopenthixolum) — GTIN 05909990126729
+- Concerta 18 mg (Methylphenidati hydrochloridum) — GTIN 05909990655021
+- Concerta 36 mg (Methylphenidati hydrochloridum) — GTIN 05909990655038
+- Decaldol 50 mg/ml (Haloperidoli decanoas) — GTIN 05909990077311
+- Depakine Chrono 300 200 mg + 87 mg (Natrii valproas + Acidum valproicum) — GTIN 05909990694327
+- Depakine Chrono 500 333 mg + 145 mg (Natrii valproas + Acidum valproicum) — GTIN 05909990694426
+- Depakine Chrono 500 333 mg + 145 mg (Natrii valproas + Acidum valproicum) — GTIN 05909991229610
+- Depakine Chronosphere 100 (66,66 mg + 29,03 mg)/sasz. (Natrii valproas + Acidum valproicum) — GTIN 05909990425693
+- Depakine Chronosphere 1000 (666,60 mg + 290,27 mg)/sasz. (Natrii valproas + Acidum valproicum) — GTIN 05909990425754
+- Depakine Chronosphere 250 (166,76 mg + 72,61 mg)/sasz. (Natrii valproas + Acidum valproicum) — GTIN 05909990425709
+- Depakine Chronosphere 500 (333,30 mg + 145,14 mg)/sasz. (Natrii valproas + Acidum valproicum) — GTIN 05909990425730
+- Depakine Chronosphere 750 (500,06 mg + 217,75 mg)/sasz. (Natrii valproas + Acidum valproicum) — GTIN 05909990425747
+- Diacomit 250 mg (Stiripentolum) — GTIN 05909990017232
+- Diacomit 250 mg (Stiripentolum) — GTIN 05909990017294
+- Diacomit 500 mg (Stiripentolum) — GTIN 05909990017263
+- Diacomit 500 mg (Stiripentolum) — GTIN 05909990017331
+- Finlepsin 200 retard 200 mg (Carbamazepinum) — GTIN 05909991030315
+- Finlepsin 400 retard 400 mg (Carbamazepinum) — GTIN 05909991014216
+- Finlepsin 400 retard 400 mg (Carbamazepinum) — GTIN 05909991014223
+- Gabitril 10 mg (Tiagabinum) — GTIN 05909990058839
+- Gabitril 15 mg (Tiagabinum) — GTIN 05909990058846
+- Gabitril 5 mg (Tiagabinum) — GTIN 05909990058822
+- Kwetaplex XR 150 mg (Quetiapinum) — GTIN 05906414000894
+- Kwetaplex XR 200 mg (Quetiapinum) — GTIN 05909990965373
+- Kwetaplex XR 300 mg (Quetiapinum) — GTIN 05909990965403
+- Kwetaplex XR 400 mg (Quetiapinum) — GTIN 05909990965441
+- Kwetaplex XR 50 mg (Quetiapinum) — GTIN 05909990965335
+- Medikinet 10 mg 10 mg (Methylphenidati hydrochloridum) — GTIN 05909990652198
+- Medikinet 20 mg 20 mg (Methylphenidati hydrochloridum) — GTIN 05909990652204
+- Medikinet 5 mg 5 mg (Methylphenidati hydrochloridum) — GTIN 05909990652181
+- Medikinet CR 10 mg 10 mg (Methylphenidati hydrochloridum) — GTIN 05909990652235
+- Medikinet CR 20 mg 20 mg (Methylphenidati hydrochloridum) — GTIN 05909990652242
+- Medikinet CR 30 mg 30 mg (Methylphenidati hydrochloridum) — GTIN 05909990652259
+- Medikinet CR 40 mg 40 mg (Methylphenidati hydrochloridum) — GTIN 05909990652266
+- Medikinet CR 5 mg 5 mg (Methylphenidati hydrochloridum) — GTIN 05909990874477
+- Paliperidone Teva 100 mg (Paliperidonum) — GTIN 05909991475468
+- Paliperidone Teva 150 mg (Paliperidonum) — GTIN 05909991475475
+- Paliperidone Teva 75 mg (Paliperidonum) — GTIN 05909991475420
+- Rispolept Consta 25 mg (Risperidonum) — GTIN 05909991058227
+- Rispolept Consta 37,5 mg (Risperidonum) — GTIN 05909991058128
+- Rispolept Consta 50 mg (Risperidonum) — GTIN 05909991058029
+- Sabril 500 mg (Vigabatrinum) — GTIN 05909990312818
+- Sabril 500 mg (Vigabatrinum) — GTIN 05909990832712
+- Symkinet MR 10 mg (Methylphenidati hydrochloridum) — GTIN 05905669739863
+- Symkinet MR 10 mg (Methylphenidati hydrochloridum) — GTIN 05905669739870
+- Symkinet MR 10 mg (Methylphenidati hydrochloridum) — GTIN 05905669739887
+- Symkinet MR 10 mg (Methylphenidati hydrochloridum) — GTIN 05905669739894
+- Symkinet MR 10 mg (Methylphenidati hydrochloridum) — GTIN 05905669739900
+- Symkinet MR 10 mg (Methylphenidati hydrochloridum) — GTIN 05905669739917
+- Symkinet MR 20 mg (Methylphenidati hydrochloridum) — GTIN 05905669739924
+- Symkinet MR 20 mg (Methylphenidati hydrochloridum) — GTIN 05905669739931
+- Symkinet MR 20 mg (Methylphenidati hydrochloridum) — GTIN 05905669739948
+- Symkinet MR 20 mg (Methylphenidati hydrochloridum) — GTIN 05905669739955
+- Symkinet MR 20 mg (Methylphenidati hydrochloridum) — GTIN 05905669739962
+- Symkinet MR 20 mg (Methylphenidati hydrochloridum) — GTIN 05905669739979
+- Symkinet MR 20 mg (Methylphenidati hydrochloridum) — GTIN 05905669739986
+- Symkinet MR 30 mg (Methylphenidati hydrochloridum) — GTIN 05905669739030
+- Symkinet MR 30 mg (Methylphenidati hydrochloridum) — GTIN 05905669739085
+- Symkinet MR 30 mg (Methylphenidati hydrochloridum) — GTIN 05905669739993
+- Symkinet MR 30 mg (Methylphenidati hydrochloridum) — GTIN 05905701070008
+- Symkinet MR 30 mg (Methylphenidati hydrochloridum) — GTIN 05905701070015
+- Symkinet MR 30 mg (Methylphenidati hydrochloridum) — GTIN 05905701070022
+- Symkinet MR 30 mg (Methylphenidati hydrochloridum) — GTIN 05905701070039
+- Symkinet MR 40 mg (Methylphenidati hydrochloridum) — GTIN 05905701070046
+- Symkinet MR 40 mg (Methylphenidati hydrochloridum) — GTIN 05905701070053
+- Symkinet MR 40 mg (Methylphenidati hydrochloridum) — GTIN 05905701070060
+- Symkinet MR 40 mg (Methylphenidati hydrochloridum) — GTIN 05905701070077
+- Symkinet MR 40 mg (Methylphenidati hydrochloridum) — GTIN 05905701070084
+- Symkinet MR 40 mg (Methylphenidati hydrochloridum) — GTIN 05905701070091
+- Symkinet MR 40 mg (Methylphenidati hydrochloridum) — GTIN 05905701070107
+- Tegretol CR 200 200 mg (Carbamazepinum) — GTIN 05909990120215
+- Tegretol CR 400 400 mg (Carbamazepinum) — GTIN 05909990120116
+- Trevicta 263 mg (200 mg/ml) (Paliperidonum) — GTIN 05909991281465
+- Trevicta 350 mg (200 mg/ml) (Paliperidonum) — GTIN 05909991281472
+- Trevicta 525 mg (200 mg/ml) (Paliperidonum) — GTIN 05909991281489
+- Xeplion 100 mg (Paliperidonum) — GTIN 05909990861194
+- Xeplion 150 mg (Paliperidonum) — GTIN 05909990861200
+- Xeplion 75 mg (Paliperidonum) — GTIN 05909990861187
+- Zypadhera 210 mg (Olanzapinum) — GTIN 05909990686803
+- Zypadhera 300 mg (Olanzapinum) — GTIN 05909990686827
+- Zypadhera 405 mg (Olanzapinum) — GTIN 05909990686834
+- Zyprexa 10 mg (Olanzapinum) — GTIN 05909990954612
