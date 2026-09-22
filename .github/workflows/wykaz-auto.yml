@@ -1,0 +1,29 @@
+name: Wykaz MZ - automat (kandydat + obwieszczenia zmieniajace)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 5 * * *"   # codziennie ok. 7:40 czasu polskiego
+permissions:
+  contents: write
+  actions: write
+jobs:
+  automat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - id: w
+        run: python3 generator/wykaz_auto.py
+      - name: Zapisz pobrany xlsx i listę obwieszczeń
+        run: |
+          git config user.name "psychai-bot"; git config user.email "actions@users.noreply.github.com"
+          git add zrodla/ && git commit -m "Automat wykazu: ${{ steps.w.outputs.oznaczenie || 'lista obwieszczen' }}" && git push || true
+      - name: Uruchom budowę kandydata
+        if: steps.w.outputs.nowy == '1'
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          gh workflow run nowy-wykaz.yml -f plik="${{ steps.w.outputs.plik }}" -f oznaczenie="${{ steps.w.outputs.oznaczenie }}" \
+            -f valid_from="${{ steps.w.outputs.valid_from }}" -f data_aktu="${{ steps.w.outputs.data_aktu }}" \
+            -f poz="DO_UZUPELNIENIA" -f check_valid_until="${{ steps.w.outputs.check_valid_until }}" -f url="${{ steps.w.outputs.url }}"
+      - name: Alarm — obwieszczenie zmieniające lub sprostowanie
+        if: steps.w.outputs.alarm == '1'
+        run: echo "::error::Nowe obwieszczenie zmieniające/sprostowanie — wymaga decyzji lekarza (patrz log)." && exit 1
