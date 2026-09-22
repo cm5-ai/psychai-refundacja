@@ -323,7 +323,6 @@
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
-    "Pramatis",
     "Diphergan",
     "Polfergan"
    ]
@@ -507,9 +506,7 @@
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
-    "Fenactil",
-    "Chlorprothixen Hasco",
-    "Chlorprothixen Zentiva"
+    "Fenactil"
    ]
   },
   "lewomepromazyna": {
@@ -535,7 +532,6 @@
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
-    "Fenactil",
     "Chlorprothixen Hasco",
     "Chlorprothixen Zentiva"
    ]
@@ -642,8 +638,7 @@
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
-    "Elenium",
-    "Convulex"
+    "Elenium"
    ]
   },
   "midazolam": {

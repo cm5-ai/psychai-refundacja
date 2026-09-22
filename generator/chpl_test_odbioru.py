@@ -81,10 +81,47 @@ for nazwa, v in subs.items():
         ma_rdzen = bool(r) and any(rdzen(w) == r for w in re.findall(r'[a-ząćęłńóśźż]+', bez_ogonkow(tekst)))
         if not (ma_marke or ma_rdzen):
             bledy.append(f"T8 {etykieta}: w tresci ChPL nie ma ani marki, ani rdzenia substancji - podejrzenie cudzej ChPL")
+        # T8b. DOMINACJA CUDZEJ SUBSTANCJI. Sama marka NIE wystarcza: produkt
+        # omylkowo podpiety pod inna substancje nadal zawiera wlasna marke.
+        # To przepuscilo prometazyna<-Pramatis (escitalopram), chlordiazepoksyd
+        # <-Convulex (walproinian) i zamiane chlorpromazyna<->chlorprotiksen.
+        slowa_txt = re.findall(r'[a-z]+', bez_ogonkow(tekst))
+        # Nazwa handlowa NIE liczy sie jako wlasny rdzen: "Pramatis" ma ten sam
+        # szkielet spolgloskowy co "prometazyna" (prmts) i wlasnie dlatego
+        # zostala blednie dopasowana. Liczymy tylko slowa spoza marki.
+        marka_sl = set(re.findall(r'[a-z]+', bez_ogonkow(p.get("nazwa", ""))))
+        wlasny = sum(1 for w in slowa_txt if rdzen(w) == r and w not in marka_sl)
+        obce = {}
+        for inna in subs:
+            ri = rdzen(inna)
+            if not ri or ri == r or len(ri) < 5:
+                continue
+            n = sum(1 for w in slowa_txt if rdzen(w) == ri)
+            if n:
+                obce[inna] = n
+        if obce and wlasny == 0:
+            krol = max(obce.items(), key=lambda x: x[1])
+            if krol[1] >= 3:
+                bledy.append(f"T8b {etykieta}: tekst zdominowany przez {krol[0]} (x{krol[1]}), wlasnego rdzenia brak - CUDZA ChPL")
         # T9. Punkt nie moze byc pusty.
         for k, txt in p.get("punkty", {}).items():
             if len(txt.strip()) < 40:
                 bledy.append(f"T9 {etykieta} pkt {k}: tekst krotszy niz 40 znakow")
+
+# T16. TEN SAM PRODUKT POD DWIEMA SUBSTANCJAMI = pewne skazenie jednej z nich.
+gdzie = {}
+for nazwa, v in subs.items():
+    if not v.get("plik"):
+        continue
+    try:
+        d = json.load(open(v["plik"], encoding="utf-8"))
+    except Exception:
+        continue
+    for p in d.get("produkty", []):
+        gdzie.setdefault(p.get("nazwa", ""), set()).add(nazwa)
+for prod, gdz in sorted(gdzie.items()):
+    if len(gdz) > 1:
+        bledy.append(f"T16 produkt {prod}: przypisany do {len(gdz)} substancji: {sorted(gdz)}")
 
 # T10. Wiek cache.
 try:
