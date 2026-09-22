@@ -13,6 +13,13 @@ def szkielet(s):
     "Szkielet spolgloskowy - zdejmuje roznice PL/lacina (metylofenidat vs Methylphenidati)."
     return re.sub(r'[^bcdfghjklmnpqrstvwxz]', '', norm(s))
 
+def slowa(s):
+    return [w for w in re.split(r'[^a-z0-9]+', norm(s)) if w]
+
+def zaczyna_sie(tekst, rdzen):
+    "Dopasowanie TYLKO od poczatku slowa. Podciag w srodku dawal imipramina -> Clomipramini."
+    return any(szkielet(w).startswith(rdzen) for w in slowa(tekst))
+
 # Nazwa polska vs lacinska rozchodzi sie tak, ze szkielet nie wystarcza.
 SYNONIMY = {"walproinian": ["valproicum", "valproas"], "kwas walproinowy": ["valproicum"],
             "lit": ["lithii", "lithium"], "weglan litu": ["lithii carbonas"]}
@@ -23,12 +30,12 @@ def dopasuj(zapyt, produkty):
     q = szkielet(zapyt)[:5]
     if len(q) >= 4:
         for p in produkty:
-            if q in szkielet(p.get("substancja","") + " " + p.get("nazwa","")):
+            if zaczyna_sie(p.get("substancja","") + " " + p.get("nazwa",""), q):
                 if id(p) not in widziane: widziane.add(id(p)); trafy.append(p)
     for syn in SYNONIMY.get(zapyt.lower().strip(), []):
-        qs = norm(syn)[:5]
+        qs = norm(syn)[:6]                 # synonim lacinski: prefiks doslowny, nie szkielet
         for p in produkty:
-            if qs in norm(p.get("substancja","") + " " + p.get("nazwa","")):
+            if any(w.startswith(qs) for w in slowa(p.get("substancja","") + " " + p.get("nazwa",""))):
                 if id(p) not in widziane: widziane.add(id(p)); trafy.append(p)
     return trafy
 
