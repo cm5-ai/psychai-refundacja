@@ -1,0 +1,24 @@
+{
+ "substancja": "kariprazyna",
+ "pobrano": "2026-09-22",
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
+ "produkty": [
+  {
+   "nazwa": "Reagila",
+   "moc": "1,5 mg",
+   "zrodlo": "",
+   "stan": "BRAK URL ChPL W SPISIE",
+   "punkty": {}
+  }
+ ]
+}
