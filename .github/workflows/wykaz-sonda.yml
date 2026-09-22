@@ -1,0 +1,12 @@
+name: Sonda strony wykazu MZ
+on:
+  workflow_dispatch:
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Spis obwieszczeń i załączników
+        run: python3 generator/wykaz_sonda.py | tee sonda.txt
+      - uses: actions/upload-artifact@v4
+        with: {name: sonda-wykazu, path: sonda.txt}
