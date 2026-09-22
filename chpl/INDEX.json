@@ -208,22 +208,18 @@
    ]
   },
   "imipramina": {
-   "plik": "chpl/imipramina.json",
-   "stan": "OK",
-   "pobrano": "2026-09-22",
-   "produkty": [
-    "Anafranil",
-    "Anafranil SR 75"
-   ]
+   "plik": null,
+   "stan": "NIE_ZNALEZIONO_W_SPISIE",
+   "sprawdzono": "2026-09-22"
   },
   "zopiklon": {
    "plik": "chpl/zopiklon.json",
    "stan": "OK",
    "pobrano": "2026-09-22",
    "produkty": [
-    "Esogno",
     "ApoDream",
-    "Dobroson"
+    "Dobroson",
+    "Imovane"
    ]
   },
   "zolpidem": {
@@ -323,9 +319,13 @@
    ]
   },
   "prometazyna": {
-   "plik": null,
-   "stan": "NIE_ZNALEZIONO_W_SPISIE",
-   "sprawdzono": "2026-09-22"
+   "plik": "chpl/prometazina.json",
+   "stan": "OK",
+   "pobrano": "2026-09-22",
+   "produkty": [
+    "Diphergan",
+    "Polfergan"
+   ]
   },
   "atomoksetyna": {
    "plik": "chpl/atomoksetina.json",
