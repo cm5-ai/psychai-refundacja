@@ -1,0 +1,37 @@
+{
+  "opis": "Golden-set do testu odbioru CHPL_CACHE. Pozytywne: substancja MUSI trafic na ten produkt. Negatywne: substancja NIE MOZE trafic na ten produkt (znane pomylki).",
+  "pozytywne": {
+    "metylofenidat": ["Methylphenidati hydrochloridum"],
+    "lisdeksamfetamina": ["Lisdexamfetamini dimesylas"],
+    "atomoksetyna": ["Atomoxetinum"],
+    "klozapina": ["Clozapinum"],
+    "lit": ["Lithii carbonas"],
+    "karbamazepina": ["Carbamazepinum"],
+    "metadon": ["Methadoni hydrochloridum"],
+    "kwetiapina": ["Quetiapinum"],
+    "akamprozat": ["Acamprosatum"],
+    "hydroksyzyna": ["Hydroxyzini hydrochloridum", "Hydroxyzinum"],
+    "zopiklon": ["Zopiclonum"],
+    "agomelatyna": ["Agomelatinum"],
+    "fluoksetyna": ["Fluoxetinum"],
+    "diazepam": ["Diazepamum"]
+  },
+  "negatywne": {
+    "imipramina": ["Clomipramini hydrochloridum"],
+    "fluoksetyna": ["Ginkgo folii extractum siccum"],
+    "agomelatyna": ["Melatoninum"],
+    "zopiklon": ["Eszopiclonum"],
+    "diazepam": ["Medazepamum"],
+    "citalopram": ["Escitalopramum"],
+    "klomipramina": ["Imipramini hydrochloridum"]
+  },
+  "krytyczne_fragmenty": {
+    "klozapina": ["3000", "1500", "agranulocyt"],
+    "lit": ["mmol/l", "toksycz"],
+    "karbamazepina": ["HLA-B", "morfolog"],
+    "metadon": ["QT", "torsade"],
+    "walproinian": ["ciąż"],
+    "lamotrygina": ["wysypk"],
+    "agomelatyna": ["aminotransferaz"]
+  }
+}
