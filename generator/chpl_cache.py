@@ -4,6 +4,8 @@ Runtime czyta pojedynczy plik z raw.githubusercontent.com - nie caly cache.
 Uzycie: python3 generator/chpl_cache.py --lista zrodla/chpl_cache_lista.txt [--tylko lek1,lek2] [--punkty 4.1,4.2,4.3,4.4,4.5,4.6,4.8,5.2]"""
 import hashlib
 import json, re, os, sys, subprocess, tempfile, argparse, unicodedata, hashlib, datetime
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import polityka
 
 KATALOG = "chpl"
 LIMIT_ZNAKOW = 200000        # praktycznie bez limitu. Przy 6000 ucinalo klozapinie 4.2/4.4/4.5/4.8,
@@ -120,16 +122,31 @@ indeks = {}
 if os.path.exists(f"{KATALOG}/INDEX.json"):
     indeks = json.load(open(f"{KATALOG}/INDEX.json", encoding="utf-8")).get("substancje", {})
 
+# BRAMA SEMANTYKI. dopasuj() jest dzis kluczem HEURYSTYCZNYM (szkielet
+# spolgloskowy), a heurystyce wolno tylko WSKAZYWAC. Deklaracja jest tu po to,
+# zeby to bylo WIDOCZNE i zeby przepiecie na klucz deterministyczny bylo
+# zmiana jednej linii, a nie archeologia.
+KLUCZ_DOPASOWANIA = "HEURYSTYCZNY"
+polityka.sprawdz_semantyke("CHPL_LAYER", "WSKAZANIE", KLUCZ_DOPASOWANIA,
+                           ("substancja", "nazwa"))
+
 for s in substancje:
     pr = dopasuj(s, d["produkty"])
     plik = plik_nazwy(s)
     if not pr:
         print(f"{s:22} NIE ZNALEZIONO w spisie RPL (nie znaczy, ze produktu nie ma)")
+        # BRAK DOPASOWANIA NIE KASUJE PLIKU. "Nie znalazlem" to nie "nie ma":
+        # regresja w dopasowaniu niszczylaby dane zamiast je zostawic. Wczesniej
+        # stalo tu os.remove i wystarczyla jedna zmiana wzorca, zeby substancja
+        # stracila etykiete. Poprzedni plik zostaje; indeks mowi, co sie stalo.
         stary_plik = f"{KATALOG}/{plik}.json"
-        if os.path.exists(stary_plik):
-            os.remove(stary_plik)          # nieaktualne trafienie z poprzedniej wersji dopasowania
-            print(f"{s:22} usunieto nieaktualny {stary_plik}")
-        indeks[s] = {"plik": None, "stan": "NIE_ZNALEZIONO_W_SPISIE", "sprawdzono": dzis}
+        zachowany = os.path.exists(stary_plik)
+        if zachowany:
+            print(f"{s:22} poprzedni {stary_plik} ZACHOWANY (brak dopasowania to nie brak leku)")
+        indeks[s] = {"plik": stary_plik if zachowany else None,
+                     "stan": "NIE_ZNALEZIONO_W_SPISIE", "sprawdzono": dzis,
+                     "uwaga": ("Dopasowanie nie trafilo. To NIE jest stwierdzenie, ze "
+                               "produktu nie ma. Poprzednia tresc zachowana.")}
         continue
     widz = {}
     for p in pr:
@@ -195,7 +212,29 @@ for s in substancje:
                   "wypisane - brak etykiety to fakt, nie cisza. Gdy N_PROB "
                   "rowna sie LIMIT_PROB, lista kandydatow NIE zostala "
                   "przejrzana do konca.")}
-    json.dump(rekord, open(f"{KATALOG}/{plik}.json", "w", encoding="utf-8"),
+    # BRAMA PUBLIKACJI. 2026-09-23 przypadkowy przebieg bez sieci przepisal 88
+    # plikow pusta lista produktow: blok bilansowy zapisal N_WYBRANYCH 0, a plik
+    # i tak poszedl na dysk. Miara byla, nic nie zatrzymywala.
+    sciezka = f"{KATALOG}/{plik}.json"
+    stare_id = set()
+    if os.path.exists(sciezka):
+        try:
+            stare_id = {q.get("nazwa") for q in json.load(
+                open(sciezka, encoding="utf-8")).get("produkty", [])}
+        except Exception:
+            stare_id = set()
+    nowe_id = {q["nazwa"] for q in rekord["produkty"]}
+    # Kazde pobranie nieudane -> to stan NIEWIEDZY, nie wynik.
+    stan = "BLAD_POBRANIA" if (nieudane and not rekord["produkty"]) else "OK"
+    try:
+        polityka.sprawdz_publikacje("CHPL_LAYER", stare_id, nowe_id, stan_zrodla=stan)
+    except polityka.Odmowa as e:
+        print(f"{s:22} NIE ZAPISANO: {e}")
+        indeks[s] = {"plik": sciezka if stare_id else None, "stan": "ZACHOWANO_POPRZEDNI",
+                     "sprawdzono": dzis, "powod": str(e),
+                     "produkty": sorted(stare_id)}
+        continue
+    json.dump(rekord, open(sciezka, "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     indeks[s] = {"plik": f"{KATALOG}/{plik}.json", "stan": "OK", "pobrano": dzis,
                  "produkty": [p["nazwa"] for p in rekord["produkty"]]}
