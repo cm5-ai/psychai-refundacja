@@ -2,6 +2,7 @@
 """Budowa CHPL_CACHE: jeden plik JSON na substancje, commitowany do repo.
 Runtime czyta pojedynczy plik z raw.githubusercontent.com - nie caly cache.
 Uzycie: python3 generator/chpl_cache.py --lista zrodla/chpl_cache_lista.txt [--tylko lek1,lek2] [--punkty 4.1,4.2,4.3,4.4,4.5,4.6,4.8,5.2]"""
+import hashlib
 import json, re, os, sys, subprocess, tempfile, argparse, unicodedata, hashlib, datetime
 
 KATALOG = "chpl"
@@ -133,18 +134,42 @@ for s in substancje:
     widz = {}
     for p in pr:
         widz.setdefault(p.get("nazwa", "?"), p)
-    wybrane = list(widz.values())[:MAX_PRODUKTOW]
+    kandydaci = list(widz.values())          # NIE ucinamy jeszcze do MAX:
+                                             # dobor rozstrzyga sie po pobraniu
     rekord = {"substancja": s, "pobrano": dzis, "punkty_zadane": sorted(chce),
               "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
               "produkty": []}
-    for p in wybrane:
+    odciski, pominiete_jako_duplikat, nieudane = {}, [], []
+    # Limit prob. Nieudane pobranie NIE zajmuje miejsca na etykiete - inaczej
+    # jeden niedostepny PDF odbiera substancji jedna z trzech etykiet, a tak
+    # wlasnie powstalo osiem pustych pozycji w poprzednim cache. Limit chroni
+    # przed przechodzeniem calej listy produktow, gdy serwer nie odpowiada.
+    limit_prob = MAX_PRODUKTOW + 3
+    prob = 0
+    for p in kandydaci:
+        if len(rekord["produkty"]) >= MAX_PRODUKTOW or prob >= limit_prob:
+            break
+        prob += 1
         t, info = pdf_tekst(p.get("chpl"))
         if t is None:
-            rekord["produkty"].append({"nazwa": p.get("nazwa"), "moc": p.get("moc"),
-                                       "zrodlo": p.get("chpl") or "", "stan": info, "punkty": {}})
-            print(f"{s:22} {p.get('nazwa'):22} {info}")
+            nieudane.append({"nazwa": p.get("nazwa"), "moc": p.get("moc"),
+                             "zrodlo": p.get("chpl") or "", "stan": info})
+            print(f"{s:22} {p.get('nazwa'):22} {info} (nie zajmuje miejsca)")
             continue
         got = punkty(t, chce)
+        # KLUCZ DETERMINISTYCZNY: tresc pobranych punktow po zwezeniu bialych
+        # znakow. Rowność tresci, nie podobienstwo nazwy ani mocy.
+        odcisk = hashlib.sha256(
+            "\u0000".join(" ".join((got[k]["tekst"] or "").split())
+                          for k in sorted(got)).encode("utf-8")).hexdigest()
+        if odcisk in odciski:
+            pominiete_jako_duplikat.append(
+                {"nazwa": p.get("nazwa"), "moc": p.get("moc"),
+                 "ta_sama_etykieta_co": odciski[odcisk],
+                 "zrodlo": p.get("chpl") or ""})
+            print(f"{s:22} {p.get('nazwa'):22} POMINIETY: ta sama tresc co {odciski[odcisk]}")
+            continue
+        odciski[odcisk] = p.get("nazwa")
         rekord["produkty"].append({"nazwa": p.get("nazwa"), "moc": p.get("moc"),
                                    "podmiot": p.get("podmiot"), "zrodlo": p.get("chpl"),
                                    "sha256_pdf": info, "stan": "OK",
@@ -153,6 +178,23 @@ for s in substancje:
                                    "punkty_nieznalezione": sorted(chce - set(got))})
         uc = sorted(k for k in got if got[k]["uciety"])
         print(f"{s:22} {p.get('nazwa'):22} OK  punkty: {','.join(sorted(got)) or 'brak'}" + (f"  UCIETE: {','.join(uc)}" if uc else ""))
+    # BILANS DOBORU. Filtr, ktory cokolwiek odrzuca, musi sie rozliczyc.
+    rekord["DOBOR_PRODUKTOW"] = {
+        "N_KANDYDATOW": len(kandydaci),
+        "N_WYBRANYCH": len(rekord["produkty"]),
+        "N_POMINIETYCH_JAKO_DUPLIKAT": len(pominiete_jako_duplikat),
+        "N_NIEUDANYCH_POBRAN": len(nieudane),
+        "N_PROB": prob,
+        "LIMIT_PROB": limit_prob,
+        "POMINIETE": pominiete_jako_duplikat or None,
+        "NIEUDANE_POBRANIA": nieudane or None,
+        "uwaga": ("Produkt o tresci punktow identycznej z juz wybranym NIE zajmuje "
+                  "miejsca - rozne moce tego samego opakowania to jedna etykieta. "
+                  "Klucz: rownosc tresci po kanonizacji bialych znakow. "
+                  "Nieudane pobranie takze nie zajmuje miejsca, ale jest "
+                  "wypisane - brak etykiety to fakt, nie cisza. Gdy N_PROB "
+                  "rowna sie LIMIT_PROB, lista kandydatow NIE zostala "
+                  "przejrzana do konca.")}
     json.dump(rekord, open(f"{KATALOG}/{plik}.json", "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     indeks[s] = {"plik": f"{KATALOG}/{plik}.json", "stan": "OK", "pobrano": dzis,
