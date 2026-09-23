@@ -1,0 +1,12 @@
+generator/polityka.py JEST KOPIA BAJT W BAJT pliku
+psychai-paczka/narzedzia/karty/polityka.py
+
+Dwa repozytoria, jedna polityka. Rozjechanie sie tych plikow byloby cichym
+rozejsciem regul bezpieczenstwa.
+
+DLATEGO KOPIA NIE MA WLASNEGO NAGLOWKA. Pierwsza wersja tej kopii miala
+dopisana notke o tym, ze bramka porownuje odciski - i ten sam dopisek te
+porownanie uniemozliwial. Notka mieszka tutaj wlasnie po to, zeby plik
+pozostal porownywalny.
+
+Nie edytuj kopii. Popraw zrodlo i skopiuj ponownie.
