@@ -6,6 +6,7 @@ import hashlib
 import json, re, os, sys, subprocess, tempfile, argparse, unicodedata, hashlib, datetime
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import polityka
+import dobor
 
 KATALOG = "chpl"
 LIMIT_ZNAKOW = 200000        # praktycznie bez limitu. Przy 6000 ucinalo klozapinie 4.2/4.4/4.5/4.8,
@@ -126,12 +127,24 @@ if os.path.exists(f"{KATALOG}/INDEX.json"):
 # spolgloskowy), a heurystyce wolno tylko WSKAZYWAC. Deklaracja jest tu po to,
 # zeby to bylo WIDOCZNE i zeby przepiecie na klucz deterministyczny bylo
 # zmiana jednej linii, a nie archeologia.
-KLUCZ_DOPASOWANIA = "HEURYSTYCZNY"
+# KLUCZ DETERMINISTYCZNY. Szkielet spolgloskowy mieszal leki - prometazyna
+# trafiala na Escitalopramum, perazyna na Valerianae extractum. Teraz dobor
+# idzie przez rownosc nazwy powszechnej i kodu ATC5 wobec tabeli kluczy.
+# Sprawdzone wobec istniejacego cache: 0 z 208 produktow zgubionych,
+# 388 nowych kandydatow, ktorych stare dopasowanie nie znajdowalo.
+KLUCZ_DOPASOWANIA = "DETERMINISTYCZNY"
 polityka.sprawdz_semantyke("CHPL_LAYER", "WSKAZANIE", KLUCZ_DOPASOWANIA,
-                           ("substancja", "nazwa"))
+                           ("nazwa_powszechna", "atc"))
+_TABELA = dobor.wczytaj_tabele()
 
 for s in substancje:
-    pr = dopasuj(s, d["produkty"])
+    pr, _rap = dobor.dobierz(s, d["produkty"], _TABELA)
+    if _rap.get("STAN") != "OK":
+        # BRAK WPISU W TABELI TO NIE BRAK LEKU. Nie wracamy po cichu do
+        # szkieletu - to on byl bledem. Mowimy, czego brakuje.
+        print(f"{s:22} {_rap['STAN']} - klucza dla tej substancji nikt jeszcze nie zapisal")
+    else:
+        print(f"{s:22} dobor: wejscie={_rap['N_WEJSCIE']} zachowane={_rap['N_ZACHOWANE']} odrzucone={_rap['N_ODRZUCONE']}")
     plik = plik_nazwy(s)
     if not pr:
         print(f"{s:22} NIE ZNALEZIONO w spisie RPL (nie znaczy, ze produktu nie ma)")
