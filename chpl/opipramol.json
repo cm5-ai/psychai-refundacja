@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym opipramolu dichlorowodorek wchłania się szybko i całkowicie. 7 Dystrybucja Wiązanie z białkami osocza wynosi około 91%. Objętość dystrybucji wynosi około 10 L/kg mc, okres półtrwania w fazie eliminacji wynosi około 11 godzin. Metabolizm Częściowy metabolizm do dehydroksyetyloopipramolu zachodzi podczas pierwszego przejścia przez wątrobę. Opipramol jest głównie metabolizowany przez izoenzym CYP2D6. U pacjentów z niedoborem CYP2D6 (wolno metabolizujących) maksymalne stężenie opipramolu w osoczu może być nawet 2,5 razy większe niż u ludzi z prawidłowym metabolizmem. Jednak w przypadku długotrwałego stosowania okres półtrwania w fazie eliminacji nie jest wydłużony, więc nawet u pacjentów wolno metabolizujących nie należy oczekiwać kumulacji opipramolu. Eliminacja Substancja czynna, opipramol, jest eliminowana w ponad 70% przez nerki, z tego do około 10% w postaci niezmienionej. Pozostała część jest wydalana z kałem. U pacjentów z upośledzoną czynnością nerek może być konieczne zmniejszenie dawki opipramolu, ponieważ wraz ze wzrostem nasilenia choroby, spowolniona jest eliminacja. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Opipramoli dihydrochloridum"
+    ],
+    "atc": [
+     "N06AA05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Pramolan",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym opipramol wchłania się szybko i całkowicie. Dystrybucja Wiązanie z białkami osocza wynosi około 91%. Objętość dystrybucji wynosi około 10 l/kg a okres półtrwania w fazie eliminacji wynosi około 11 godzin. Metabolizm Częściowy metabolizm do dehydroksyetyloopipramolu zachodzi podczas pierwszego przejścia przez wątrobę. Opipramol jest głównie metabolizowany przez izoenzym CYP2D6. U pacjentów z niedoborem CYP2D6 (wolno metabolizujących) maksymalne stężenie opipramolu w osoczu może być nawet 2,5 razy większe niż u ludzi z prawidłowym metabolizmem. Jednakże w przypadku długotrwałego stosowania okres półtrwania w fazie eliminacji nie jest wydłużony, więc nawet u pacjentów wolno metabolizujących nie należy oczekiwać kumulacji opipramolu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Opipramoli dihydrochloridum"
+    ],
+    "atc": [
+     "N06AA05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Sympramol",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Po podaniu doustnym opipramol wchłania się szybko i całkowicie. Częściowy metabolizm do dehydroksyetyloopipramolu zachodzi podczas pierwszego przejścia przez wątrobę. Wiązanie z białkami osocza wynosi około 91%. Objętość dystrybucji wynosi około 10 l/kg, a okres półtrwania w fazie eliminacji około 11 godzin. Opipramol jest głównie metabolizowany przez izoenzym CYP2D6. U pacjentów z niedoborem CYP2D6 (wolno metabolizujących) maksymalne stężenie opipramolu w osoczu może być nawet 2,5 razy większe niż u ludzi z prawidłowym metabolizmem. Jednakże w przypadku długotrwałego stosowania okres półtrwania w fazie eliminacji nie jest wydłużony, więc nawet u pacjentów wolno metabolizujących nie należy oczekiwać kumulacji opipramolu. PL/H/0126/001/IA/027/G 5 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki drażowane"
+    ],
+    "nazwa_powszechna": [
+     "Opipramoli dihydrochloridum"
+    ],
+    "atc": [
+     "N06AA05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

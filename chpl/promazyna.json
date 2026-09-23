@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Promazyna szybko wchłania się z przewodu pokarmowego. Dystrybucja Promazyna w bardzo dużym stopniu wiąże się z białkami osocza. Podlega szerokiej dystrybucji w organizmie. Przenika przez barierę krew – mózg osiągając większe stężenie w mózgu niż w osoczu krwi. Promazyna i jej metabolity przenikają również przez barierę łożyskową i wydzielane są w mleku matki. Metabolizm Podlega metabolizmowi pierwszego przejścia w obrębie ściany jelita. Jest również metabolizowana w wątrobie. Eliminacja Wydalana jest z moczem i kałem w postaci licznych czynnych i nieczynnych metabolitów. Zależności farmakokinetyczno-farmakodynamiczne Nie wykazano prostej korelacji pomiędzy stężeniem promazyny i jej metabolitów w osoczu a efektem terapeutycznym. Efekt terapeutyczny utrzymuje się od kilku dni do kilku tygodni lub nawet dłużej. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki drażowane"
+    ],
+    "nazwa_powszechna": [
+     "Promazini hydrochloridum"
+    ],
+    "atc": [
+     "N05AA03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Promazine Hasco",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Promazyna szybko wchłania się z przewodu pokarmowego. Dystrybucja Promazyna w bardzo dużym stopniu wiąże się z białkami osocza. Podlega szerokiej dystrybucji w organizmie. Przenika przez barierę krew – mózg osiągając większe stężenie w mózgu niż w osoczu. Promazyna i jej metabolity przenikają również przez barierę łożyskową i wydzielane są w mleku matki. Metabolizm Podlega metabolizmowi pierwszego przejścia w obrębie ściany jelita. Jest również metabolizowana w wątrobie. Eliminacja Wydalana jest z moczem i kałem w postaci licznych czynnych i nieczynnych metabolitów. Zależności farmakokinetyczno-farmakodynamiczne Nie wykazano prostej korelacji pomiędzy stężeniem promazyny i jej metabolitów w osoczu a efektem terapeutycznym. Efekt terapeutyczny utrzymuje się od kilku dni do kilku tygodni lub nawet dłużej. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Promazini hydrochloridum"
+    ],
+    "atc": [
+     "N05AA03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

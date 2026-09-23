@@ -31,7 +31,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym lorazepam jest szybko i niemal całkowicie wchłaniany. Maksymalne stężenie w surowicy występuje po upływie około 2 godzin od podania (zakres: 0,5-3 godziny); biodostępność po podaniu doustnym wynosi 90-93%. Dystrybucja Lorazepam wiąże się w około 85% - 91% z białkami, przy czym wolna frakcja jest znacznie podwyższona u pacjentów w podeszłym wieku. Przenika przez barierę krew/płyn mózgowo- rdzeniowy, a jego stężenia w płynie mózgowo-rdzeniowym wynoszą około 5% - 28% odpowiadających poziomów w osoczu. Przekracza barierę łożyskową, a stężenia w osoczu noworodków są zbliżone do stężeń w surowicy matek. Okres półtrwania dystrybucji wynosi 20-25 minut (zakres: 10,3 - 42,7), a objętość dystrybucji wynosi 1,3 l/kg mc. Stężenia w osoczu w stanie stacjonarnym są osiągane w ciągu trzech dni. Metabolizm Lorazepam jest intensywnie metabolizowany w wątrobie, w około 75%, i podlega recyrkulacji jelitowo-wątrobowej. Przewlekłe podawanie nie wpływa na zdolność wątroby do hydroksylacji. Głównym nieaktywnym metabolitem jest glukuronid 3-O-fenolowy stanowiący 75% dawki. Pozostałe metabolity występujące w mniejszych ilościach to: 6-chloro-4-O-chlorofenylo-2,1-chinazolinon i hydroksylowana pochodna lorazepamu - wszystkie są nieaktywne. Eliminacja Główną drogą wydalania jest droga przez nerki - 88%, mniejsze ilości są wydalane z kałem (7%). Całkowity klirens wynosi 1,1 ml/min/kg mc. Okres półtrwania lorazepamu w fazie eliminacji wynosi 12 godzin, a ryzyko nadmiernej kumulacji jest minimalne. Okres półtrwania w fazie eliminacji nieaktywnego metabolitu glukuronidu wynosi 12-18 godzin. Nie ma zmian parametrów farmakokinetycznych u osób starszych. W ciężkich zaburzeniach czynności wątroby okres półtrwania lorazepamu w fazie eliminacji jest podwojony. Zaburzenie czynności nerek powoduje zmniejszenie szybkości wydalania metabolitu glukuronidu bez wydłużenia okresu półtrwania lorazepamu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do wstrzykiwań",
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Lorazepamum"
+    ],
+    "atc": [
+     "N05BA06"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Lorafen",
@@ -51,7 +64,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Lorazepam dobrze wchłania się z przewodu pokarmowego. Maksymalne stężenie we krwi występuje po około 2 godzinach. Po doustnym podaniu 2 mg lorazepamu maksymalne stężenie we krwi wynosi 20 ng/ml. Lorazepam w 85% wiąże się z białkami krwi. Przenika przez barierę krew/płyn mózgowo-rdzeniowy. Przenika przez barierę łożyska i do mleka kobiecego. Proces biotransformacji lorazepamu przebiega w wątrobie. W wyniku sprzęgania z kwasem glukuronowym powstaje nieaktywny metabolit – glukuronian lorazepamu. Biologiczny okres półtrwania dla lorazepamu wynosi około 12 godzin. Lorazepam wydalany jest głównie z moczem w postaci glukuronianu lorazepamu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki drażowane"
+    ],
+    "nazwa_powszechna": [
+     "Lorazepamum"
+    ],
+    "atc": [
+     "N05BA06"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Lorazepam Orion",
@@ -71,7 +96,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym lorazepam jest szybko i niemal całkowicie wchłaniany. Maksymalne stężenie w osoczu występuje po upływie około 2 godzin od podania. Eliminacja Okres półtrwania niesprzężonego lorazepamu w osoczu człowieka wynosi zazwyczaj około 12 do 16 godzin. Przy stężeniach istotnych klinicznie lorazepam w około 90% wiąże się z białkami osocza. Stężenie lorazepamu w osoczu jest zależne od dawki. Po wielokrotnym podaniu u zdrowych osób nie obserwowano wzmożonej kumulacji. Lorazepam jest metabolizowany głównie przez sprzęganie z kwasem glukuronowym z wytworzeniem nieaktywnego glukuronidu. Lorazepam nie ma aktywnych metabolitów; 70% do 75% dawki ulega wydaleniu w moczu w postaci glukuronidu. Lorazepam nie jest hydroksylowany w znaczącym stopniu ani też nie jest substratem dla N-dealkilujących enzymów układu CYP450. Szczególne grupy pacjentów Wiek nie ma klinicznie istotnego wpływu na właściwości farmakokinetyczne lorazepamu. Podczas badania pacjentów w podeszłym wieku obserwowano statystycznie istotne zmniejszenie całkowitego klirensu, jednak okres półtrwania w fazie eliminacji nie uległ znaczącej zmianie. Nie obserwowano zmiany klirensu lorazepamu u pacjentów z łagodną lub umiarkowaną niewydolnością wątroby (zapalenie wątroby, marskość wątroby spowodowana przez alkohol). Podczas badań farmakokinetycznych pojedynczych dawek u pacjentów z różnym stopniem niewydolności nerek (łagodna do ciężkiej) nie obserwowano znaczących zmian dotyczących wchłaniania, klirensu i wydalania lorazepamu. Wydalanie nieaktywnego glukuronianu było znacznie opóźnione. Upośledzenie wydalania z wydłużeniem okresu półtrwania obserwowano w rezultacie dłuższego podawania lorazepamu u dwóch pacjentów z przewlekłą niewydolnością nerek. Hemodializa nie ma istotnego wpływu na właściwości farmakokinetyczne niezmienionego lorazepamu, natomiast w znaczącym stopniu usuwa nieaktywny glukuronian z osocza. 10 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Lorazepamum"
+    ],
+    "atc": [
+     "N05BA06"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

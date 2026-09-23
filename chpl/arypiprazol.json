@@ -18,14 +18,42 @@
    "moc": "1 mg/ml",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do wstrzykiwań",
+     "Roztwór doustny",
+     "Tabletki",
+     "Tabletki ulegające rozpadowi w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Aripiprazolum"
+    ],
+    "atc": [
+     "N05AX12"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Abilify Maintena",
    "moc": "300 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+     "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce"
+    ],
+    "nazwa_powszechna": [
+     "Aripiprazolum"
+    ],
+    "atc": [
+     "N05AX12"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Abilium",
@@ -45,7 +73,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie 18 Arypiprazol jest dobrze wchłaniany, maksymalne stężenie w osoczu osiąga w ciągu 3-5 godzin po podaniu. Arypiprazol w minimalnym stopniu ulega metabolizmowi przedukładowemu. Bezwzględna dostępność po doustnym podaniu jednej tabletki wynosi 87%. Spożywanie posiłków o dużej zawartości tłuszczu nie wpływa na farmakokinetykę arypiprazolu. Dystrybucja Arypiprazol jest rozmieszczany w całym organizmie, pozorna objętość dystrybucji wynosi 4,9 l/kg, co wskazuje na znaczną dystrybucję pozanaczyniową. W stężeniach terapeutycznych arypiprazol i dehydroarypiprazol wiążą się w ponad 99% z białkami surowicy, głównie z albuminami. Metabolizm Arypiprazol jest w znacznym stopniu metabolizowany w wątrobie. Proces ten przebiega trzema głównymi drogami: dehydrogenacji, hydroksylacji oraz N-dealkilacji. Jak wynika z badań in vitro, enzymy CYP3A4 i CYP2D6 warunkują dehydrogenację oraz hydroksylację arypiprazolu, a N- dealkilacja jest katalizowana przez CYP3A4. Główną cząsteczką czynną znajdującą się w krążeniu ogólnym jest sam arypiprazol. W stanie stacjonarnym czynny metabolit, dehydroarypiprazol, stanowi około 40% pola pod krzywą AUC arypiprazolu w osoczu. Eliminacja Średni okres półtrwania arypiprazolu w fazie eliminacji wynosi około 75 godzin u osób o zwiększonej aktywności CYP2D6 i około 146 godzin u osób o zmniejszonej aktywności CYP2D6. Całkowity klirens arypiprazolu wynosi 0,7 ml/min/kg i jest to głównie klirens wątrobowy. Po doustnym podaniu pojedynczej dawki arypiprazolu znakowanego [14C], stwierdza się odpowiednio 27% i 60% podanego pierwiastka radioaktywnego w moczu i kale. Mniej niż 1% niezmienionego arypiprazolu zostaje wydalone z moczem i około 18% z kałem. Dzieci i młodzież Farmakokinetyka arypiprazolu i dehydroarypiprazolu u dzieci w wieku od 10 do 17 lat była podobna do farmakokinetyki u dorosłych, po uwzględnieniu różnic w masie ciała. Farmakokinetyka w szczególnych grupach pacjentów Pacjenci w podeszłym wieku Nie stwierdzono różnic w farmakokinetyce arypiprazolu między zdrowymi osobami w podeszłym wieku a młodszymi osobami dorosłymi, nie stwierdzono także mierzalnego wpływu wieku na farmakokinetykę arypiprazolu u pacjentów ze schizofrenią. Płeć Nie stwierdzono, aby farmakokinetyka arypiprazolu różniła się u zdrowych kobiet i zdrowych mężczyzn. Nie stwierdzono także żadnego mierzalnego wpływu płci na farmakokinetykę arypiprazolu u pacjentów ze schizofrenią. Palenie tytoniu Populacyjne badania farmakokinetyczne nie wykazały żadnych istotnych klinicznie różnic w farmakokinetyce arypiprazolu, zależnych od palenia tytoniu. Rasa Populacyjne badanie farmakokinetyczne nie wykazało żadnych istotnych klinicznie różnic w farmakokinetyce arypiprazolu zależnych od rasy. 19 Zaburzenia czynności nerek Stwierdzono, że charakterystyka farmakokinetyczna arypiprazolu i dehydroarypiprazolu jest podobna u osób z ciężkimi chorobami nerek i u młodych osób zdrowych. Zaburzenia czynności wątroby Badania obejmujące podanie pojedynczej dawki leku, przeprowadzone u osób z różnego stopnia marskością wątroby (klasy Child-Pugh A, B i C) nie wykazały, by niewydolność wątroby wpływała istotnie na farmakokinetykę arypiprazolu i dehydroarypiprazolu, jednak w badaniu wzięło udział tylko 3 chorych z marskością wątroby typu C, co jest liczbą niewystarczającą do wyciągnięcia wniosków dotyczących zdolności metabolicznych tych pacjentów. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Aripiprazolum"
+    ],
+    "atc": [
+     "N05AX12"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

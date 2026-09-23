@@ -31,7 +31,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne 8 Wchłanianie Nitrazepam dobrze wchłania się z przewodu pokarmowego. Maksymalne stężenie we krwi występuje w ciągu 2 godzin od przyjęcia. Po dwóch godzinach od przyjęcia stężenie w płynie mózgowo- rdzeniowym wynosi około 8%, a po 36 godzinach wynosi około 16% stężenia występującego w osoczu krwi. Stężenie w płynie mózgowo-rdzeniowym odpowiada frakcji substancji czynnej niezwiązanej z białkami w osoczu. Stan równowagi stężeń osiągany jest w ciągu pięciu dni. Biodostępność po podaniu doustnym wynosi około 80% z dużą zmiennością wewnątrzosobniczą (53% do 97%). Wyniki dotyczące wpływu pokarmu na wchłanianie nitrazepamu są niespójne. Pokarm może powodować zmniejszenie i opóźnienie wchłaniania (do 30%). Dystrybucja Nitrazepam wiąże się z białkami w około 85% do 88% u dorosłych i dzieci. U osób młodszych objętość dystrybucji wynosi około 2 L/kg mc., u pacjentów w podeszłym wieku objętość dystrybucji jest większa. Okres półtrwania w fazie dystrybucji wynosi około 15 minut. Maksymalne stężenia w surowicy wynoszące 35-40 ng/ml zostały osiągnięte po doustnym podaniu 5 mg nitrazepamu. Procentowy stosunek średniego stężenia w płynie mózgowo-rdzeniowym do stężenia w osoczu wzrósł z 8,0% po 2 godzinach do 15,6% po 36 godzinach. Stężenie w płynie mózgowo-rdzeniowym odpowiada zatem niezwiązanej z białkami frakcji składnika aktywnego w osoczu. Nitrazepam przenika przez barierę łożyskową. Współczynnik stężenia płodowo-matczynego w osoczu w początkowym okresie ciąży wynosi około 0,6, a w późnym okresie ciąży około 0,9. Nitrazepam może przenikać do mleka matki. Współczynnik stężenia w mleku do stężenia w osoczu wynosi około 0,3. Farmakokinetykę nitrazepamu można opisać jako dwukompartmentowy model otwarty. Metabolizm Nitrazepam jest metabolizowany do szeregu metabolitów, z których żaden nie wykazuje istotnego klinicznie działania. W metabolizmie nitrazepamu biorą udział enzymy CYP3A4 i CYP2D6. Nitrazepam nie jest ani induktorem, ani inhibitorem enzymów metabolicznych. Główny szlak metaboliczny polega na redukcji i dalszej acetylacji grupy 7-nitrowej. Głównymi metabolitami są 7- aminonitrazepam i 7-acetamidonitrazepam, które są klinicznie nieaktywne. Eliminacja Okres półtrwania nitrazepamu w osoczu wynosi średnio 30 godzin. W płynie mózgowo-rdzeniowym okres półtrwania wynosi około 70 godzin. Średni okres półtrwania w fazie eliminacji z osocza wzrasta u pacjentów w podeszłym wieku do 40 godzin. Około 5% metabolitów w postaci niezmienionej razem z mniej niż 10% 7-amino i 7-acetyloamino metabolitami jest wydalanych z moczem w ciągu pierwszych 48 godzin. Zależności farmakokinetyczno-farmakodynamiczne Nie wykazano jednoznacznej zależności pomiędzy stężeniem nitrazepamu we krwi a jego działaniem klinicznym. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Nitrazepamum"
+    ],
+    "atc": [
+     "N05CD02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Nomefren",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Nitrazepam jest dobrze wchłaniany z przewodu pokarmowego, a maksymalne stężenie we krwi występuje w ciągu 2 godzin od przyjęcia. Po dwóch godzinach od przyjęcia stężenie w płynie mózgowo-rdzeniowym wynosi około 8%, a po 36 godzinach około 16% stężenia występującego w osoczu. Stężenie w płynie mózgowo-rdzeniowym odpowiada frakcji substancji czynnej niezwiązanej z białkami osocza. Stan stacjonarny jest osiągany w ciągu pięciu dni. Dystrybucja U młodszych osób objętość dystrybucji wynosi około 2 l/kg. U pacjentów w podeszłym wieku objętość dystrybucji jest większa, a średni okres półtrwania w fazie eliminacji wzrasta do 40 godzin. Metabolizm Nitrazepam jest metabolizowany do szeregu metabolitów, z których żaden nie wykazuje istotnego klinicznie działania. Eliminacja Około 5% metabolitów w postaci niezmienionej razem z mniej niż 10% 7-amino i 7-acetyloamino metabolitami jest wydalanych z moczem w ciągu pierwszych 48 godzin. Okres półtrwania wynosi średnio 24 godziny. Zależności farmakokinetyczno-farmakodynamiczne Nie wykazano jednoznacznej zależności pomiędzy stężeniem produktu leczniczego Nomefren we krwi, a jego działaniem klinicznym. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Nitrazepamum"
+    ],
+    "atc": [
+     "N05CD02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

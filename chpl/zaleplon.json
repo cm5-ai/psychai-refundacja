@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym zaleplon jest szybko i prawie całkowicie wchłaniany. Maksymalne stężenia są osiągane po około 1 godzinie. Co najmniej 71% podanej doustnie dawki leku ulega wchłonięciu. Zaleplon podlega metabolizmowi przedukładowemu, w wyniku czego jego bezwzględna dostępność biologiczna wynosi około 30%. Dystrybucja Zaleplon jest lipofilny, a jego objętość dystrybucji po podaniu dożylnym wynosi około 1,4 ± 0,3 l/kg. W warunkach in vitro stopień wiązania z białkami osocza wynosi około 60%, co sugeruje niewielkie ryzyko wystąpienia interakcji substancji czynnej w wyniku wiązania z białkami. Metabolizm Zaleplon jest głównie metabolizowany przez oksydazę aldehydową do postaci 5-oksy-zaleplonu. Ponadto, zaleplon jest metabolizowany przez CYP3A4 do deetylozaleplonu, który jest następnie przekształcany przez oksydazę aldehydową do 5-oksy-deetylozaleplonu. Metabolity powstałe w wyniku utleniania są dalej metabolizowane przez sprzęganie z kwasem glukuronowym. Żaden metabolit zaleplonu nie był aktywny ani w badaniach na zwierzęcych modelach behawioralnych, ani w testach in vitro. Stężenia zaleplonu w osoczu zwiększały się liniowo z dawką, nie stwierdzono kumulacji zaleplonu po podaniu dawek do 30 mg/dobę. Okres półtrwania w fazie eliminacji zaleplonu wynosi około 1 godziny. Eliminacja Zaleplon jest wydalany w postaci nieaktywnych metabolitów, głównie w moczu (71%) i z kałem (17%). Większość (57%) podanej dawki wydala się w moczu w postaci 5-oksyzaleplonu i jego pochodnej glukuronidowej, dodatkowe 9% wydalane jest w postaci 5-oksydeetylozaleplonu i jego pochodnej glukuronidowej. Pozostałą część dawki stanowią w moczu mniej istotne metabolity. Większość metabolitów wykrytych w kale stanowi 5-oksy-zaleplon. Zaburzenia czynności wątroby Zaleplon jest metabolizowany głównie w wątrobie i podlega w znaczącym stopniu metabolizmowi przedukładowemu. W konsekwencji, po doustnym podaniu zaleplonu pacjentom z wyrównaną i niewyrównaną marskością wątroby, klirens był zmniejszony odpowiednio o 70% i 87%, co prowadziło do znacznego zwiększenia wartości Cmax i pola pod krzywą AUC (zwiększenie odpowiednio 4- krotne i 7-krotne, u pacjentów z wyrównaną i niewyrównaną marskością wątroby) w stosunku do zdrowych osób. Stosowanie zaleplonu nie jest zalecane u pacjentów z ciężkimi zaburzeniami czynności wątroby. Zaburzenia czynności nerek Farmokokinetyka zaleplonu po podaniu pojedynczej dawki była badana u pacjentów z łagodnym (klirens kreatyniny 40–89 ml/min) i umiarkowanym (20–39 ml/min) zaburzeniem czynności nerek i pacjentów dializowanych. U pacjentów z umiarkowanym zaburzeniem czynności nerek i pacjentów dializowanych maksymalne stężenie w osoczu było zmniejszone o około 23% w stosunku do zdrowych ochotników. Zakres ekspozycji na zaleplon był podobny we wszystkich grupach. Dlatego, modyfikacja dawkowania u pacjentów z łagodnym do umiarkowanego zaburzeniem czynności nerek nie jest konieczna. Nie przeprowadzono odpowiednich badań dotyczących stosowania zaleplonu u pacjentów z ciężkim zaburzeniem czynności nerek. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Zaleplonum"
+    ],
+    "atc": [
+     "N05CF03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

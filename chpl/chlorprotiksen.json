@@ -31,7 +31,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Chloroprotyksen jest szybko wchłaniany z przewodu pokarmowego, a jego działanie rozpoczyna się w ciągu 30 minut. Dystrybucja Przenika przez barierę krew-mózg, ma dużą objętość dystrybucji w organizmie. Wiąże się z białkami osocza (w ponad 99%). Metabolizm i eliminacja Jest intensywnie metabolizowany w wątrobie i wydalany w postaci metabolitów z moczem i kałem. Biologiczny okres półtrwania leku wynosi od 8 do 12 godzin. Przenika przez barierę łożyskową i w niewielkich ilościach jest wydzielany do mleka. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Chlorprothixeni hydrochloridum"
+    ],
+    "atc": [
+     "N05AF03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Chlorprothixen Zentiva",
@@ -51,7 +63,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Chloroprotyksen jest szybko wchłaniany z przewodu pokarmowego, a jego działanie rozpoczyna się w ciągu 30 minut. 9 Dystrybucja Przenika przez barierę krew-mózg, ma dużą objętość dystrybucji w organizmie. Wiąże się z białkami osocza (w ponad 99%). Metabolizm i eliminacja Jest intensywnie metabolizowany w wątrobie i wydalany w postaci metabolitów z moczem i kałem. Biologiczny okres półtrwania leku wynosi od 8 do 12 godzin. Przenika przez barierę łożyskową i w niewielkich ilościach jest wydzielany do mleka. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Chlorprothixeni hydrochloridum"
+    ],
+    "atc": [
+     "N05AF03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ],
  "uwagi_audytu": [

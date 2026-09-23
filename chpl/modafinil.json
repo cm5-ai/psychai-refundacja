@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Modafinil jest związkiem racemicznym, a jego enancjomery mają różną farmakokinetykę; u dorosłych pacjentów okres półtrwania eliminacji izomeru R jest trzy razy dłuższy niż izomeru S. Liniowość (lub nieliniowość) Farmakokinetyka modafinilu jest liniowa i zależna od czasu. Ekspozycja ogólnoustrojowa wzrasta w sposób zależny od dawki w zakresie dawek 200-600 mg. Wchłanianie Modafinil jest dobrze wchłaniany; maksymalne stężenie w osoczu osiągane jest po około 2-4 godzinach od podania. Pokarm nie ma wpływu na ogólną biodostępność modafinilu, jednakże wchłanianie (tmax) może być opóźnione o około godzinę w razie przyjęcia leku razem z posiłkiem. Dystrybucja Modafinil wiąże się z białkami osocza w umiarkowanym stopniu (około 60%), głównie z albuminami, co wskazuje na małe ryzyko interakcji z lekami silnie wiążącymi się z białkami. Biotransformacja Modafinil jest metabolizowany w wątrobie. Główny metabolit (40-50% dawki), kwas modafinilowy, nie ma działania farmakologicznego. Eliminacja Wydalanie modafinilu i jego metabolitów zachodzi głównie przez nerki, przy czym niewielka ilość (< 10% dawki) jest wydalana w stanie niezmienionym. Skuteczny okres półtrwania eliminacji modafinilu po podaniu wielokrotnym wynosi około 15 godzin. Zaburzenia czynności nerek Ciężka przewlekła niewydolność nerek (klirens kreatyniny do 20 ml/min) nie miała znaczącego wpływu na farmakokinetykę modafinilu podanego w dawce 200 mg, jednakże ekspozycja na kwas modafinilowy zwiększyła się 9 razy. Brak wystarczających informacji umożliwiających określenie bezpieczeństwa i skuteczności stosowania u pacjentów z zaburzeniami czynności nerek. Zaburzenia czynności wątroby U pacjentów z marskością wątroby eliminacja modafinilu po podaniu doustnym była zmniejszona o około 60%, a stężenie w stanie równowagi było dwukrotnie zwiększone. U pacjentów z ciężkimi zaburzeniami czynności wątroby należy zmniejszyć dawkowanie modafinilu o połowę. Pacjenci w podeszłym wieku Dostępne są tylko ograniczone dane dotyczące stosowania modafinilu u pacjentów w podeszłym wieku. Biorąc pod uwagę możliwość zmniejszenia klirensu i zwiększenia ekspozycji ogólnoustrojowej, zaleca się, aby u pacjentów w wieku powyżej 65 lat rozpoczynać leczenie od dawki 100 mg na dobę. Dzieci i młodzież U pacjentów w wieku od 6 do 7 lat szacowany okres półtrwania wynosi około 7 godzin i wzrasta z wiekiem aż do osiągnięcia okresu półtrwania występującego u dorosłych (około 15 godzin). Ta różnica w szybkości eliminacji jest częściowo wyrównana przez mniejsze rozmiary i masę ciała młodszych pacjentów, co prowadzi do porównywalnej ekspozycji po podaniu porównywalnych 10 dawek. U dzieci i młodzieży obserwuje się większe niż u dorosłych stężenie jednego z krążących metabolitów, sulfonu modafinilu. Ponadto po wielokrotnym podaniu modafinilu dzieciom i młodzieży obserwuje się zależne od czasu zmniejszenie ekspozycji ogólnoustrojowej, która osiąga plateau po około 6 tygodniach. Wydaje się, że po osiągnięciu stanu równowagi parametry farmakokinetyki modafinilu nie zmieniają się przy ciągłym podawaniu przez okres do 1 roku. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Modafinilum"
+    ],
+    "atc": [
+     "N06BA07"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

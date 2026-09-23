@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Doksepina dobrze wchłania się z przewodu pokarmowego. Około 55% do 87% podanej doustnie dawki podlega w wątrobie efektowi pierwszego przejścia, w wyniku którego powstaje główny metabolit - demetylodoksepina. U zdrowych ochotników po podaniu pojedynczej dawki 75 mg, wartości maksymalnego stężenia w osoczu wynosiły od 8,8 do 45,8 ng/ml (średnio 26,1 ng/ml) i osiągane były po 2-4 godzinach (średnio 2,9 h) po podaniu. Dla demetylodoksepiny wartości te wynosiły 4,8-14,5 ng/ml (średnio 9,7 ng/ml) i osiągane były po 2-10 godzinach. Średnia objętość dystrybucji dla doksepiny wynosi 20 l/kg. Lek wiąże się z białkami osocza w około 76%. U zdrowych ochotników okres półtrwania w fazie eliminacji wahał się od 8 do 24 godzin (średnio 17 godzin), a demetylodoksepiny - od 33 do 80 godzin (średnio 51 h). Średni klirens osoczowy doksepiny wynosi około 0,84 l/kg/h. Przemiany metaboliczne doksepiny zachodzą na drodze demetylacji, N-oksydacji, hydroksylacji i sprzęganiu z kwasem glukuronowym. Doksepina wydalana jest głównie w moczu, w postaci metabolitów, w formie wolnej lub skoniugowanej. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Doxepinum"
+    ],
+    "atc": [
+     "N06AA12"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie 8 Zopiklon szybko się wchłania. Maksymalne stężenie w osoczu jest uzyskiwane po 1,5 - 2 godzinach i wynosi około 30 i 60 ng/ml po podaniu, odpowiednio, 3,75 mg i 7,5 mg. Wchłanianie jest identyczne u kobiet i u mężczyzn. Pokarm lub powtórzenie dawki nie wpływa na wchłanianie leku. Dystrybucja Zopiklon ulega szybkiej dystrybucji z kompartmentu naczyniowego. Wiąże się z białkami osocza przynajmniej w 45% i wiązanie to nie jest nasycone. Istnieje bardzo małe ryzyko interakcji lekowych z powodu wiązania z białkami. Objętość dystrybucji wynosi 91,8 - 104,6 litrów. Zmniejszenie stężenia w osoczu nie zależy od wielkości dawki w zakresie od 3,75 do 15 mg. Okres półtrwania w fazie eliminacji wynosi około 5 godzin po podaniu zalecanych dawek. Nie występuje kumulacja po wielokrotnym podaniu, a różnice osobnicze są niewielkie. Metabolizm Głównymi metabolitami są N-tlenek (wykazujący aktywność farmakologiczną u zwierząt) i N- demetylopochodna (farmakologicznie nieaktywna u zwierząt). Badanie in vitro wskazuje, że cytochrom P450 (CYP) 3A4 jest głównym izoenzymem zaangażowanym w metabolizm zopiklonu do obu metabolitów oraz że CYP2C8 jest również zaangażowany w tworzenie N-demetylo zopiklonu . Ich okresy półtrwania wynoszą w przybliżeniu, odpowiednio około 4,5 godziny i 1,5 godziny. Nie obserwuje się istotnej kumulacji związku po wielokrotnym podaniu dawki (15 mg) przez 14 dni. U zwierząt nie zaobserwowano wzrostu aktywności enzymów nawet dla dużych dawek. Eliminacja Mały klirens nerkowy zopiklonu (średnio 8,4 ml/min) w porównaniu do klirensu osoczowego (232 ml/min) wykazuje, że zopiklon jest usuwany głównie na drodze metabolizmu. Zopiklon jest wydalany z moczem (około 80%) w postaci nieskoniugowanych metabolitów (N-tlenek i N-demetylopochodna) oraz z kałem (około 16%). Szczególne grupy pacjentów W różnych badaniach z udziałem pacjentów w podeszłym wieku nie obserwowano kumulacji w osoczu po wielokrotnym podaniu, pomimo niewielkiego zmniejszenia czynności nerek i wydłużenia okresu półtrwania do około 7 godzin. U chorych z niewydolnością nerek, po przedłużonym podawaniu nie dochodzi do kumulacji zopiklonu ani jego metabolitów. Zopiklon przenika przez błonę dializacyjną. U pacjentów z marskością wątroby zwolnienie procesu demetylacji powoduje spowolnienie klirensu osoczowego o około 40%. W związku z tym u tych pacjentów należy dostosować dawkę. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Zopiclonum"
+    ],
+    "atc": [
+     "N05CF01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Dobroson",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Zopiklon szybko się wchłania. Maksymalne stężenie leku w osoczu występuje po upływie 1,5 h do 2 h i wynosi około 30 ng/ml i 60 ng/ml po podaniu odpowiednio 3,75 mg i 7,5 mg leku. Wchłanianie jest identyczne u kobiet i u mężczyzn, a pokarm lub powtórzenie dawki nie wpływa na wchłanianie zopiklonu. Dystrybucja Zopiklon ulega szybkiej dystrybucji z kompartmentu naczyniowego. Wiąże się z białkami osocza przynajmniej w 45% i wiązanie to nie jest wysycone. Zmniejszenie stężenia leku w osoczu nie zależy od wielkości dawki w zakresie wartości od 3,75 mg do 15 mg. Okres półtrwania w fazie eliminacji wynosi około 5 h po podaniu zalecanych dawek. Nie występuje kumulacja po wielokrotnym podaniu a różnice osobnicze są niewielkie. Poniżej 1% dawki przyjętej przez matkę przenika do mleka matki. Biotransoformacja Głównymi metabolitami są N-tlenek (wykazujący aktywność farmakologiczną u zwierząt) i N-demetylometabolit (farmakologicznie nieaktywny u zwierząt). Ich okres półtrwania wynosi odpowiednio około 4,5 h i 7,4 h. Po wielokrotnym podaniu nie obserwowano istotnej kumulacji leku (15 mg) przez 14 dni. Eliminacja Mały klirens nerkowy zopiklonu (średnio 8,4 ml/min) w porównaniu do klirensu osoczowego ( 232 ml/min) wykazuje, że zopiklon jest usuwany głównie na drodze metabolizmu. Zopiklon jest wydalany z moczem (około 80%) w postaci niesprzężonych metabolitów (N-tlenek i N-demetylometabolit) oraz z kałem (około 16%). Specjalne grupy pacjentów 7 W różnych badaniach z udziałem pacjentów w podeszłym wieku nie obserwowano kumulacji leku w osoczu po wielokrotnym podaniu, pomimo niewielkiego zmniejszenia czynności nerek i wydłużenia okresu półtrwania do około 7 godzin. U chorych z niewydolnością nerek po długotrwałym podawaniu nie dochodzi do kumulacji zopiklonu ani jego metabolitów. Zopiklon przenika przez błonę dializacyjną. U pacjentów z marskością wątroby zwolnienie procesu demetylacji powoduje spowolnienie klirensu osoczowego o około 40%. W związku z tym u tych pacjentów należy dostosować dawkę. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Zopiclonum"
+    ],
+    "atc": [
+     "N05CF01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Imovane",
@@ -71,7 +95,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Zopiklon jest szybko wchłaniany po podaniu doustnym. Maksymalne stężenia w osoczu występują po 1,5 - 2 godz. i wynoszą około 30 ng/ml lub 60 ng/ml po dawkach odpowiednio 3,5 mg i 7,5 mg. Wchłanianie przebiega podobnie u mężczyzn i kobiet, i nie zmienia się pod wpływem pokarmu. Dystrybucja Zopiklon szybko przenika z łożyska naczyniowego. Stopień wiązania z białkami osocza jest mały (wynosi około 45%) i nie występuje zjawisko wysycenia. Ryzyko interakcji związanych z wypieraniem leku z połączeń z białkami jest bardzo małe. Objętość dystrybucji zopiklonu wynosi 91,8 - 104,6 l. Podczas laktacji kinetyka zopiklonu w osoczu i mleku jest podobna. Ocenia się, że niemowlę może spożyć z mlekiem kobiecym nie więcej niż 1,0% dawki podanej matce w ciągu 24 godzin. 8 Metabolizm Po wielokrotnym podaniu nie dochodzi do kumulacji zopiklonu ani jego metabolitów. Zmienność osobnicza parametrów farmakokinetycznych wydaje się niewielka. Głównym metabolitem zopiklonu jest N-tlenek (farmakologicznie czynny u zwierząt) i N-demetylozopiklon (farmakologicznie nieczynny u zwierząt). W badaniu in vitro stwierdzono, że izoenzym CYP3A4 cytochromu P450 jest głównym izoenzymem, uczestniczącym w metabolizmie zopiklonu do obu wyżej wymienionych metabolitów, a izoenzym CYP2C8 uczestniczy także w powstawaniu N-demetylozopiklonu. Na podstawie analizy próbek moczu stwierdzono, że okres półtrwania N-tlenku ocenia się na 4,5 h, a drugiego metabolitu na 7,4 h. U zwierząt zopiklon, nawet podawany w dużych dawkach, nie indukuje enzymów mikrosomalnych. Eliminacja Okres półtrwania w fazie eliminacji nie zmienionego zopiklonu, stosowanego w zalecanych dawkach, wynosi około 5 godz. Klirens nerkowy nie zmienionego zopiklonu jest niewielki (około 8,4 ml/min) w porównaniu z klirensem osoczowym (232 ml/min), co wskazuje, że eliminacja zopiklonu odbywa się głównie w wyniku biotransformacji. Zopiklon jest wydalany z moczem (około 80% zastosowanej dawki) głównie w postaci wymienionych wyżej metabolitów oraz z kałem (około 16%). Kinetyka zopiklonu w szczególnych grupach pacjentów Osoby w podeszłym wieku U pacjentów w podeszłym wieku, mimo zwolnionego metabolizmu wątrobowego i wydłużenia okresu półtrwania w fazie eliminacji do około 7 h, nie stwierdzono, by dochodziło do kumulacji leku w osoczu podczas wielokrotnego podawania. Niewydolność wątroby U pacjentów z marskością wątroby klirens osoczowy zopiklonu ulega zmniejszeniu o około 40% w związku ze zwolnieniem procesu demetylacji. Z tego względu u tych pacjentów dawkę należy odpowiednio modyfikować. Niewydolność nerek U pacjentów z niewydolnością nerek po długotrwałym stosowaniu produktu nie stwierdzono kumulacji zopiklonu ani jego metabolitów. Zopiklon jest usuwany podczas hemodializy; w związku ze znaczną objętością dystrybucji zopiklonu hemodializa jest jednak nieskuteczna w przypadku przedawkowania (patrz punkt 4.9.). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Zopiclonum"
+    ],
+    "atc": [
+     "N05CF01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

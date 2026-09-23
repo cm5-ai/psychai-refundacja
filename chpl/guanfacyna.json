@@ -18,14 +18,38 @@
    "moc": "1 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Guanfacinum"
+    ],
+    "atc": [
+     "C02AC02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Paxneury",
    "moc": "1 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Guanfacinum"
+    ],
+    "atc": [
+     "C02AC02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

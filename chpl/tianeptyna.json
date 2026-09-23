@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Wchłanianie tianeptyny w przewodzie pokarmowym jest szybkie i całkowite, wpływ pokarmu jest nieistotny. Dystrybucja Dystrybucja tianeptyny jest szybka, ponieważ lek wiąże się w znacznym stopniu z białkami (około 94%), głównie z albuminami. Biotransformacja Tianeptyna jest w bardzo dużym stopniu metabolizowana w wątrobie, głównie w procesie β-oksydacji, nie ulega biotransformacji przy udziale cytochromu P450. Głównym metabolitem jest czynny kwas pentanowy (MC5), substancja słabiej działająca niż tianeptyna. Eliminacja Eliminacja tianeptyny charakteryzuje się krótkim okresem półtrwania wynoszącym 3 godziny, większość metabolitów jest wydalana z moczem. Pacjenci w podeszłym wieku, w bardzo podeszłym wieku oraz wątli pacjenci U pacjentów w podeszłym wieku stężenia tianeptyny były zwiększone o 30%, a stężenia MC5 były około dwukrotnie zwiększone po pojedynczym i wielokrotnym podaniu, w porównaniu do młodszych osób (patrz punkt 4.2). U pacjentów w bardzo podeszłym wieku (87 ± 5 lat) oraz wątłych pacjentów (o masie ciała 45 kg ± 9 kg) obserwowano istotne zwiększenie wartości Cmax i AUC dla tianeptyny oraz MC5 po pojedynczym podaniu leku (patrz punkt 4.2). Pacjenci z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 ml/min) Po pojedynczym i wielokrotnym podaniu właściwości farmakokinetyczne tianeptyny są niezmienione, ale wartość AUC dla MC5 jest około dwukrotnie zwiększona (patrz punkt 4.2). Pacjenci z ciężką marskością wątroby (klasa C wg Childa-Pugha) Wartości AUC dla tianeptyny oraz dla MC5 po podaniu dawki 12,5 mg są zwiększone w porównaniu do wartości u dorosłych pacjentów z depresją (patrz punkt 4.2). W przypadku łagodnej marskości wątroby, takiej jak u osób uzależnionych od alkoholu, wpływ na parametry farmakokinetyczne jest nieistotny (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Tianeptinum natricum"
+    ],
+    "atc": [
+     "N06AX14"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Coaxil",
@@ -51,7 +63,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Wchłanianie w przewodzie pokarmowym jest szybkie i całkowite, wpływ pokarmu jest nieistotny. Dystrybucja Dystrybucja jest szybka. Lek wiąże się z białkami w około 94%, głównie z albuminami. Metabolizm Tianeptyna jest w bardzo dużym stopniu metabolizowana w wątrobie, głównie w procesie -oksydacji, nie ulega biotransformacji przy udziale cytochromu P450. Głównym metabolitem jest czynny kwas pentanowy (MC5), substancja słabiej działająca niż tianeptyna. 7 Eliminacja Eliminacja tianeptyny charakteryzuje się krótkim okresem półtrwania wynoszącym 3 godziny, większość metabolitów jest wydalana z moczem. Pacjenci w podeszłym wieku, w bardzo podeszłym wieku oraz wątli pacjenci U pacjentów w podeszłym wieku stężenia tianeptyny były zwiększone o 30%, a stężenia MC5 były około dwukrotnie zwiększone po pojedynczym i wielokrotnym podaniu, w porównaniu do młodszych osób (patrz punkt 4.2). U pacjentów w bardzo podeszłym wieku (87 ± 5 lat) oraz wątłych pacjentów (o masie ciała 45 kg ± 9 kg) obserwowano istotne zwiększenie wartości Cmax i AUC dla tianeptyny oraz MC5 po pojedynczym podaniu leku (patrz punkt 4.2). Pacjenci z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 ml/min) Po pojedynczym i wielokrotnym podaniu właściwości farmakokinetyczne tianeptyny są niezmienione, ale wartość AUC dla MC5 jest około dwukrotnie zwiększona (patrz punkt 4.2). Pacjenci z ciężką marskością wątroby (klasa C wg Childa-Pugha) Wartości AUC dla tianeptyny oraz dla MC5 po podaniu dawki 12,5 mg są zwiększone w porównaniu do wartości u dorosłych pacjentów z depresją (patrz punkt 4.2). W przypadku łagodnej marskości wątroby, takiej jak u osób uzależnionych od alkoholu, wpływ na parametry farmakokinetyczne jest nieistotny (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki drażowane",
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Tianeptinum natricum"
+    ],
+    "atc": [
+     "N06AX14"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Tialera",
@@ -71,7 +96,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Wchłanianie w przewodzie pokarmowym jest szybkie i całkowite, wpływ pokarmu jest nieistotny Dystrybucja Dystrybucja jest szybka ze względu na to, iż lek wiąże się w znacznym stopniu z białkami (około 94%), głównie z albuminami. Biotransformacja Tianeptyna jest w bardzo dużym stopniu metabolizowana w wątrobie, głównie w procesie β-oksydacji, nie ulega biotransformacji przy udziale cytochromu P450. Głównym metabolitem jest czynny kwas pentanowy (MC5), substancja słabiej działająca niż tianeptyna. Eliminacja Eliminacja tianeptyny charakteryzuje się krótkim okresem półtrwania wynoszącym 3 godziny, większość metabolitów jest wydalana z moczem. Osoby w podeszłym wieku, w bardzo podeszłym wieku oraz wątli pacjenci U pacjentów w podeszłym wieku stężenia tianeptyny były zwiększone o 30%, a stężenia MC5 były około dwukrotnie zwiększone po pojedynczym i wielokrotnym podaniu, w porównaniu do młodszych osób (patrz punkt 4.2). U pacjentów w bardzo podeszłym wieku (87 ± 5 lat) oraz wątłych pacjentów (o masie ciała 45 kg ± 9 kg) obserwowano istotne zwiększenie wartości Cmax i AUC dla tianeptyny oraz MC5 po pojedynczym podaniu leku (patrz punkt 4.2). 7 Pacjenci z ciężką marskością wątroby (klasa C wg Childa-Pugha) Wartości AUC dla tianeptyny oraz dla MC5 po podaniu dawki 12,5 mg są zwiększone w porównaniu do wartości u dorosłych pacjentów z depresją (patrz punkt 4.2). W przypadku łagodnej marskości wątroby, takiej jak u osób uzależnionych od alkoholu, wpływ na parametry farmakokinetyczne jest nieistotny (patrz punkt 4.2). Pacjenci z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 mL/min) Po pojedynczym i wielokrotnym podaniu właściwości farmakokinetyczne tianeptyny są niezmienione, ale wartość AUC dla MC5 jest około dwukrotnie zwiększona (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Tianeptinum natricum"
+    ],
+    "atc": [
+     "N06AX14"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Maksymalne stężenia produktu w osoczu osiągane są około 3–4 godzin po podaniu doustnym. Stężenia w osoczu oraz pole pod krzywą zwiększają się proporcjonalnie do dawki. Końcowy okres półtrwania wynosi około 70 godzin, tym samym wielokrotne podanie pojedynczych dawek dobowych prowadzi do stopniowego osiągania stanu stacjonarnego. Stan stacjonarny osiągany jest w ciągu około 3 tygodni po rozpoczęciu leczenia. Po osiągnięciu stanu stacjonarnego, stężenia donepezylu chlorowodorku w osoczu i związane z tym efekty farmakodynamiczne wykazują niewielką zmienność w ciągu dnia. Pokarm nie wpływa na wchłanianie donepezylu chlorowodorku. Dystrybucja Donepezylu chlorowodorek wiąże się z białkami osocza w około 95%. Stopień wiązania czynnego metabolitu 6-O-demetylodonepezylu z białkami osocza nie jest znany. Dystrybucja donepezylu chlorowodorku do różnych tkanek ciała nie została dokładnie poznana. Jednakże w badaniu przeprowadzonym u zdrowych ochotników płci męskiej o zbliżonej masie ciała, po 240 godzinach od jednokrotnego podania 5 mg donepezylu chlorowodorku znaczonego 14C, około 28% znakowanego promieniotwórczo związku pozostało niewydalone. Oznacza to, że donepezylu chlorowodorek i (lub) jego metabolity mogą pozostawać w organizmie przez ponad 10 dni. Metabolizm/Eliminacja 8 Donepezylu chlorowodorek jest wydalany zarówno w postaci niezmienionej z moczem, jak i metabolizowany przez układ cytochromu P450 do wielu metabolitów, z których nie wszystkie zostały zidentyfikowane. Po jednokrotnym podaniu dawki 5 mg donepezylu chlorowodorku znaczonego 14C, poziom radioaktywności w osoczu, wyrażony jako procent podanej dawki, wynosił odpowiednio 30% dla postaci niezmienionej (donepezylu chlorowodorku), 11% dla 6-O-demetylodonepezylu (jedyny metabolit o działaniu podobnym do donepezylu chlorowodorku), 9% dla N-tlenku cis-donepezylu, 7% dla 5-O-demetylodonepezylu oraz 3% dla glukuronidu 5-O-demetylodonepezylu. Około 57% całkowitej dawki radioaktywnej substancji stwierdzono w moczu (17% jako donepezyl w postaci niezmienionej) oraz 14,5% w kale, co wskazuje na biotransformację i wydalanie z moczem jako główne drogi eliminacji. Brak danych wskazujących na krążenie jelitowo-wątrobowe donepezylu chlorowodorku i (lub) któregokolwiek z jego metabolitów. Stężenia donepezylu w osoczu zmniejszają się wraz z okresem półtrwania wynoszącym około 70 godzin. Płeć, rasa oraz palenie tytoniu w wywiadzie nie mają klinicznie istotnego wpływu na stężenie donepezylu chlorowodorku w osoczu. Nie prowadzono odpowiednich badań nad farmakokinetyką donepezylu u zdrowych osób w wieku podeszłym ani pacjentów z chorobą Alzheimera, lub z demencją naczyniową. Jednakże średnie stężenia produktu w osoczu pacjentów były zbliżone do tych u młodych zdrowych ochotników. Stężenia donepezylu w stanie stacjonarnym u pacjentów z łagodną i umiarkowaną niewydolnością wątroby były zwiększone; średnie wartości AUC były większe o 48% i średnie wartości Cmax o 39% (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Donepezili hydrochloridum"
+    ],
+    "atc": [
+     "N06DA02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Cogiton 10",
@@ -51,7 +63,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Maksymalne stężenie leku w osoczu obserwowano w ciągu 3-4 godzin po podaniu doustnym. Stężenie w osoczu oraz pole pod krzywą zwiększają się proporcjonalnie do dawki. Końcowy okres półtrwania wynosi około 70 godzin, tym samym wielokrotne podanie pojedynczych dawek dobowych 8 prowadzi do stopniowego osiągania stanu stacjonarnego. Stan stacjonarny osiągany jest w ciągu 3 tygodni po rozpoczęciu leczenia. Po osiągnięciu stanu stacjonarnego, stężenie chlorowodorku donepezylu w osoczu i związane z tym właściwości farmakodynamiczne wykazują niewielką zmienność w ciągu dnia. Pokarm nie wpływa na wchłanianie chlorowodorku donepezylu. Dystrybucja Chlorowodorek donepezylu wiąże się z białkami osocza w około 95%. Stopień wiązania czynnego metabolitu 6-O-demetylodonepezylu z białkami osocza nie jest znany. Dystrybucja chlorowodorku donepezylu do różnych tkanek ciała nie została dokładnie poznana. W badaniu przeprowadzonym u zdrowych ochotników o zbliżonej masie ciała, po 24 godzinach od jednokrotnego podania 5 mg chlorowodorku donepezylu znaczonego 14C, około 28% znakowanego promieniotwórczo związku pozostało niewydalone. Oznacza to, że chlorowodorek donepezylu i (lub) jego metabolity mogą pozostawać w organizmie przez ponad 10 dni. Metabolizm / Wydalanie Chlorowodorek donepezylu jest wydalany zarówno w postaci niezmienionej z moczem, jak i zmetabolizowanej przez układ cytochromu P450 do wielu metabolitów, z których nie wszystkie zostały zidentyfikowane. Po jednokrotnym podaniu dawki 5 mg chlorowodorku donepezylu znaczonego 14C poziom radioaktywności w osoczu, wyrażony jako procent podanej dawki, był obecny głównie w następujących postaciach: forma niezmieniona chlorowodorku donepezylu (30%), 6-O-desmetylodonepezyl (11%)- jedyny metabolit o działaniu podobnym do chlorowodorku donepezylu, N-tlenek cis-donepezylu (9%), 5-O-desmetyldonepezyl (7%) oraz glukuronid 5-O-desmetylodonepezylu (3%). Około 57% całkowitej podanej radioaktywności stwierdzono w moczu (17% jako donepezyl w postaci niezmienionej) oraz 14,5% w kale, co wskazuje na biotransformację i wydalanie z moczem jako główne drogi eliminacji. Brak danych świadczących o krążeniu jelitowo-wątrobowym chlorowodorku donepezylu i (lub) któregokolwiek z jego metabolitów. Stężenie donepezylu w osoczu zmniejsza się wraz z okresem półtrwania wynoszącym około 70 godzin. Płeć, rasa oraz palenie tytoniu w wywiadzie nie mają klinicznie istotnego wpływu na stężenie chlorowodorku donepezylu w osoczu. Nie prowadzono formalnych badań nad farmakokinetyką donepezylu u zdrowych osób w podeszłym wieku ani u pacjentów z chorobą Alzheimera lub z demencją naczyniową. Jednak średnie stężenia leku w osoczu tych pacjentów były podobne jak u młodych zdrowych ochotników. Stężenie donepezylu w stanie stacjonarnym u pacjentów z łagodną i umiarkowaną niewydolnością wątroby było zwiększone; średnie wartości AUC były większe o 48%, a średnie wartości Cmax o 39% (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Donepezili hydrochloridum"
+    ],
+    "atc": [
+     "N06DA02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Cogiton 5",
@@ -71,7 +95,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Maksymalne stężenie leku w osoczu obserwowano w ciągu 3-4 godzin po podaniu doustnym. Stężenie w osoczu oraz pole pod krzywą zwiększają się proporcjonalnie do dawki. Końcowy okres półtrwania wynosi około 70 godzin, tym samym wielokrotne podanie pojedynczych dawek dobowych 8 prowadzi do stopniowego osiągania stanu stacjonarnego. Stan stacjonarny osiągany jest w ciągu 3 tygodni po rozpoczęciu leczenia. Po osiągnięciu stanu stacjonarnego, stężenie chlorowodorku donepezylu w osoczu i związane z tym właściwości farmakodynamiczne wykazują niewielką zmienność w ciągu dnia. Pokarm nie wpływa na wchłanianie chlorowodorku donepezylu. Dystrybucja Chlorowodorek donepezylu wiąże się z białkami osocza w około 95%. Stopień wiązania czynnego metabolitu 6-O-demetylodonepezylu z białkami osocza nie jest znany. Dystrybucja chlorowodorku donepezylu do różnych tkanek ciała nie została dokładnie poznana. W badaniu przeprowadzonym u zdrowych ochotników o zbliżonej masie ciała, po 24 godzinach od jednokrotnego podania 5 mg chlorowodorku donepezylu znaczonego 14C, około 28% znakowanego promieniotwórczo związku pozostało niewydalone. Oznacza to, że chlorowodorek donepezylu i (lub) jego metabolity mogą pozostawać w organizmie przez ponad 10 dni. Metabolizm / Wydalanie Chlorowodorek donepezylu jest wydalany zarówno w postaci niezmienionej z moczem, jak i zmetabolizowanej przez układ cytochromu P450 do wielu metabolitów, z których nie wszystkie zostały zidentyfikowane. Po jednokrotnym podaniu dawki 5 mg chlorowodorku donepezylu znaczonego 14C poziom radioaktywności w osoczu, wyrażony jako procent podanej dawki, był obecny głównie w następujących postaciach: forma niezmieniona chlorowodorku donepezylu (30%), 6-O-desmetylodonepezyl (11%)- jedyny metabolit o działaniu podobnym do chlorowodorku donepezylu, N-tlenek cis-donepezylu (9%), 5-O-desmetyldonepezyl (7%) oraz glukuronid 5-O-desmetylodonepezylu (3%). Około 57% całkowitej podanej radioaktywności stwierdzono w moczu (17% jako donepezyl w postaci niezmienionej) oraz 14,5% w kale, co wskazuje na biotransformację i wydalanie z moczem jako główne drogi eliminacji. Brak danych świadczących o krążeniu jelitowo-wątrobowym chlorowodorku donepezylu i (lub) któregokolwiek z jego metabolitów. Stężenie donepezylu w osoczu zmniejsza się wraz z okresem półtrwania wynoszącym około 70 godzin. Płeć, rasa oraz palenie tytoniu w wywiadzie nie mają klinicznie istotnego wpływu na stężenie chlorowodorku donepezylu w osoczu. Nie prowadzono formalnych badań nad farmakokinetyką donepezylu u zdrowych osób w podeszłym wieku ani u pacjentów z chorobą Alzheimera lub z demencją naczyniową. Jednak średnie stężenia leku w osoczu tych pacjentów były podobne jak u młodych zdrowych ochotników. Stężenie donepezylu w stanie stacjonarnym u pacjentów z łagodną i umiarkowaną niewydolnością wątroby było zwiększone; średnie wartości AUC były większe o 48%, a średnie wartości Cmax o 39% (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Donepezili hydrochloridum"
+    ],
+    "atc": [
+     "N06DA02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

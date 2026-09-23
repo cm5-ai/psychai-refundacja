@@ -31,7 +31,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Prometazyna po doustnym podaniu jest wchłaniana szybko i prawie całkowicie. Jej dostępność biologiczna jest ograniczona z powodu efektu pierwszego przejścia przez wątrobę. Dystrybucja Wiąże się z białkami krwi w 93%, objętość dystrybucji wynosi 20 – 30 l/kg. Rozprzestrzenia się szeroko w organizmie. Łatwo przenika do o.u.n, przechodzi przez łożysko, w niewielkim stopniu przenika do mleka kobiecego. Metabolizm Metabolizowana jest w wątrobie, w znacznym stopniu przy pierwszym przejściu. Okres półtrwania wynosi 7 – 15 godzin. Eliminacja Wydalana jest z moczem i żółcią. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Syrop",
+     "Tabletki drażowane"
+    ],
+    "nazwa_powszechna": [
+     "Promethazini hydrochloridum"
+    ],
+    "atc": [
+     "R06AD02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Polfergan",
@@ -51,7 +64,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Prometazyna dobrze się wchłania z przewodu pokarmowego. Początek działania występuje mniej więcej po 20 min. od podania doustnego, doodbytniczego lub domięśniowego i utrzymuje się przez 4 – 6 h, a u niektórych pacjentów nawet do 12 h. Po podaniu dożylnym początek działania występuje po 2 – 5 min. Prometazyna jest metabolizowana w wątrobie, a jej metabolity są wydalane z moczem. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Syrop"
+    ],
+    "nazwa_powszechna": [
+     "Promethazini hydrochloridum"
+    ],
+    "atc": [
+     "R06AD02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ],
  "uwagi_audytu": [

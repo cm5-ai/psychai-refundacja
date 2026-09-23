@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Po doustnym podaniu pojedynczej dawki 75 mg trazodonu w postaci o zmodyfikowanym uwalnianiu maksymalne stężenie leku w osoczu (Cmax) wynoszące około 0,7 µg/ml osiągane jest po 4 godzinach, przy czym wartość pola pod krzywą stężenia leku w zależności od czasu (AUC) wynosi około 8 µg/ml/h. Po doustnym podaniu pojedynczej dawki 150 mg trazodonu w postaci o zmodyfikowanym uwalnianiu Cmax, wynoszące około 1,2 µg/ml, jest osiągane po 4 godzinach od podania. Okres półtrwania leku wynosi około 12 godzin, a wartość AUC około 18 µg/ml/h. Badania in vitro na mikrosomach wątroby ludzkiej wykazały, że trazodon jest metabolizowany głównie przez izoenzym CYP3A4 cytochromu P450. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o zmodyfikowanym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Trazodoni hydrochloridum"
+    ],
+    "atc": [
+     "N06AX05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Trazodone Neuraxpharm",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Trazodon szybko wchłania się z układu pokarmowego i jest w znacznym stopniu metabolizowany. Szlaki metaboliczne trazodonu obejmują n-utlenianie i hydroksylację. Metabolit m- chlorofenylopiperazyna wykazuje aktywność. Trazodon jest wydalany z moczem głównie w postaci metabolitów, albo w postaci niezwiązanej, albo w postaci sprzężonej. Eliminacja trazodonu jest dwuetapowa, z okresem półtrwania w fazie końcowej eliminacji wynoszącym od 5 do 13 godzin. Trazodon przenika do mleka kobiecego. 9 Badania in vitro na mikrosomach wątroby ludzkiej wykazały, że trazodon jest metabolizowany przez izoenzym CYP3A4 cytochromu P450 do m-chlorofenylopiperazyny. Chociaż istotne, znaczenie tego szlaku metabolicznego w całkowitym klirensie trazodonu nie zostało w pełni określone. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Po podaniu trazodonu w dawce 100 mg wykazano około dwa razy dłuższy okres półtrwania w fazie końcowej oraz znacznie wyższe stężenia trazodonu w osoczu u 10 osób w wieku od 65 do 74 lat w porównaniu do 12 osób w wieku od 23 do 30 lat. Wskazuje to na związane z wiekiem zmniejszenie wątrobowego metabolizmu trazodonu. Niewydolność wątroby Ponieważ trazodon jest w znacznym stopniu metabolizowany w wątrobie, należy zachować ostrożność przepisując lek pacjentom z niewydolnością wątroby, szczególnie w przypadkach ciężkiej niewydolności (patrz punkty 4.2, 4.4 i 4.8). Niewydolność nerek Trazodon jest wydalany z moczem. Należy zachować ostrożność przepisując lek pacjentom z ciężką niewydolnością nerek (patrz też punkty 4.2 i 4.4). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Trazodoni hydrochloridum"
+    ],
+    "atc": [
+     "N06AX05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Trittico CR",
@@ -71,7 +95,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Po doustnym podaniu pojedynczej dawki 75 mg trazodonu w postaci o przedłużonym uwalnianiu maksymalne stężenie leku w osoczu (Cmax) wynosi około 0,7 g/ml; jest ono osiągane po 4 godzinach, przy czym wartość pola pod krzywą stężenia leku w zależności od czasu (AUC) wynosi około 8 g/ml/h. Po doustnym podaniu pojedynczej dawki 150 mg trazodonu w postaci o przedłużonym uwalnianiu Cmax, wynoszące około 1,2 g/ml, jest osiągane po 4 godzinach od podania. Okres półtrwania leku wynosi około 12 godzin, a wartość AUC około 18 g/ml/h. Badania in vitro na mikrosomach wątroby ludzkiej wykazały, że trazodon jest metabolizowany głównie przez izoenzym CYP3A4 cytochromu P450. Trazodon wydala się głównie z moczem w postaci metabolitów. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Trazodoni hydrochloridum"
+    ],
+    "atc": [
+     "N06AX05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

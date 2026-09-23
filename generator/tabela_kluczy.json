@@ -1,0 +1,1201 @@
+{
+ "opis": "Tabela substancja -> klucz doboru produktu. KAZDY wpis ma DOWOD: produkty, ktore go uzasadniaja. Status WYMAGA_ZATWIERDZENIA dopoki lekarz nie potwierdzi.",
+ "zbudowano": "2026-09-23",
+ "zrodlo_dowodu": "chpl/*.json - etykiety sprawdzone tego dnia na jednorodnosc ATC5",
+ "substancje": {
+  "agomelatyna": {
+   "atc": [
+    "N06AX22"
+   ],
+   "nazwa_powszechna": [
+    "Agomelatinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Agolek, Agomelatine +pharma, Agomelatine Adamed",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "akamprozat": {
+   "atc": [
+    "N07BB03"
+   ],
+   "nazwa_powszechna": [
+    "Acamprosatum calcium"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane dojelitowe"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Campral",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "alprazolam": {
+   "atc": [
+    "N05BA12"
+   ],
+   "nazwa_powszechna": [
+    "Alprazolamum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Afobam, Alpragen, Alpraxil",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "amisulpryd": {
+   "atc": [
+    "N05AL05"
+   ],
+   "nazwa_powszechna": [
+    "Amisulpridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Amipryd, Amisan, Amisulpryd Holsten",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "amitryptylina": {
+   "atc": [
+    "N06AA09"
+   ],
+   "nazwa_powszechna": [
+    "Amitriptylini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Amitriptylinum VP",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "arypiprazol": {
+   "atc": [
+    "N05AX12"
+   ],
+   "nazwa_powszechna": [
+    "Aripiprazolum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+    "Roztwór do wstrzykiwań",
+    "Roztwór doustny",
+    "Tabletki",
+    "Tabletki ulegające rozpadowi w jamie ustnej",
+    "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Abilify, Abilify Maintena, Abilium",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "atomoksetyna": {
+   "atc": [
+    "N06BA09"
+   ],
+   "nazwa_powszechna": [
+    "Atomoxetinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Atofab, Atomoksetyna Medice, Auroxetyn",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "bromazepam": {
+   "atc": [
+    "N05BA08"
+   ],
+   "nazwa_powszechna": [
+    "Bromazepamum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Bromox, Lexotan, Sedam 3",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "buprenorfina": {
+   "atc": [
+    "N02AE01",
+    "N07BC01"
+   ],
+   "nazwa_powszechna": [
+    "Buprenorphini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Implant",
+    "Lamelki podjęzykowe",
+    "Tabletki podjęzykowe"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Bunorfin, Buprenorphine Neuraxpharm, Sixmo",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "bupropion": {
+   "atc": [
+    "N06AX12"
+   ],
+   "nazwa_powszechna": [
+    "Bupropioni hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki o zmodyfikowanym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Bucidar, Bupropion Accord, Bupropion Hasco Lek",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "buspiron": {
+   "atc": [
+    "N05BE01"
+   ],
+   "nazwa_powszechna": [
+    "Buspironi hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Spamilan",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "chlordiazepoksyd": {
+   "atc": [
+    "N05BA02"
+   ],
+   "nazwa_powszechna": [
+    "Chlordiazepoxidum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki drażowane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Elenium",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "chlorpromazyna": {
+   "atc": [
+    "N05AA01"
+   ],
+   "nazwa_powszechna": [
+    "Chlorpromazini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Krople doustne, roztwór"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Fenactil",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "chlorprotiksen": {
+   "atc": [
+    "N05AF03"
+   ],
+   "nazwa_powszechna": [
+    "Chlorprothixeni hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Chlorprothixen Hasco, Chlorprothixen Zentiva",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "citalopram": {
+   "atc": [
+    "N06AB04"
+   ],
+   "nazwa_powszechna": [
+    "Citalopramum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Aurex 20, Aurex 40, Cipramil",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "deksamfetamina": {
+   "atc": [
+    "N06BA02"
+   ],
+   "nazwa_powszechna": [
+    "Dexamfetamini sulfas"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Tentin",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "diazepam": {
+   "atc": [
+    "N05BA01"
+   ],
+   "nazwa_powszechna": [
+    "Diazepamum"
+   ],
+   "postacie_w_cache": [
+    "Roztwór do wstrzykiwań",
+    "Tabletki",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Diazepam Genoptim, Diazepam Grindeks, Neorelium",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "disulfiram": {
+   "atc": [
+    "N07BB01"
+   ],
+   "nazwa_powszechna": [
+    "Disulfiramum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki do implantacji"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Anticol, Disulfiram WZF",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "doksepina": {
+   "atc": [
+    "N06AA12"
+   ],
+   "nazwa_powszechna": [
+    "Doxepinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Doxepin Teva",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "donepezil": {
+   "atc": [
+    "N06DA02"
+   ],
+   "nazwa_powszechna": [
+    "Donepezili hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Aricept, Cogiton 10, Cogiton 5",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "duloksetyna": {
+   "atc": [
+    "N06AX21"
+   ],
+   "nazwa_powszechna": [
+    "Duloxetinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki dojelitowe, twarde",
+    "Tabletki dojelitowe"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: AuroDulox, Cymbalta, Depratal",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "escitalopram": {
+   "atc": [
+    "N06AB10"
+   ],
+   "nazwa_powszechna": [
+    "Escitalopramum"
+   ],
+   "postacie_w_cache": [
+    "Krople doustne, roztwór",
+    "Tabletki powlekane",
+    "Tabletki ulegające rozpadowi w jamie ustnej"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Aciprex, ApoEscitaxin ORO, Betesda",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "esketamina": {
+   "atc": [
+    "N06AX27"
+   ],
+   "nazwa_powszechna": [
+    "Esketaminum"
+   ],
+   "postacie_w_cache": [
+    "Aerozol do nosa, roztwór"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Spravato",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "estazolam": {
+   "atc": [
+    "N05CD04"
+   ],
+   "nazwa_powszechna": [
+    "Estazolamum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Estazolam Espefa, Estazolam Polfarmex, Estazolam TZF",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "fluoksetyna": {
+   "atc": [
+    "N06AB03"
+   ],
+   "nazwa_powszechna": [
+    "Fluoxetinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Andepin, Bioxetin, Fluoksetyna EGIS",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "flupentiksol": {
+   "atc": [
+    "N05AF01"
+   ],
+   "nazwa_powszechna": [
+    "Flupentixolum"
+   ],
+   "postacie_w_cache": [
+    "Roztwór do wstrzykiwań",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Fluanxol, Fluanxol Depot",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "fluwoksamina": {
+   "atc": [
+    "N06AB08"
+   ],
+   "nazwa_powszechna": [
+    "Fluvoxamini maleas"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Fevarin",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "gabapentyna": {
+   "atc": [
+    "N02BF01",
+    "N03AX12"
+   ],
+   "nazwa_powszechna": [
+    "Gabapentinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Epigapent, Gabacol, Gabapentin Aurovitas",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "galantamina": {
+   "atc": [
+    "N06DA04"
+   ],
+   "nazwa_powszechna": [
+    "Galantamini hydrobromidum",
+    "Galantaminum"
+   ],
+   "postacie_w_cache": [
+    "Roztwór do wstrzykiwań"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Nivalin",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "guanfacyna": {
+   "atc": [
+    "C02AC02"
+   ],
+   "nazwa_powszechna": [
+    "Guanfacinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki o przedłużonym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Intuniv, Paxneury",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "haloperidol": {
+   "atc": [
+    "N05AD01"
+   ],
+   "nazwa_powszechna": [
+    "Haloperidoli decanoas",
+    "Haloperidolum"
+   ],
+   "postacie_w_cache": [
+    "Krople doustne, roztwór",
+    "Roztwór do wstrzykiwań",
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Decaldol, Haloperidol UNIA, Haloperidol WZF",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "hydroksyzyna": {
+   "atc": [
+    "N05BB01"
+   ],
+   "nazwa_powszechna": [
+    "Hydroxyzini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Syrop",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Atarax, Comfortin, Hydroxyzine Orion",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "karbamazepina": {
+   "atc": [
+    "N03AF01"
+   ],
+   "nazwa_powszechna": [
+    "Carbamazepinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki o przedłużonym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Amizepin, Finlepsin, Finlepsin 200 retard",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "kariprazyna": {
+   "atc": [
+    "N05AX15"
+   ],
+   "nazwa_powszechna": [
+    "Cariprazinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Tabletki ulegające rozpadowi w jamie ustnej"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Reagila",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "klomipramina": {
+   "atc": [
+    "N06AA04"
+   ],
+   "nazwa_powszechna": [
+    "Clomipramini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane",
+    "Tabletki powlekane o przedłużonym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Anafranil, Anafranil SR 75",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "klonazepam": {
+   "atc": [
+    "N03AE01"
+   ],
+   "nazwa_powszechna": [
+    "Clonazepamum"
+   ],
+   "postacie_w_cache": [
+    "Roztwór do wstrzykiwań",
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Clonazepamum TZF, Klonafen",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "klorazepat": {
+   "atc": [
+    "N05BA05"
+   ],
+   "nazwa_powszechna": [
+    "Dikalii clorazepas"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki",
+    "Kapsułki twarde",
+    "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań",
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Cloranxen, Tranxene, Tranxene 20",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "klozapina": {
+   "atc": [
+    "N05AH02"
+   ],
+   "nazwa_powszechna": [
+    "Clozapinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki ulegające rozpadowi w jamie ustnej"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Ayupil, Clopizam, Clozapine Hasco",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "kwetiapina": {
+   "atc": [
+    "N05AH04"
+   ],
+   "nazwa_powszechna": [
+    "Quetiapinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki o przedłużonym uwalnianiu",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: ApoTiapina, ApoTiapina PR, Bonogren",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "lamotrygina": {
+   "atc": [
+    "N03AX09"
+   ],
+   "nazwa_powszechna": [
+    "Lamotriginum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Epitrigine 100 mg tabletki, Lamilept, Lamitrin",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "lewomepromazyna": {
+   "atc": [
+    "N05AA02"
+   ],
+   "nazwa_powszechna": [
+    "Levomepromazinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Levomentis, Tisercin",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "lisdeksamfetamina": {
+   "atc": [
+    "N06BA12"
+   ],
+   "nazwa_powszechna": [
+    "Lisdexamfetamini dimesylas"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Eldefab, Elvanse, Lisdexamfetamine Aristo",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "lit": {
+   "atc": [
+    "N05AN01"
+   ],
+   "nazwa_powszechna": [
+    "Lithii carbonas"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Lithium Carbonicum GSK",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "lorazepam": {
+   "atc": [
+    "N05BA06"
+   ],
+   "nazwa_powszechna": [
+    "Lorazepamum"
+   ],
+   "postacie_w_cache": [
+    "Roztwór do wstrzykiwań",
+    "Tabletki",
+    "Tabletki drażowane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Lorabex, Lorafen, Lorazepam Orion",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "lurazydon": {
+   "atc": [
+    "N05AE05"
+   ],
+   "nazwa_powszechna": [
+    "Lurasidoni hydrochloridum",
+    "Lurasidonum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Alurazen, Asil, Lurasidone Teva",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "melatonina": {
+   "atc": [
+    "N05CH01"
+   ],
+   "nazwa_powszechna": [
+    "Melatoninum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki o przedłużonym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Circadin, Melabiorytm, Melanoc PR",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "memantyna": {
+   "atc": [
+    "N06DX01"
+   ],
+   "nazwa_powszechna": [
+    "Memantini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: AuroMemo, Biomentin, Cognomem",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "metadon": {
+   "atc": [
+    "N07BC02"
+   ],
+   "nazwa_powszechna": [
+    "Methadoni hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Koncentrat do sporządzania roztworu doustnego",
+    "Roztwór doustny",
+    "Syrop"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Methadone Hydrochloride Molteni, Methadone hydrochloride INN-FARM, Misyo",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "metylofenidat": {
+   "atc": [
+    "N06BA04"
+   ],
+   "nazwa_powszechna": [
+    "Methylphenidati hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki o zmodyfikowanym uwalnianiu, twarde",
+    "Tabletki o przedłużonym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Adehader, Atenza, Cognimentin LA",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "mianseryna": {
+   "atc": [
+    "N06AX03"
+   ],
+   "nazwa_powszechna": [
+    "Mianserini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Deprexolet, Lerivon, Miansec",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "midazolam": {
+   "atc": [
+    "N05CD08"
+   ],
+   "nazwa_powszechna": [
+    "Midazolami hydrochloridum",
+    "Midazolamum"
+   ],
+   "postacie_w_cache": [
+    "Roztwór do stosowania w jamie ustnej",
+    "Roztwór do wstrzykiwań",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Buccolam, Dormicum, Mizormic",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "mirtazapina": {
+   "atc": [
+    "N06AX11"
+   ],
+   "nazwa_powszechna": [
+    "Mirtazapinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane",
+    "Tabletki ulegające rozpadowi w jamie ustnej"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: AuroMirta ORO, Mirtagen, Mirtazapine Bluefish",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "modafinil": {
+   "atc": [
+    "N06BA07"
+   ],
+   "nazwa_powszechna": [
+    "Modafinilum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Actimodan",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "moklobemid": {
+   "atc": [
+    "N06AG02"
+   ],
+   "nazwa_powszechna": [
+    "Moclobemidum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Aurorix, Mobemid, Moklar",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "nalmefen": {
+   "atc": [
+    "N07BB05"
+   ],
+   "nazwa_powszechna": [
+    "Nalmefenum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Selincro",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "naltrekson": {
+   "atc": [
+    "N07BB04"
+   ],
+   "nazwa_powszechna": [
+    "Naltrexoni hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Adepend, Naltex",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "nitrazepam": {
+   "atc": [
+    "N05CD02"
+   ],
+   "nazwa_powszechna": [
+    "Nitrazepamum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Nitrazepam GSK, Nomefren",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "oksazepam": {
+   "atc": [
+    "N05BA04"
+   ],
+   "nazwa_powszechna": [
+    "Oxazepamum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Oksazepam TZF, Oxazepam Espefa, Oxazepam GSK",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "okskarbazepina": {
+   "atc": [
+    "N03AF02"
+   ],
+   "nazwa_powszechna": [
+    "Oxcarbazepinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki powlekane",
+    "Zawiesina doustna"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Karbagen, Oxepilax, Trileptal",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "olanzapina": {
+   "atc": [
+    "N05AH03"
+   ],
+   "nazwa_powszechna": [
+    "Olanzapina",
+    "Olanzapinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane",
+    "Tabletki ulegające rozpadowi w jamie ustnej"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Anzorin, Egolanza, Olanzin",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "opipramol": {
+   "atc": [
+    "N06AA05"
+   ],
+   "nazwa_powszechna": [
+    "Opipramoli dihydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki drażowane",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Apropol, Pramolan, Sympramol",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "paliperydon": {
+   "atc": [
+    "N05AX13"
+   ],
+   "nazwa_powszechna": [
+    "Paliperidonum"
+   ],
+   "postacie_w_cache": [
+    "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu",
+    "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: BYANNLI, Denepra, Egoropal",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "paroksetyna": {
+   "atc": [
+    "N06AB05"
+   ],
+   "nazwa_powszechna": [
+    "Paroxetinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Arketis tabletki 20 mg, ParoGen, Paroxetine Aurovitas",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "perazyna": {
+   "atc": [
+    "N05AB10"
+   ],
+   "nazwa_powszechna": [
+    "Perazinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Perazin 100 mg, Perazin 200 mg, Perazin 25 mg",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "pregabalina": {
+   "atc": [
+    "N03AX16"
+   ],
+   "nazwa_powszechna": [
+    "Pregabalinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Bulgaplin, Egzysta, Linefor",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "promazyna": {
+   "atc": [
+    "N05AA03"
+   ],
+   "nazwa_powszechna": [
+    "Promazini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki drażowane",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Promazin Jelfa, Promazine Hasco",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "prometazyna": {
+   "atc": [
+    "R06AD02"
+   ],
+   "nazwa_powszechna": [
+    "Promethazini hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Syrop",
+    "Tabletki drażowane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Diphergan, Polfergan",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "reboksetyna": {
+   "atc": [
+    "N06AX18"
+   ],
+   "nazwa_powszechna": [
+    "Reboxetinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Edronax",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "risperidon": {
+   "atc": [
+    "N05AX08"
+   ],
+   "nazwa_powszechna": [
+    "Risperidonum"
+   ],
+   "postacie_w_cache": [
+    "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+    "Roztwór doustny",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Okedi, Orizon, Risperidon Vipharm",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "riwastygmina": {
+   "atc": [
+    "N06DA03"
+   ],
+   "nazwa_powszechna": [
+    "Rivastigminum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Roztwór doustny",
+    "System transdermalny, plaster"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Atmina, Evertas, Exelon",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "sertindol": {
+   "atc": [
+    "N05AE03"
+   ],
+   "nazwa_powszechna": [
+    "Sertindolum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Serdolect",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "sertralina": {
+   "atc": [
+    "N06AB06"
+   ],
+   "nazwa_powszechna": [
+    "Sertalinum",
+    "Sertralinum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Apiolin, ApoSerta, Asentra",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "sulpiryd": {
+   "atc": [
+    "N05AL01"
+   ],
+   "nazwa_powszechna": [
+    "Sulpiridum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde",
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Sulpiryd Hasco, Sulpiryd Teva",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "temazepam": {
+   "atc": [
+    "N05CD07"
+   ],
+   "nazwa_powszechna": [
+    "Temazepamum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Signopam, Teseda",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "tianeptyna": {
+   "atc": [
+    "N06AX14"
+   ],
+   "nazwa_powszechna": [
+    "Tianeptinum natricum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki drażowane",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Atinepte, Coaxil, Tialera",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "tiapryd": {
+   "atc": [
+    "N05AL03"
+   ],
+   "nazwa_powszechna": [
+    "Tiapridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Tiaprid PMCS, Tiapridal",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "topiramat": {
+   "atc": [
+    "N03AX11"
+   ],
+   "nazwa_powszechna": [
+    "Topiramatum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Epitoram, Etopro, Oritop",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "trazodon": {
+   "atc": [
+    "N06AX05"
+   ],
+   "nazwa_powszechna": [
+    "Trazodoni hydrochloridum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki",
+    "Tabletki o przedłużonym uwalnianiu",
+    "Tabletki o zmodyfikowanym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Azoneurax, Trazodone Neuraxpharm, Trittico CR",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "walproinian": {
+   "atc": [
+    "N03AG01"
+   ],
+   "nazwa_powszechna": [
+    "Acidum valproicum",
+    "Natrii valproas"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki dojelitowe miękkie",
+    "Kapsułki miękkie",
+    "Syrop",
+    "Tabletki o przedłużonym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Absenor, Convival Chrono, Convulex",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "wenlafaksyna": {
+   "atc": [
+    "N06AX16"
+   ],
+   "nazwa_powszechna": [
+    "Venlafaxinum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki o przedłużonym uwalnianiu, twarde",
+    "Tabletki o przedłużonym uwalnianiu"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Alventa, Axyven, Efectin ER 150",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "wortioksetyna": {
+   "atc": [
+    "N06AX26"
+   ],
+   "nazwa_powszechna": [
+    "Vortioxetini hydrobromidum",
+    "Vortioxetinum"
+   ],
+   "postacie_w_cache": [
+    "Krople doustne, roztwór",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Abrix, Anubes, Brintellix",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "zaleplon": {
+   "atc": [
+    "N05CF03"
+   ],
+   "nazwa_powszechna": [
+    "Zaleplonum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Morfeo",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "ziprasidon": {
+   "atc": [
+    "N05AE04"
+   ],
+   "nazwa_powszechna": [
+    "Ziprasidonum"
+   ],
+   "postacie_w_cache": [
+    "Kapsułki twarde"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Zypsila",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "zolpidem": {
+   "atc": [
+    "N05CF02"
+   ],
+   "nazwa_powszechna": [
+    "Zolpidemi tartras"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Apo-Zolpin, ApoZolpin, Hypnogen",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "zopiklon": {
+   "atc": [
+    "N05CF01"
+   ],
+   "nazwa_powszechna": [
+    "Zopiclonum"
+   ],
+   "postacie_w_cache": [
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: ApoDream, Dobroson, Imovane",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  },
+  "zuklopentiksol": {
+   "atc": [
+    "N05AF05"
+   ],
+   "nazwa_powszechna": [
+    "Zuclopenthixoli acetas",
+    "Zuclopenthixoli decanoas",
+    "Zuclopenthixolum"
+   ],
+   "postacie_w_cache": [
+    "Roztwór do wstrzykiwań",
+    "Tabletki powlekane"
+   ],
+   "dowod": "produkty obecne w cache 2026-09-23: Clopixol, Clopixol-Acuphase, Clopixol-Depot",
+   "status": "WYMAGA_ZATWIERDZENIA"
+  }
+ }
+}

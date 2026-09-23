@@ -18,7 +18,19 @@
    "moc": "18 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Nalmefenum"
+    ],
+    "atc": [
+     "N07BB05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

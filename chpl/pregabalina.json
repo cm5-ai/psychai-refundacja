@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Farmakokinetyka pregabaliny w stanie stacjonarnym jest podobna u zdrowych ochotników, pacjentów z padaczką otrzymujących leki przeciwpadaczkowe oraz pacjentów z bólem przewlekłym. Wchłanianie Pregabalina jest szybko wchłaniana po podaniu na czczo i osiąga maksymalne stężenia w osoczu w ciągu 1 godziny po podaniu dawki pojedynczej i dawek wielokrotnych. Biodostępność pregabaliny po podaniu doustnym wynosi ≥ 90% i jest niezależna od dawki. Po podaniu dawek wielokrotnych stan stacjonarny zostaje osiągnięty po 24 do 48 godzin. Szybkość wchłaniania pregabaliny jest zmniejszona, jeśli lek podawany jest wraz z pokarmem, co powoduje zmniejszenie Cmax o około 25-30% i opóźnienie tmax o około 2,5 godziny. Jakkolwiek, podawanie pregabaliny wraz z pokarmem nie ma istotnego klinicznie wpływu na stopień wchłaniania pregabaliny. Dystrybucja W badaniach przedklinicznych pregabalina przenikała przez barierę krew-mózg u myszy, szczurów 13 i małp. Pregabalina przenika przez łożysko u szczurów i jest obecna w mleku karmiących szczurów. U ludzi pozorna objętość dystrybucji pregabaliny po podaniu doustnym wynosi około 0,56 L/kg. Pregabalina nie wiąże się z białkami osocza. Metabolizm W organizmie ludzkim pregabalina podlega metabolizmowi w nieistotnym stopniu. Po podaniu dawki pregabaliny znaczonej radioaktywnie, około 98% radioaktywności wykrywano w moczu w postaci niezmienionej pregabaliny. N-metylowa pochodna pregabaliny, główny metabolit obecny w moczu, stanowiła 0,9% dawki. W badaniach przedklinicznych nie obserwowano przechodzenia form racemicznych pregabaliny z S-enancjomeru do R-enancjomeru. Eliminacja Pregabalina jest wydalana z krążenia ogólnego głównie przez nerki w postaci niezmienionej. Średni okres półtrwania w fazie eliminacji pregabaliny wynosi 6,3 godziny. Klirensy: osoczowy i nerkowy pregabaliny są wprost proporcjonalne do klirensu kreatyniny (patrz punkt "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Pregabalinum"
+    ],
+    "atc": [
+     "N03AX16"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Egzysta",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Farmakokinetyka pregabaliny w stanie stacjonarnym jest podobna u zdrowych ochotników, pacjentów z padaczką otrzymujących leki przeciwpadaczkowe oraz pacjentów z bólem przewlekłym. Wchłanianie Pregabalina jest szybko wchłaniana po podaniu na czczo i osiąga maksymalne stężenia w osoczu w ciągu 1 godziny po podaniu dawki pojedynczej i dawek wielokrotnych. Biodostępność pregabaliny po podaniu doustnym wynosi ≥90% i jest niezależna od dawki. Po podaniu dawek wielokrotnych stan stacjonarny zostaje osiągnięty po 24 do 48 godzinach. Szybkość wchłaniania pregabaliny jest zmniejszona, jeśli lek podawany jest wraz z pokarmem, co powoduje zmniejszenie Cmax o około 25- 30% i opóźnienie t max o około 2,5 godziny. Jednak podawanie pregabaliny wraz z pokarmem nie ma istotnego klinicznie wpływu na stopień wchłaniania pregabaliny. Dystrybucja W badaniach przedklinicznych pregabalina przenikała przez barierę krew-mózg u myszy, szczurów i małp. Pregabalina przenika przez łożysko u szczurów i jest obecna w mleku karmiących szczurów. U ludzi pozorna objętość dystrybucji pregabaliny po podaniu doustnym wynosi około 0,56 L/kg. Pregabalina nie wiąże się z białkami osocza. Metabolizm W organizmie ludzkim pregabalina podlega metabolizmowi w nieistotnym stopniu. Po podaniu dawki pregabaliny znaczonej radioaktywnie, około 98% radioaktywności wykrywano w moczu w postaci niezmienionej pregabaliny. N-metylowa pochodna pregabaliny, główny metabolit obecny w moczu, stanowiła 0,9% dawki. W badaniach przedklinicznych nie obserwowano przechodzenia form racemicznych pregabaliny z S-enancjomeru do R-enancjomeru. Eliminacja Pregabalina jest wydalana z krążenia ogólnego głównie przez nerki w postaci niezmienionej. Średni okres półtrwania w fazie eliminacji pregabaliny wynosi 6,3 godziny. Klirensy: osoczowy i nerkowy pregabaliny są wprost proporcjonalne do klirensu kreatyniny (patrz punkt "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Pregabalinum"
+    ],
+    "atc": [
+     "N03AX16"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Linefor",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Farmakokinetyka pregabaliny w stanie stacjonarnym jest podobna u zdrowych ochotników, pacjentów z padaczką otrzymujących leki przeciwpadaczkowe oraz pacjentów z bólem przewlekłym. Wchłanianie Pregabalina wchłania się szybko po podaniu na czczo i osiąga maksymalne stężenia w osoczu w ciągu 1 godziny po podaniu dawki pojedynczej i dawek wielokrotnych. Biodostępność pregabaliny po podaniu doustnym wynosi ≥90% i jest niezależna od dawki. Po podaniu dawek wielokrotnych stan stacjonarny zostaje osiągnięty po 24 do 48 godzin. Szybkość wchłaniania pregabaliny zmniejsza się, podczas podawania z pokarmem, co powoduje zmniejszenie Cmax o około 25- 30% i opóźnienie tmax o około 2,5 godziny. Jednakże, podawanie pregabaliny wraz z pokarmem nie ma istotnego klinicznie wpływu na stopień wchłaniania pregabaliny. Dystrybucja W badaniach przedklinicznych pregabalina przenikała przez barierę krew-mózg u myszy, szczurów i małp. Pregabalina przenika przez łożysko u szczurów i jest obecna w mleku karmiących szczurów. U ludzi pozorna objętość dystrybucji pregabaliny po podaniu doustnym wynosi około 0,56 l/kg. Pregabalina nie wiąże się z białkami osocza. Metabolizm W organizmie ludzkim pregabalina ulega metabolizmowi w nieistotnym stopniu. Po podaniu dawki pregabaliny znaczonej radioaktywnie, około 98% radioaktywności wykrywano w moczu w postaci niezmienionej pregabaliny. N-metylowa pochodna pregabaliny, główny metabolit obecny w moczu, stanowiła 0,9% dawki. W badaniach przedklinicznych nie obserwowano przechodzenia form racemicznych pregabaliny z S-enancjomeru do R-enancjomeru. Eliminacja Pregabalina jest wydalana z krążenia ogólnego głównie przez nerki w postaci niezmienionej. Średni okres półtrwania w fazie eliminacji pregabaliny wynosi 6,3 godziny. Klirensy: osoczowy i nerkowy pregabaliny są wprost proporcjonalne do klirensu kreatyniny (patrz punkt 5.2, Zaburzenie czynności nerek). Wymagane jest dostosowanie dawki u pacjentów z zaburzeniem czynności nerek lub u pacjentów 15 poddawanych dializie (patrz punkt "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Pregabalinum"
+    ],
+    "atc": [
+     "N03AX16"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

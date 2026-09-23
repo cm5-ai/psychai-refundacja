@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Tiapryd wchłania się szybko. Średnia wartość tmax po podaniu tabletki wynosi 1 godzinę. Po podaniu doustnym pojedynczej dawki 100 mg zdrowym ochotnikom, średnie maksymalne stężenie tiaprydu w osoczu (C) wynosi 560 ng/ml. Po podaniu domięśniowym Cmax jest nieznacznie większe. Po podaniu tabletek o przedłużonym uwalnianiu substancji czynnej Cmax jest mniejsze, w porównaniu do tabletek o natychmiastowym uwalnianiu. Bezwzględna dostępność po podaniu doustnym wynosi około 75-78%. U większości pacjentów stężenie w osoczu zwiększa się proporcjonalnie do dawki. Jednoczesne spożywanie pokarmu powoduje zwiększenie Cmax o 20% w przypadku tabletek o natychmiastowym uwalnianiu. Dystrybucja Tiapryd praktycznie nie wiąże się z białkami osocza. Średnia objętość dystrybucji wynosi 1,43 l/kg i jest taka sama, jak kumulacja w tkankach. Metabolizm U ludzi, do 15% tiaprydu jest metabolizowane do przeważnie nieaktywnych farmakologicznie metabolity. Nie obserwowano powstawania koniugatów. Wydalanie Tiapryd jest wydalany głównie z moczem, praktycznie w postaci niezmienionej. Po podaniu doustnym, około 75% podanej dawki tiaprydu jest wydalane z moczem w ciągu dwudziestu czterech godzin, co wskazuje na umiarkowany metabolizm tiaprydu. Klirens nerkowy (średnio 18 l/h) wykazał, że wydalanie przez nerki jest wynikiem przesączania kłębuszkowego i wydzielania kanalikowego. Średni okres półtrwania w fazie eliminacji u ludzi wynosi około 3-5 godzin, ponieważ metabolity są w dużej mierze nieaktywne farmakologicznie. Nie obserwowano powstawania koniugatów. U zdrowych, młodych ochotników, średni okres półtrwania w fazie eliminacji po podaniu doustnym tabletek o natychmiastowym uwalnianiu wynosi około 3-5 godzin. U pacjentów z ciężką niewydolnością nerek odnotowano zwiększenie stężenia w osoczu i wydłużenie okres półtrwania w fazie eliminacji do 21,6 godziny. Z tego względu, u pacjentów z niewydolnością nerek należy zmniejszyć dawkę (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Tiapridum"
+    ],
+    "atc": [
+     "N05AL03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Tiapridal",
@@ -51,7 +63,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Maksymalne stężenie leku w osoczu (1,3 g/mL) jest osiągane po 1 godzinie po doustnym podaniu tiaprydu w dawce 200 mg. Całkowita biodostępność tiaprydu w postaci tabletek wynosi 75%. Podczas podania tuż przed posiłkiem biodostępność wzrasta o 20% i maksymalne stężenie w osoczu o 40%. Wchłanianie jest wolniejsze u osób starszych. 7 Dystrybucja Przenikanie tiaprydu do tkanek zachodzi szybko (poniżej 1 godz.). Tiapryd przenika przez barierę krew-mózg oraz przez barierę łożyskową i nie ulega kumulacji. W doświadczeniach na zwierzętach wykazano przenikanie leku do mleka, przy stosunku stężeń w mleku do stężenia w surowicy wynoszącym 1,2. Tiapryd nie wiąże się z białkami osocza, natomiast słabo wiąże się z erytrocytami. Metabolizm Tiapryd w organizmie ludzkim nie jest intensywnie metabolizowany; 70% podanej dawki leku przenika do moczu w formie niezmienionej. Eliminacja Okres półtrwania eliminacji leku z surowicy wynosi 2,9 godz. u kobiet i 3,6 godz. u mężczyzn. Wydalanie odbywa się przede wszystkim przez nerki; klirens nerkowy wynosi 330 mL/min. U pacjentów z niewydolnością nerek wydalanie leku związane jest z klirensem kreatyniny. Gdy klirens kreatyniny jest poniżej 20 mL/min powinno się dobierać dawki leku w zależności od stopnia zaburzenia czynności nerek; dawkę powinno się zmniejszyć o połowę, gdy klirens kreatyniny wynosi 11 do 20 mL/min i do jednej czwartej, gdy klirens kreatyniny wynosi 10 mL/min. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Tiapridum"
+    ],
+    "atc": [
+     "N05AL03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

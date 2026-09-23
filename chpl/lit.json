@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Węglan litu jest niemal w całości wchłaniany z przewodu pokarmowego, wchłanianie jest jednak powolne i trwa ok. 8 godzin. Maksymalne stężenia osiągane są po 2 - 4 godzinach. Objętość dystrybucji wynosi ok. 0,7 l/kg, lit nie wiąże się z białkami i jest niemal w całości (ok. 95%) wydalany z moczem (niewielkie ilości 4 – 5% wydalane są z potem). Okres biologicznego półtrwania jest długi, wynosi ok. 19 h, wykazuje jednak duże różnice osobnicze (13 - 33 godziny) i zależy od wieku pacjenta, stanu jego nerek i czasu leczenia litem. U osób w podeszłym wieku klirens nerkowy litu jest zmniejszony, a okres półtrwania wydłużony. Niedobór sodu (i wody) nasila wchłanianie zwrotne litu w kanalikach bliższych, wydłuża okres eliminacji (w warunkach prawidłowych klirens nerkowy ok. 30 ml/h/kg), co prowadzi do zwiększenia stężeń w osoczu. W leczeniu manii terapeutyczne stężenia litu wynoszą 0,8 - 1,2 mmol/l, w zapobieganiu nawrotom choroby skuteczne są stężenia mniejsze: 0,5 - 0,8 mmol/l. Ze względu na mały współczynnik terapeutyczny węglanu litu, indywidualną dawkę dobową leku należy określić na podstawie zalecanego stężenia litu w osoczu zmierzonego po 12 godzinach od przyjęcia ostatniej dawki oraz tolerancji leku przez chorego. Działanie lecznicze występuje po 1 - 3 tygodniach podawania leku. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Lithii carbonas"
+    ],
+    "atc": [
+     "N05AN01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

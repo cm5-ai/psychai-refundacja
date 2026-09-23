@@ -18,7 +18,20 @@
    "moc": "5 mg/ml",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do wstrzykiwań"
+    ],
+    "nazwa_powszechna": [
+     "Galantamini hydrobromidum",
+     "Galantaminum"
+    ],
+    "atc": [
+     "N06DA04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

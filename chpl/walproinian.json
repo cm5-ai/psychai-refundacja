@@ -31,7 +31,22 @@
     "5.2": "5.2 Właściwości farmakokinetyczne 22 Liczne badania farmakokinetyczne przeprowadzone z walproinianem wykazały następujące dane: - walproinian przenika przez barierę łożyskową zarówno u zwierząt, jak i u ludzi. Przenikanie przez łożysko patrz punkt 4.6; - u zwierząt walproinian przenika przez łożysko w podobnym stopniu jak u ludzi; - u ludzi, w kilku publikacjach, oceniano podczas porodu stężenie walproinianu w pępowinie. Stężenie walproinianu w surowicy w pępowinie, reprezentujące stężenie u płodu, było podobne lub nieco wyższe niż u matki; - biodostępność walproinianu po doustnym podaniu wynosi prawie 100%; - objętość dystrybucji jest głównie ograniczona do krwi i do ulegającego szybkiej wymianie płynu zewnątrzkomórkowego. Walproinian przenika do płynu mózgowo-rdzeniowego i do mózgu; - okres półtrwania wynosi 15-17 godzin; - minimalne stężenie leku w surowicy, niezbędne do uzyskania skuteczności terapeutycznej, wynosi 40-50 mg/L, w szerokim zakresie między 40 a 100 mg/L. W razie utrzymywania się stężenia leku powyżej 200 mg/L należy zredukować dawkę leku; - stężenia leku w stanie stacjonarnym w surowicy osiągane są w ciągu 2 do 4 dni; - walproinian w bardzo wysokim stopniu wiąże się z białkami krwi, jest to zależne od dawki leku; - lek jest wydalany głównie z moczem po przemianie metabolicznej polegającej na sprzęganiu z kwasem glukuronowym i beta-utlenieniu. Glukuronidacja jest najważniejszą drogą biotransformacji walproinianu (około 40%), głównie za pomocą izoform enzymu UGT1A6, UGT1A9 oraz UGT2B7; - walproinian jest usuwany z organizmu za pomocą dializy, jednak hemodializa usuwa tylko niezwiązaną z białkami osocza frakcję walproinianu (około 10%); - walproinian nie indukuje enzymów wchodzących w skład cytochromu P-450, w przeciwieństwie do większości innych leków przeciwdrgawkowych nie przyspiesza swojego własnego metabolizmu, ani innych leków, takich jak środki estrogenowo-progesteronowe i doustne leki przeciwzakrzepowe. Dzieci i młodzież U dzieci i młodzieży w wieku powyżej 10 lat klirens walproinianu jest podobny do klirensu u osób dorosłych. U dzieci i młodzieży w wieku poniżej 10 lat klirens ogólnoustrojowy walproinianu zmienia się wraz z wiekiem. U noworodków i niemowląt do 2 miesiąca życia klirens walproinianu jest zmniejszony w porównaniu z tym u osób dorosłych i jest najmniejszy bezpośrednio po urodzeniu. W przeglądzie literatury naukowej wykazano znaczną zmienność okresu półtrwania walproinianu u niemowląt, w wieku poniżej dwóch miesięcy, w zakresie od 1 do 67 godzin. U dzieci w wieku od 2 do 10 lat klirens walproinianu jest o 50% większy niż u osób dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki dojelitowe miękkie",
+     "Kapsułki miękkie",
+     "Syrop"
+    ],
+    "nazwa_powszechna": [
+     "Acidum valproicum",
+     "Natrii valproas"
+    ],
+    "atc": [
+     "N03AG01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Absenor",
@@ -51,7 +66,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym kwas walproinowy i jego sól sodowa ulegają szybkiemu i prawie całkowitemu wchłanianiu w przewodzie pokarmowym. Czas do osiągnięcia największego stężenia leku zależy od zastosowanej postaci farmaceutycznej. Po podaniu pojedynczej dawki leku Absenor, tabletki o przedłużonym uwalnianiu, czas do osiągnięcia największego stężenia leku wynosi 8,6 ± 2,0 godzin (średnia ± odchylenie standardowe). Pokarm może zwiększać szybkość, lecz nie stopień wchłaniania. Dystrybucja Zakres średnich stężeń terapeutycznych w surowicy wynosi od 50 mg/L do 100 mg/L. Przy stężeniach powyżej 100 mg/L, działania niepożądane nasilają się i może dojść do zatrucia. Stężenie w stanie stacjonarnym jest zwykle osiągane w ciągu 3 do 4 dni. Stężenie sodu walproinianu w płynie mózgowo-rdzeniowym stanowi około 10% stężenia w surowicy. Objętość dystrybucji zależy od wieku i wynosi zwykle od 0,13 do 0,23 L/kg, a u młodszych osób od 0,13 do 0,19 L/kg. Od 90% do 95% kwasu walproinowego wiąże się z białkami osocza, głównie z albuminami. Po zastosowaniu większych dawek, stopień wiązania z białkami osocza zmniejsza się. Wiązanie z białkami osocza jest mniejsze u pacjentów w podeszłym wieku i u pacjentów z zaburzeniami czynności nerek lub wątroby. Jednakże, całkowite stężenie kwasu walproinowego (frakcji niezwiązanej i związanej z białkami) może pozostać zasadniczo niezmienione w przypadku hipoproteinemii, ale frakcja niezwiązana może zmniejszyć się z powodu zwiększonego metabolizmu. 24(28) Metabolizm Metabolizm odbywa się drogą sprzęgania z kwasem glukuronowym oraz w procesach β (beta-), ω (omega-) i ω-1 (omega-1-) oksydacji. Głównym szlakiem metabolicznym jest sprzęganie z kwasem glukuronowym (około 40%), głównie za pośrednictwem UGT1A6, UGT1A9 i UGT2B7. Około 20% podanej dawki wydalane jest przez nerki, z moczem, w postaci estru glukuronowego. Mniej niż 5% zastosowanej dawki kwasu walproinowego jest wydalane z moczem w postaci niezmienionej. Głównym metabolitem jest kwas 3-keto-walproinowy, z czego 3% do 60% jest wydalane z moczem. Ten metabolit ma działanie przeciwdrgawkowe u myszy, ale jego działanie u ludzi jest nadal niejasne. W przeciwieństwie do innych leków przeciwpadaczkowych, kwas walproinowy nie wykazuje działania indukującego enzymy wątrobowe, a zatem nie przyspiesza własnego metabolizmu. Eliminacja W jednym z badań klirens osoczowy wynosił 12,7 mL/min u pacjentów z padaczką; u zdrowych osób wynosił on 5 10 mL/min; klirens ten zwiększa się w przypadku przyjmowania leków przeciwpadaczkowych indukujących enzymy. Okres półtrwania kwasu walproinowego w osoczu u zdrowych ochotników wynosi najczęściej od 17,26 ± 1,72godzin. W przypadku połączenia z innymi produktami leczniczymi (np. prymidonem, fenytoiną, fenobarbitalem i karbamazepiną) okres półtrwania skraca się do 4-9 godzin, w zależności od stopnia indukcji enzymów. U noworodków i dzieci w wieku do 18 miesięcy okres półtrwania w osoczu wynosi od 10 do 67 godzin. Najdłuższe okresy półtrwania obserwowano bezpośrednio po urodzeniu. Po 2 miesiącach wartości zbliżają się do wartości u dorosłych. Liniowość/nieliniowość Istnieje prawie liniowa zależność między dawką sodu walproinianu, a stężeniami w surowicy. Szczególne grupy pacjentów Okres półtrwania jest wydłużony u osób z zaburzeniami czynności wątroby. W przypadkach przedawkowania obserwowano okresy półtrwania wynoszące do 30 godzin. Dzieci i młodzież U dzieci i młodzieży w wieku powyżej 10 lat klirens walproinianu jest podobny do klirensu u osób dorosłych. U dzieci i młodzieży w wieku poniżej 10 lat klirens ogólnoustrojowy walproinianu zmienia się wraz z wiekiem. U noworodków i niemowląt do 2 miesiąca życia klirens walproinianu jest zmniejszony w porównaniu z tym u osób dorosłych i jest najmniejszy bezpośrednio po urodzeniu. W przeglądzie literatury naukowej wykazano znaczną zmienność okresu półtrwania walproinianu u niemowląt, w wieku poniżej dwóch miesięcy, w zakresie od 1 do 67 godzin. U dzieci w wieku od 2 do 10 lat klirens walproinianu jest o 50% większy niż u osób dorosłych. Podczas ciąży klirens wątrobowy i nerkowy zwiększa się wraz ze zwiększoną objętością dystrybucji w trzecim trymestrze ciąży, z potencjalnym zmniejszeniem stężenia w surowicy przy tej samej dawce. Należy również zauważyć, że podczas ciąży zmienia się stopień wiązania z białkami osocza i może się zwiększyć wolna (terapeutycznie skuteczna) frakcja kwasu walproinowego. Przenikanie przez łożysko/przenikanie do mleka ludzkiego (patrz punkt 4.6) Walproinian przenika przez barierę łożyskową zarówno u zwierząt, jak i u ludzi. - U zwierząt walproinian przenika przez łożysko w podobnym stopniu jak u ludzi. - U ludzi, w kilku publikacjach oceniano podczas porodu stężenie walproinianu w pępowinie noworodków. Stężenie walproinianu w surowicy w pępowinie, reprezentujące stężenie u płodu, było podobne lub nieco wyższe niż u matki. Walproinian przenika do mleka ludzkiego w stężeniach od 1% do 10% stężeń w surowicy kobiety. 25(28) Biodostępność Badanie biodostępności przeprowadzone w 1985 r. u 12 zdrowych ochotników (20–45 lat, mężczyźni) wykazało, że po przyjęciu 500 mg walproinianu w postaci 2 tabletek o przedłużonym uwalnianiu rano, w porównaniu z przyjęciem 500 mg walproinianu w postaci 1 tabletki powlekanej rano i wieczorem (dzień 10.) parametry w warunkach stanu stacjonarnego są następujące: Walproinian 500 mg, tabletki Walproinian, 500 mg, tabletki o przedłużonym uwalnianiu powlekane dojelitowe (1000 mg raz na dobę) (500 mg dwa razy na dobę) Minimalne stężenie w osoczu 44,7 ± 9,6 μg/mL 54,3 ± 16,0 μg/mL (Cmin): Maksymalne stężenie w osoczu 81,6 ± 15,8 μg/mL 95,2 ± 15,8 μg/mL (Cmax): Czas do wystąpienia 6,58 ± 2,23 h 3,08 ± 0,5 h maksymalnego stężenia w osoczu (tmax): Powierzchnia pola pod krzywą 1,486 ± 249 μg.h/mL 1,572 ± 286 μg.h/mL stężenie-czas (AUC): Dane są przedstawione jako wartości średnie i odchylenie standardowe. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Natrii valproas"
+    ],
+    "atc": [
+     "N03AG01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Convival Chrono",
@@ -71,7 +98,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Liczne badania farmakokinetyczne przeprowadzone z walproinianem wykazały następujące dane: 22 - walproinian przenika przez barierę łożyskową zarówno u zwierząt, jak i u ludzi. Przenikanie przez łożysko patrz punkt 4.6; - u zwierząt walproinian przenika przez łożysko w podobnym stopniu jak u ludzi; - u ludzi, w kilku publikacjach, oceniano podczas porodu stężenie walproinianu w pępowinie. Stężenie walproinianu w surowicy w pępowinie, reprezentujące stężenie u płodu, było podobne lub nieco wyższe niż u matki; - biodostępność walproinianu po doustnym podaniu wynosi prawie 100%; - objętość dystrybucji jest głównie ograniczona do krwi i do ulegającego szybkiej wymianie płynu zewnątrzkomórkowego. Walproinian przenika do płynu mózgowo-rdzeniowego i do mózgu; - okres półtrwania wynosi 15-17 godzin; - minimalne stężenie leku w surowicy, niezbędne do uzyskania skuteczności terapeutycznej, wynosi 40-50 mg/L, w szerokim zakresie między 40 a 100 mg/L. W razie utrzymywania się stężenia leku powyżej 200 mg/L należy zredukować dawkę leku; - stężenia leku w stanie stacjonarnym w surowicy osiągane są w ciągu 2 do 4 dni; - walproinian w bardzo wysokim stopniu wiąże się z białkami krwi, jest to zależne od dawki leku; - lek jest wydalany głównie z moczem po przemianie metabolicznej polegającej na sprzęganiu z kwasem glukuronowym i beta-utlenieniu. Glukuronidacja jest najważniejszą drogą biotransformacji walproinianu (około 40%), głównie za pomocą izoform enzymu UGT1A6, UGT1A9 oraz UGT2B7; - walproinian jest usuwany z organizmu za pomocą dializy, jednak hemodializa usuwa tylko niezwiązaną z białkami osocza frakcję walproinianu (około 10%); - walproinian nie indukuje enzymów wchodzących w skład cytochromu P-450, w przeciwieństwie do większości innych leków przeciwdrgawkowych nie przyspiesza swojego własnego metabolizmu, ani innych leków, takich jak środki estrogenowo-progesteronowe i doustne leki przeciwzakrzepowe. Dzieci i młodzież U dzieci i młodzieży w wieku powyżej 10 lat klirens walproinianu jest podobny do klirensu u osób dorosłych. U dzieci i młodzieży w wieku poniżej 10 lat klirens ogólnoustrojowy walproinianu zmienia się wraz z wiekiem. U noworodków i niemowląt do 2 miesiąca życia klirens walproinianu jest zmniejszony w porównaniu z tym u osób dorosłych i jest najmniejszy bezpośrednio po urodzeniu. W przeglądzie literatury naukowej wykazano znaczną zmienność okresu półtrwania walproinianu u niemowląt, w wieku poniżej dwóch miesięcy, w zakresie od 1 do 67 godzin. U dzieci w wieku od 2 do 10 lat klirens walproinianu jest o 50% większy niż u osób dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Natrii valproas"
+    ],
+    "atc": [
+     "N03AG01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ],
  "DOBOR_PRODUKTOW": {

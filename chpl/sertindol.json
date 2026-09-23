@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Sertyndol jest eliminowany na drodze metabolizmu wątrobowego, a średni końcowy okres półtrwania wynosi ok. 3 dni. Klirens sertyndolu zmniejsza się podczas podawania wielokrotnych dawek do średnio około 14 l/h (klirens u kobiet jest o ok. 20% mniejszy niż u mężczyzn, choć skorygowane wartości klirensu dla beztłuszczowej masy ciała są porównywalne). Zatem w przypadku podawania dawek wielokrotnych kumulacja jest większa niż szacowana po podaniu dawki pojedynczej, ze względu na zwiększenie biodostępności układowej. W stanie stacjonarnym klirens jest jednak niezależny od dawki, a stężenie w osoczu jest proporcjonalne do dawki. Właściwości farmakokinetyczne sertyndolu wykazują umiarkowaną zmienność międzyosobniczą ze względu na polimorfizm enzymu 2D6 cytochromu P450 (CYP2D6). U pacjentów z niedoborem tego enzymu wątrobowego, klirens sertyndolu wynosi od 1/2 do 1/3 wartości u pacjentów szybko metabolizujących przy udziale enzymu CYP2D6. U pacjentów wolno metabolizujących (stanowią oni do 10% populacji), stężenie w osoczu jest 2-3 razy większe od na ogół obserwowanego. Stężenie sertyndolu nie pozwala przewidzieć działania leczniczego u danego pacjenta. Dlatego dawkę należy ustalać indywidualnie, uwzględniając efekt leczniczy i tolerowanie leku przez pacjenta. Wchłanianie 10/13 Sertyndol jest dobrze wchłaniany, a wartość tmax sertyndolu po podaniu doustnym wynosi ok. 10 godzin. Różne wielkości dawki są biorównoważne. Pokarm oraz leki zobojętniające kwas solny zawierające glin i magnez nie wywierają istotnego z klinicznego punktu widzenia wpływu na szybkość i stopień wchłaniania sertyndolu. Dystrybucja Pozorna objętość dystrybucji (Vβ/F) sertyndolu po wielokrotnym podaniu dawki wynosi ok. 20 l/kg. Sertyndol wiąże się z białkami osocza w ok. 99,5%, głównie z albuminami i z kwaśną glikoproteiną- α1. U pacjentów leczonych zalecanymi dawkami 90% oznaczonych stężeń wynosiło poniżej 140 ng/ml (~ 320 nmol/l). Sertyndol przenika do krwinek czerwonych, stosunek zawartości w krwi: do zawartości w osoczu wynosi 1,0. Sertyndol z łatwością przenika przez barierę krew-mózg i barierę łożyskową. Metabolizm W ludzkim osoczu zidentyfikowano dwa metabolity: dehydrosertyndol (utlenianie pierścienia imidazolidynowego) oraz norsertyndol (N-dealkilacja). Stężenia dehydrosertyndolu i norsertyndolu wynoszą odpowiednio 80% i 40% stężenia leku macierzystego w stanie stacjonarnym. Działanie sertyndolu wynika głównie z działania leku macierzystego i wydaje się, że metabolity nie odgrywają u człowieka istotnej roli farmakologicznej. Wydalanie Sertyndol i jego metabolity są wydalane bardzo powoli. 14 dni po podaniu odzyskiwano 50-60% dawki doustnej znakowanej pierwiastkiem radioaktywnym. Ok. 4% dawki wydalane jest w moczu w postaci leku macierzystego i metabolitów (z czego lek macierzysty stanowi <1%). Wydalanie z kałem stanowi główną drogę wydalania pozostałości leku macierzystego i metabolitów. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Sertindolum"
+    ],
+    "atc": [
+     "N05AE03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

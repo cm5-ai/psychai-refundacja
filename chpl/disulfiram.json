@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie po podaniu doustnym jest zmienne, dystrybucja następuje głównie do nerek, trzustki, wątroby, jelit i tkanki tłuszczowej. Disulfiram jest szybko metabolizowany do kwasu dietyloditiokarbaminowego, sprzęgany z kwasem glukuronowym, utleniany do siarczanu, metylowany i rozkładany do dietyloaminy i dwusiarczku węgla. Wydalanie zachodzi głównie przez nerki. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Disulfiramum"
+    ],
+    "atc": [
+     "N07BB01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Disulfiram WZF",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Lek jest w znacznym stopniu metabolizowany w wątrobie do nieczynnych metabolitów wydalanych z moczem. Około 20% podanej dawki ulega wydaleniu w postaci niezmienionej z kałem. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki do implantacji"
+    ],
+    "nazwa_powszechna": [
+     "Disulfiramum"
+    ],
+    "atc": [
+     "N07BB01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

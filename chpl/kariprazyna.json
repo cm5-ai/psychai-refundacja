@@ -18,7 +18,20 @@
    "moc": "1,5 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde",
+     "Tabletki ulegające rozpadowi w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Cariprazinum"
+    ],
+    "atc": [
+     "N05AX15"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

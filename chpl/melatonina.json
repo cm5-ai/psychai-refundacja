@@ -18,7 +18,19 @@
    "moc": "2 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Melatoninum"
+    ],
+    "atc": [
+     "N05CH01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Melabiorytm",
@@ -38,7 +50,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Biodostępność melatoniny wynosi od 3% do 76%. Melatonina podlega efektowi pierwszego przejścia (30-85%). Posiłek zwiększa wchłanianie leku. Z danych eksperymentalnych wynika, że w metabolizmie melatoniny biorą udział izoenzymy CYP1A1, CYP1A2 i CYP2C19 układu cytochromu P450. Melatonina jest metabolizowana do 6-hydroksymelatoniny i N-acetyloserotoniny, a następnie powstałe metabolity w postaci glukuronianów lub siarczanów są wydalane z moczem. Melatonina szybko przenika do płynów ustrojowych, takich jak ślina, płyn mózgowo-rdzeniowy, płyn omoczniowy. Po doustnym podaniu maksymalne stężenie we krwi osiągane jest po czasie od 0,5 do 2 godzin. Okres półtrwania melatoniny po podaniu doustnym wynosi od 30 do 50 minut. U kobiet stwierdza się 3-krotnie większe stężenie Cmax niż u mężczyzn. Obserwowano również zmienność Cmax do 5-krotności stężenia w obrębie tej samej płci. Pomimo różnych stężeń substancji czynnej we krwi nie stwierdzono żadnych różnic farmakodynamicznych między mężczyznami i kobietami. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Melatoninum"
+    ],
+    "atc": [
+     "N05CH01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Melanoc PR",
@@ -58,7 +82,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Wchłanianie melatoniny podanej doustnie jest całkowite u osób dorosłych, ale może zmniejszać się nawet o 50% u osób w podeszłym wieku. Właściwości farmakokinetyczne melatoniny są liniowe w zakresie dawek 2 - 8 mg. Dostępność biologiczna produktu leczniczego jest rzędu 15%. Obserwuje się znaczny efekt pierwszego przejścia, z szacowanym metabolizmem przy pierwszym przejściu przez wątrobę na poziomie 85%. Tmax występuje po 3 godzinach w stanie po posiłku. Na szybkość wchłaniania i Cmax melatoniny po doustnym podaniu produktu leczniczego zawierającego 2 mg melatoniny, tabletki o przedłużonym uwalnianiu ma wpływ spożycie posiłku. Spożycie posiłku opóźniało wchłanianie melatoniny, prowadząc do późniejszego (Tmax = 3,0 h w porównaniu z Tmax = 0,75 h) i niższego maksymalnego stężenia substancji czynnej w osoczu po posiłku (Cmax = 1020 pg/mL w porównaniu z Cmax = 1176 pg/mL). Dystrybucja In vitro melatonina wiąże się z białkami osocza w około 60%. Melatonina wiąże się głównie z albuminami, alfa-1-kwaśną glikoproteiną i lipoproteinami o dużej gęstości. Metabolizm Z danych eksperymentalnych wynika, że w metabolizmie melatoniny biorą udział izoenzymy CYP1A1, CYP1A2 i być może CYP2C19 układu cytochromu P450. Głównym metabolitem jest 6-sulfatoksymelatonina (6-S-MT), która jest nieaktywna. Metabolizm leku zachodzi w wątrobie. Metabolit jest całkowicie wydalany w ciągu 12 godzin od przyjęcia produktu. Eliminacja Końcowy okres półtrwania (t½) wynosi 3,5 - 4 godziny. Eliminacja następuje poprzez wydalanie metabolitów z moczem – 89% w postaci koniugatów 6-hydroksymelatoniny z kwasem siarkowym lub glukuronowym, a 2% jest wydalane w postaci melatoniny (substancja czynna w postaci niezmienionej). Płeć U kobiet stwierdza się 3 - 4-krotnie większe stężenie Cmax niż u mężczyzn. Obserwowano również zmienność Cmax do 5-krotności stężenia w obrębie tej samej płci. Pomimo różnych stężeń substancji czynnej we krwi nie stwierdzono żadnych różnic farmakodynamicznych między mężczyznami i kobietami. Szczególne populacje Osoby w podeszłym wieku Stwierdzono, że metabolizm melatoniny zmniejsza się wraz z wiekiem. W obrębie dawek zgłaszano wyższe wartości AUC i Cmax u pacjentów w podeszłym wieku w porównaniu z młodszymi pacjentami, Strona 9 z 11 co odzwierciedla słabszy metabolizm melatoniny u osób starszych. Stężenia Cmax wynoszą około 500 pg/mL u osób dorosłych (18 – 45 lat) w porównaniu z 1200 pg/mL u osób w podeszłym wieku (55 – 69 lat); wartości AUC kształtują się na poziomie 3000 pg*h/mL u osób dorosłych w porównaniu z 5000 pg*h/mL u osób w podeszłym wieku. Zaburzenia czynności nerek Dostępne dane wskazują, że po podaniu wielu dawek nie następuje kumulacja melatoniny. Wniosek ten jest zbieżny z krótkim okresem półtrwania melatoniny u ludzi. Stężenia leku oznaczane we krwi pacjentów o godzinie 23:00 (2 godziny po podaniu) po 1 i 3 tygodniach codziennego podawania wynosiły odpowiednio 411,4 ± 56,5 pg/mL i 432,00 ± 83,2 pg/mL i były podobne do stężeń stwierdzanych u zdrowych ochotników po podaniu pojedynczej dawki produktu zawierającego 2 mg melatoniny, tabletki o przedłużonym uwalnianiu. Zaburzenia czynności wątroby Metabolizm melatoniny następuje głównie w wątrobie, dlatego niewydolność wątroby prowadzi do wyższych stężeń melatoniny endogennej. Stężenia melatoniny w osoczu u pacjentów z marskością wątroby były znacznie podwyższone w godzinach światła dziennego. U pacjentów stwierdzano znacznie obniżone całkowite wydalanie 6-sulfatoksymelatoniny w porównaniu z grupą kontrolną. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Melatoninum"
+    ],
+    "atc": [
+     "N05CH01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

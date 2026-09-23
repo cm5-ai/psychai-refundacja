@@ -31,7 +31,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Perazyna jest szybko wchłaniana z przewodu pokarmowego osiągając maksymalne stężenie w osoczu po 2 do 4 godzinach od podania. Wiąże się w 95-98% z białkami osocza. Przenika przez barierę krew- mózg osiągając wyższe stężenie w mózgu niż w osoczu. Perazyna i jej metabolity przenikają przez łożysko oraz do mleka matki. Wykazuje efekt pierwszego przejścia, co powoduje, że jej stężenie w osoczu jest wyższe po podaniu dożylnym niż doustnym. Perazyna jest metabolizowana w wątrobie poprzez hydroksylację, sprzęganie z kwasem glukuronowym, N-oksydację, sulfooksydację oraz dealkilację. Wydalana jest z moczem oraz żółcią głównie w postaci metabolitów. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Perazinum"
+    ],
+    "atc": [
+     "N05AB10"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Perazin 200 mg",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Perazyna jest szybko wchłaniana z przewodu pokarmowego osiągając maksymalne stężenie w osoczu po 2 do 4 godzinach od podania. Wiąże się w 95-98% z białkami osocza. Przenika przez barierę krew- mózg osiągając wyższe stężenie w mózgu niż w osoczu. Perazyna i jej metabolity przenikają przez łożysko oraz do mleka matki. Wykazuje efekt pierwszego przejścia, co powoduje, że jej stężenie w osoczu jest wyższe po podaniu dożylnym niż doustnym. Perazyna jest metabolizowana w wątrobie 6/8 poprzez hydroksylację, sprzęganie z kwasem glukuronowym, N-oksydację, sulfooksydację oraz dealkilację. Wydalana jest z moczem oraz żółcią głównie w postaci metabolitów. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Perazinum"
+    ],
+    "atc": [
+     "N05AB10"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Perazin 25 mg",
@@ -71,7 +95,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Perazyna jest szybko wchłaniana z przewodu pokarmowego osiągając maksymalne stężenie w osoczu po 2 do 4 godzinach od podania. Wiąże się w 95-98% z białkami osocza. Przenika przez barierę krew- mózg osiągając wyższe stężenie w mózgu niż w osoczu. Perazyna i jej metabolity przenikają przez łożysko oraz do mleka matki. Wykazuje efekt pierwszego przejścia, co powoduje, że jej stężenie w osoczu jest wyższe po podaniu dożylnym niż doustnym. Perazyna jest metabolizowana w wątrobie poprzez hydroksylację, sprzęganie z kwasem glukuronowym, N-oksydację, sulfooksydację oraz dealkilację. Wydalana jest z moczem oraz żółcią głównie w postaci metabolitów. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Perazinum"
+    ],
+    "atc": [
+     "N05AB10"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

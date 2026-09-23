@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Cytalopram wchłaniany jest szybko po podaniu doustnym, a maksymalne stężenie w osoczu osiąga średnio po 4 godzinach (zakres od 1 do 7 godzin). Spożycie pokarmu nie wpływa na proces wchłaniania. Dostępność biologiczna po podaniu doustnym wynosi około 80%. Dystrybucja Objętość dystrybucji wynosi od 12 do 17 l/kg. Cytalopram i jego metabolity wiążą się z białkami osocza w mniej niż 80%. Metabolizm Cytalopram jest metabolizowany do aktywnych demetylo-, didemetylo- i N-tlenku cytalopramu oraz do nieaktywnej deaminowanej pochodnej kwasu propionowego. Aktywne metabolity są również selektywnymi inhibitorami wychwytu zwrotnego serotoniny, ale znacznie słabszymi od leku macierzystego. Wydalanie 13 NL/H/xxxx/WS/815recommendation Okres półtrwania cytalopramu w osoczu wynosi około 1,5 doby. Po podaniu doustnym osoczowy klirens cytalopramu wynosi około 0,4 l/min. Cytalopram jest eliminowany głównie przez wątrobę (85% dawki), a 15% przez nerki. Od 12 do 23% podanej dawki wydalane jest w moczu w niezmienionej postaci. Klirens wątrobowy wynosi około 0,3 l/min, a klirens nerkowy od 0,05 do 0,08 l/min. Farmakokinetyka cytalopramu ma charakter liniowy. Stężenie cytalopramu w osoczu osiąga stan stacjonarny po 1 do 2 tygodni. Po podaniu doustnym 40 mg cytalopramu na dobę średnie stężenie leku w osoczu wynosi 300 nmol/l (zakres od 165 do 405 nmol/l). Brak wyraźnej zależności między stężeniem w osoczu a działaniem leczniczym lub działaniami niepożądanymi. Szczególne grupy pacjentów U pacjentów w podeszłym wieku wolniejsza przemiana materii powoduje wydłużenie okresu półtrwania i zmniejszenie klirensu. Eliminacja cytalopramu zachodzi wolniej u pacjentów z zaburzeniami czynności wątroby: okres półtrwania leku i stężenie w osoczu zwiększają się dwukrotnie w porównaniu z osobami z prawidłową czynnością wątroby. Nieco wolniejsze wydalanie nerkowe u pacjentów z łagodnymi lub umiarkowanymi zaburzeniami czynności nerek nie ma istotnego wpływu na właściwości farmakokinetyczne cytalopramu. Brak dostępnych danych dotyczących stosowaniu leku u pacjentów z ciężką niewydolnością nerek (z klirensem kreatyniny mniejszym niż 20 ml/min). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Citalopramum"
+    ],
+    "atc": [
+     "N06AB04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Aurex 40",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Cytalopram wchłaniany jest szybko po podaniu doustnym, a maksymalne stężenie w osoczu osiąga średnio po 4 godzinach (zakres od 1 do 7 godzin). Spożycie pokarmu nie wpływa na proces wchłaniania. Dostępność biologiczna po podaniu doustnym wynosi około 80%. Dystrybucja Objętość dystrybucji wynosi od 12 do 17 l/kg. Cytalopram i jego metabolity wiążą się z białkami osocza w mniej niż 80%. Metabolizm Cytalopram jest metabolizowany do aktywnych demetylo-, didemetylo- i N-tlenku cytalopramu oraz do nieaktywnej deaminowanej pochodnej kwasu propionowego. Aktywne metabolity są również selektywnymi inhibitorami wychwytu zwrotnego serotoniny, ale znacznie słabszymi od leku macierzystego. Wydalanie 13 NL/H/xxxx/WS/815recommendation Okres półtrwania cytalopramu w osoczu wynosi około 1,5 doby. Po podaniu doustnym osoczowy klirens cytalopramu wynosi około 0,4 l/min. Cytalopram jest eliminowany głównie przez wątrobę (85% dawki), a 15% przez nerki. Od 12 do 23% podanej dawki wydalane jest w moczu w niezmienionej postaci. Klirens wątrobowy wynosi około 0,3 l/min, a klirens nerkowy od 0,05 do 0,08 l/min. Farmakokinetyka cytalopramu ma charakter liniowy. Stężenie cytalopramu w osoczu osiąga stan stacjonarny po 1 do 2 tygodni. Po podaniu doustnym 40 mg cytalopramu na dobę średnie stężenie leku w osoczu wynosi 300 nmol/l (zakres od 165 do 405 nmol/l). Brak wyraźnej zależności między stężeniem w osoczu a działaniem leczniczym lub działaniami niepożądanymi. Szczególne grupy pacjentów U pacjentów w podeszłym wieku wolniejsza przemiana materii powoduje wydłużenie okresu półtrwania i zmniejszenie klirensu. Eliminacja cytalopramu zachodzi wolniej u pacjentów z zaburzeniami czynności wątroby: okres półtrwania leku i stężenie w osoczu zwiększają się dwukrotnie w porównaniu z osobami z prawidłową czynnością wątroby. Nieco wolniejsze wydalanie nerkowe u pacjentów z łagodnymi lub umiarkowanymi zaburzeniami czynności nerek nie ma istotnego wpływu na właściwości farmakokinetyczne cytalopramu. Brak dostępnych danych dotyczących stosowaniu leku u pacjentów z ciężką niewydolnością nerek (z klirensem kreatyniny mniejszym niż 20 ml/min). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Citalopramum"
+    ],
+    "atc": [
+     "N06AB04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Cipramil",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Cytalopram wchłania się nieomal całkowicie, niezależnie od przyjmowanych pokarmów (średnia wartość T max 3 godziny). Biodostępność po podaniu doustnym wynosi około 80%. Dystrybucja Pozorna objętość dystrybucji (V d ) β wynosi około 12-17 l/kg. Cytalopram i jego główne metabolity wiążą się z białkami osocza w mniej niż 80%. Metabolizm Cytalopram jest metabolizowany do aktywnych metabolitów: demetylocytalopramu, didemetylocytalopramu, N-tlenku cytalopramu i nieaktywnej deaminowanej pochodnej kwasu propionowego. Wszystkie aktywne metabolity są również selektywnymi inhibitorami wychwytu zwrotnego serotoniny, choć słabszymi od leku macierzystego. Cytalopram w postaci niezmienionej jest głównym związkiem obecnym w osoczu. Stężenia demetylocytalopramu i didemetylocytalopramu wynoszą zazwyczaj odpowiednio 30-50% i 5-10% stężenia cytalopramu. Biotransformacja cytalopramu do demetylocytalopramu dokonuje się przy udziale cytochromu CYP2C19 (około 38%), CYP3A4 (około 31%) i CYP2D6 (około 31%). Eliminacja Okres półtrwania w fazie eliminacji (T ½β ) wynosi około 1½ doby, klirens całkowity (Cl S ) około 0,3-0,4 l/min, a wartość Cl oral (dotycząca przenikania leku z osocza krwi do śliny) wynosi około 0,4 l/min. Cytalopram jest wydalany głównie z żółcią (85%), a jego pozostałość (15%) przez nerki. 12-23% dawki dobowej wydalane jest z moczem w postaci niezmienionej. Klirens wątrobowy (resztkowy) wynosi około 0,3 l/min, a klirens nerkowy około 0,05-0,08 l/min. Liniowość Kinetyka ma przebieg liniowy. Stężenie w osoczu w stanie stacjonarnym osiągane jest po 1-2 tygodniach. Średnie stężenie wynoszące 300 nmol/l (165-405 nmol/l) osiągane jest po dawce dobowej 40 mg. Pacjenci w podeszłym wieku (powyżej 65 lat) U pacjentów w podeszłym wieku wykazano dłuższy biologiczny okres półtrwania (1,5-3,75 doby) oraz mniejsze wartości klirensu (0,08-0,3 l/min) spowodowane wolniejszym metabolizmem. Wartości stężeń w stanie stacjonarnym były około dwa razy większe u osób w podeszłym wieku w porównaniu do młodszych pacjentów leczonych tą samą dawką. Zaburzenia czynności wątroby 14/17 Cytalopram jest eliminowany wolniej u pacjentów z zaburzeniami czynności wątroby. Biologiczny okres półtrwania cytalopramu jest około dwa razy dłuższy, a stężenia w stanie stacjonarnym po danej dawce około dwa razy większe niż u pacjentów z prawidłową czynnością wątroby. Zaburzenia czynności nerek Cytalopram eliminowany jest wolniej u pacjentów z łagodnymi i umiarkowanymi zaburzeniami czynności nerek, co nie wpływa istotnie na farmakokinetykę cytalopramu. Obecnie brak danych odnośnie leczenia pacjentów z ciężkimi zaburzeniami czynności nerek (klirens kreatyniny <20 mL/min). Polimorfizm W badaniach in vivo stwierdzono, że metabolizm cytalopramu nie wykazuje istotnego z klinicznego punktu widzenia polimorfizmu oksydacji sparteiny/debryzochiny (CYP2D6). U osób, o których wiadomo, że wolno metabolizują leki przy udziale izoenzymu CYP2C19, należy zachować ostrożność i rozważyć zastosowanie dawki początkowej 10 mg (patrz punkt 4.2). Zależność farmakokinetyczno-farmakodynamiczna Nie ma oczywistego związku między stężeniem cytalopramu w osoczu a odpowiedzią terapeutyczną lub działaniami niepożądanymi. Metabolity nie przyczyniają się do ogólnego działania przeciwdepresyjnego. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Citalopramum"
+    ],
+    "atc": [
+     "N06AB04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

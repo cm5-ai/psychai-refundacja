@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne). Fluoksetyna wiąże się z białkami osocza, co prowadzić może do interakcji z innymi lekami, które silnie wiążą się z białkami osocza. Może nastąpić gwałtowne uwolnienie fluoksetyny wskutek wyparcia przez substancję o większym powinowactwie do albumin osocza, lub zjawisko odwrotne. W badaniach nie obserwowano klinicznie istotnych interakcji pomiędzy fluoksetyną a chlorotiazydem, etanolem, sekobarbitalem i tolbutamidem. U pacjentów, którym podawano warfarynę, obserwowano nasilone działanie przeciwzakrzepowe (objawiające się klinicznie i w badaniach laboratoryjnych) o nie ustalonym mechanizmie. Podobnie jak w przypadku innych leków, podczas podawania fluoksetyny jednocześnie z warfaryną należy zachować ostrożność, a u pacjentów tak ledczonych należy okresowo kontrolować wskaźnik krzepnięcia krwi. Istnieją nieliczne zgłoszenia o wystąpieniu drgawek u pacjentów poddawanych jednoczesnej terapii fluoksetyną i elektrowstrząsom. Dlatego podczas stosowania obu tych metod leczenia jednocześnie należy zachować ostrożność. Mimo braku danych na temat wpływu fluoksetyny na zwiększenie się stężenia alkoholu we krwi, lub zwiększenia działania alkoholu, picie alkoholu podczas terapii fluoksetyną jest niewskazane. Fluoksetyny, podobnie jak większości selektywnych inhibitorów wychwytu zwrotnego serotoniny, nie należy podawać jednocześnie z preparatami ziołowymi zawierającymi dziurawiec (Hypericum perforatum), ponieważ może dojść do nasilenia działań niepożądanych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Fluoxetinum"
+    ],
+    "atc": [
+     "N06AB03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Bioxetin",
@@ -51,7 +63,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Fluoksetyna dobrze się wchłania z przewodu pokarmowego po podaniu doustnym. Pokarm nie wpływa na biodostępność leku. Dystrybucja Fluoksetyna wiąże się w znacznym stopniu z białkami osocza (w około 95%) i ulega znacznej dystrybucji (objętość dystrybucji: 20–40 L/kg). Stężenia w osoczu w stanie stacjonarnym osiągane są po kilku tygodniach dawkowania leku. Stężenia leku w stanie stacjonarnym po długotrwałym stosowaniu są podobne do stężeń obserwowanych w 4-5 tygodniu leczenia. Metabolizm Profil farmakokinetyczny fluoksetyny nie jest liniowy. Fluoksetyna ulega efektowi pierwszego przejścia. Maksymalne stężenie w osoczu na ogół osiągane jest w ciągu 6-8 godzin po podaniu. Fluoksetyna jest w znacznym stopniu metabolizowana przez polimorficzny enzym CYP2D6. Lek jest metabolizowany w wątrobie w wyniku demetylacji głównie do aktywnego metabolitu norfluoksetyny (demetylofluoksetyna). Eliminacja Okres półtrwania w fazie eliminacji fluoksetyny wynosi 4 do 6 dni, a norfluoksetyny 4 do 16 dni. Tak długie okresy półtrwania w fazie eliminacji odpowiadają za utrzymywanie się leku w organizmie przez 5-6 tygodni po zaprzestaniu stosowania. Fluoksetyna wydalana jest głównie (w około 60%) przez nerki. Fluoksetyna przenika do mleka kobiecego. Populacje zwiększonego ryzyka - Osoby w podeszłym wieku: nie stwierdzono zmian parametrów kinetycznych u zdrowych osób w podeszłym wieku w porównaniu z pacjentami młodszymi. - Dzieci i młodzież: średnie stężenie fluoksetyny u dzieci jest około 2 razy większe niż u młodzieży, natomiast średnie stężenie norfluoksetyny jest 1,5 razy większe. Stężenia leku w osoczu w stanie stacjonarnym są zależne od masy ciała – większe stężenia stwierdza się u dzieci o mniejszej masie ciała. Podobnie jak u osób dorosłych, po podaniu wielu dawek doustnych fluoksetyna i norfluoksetyna gromadzi się w organizmie; stężenia w stanie stacjonarnym uzyskiwano w ciągu 3-4 tygodni stosowania leku. - Niewydolność wątroby: u osób z niewydolnością wątroby (marskość poalkoholowa) okresy półtrwania fluoksetyny i norfluoksetyny wydłużają się – odpowiednio do 7 i 12 dni. Należy rozważyć podanie leku w mniejszych dawkach lub zmniejszenie częstości dawkowania. - Niewydolność nerek: po podaniu pojedynczej dawki fluoksetyny nie stwierdzono zmiany parametrów kinetycznych u pacjentów z łagodną, umiarkowaną lub ciężką (bezmocz) niewydolnością nerek w porównaniu ze zdrowymi ochotnikami. Jednak po kilkukrotnym podaniu leku można obserwować zwiększenie w osoczu stężeń leku w stanie stacjonarnym w fazie plateau. 15 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Fluoxetinum"
+    ],
+    "atc": [
+     "N06AB03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Fluoksetyna EGIS",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie: fluoksetyna dobrze wchłania się z przewodu pokarmowego po podaniu doustnym. Przyjmowanie pokarmu nie wpływa na biodostępność. Dystrybucja: fluoksetyna w dużym stopniu wiąże się z białkami osocza (około 95%) i jest w znacznym stopniu dystrybuowana (objętość dystrybucji: 20-40 l/kg). Stężenia w osoczu w fazie stacjonarnej są osiągane po kilku tygodniach stosowania. Stężenia w fazie stacjonarnej po długotrwałym stosowaniu są zbliżone do stężeń obserwowanych po 4 do 5 tygodniach leczenia. Metabolizm: fluoksetyna wykazuje nieliniowy profil farmakokinetyczny z efektem pierwszego przejścia przez wątrobę. Maksymalne stężenie w osoczu na ogół jest osiągane w 6 do 8 godzin po podaniu. Fluoksetyna jest intensywnie metabolizowana przez wątrobę do aktywnego metabolitu norfluoksetyny (demetylofluoksetyny) przez demetylację. Eliminacja: okres półtrwania fluoksetyny w fazie eliminacji wynosi od 4 do 6 dni, a norfluoksetyny od 4 do 16 dni. Długie okresy półtrwania są odpowiedzialne za utrzymywanie się leku w organizmie przez 5 do 6 tygodni po przerwaniu leczenia. Wydalanie odbywa się przede wszystkim (w około 60%) przez nerki. Fluoksetyna przenika do mleka kobiecego. Szczególne populacje Pacjenci w podeszłym wieku: parametry kinetyczne nie są zmienione u zdrowych pacjentów, w porównaniu z młodszymi osobami. 16 Dzieci i młodzież: średnie stężenie fluoksetyny u dzieci jest około dwukrotnie większe niż u młodzieży, a średnie stężenie norfluoksetyny - półtora raza większe. Stężenia leku w osoczu w stanie stacjonarnym zależą od masy ciała i są większe u dzieci z mniejszą masą ciała (patrz punkt 4.2). Podobnie jak u dorosłych, fluoksetyna i norfluoksetyna są intensywnie kumulowane po wielokrotnym podaniu doustnym. Stężenia w stanie stacjonarnym osiągano po 3 - 4 tygodniach codziennego podawania. Zaburzenia czynności wątroby: w przypadku niewydolności wątroby (marskość alkoholowa), okresy półtrwania fluoksetyny i norfluoksetyny są wydłużone odpowiednio do 7 i 12 dni. Należy wziąć od uwagę mniejsze dawki lub rzadsze dawkowanie. Zaburzenia czynności nerek: po podaniu pojedynczej dawki fluoksetyny pacjentom z łagodną, umiarkowaną lub całkowitą (bezmocz) niewydolnością nerek, parametry kinetyczne nie zmieniały się w porównaniu ze zdrowymi ochotnikami. Jednakże po wielokrotnym podawaniu obserwowano wzrost wartości plateau stężeń w osoczu fazy stacjonarnej. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Fluoxetinum"
+    ],
+    "atc": [
+     "N06AB03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

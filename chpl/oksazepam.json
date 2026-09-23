@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Oksazepam dobrze wchłania się z przewodu pokarmowego. Biodostępność wynosi około 92%. Dystrybucja Po doustnym podaniu oksazepamu w dawce 30 mg maksymalne stężenie we krwi - około 450 ng/ml - występuje po około 3 godzinach. Z białkami krwi oksazepam wiąże się w 85%. Przenika przez barierę krew płyn mózgowo-rdzeniowy. Przenika przez barierę łożyska i do mleka matki. Metabolizm i eliminacja Okres półtrwania dla oksazepamu wynosi około 8,2 godziny. Proces biotransformacji oksazepamu przebiega w wątrobie. W wyniku sprzęgania z kwasem glukuronowym powstaje nieaktywny metabolit – glukuronian oksazepamu. Oksazepam wydalany jest głównie z moczem w postaci glukuronianu oksazepamu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Oxazepamum"
+    ],
+    "atc": [
+     "N05BA04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Oxazepam Espefa",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Oksazepam dobrze wchłania się z przewodu pokarmowego, biodostępność wynosi 90-95%. Po podaniu pojedynczej dawki doustnej najwyższe stężenie w surowicy osiągane jest w ciągu 2,5 godziny. Dystrybucja Oksazepam w mniej więcej 87% wiąże się z białkami osocza, objętość dystrybucji w stanie stabilnym wynosi 0,5-1,0 l/kg. Metabolizm Oksazepam ulega biotransformacji w wątrobie tworząc połączenia z kwasem glukuronowym, powstają też niewielkie ilości chinazoliny i dihydroksypochodnych wydalanych z moczem. Nie stwierdzono, by metabolity odznaczały się aktywnością farmakologiczną. Eliminacja Okres półtrwania oksazepamu wynosi około 8 godzin. Ponad 95% pojedynczej dawki wydalane jest z moczem w postaci metabolitów, mniej niż 2% wydalane jest w postaci niezmienionej. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Oxazepamum"
+    ],
+    "atc": [
+     "N05BA04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Oxazepam GSK",
@@ -71,7 +95,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Parametry farmakokinetyczne dla produktu leczniczego Oxazepam GSK oznaczano u 13 pacjentów z objawami nerwicowymi po jednorazowym podaniu doustnym dawki 20 mg. Wchłanianie Oksazepam wchłania się z przewodu pokarmowego w około 97%. Maksymalne stężenie we krwi po przyjęciu jednorazowej dawki 20 mg występuje po około 3 godzinach (256,36 ng/mL). Wartość AUC po jednorazowym podaniu dawki 20 mg wynosi 3034 ng/mL·h. Dystrybucja Oksazepam w około 98% wiąże się z białkami krwi. Objętość dystrybucji wynosi około 0,4-2,3 L/kg. Metabolizm Oksazepam jest metabolizowany w wątrobie tworząc połączenia z kwasem glukuronowym. Powstają też niewielkie ilości chinazoliny i dihydroksypochodnych. Eliminacja Biologiczny okres półtrwania oksazepamu wynosi około 14 h. Metabolity są wydalane głównie z moczem (67-80%), 3% podanej dawki wydala się z kałem. Jedynie niewielka część podanej dawki jest wydalana w postaci niezmienionej. Okres półtrwania może ulec wydłużeniu w przypadku mocznicy. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Oxazepamum"
+    ],
+    "atc": [
+     "N05BA04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

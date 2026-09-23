@@ -31,7 +31,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Akamprozat wykazuje umiarkowane, wolne wchłanianie z przewodu pokarmowego z wysoką zmiennością osobniczą. Podawanie akamprozatu z pokarmem zmniejsza biodostępność produktu Campral w porównaniu z podawaniem produktu w innych warunkach. Stan stacjonarny jest osiągany w ciągu 5-7 dni po wielokrotnym podaniu doustnym. Akamprozat nie wiąże się z białkami osocza. Akamprozat jest wydalany wyłącznie przez nerki w niezmienionej postaci, klirens nerkowy akamprozatu jest prawie taki sam jak klirens osoczowy. Dodatkowo istnieje liniowy związek pomiędzy ciężkim zaburzeniem czynności nerek a wydłużeniem okresu półtrwania akamprozatu w surowicy. Chociaż wchłanianie z przewodu pokarmowego jest przedłużone to wydalanie jest szybkie. Dlatego okres półtrwania od 15 do 30 godzin jest bardziej reprezentatywny dla wchłaniania niż wydalania. Właściwości farmakokinetyczne akamprozatu są niezmienione u osób z niewydolnością wątroby. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane dojelitowe"
+    ],
+    "nazwa_powszechna": [
+     "Acamprosatum calcium"
+    ],
+    "atc": [
+     "N07BB03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Diazepam ulega szybkiemu i całkowitemu wchłanianiu z układu pokarmowego. Maksymalne stężenia w osoczu są osiągane w ciągu 30–90 minut po podaniu doustnym. Wchłanianie jest opóźnione i ograniczone po podaniu w trakcie posiłku o umiarkowanej zawartości tłuszczu. W obecności pokarmu średnie opóźnienie wynosi ok. 45 minut w porównaniu do 15 minut na czczo. Dochodzi także do wydłużenia średniego czasu niezbędnego do osiągnięcia stężeń maksymalnych do około 2,5 godziny w obecności pokarmu w porównaniu do 1,25 godziny na czczo. Prowadzi to do średniego spadku wartości Cmax na poziomie 20% oraz spadku AUC o 27% (od 15% do 50%) po podaniu w trakcie posiłku. Dystrybucja Po podaniu doustnym dawki 5 mg diazepamu maksymalne stężenie w surowicy na poziomie około 176 ng/mL występuje po upływie 0,5–1 godziny. Dalsza dystrybucja wiąże się ze znaczącym spadkiem stężenia w osoczu utrzymującym się przez 2–4 godziny. Diazepam i jego metabolity są w znacznym stopniu wiązane z białkami osocza (diazepam 98%). Diazepam i jego metabolity przenikają barierę krew-mózg i barierę łożyskową oraz występują w mleku ludzkim w stężeniach wynoszących około jedną dziesiątą wartości obserwowanych w osoczu matki (patrz punkt 4.6). Objętość dystrybucji w fazie stacjonarnej wynosi 0,8–1,0 l/kg mc. Okres półtrwania w fazie dystrybucji wynosi 3 godziny. Metabolizm Diazepam jest metabolizowany głównie do farmakologicznie czynnych metabolitów N -desmetylodiazepamu, temazepamu i oksazepamu. W oksydacyjnych przemianach diazepamu uczestniczą izoenzymy CYP3A4 i CYP2C19. Oksazepam i temazepam są dalej sprzęgane do kwasu glukuronowego. Okres półtrwania biologicznie czynnego metabolitu, N-desmetylodiazepamu, wynosi 2–4 dni. Eliminacja Spadek parametrów stężenia w osoczu do czasu po podaniu doustnym jest dwufazowy – po wstępnej i intensywnej fazie dystrybucji następuje długotrwała faza eliminacji końcowej (okres półtrwania wynosi do 48 godzin). Okres półtrwania czynnego metabolitu, N-desmetylodiazepamu, w końcowej fazie eliminacji wynosi do 100 godzin. Diazepam i jego metabolity są wydalane przede wszystkim drogą nerkową, głównie w postaci sprzężonej, a około 10% substancji wydalanej jest z kałem. Klirens diazepamu wynosi 20–30 ml/min. Szczególne grupy pacjentów Okres półtrwania w fazie eliminacji może być wydłużony u noworodków, pacjentów w podeszłym wieku oraz u pacjentów z chorobami wątroby. W przypadku niewydolności nerek okres półtrwania diazepamu nie zostaje znacząco zmieniony. Okres półtrwania: pacjenci w podeszłym wieku: 70–100 godzin. Dzieci: wcześniaki: 40–110 godzin; noworodki urodzone w terminie: ok. 30 godzin, niemowlęta do ukończenia 1. roku życia: ok. 10 godzin, dzieci powyżej 1. roku życia: ok. 20 godzin. Pacjenci z otyłością W różnych badaniach wykazano, że u pacjentów otyłych, w porównaniu do osób o prawidłowej masie ciała, parametry kinetyczne ulegają zmianie. W badaniu, w którym uczestnicy otrzymywali na noc diazepam w dawce 2 mg przez 30 dni kumulacja była opóźniona, a okres półtrwania skumulowanej substancji czynnej u uczestników z nadwagą uległ wydłużeniu w porównaniu do pacjentów o prawidłowej masie ciała (7,8 dnia w porównaniu do 3,1 dnia). Podobnie skumulowana ilość czynnego metabolitu, desmetylodiazepamu, uległa znaczącemu wydłużeniu. Okres półtrwania diazepamu w fazie eliminacji z osocza uległ wydłużeniu do 82 godzin u uczestników otyłych. Zmieniona 15 farmakokinetyka w przypadku długotrwałego leczenia u pacjentów otyłych wynika prawdopodobnie z objętości dystrybucji. Dane te wskazują, że pacjenci z otyłością wymagają znacznie dłuższego leczenia niż pacjenci o prawidłowej masie ciała zanim wystąpi maksymalny efekt działania produktu leczniczego w trakcie terapii długookresowej. Podobnie efekt terapeutyczny i działania niepożądane, w tym objawy odstawienia, mogą występować przez dłuższy czas po przerwaniu dłuższego leczenia u pacjentów otyłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Diazepamum"
+    ],
+    "atc": [
+     "N05BA01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Diazepam Grindeks",
@@ -51,7 +63,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Diazepam podany domięśniowo absorbowany jest całkowicie, aczkolwiek nie zawsze szybciej niż po podaniu doustnym. Dystrybucja Diazepam i jego metabolity wiążą się w znacznym stopniu z białkami osocza (98%). Diazepam i jego metabolity przenikają barierę krew/mózg, barierę łożyskową oraz są wykrywane w mLeku ludzkim w stężeniach wynoszących około jedną dziesiątą wartości obserwowanych w osoczu matki (patrz punkt 4.6). Objętość dystrybucji diazepamu w fazie stacjonarnej wynosi 0,8–1 L/kg mc. Okres półtrwania w fazie dystrybucji wynosi 3 godziny. 9 Metabolizm Diazepam jest głównie metabolizowany do farmakologicznie czynnych metabolitów: N-desmetylodiazepamu, temazepamu i oksazepamu. W oksydacyjnych przemianach diazepamu uczestniczą izoenzymy CYP2C19 i CYP3A. Oksazepam i temazepam są dalej sprzęgane z kwasem glukuronowym. Eliminacja Spadek stężenia diazepamu w osoczu ma przebieg dwufazowy, gdy podawany jest dożylnie: po wstępnej, szybkiej i intensywnej fazie dystrybucji, następuje długotrwała faza eliminacji końcowej. Okres półtrwania czynnego metabolitu N-desmetylodiazepamu wynosi do 100 godzin. Diazepam i jego metabolity są wydalane przede wszystkim w moczu, głównie w postaci sprzężonej. Klirens diazepamu wynosi 20–30 mL/min. Specjalne grupy pacjentów Okres półtrwania w fazie eliminacji może być wydłużony u noworodków, u pacjentów w podeszłym wieku oraz u pacjentów z chorobami wątroby. U pacjentów z niewydolnością nerek okres półtrwania diazepamu nie ulega znaczącym zmianom. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do wstrzykiwań",
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Diazepamum"
+    ],
+    "atc": [
+     "N05BA01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Neorelium",
@@ -71,7 +96,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Diazepam dobrze wchłania się z przewodu pokarmowego; biodostępność wynosi około 98%. Dystrybucja Po doustnym podaniu 20 mg diazepamu maksymalne stężenie we krwi występuje po 0,9-1,3 godziny i wynosi 500 ng/ml. Okres półtrwania dla diazepamu wynosi około 24 do 48 godzin, z białkami krwi wiąże się w 94 - 99%. Diazepam wykazuje duże powinowactwo do tkanki tłuszczowej. Przenika przez barierę krew/płyn mózgowo-rdzeniowy, barierę łożyska i do mleka matki. Metabolizm Diazepam jest metabolizowany w wątrobie. W wyniku tego procesu powstają aktywne metabolity: N- dezmetylodiazepam (nordiazepam), temazepam, oksazepam, które następnie ulegają sprzęganiu z kwasem glukuronowym. Eliminacja Diazepam i jego metabolity są wydalane głównie z moczem. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do wstrzykiwań",
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Diazepamum"
+    ],
+    "atc": [
+     "N05BA01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

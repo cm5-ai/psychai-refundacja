@@ -18,7 +18,21 @@
    "moc": "10 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Krople doustne, roztwór",
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Vortioxetini hydrobromidum",
+     "Vortioxetinum"
+    ],
+    "atc": [
+     "N06AX26"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Abrix",
@@ -38,7 +52,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym wortioksetyna jest dobrze, choć powoli wchłaniana, a maksymalne stężenie w osoczu występuje w ciągu 7 do 11 godzin. Po podaniu wielokrotnych dawek wynoszących 5, 10 lub 20 mg/dobę średnie wartości Cmax wyniosły 9 do 33 ng/ml. Bezwzględna biodostępność wynosi 75%. Pokarm nie miał wpływu na farmakokinetykę wortioksetyny (patrz punkt 4.2). Dystrybucja Średnia objętość dystrybucji (Vss) wynosi 2 600 l, co wskazuje na intensywną dystrybucję poza naczynia. Wortioksetyna wiąże się w dużym stopniu z białkami osocza (98 do 99%), a wiązanie to wydaje się niezależne od stężenia wortioksetyny w osoczu. Metabolizm Wortioksetyna jest intensywnie metabolizowana w wątrobie, głównie poprzez oksydację katalizowaną przez CYP2D6, a w mniejszym stopniu przez CYP3A4/5 i CYP2C9, a następnie sprzęganie z kwasem glukuronowym. Nie obserwowano hamującego ani indukującego wpływu wortioksetyny w badaniach interakcji typu 15 PL_ztw03.01.2025 PRAC_22.08.2025 v1 lek-lek na izoenzymy CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 lub CYP3A4/5( patrz punkt 4.5). Wortioksetyna jest słabym substratem i inhibitorem P-gp. Główny metabolit wortioksetyny jest farmakologicznie nieaktywny. Eliminacja Średni okres półtrwania eliminacji i klirens po podaniu doustnym wynoszą odpowiednio 66 godzin i 33 l/h. Około 2/3 nieaktywnych metabolitów wortioksetyny jest wydalane z moczem, a około 1/3 z kałem. Tylko nieznaczne ilości wortioksetyny są wydalane z kałem. Stężenia w osoczu w stanie stacjonarnym są osiągane po około 2 tygodniach. Liniowość lub nieliniowość Farmakokinetyka wortioksetyny jest liniowa i nie zależy od czasu w zakresie badanych dawek (2,5 do 60 mg/dobę). Zgodnie z okresem półtrwania, wskaźnik kumulacji wynosi 5 do 6 na podstawie AUC0-24h po podaniu wielokrotnych dawek od 5 do 20 mg/dobę. Szczególne populacje pacjentów Pacjenci w podeszłym wieku U zdrowych pacjentów w podeszłym wieku (≥65 lat; n=20), narażenie na wortioksetynę wzrosło do 27% (Cmax i AUC) w porównaniu ze zdrowymi młodymi osobami z grupy kontrolnej (w wieku ≤45 lat) po podaniu wielokrotnych dawek wynoszących 10 mg/dobę. U pacjentów w wieku ≥65 lat jako dawkę początkową należy zawsze stosować najmniejszą skuteczną dawkę 5 mg wortioksetyny raz na dobę (patrz punkt 4.2). Należy jednak zachować ostrożność przepisując lek osobom w podeszłym wieku w dawkach większych niż 10 mg wortioksetyny raz na dobę (patrz punkt 4.4). Zaburzenia czynności nerek Po podaniu pojedynczej dawki wortioksetyny zaburzenia czynności nerek oceniane za pomocą wzoru Cockcrofta-Gaulta (łagodne, umiarkowane lub ciężkie; n=8 w każdej z grup) spowodowały niewielki wzrost narażenia (do 30%) w porównaniu z odpowiednio dobranymi zdrowymi osobami z grupy kontrolnej. U pacjentów ze schyłkową niewydolnością nerek jedynie niewielka część wortioksetyny była usuwana podczas dializy (AUC i Cmax były odpowiednio o 13% i 27% mniejsze; n=8) po podaniu pojedynczej dawki 10 mg wortioksetyny. Nie ma konieczności dostosowania dawki w zależności od czynności nerek (patrz punkt 4.2 i 4.4). Zaburzenia czynności wątroby Farmakokinetykę u osób (N = 6-8) z łagodnymi, umiarkowanymi lub ciężkimi zaburzeniami czynności wątroby (kryteria, odpowiednio, A, B lub C w skali Child-Pugh) porównano z parametrami u zdrowych ochotników. Zmiany w AUC były mniejsze o mniej niż 10% u osób z łagodnymi lub umiarkowanymi zaburzeniami czynności wątroby, a większe o 10% u osób z ciężkimi zaburzeniami czynności wątroby. Zmiany Cmax były o mniej niż 25% mniejsze we wszystkich grupach. Nie jest wymagana modyfikacja dawki zależnie od czynności wątroby (patrz punkt 4.2 i 4.4). Typy genów CYP2D6 Stężenie wortioksetyny w osoczu było około dwukrotnie większe u osób ze słabym metabolizmem za pośrednictwem CYP2D6 niż u osób z dobrym funkcjonowaniem CYP2D6. Jednoczesne podawanie silnych inhibitorów CYP3A4/2C9 osobom ze słabym metabolizmem za pośrednictwem CYP2D6 może spowodować większe narażenie na lek (patrz punkt 4.5). U osób z ultraszybkim metabolizmem za pośrednictwem CYP2D6 osoczowe stężenie wortioksetyny podawanej w dawce 10 mg/dobę mieściło się w zakresie wartości odnotowanych dla osób z intensywnym metabolizmem po podaniu dawki 5 mg/dobę do 10 mg/dobę. W zależności od indywidualnej odpowiedzi danego pacjenta na leczenie można rozważyć dostosowanie dawki (patrz punkt 4.2). 16 PL_ztw03.01.2025 PRAC_22.08.2025 v1 Dzieci i młodzież Parametry farmakokinetyczne wortioksetyny u dzieci i młodzieży z dużymi zaburzeniami depresyjnymi po podaniu doustnym dawki od 5 do 20 mg raz na dobę scharakteryzowano, stosując analizy modelu populacyjnego na podstawie danych z badania farmakokinetycznego (7–17 lat) oraz dwóch badań dotyczących skuteczności i bezpieczeństwa stosowania (7–17 lat). Parametry farmakokinetyczne wortioksetyny u dzieci i młodzieży były podobne jak u osób dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Vortioxetinum"
+    ],
+    "atc": [
+     "N06AX26"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Anubes",
@@ -58,7 +84,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym wortioksetyna jest dobrze, choć powoli wchłaniana, a maksymalne stężenie w osoczu występuje w ciągu 7 do 11 godzin. Po podaniu wielokrotnych dawek wynoszących 5, 10 lub 20 mg/dobę średnie wartości Cmax wyniosły 9 do 33 ng/mL. Bezwzględna biodostępność wynosi 75%. Pokarm nie miał wpływu na farmakokinetykę wortioksetyny (patrz punkt 4.2). Dystrybucja Średnia objętość dystrybucji (Vss) wynosi 2 600 L, co wskazuje na intensywną dystrybucję poza naczynia. Wortioksetyna wiąże się w dużym stopniu z białkami osocza (98 do 99%), a wiązanie to wydaje się niezależne od stężenia wortioksetyny w osoczu. Metabolizm Wortioksetyna jest intensywnie metabolizowana w wątrobie, głównie poprzez oksydację katalizowaną przez CYP2D6, a w mniejszym stopniu przez CYP3A4/5 i CYP2C9, a następnie sprzęganie z kwasem glukuronowym. Nie obserwowano hamującego ani indukującego wpływu wortioksetyny w badaniach interakcji typu lek-lek na izoenzymy CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 lub CYP3A4/5 (patrz punkt 4.5). Wortioksetyna jest słabym substratem i inhibitorem P-gp. Główny metabolit wortioksetyny jest farmakologicznie nieaktywny. Eliminacja Średni okres półtrwania eliminacji i klirens po podaniu doustnym wynoszą odpowiednio 66 godzin i 33 L/h. Około 2/3 nieaktywnych metabolitów wortioksetyny jest wydalane z moczem, a około 1/3 z kałem. Tylko nieznaczne ilości wortioksetyny są wydalane z kałem. Stężenia w osoczu w stanie stacjonarnym są osiągane po około 2 tygodniach. Liniowość lub nieliniowość Farmakokinetyka wortioksetyny jest liniowa i nie zależy od czasu w zakresie badanych dawek (2,5 do 60 mg/dobę). Zgodnie z okresem półtrwania, wskaźnik kumulacji wynosi 5 do 6 na podstawie AUC0-24h po podaniu wielokrotnych dawek od 5 do 20 mg/dobę. Szczególne populacje pacjentów Pacjenci w podeszłym wieku U zdrowych pacjentów w podeszłym wieku (≥65 lat; n=20), narażenie na wortioksetynę wzrosło do 27% (Cmax i AUC) w porównaniu ze zdrowymi młodymi osobami z grupy kontrolnej (w wieku ≤45 lat) po podaniu wielokrotnych dawek wynoszących 10 mg/dobę. U pacjentów w wieku ≥65 lat jako dawkę początkową należy zawsze stosować najmniejszą skuteczną dawkę 5 mg wortioksetyny raz na dobę (patrz punkt 4.2). Należy jednak zachować ostrożność przepisując lek osobom w podeszłym wieku w dawkach większych niż 10 mg wortioksetyny raz na dobę (patrz punkt 4.4). Zaburzenia czynności nerek Po podaniu pojedynczej dawki wortioksetyny zaburzenia czynności nerek oceniane za pomocą wzoru 16 Cockcrofta-Gaulta (łagodne, umiarkowane lub ciężkie; n=8 w każdej z grup) spowodowały niewielki wzrost narażenia (do 30%) w porównaniu z odpowiednio dobranymi zdrowymi osobami z grupy kontrolnej. U pacjentów ze schyłkową niewydolnością nerek jedynie niewielka część wortioksetyny była usuwana podczas dializy (AUC i Cmax były odpowiednio o 13% i 27% mniejsze; n=8) po podaniu pojedynczej dawki 10 mg wortioksetyny. Nie ma konieczności dostosowania dawki zależnie od czynności nerek (patrz punkt 4.2 i 4.4). Zaburzenia czynności wątroby Farmakokinetykę u osób (N = 6-8) z łagodnymi, umiarkowanymi lub ciężkimi zaburzeniami czynności wątroby (kryteria, odpowiednio, A, B lub C w skali Child-Pugh) porównano z parametrami u zdrowych ochotników. Zmiany w AUC były mniejsze o mniej niż 10% u osób z łagodnymi lub umiarkowanymi zaburzeniami czynności wątroby, a większe o 10% u osób z ciężkimi zaburzeniami czynności wątroby. Zmiany Cmax były o mniej niż 25% mniejsze we wszystkich grupach. Nie jest wymagana modyfikacja dawki zależnie od czynności wątroby (patrz punkt 4.2 i 4.4). Typy genów CYP2D6 Stężenie wortioksetyny w osoczu było około dwukrotnie większe u osób ze słabym metabolizmem za pośrednictwem CYP2D6 niż u osób z dobrym funkcjonowaniem CYP2D6. Jednoczesne podawanie silnych inhibitorów CYP3A4/2C9 osobom ze słabym metabolizmem za pośrednictwem CYP2D6 może spowodować większe narażenie na lek (patrz punkt 4.5). U osób z ultraszybkim metabolizmem za pośrednictwem CYP2D6 osoczowe stężenie wortioksetyny podawanej w dawce 10 mg/dobę mieściło się w zakresie wartości odnotowanych dla osób z intensywnym metabolizmem po podaniu dawki 5 mg/dobę do 10 mg/dobę. W zależności od indywidualnej odpowiedzi danego pacjenta na leczenie można rozważyć dostosowanie dawki (patrz punkt 4.2). Dzieci i młodzież Parametry farmakokinetyczne wortioksetyny u dzieci i młodzieży z dużymi zaburzeniami depresyjnymi po podaniu doustnym dawki od 5 do 20 mg raz na dobę scharakteryzowano, stosując analizy modelu populacyjnego na podstawie danych z badania farmakokinetycznego (7–17 lat) oraz dwóch badań dotyczących skuteczności i bezpieczeństwa stosowania (7–17 lat). Parametry farmakokinetyczne wortioksetyny u dzieci i młodzieży były podobne jak u osób dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Vortioxetinum"
+    ],
+    "atc": [
+     "N06AX26"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dostępność biologiczna Agomelatyna jest szybko i dobrze (≥80%) wchłaniana po podaniu doustnym. Całkowita dostępność biologiczna jest mała (<5% doustnej dawki terapeutycznej), a zmienność międzyosobnicza - znaczna. Dostępność biologiczna jest zwiększona u kobiet w porównaniu do mężczyzn. Dostępność biologiczną zwiększa przyjmowanie doustnych środków antykoncepcyjnych, a zmniejsza palenie tytoniu. Maksymalne stężenie w osoczu jest osiągane w ciągu 1 do 2 godzin. W zakresie dawek terapeutycznych ogólna ekspozycja na agomelatynę zwiększa się proporcjonalnie do dawki. Po większych dawkach występuje efekt nasycenia pierwszego przejścia. Spożycie pokarmu (posiłek standardowy lub bogatotłuszczowy) nie zmienia dostępności biologicznej ani szybkości wchłaniania. Zmienność jest zwiększona po posiłku bogatotłuszczowym. Dystrybucja Objętość dystrybucji w stanie stacjonarnym wynosi około 35 l, a stopień wiązania z białkami osocza 95% niezależnie od stężenia i nie ulega modyfikacji wraz z wiekiem oraz u pacjentów z zaburzeniem czynności nerek, ale wielkość wolnej frakcji jest podwojona u pacjentów z zaburzeniami czynności wątroby. Metabolizm Po podaniu doustnym agomelatyna jest szybko metabolizowana głównie przez wątrobowy izoenzym CYP1A2; izoenzymy CYP2C9 i CYP2C19 biorą także udział w metabolizmie, ale w mniejszym 10 stopniu. Główne metabolity, hydroksylowane i demetylowe pochodne agomelatyny, są nieaktywne i zostają szybko sprzęgane oraz wydalane w moczu. Eliminacja Eliminacja jest szybka, średni okres półtrwania w osoczu wynosi od 1 do 2 godzin, klirens jest duży (około 1 100 ml/min) i głównie metaboliczny. Wydalanie zachodzi głównie z moczem (80%) i w postaci metabolitów, niezmieniony związek występuje w moczu w ilościach pomijalnych. Wielokrotne podanie nie zmienia kinetyki. Zaburzenia czynności nerek U pacjentów z ciężkimi zaburzeniami czynności nerek (n = 8, pojedyncza dawka 25 mg) nie obserwowano istotnej zmiany parametrów farmakokinetycznych, ale należy zachować ostrożność u pacjentów z ciężkimi lub umiarkowanymi zaburzeniami czynności nerek, ponieważ dostępne są tylko ograniczone kliniczne dane ich dotyczące (patrz punkt 4.2). Zaburzenia czynności wątroby W specyficznym badaniu ekspozycja na agomelatynę w dawce 25 mg u pacjentów z marskością wątroby, z przewlekłymi łagodnymi (typ A w klasyfikacji Child-Pugh) lub umiarkowanymi (typ B w klasyfikacji Child-Pugh) zaburzeniami czynności wątroby, była znacznie zwiększona (odpowiednio 70 i 140 razy) w porównaniu do dobranych grup ochotników (wiek, masa ciała i nawyk palenia tytoniu) bez niewydolności wątroby (patrz punkt 4.2, 4.3 i 4.4). Pacjenci w podeszłym wieku W badaniu dotyczącym farmakokinetyki u pacjentów w podeszłym wieku (≥65 lat) wykazano, że po podaniu dawki 25 mg mediana wartości AUC i mediana wartości Cmax były około 4 razy i 13 razy większe u pacjentów ≥75 lat w porównaniu do pacjentów <75 lat. Całkowita liczba pacjentów otrzymujących dawkę 50 mg była za mała, aby móc wyciągnąć jakieś wnioski. Dostosowanie dawki u pacjentów w podeszłym wieku nie jest wymagane. Grupy etniczne Brak danych dotyczących wpływu rasy na farmakokinetykę agomelatyny. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Agomelatinum"
+    ],
+    "atc": [
+     "N06AX22"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Agomelatine +pharma",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dostępność biologiczna Agomelatyna jest szybko i dobrze (≥80%) wchłaniana po podaniu doustnym. Całkowita dostępność biologiczna jest mała (<5% doustnej dawki terapeutycznej), a zmienność międzyosobnicza - znaczna. Dostępność biologiczna jest zwiększona u kobiet w porównaniu do mężczyzn. Dostępność biologiczną zwiększa przyjmowanie doustnych środków antykoncepcyjnych, a zmniejsza palenie tytoniu. Maksymalne stężenie w osoczu jest osiągane w ciągu 1 do 2 godzin. W zakresie dawek terapeutycznych ogólna ekspozycja na agomelatynę zwiększa się proporcjonalnie do dawki. Po większych dawkach występuje efekt nasycenia pierwszego przejścia. Spożycie pokarmu (posiłek standardowy lub bogatotłuszczowy) nie zmienia dostępności biologicznej ani szybkości wchłaniania. Zmienność jest zwiększona po posiłku bogatotłuszczowym. Dystrybucja Objętość dystrybucji w stanie stacjonarnym wynosi około 35 l, a stopień wiązania z białkami osocza 95% niezależnie od stężenia i nie ulega modyfikacji wraz z wiekiem oraz u pacjentów z zaburzeniem czynności nerek, ale wielkość wolnej frakcji jest podwojona u pacjentów z zaburzeniem czynności wątroby. Metabolizm Po podaniu doustnym agomelatyna jest szybko metabolizowana głównie przez wątrobowy izoenzym CYP1A2; izoenzymy CYP2C9 i CYP2C19 biorą także udział w metabolizmie, ale w mniejszym stopniu. Główne metabolity, hydroksylowane i demetylowe pochodne agomelatyny, są nieaktywne i zostają szybko sprzęgane oraz wydalane w moczu. Eliminacja Eliminacja jest szybka, średni okres półtrwania w osoczu wynosi od 1 do 2 godzin, klirens jest duży (około 1 100 ml/min) i głównie metaboliczny. Wydalanie zachodzi głównie z moczem (80%) i w postaci metabolitów, niezmieniony związek występuje w moczu w ilościach pomijalnych. Wielokrotne podanie nie zmienia kinetyki. 11/14 Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek (n = 8, pojedyncza dawka 25 mg) nie obserwowano istotnej zmiany parametrów farmakokinetycznych. Należy jednak zachować ostrożność u pacjentów z ciężkim lub umiarkowanym zaburzeniem czynności nerek, ponieważ dostępne są tylko ograniczone kliniczne dane ich dotyczące (patrz punkt 4.2). Zaburzenie czynności wątroby W specyficznym badaniu ekspozycja na agomelatynę w dawce 25 mg u pacjentów z marskością wątroby, z przewlekłymi łagodnymi (typ A w klasyfikacji Child-Pugh) lub umiarkowanymi (typ B w klasyfikacji Child-Pugh) zaburzeniami czynności wątroby, była znacznie zwiększona (odpowiednio 70 i 140 razy) w porównaniu do dobranych grup ochotników (wiek, masa ciała i nawyk palenia tytoniu) bez niewydolności wątroby (patrz punkt 4.2, 4.3 i 4.4). Dzieci i młodzież Właściwości farmakokinetyczne agomelatyny badano u 60 dzieci i 166 nastolatków otrzymujących dawki dobowe w zakresie od 1 do 25 mg. Większość danych pochodzi z pomiarów stężenia leku w ślinie, a ekspozycja na agomelatynę w osoczu u dzieci i młodzieży jest w dużym stopniu niescharakteryzowana. Podobnie jak u dorosłych, zmienność międzyosobnicza dotycząca farmakokinetyki agomelatyny jest znaczna. Dostępne dane dotyczące dzieci i młodzieży wskazują, że w znacznym stopniu pokrywają się one z obserwowanym zakresem ekspozycji u dorosłych po podaniu agomelatyny w dawce 25 mg. Pacjenci w podeszłym wieku W badaniu dotyczącym farmakokinetyki u pacjentów w podeszłym wieku (≥65 lat) wykazano, że po podaniu dawki 25 mg mediana wartości AUC i mediana wartości Cmax były około 4 razy i 13 razy większe u pacjentów ≥75 lat niż u pacjentów <75 lat. Całkowita liczba pacjentów otrzymujących dawkę 50 mg była za mała, aby móc wyciągnąć jakieś wnioski. Nie wymaga się dostosowania dawki u pacjentów w podeszłym wieku. Grupy etniczne Brak danych dotyczących wpływu pochodzenia etnicznego na farmakokinetykę agomelatyny. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Agomelatinum"
+    ],
+    "atc": [
+     "N06AX22"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Agomelatine Adamed",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dostępność biologiczna Agomelatyna jest szybko i dobrze (≥80%) wchłaniana po podaniu doustnym. Całkowita dostępność biologiczna jest mała (<5% doustnej dawki terapeutycznej), a zmienność międzyosobnicza - znaczna. Dostępność biologiczna jest zwiększona u kobiet w porównaniu do mężczyzn. Dostępność biologiczną 12 zwiększa przyjmowanie doustnych środków antykoncepcyjnych, a zmniejsza palenie tytoniu. Maksymalne stężenie w osoczu jest osiągane w ciągu 1 do 2 godzin. W zakresie dawek terapeutycznych ogólna ekspozycja na agomelatynę zwiększa się proporcjonalnie do dawki. Po większych dawkach występuje efekt nasycenia pierwszego przejścia. Spożycie pokarmu (posiłek standardowy lub bogatotłuszczowy) nie zmienia dostępności biologicznej ani szybkości wchłaniania. Zmienność jest zwiększona po posiłku bogatotłuszczowym. Dystrybucja Objętość dystrybucji w stanie stacjonarnym wynosi około 35 l, a stopień wiązania z białkami osocza 95% niezależnie od stężenia i nie ulega modyfikacji wraz z wiekiem oraz u pacjentów z zaburzeniem czynności nerek, ale wielkość wolnej frakcji jest podwojona u pacjentów z zaburzeniem czynności wątroby. Metabolizm Po podaniu doustnym agomelatyna jest szybko metabolizowana głównie przez wątrobowy izoenzym CYP1A2; izoenzymy CYP2C9 i CYP2C19 biorą także udział w metabolizmie, ale w mniejszym stopniu. Główne metabolity, hydroksylowane i demetylowe pochodne agomelatyny, są nieaktywne i zostają szybko sprzęgane oraz wydalane w moczu. Eliminacja Eliminacja jest szybka, średni okres półtrwania w osoczu wynosi od 1 do 2 godzin, klirens jest duży (około 1 100 ml/min) i głównie na drodze metabolicznej. Wydalanie zachodzi głównie z moczem (80%) i w postaci metabolitów, niezmieniony związek występuje w moczu w ilościach pomijalnych. Wielokrotne podanie nie wpływa na zmianę kinetyki. Zaburzenia czynności nerek U pacjentów z ciężkimi zaburzeniami czynności nerek (n=8, pojedyncza dawka 25 mg) nie obserwowano istotnej zmiany parametrów farmakokinetycznych. Należy jednak zachować ostrożność u pacjentów z ciężkim lub umiarkowanymi zaburzeniami czynności nerek, ponieważ dostępne są tylko ograniczone dane kliniczne dotyczące takich pacjentów (patrz punkt 4.2). Zaburzenia czynności wątroby W specyficznym badaniu z udziałem pacjentów z marskością wątroby, z przewlekłym łagodnym (typ A w klasyfikacji Child-Pugh) lub umiarkowanym (typ B w klasyfikacji Child-Pugh) zaburzeniem czynności wątroby, ekspozycja na agomelatynę w dawce 25 mg była znacznie zwiększona (odpowiednio 70 i 140 razy) w porównaniu do dobranych grup ochotników (wiek, masa ciała i nawyk palenia tytoniu) bez niewydolności wątroby (patrz punkt 4.2, 4.3 i 4.4). Pacjenci w podeszłym wieku W badaniu dotyczącym farmakokinetyki u pacjentów w podeszłym wieku (≥65 lat) wykazano, że po podaniu dawki 25 mg mediana wartości AUC i Cmax była odpowiednio około 4 razy i 13 razy większa u pacjentów ≥75 lat niż u pacjentów <75 lat. Całkowita liczba pacjentów otrzymujących dawkę 50 mg była zbyt mała, aby wyciągać jakiekolwiek wnioski. Nie ma potrzeby zmiany dawkowania u pacjentów w podeszłym wieku. Grupy etniczne 13 Brak danych dotyczących wpływu rasy na farmakokinetykę agomelatyny. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Agomelatinum"
+    ],
+    "atc": [
+     "N06AX22"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

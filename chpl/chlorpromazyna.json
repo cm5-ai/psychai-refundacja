@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne 7 Po podaniu doustnym chloropromazyny chlorowodorek wchłania się szybko z przewodu pokarmowego i jest dobrze rozprowadzany po organizmie. Maksymalne stężenie we krwi osiąga w ciągu 1 godziny. Chloropromazyny chlorowodorek jest metabolizowany w wątrobie i wydalany z moczem i żółcią. Stężenie chloropromazyny chlorowodorku we krwi zmniejsza się szybko, podczas gdy metabolity chloropromazyny chlorowodorku wydalane są powoli. Chloropromazyny chlorowodorek wiąże się w dużym stopniu z białkami osocza. Łatwo przechodzi przez łożysko. Niewielkie ilości są również wykrywane w mleku matki. U dzieci wymagana jest mniejsza dawka na kg mc. niż u dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Krople doustne, roztwór"
+    ],
+    "nazwa_powszechna": [
+     "Chlorpromazini hydrochloridum"
+    ],
+    "atc": [
+     "N05AA01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ],
  "uwagi_audytu": [

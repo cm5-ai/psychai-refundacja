@@ -18,7 +18,19 @@
    "moc": "100 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Risperidonum"
+    ],
+    "atc": [
+     "N05AX08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Orizon",
@@ -38,7 +50,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Rysperydon jest metabolizowany do 9-hydroksyrysperydonu, który ma podobne właściwości farmakologiczne do rysperydonu (patrz Metabolizm i eliminacja). Wchłanianie Rysperydon jest po podaniu doustnym całkowicie wchłaniany i w ciągu 1 do 2 godzin osiąga maksymalne stężenie w osoczu. Bezwzględna dostępność biologiczna rysperydonu po podaniu doustnym wynosi 70% (CV=25%). Względna dostępność biologiczna rysperydonu po podaniu doustnym, uwolnionego z tabletki wynosi 94% (CV=10%) w porównaniu z roztworem. Obecność pokarmu nie wpływa na wchłanianie leku, dlatego rysperydon może być podawany w trakcie posiłków lub pomiędzy posiłkami. Stan stacjonarny rysperydonu osiągany jest u większości pacjentów w ciągu jednego dnia. Stan stacjonarny 9-hydroksyrysperydonu występuje po upływie 4- 5 dni stosowania. Dystrybucja Dystrybucja rysperydonu przebiega szybko. Objętość dystrybucji wynosi 1 do 2 l/kg. W osoczu rysperydon wiąże się z albuminami i kwaśną alfa-1-glikoproteiną. Rysperydon w osoczu jest związany z białkami w 90%, a 9-hydroksyrysperydon w 77%. Metabolizm i eliminacja Rysperydon jest metabolizowany przez izoenzym CYP 2D6 do 9-hydroksyrysperydonu, który ma podobne właściwości farmakologiczne jak rysperydon. Rysperydon i 9-hydroksyrysperydon tworzą czynną frakcję przeciwpsychotyczną. CYP 2D6 podlega polimorfizmowi genetycznemu. Osoby intensywnie metabolizujące z udziałem CYP 2D6 szybko przekształcają rysperydon w 9- hydroksyrysperydon, podczas gdy osoby słabo metabolizujące z udziałem CYP 2D6 przekształcają go 22(26) znacznie wolniej. Chociaż u osób intensywnie metabolizujących jest mniejsze stężenie rysperydonu a większe stężenie 9-hydroksyrysperydonu niż u osób słabo metabolizujących, to farmakokinetyki rysperydonu i 9-hydroksyrysperydonu łącznie (tzw. czynna frakcja przeciwpsychotyczna), po podaniu dawki jednorazowej i wielokrotnych dawkach są podobne w obu populacjach. Inną ścieżką metaboliczną rysperydonu jest N-dealkilacja. Badania in vitro przeprowadzone na ludzkich mikrosomach wątrobowych wykazały, że rysperydon w klinicznie istotnych stężeniach nie hamuje znacząco metabolizmu leków ulegających przemianom katalizowanym przez izoenzymy cytochromu P450, w tym CYP 1A2, CYP 2A6, CYP 2C8/9/10, CYP 2D6, CYP 2E1, CYP 3A4 i CYP 3A5. W okresie tygodnia od chwili podania, 70% dawki jest wydalane z moczem, a 14% z kałem. W moczu, rysperydon oraz 9-hydroksyrysperydon reprezentuje 35-45% dawki. Pozostała część to nieaktywne metabolity. Po podaniu doustnym pacjentom z psychozami, okres półtrwania rysperydonu wynosi około 3 godzin. Okres półtrwania 9-hydroksyrysperydonu i czynnej frakcji o działaniu przeciwpsychotycznym wynosi 24 godziny. Liniowość lub nieliniowość Stężenie rysperydonu w osoczu w zakresie dawek terapeutycznych wykazuje zależność proporcjonalną do dawki. Osoby w podeszłym wieku, osoby z niewydolnością wątroby lub nerek Badania farmakokinetyki, dotyczące jednorazowej dawki rysperydonu podanego doustnie, wykazały większe stężenia w osoczu o średnio 43%, dłuższy okres półtrwania o 38% i zmniejszenie o 30% klirensu aktywnej frakcji przeciwpsychotycznej u pacjentów w podeszłym wieku. U dorosłych z umiarkowanymi zaburzeniami czynności nerek klirens czynnej frakcji przeciwpsychotycznej wynosił około 48% klirensu u młodych zdrowych dorosłych osób. U dorosłych z ciężkimi zaburzeniami czynności nerek klirens czynnej frakcji przeciwpsychotycznej wynosił około 31% klirensu u młodych zdrowych dorosłych osób. Okres półtrwania czynnej frakcji przeciwpsychotycznej wynosił 16,7 godzin u młodych dorosłych, 24,9 godzin u dorosłych z umiarkowanymi zaburzeniami czynności nerek (lub był około 1,5 razy dłuższy niż u młodych dorosłych), oraz 28,8 godzin u osób z ciężkimi zaburzeniami czynności nerek (lub był około 1,7 razy dłuższy niż u młodych dorosłych). Stężenie rysperydonu w osoczu krwi u pacjentów z niewydolnością wątroby było prawidłowe, jednak średnie stężenie wolnej frakcji rysperydonu zwiększyło się u tych pacjentów o 37,1%. Klirens i okres półtrwania w fazie eliminacji podanego doustnie rysperydonu i czynnej frakcji przeciwpsychotycznej u dorosłych z umiarkowanymi i ciężkimi zaburzeniami czynności wątroby, nie różniły się znacząco od parametrów u młodych zdrowych dorosłych osób. Dzieci i młodzież U dzieci właściwości farmakokinetyczne rysperydonu, 9-hydroksyrysperydonu oraz czynnej frakcji przeciwpsychotycznej są zbliżone do właściwości farmakokinetycznych u osób dorosłych. Płeć, rasa, palenie tytoniu Analiza farmakokinetyki w populacji nie ujawniła istnienia jakiejkolwiek zależnej od płci, rasy czy palenia tytoniu różnicy farmakokinetyki rysperydonu lub aktywnej frakcji przeciwpsychotycznej po podaniu rysperydonu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór doustny",
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Risperidonum"
+    ],
+    "atc": [
+     "N05AX08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Risperidon Vipharm",
@@ -58,7 +83,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Rysperydon jest metabolizowany do 9-hydroksyrysperydonu, który ma podobne właściwości farmakologiczne do właściwości rysperydonu (patrz Metabolizm ieliminacja). Wchłanianie Rysperydon jest po podaniu doustnym całkowicie wchłaniany i w ciągu 1 do 2 godzin osiąga maksymalne stężenie w osoczu krwi. Bezwzględna dostępność biologiczna rysperydonu po podaniu doustnym wynosi 70% (CV=25%). Względna dostępność biologiczna rysperydonu po podaniu doustnym, uwolnionego z tabletki wynosi 94% (CV=10%) w porównaniu z roztworem. Obecność pokarmu nie wpływa na wchłanianie leku, dlatego rysperydon może być podawany w trakcie posiłków lub pomiędzy posiłkami. Stan stacjonarny rysperydonu występuje u większości pacjentów w ciągu jednego dnia. Stan stacjonarny 9-hydroksyrysperydonu występuje w ciągu 4-5 dni stosowania leku. Dystrybucja Dystrybucja rysperydonu przebiega szybko. Objętość dystrybucji wynosi 1 do 2 l/kg. W osoczu krwi rysperydon wiąże się z albuminami i kwaśną alfa-1-glikoproteiną. Rysperydon w osoczu krwi jest związany z białkami w 90%, a 9-hydroksyrysperydon w 77%. Metabolizm i eliminacja Rysperydon jest metabolizowany przez CYP 2D6 do 9-hydroksyrysperydonu, który ma podobne właściwości farmakologiczne do właściwości rysperydonu. Rysperydon i 9-hydroksyrysperydon tworzą czynną frakcję przeciwpsychotyczną. CYP 2D6 podlega polimorfizmowi genetycznemu. Osoby intensywnie metabolizujące z udziałem CYP 2D6 szybko przekształcają rysperydon do 9- hydroksyrysperydon, podczas gdy osoby słabo metabolizujące z udziałem CYP 2D6 przekształcają go znacznie wolniej. Chociaż u osób intensywnie metabolizujących jest mniejsze stężenie rysperydonu a większe stężenie 9-hydroksyrysperydonu niż u osób słabo metabolizujących, to farmakokinetyki rysperydonu i 9-hydroksyrysperydonu łącznie (tzw. czynna frakcja przeciwpsychotyczna), po podaniu dawki jednorazowej i wielokrotnych dawkach są podobne w obu populacjach. Inną ścieżką metaboliczną rysperydonu jest N-dealkilacja. Badania in vitro przeprowadzone na ludzkich mikrosomach wątrobowych wykazały, że rysperydon w klinicznie istotnych stężeniach nie hamuje znacząco metabolizmu leków ulegających przemianom katalizowanym przez izoenzymy cytochromu P450, w tym CYP 1A2, CYP 2A6, CYP 2C8/9/10, CYP 2D6, CYP 2E1, CYP 3A4 i CYP 3A5. W okresie tygodnia od chwili podania, 70% dawki jest wydalane z moczem, a 14% z kałem. W moczu, rysperydon oraz 9-hydroksyrysperydon reprezentuje 35-45% dawki. Pozostała część to 18 nieaktywne metabolity. Po podaniu doustnym pacjentom z psychozami, okres półtrwania rysperydonu wynosi około 3 godzin. Okres półtrwania w fazie eliminacji 9-hydroksyrysperydonu i czynnej frakcji o działaniu przeciwpsychotycznym wynosi 24 godziny. Liniowość lub nieliniowość Stężenie rysperydonu w osoczu krwi w zakresie dawek terapeutycznych wykazuje zależność proporcjonalną do dawki. Osoby starsze, osoby z zaburzeniami czynności wątroby lub nerek Badania dotyczące jednorazowej dawki wykazały większe stężenia w osoczu o średnio 43%, dłuższy okres półtrwania o 38% i zmniejszenie o 30% klirensu aktywnej frakcji przeciwpsychotycznej u pacjentów w podeszłym wieku. Większe stężenia czynnej frakcji przeciwpsychotycznej i zmniejszenie klirensu czynnej frakcji przeciwpsychotycznej o około 60% obserwowano u pacjentów z niewydolnością nerek. Stężenie rysperydonu w osoczu krwi u pacjentów z niewydolnością wątroby było prawidłowe, jednakże średnie stężenie wolnej frakcji rysperydonu zwiększyło się u tych pacjentów o około 35%. Dzieci i młodzież U dzieci, właściwości farmakokinetyczne rysperydonu, 9-hydroksyrysperydonu oraz czynnej frakcji przeciwpsychotycznej są zbliżone do właściwości farmakokinetycznych u osób dorosłych. Płeć, rasa, palenie tytoniu Analiza farmakokinetyki w populacji nie ujawniła wyraźnego wpływu płci, rasy, czy palenia tytoniu na farmakokinetykę rysperydonu lub jego aktywnej frakcji przeciwpsychotycznej. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Risperidonum"
+    ],
+    "atc": [
+     "N05AX08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

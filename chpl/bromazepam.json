@@ -31,14 +31,38 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym, bromazepam jest szybko wchłaniany z przewodu pokarmowego i osiąga największe stężenie w osoczu w ciągu 2 godzin. Całkowita biodostępność niezmienionego bromazepamu po podaniu doustnym wynosi 60%. Po podaniu dawek wielokrotnych stopień wchłaniania bromazepamu pozostaje stały; obserwuje się przewidywalne stężenia w stanie stacjonarnym, co potwierdza linearną kinetykę leku. Stężenia w osoczu w stanie stacjonarnym osiągane są w ciągu około 5 - 9 dni. Przy podawaniu trzy razy na dobę, obserwuje się 3-4-krotnie większe stężenia w stanie stacjonarnym, niż po podaniu pojedynczej dawki. Dystrybucja Po wchłonięciu następuje szybka dystrybucja bromazepamu w organizmie. Przeciętnie 70% bromazepamu wiąże się z białkami osocza poprzez oddziaływanie hydrofobowe; ligandami wiążącymi są albumina i kwaśna α1-glikoproteina.Objętość dystrybucji wynosi ok. 50 litrów. Metabolizm Bromazepam jest intensywnie metabolizowany w wątrobie. Nie tworzą się żadne metabolity o okresie półtrwania dłuższym niż okres półtrwania leku wyjściowego. Ilościowo przeważają 2 metabolity: 3-hydroksybromazepam (mniej aktywny niż bromazepam) i 2-(2-amino-5-bromo- 3-hydroksybenzoilo)-pirydyna (nieaktywny). Bromazepam jest metabolizowany, przynajmniej częściowo, z udziałem cytochromu P450 (CYP450). Nie ustalono jednak, które konkretnie izoenzymy CYP biorą udział w tym procesie. Obserwuje się jednak, że silny inhibitor CYP3A4 (itrakonazol) i umiarkowany inhibitor CYP2C9 (flukonazol) nie 8 mają wpływu na farmakokinetykę bromazepamu, co wskazuje na to, że wspomniane izoenzymy nie odgrywają tu większej roli. Wyraźne interakcje z fluwoksaminą wskazują na współudział CYP1A2 (patrz punkt 4.5 „Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji). Eliminacja Okres półtrwania bromazepamu w fazie eliminacji wynosi około 20 godzin, a klirens wynosi około 40 ml/min. Metabolizm jest główną drogą eliminacji leku. Ilość bromazepamu w niezmienionej postaci w moczu wynosi zaledwie 2%, a koniugatów glukoronidowych 3-hydroksybromazepamu i 2-(2-amino- 5-bromo-3-hydroksybenzoilo)-pirydyny - odpowiednio 27% i 40% przyjętej dawki leku. Farmakokinetyka w szczególnych grup pacjentów U pacjentów w podeszłym wieku może występować znacząco wyższe stężenie maksymalne, mniejsza objętość dystrybucji, zwiększenie wolnej frakcji osocza, niższy klirens, a tym samym przedłużony okres półtrwania. Wynika stąd, że ustalone stężenia bromazepamu dla określonej wielkości dawkowania będą średnio dwa razy wyższe u pacjentów w podeszłym wieku w porównaniu z pacjentami młodszymi. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Bromazepamum"
+    ],
+    "atc": [
+     "N05BA08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Lexotan",
    "moc": "3 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Bromazepamum"
+    ],
+    "atc": [
+     "N05BA08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Sedam 3",
@@ -58,7 +82,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Po podaniu doustnym bromazepam wchłania się szybko w około 85%. Maksymalne stężenie leku w osoczu osiąga po 1 godzinie od podania. Wiąże się z białkami osocza w 70%. Objętość dystrybucji waha się od 0,6 do 0,9 l/kg mc., a klirens wynosi około 60 ml/min. Bromazepam metabolizowany jest w wątrobie. Brak metabolitów o znaczącym działaniu klinicznym. Dwa główne metabolity: 3-hydroksybromazepam oraz 2-amino-5-bromobenzoilopirydyna wydalane są głównie przez nerki w postaci sprzężonej. Około 2% niezmienionej substancji czynnej znajduje się w moczu. Okres półtrwania bromazepamu i jego metabolitów wynosi od 15 do 28 godzin i może być wydłużony u pacjentów w podeszłym wieku. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Bromazepamum"
+    ],
+    "atc": [
+     "N05BA08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

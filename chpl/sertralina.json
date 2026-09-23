@@ -31,7 +31,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie U ludzi po podaniu doustnym dawki od 50 do 200 mg raz na dobę przez 14 dni, maksymalne stężenie sertraliny w osoczu występowało po 4,5 do 8,4 godzinach po codziennym podaniu produktu leczniczego. Pokarm nie ma istotnego wpływu na biodostępność tabletek sertraliny. Dystrybucja Około 98% krążącego produktu leczniczego jest związane z białkami osocza. Metabolizm Sertralina podlega intensywnemu metabolizmowi podczas pierwszego przejścia przez wątrobę. Na podstawie danych klinicznych i danych uzyskanych w warunkach in vitro można stwierdzić, że sertralina jest metabolizowana na drodze licznych szlaków, w tym przez CYP3A4, CYP2C19 (patrz punkt 4.5) i CYP2B6. Sertralina i jej główny metabolit, desmetylosertralina, są także substratami P- glikoproteiny w warunkach in vitro. Eliminacja Średni okres półtrwania sertraliny wynosi około 26 godzin (zakres 22-36 godzin). Zgodnie z końcowym okresem połowicznej eliminacji, następuje około dwukrotna kumulacja do stężeń stanu stacjonarnego, które są osiągane po jednym tygodniu podawania leku raz na dobę. Okres półtrwania N-desmetylosertraliny pozostaje w zakresie od 62 do 104 godzin. Zarówno sertralina, jak i N- desmetylosertralina są u ludzi w znacznym stopniu metabolizowane, a powstające metabolity są wydalane z kałem i z moczem w równych ilościach. Jedynie niewielka ilość (< 0,2%) niezmienionej sertraliny jest wydalana z moczem. Liniowość lub nieliniowość Sertralina w zakresie dawek od 50 do 200 mg wykazuje farmakokinetykę proporcjonalną do dawki. Farmakokinetyka w szczególnych grupach pacjentów Dzieci i młodzież z ZO-K Farmakokinetykę sertraliny badano w grupie 29 dzieci w wieku od 6 do 12 lat i 32 nastolatków w wieku od 13 do 17 lat. U pacjentów stopniowo zwiększano dawkę do dawki dobowej 200 mg w ciągu 32 dni, albo przez podanie dawki początkowej 25 mg i jej stopniowe zwiększanie, albo przez podanie dawki początkowej 50 mg i jej stopniowe zwiększanie. Schematy podawania leku w dawce 25 i 50 mg były równie dobrze tolerowane. W przypadku dawki 200 mg stężenia sertraliny w osoczu w stanie stacjonarnym w grupie dzieci w wieku od 6 do 12 lat były o około 35% większe niż u dzieci w wieku od 13 do 17 lat, i o 21% większe niż w grupie referencyjnej osób dorosłych. Nie stwierdzono istotnych różnic klirensu kreatyniny między chłopcami a dziewczętami. Dlatego u dzieci, zwłaszcza z małą masą ciała, zaleca się stosowanie małej dawki początkowej i stopniowe zwiększanie dawki za każdym razem o 25 mg. U młodzieży lek należy dawkować podobnie jak u dorosłych. Młodzież i osoby w podeszłym wieku Profil farmakokinetyczny produktu leczniczego u młodzieży i u osób w podeszłym wieku nie różni się w sposób istotny od profilu farmakokinetycznego u osób dorosłych w wieku od 18 do 65 lat. 19 Zaburzenia czynności wątroby U pacjentów z uszkodzeniem wątroby okres półtrwania sertraliny jest wydłużony, a wartość AUC wzrasta trzykrotnie (patrz punkty 4.2 i 4.4). Niewydolność nerek U pacjentów z niewydolnością nerek w stopniu od umiarkowanego do ciężkiego nie stwierdzano istotnej kumulacji sertraliny. Farmakogenomika Stężenie sertraliny w osoczu było większe o około 50% u osób wolno metabolizujących produkty lecznicze z udziałem CYP2C19 w porównaniu z osobami szybko metabolizującymi. Kliniczne znaczenie tej obserwacji jest niejasne; dawkę produktu leczniczego należy dobierać w oparciu o odpowiedź kliniczną. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Sertalinum",
+     "Sertralinum"
+    ],
+    "atc": [
+     "N06AB06"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Apiolin",
@@ -51,7 +64,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie U ludzi po podaniu doustnym dawki od 50 do 200 mg raz na dobę przez 14 dni, maksymalne stężenie sertraliny w osoczu występowało po 4,5 do 8,4 godzinach po codziennym podaniu produktu leczniczego. Pokarm nie ma istotnego wpływu na biodostępność tabletek sertraliny. Dystrybucja Około 98% krążącej sertraliny jest związane z białkami osocza. Metabolizm Sertralina podlega intensywnemu metabolizmowi podczas pierwszego przejścia przez wątrobę. Na podstawie danych klinicznych i danych uzyskanych w warunkach in vitro można stwierdzić, że sertralina jest metabolizowana na drodze licznych szlaków, w tym przez CYP3A4, CYP2C19 (patrz punkt 4.5) i CYP2B6. Sertralina i jej główny metabolit, desmetylosertralina, są także substratami P-glikoproteiny w warunkach in vitro. 19 Eliminacja Średni okres półtrwania sertraliny wynosi około 26 godzin (zakres 22–36 godzin). Zgodnie z końcowym okresem półtrwania w fazie eliminacji, następuje około dwukrotna kumulacja do stężeń stanu stacjonarnego, które są osiągane po jednym tygodniu podawania leku raz na dobę. Okres półtrwania N-desmetylosertraliny pozostaje w zakresie od 62 do 104 godzin. Zarówno sertralina, jak i N-desmetylosertralina są u ludzi w znacznym stopniu metabolizowane, a powstające metabolity są wydalane z kałem i z moczem w równych ilościach. Jedynie niewielka ilość (<0,2%) niezmienionej sertraliny jest wydalana z moczem. Liniowość lub nieliniowość Sertralina w zakresie dawek od 50 do 200 mg wykazuje farmakokinetykę proporcjonalną do dawki. Farmakokinetyka w szczególnych grupach pacjentów Dzieci i młodzież z ZO-K Farmakokinetykę sertraliny badano w grupie 29 dzieci w wieku od 6 do 12 lat i 32 nastolatków w wieku od 13 do 17 lat. U pacjentów stopniowo zwiększano dawkę do dawki dobowej równej 200 mg w ciągu 32 dni, albo przez podanie dawki początkowej 25 mg i jej stopniowe zwiększanie, albo przez podanie dawki początkowej równej 50 mg i jej stopniowe zwiększanie. Schematy podawania leku w dawce 25 i 50 mg były równie dobrze tolerowane. W przypadku dawki równej 200 mg stężenia sertraliny w osoczu w stanie stacjonarnym w grupie dzieci w wieku od 6 do 12 lat były o około 35% większe niż u dzieci w wieku od 13 do 17 lat, i o 21% większe niż w grupie referencyjnej osób dorosłych. Nie stwierdzono istotnych różnic klirensu kreatyniny między chłopcami a dziewczętami. Dlatego u dzieci, zwłaszcza z małą masą ciała, zaleca się stosowanie małej dawki początkowej i stopniowe zwiększanie dawki za każdym razem o 25 mg. U młodzieży lek należy dawkować podobnie jak u dorosłych. Młodzież i osoby w podeszłym wieku Profil farmakokinetyczny sertraliny u młodzieży i u osób w podeszłym wieku nie różni się w sposób istotny od profilu farmakokinetycznego u osób dorosłych w wieku od 18 do 65 lat. Zaburzenia czynności wątroby U pacjentów z uszkodzeniem wątroby okres półtrwania sertraliny jest wydłużony, a wartość AUC wzrasta trzykrotnie (patrz punkty 4.2 i 4.4). Niewydolność nerek U pacjentów z niewydolnością nerek w stopniu od umiarkowanego do ciężkiego nie stwierdzano istotnej kumulacji sertraliny. Farmakogenomika Stężenie sertraliny w osoczu było większe o około 50% u osób wolno metabolizujących leki z udziałem CYP2C19 w porównaniu z osobami szybko metabolizującymi. Kliniczne znaczenie tej obserwacji jest niejasne; dawkę produktu leczniczego należy dobierać w oparciu o odpowiedź kliniczną. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Sertralinum"
+    ],
+    "atc": [
+     "N06AB06"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Asentra",
@@ -71,7 +96,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie U ludzi po podaniu doustnym dawki od 50 do 200 mg raz na dobę przez 14 dni maksymalne stężenie sertraliny w osoczu występowało po 4,5 do 8,4 godzinach po codziennym podaniu produktu leczniczego. Pokarm nie ma istotnego wpływu na biodostępność tabletek sertraliny. Dystrybucja Około 98% krążącego produktu leczniczego jest związane z białkami osocza. Metabolizm Sertralina podlega intensywnemu metabolizmowi podczas pierwszego przejścia przez wątrobę. Na podstawie danych klinicznych i danych uzyskanych w warunkach in vitro można stwierdzić, że sertralina jest metabolizowana na drodze licznych szlaków, w tym przez CYP3A4, CYP2C19 (patrz punkt 4.5) i CYP2B6. Sertralina i jej główny metabolit, desmetylosertralina, są także substratami P- glikoproteiny w warunkach in vitro. Eliminacja Średni okres półtrwania sertraliny wynosi około 26 godzin (zakres 22-36 godzin). Zgodnie z końcowym okresem połowicznej eliminacji, następuje około dwukrotna kumulacja do stężeń stanu stacjonarnego, które są osiągane po jednym tygodniu podawania leku raz na dobę. Okres półtrwania 19 N-desmetylosertraliny pozostaje w zakresie od 62 do 104 godzin. Zarówno sertralina, jak i N- desmetylosertralina są u ludzi w znacznym stopniu metabolizowane, a powstające metabolity są wydalane z kałem i z moczem w równych ilościach. Jedynie niewielka ilość (<0,2%) niezmienionej sertraliny jest wydalana z moczem. Liniowość lub nieliniowość Profil farmakokinetyczny sertraliny jest proporcjonalny do dawki w zakresie dawek 50 do 200 mg. Farmakokinetyka w szczególnych grupach pacjentów Dzieci i młodzież z ZO-K Farmakokinetykę sertraliny badano w grupie 29 dzieci w wieku od 6 do 12 lat i 32 nastolatków w wieku od 13 do 17 lat. U pacjentów stopniowo zwiększano dawkę do dawki dobowej 200 mg w ciągu 32 dni, albo przez podanie dawki początkowej 25 mg i jej stopniowe zwiększanie, albo przez podanie dawki początkowej 50 mg i jej stopniowe zwiększanie. Schematy podawania leku w dawce 25 i 50 mg były równie dobrze tolerowane. W przypadku dawki 200 mg stężenia sertraliny w osoczu w stanie stacjonarnym w grupie dzieci w wieku od 6 do 12 lat były o około 35% większe niż u dzieci w wieku od 13 do 17 lat i o 21% większe niż w grupie referencyjnej osób dorosłych. Nie stwierdzono istotnych różnic klirensu kreatyniny między chłopcami a dziewczętami. Dlatego u dzieci, zwłaszcza z małą masą ciała, zaleca się stosowanie małej dawki początkowej i stopniowe zwiększanie dawki za każdym razem o 25 mg. U młodzieży lek należy dawkować podobnie jak u dorosłych. Młodzież i osoby w podeszłym wieku Profil farmakokinetyczny produktu leczniczego u młodzieży i u osób w podeszłym wieku nie różni się w sposób istotny od profilu farmakokinetycznego u osób dorosłych w wieku od 18 do 65 lat. Zaburzenia czynności wątroby U pacjentów z uszkodzeniem wątroby okres półtrwania sertraliny jest wydłużony, a wartość AUC wzrasta trzykrotnie (patrz punkty 4.2 i 4.4). Zaburzenia czynności nerek U pacjentów z niewydolnością nerek w stopniu od umiarkowanego do ciężkiego nie stwierdzano istotnej kumulacji sertraliny. Farmakogenomika Stężenie sertraliny w osoczu było większe o około 50% u osób wolno metabolizujących produkty lecznicze z udziałem CYP2C19 w porównaniu z osobami szybko metabolizującymi. Kliniczne znaczenie tej obserwacji jest niejasne; dawkę produktu leczniczego należy dobierać w oparciu o odpowiedź kliniczną. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Sertralinum"
+    ],
+    "atc": [
+     "N06AB06"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

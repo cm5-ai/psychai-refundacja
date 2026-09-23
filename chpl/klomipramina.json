@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Klomipramina jest całkowicie wchłaniana z przewodu pokarmowego. Ze względu na efekt pierwszego przejścia w wątrobie, prowadzącego do powstania demetyloklomipraminy, biodostępność układowa klomipraminy wynosi około 50%. Spożycie pokarmu nie wpływa w istotny sposób na dostępność biologiczną klomipraminy. Może ono jedynie lekko opóźniać początek wchłaniania klomipraminy, a zatem także wydłużać czas, po którym osiągane są maksymalne stężenia. Tabletki powlekane i tabletki o przedłużonym uwalnianiu są równoważne biologicznie w odniesieniu do ilości wchłanianej klomipraminy. W czasie przyjmowania doustnej postaci produktu leczniczego Anafranil, w stałej dawce dobowej, stężenia klomipraminy w osoczu w stanie stacjonarnym różnią się znacznie u poszczególnych pacjentów. Po podaniu dobowej dawki 75 mg w postaci tabletek powlekanych 25 mg (3 x na dobę) lub w postaci tabletek o przedłużonym uwalnianiu 75 mg (1 x na dobę), stężenie klomipraminy w osoczu w stanie stacjonarnym mieściło się w zakresie od około 20 ng/ml do 175 ng/ml. Stężenia aktywnego metabolitu, demetyloklomipraminy, w stanie stacjonarnym mają podobny zakres, jednak po podaniu 75 mg klomipraminy na dobę, są one o 40–85% większe niż stężenia klomipraminy. Dystrybucja Klomipramina wiąże się z białkami osocza w 97,6%. Pozorna objętość dystrybucji wynosi około 12–17 l/kg masy ciała. Stężenia w płynie mózgowo-rdzeniowym wynoszą około 2% stężeń w osoczu. Klomipramina przenika do mleka matki, osiągając stężenia zbliżone do stężeń w osoczu. Metabolizm Główny szlak metabolizmu klomipraminy polega na demetylacji z utworzeniem czynnego metabolitu, N-demetyloklomipraminy. N-demetyloklomipramina może powstawać w wyniku działania kilku enzymów P450, głównie CYP3A4, CYP2C19 i CYP1A2. Klomipramina i N-demetyloklomipramina są hydroksylowane do 8-hydroksyklomipraminy lub 8–hydroksy-N- demetyloklomipraminy. Aktywność 8-hydroksymetabolitów w warunkach in vivo nie została określona. Klomipramina jest także hydroksylowana w położeniu 2, a N-demetylo-klomipramina może ulegać dalszej demetylacji z utworzeniem didemetyloklomipraminy. 2– i 8–hydroksymetabolity są wydalane głównie w postaci glukuronidów w moczu. Eliminacja czynnych komponentów, klomipraminy i N-demetyloklomipraminy, przez utworzenie 2– i 8–hydroksyklomipraminy jest katalizowana przez CYP2D6. Eliminacja Klomipramina eliminowana jest z krwi ze średnim okresem półtrwania wynoszącym 21 godzin (wahania w zakresie 12–36 godzin), a demetyloklomipramina eliminowana jest ze średnim okresem półtrwania wynoszącym 36 godzin. Około dwie trzecie jednorazowo podanej dawki klomipraminy wydala się z moczem w postaci związków sprzężonych, rozpuszczalnych w wodzie, a około jedna trzecia dawki jest wydalana z kałem. Ilość klomipraminy i N-demetyloklomipraminy wydalanej z moczem w postaci niezmienionej wynosi odpowiednio, około 2% i 0,5% podanej dawki. 12 Charakterystyka w różnych grupach pacjentów U pacjentów w podeszłym wieku, ze względu na zmniejszony klirens metaboliczny, stężenia klomipraminy w osoczu po podaniu jakiejkolwiek dawki są większe niż u pacjentów z młodszych grup wiekowych. Nie ustalono wpływu zaburzenia czynności wątroby i nerek na właściwości farmakokinetyczne klomipraminy. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Clomipramini hydrochloridum"
+    ],
+    "atc": [
+     "N06AA04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Anafranil SR 75",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Klomipramina jest całkowicie wchłaniana z przewodu pokarmowego. Ze względu na efekt pierwszego przejścia w wątrobie, prowadzącego do powstania demetyloklomipraminy, biodostępność układowa klomipraminy wynosi około 50%. Spożycie pokarmu nie wpływa w istotny sposób na dostępność biologiczną klomipraminy. Może ono jedynie lekko opóźniać początek wchłaniania klomipraminy, a zatem także wydłużać czas, po którym osiągane są maksymalne stężenia. Tabletki powlekane i tabletki o przedłużonym uwalnianiu są równoważne biologicznie w odniesieniu do ilości wchłanianej klomipraminy. W czasie przyjmowania doustnej postaci produktu leczniczego Anafranil SR 75, w stałej dawce dobowej, stężenia klomipraminy w osoczu w stanie stacjonarnym różnią się znacznie u poszczególnych pacjentów. Po podaniu dobowej dawki 75 mg w postaci tabletek powlekanych 25 mg (3 x na dobę) lub w postaci tabletek o przedłużonym uwalnianiu 75 mg (1 x na dobę), stężenie klomipraminy w osoczu w stanie stacjonarnym mieściło się w zakresie od około 20 ng/ml do 175 ng/ml. Stężenia aktywnego metabolitu, demetyloklomipraminy, w stanie stacjonarnym mają podobny zakres, jednak po podaniu 75 mg klomipraminy na dobę, są one o 40–85% większe niż stężenia klomipraminy. Dystrybucja Klomipramina wiąże się z białkami osocza w 97,6%. Pozorna objętość dystrybucji wynosi około 12–17 l/kg masy ciała. Stężenia w płynie mózgowo-rdzeniowym wynoszą około 2% stężeń w osoczu. Klomipramina przenika do mleka matki, osiągając stężenia zbliżone do stężeń w osoczu. Metabolizm Główny szlak metabolizmu klomipraminy polega na demetylacji z utworzeniem czynnego metabolitu, N- demetyloklomipraminy. N-demetyloklomipramina może powstawać w wyniku działania kilku enzymów P450, głównie CYP3A4, CYP2C19 i CYP1A2. Klomipramina i N-demetyloklomipramina są hydroksylowane do 8-hydroksyklomipraminy lub 8-hydroksy-N-demetyloklomipraminy. Aktywność 8- hydroksymetabolitów w warunkach in vivo nie została określona. Klomipramina jest także hydroksylowana w położeniu 2, a N-demetylo-klomipramina może ulegać dalszej demetylacji z utworzeniem didemetyloklomipraminy. 2– i 8–hydroksymetabolity są wydalane głównie w postaci glukuronidów w moczu. Eliminacja czynnych komponentów, klomipraminy i N-demetyloklomipraminy, przez utworzenie 2– i 8–hydroksyklomipraminy jest katalizowana przez CYP2D6. Eliminacja 13 Klomipramina eliminowana jest z krwi ze średnim okresem półtrwania wynoszącym 21 godzin (wahania w zakresie 12–36 godzin), a demetyloklomipramina eliminowana jest ze średnim okresem półtrwania wynoszącym 36 godzin. Około dwie trzecie jednorazowo podanej dawki klomipraminy wydala się z moczem w postaci związków sprzężonych, rozpuszczalnych w wodzie, a około jedna trzecia dawki jest wydalana z kałem. Ilość klomipraminy i N-demetyloklomipraminy wydalanej z moczem w postaci niezmienionej wynosi odpowiednio, około 2% i 0,5% podanej dawki. Charakterystyka w różnych grupach pacjentów U pacjentów w podeszłym wieku, ze względu na zmniejszony klirens metaboliczny, stężenia klomipraminy w osoczu po podaniu jakiejkolwiek dawki są większe niż u pacjentów z młodszych grup wiekowych. Nie ustalono wpływu zaburzenia czynności wątroby i nerek na właściwości farmakokinetyczne klomipraminy. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Clomipramini hydrochloridum"
+    ],
+    "atc": [
+     "N06AA04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

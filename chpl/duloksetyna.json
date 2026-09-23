@@ -31,14 +31,38 @@
     "5.2": "5.2. Dlatego, u niektórych pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, korzystne może być zwiększenie dawki. Odpowiedź kliniczną należy ocenić po 2 miesiącach leczenia. Po tym okresie u pacjentów z niewystarczającą początkową odpowiedzią kliniczną mało prawdopodobne jest osiągnięcie lepszych wyników. Należy regularnie (nie rzadziej niż co 3 miesiące) oceniać korzyści z leczenia, patrz punkt "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki dojelitowe, twarde"
+    ],
+    "nazwa_powszechna": [
+     "Duloxetinum"
+    ],
+    "atc": [
+     "N06AX21"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Cymbalta",
    "moc": "60 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki dojelitowe, twarde"
+    ],
+    "nazwa_powszechna": [
+     "Duloxetinum"
+    ],
+    "atc": [
+     "N06AX21"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Depratal",
@@ -58,7 +82,19 @@
     "5.2": "5.2. Nie badano bezpieczeństwa stosowania i skuteczności duloksetyny w leczeniu bólu w obwodowej neuropatii cukrzycowej. Nie ma dostępnych danych. Przerwanie leczenia Należy unikać nagłego przerwania stosowania produktu leczniczego. W przypadku zakończenia leczenia produktem Depratal należy stopniowo zmniejszać dawkę produktu leczniczego w ciągu przynajmniej 1 do 2 tygodni w celu zmniejszenia ryzyka wystąpienia objawów odstawienia (patrz punkty 4.4 i 4.8). Jeżeli w wyniku zmniejszenia dawki lub przerwania leczenia wystąpią objawy nie do zniesienia dla pacjenta, można rozważyć wznowienie leczenia z użyciem wcześniej stosowanej dawki. Następnie lekarz może zalecić dalsze, stopniowe zmniejszanie dawki, ale w wolniejszym tempie. Sposób podawania Do stosowania doustnego. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki dojelitowe"
+    ],
+    "nazwa_powszechna": [
+     "Duloxetinum"
+    ],
+    "atc": [
+     "N06AX21"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

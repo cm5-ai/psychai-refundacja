@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Poniższe dane dotyczą czynnego izomeru cis(Z). Wchłanianie Po podaniu doustnym produkt leczniczy osiąga maksymalne stężenie w surowicy po około 4-5 godzinach. Po podaniu doustnym dostępność biologiczna wynosi około 40%. Dystrybucja Objętość dystrybucji (Vd)β wynosi około 14,1 l/kg. Produkt leczniczy wiąże się z białkami osocza w około 99%. Metabolizm Metabolizm flupentyksolu przebiega trzema głównymi drogami - sulfoksydacji, N-dealkilacji w łańcuchu bocznym i sprzęgania z kwasem glukuronowym. Metabolity pozbawione są działania psychofarmakologicznego. Flupentyksol przeważa ilościowo nad metabolitami w mózgu i innych tkankach. Eliminacja Okres półtrwania w fazie eliminacji (t1/2β) wynosi około 35 godzin, a średnia wartość klirensu układowego (Cls) – około 0,29 l/min. Flupentyksol jest wydalany głównie z kałem, ale w pewnym stopniu również z moczem. Po podaniu znakowanego trytem flupentyksolu u człowieka wykazano, że ilość wydalana z kałem jest około czterokrotnie większa od ilości wydalanej z moczem. 9/12 U karmiących piersią kobiet flupentyksol wydziela się w niewielkiej ilości do mleka. Stosunek stężenia w mleku do stężenia w surowicy u kobiet wynosi średnio 1,3. Liniowość Kinetyka ma charakter liniowy. Stężenie produktu leczniczego w osoczu osiąga stan stacjonarny po około 7 dobach. Średnie minimalne stężenie w stanie stacjonarnym podczas podawania dawki 5 mg flupentyksolu raz na dobę wynosiło około 1,7 ng/ml (3,9 nmol/l). Pacjenci w podeszłym wieku Nie wykonano badań farmakokinetycznych u pacjentów w podeszłym wieku. Jednakże w przypadku innej pochodnej tioksantenu – zuklopentyksolu parametry farmakokinetyczne są niezależne od wieku pacjentów. Zaburzenia czynności nerek Na podstawie przedstawionej powyżej charakterystyki eliminacji można uznać, że zaburzenia czynności nerek nie powinny wywierać większego wpływu na stężenie produktu leczniczego macierzystego w surowicy. Zaburzenia czynności wątroby Nie ma dostępnych danych. Zależności farmakokinetyczno - farmakodynamiczne Minimalne (tzn. mierzone bezpośrednio przed podaniem dawki) stężenie w surowicy (osoczu) wynoszące 1-3 ng/ml (2-8 nmol/l) powinno być traktowane jako wytyczna w leczeniu podtrzymującym pacjentów ze schizofrenią o nasileniu od niewielkiego do umiarkowanego. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Flupentixolum"
+    ],
+    "atc": [
+     "N05AF01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Fluanxol Depot",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie W drodze estryfikacji cis(Z)-flupentyksolu kwasem dekanowym cis(Z)-flupentyksol zostaje przekształcony w wysoce lipofilną substancję – dekanonian cis(Z)-flupentyksolu. Rozpuszczony w oleju i wstrzyknięty domięśniowo ester dość powoli dyfunduje z oleju do fazy wody ustrojowej, gdzie jest szybko hydrolizowany, uwalniając substancję czynną – cis(Z)-flupentyksol. Po podaniu domięśniowym lek osiąga maksymalne stężenie w surowicy na ogół w ciągu 3-7 dni. Średni okres półtrwania leku (odzwierciedlający uwalnianie z postaci depot) wynosi około 3 tygodnie, zatem stan stacjonarny osiągany jest po około 3 miesiącach wielokrotnego podawania. Dystrybucja Objętość dystrybucji (Vd)β wynosi około 14,1 l/kg. Lek wiąże się z białkami osocza w około 99%. Metabolizm Metabolizm flupentyksolu przebiega trzema głównymi drogami - sulfoksydacji, N-dealkilacji w łańcuchu bocznym i sprzęgania z kwasem glukuronowym. Metabolity pozbawione są działania psychofarmakologicznego. Cis(Z)-flupentyksol przeważa ilościowo nad metabolitami w mózgu i innych tkankach. Eliminacja Okres półtrwania w fazie eliminacji (t1/2β) cis(Z)-flupentyksolu wynosi około 35 godzin, a średnia wartość klirensu układowego (Cls) – około 0,29 l/min. Cis(Z)-flupentyksol jest wydalany głównie z kałem, ale w pewnym stopniu również z moczem. Po podaniu flupentyksolu znakowanego trytem u człowieka wykazano, że ilość wydalana z kałem jest czterokrotnie większa od ilości wydalanej z moczem. U karmiących piersią kobiet cis(Z)-flupentyksol wydziela się w niewielkiej ilości do mleka. Stosunek stężenia w mleku matki do stężenia w surowicy u kobiet wynosi średnio 1,3. Liniowość Kinetyka ma charakter liniowy. Średnie maksymalne stężenie cis(Z)-flupentyksolu w surowicy w stanie stacjonarnym przed wstrzyknięciem dawki podczas podawania dawki 40 mg dekanonianu cis(Z)-flupentyksolu co dwa tygodnie wynosi około 6 nmol/l. Pacjenci w podeszłym wieku Nie wykonano badań farmakokinetycznych u pacjentów w podeszłym wieku. Jednakże w przypadku innej pochodnej, tioksanetu – zuklopentiksolu parametry farmakokinetyczne są niezależne od wieku pacjentów. Zaburzenie czynności nerek Na podstawie przedstawionej powyżej charakterystyki eliminacji można uznać, że zaburzenie czynności nerek nie powinno wywierać wpływu na stężenie leku macierzystego w surowicy. Zaburzenie czynności wątroby Nie ma dostępnych danych. 9/11 Zależność farmakokinetyczno - farmakodynamiczna Stężenie w surowicy (osoczu) przed wstrzyknięciem wynoszące 1-3 ng/ml (2-8 nmol/l) oraz różnica między stężeniem maksymalnym a minimalnym <2,5 powinny być traktowane jako wytyczne w leczeniu podtrzymującym pacjentów ze schizofrenią o nasileniu od niewielkiego do umiarkowanego. Pod względem farmakokinetycznym dawka dekanonianu cis(Z)-flupentyksolu 40 mg/2 tygodnie odpowiada dobowej dawce doustnej 10 mg flupentyksolu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do wstrzykiwań"
+    ],
+    "nazwa_powszechna": [
+     "Flupentixolum"
+    ],
+    "atc": [
+     "N05AF01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym estazolam wchłania się w przewodzie pokarmowym, osiągając maksymalne stężenie w osoczu (Cmax) mniej więcej po 2 godzinach. Stężenie maksymalne oraz pole pod krzywą stężeń (AUC) zwiększają się proporcjonalnie ze zwiększeniem dawki leku. Czas stężenia maksymalnego (tmax) oraz okres półtrwania (t1/2) są niezależne od dawki. Brak jest danych o wpływie pokarmu na wchłanianie estazolamu z przewodu pokarmowego. Dystrybucja Estazolam wiąże się z białkami osocza w ok. 93%, niezależnie od stężenia w osoczu. Przenika przez barierę krew – płyn mózgowo-rdzeniowy, przez łożysko i do mleka u kobiet karmiących piersią. Metabolizm Estazolam jest metabolizowany w wątrobie do nieaktywnych pochodnych, głównie 4-hydroksyestazolamu i 1-oksoestazolamu. Eliminacja Okres półtrwania estazolamu wynosi od 10 do 24 godzin po podaniu jednorazowym. Palenie tytoniu zwiększa klirens leku i zmniejsza okres półtrwania. Estazolam wydalany jest z moczem (ponad 90% dawki) i kałem (< 4%) w postaci metabolitów. Mniej niż 5% podanej dawki jest wydalane w postaci niezmienionej z moczem. U pacjentów z niewydolnością wątroby obserwuje się zmniejszenie stałej szybkości eliminacji leku o około 100%, wydłużenie okresu półtrwania o około 100% i zwiększenie pola pod krzywą stężeń o około 50%. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Estazolamum"
+    ],
+    "atc": [
+     "N05CD04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Estazolam Polfarmex",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym estazolam wchłania się w przewodzie pokarmowym osiągając stężenie maksymalne w osoczu (Cmax) po ok. 2 godzinach. Stężenie maksymalne oraz pole pod krzywą stężeń (AUC) zwiększa się proporcjonalnie ze zwiększeniem dawki produktu. Czas stężenia maksymalnego (tmax) oraz okres półtrwania (t1/2) są niezależne od dawki. Dystrybucja Estazolam wiąże się z białkami osocza w ok. 93%, niezależnie od stężenia w osoczu. Przenika przez barierę krew-płyn mózgowo-rdzeniowy, przez łożysko i do mleka kobiecego. Metabolizm Estazolam jest metabolizowany w wątrobie do nieaktywnych metabolitów, głównie 4-hydroksyestazolamu i 1-oksoestazolamu. Eliminacja Okres półtrwania estazolamu wynosi od 10 do 24 godzin po podaniu jednorazowym. Palenie tytoniu zwiększa klirens produktu i zmniejsza okres półtrwania. Estazolam wydalany jest z moczem (ponad 90% dawki) i kałem (<4%) w postaci metabolitów, mniej niż 5% podanej dawki jest wydalane w postaci niezmienionej z moczem. Pacjenci z niewydolnością wątroby: obserwuje się zmniejszenie stałej szybkości eliminacji produktu 4 o około 100%; wydłużenie okresu półtrwania o około 100% i zwiększenie pola pod krzywą stężeń o około 50%. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Estazolamum"
+    ],
+    "atc": [
+     "N05CD04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Estazolam TZF",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Estazolam dobrze wchłania się z przewodu pokarmowego. Po doustnym podaniu maksymalne stężenie we krwi produkt osiąga po około 2 godzinach (0,5 – 6,0 godzin). Z białkami krwi estazolam wiąże się w 93%. Przenika przez barierę krew płyn mózgowo-rdzeniowy. Przenika również przez barierę łożyska i do mleka. Okres półtrwania estazolamu wynosi od 10 do 24 godzin. Estazolam metabolizowany jest w wątrobie do 4-hydroksy-estazolamu i 1-okso-estazolamu, związków o niewielkiej aktywności. Wydalany jest w postaci metabolitów głównie z moczem (ponad 90% dawki) i w niewielkiej ilości (około 4%) z kałem. Mniej niż 5% podanej dawki wydalane jest w postaci niezmienionej z moczem. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Estazolamum"
+    ],
+    "atc": [
+     "N05CD04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

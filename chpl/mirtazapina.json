@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po doustnym podaniu mirtazapiny substancja czynna mirtazapina jest szybko i dobrze wchłaniana (biodostępność ≈ 50%), osiągając maksymalne stężenie w osoczu po ok. dwóch godzinach. Spożycie pokarmu nie ma wpływu na farmakokinetykę mirtazapiny. Dystrybucja Wiązanie mirtazapiny z białkami osocza wynosi około 85%. Metabolizm Głównymi szlakami metabolizmu są demetylacja i utlenianie, a następnie sprzęganie. Dane in vitro z mikrosomów ludzkiej wątroby wskazują, że enzymy cytochromu P450 CYP2D6 i CYP1A2 biorą udział w tworzeniu 8-hydroksy metabolitu mirtazapiny, podczas gdy CYP3A4 jest uważany za odpowiedzialny za tworzenie się metabolitów N-demetylu i N-tlenku. Metabolit demetylowy jest farmakologicznie aktywny i wydaje się mieć taki sam profil farmakokinetyczny jak związek macierzysty. Eliminacja Mirtazapina jest intensywnie metabolizowana i wydalana z moczem i kałem w ciągu kilku dni. Średni okres półtrwania eliminacji wynosi 20-40 godzin; sporadycznie rejestrowano dłuższe okresy półtrwania, do 65 godzin, oraz krótsze okresy półtrwania u młodych mężczyzn. Okres półtrwania eliminacji jest wystarczający, aby uzasadnić dawkowanie raz na dobę. Stan stacjonarny zostaje osiągnięty po 3-4 dniach, po których nie następuje dalsza akumulacja. Liniowość/nieliniowość Mirtazapina wykazuje liniową farmakokinetykę w zalecanym zakresie dawek. Specjalne populacje pacjentów Klirens mirtazapiny może być zmniejszony w wyniku zaburzeń czynności nerek lub wątroby. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki ulegające rozpadowi w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Mirtazapinum"
+    ],
+    "atc": [
+     "N06AX11"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Mirtagen",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym mirtazpiny, substancja czynna - mirtazapina jest dobrze i szybko wchłaniana (biodostępność ≈ 50 %), osiągając maksymalne stężenie w osoczu po około 2 godzinach. Przyjmowanie pokarmu nie ma wpływu na farmakokinetykę mirtazapiny. Dystrybucja Stopień wiązania mirtazapiny z białkami osocza wynosi około 85%. Metabolizm Główne drogi przemian metabolicznych to demetylacja i utlenianie, a następnie sprzęganie. Wyniki badań in vitro mikrosomów wątroby człowieka wskazują, że enzymy CYP2D6 i CYP1A2 cytochromu P450 uczestniczą w tworzeniu się 8-hydroksymetabolitu mirtazapiny, natomiast enzym CYP3A4 uważa się za odpowiedzialny za tworzenie metabolitów N-demetylowych i N-oksydowych. Metabolit demetylowy jest aktywny farmakologicznie i wydaje się mieć taki sam profil farmakokinetyczny jak substancja czynna. Eliminacja Mirtazapina ulega szybkiej przemianie i jest wydalana z moczem i kałem w ciągu kilku dni. Okres półtrwania eliminacji wynosi 20-40 godzin; sporadycznie obserwowano dłuższe okresy półtrwania do 65godzin, a także krótsze - u młodych mężczyzn. Okres półtrwania mirtazapiny jest dostatecznie długi, aby uzasadnić podawanie produktu leczniczego w jednorazowej dawce dobowej. Stan stacjonarny osiągany jest po 3-4 dniach, po czym nie następuje już dalsza kumulacja leku. Liniowość lub nieliniowość Mirtazapina stosowana w zalecanej dawce wykazuje farmakokinetykę liniową. Szczególne grupy pacjentów W wyniku zaburzeń czynności nerek lub wątroby klirens mirtazapiny może być zmniejszony. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki ulegające rozpadowi w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Mirtazapinum"
+    ],
+    "atc": [
+     "N06AX11"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Mirtazapine Bluefish",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym mirtazapina jest dobrze i szybko wchłaniana (biodostępność » 50%), osiągając maksymalne stężenie w osoczu po około 2 godzinach. Przyjmowanie pokarmu nie ma żadnego wpływu na właściwości farmakokinetyczne mirtazapiny. Dystrybucja Stopień wiązania mirtazapiny z białkami osocza wynosi około 85%. Metabolizm Główne drogi przemian metabolicznych to demetylacja i utlenianie, a następnie sprzęganie. Wyniki badań in vitro mikrosomów wątroby człowieka wskazują, że enzymy CYP2D6 i CYP1A2 cytochromu P450 uczestniczą w tworzeniu się 8-hydroksymetabolitu mirtazapiny, natomiast enzym CYP3A4 uważa się za odpowiedzialny za tworzenie metabolitów N-demetylowych i N-tlenkowych. Metabolit demetylowy jest aktywny farmakologicznie i wydaje się mieć taki sam profil farmakokinetyczny, jak związek macierzysty. Eliminacja Mirtazapina ulega szybkiej przemianie i jest wydalana z moczem i kałem w ciągu kilku dni. Okres półtrwania w fazie eliminacji wynosi 20-40 godzin; sporadycznie obserwowano dłuższe okresy półtrwania - do 65 godzin, a także krótsze - u ludzi młodych. Okres półtrwania w fazie eliminacji jest dostatecznie długi, aby uzasadnić podawanie leku w jednorazowej dawce dobowej. Stan stacjonarny osiągany jest po 3-4 dniach, po czym nie następuje już dalsza kumulacja leku. Liniowość/nieliniowość Mirtazapina stosowana w zalecanym zakresie dawkowania wykazuje farmakokinetykę liniową. Specjalne grupy pacjentów Zaburzenia czynności wątroby lub nerek mogą powodować zmniejszenie klirensu mirtazapiny. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Mirtazapinum"
+    ],
+    "atc": [
+     "N06AX11"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

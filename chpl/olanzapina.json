@@ -18,7 +18,20 @@
    "moc": "10 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Olanzapina",
+     "Olanzapinum"
+    ],
+    "atc": [
+     "N05AH03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Anzorin",
@@ -38,7 +51,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Olanzapina w postaci tabletek ulegających rozpadowi w jamie ustnej jest biorównoważna w stosunku do olanzapiny w postaci tabletek powlekanych, wykazując zbliżoną szybkość i stopień wchłaniania. Olanzapina w postaci tabletek ulegających rozpadowi w jamie ustnej może być stosowana zamiennie z olanzapiną w postaci tabletek powlekanych. Wchłanianie Olanzapina jest dobrze wchłaniana po podaniu doustnym, osiąga stężenia maksymalne w osoczu w ciągu 5-8 godzin. Obecność pokarmu nie wpływa na jej wchłanianie. Nie porównywano bezwzględnej dostępności biologicznej leku po podaniu doustnym i dożylnym. Dystrybucja Stopień wiązania olanzapiny z białkami osocza wynosił około 93% dla zakresu stężeń od około 7 do około 1000 ng/ml. Olanzapina w osoczu wiąże się głównie z albuminami oraz α1-kwaśną glikoproteiną. Metabolizm Olanzapina jest metabolizowana w wątrobie w drodze sprzęgania i utleniania. Głównym występującym w krwiobiegu metabolitem olanzapiny jest 10-N-glukuronid, który nie przenika przez barierę krew-mózg. Cytochromy P450-CYP1A2 oraz P450-2D6 biorą udział w tworzeniu metabolitów N-demetylowego i 2-hydroksymetylowego, które w badaniach na zwierzętach wykazały znamiennie mniejszą aktywność in vivo niż olanzapina. Aktywność farmakologiczna głównie zależy od związku macierzystego – olanzapiny. Eliminacja Po podaniu doustnym, średni okres półtrwania olanzapiny w końcowej fazie eliminacji u zdrowych osób różnił się zależnie od wieku i płci. U zdrowych osób w podeszłym wieku (65 lat i starszych) średni okres półtrwania olanzapiny był przedłużony w porównaniu z młodszymi zdrowymi osobami (odpowiednio 51,8 i 33,8 godzin), natomiast klirens był zmniejszony (odpowiednio - 17,5 i 18,2 l/h). Obserwowana u osób w podeszłym wieku zmienność parametrów farmakokinetycznych utrzymywała się w granicach obserwowanych u osób młodszych. U 44 pacjentów ze schizofrenią, w wieku >65 lat podawanie olanzapiny w dawkach od 5 do 20 mg/dobę nie było związane z żadnym szczególnym profilem działań niepożądanych. Średni okres półtrwania w fazie eliminacji olanzapiny był nieco dłuższy u kobiet niż u mężczyzn (odpowiednio - 36,7 i 32,3 godziny), klirens natomiast był zmniejszony (odpowiednio - 18,9 i 27,3 l/h). Profil bezpieczeństwa olanzapiny (5-20 mg) zarówno w grupie kobiet (n = 467), jak i mężczyzn (n = 869) był porównywalny. Zaburzenia czynności nerek 15 U pacjentów z niewydolnością nerek (klirens kreatyniny <10 ml/min) w porównaniu ze zdrowymi osobami, nie stwierdzono znamiennych różnic w średnim okresie półtrwania w fazie eliminacji (odpowiednio 37,7 godzin i 32,4 godziny) oraz w klirensie leku (odpowiednio 21,2 l/h i 25,0 l/h). Badanie bilansu masy wykazało, że około 57% znakowanej radioaktywnie olanzapiny występowało w moczu, głównie w postaci metabolitów. Zaburzenia czynności wątroby W małym badaniu oceniającym wpływ zaburzeń czynności wątroby u 6 osób z kliniczne istotną marskością wątroby (stopień A (n = 5) i B (n = 1) wg klasyfikacji Child-Pugh) wykazano niewielki wpływ na farmakokinetykę olanzapiny po podaniu doustnym (pojedyncza dawka 2,5 – 7,5 mg). U osób z łagodnymi i umiarkowanymi zaburzeniami czynności wątroby obserwowano niewielkie zwiększenie klirensu ogólnoustrojowego i krótszy okres półtrwania w fazie eliminacji w porównaniu z osobami bez zaburzeń czynności wątroby (n = 3). W grupie osób z marskością wątroby było więcej osób palących tytoń (4/6; 67%) niż w grupie bez zaburzeń czynności wątroby (0/3; 0%). Palenie tytoniu U osób niepalących w porównaniu z palącymi (mężczyźni i kobiety) średni okres półtrwania w fazie eliminacji leku był wydłużony (38,6 h w stosunku do 30,4 h), a klirens zmniejszony (18,6 l/h w stosunku do 27,7 l/h). Klirens osoczowy olanzapiny jest mniejszy u osób w podeszłym wieku niż u osób młodszych, mniejszy u kobiet niż u mężczyzn oraz mniejszy u osób niepalących niż u palących. Jednakże zakres wpływu wieku, płci lub palenia tytoniu na klirens olanzapiny i na okres półtrwania jest mały w porównaniu z ogólną zmiennością osobniczą. W badaniach z udziałem osób rasy kaukaskiej, Japończyków oraz Chińczyków, nie stwierdzono różnic w parametrach farmakokinetycznych pomiędzy tymi trzema populacjami. Dzieci i młodzież Młodzież (w wieku od 13 do 17 lat): farmakokinetyka olanzapiny jest podobna u młodzieży i u osób dorosłych. W badaniach klinicznych, średnia ekspozycja na olanzapinę była o około 27% większa u młodzieży. Różnice demograficzne pomiędzy młodzieżą a osobami dorosłymi uwzględniały mniejszą średnią masę ciała oraz mniejszą liczbę osób palących w grupie młodzieży. Czynniki te mogą wpływać na większą średnią ekspozycję obserwowaną u młodzieży. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki ulegające rozpadowi w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Olanzapinum"
+    ],
+    "atc": [
+     "N05AH03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Egolanza",
@@ -58,7 +83,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Olanzapiną jest dobrze wchłaniana po podaniu doustnym, osiąga stężenia maksymalne w osoczu w ciągu 5-8 godzin. Obecność pokarmu nie wpływa na jej wchłanianie. Nie porównywano bezwzględnej dostępności biologicznej leku po podaniu doustnym i dożylnym. Dystrybucja Stopień wiązania olanzapiny z białkami osocza wynosił około 93% dla zakresu stężeń od około 7 do około 1000 ng/ml. Olanzapiną w osoczu wiąże się głównie z albuminami oraz α1-kwaśną glikoproteiną. Metabolizm Olanzapiną jest metabolizowana w wątrobie w drodze sprzęgania i utleniania. Głównym występującym w krwiobiegu metabolitem olanzapiny jest 10-N-glukuronid, który nie przenika przez barierę krew-mózg. Cytochromy P450-CYP1A2 oraz P450-2D6 biorą udział w tworzeniu metabolitów N-demetylowego i 2-hydroksymetylowego, które w badaniach na zwierzętach wykazały znamiennie mniejszą aktywność in vivo niż olanzapiną. Aktywność farmakologiczna głównie zależy od związku macierzystego - olanzapiny. Eliminacja Po podaniu doustnym, średni okres półtrwania olanzapiny w końcowej fazie eliminacji u zdrowych osób różnił się zależnie od wieku i płci. U zdrowych osób w podeszłym wieku (65 lat i starszych) średni okres półtrwania olanzapiny był przedłużony w porównaniu z młodszymi zdrowymi osobami (odpowiednio 51,8 i 33,8 godzin), natomiast klirens był zmniejszony (odpowiednio: 17,5 i 18,2 l/h). Obserwowana u osób w podeszłym wieku zmienność parametrów farmakokinetycznych utrzymywała się w granicach obserwowanych u osób młodszych. U 44 pacjentów ze schizofrenią, w wieku > 65 lat podawanie olanzapiny w dawkach od 5 do 20 mg/dobę nie było związane z żadnym szczególnym profilem zdarzeń niepożądanych. Średni okres półtrwania w fazie eliminacji olanzapiny był nieco dłuższy u kobiet niż u mężczyzn (odpowiednio - 36,7 i 32,3 h), klirens natomiast był zmniejszony (odpowiednio -18,9 i 27,3 l/h). Profil bezpieczeństwa olanzapiny (5-20 mg) zarówno w grupie kobiet (n - 467), jak i mężczyzn (n - 869) był porównywalny. Niewydolność nerek U pacjentów z niewydolnością nerek (klirens kreatyniny < 10 ml/min) w porównaniu ze zdrowymi osobami, nie stwierdzono znamiennych różnic w średnim okresie półtrwania w fazie eliminacji (odpowiednio 37,7 godzin i 32,4 h) oraz w klirensie leku (odpowiednio 21,2 I/h i 25,0 l/h). Badanie bilansu masy wykazało, że około 57% znakowanej radioaktywnie olanzapiny występowało w moczu, głównie w postaci metabolitów. 15 Zaburzenia czynności wątroby Małe badanie wpływu zaburzeń czynności wątroby u 6 osób z klinicznie istotną marskością wątroby (klasyfikacja A w skali Childs Pugh A (n = 5) i B (n = 1)) wykazało niewielki wpływ na farmakokinetykę doustnie podawanej olanzapiny (2,5–7,5 mg) pojedyncza dawka): pacjenci z łagodnymi do umiarkowanych zaburzeniami czynności wątroby mieli nieznacznie większy klirens ogólnoustrojowy i szybszy okres połowicznej eliminacji w porównaniu do pacjentów bez zaburzeń czynności wątroby (n = 3). Było więcej palaczy wśród osób z marskością wątroby (4/6; 67%) niż wśród osób bez zaburzeń czynności wątroby (0/3; 0%). Osoby palące U osób niepalących w porównaniu z palącymi (mężczyźni i kobiety) średni okres półtrwania w fazie eliminacji leku był wydłużony (38,6 h w stosunku do 30,4 h), a klirens zmniejszony (18,6 l/h w stosunku do 27,7 l/h). Klirens osoczowy olanzapiny jest mniejszy u osób w podeszłym wieku niż u osób młodszych, mniejszy u kobiet niż u mężczyzn oraz mniejszy u osób niepalących niż u palących. Jednakże zakres wpływu wieku, płci lub palenia tytoniu na klirens olanzapiny i na okres półtrwania jest mały w porównaniu z ogólną zmiennością osobniczą. W badaniach z udziałem osób rasy kaukaskiej, Japończyków oraz Chińczyków, nie stwierdzono różnic w parametrach farmakokinetycznych pomiędzy tymi trzema populacjami. Dzieci i młodzież Młodzież (w wieku od 13 do 17lat): farmakokinetyka olanzapiny jest podobna u młodzieży i u osób dorosłych. W badaniach klinicznych, średnia ekspozycja na olanzapinę była o około 27% większa u młodzieży. Różnice demograficzne pomiędzy młodzieżą a osobami dorosłymi uwzględniały mniejszą średnią masę ciała oraz mniejszą liczbę osób palących w grupie młodzieży. Czynniki te mogą wpływać na większą średnią ekspozycję obserwowaną u młodzieży, "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Olanzapinum"
+    ],
+    "atc": [
+     "N05AH03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

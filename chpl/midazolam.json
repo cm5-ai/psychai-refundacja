@@ -31,14 +31,38 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie po podaniu domięśniowym Midazolam szybko i całkowicie wchłania się z tkanki mięśniowej. Stężenie maksymalne w osoczu osiąga w ciągu 30 minut. Całkowita dostępność biologiczna leku po podaniu domięśniowym wynosi ponad 90%. Wchłanianie po podaniu doodbytniczym Midazolam szybko wchłania się po podaniu doodbytniczym. Stężenie maksymalne w osoczu osiąga w ciągu około 30 minut. Całkowita dostępność biologiczna leku wynosi około 50%. Dystrybucja Po podaniu dożylnym midazolamu krzywa zależności stężenia w osoczu w czasie wykazuje jedną lub dwie oddzielne fazy dystrybucji. Objętość dystrybucji w stanie stacjonarnym wynosi 0,7–1,2 l/kg mc. Midazolam w 96–98% wiąże się z białkami osocza. Główna frakcja leku wiąże się z albuminami. Midazolam wolno i w nieznaczniej ilości przechodzi do płynu mózgowo-rdzeniowego. Wykazano, że u ludzi midazolam powoli przenika barierę łożyskową i przedostaje się do krążenia płodowego. Niewielkie ilości midazolamu przenikają też do mleka kobiecego. 15 Metabolizm Midazolam jest niemal całkowicie wydalany w procesach biotransformacji. Około 30–60% dawki jest wydalana przez wątrobę. Midazolam ulega hydroksylacji przez izoenzym 3A4 cytochromu P450, a głównym metabolitem w moczu i osoczu jest α-hydroksymidazolam. Stężenie α-hydroksymidazolamu w osoczu stanowi 12% stężenia związku macierzystego. Choć α-hydroksymidazolam jest farmakologicznie czynny, to po dożylnym podaniu midazolamu przyczynia się on w niewielkim stopniu (około 10%) do działania leku. Eliminacja U zdrowych osób okres półtrwania midazolamu wynosi 1,5–2,5 godzin. Klirens osoczowy midazolamu wynosi 300–500 ml/min. Midazolam wydalany jest głównie przez nerki (60–80% wstrzykniętej dawki) jako sprzężony z kwasem glukuronowym α-hydroksymidazolam. Mniej niż 1% leku jest wydalana z moczem w postaci niezmienionej. Okres półtrwania w fazie eliminacji α-hydroksymidazolamu wynosi niecałą godzinę. Kinetyka wydalania midazolamu jest taka sama w przypadku wlewu dożylnego i po podaniu produktu leczniczego w postaci bolusu. Farmakokinetyka leku u pacjentów należących do szczególnych populacji Pacjenci w podeszłym wieku U dorosłych w wieku powyżej 60 lat okres półtrwania w fazie eliminacji może być wydłużony nawet do czterech godzin. Dzieci Szybkość wchłaniania leku po podaniu doodbytniczym u dzieci jest podobna do szybkości wchłaniania u dorosłych, lecz dostępność biologiczna produktu leczniczego jest u nich mniejsza (5– 18%). Okres półtrwania w fazie eliminacji po podaniu dożylnym i doodbytniczym jest krótszy u dzieci w wieku od 3 do 10 lat (1,0–1,5 godzin) niż u dorosłych. Za różnicę tę odpowiedzialny jest większy klirens metaboliczny u dzieci. Noworodki Okres półtrwania w fazie eliminacji u noworodków waha się w zakresie 6–12 godzin, najprawdopodobniej ze względu na niedojrzałość wątroby. Ponadto stwierdza się mniejszy klirens (patrz punkt 4.4). Otyłość Średni okres półtrwania u pacjentów otyłych jest dłuższy niż u pacjentów bez otyłości (odpowiednio 5,9 godziny i 2,3 godziny). Jest to spowodowane około 50% większą objętością dystrybucji po uwzględnieniu całkowitej masy ciała. Klirens u osób otyłych i osób bez otyłości nie różni się w sposób istotny. Pacjenci z zaburzeniami czynności wątroby Okres półtrwania w fazie eliminacji u pacjentów z marskością wątroby może być wydłużony, a klirens mniejszy niż u zdrowych ochotników (patrz punkt 4.4). Pacjenci z zaburzeniami czynności nerek Okres półtrwania w fazie eliminacji u pacjentów z przewlekłą niewydolnością nerek jest podobny do okresu półtrwania w fazie eliminacji u zdrowych ochotników. Pacjenci w stanie krytycznym U pacjentów w stanie krytycznym okres półtrwania midazolamu w fazie eliminacji może być wydłużony nawet sześciokrotnie. Pacjenci z niewydolnością serca Okres półtrwania w fazie eliminacji u pacjentów z zastoinową niewydolnością serca jest dłuższy niż okres półtrwania w fazie eliminacji stwierdzany u zdrowych osób (patrz punkt 4.4). 16 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do wstrzykiwań"
+    ],
+    "nazwa_powszechna": [
+     "Midazolami hydrochloridum"
+    ],
+    "atc": [
+     "N05CD08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Buccolam",
    "moc": "10 mg/2 ml",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór do stosowania w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Midazolamum"
+    ],
+    "atc": [
+     "N05CD08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Dormicum",
@@ -58,7 +82,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym midazolam wchłania się szybko i całkowicie. Ze względu na wyraźny efekt pierwszego przejścia całkowita dostępność biologiczna przyjętego doustnie leku wynosi 30-70%. W zakresie dawki doustnej 7,5-20 mg farmakokinetyka midazolamu ma charakter liniowy. W przypadku dawki 15 mg w ciągu jednej godziny występuje maksymalne stężenie w osoczu i wynosi 70 do 120 ng/mL. Zażycie leku z pokarmem opóźnia wystąpienie maksymalnego stężenia w osoczu o około jedną godzinę, co wskazuje na zmniejszoną szybkość wchłaniania midazolamu. Okres połowicznego wchłaniania wynosi 5-20 minut. Dystrybucja Dystrybucja tkankowa midazolamu zachodzi bardzo szybko i w większości przypadków faza dystrybucji nie jest zbyt silnie wyrażona, bądź w znacznym stopniu dobiega końca w czasie 1-2 godzin od podania doustnego. Objętość dystrybucji, wyliczona w warunkach stanu stacjonarnego, wynosi 0,7 - 1,2 L/kg. Midazolam w 96-98% wiąże się z białkami osocza, w większości z albuminami. Midazolam w nieznacznym stopniu i powoli przenika do płynu mózgowo-rdzeniowego. Stwierdzono, że u ludzi midazolam wolno przenika przez barierę łożyskową do krążenia płodowego. Niewielkie ilości midazolamu znajdowano w mleku kobiecym. Midazolam nie jest substratem dla transporterów leków. Metabolizm Midazolam jest prawie całkowicie metabolizowany na drodze biotransformacji. Midazolam jest hydroksylowany przez izoenzymy CYP3A cytochromu P450. Obydwa izoenzymy CYP3A4 i CYP3A5 są czynnie zaangażowane w dwa główne szlaki wątrobowego, oksydatywnego metabolizmu midazolamu. Metabolizm midazolamu po podaniu doustnym związany jest w porównywalnym stopniu z jelitowym CYP3A i wątrobowym CYP3A. 8 Dwoma głównymi metabolitami są: 1’-hydroksymidazolam (-hydroksymidazolam) i 4- hydroksymidazolam. -hydroksymidazolam jest głównym metabolitem, który można wykryć zarówno w osoczu jak i w moczu. -hydroksymidazolam jest substancją farmakologicznie czynną i ma wyraźny udział (około 34%) w działaniu leku podanego doustnie. Eliminacja U zdrowych ochotników okres półtrwania wynosi od 1,5 do 2,5 godzin. Okres półtrwania w fazie eliminacji α-hydroksymidazolamu jest krótszy niż 1 godzina; dlatego po podaniu midazolamu stężenie substancji macierzystej i głównego metabolitu zmniejszają się równolegle. Mniej niż 1% dawki leku wydala się z moczem w postaci niezmienionej. 60-80% dawki leku jest wydalane z moczem w postaci α-hydroksymidazolamu sprzężonego z kwasem glukuronowm. Midazolam zażywany raz na dobę, nie kumuluje się w organizmie. Wielokrotne podawanie leku nie pobudza aktywności enzymów metabolizujących lek. Farmakokinetyka leku w szczególnych grupach pacjentów Pacjenci w wieku podeszłym U mężczyzn powyżej 60 lat okres półtrwania midazolamu w fazie eliminacji był 2,5-krotnie dłuższy niż u młodszych. Całkowity klirens midazolamu był istotnie obniżony u mężczyzn w podeszłym wieku, a biodostępność doustnie przyjmowanych tabletek była zwiększona. Różnic takich nie obserwowano jednak wśród kobiet. Pacjenci z zaburzeniami czynności wątroby Własności farmakokinetyczne midazolamu były istotnie zmienione u osób z przewlekłą chorobą wątroby, włączając zaawansowaną marskość. W szczególności wydłużeniu ulegał okres półtrwania w fazie eliminacji oraz istotnie zwiększała się biodostępność leku przyjmowanego doustnie u pacjentów z marskością wątroby. Pacjenci z zaburzeniami czynności nerek Własności farmakokinetyczne niezwiązanego midazolamu nie ulegają zmianie u osób z ciężkimi zaburzeniami czynności nerek. Farmakologicznie średnio aktywny metabolit midazolamu – glukuronid -hydroksymidazolamu, który jest wydalany przez nerki, ulega akumulacji u chorych z ciężkimi zaburzeniami nerek. Na skutek akumulacji metabolitu może wystąpić przedłużona sedacja. Z tego powodu należy zachować ostrożność podając tabletki Dormicum i stopniowo, powoli zwiększać dawkę leku, do uzyskania pożądanego efektu (patrz punkt 4.2). Pacjenci z nadwagą U pacjentów z nadwagą zwiększa się objętość dystrybucji midazolamu. Z tego powodu okres półtrwania w fazie eliminacji jest dłuższy u pacjentów otyłych niż u pacjentów bez otyłości (5,9 godziny vs 2,3 godziny). Biodostępność midazolamu z tabletek Dormicum u pacjentów otyłych i pacjentów o prawidłowej masie ciała jest podobna. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Midazolamum"
+    ],
+    "atc": [
+     "N05CD08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Klorazepan po podaniu doustnym ulega szybkiej przemianie do nordiazepamu i w tej postaci jest wchłaniany niemal całkowicie. Maksymalne stężenie występuje po 0,5-2 h (po podaniu 20 mg Cmax wynosi 200-600 ng/ml). Nordiazepam silnie wiąże się z białkami osocza (97-99 %). Pozorna objętość dystrybucji wynosi 0,6 –1,7 l/kg. Nordiazepam ulega częściowej przemianie do czynnego biologicznie oksazepamu, który jest następnie sprzęgany z kwasem glukuronowym i wydalany głównie z moczem. Okres półtrwania wynosi 50-75 h, ulega znacznemu wydłużeniu w chorobach wątroby (do 110 h), jak również u chorych w wieku podeszłym. Ze względu na długi okres półtrwania nordiazepam ulega kumulacji, po wielokrotnym podawaniu 20 mg/24 h stężenia w stanie stacjonarnym wynoszą 500–1100 ng/ml. Nie występuje ścisła korelacja pomiędzy stężeniami i działaniem produkt leczniczego. Szczególne populacje pacjentów U pacjentów w podeszłym wieku zmniejsza się metabolizm leku w wątrobie; stężenie leku we krwi w stanie stacjonarnym ulega zwiększeniu i wydłuża się okres półtrwania leku. U pacjentów w podeszłym wieku należy zmniejszyć dawkę leku. U pacjentów z zaburzeniem czynności wątroby okres półtrwania ulega wydłużeniu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Dikalii clorazepas"
+    ],
+    "atc": [
+     "N05BA05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Tranxene",
@@ -51,7 +63,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Dystrybucja Po doustnym podaniu około 80% klorazepatu ulega w żołądku dekarboksylacji do desmetylodiazepamu, którego maksymalne stężenie w osoczu występuje po 1 godzinie. Objętość dystrybucji desmetylodiazepamu wynosi około jednego L / kg. Z białkami krwi wiąże się w około 97%. Nie ustalono związku między stężeniem we krwi a skutecznością dla tej grupy produktów leczniczych ze względu na ich intensywny metabolizm i z powodu rozwoju tolerancji. Benzodiazepiny przechodzą przez barierę krew-mózg, przenikają przez łożysko i do mleka kobiecego. Metabolizm i eliminacja Głównym metabolitem klorazepatu jest desmetylodiazepam, który jest aktywny; jego okres półtrwania jest dłuższy niż substancji macierzystej (30 do 150 godzin). Innym aktywnym metabolitem jest oksazepam. Lek i jego metabolity jest wydzielany w moczu. 7 Szczególne populacje pacjentów U pacjentów w podeszłym wieku zmniejsza się metabolizm leku w wątrobie; stężenie leku we krwi w stanie stacjonarnym ulega zwiększeniu i wydłuża się okres półtrwania leku. U pacjentów w podeszłym wieku należy zmniejszyć dawkę leku. U pacjentów z zaburzeniem czynności wątroby okres półtrwania ulega wydłużeniu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki",
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Dikalii clorazepas"
+    ],
+    "atc": [
+     "N05BA05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Tranxene 20",
@@ -71,7 +96,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Dystrybucja Po wstrzyknięciu domięśniowym 50 mg dipotasu klorazepatu, stężenia maksymalne leku oraz jego metabolitu, desmetylodiazepamu, w osoczu występują po 30 minutach do 1 godziny. Po podaniu leku w tej samej dawce dożylnie, odpowiednie stężenia maksymalne występują znacznie wcześniej. Objętość dystrybucji desmetylodiazepamu wynosi około 1 l/kg. Lek w znacznym stopniu wiąże się z białkami osocza (ponad 97%). Ze względu na stopień przekształceń metabolicznych oraz występowanie tachyfilaksji nie określono związku pomiędzy stężeniem leków z tej grupy, a siłą ich działania. Benzodiazepiny przechodzą przez barierę krew-mózg oraz przez łożysko. Są one wydzielane z mlekiem kobiecym. 7 Metabolizm i eliminacja Głównym metabolitem dipotasu klorazepatu jest desmetylodiazepam. Metabolit ten jest czynny farmakodynamicznie. Jego okres półtrwania jest dłuższy od okresu półtrwania substancji macierzystej (30 – 150 godzin). W następstwie hydroksylacji desmetylodiazepamu powstaje inny czynny metabolit, oksazepam. Inaktywacja zachodzi w procesie sprzęgania z kwasem glukuronowym. Powstają substancje rozpuszczalne w wodzie, wydalane z moczem. Szczególne populacje pacjentów Pacjenci w wieku podeszłym: Występuje zmniejszenie metabolizmu w wątrobie i klirensu całkowitego. Stężenia leku w osoczu w stanie równowagi są zwiększone, podobnie jak frakcja niezwiązana z białkami osocza i okres półtrwania leku. Z wspomnianych przyczyn należy zmniejszyć dawkę produktu leczniczego, przynajmniej w pierwszej fazie leczenia. Pacjenci z upośledzeniem czynności wątroby: Obserwuje się wydłużenie okresu półtrwania i zmniejszenie całkowitego klirensu leku w osoczu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań"
+    ],
+    "nazwa_powszechna": [
+     "Dikalii clorazepas"
+    ],
+    "atc": [
+     "N05BA05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

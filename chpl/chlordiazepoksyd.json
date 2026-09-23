@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Chlordiazepoksyd dobrze wchłania się z przewodu pokarmowego. Po doustnym podaniu chlordiazepoksydu maksymalne stężenie we krwi występuje po około 1 - 2 godzinach. Chlordiazepoksyd przenika przez barierę krew - płyn mózgowo-rdzeniowy i przez łożysko. Przenika do mleka matki. Okres półtrwania wynosi 6 do 30 godzin. Chlordiazepoksyd ulega przemianom w wątrobie do aktywnych farmakologicznie metabolitów (dimetylochlordiazepoksyd, demoksepam), przedłużających czas działania leku. Chlordiazepoksyd w postaci niezmienionej oraz jego metabolity wydalane są z moczem. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki drażowane"
+    ],
+    "nazwa_powszechna": [
+     "Chlordiazepoxidum"
+    ],
+    "atc": [
+     "N05BA02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ],
  "uwagi_audytu": [

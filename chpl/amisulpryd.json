@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Amisulpryd, po podaniu doustnym, wykazuje u ludzi dwa maksymalne poziomy wchłaniania: pierwszy następuje szybko (po około 1 godzinie od podania leku), drugi – między trzecią a czwartą godziną po podaniu. Stężenia leku w osoczu wynoszą wtedy odpowiednio 39±3 oraz 54±4 ng/mL po podaniu dawki 50 mg. Całkowita biodostępność wynosi 48%. Posiłki bogate w węglowodany (zawierające 68% płynów) znacząco zmniejszają wartość AUC, Tmax i Cmax amisulprydu, natomiast nie stwierdzano żadnych zmian po posiłkach bogatych w tłuszcze. Jednakże znaczenie tych obserwacji w rutynowym stosowaniu klinicznym nie jest znane. Dystrybucja Objętość dystrybucji wynosi 5,8 L/kg, stopień wiązania z białkami jest niewielki (16%), a interakcje z lekami nieznane. Metabolizm Amisulpryd tylko w niewielkim stopniu podlega przemianom metabolicznym: zidentyfikowano dwa nieaktywne metabolity stanowiące około 4% podanej dawki leku. Amisulpryd nie kumuluje się w organizmie, a jego farmakokinetyka pozostaje niezmieniona po wielokrotnym podaniu. Eliminacja Okres półtrwania amisulprydu wynosi około 12 godzin po podaniu doustnym. Amisulpryd wydalany jest z moczem w postaci niezmienionej. 50% dawki podanej dożylnie wydalane jest z moczem, z czego 90% wydalane jest w ciągu pierwszej doby. Klirens nerkowy wynosi 20 L/godz. lub 330 mL/min. Zaburzenia czynności wątroby: ponieważ amisulpryd jest słabo metabolizowany, nie jest konieczne zmniejszenie dawki u pacjentów z niewydolnością wątroby. Zaburzenia czynności nerek: okres półtrwania wydłuża się u pacjentów z niewydolnością nerek, natomiast klirens nerkowy zmniejsza się 2,5 do 3 razy. Wartość AUC dla amisulprydu w łagodnej niewydolności nerek zwiększa się niemal dwukrotnie i prawie dziesięciokrotnie w umiarkowanej niewydolności nerek (patrz punkt 4.2). Doświadczenie w tym zakresie jest jednak ograniczone i brak danych o dawkach większych niż 50 mg. Amisulpryd tylko w bardzo niewielkim stopniu można usunąć z organizmu drogą hemodializy. Pacjenci w podeszłym wieku: Ograniczone dane farmakokinetyczne dotyczące osób w podeszłym wieku (>65 lat) wykazują, że występuje 10-30% wzrost wartości Cmax, T1/2 i AUC po podaniu pojedynczej doustnej dawki 50 mg. Brak danych po powtórnym podaniu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Amisulpridum"
+    ],
+    "atc": [
+     "N05AL05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Amisan",
@@ -51,7 +63,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie U ludzi, amisulpryd wykazuje dwa szczyty wchłaniania: jeden występuje szybko, w ciągu 1 godziny po podaniu dawki, drugi między trzecią a czwartą godziną po zastosowaniu. Po podaniu dawki 50 mg stężenia w osoczu wynoszą odpowiednio 39 ± 3 i 54 ± 4 ng/ml. Dystrybucja Objętość dystrybucji wynosi 5,8 l/kg, stopień wiązania z białkami osocza jest niewielki (16%), a interakcje z innymi lekami nieznane. Całkowita dostępność biologiczna wynosi 48%. Metabolizm Amisulpryd jest słabo metabolizowany: zidentyfikowano dwa nieczynne metabolity, stanowiące w przybliżeniu 4% podanej dawki produktu. Amisulpryd nie kumuluje się w organizmie, a jego farmakokinetyka pozostaje niezmieniona po powtarzanym dawkowaniu. Eliminacja Okres półtrwania amisulprydu w fazie eliminacji wynosi około 12 godzin po doustnym podaniu leku. Amisulpryd jest wydalany przez nerki w postaci niezmienionej. Pięćdziesiąt procent dawki podanej dożylnie jest wydalane z moczem, z czego 90% wydalane jest w ciągu pierwszych 24 godzin. Klirens nerkowy wynosi 20 l/godz. lub 330 ml/min. Posiłki bogate w węglowodany (zawierające 68% płynów) znacząco zmniejsza wartość AUC, Tmax i Cmax amisulprydu, natomiast żadne zmiany nie zostały zaobserwowane po posiłkach bogatych w tłuszcze. Jednakże znaczenie tych obserwacji w rutynowym stosowaniu klinicznym nie jest znane. Zaburzenie czynności wątroby Ponieważ amisulpryd jest słabo metabolizowany w wątrobie, nie ma konieczności zmniejszania dawki u pacjentów z niewydolnością wątroby. Zaburzenie czynności nerek U pacjentów z niewydolnością nerek okres półtrwania w fazie eliminacji nie zmienia się, natomiast klirens nerkowy zmniejsza się 2,5 do 3-krotnie. Wartość AUC amisulprydu w lekkiej niewydolności nerek zwiększa się dwukrotnie i prawie dziesięciokrotnie w umiarkowanej niewydolności nerek. Doświadczenie w tym zakresie jest jednak ograniczone i brak danych dotyczących dawek większych od 50 mg. Amisulpryd jest bardzo słabo dializowany. Osoby w podeszłym wieku Ograniczone dane farmakokinetyczne u osób w podeszłym wieku (>65 lat) wykazują, że po zażyciu pojedynczej dawki 50 mg występuje zwiększenie o 10-30% wartości Cmax, T1/2 i AUC. Brak danych dla dawek wielokrotnych. 9 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki",
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Amisulpridum"
+    ],
+    "atc": [
+     "N05AL05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Amisulpryd Holsten",
@@ -71,7 +96,20 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie U ludzi amisulpryd wykazuje dwa szczyty wchłaniania: jeden następuje szybko, około godziny po podaniu leku, a drugi między 3. a 4. godziną po podaniu. Odpowiednie stężenia leku w osoczu wynoszą 39 ± 3 i 54 ± 4 ng/ml po podaniu dawki 50 mg. Dystrybucja Objętość dystrybucji wynosi 5,8 l/kg, amisulpryd w niewielkim stopniu wiąże się z białkami osocza (16%) i prawdopodobnie nie wchodzi w interakcje z innymi lekami. Metabolizm Całkowita biodostępność wynosi 48%. Amisulpryd jest metabolizowany w niewielkim stopniu: zidentyfikowano dwa nieaktywne metabolity, stanowiące w przybliżeniu 4% dawki leku. Amisulpryd nie ulega kumulacji w organizmie, a jego właściwości farmakokinetyczne pozostają niezmienione po podaniu dawek wielokrotnych. Okres półtrwania amisulprydu w fazie eliminacji po dawce doustnej wynosi około 12 godzin. Eliminacja Amisulpryd jest wydalany w moczu w postaci niezmienionej. Pięćdziesiąt procent dawki podanej dożylnie jest wydalane z moczem, przy czym 90% tej ilości w ciągu pierwszych 24 godzin. Klirens nerkowy wynosi 20 l na godzinę lub 330 ml/min. Posiłki bogate w węglowodany (zawierające 68% płynów) istotnie obniżają wartości AUC, Tmax i Cmax amisulprydu, ale nie stwierdzono zmian po podaniu posiłków bogatych w tłuszcze. Jednakże znaczenie tych obserwacji w rutynowym stosowaniu klinicznym nie jest znane. Zaburzenia czynności wątroby: lek jest metabolizowany w niewielkim stopniu, u pacjentów z zaburzeniami czynności wątroby zmniejszenie dawki nie powinno być konieczne. Zaburzenia czynności nerek: okres półtrwania w fazie eliminacji nie zmienia się u pacjentów z 8 zaburzeniami czynności nerek, natomiast klirens nerkowy zmniejsza się 2,5 do 3 razy. Wartość AUC amisulprydu w niewielkiej niewydolności nerek zwiększa się dwukrotnie, a prawie dziesięciokrotnie w umiarkowanej niewydolności nerek (patrz punkt 4.2). Jednakże doświadczenie jest ograniczone i brak danych dla dawek większych niż 50 mg. Amisulpryd w bardzo małym stopniu podlega dializie. Liniowość lub nieliniowość Ograniczone dane farmakokinetyczne dotyczące osób w podeszłym wieku (>65 roku życia) wykazują po doustnym przyjęciu pojedynczej dawki 50 mg zwiększenie o 10–30% wartości Cmax, T1/2 i AUC. Brak danych dla dawek wielokrotnych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki",
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Amisulpridum"
+    ],
+    "atc": [
+     "N05AL05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

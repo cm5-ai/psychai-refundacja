@@ -31,7 +31,19 @@
     "5.2": "5.2. Pacjenci z zaburzeniami czynności nerek Nie ma konieczności zmiany dawkowania u pacjentów z zaburzeniami czynności nerek. Pacjenci z zaburzeniami czynności wątroby Kwetiapina jest intensywnie metabolizowana w wątrobie, dlatego należy ją ostrożnie stosować u pacjentów z rozpoznanymi zaburzeniami czynności wątroby, szczególnie w początkowym okresie dawkowania. U pacjentów z rozpoznanymi zaburzeniami czynności wątroby należy rozpoczynać leczenie od 25 mg na dobę. W zależności od indywidualnej odpowiedzi klinicznej i indywidualnej tolerancji pacjenta, dawkę należy zwiększać codziennie o 25 mg do 50 mg na dobę, aż do dawki skutecznej. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Quetiapinum"
+    ],
+    "atc": [
+     "N05AH04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "ApoTiapina PR",
@@ -51,7 +63,19 @@
     "5.2": "5.2. Zaburzenia czynności nerek Nie ma konieczności zmiany dawkowania u pacjentów z zaburzeniami czynności nerek. Zaburzenia czynności wątroby Kwetiapina jest intensywnie metabolizowana w wątrobie. Dlatego produkt leczniczy ApoTiapina PR 3 należy stosować z zachowaniem ostrożności u pacjentów ze stwierdzonymi zaburzeniami czynności wątroby, szczególnie w początkowym okresie stosowania. U pacjentów z zaburzeniami czynności wątroby leczenie należy rozpocząć od dawki 50 mg/dobę. Dawkę można zwiększać codziennie o 50 mg do dawki skutecznej, zależnie od odpowiedzi klinicznej i tolerancji pacjenta na leczenie. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki o przedłużonym uwalnianiu"
+    ],
+    "nazwa_powszechna": [
+     "Quetiapinum"
+    ],
+    "atc": [
+     "N05AH04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Bonogren",
@@ -71,7 +95,19 @@
     "5.2": "5.2. Zaburzenia czynności nerek U pacjentów z zaburzeniem czynności nerek nie ma potrzeby dostosowania dawki. Zaburzenia czynności wątroby PL_257_IA_021 Kwetiapina jest w znacznym stopniu metabolizowana w wątrobie. Należy zatem zachować ostrożność podczas stosowania produktu leczniczego Bonogren u pacjentów z zaburzeniem czynności wątroby, szczególnie w początkowym okresie podawania leku. U pacjentów ze stwierdzonymi zaburzeniami czynności wątroby początkowa dawka powinna wynosić 25 mg na dobę. Dawka może być zwiększana codziennie o 25 do 50 mg na dobę, aż do uzyskania skutecznej dawki, zależnie od reakcji klinicznej i tolerancji leczenia u indywidulanego pacjenta. Sposób podawania Produkt leczniczy Bonogren może być przyjmowany z pokarmem lub bez pokarmu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Quetiapinum"
+    ],
+    "atc": [
+     "N05AH04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

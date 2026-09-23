@@ -18,7 +18,19 @@
    "moc": "28 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Aerozol do nosa, roztwór"
+    ],
+    "nazwa_powszechna": [
+     "Esketaminum"
+    ],
+    "atc": [
+     "N06AX27"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

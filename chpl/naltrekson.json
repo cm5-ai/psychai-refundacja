@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym chlorowodorek naltreksonu jest szybko i całkowicie wchłaniany z przewodu pokarmowego. Maksymalne stężenie w osoczu osiągane jest w ciągu godziny. Dystrybucja Stopień wiązania leku z białkami osocza wynosi 21%. Stężenie w osoczu w stanie stacjonarnym wynosi 8,55 mg/ml. Metabolizm Metabolizm ma miejsce głównie w wątrobie, w mechanizmie pierwszego przejścia. Chlorowodorek naltreksonu jest przede wszystkim hydroksylowany do głównego czynnego metabolitu, jakim jest 6-beta-naltreksol, a w mniejszym stopniu do 2-hydroksy-3-metoksy-6-beta-naltreksolu. Eliminacja Substancja jest usuwana przede wszystkim przez nerki. Około 60% dawki doustnej jest wydzielane w ciągu 48 godzin jako glukuronian 6-beta-naltreksolu i chlorowodorek naltreksonu. Okres półtrwania chlorowodorku naltreksonu w surowicy wynosi około 4 godzin. Okres półtrwania 6-beta-naltreksolu w surowicy wynosi 13 godzin. U pacjentów z marskością wątroby obserwowano pięć do dziesięciu razy większe stężenie chlorowodorku naltreksonu w surowicy. 8 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Naltrexoni hydrochloridum"
+    ],
+    "atc": [
+     "N07BB04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Naltex",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym naltrekson wchłania się szybko i niemal całkowicie z przewodu pokarmowego. Metabolizm Podlega efektowi pierwszego przejścia w wątrobie, a maksymalne stężenie w osoczu jest osiągane w ciągu około godziny. Naltrekson ulega hydroksylacji w wątrobie głównie do jego aktywnego metabolitu, 6-beta-naltreksolu, a w mniejszym stopniu do 2-hydroksy-3-metoksy-6-beta-naltreksolu. Okres półtrwania naltreksonu w osoczu wynosi około 4 godzin, średnie stężenie we krwi wynosi 8,55 mg/ml, a stopień wiązania z białkami osocza wynosi 21%. Okres półtrwania 6-beta-naltreksolu w osoczu wynosi 13 godzin. Eliminacja Produkt leczniczy jest wydalany głównie przez nerki. Około 60% podanej doustnie dawki jest wydalana w ciągu 48 godzin w postaci glukuronianu 6-beta-naltreksolu i naltreksonu. U pacjentów z marskością wątroby obserwowano pięć do dziesięciu razy większe stężenie naltreksonu w osoczu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Naltrexoni hydrochloridum"
+    ],
+    "atc": [
+     "N07BB04"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

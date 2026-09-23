@@ -18,7 +18,19 @@
    "moc": "10 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Zolpidemi tartras"
+    ],
+    "atc": [
+     "N05CF02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "ApoZolpin",
@@ -38,7 +50,19 @@
     "5.2": "5.2. Dzieci i młodzież Nie zaleca się stosowania zolpidemu u dzieci i młodzieży w wieku poniżej 18 lat, ponieważ brak jest danych dotyczących stosowania w tej grupie wiekowej. Dostępne dowody z kontrolowanych placebo badań klinicznych są przedstawione w punkcie "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Zolpidemi tartras"
+    ],
+    "atc": [
+     "N05CF02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Hypnogen",
@@ -58,7 +82,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym biodostępność produktu leczniczego wynosi około 70%. Maksymalne stężenie we krwi występuje po 0,5 do 3 godzin. W zakresie dawek terapeutycznych zolpidem wykazuje liniową farmakokinetykę. Dystrybucja Stopień wiązania z białkami osocza wynosi około 92%, zaś objętość dystrybucji u dorosłych wynosi 0,54 ±0,02 l/kg. Metabolizm i eliminacja Zolpidem jest metabolizowany w wątrobie i wydalany w postaci nieaktywnych metabolitów, głównie w moczu (około 60%) i kale (około 40%). Zolpidem nie indukuje enzymów wątrobowych. Okres półtrwania wynosi około 2,4 godziny (w zakresie od 0,7 do 3,5 godziny). Specjalne grupy pacjentów U pacjentów w podeszłym wieku klirens wątrobowy ulega zmniejszeniu i maksymalne stężenie produktu leczniczego we krwi jest większe o około 50%. Okres półtrwania nie ulega znaczącemu wydłużeniu (około 3 godziny). Objętość dystrybucji ulega zmniejszeniu do 0,34 ±0,05 l/kg. U pacjentów z niewydolnością nerek, niezależnie czy dializowanych czy nie, klirens nerkowy ulega umiarkowanemu zmniejszeniu. Inne parametry farmakokinetyczne są niezmienione. Zolpidem nie może być usuwany z organizmu za pomocą dializy. U pacjentów z niewydolnością wątroby biodostępność zolpidemu zwiększa się; okres półtrwania ulega wydłużeniu (do około 10 godzin). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Zolpidemi tartras"
+    ],
+    "atc": [
+     "N05CF02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

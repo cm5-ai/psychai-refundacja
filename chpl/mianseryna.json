@@ -31,7 +31,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Ogólna charakterystyka wykonanych badań Badania przeprowadzono po jednorazowym i wielokrotnym podaniu mianseryny u zdrowych ochotników i u pacjentów z depresją. Po podaniu wielokrotnym stan stacjonarny stężenia w osoczu uzyskano po 14 dniach. Nie wykazano korelacji między stężeniem mianseryny w osoczu a występowaniem działań niepożądanych czy toksycznych. Wchłanianie Po podaniu doustnym mianseryna wchłania się z przewodu pokarmowego szybko, ale niecałkowicie. W wyniku silnie zaznaczonego efektu pierwszego przejścia biodostępność leku wynosi około 30%. Czas uzyskania maksymalnego stężenia w surowicy (Tmax) wynosi od 2 do 3 godzin. Cmax po podaniu 5 60 mg wynosi od 102  28 ng/ml do 114  26 ng/ml. W stanie stacjonarnym stężenie terapeutyczne określono na od 28 µg/ml do 72 µg/ml. Dystrybucja Mianseryna wiąże się w dużym stopniu (90%) z białkami osocza. W środowisku o fizjologicznym pH występuje głównie (ponad 90%) w postaci zjonizowanej. Łatwo przenika do tkanek, w tym do ośrodkowego układu nerwowego. Objętość dystrybucji wynosi 3300 l (od 15,7  2,2 l/kg do 27,5  9,6 l/kg). Metabolizm Mianseryna jest metabolizowana w wątrobie na drodze hydroksylacji pierścienia aromatycznego, N-oksydacji i N-demetylacji. Eliminacja Mianseryna jest wydalana z moczem w postaci niezmienionej (4 - 7%) oraz w formie metabolitów (około 70%). W niewielkich ilościach jest wydalana z kałem. Okres półtrwania (T0,5) wynosi średnio 17 godzin (od 6 do 39 godzin). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Mianserini hydrochloridum"
+    ],
+    "atc": [
+     "N06AX03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Lerivon",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Po podaniu doustnym mianseryna – substancja czynna produktu Lerivon – jest szybko i dobrze wchłaniana. Maksymalne stężenie w osoczu osiąga w ciągu 3 godzin. Biodostępność wynosi około 20%. Mianseryna z białkami osocza wiąże się w około 95%. Okres półtrwania w fazie eliminacji (21– 61 godzin) jest wystarczający, aby produkt podawać w jednorazowej dawce dobowej. Stężenia produktu w osoczu w stanie stacjonarnym osiągane są w ciągu 6 dni stosowania. Mianseryna jest metabolizowana i wydalana z moczem i kałem w ciągu 7–9 dni. Główne szlaki metaboliczne to demetylacja i utlenianie, a następnie sprzęganie. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Mianserini hydrochloridum"
+    ],
+    "atc": [
+     "N06AX03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Miansec",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Mianseryna po podaniu doustnym jest szybko i dobrze wchłaniana z przewodu pokarmowego. Maksymalne stężenie w osoczu osiąga w ciągu 3 godzin. Na skutek efektu pierwszego przejścia w wątrobie dostępność biologiczna produktu wynosi około 20%. Z białkami osocza wiąże się w około 95%. Dobrze przenika przez błony komórkowe, również do ośrodkowego układu nerwowego. Objętość dystrybucji mianseryny jest podobna jak w przypadku trójpierścieniowych leków 5 przeciwdepresyjnych. Stężenia w osoczu w stanie równowagi dynamicznej są osiągane w ciągu 6 dni stosowania. Na metabolizm wątrobowy składają się procesy hydroksylacji pierścienia aromatycznego, N-oksydacji i N-demetylacji. Powstałe w wyniku metabolizmu pochodne mianseryny - demetylomianseryna i 8-hydroksymianseryna są aktywne farmakologicznie. Eliminacja leku następuje w dwóch fazach. W pierwszej lek jest szybko usuwany z kompartmentu centralnego (T1/2 = 1,4 h). Eliminacja ulega następnie zwolnieniu na skutek powolnego przechodzenia leku z kompartmentu tkankowego. Okres półtrwania w fazie eliminacji (21–61 godzin) jest wystarczający, aby produkt podawać w jednorazowej dawce dobowej. Lek po przejściu metabolizmu wątrobowego jest eliminowany prawie całkowicie przez nerki, w postaci wolnych lub skoniugowanych metabolitów (zaledwie 4 - 7% w postaci niezmienionej). Nieznaczne ilości wydalane są z kałem (około 14%). Mianseryna jest metabolizowana i wydalana w ciągu 7–9 dni. Działanie mianseryny ujawnia się po kilku dniach, zaś poprawa kliniczna występuje po 2-3 tygodniach leczenia. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Mianserini hydrochloridum"
+    ],
+    "atc": [
+     "N06AX03"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

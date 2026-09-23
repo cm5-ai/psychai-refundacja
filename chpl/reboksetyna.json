@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie U zdrowych ochotników po podaniu doustnym pojedynczej dawki 4 mg reboksetyny maksymalne stężenia, wynoszące około 130 ng/ml, są osiągane po 2 godzinach od przyjęcia produktu. Dane wskazują, że całkowita biodostępność produktu wynosi co najmniej 60%. Dystrybucja Reboksetyna jest dystrybuowana do wszystkich płynów ustrojowych. Reboksetyna wiąże się z białkami osocza w 97% u osób młodych i 92% u pacjentów w podeszłym wieku (z większym powinowactwem do α1 kwaśnej glikoproteiny niż do albuminy) i nie zależy to istotnie od stężenia 9 produktu. Metabolizm i eliminacja Radioaktywność oznaczana w moczu stanowiła 78% dawki. Mimo że w krążeniu ustrojowym dominuje niezmieniona postać produktu (70% całkowitej radioaktywności wyrażanej wartością AUC), to tylko 10% dawki jest wydalane w postaci niezmienionej z moczem. Dowodzi to, że główną drogą wydalania produktu jest biotransformacja, a szybkość wydalania metabolitów jest ograniczona szybkością ich powstawania. Głównymi zidentyfikowanymi szlakami metabolicznymi są 2-O-dealkilacja, hydroksylacja pierścienia etoksyfenolowego oraz oksydacja pierścienia morfolinowego, po czym następuje częściowe lub całkowite sprzęganie z kwasem glukuronowym lub grupą sulfonową. Produkt dostępny jest w postaci mieszaniny racemicznej (obydwa enancjomery są aktywne w modelach doświadczalnych). Nie obserwowano inwersji chiralnej ani wzajemnych oddziaływań farmakokinetycznych między enancjomerami. Stężenia silniejszej izoformy SS w osoczu są dwa razy mniejsze, a wydalanie wraz z moczem dwukrotnie większe w porównaniu do drugiego enancjomeru. Nie obserwowano istotnych różnic w okresach półtrwania obydwu enancjomerów. U pacjentów z niewydolnością nerek lub wątroby obserwuje się zwiększenie ekspozycji układowej na produkt oraz dwukrotne wydłużenie okresu półtrwania. Podobne lub nieco większe (3-krotne) zwiększenie ekspozycji obserwuje się u pacjentów w podeszłym wieku w porównaniu do młodych, zdrowych ochotników. Liniowość lub nieliniowość Stężenia reboksetyny w surowicy zmniejszają się wykładniczo, a okres półtrwania produktu wynosi około 13 godzin. Stan stacjonarny zostaje osiągnięty w ciągu 5 dni. Liniową farmakokinetykę wykazano po zastosowaniu pojedynczych doustnych zalecanych klinicznie dawek produktu. Zależności farmakokinetyczno-farmakodynamiczne In vitro reboksetyna jest metabolizowana głównie przez CYP3A4. Badania in vitro wykazały, że reboksetyna nie hamuje aktywności następujących izoenzymów cytochromu P450: CYP1A2, CYP2C9, CYP2C19 i CYP2E1. Reboksetyna hamuje zarówno CYP2D6 jak i CYP3A4, jednak powinowactwo do tych układów jest małe i w badaniach in vivo nie obserwowano wpływu na metabolizm leków metabolizowanych przez te układy enzymatyczne. Należy zachować ostrożność podczas jednoczesnego stosowania reboksetyny i silnych inhibitorów CYP3A4. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Reboxetinum"
+    ],
+    "atc": [
+     "N06AX18"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

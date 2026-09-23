@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Temazepam dobrze wchłania się z przewodu pokarmowego. Po doustnym podaniu 20 mg temazepamu maksymalne stężenie we krwi występuje po około 50 minut i wynosi 660 do 1100 ng/ml. Stężenie w stanie stacjonarnym osiąga po trzydniowym podawaniu dawek wielokrotnych. Nie stwierdzono kumulacji w organizmie związku macierzystego ani jego metabolitów. Temazepam wiąże się z białkami osocza krwi w około 96%. Przenika przez barierę krew-płyn mózgowo-rdzeniowy i przez łożysko. Przenika do mleka ludzkiego. Temazepam metabolizowany jest w wątrobie. Większość w postaci niezmienionej jest bezpośrednio sprzęgana z kwasem glukuronowym i wydalana z moczem. Mniej niż 5% podanego temazepamu ulega demetylacji do oksazepamu, który następnie jest sprzęgany z kwasem glukuronowym i wydalany. Powstające metabolity - glukuronidy temazepamu nie wywierają żadnego działania na ośrodkowy układ nerwowy. Temazepam wydalany jest szybko. Okres półtrwania w fazie eliminacji wynosi od 7 do 11 godzin (średnio 8 godzin). Po podaniu dawki pojedynczej, 80% dawki wydalane jest w moczu, po sprzężeniu z kwasem glukuronowym, a 12% - z kałem. Mniej niż 2% podanej dawki wydalane jest w postaci niezmienionej w moczu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Temazepamum"
+    ],
+    "atc": [
+     "N05CD07"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Teseda",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dystrybucja Temazepam wchłania się bardzo szybko i prawie całkowicie z przewodu pokarmowego. Metabolizm pierwszego przejścia jest znikomy. Maksymalne stężenie we krwi występuje zazwyczaj po około 1 godzinie. Temazepam wiąże się silnie z białkami osocza (2-4% występuje w postaci niezwiązanej), a objętość dystrybucji wynosi 1 l/kg. Stężenie w płynie mózgowo-rdzeniowym jest około 5 razy większe niż w osoczu. Temazepam przenika przez łożysko. Do mleka ludzkiego przenika tylko w niewielkich ilościach. Metabolizm i wydalanie Temazepam jest metabolizowany głównie do nieaktywnych metabolitów. Niewielka, nieistotna klinicznie część jest metabolizowana do oksazepamu. Okres półtrwania w fazie eliminacji wynosi od 5 do 20 godzin (u kobiet okres półtrwania w fazie eliminacji jest nieco dłuższy niż u mężczyzn). Temazepam wydalany jest z moczem w postaci sprzężonych metabolitów. Wydalanie u kobiet jest wolniejsze niż u mężczyzn. Szczególne grupy pacjentów Właściwości farmakokinetyczne nie ulegają istotnym zmianom u pacjentów z marskością wątroby i niewydolnością nerek ani u osób w podeszłym wieku. Farmakokinetyka u dzieci i młodzieży jest nieznana. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Temazepamum"
+    ],
+    "atc": [
+     "N05CD07"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Deksamfetamina jest wysoce lipofilna i szybko wchłania się z przewodu pokarmowego. Farmakokinetykę tabletek mierzono u 18 zdrowych osób. Po podaniu jednej tabletki Tentin 5 mg średnie maksymalne stężenie w osoczu (C max ) wynoszące 11,5 ng/mL osiągano po ok. 1,5 godziny. Dystrybucja Po przyjęciu doustnym amfetaminy są szybko rozprowadzane do głównych układów narządowych. Amfetaminy są wysoce rozpuszczalne w tłuszczach i mogą przekraczać barierę krew-mózg. Stężenia osiągane w ośrodkowym układzie nerwowym mogą być 8 razy większe niż stężenia w osoczu. Wiązanie amfetaminy w osoczu wynosi średnio od 15 do 34%. Metabolizm Metabolizm amfetaminy zachodzi w wątrobie i obejmuje głównie hydroksylację i koniugację z kwasem glukuronowym, co prowadzi do powstania bardziej hydrofilowych składników, które mogą być łatwiej Strona 16 z 18 eliminowane. Mniejsze ilości amfetaminy są przekształcane w norefedrynę poprzez utlenianie. W wyniku hydroksylacji powstaje aktywny metabolit (p-hydroksynorefedryna), który działa jako fałszywy neuroprzekaźnik i może odpowiadać za niektóre efekty działania leku, zwłaszcza u osób stosujących go przewlekle. Eliminacja Amfetamina jest głównie wydalana z moczem, jednak reabsorpcja kanalikowa jest stosunkowo wysoka ze względu na jej właściwości lipofilowe. Eliminacja amfetaminy jest zależna od pH, tzn. przy niskim pH około 80% amfetaminy może zostać wyeliminowane w niezmienionej postaci w ciągu 24 godzin; w moczu zasadowym tylko 2-3% amfetaminy zostanie wyeliminowane jako wolna amfetamina. Stopień biodostępności tabletek mierzono u 18 zdrowych osób. Średni okres półtrwania w osoczu (t 1/2 ) wynosi 10,2 godziny. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Dexamfetamini sulfas"
+    ],
+    "atc": [
+     "N06BA02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

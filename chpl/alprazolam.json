@@ -18,7 +18,19 @@
    "moc": "0,25 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Alprazolamum"
+    ],
+    "atc": [
+     "N05BA12"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Alpragen",
@@ -38,7 +50,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym alprazolam dobrze się wchłania z przewodu pokarmowego. Maksymalne stężenie w surowicy osiąga po 1-2 godzinach. Dystrybucja Alprazolam wiąże się z białkami osocza w 70 do 80%. Jest metabolizowany przede wszystkim w wątrobie do alfa-hydroksyalprazolamu i nieaktywnej pochodnej benzofenonu. Metabolizm Hydroksymetabolity wywierają pewne działanie farmakologiczne, a alfa-hydroksyalprazolam, jak opisywano, ma co najmniej w połowie tak silne działanie jak alprazolam. Ich stężenia w osoczu są jednak niewielkie. Eliminacja Alprazolam wydala się głównie z moczem w postaci niezmienionej i w formie metabolitów. Średni okres półtrwania w surowicy wynosi 10 do 12 godzin, ale u osób w podeszłym wieku wydalanie przebiega wolniej a opisywany zakres wartości wynosi od 6,3 do 26,9 godzin. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Alprazolamum"
+    ],
+    "atc": [
+     "N05BA12"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Alpraxil",
@@ -58,7 +82,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Maksymalne stężenie produktu leczniczego Alpraxil w osoczu po podaniu doustnym osiągane jest po 1-2 godzinach. Dystrybucja Okres półtrwania alprazolamu wynosi 12–15 godzin, a u osób w podeszłym wieku wynosi średnio 16 godzin. W warunkach in vitro alprazolam wiąże się z białkami surowicy w 70%. Metabolizm Alprazolam ulega przede wszystkim oksydacji. Głównymi metabolitami alprazolamu są alfa- hydroksyalprazolam i pochodna benzofenonu. Stężenie w osoczu tych metabolitów jest bardzo małe. Aktywność biologiczna alfa-hydroksyalprazolamu jest około połowę mniejsza niż aktywność samego alprazolamu. Okresy półtrwania metabolitów alprazolamu są tego samego rzędu wielkości co alprazolamu. Pochodna benzofenonu prawie nie wykazuje aktywności biologicznej. Eliminacja Eliminacja alprazolamu i jego metabolitów odbywa się głównie przez nerki. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Alprazolamum"
+    ],
+    "atc": [
+     "N05BA12"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

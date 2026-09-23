@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym moklobemid ulega całkowitemu wchłonięciu z przewodu pokarmowego do krwi układu wrotnego. Maksymalne stężenie w osoczu osiągane jest zwykle w czasie pierwszej godziny po podaniu leku. Efekt pierwszego przejścia przez wątrobę zmniejsza frakcję dostępną ogólnoustrojowo (biodostępność F). Zjawisko to jest bardziej nasilone po dawce pojedynczej (F: 60%) niż po kilku dawkach (F: 80%). Po podaniu kilku dawek stężenie moklobemidu w surowicy zwiększa się w czasie pierwszego tygodnia terapii, a następnie utrzymuje się na stabilnym poziomie. Jeśli dawka dobowa zostanie zwiększona, wówczas wzrost stężenia leku w stanie stacjonarnym jest większy, niż wynikałoby to z proporcji obu dawek. Dystrybucja Ze względu na własności lipofilne moklobemid jest szeroko dystrybuowany w organizmie. Objętość dystrybucji (Vss) wynosi około 1,0 L/kg mc. Wiązanie leku z białkami osocza, głównie albuminami, jest niewielkie (50%). Metabolizm Przed eliminacją z ustroju lek jest niemal całkowicie metabolizowany, przede wszystkim na drodze reakcji oksydacyjnych fragmentów cząsteczki. W krążeniu ogólnym występuje nieznaczna ilość produktów degradacji leku, wykazujących aktywność farmakologiczną. Większość obecnych we krwi metabolitów stanowią pochodne laktamowe i pochodne N-tlenku. Stwierdzono, że moklobemid jest częściowo metabolizowany z udziałem polimorficznych izoenzymów CYP2C19 i CYP2D6. Z tego względu przemiany moklobemidu mogą być wolniejsze u osób, u których metabolizm jest zwolniony z powodów genetycznych lub związanych ze stosowaniem innych leków. Zjawisko to było przedmiotem dwóch badań, których wyniki sugerowały, że ze względu na istnienie wielu alternatywnych szlaków metabolicznych zazwyczaj nie ma ono znaczenia klinicznego i nie wiąże się z koniecznością zmiany dawkowania (patrz punkt 4.2). Eliminacja Moklobemid jest eliminowany szybko dzięki procesom metabolicznym. Klirens całkowity wynosi około 20 – 50 L/godzinę. Średni okres półtrwania w fazie eliminacji po kilku dawkach (300 mg dwa razy na dobę) wynosi około 3 godzin (u większości chorych waha się w granicach 2 – 4 godzin). Mniej niż 1% dawki wydala się przez nerki w formie niezmienionej. Metabolity wydalane są drogą nerkową. Nieznaczne ilości przenikają do mleka ludzkiego. Farmakokinetyka w wybranych grupach pacjentów Osoby w podeszłym wieku Parametry wchłaniania i podatności na moklobemid nie zmieniają się u osób w podeszłym wieku. Chorzy z niewydolnością nerek Choroby nerek nie wpływają na charakterystykę eliminacji moklobemidu z ustroju. Chorzy z niewydolnością wątroby W zaawansowanej niewydolności wątroby metabolizm moklobemidu jest zmniejszony (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Moclobemidum"
+    ],
+    "atc": [
+     "N06AG02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Mobemid",
@@ -51,7 +63,19 @@
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym moklobemid wchłania się prawie całkowicie (około 95%) z przewodu pokarmowego. Obecność pokarmu zmniejsza szybkość wchłaniania, ale nie wpływa na wielkość całkowitego wchłaniania. Maksymalne stężenie moklobemidu jest osiągane w czasie od 0,5 do 3,5 godziny (średnie tmax = 49 minut). Biodostępność wynosi 44-69% po pojedynczej dawce i około 90% po wielokrotnym dawkowaniu. Zwiększenie biodostępności podczas wielokrotnego dawkowania związane jest ze zmniejszeniem klirensu wątrobowego i efektu pierwszego przejścia. Moklobemid wykazuje szybki początek działania (po 15 minutach) i o wiele krótszy czas działania (16 godzin), w porównaniu z nieodwracalnymi inhibitorami MAO (kilka dni). Dystrybucja Moklobemid w około 50% wiąże się z białkami krwi, głównie z albuminami. Stosunek stężenia produktu leczniczego w płynie mózgowo–rdzeniowym (PMR) do stężenia w osoczu wynosi 0,5. Maksymalne stężenie w PMR występuje w przybliżeniu po 2 godzinach od zażycia. Objętość dystrybucji jest duża i wynosi około 1,2 l/kg (76-134 l). Moklobemid w dawce do 200 mg wykazuje farmakokinetykę liniową. Po większych dawkach obserwuje się farmakokinetykę nieliniową. Po dawkach 400-1200 mg maksymalne stężenie moklobemidu zwiększa się, okres półtrwania wydłuża a klirens zmniejsza nieproporcjonalnie do dawki. Niewydolność wątroby U pacjentów z niewydolnością wątroby, stężenie moklobemidu w osoczu jest większe, okres półtrwania dłuższy, zaś klirens obniżony. Niewydolność nerek 6 Podczas stosowania moklobemidu u pacjentów z zaburzoną czynnością nerek nie obserwowano zmian w klirensie całkowitym, biodostępności, stężeniu maksymalnym ani w czasie stężenia maksymalnego, w porównaniu z grupą kontrolną. Jedyną znaczącą rozbieżność odnotowano w przypadku średniego czasu wchłaniania, który wynosił 1,05+/-0,76 h, w porównaniu z wartością 0,47+/-0,37 h u osób zdrowych. U pacjentów z niewydolnością nerek nie jest wymagana zmiana dawkowania. Osoby w podeszłym wieku U osób w podeszłym wieku obserwuje się większe stężenie maksymalne i mniejszy klirens moklobemidu po podaniu pojedynczej dawki. Po uzyskaniu stanu równowagi w drugim tygodniu leczenia Cmax nie wykazuje różnic u osób w różnym wieku. Ponadto, oprócz stałego Tmax, T0,5, średniej biodostępności oraz średniego czasu wchłaniania, nie zaobserwowano także zmian minimalnego stężenia w stanie równowagi ani zmian stężeń żadnego z metabolitów. Wskazuje to, że u osób w podeszłym wieku modyfikacja dawki nie jest konieczna. Metabolizm Moklobemid jest szybko metabolizowany różnymi szlakami w wątrobie (około 95% dawki przyjętej) do około 20 metabolitów. Część z nich wykazuje aktywność farmakologiczną, jednak ich działanie jest znacznie słabsze niż moklobemidu. Moklobemid ulega przemianom czterema torami metabolicznymi, które rozpoczynają się utlenieniem atomu węgla układu morfolinowego, utlenianiem atomu azotu układu morfolinowego, deaminacją z jednoczesnym rozerwaniem pierścienia morfolinowego lub hydroksylacją pierścienia aromatycznego. Wydalanie Klirens całkowity wynosi około 20-50 l/h. Okres półtrwania, który jest miarą szybkości eliminacji, jest krótki i wynosi około 1-2 godziny. Około 1% dawki wydalane jest w formie niezmienionej z moczem i około 5% z kałem. U pacjentów w podeszłym wieku okres półtrwania wynosi zwykle 4-6 godzin. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Moclobemidum"
+    ],
+    "atc": [
+     "N06AG02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Moklar",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym moklobemid wchłania się prawie całkowicie z przewodu pokarmowego do krwi. Maksymalne stężenie w osoczu jest osiągane zwykle w czasie pierwszej godziny po podaniu leku. Efekt pierwszego przejścia przez wątrobę zmniejsza frakcję dostępną ogólnoustrojowo (biodostępność F). Zjawisko to jest bardziej nasilone po dawce pojedynczej (F: 60%) niż po kilku dawkach (F: 80%). Po podaniu kilku dawek stężenie moklobemidu w surowicy zwiększa się w czasie pierwszego tygodnia terapii, a następnie utrzymuje się na stabilnym poziomie. Jeśli dawka dobowa zostanie zwiększona, wówczas wzrost stężenia leku w stanie stacjonarnym jest większy, niż wynikałoby to z proporcji obu dawek. Dystrybucja Ze względu na własności lipofilne moklobemid jest szeroko dystrybuowany w organizmie. Objętość dystrybucji (Vss) wynosi około 1,0 l/kg. Wiązanie leku z białkami osocza, głównie albuminami, jest niewielkie (50%). 7 Metabolizm Przed eliminacją z ustroju lek jest niemal całkowicie metabolizowany, przede wszystkim na drodze reakcji oksydacyjnych fragmentów cząsteczki. W krążeniu ogólnym występuje nieznaczna ilość produktów degradacji leku, wykazujących aktywność farmakologiczną. Większość obecnych we krwi metabolitów stanowią pochodne laktamowe i pochodne N-tlenku. Stwierdzono, że moklobemid jest częściowo metabolizowany z udziałem polimorficznych izoenzymów CYP2C19 i CYP2D6. Z tego względu przemiany moklobemidu mogą być wolniejsze u osób, u których metabolizm jest zwolniony z powodów genetycznych lub związanych ze stosowaniem innych leków. Zjawisko to było przedmiotem dwóch badań, których wyniki sugerowały, że ze względu na istnienie wielu alternatywnych szlaków metabolicznych zazwyczaj nie ma ono znaczenia klinicznego i nie wiąże się z koniecznością zmiany dawkowania (patrz punkt 4.2). Eliminacja Moklobemid jest szybko eliminowany dzięki procesom metabolicznym. Klirens całkowity wynosi około 20-50 l/h. Średni okres półtrwania w fazie eliminacji po kilku dawkach (300 mg dwa razy na dobę) wynosi około 3 godzin (u większości chorych waha się w granicach 2-4 godzin). Mniej niż 1% dawki wydalane jest w formie niezmienionej z moczem. Metabolity wydalane są drogą nerkową. Nieznaczne ilości przenikają do mleka matki. Farmakokinetyka w wybranych grupach pacjentów Pacjenci w podeszłym wieku Parametry wchłaniania i podatności na moklobemid nie zmieniają się u osób w podeszłym wieku. Pacjenci z zaburzeniami czynności nerek Choroby nerek nie wpływają na charakterystykę eliminacji moklobemidu z ustroju. Pacjenci z zaburzeniami czynności wątroby W zaawansowanej niewydolności wątroby metabolizm moklobemidu jest zmniejszony (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Moclobemidum"
+    ],
+    "atc": [
+     "N06AG02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

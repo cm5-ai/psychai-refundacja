@@ -31,21 +31,57 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Buprenorfina, po podaniu doustnym, podlega metabolizmowi pierwszego przejścia przez wątrobę z N-dealkilacją i sprzęganiem z kwasem glukuronowym w jelicie cienkim. Dlatego, podawanie tego produktu leczniczego drogą doustną, jest niewłaściwe. Maksymalne stężenie w osoczu osiągalne jest po 90 minutach po podaniu podjęzykowym, a zależność 12 między stężeniem maksymalnym, a dawką jest liniowa w zakresie od 2 mg do 16 mg. Dystrybucja Po wchłonięciu buprenorfiny następuje szybka faza dystrybucji (okres półtrwania dystrybucji wynosi od 2 do 5 godzin). Metabolizm Buprenorfina metabolizowana jest przez 14-N-dealkilację i sprzęganie z kwasem glukuronowym cząsteczki macierzystej oraz dealkilowanego metabolitu. N-dezalkilobuprenorfina jest agonistą receptora  o słabej aktywności wewnętrznej. Norbuprenorfina wpływa na ogólny efekt farmakologiczny, aczkolwiek nie wiadomo w jakim stopniu. Eliminacja Eliminacja buprenorfiny jest dwu- lub trójwykładnicza o długiej końcowej fazie eliminacji wynoszącej 32 godziny. Związane jest to częściowo z wchłanianiem zwrotnym w jelicie buprenorfiny powstającej w wyniku hydrolizy sprzężonych pochodnych, a częściowo z silnymi lipofilnymi właściwościami cząsteczki. Buprenorfina głównie wydalana jest z żółcią, a następnie z kałem jako metabolity sprzężone z kwasem glukuronowym (70%), pozostałe 30% jest wydalane z moczem. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki podjęzykowe"
+    ],
+    "nazwa_powszechna": [
+     "Buprenorphini hydrochloridum"
+    ],
+    "atc": [
+     "N02AE01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Buprenorphine Neuraxpharm",
    "moc": "0,4 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Lamelki podjęzykowe"
+    ],
+    "nazwa_powszechna": [
+     "Buprenorphini hydrochloridum"
+    ],
+    "atc": [
+     "N07BC01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Sixmo",
    "moc": "74,2 mg",
    "zrodlo": "",
    "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {}
+   "punkty": {},
+   "klucz_rpl": {
+    "postac": [
+     "Implant"
+    ],
+    "nazwa_powszechna": [
+     "Buprenorphini hydrochloridum"
+    ],
+    "atc": [
+     "N07BC01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

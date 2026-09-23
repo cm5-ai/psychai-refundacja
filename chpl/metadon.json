@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Metadon jest jednym z lepiej rozpuszczalnych opioidów w lipidach i jest dobrze wchłaniany z przewodu pokarmowego, ale przechodzi dość intensywny metabolizm pierwszego przejścia. Biodostępność przewyższa 80%. Stężenia stanu stacjonarnego (ang. steady state) osiągane są w ciągu 5-7 dni. 15 Dystrybucja Metadon wiąże się z albuminami oraz innymi białkami osocza krwi i białkami tkankowymi (prawdopodobnie lipoproteinami), jego stężenia w płucach, wątrobie i nerkach są zdecydowanie wyższe niż w krwi Farmakokinetyka metadonu jest nietypowa pod względem intensywnego wiązania z białkami tkanek i dość powolnego transportu pomiędzy jego rezerwami tkankowymi transferu pomiędzy niektórymi częściami rezerwuaru tkankowego i osoczem. Metadon jest wydzielany w pocie i obecny w ślinie, mleku kobiecym oraz krwi pępowinowej. Metabolizm Metabolizm metadonu katalizowany jest głównie przez CYP3A4, lecz CYP2D6 i CYP2B6 są również zaangażowane w mniejszym stopniu. Metabolizm obejmuje głównie N-demetylację, podczas której wytwarzane są najważniejsze metabolity: 2-etylidyno, 1,5-dimetylo-3,3-difenylopirolidynę (EDDP) i 2-etylo-5-metylo-3,3-difenylo-1-pirolidynę (EMDP), przy czym oba są nieaktywne. W pewnym stopniu zachodzi również hydroksylacja do metadolu poprzez N-demetylizację do normetadolu. Występują również inne reakcje metaboliczne i znanych jest co najmniej osiem innych metabolitów. Eliminacja Okres półtrwania po podaniu pojedynczej dawki doustnej wynosi 12-18 (średnio 15) godzin, co częściowo odzwierciedla dystrybucję do rezerw tkankowych, a także klirens metaboliczny i nerkowy. Przy regularnym stosowaniu depozyt tkankowy jest już częściowo wypełniony, a więc okres półtrwania wydłuża się do 13-47 (średnio 25) godzin i odzwierciedla tylko klirens. Metadon i jego metabolity są wydalane w różnym stopniu z kałem i moczem. Wydalanie metadonu znacznie zwiększa się przy zakwaszeniu moczu. Około 30% dawki jest wydalane z kałem, ale odsetek ten jest zwykle zmniejszony przy wyższych dawkach. Około 75% całkowitej eliminacji odbywa się w formie niesprzężonej. Szczególne grupy pacjentów Nie ma istotnych różnic w profilu farmakokinetycznym u kobiet i mężczyzn. Klirens metadonu zmniejsza się tylko do pewnego stopnia w podeszłym wieku (powyżej 65 lat). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Roztwór doustny"
+    ],
+    "nazwa_powszechna": [
+     "Methadoni hydrochloridum"
+    ],
+    "atc": [
+     "N07BC02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Methadone Hydrochloride Molteni",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Metadon szybko wchłania się z przewodu pokarmowego po podaniu doustnym (w ciągu 30 minut) i osiąga maksymalne stężenie we krwi po 3 - 4 godzinach. Średnio ok. 85% metadonu obecnego w osoczu krwi krąży w postaci związanej z białkami, natomiast in vitro zaobserwowano, że 44% jest związane z albuminami, 17% z gamma-globulinami. Z porównania tych wartości wynika, że pewna frakcja jest także związana z alfa-globulinami i beta- globulinami. Metadon jest metabolizowany głównie w wątrobie. Metabolity pierwszego przejścia przez wątrobę wydalane są z moczem i żółcią razem z małymi ilościami substancji niezmetabolizowanej. U pacjentów bez rozwiniętej tolerancji, pozorny średni okres półtrwania metadonu po pojedynczej dawce wynosi około 15 godzin, natomiast w przypadku długotrwałego podawania pozorny okres półtrwania wynosi 22 godziny. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Syrop"
+    ],
+    "nazwa_powszechna": [
+     "Methadoni hydrochloridum"
+    ],
+    "atc": [
+     "N07BC02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Misyo",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Metadon jest jednym z lepiej rozpuszczalnych opioidów w lipidach i jest dobrze wchłaniany z przewodu pokarmowego, ale przechodzi dość intensywny metabolizm pierwszego przejścia. Biodostępność przewyższa 80%. Stężenia stanu stacjonarnego (ang. steady state) osiągane są w ciągu 5-7 dni. Dystrybucja Metadon wiąże się z albuminami oraz innymi białkami osocza krwi i białkami tkankowymi (prawdopodobnie lipoproteinami), jego stężenia w płucach, wątrobie i nerkach są zdecydowanie wyższe niż w krwi. Farmakokinetyka metadonu jest nietypowa pod względem intensywnego wiązania z białkami tkanek i dość powolnego transportu pomiędzy jego rezerwami tkankowymi i osoczem. Metadon jest wydzielany w pocie i obecny w ślinie, mleku kobiecym oraz krwi pępowinowej. Metabolizm Metabolizm metadonu katalizowany jest głównie przez CYP3A4, lecz CYP2D6 i CYP2B6 są również zaangażowane w mniejszym stopniu. Metabolizm obejmuje głównie N-demetylację, podczas której wytwarzane są najważniejsze metabolity: 2-etylidyno, 1,5-dimetylo-3,3-difenylopirolidynę (EDDP) i 2- etylo-5-metylo-3,3-difenylo-1-pirolidynę (EMDP), przy czym oba są nieaktywne. W pewnym stopniu zachodzi również hydroksylacja do metadolu poprzez N-demetylizację do normetadolu. Występują również inne reakcje metaboliczne i znanych jest co najmniej osiem innych metabolitów. Eliminacja Okres półtrwania po podaniu pojedynczej dawki doustnej wynosi 12-18 (średnio 15) godzin, co częściowo odzwierciedla dystrybucję do rezerw tkankowych, a także klirens metaboliczny i nerkowy. Przy regularnym stosowaniu depozyt tkankowy jest już częściowo wypełniony, a więc okres półtrwania wydłuża się do 13-47 (średnio 25) godzin i odzwierciedla tylko klirens. Metadon i jego metabolity są wydalane w różnym stopniu z kałem i moczem. Wydalanie metadonu znacznie zwiększa się przy zakwaszeniu moczu. Około 30% dawki jest wydalane z kałem, ale odsetek ten jest zwykle zmniejszony przy wyższych dawkach. Około 75% całkowitej eliminacji odbywa się w formie niesprzężonej. 12/14 Szczególne populacje Nie ma istotnych różnic w profilu farmakokinetycznym u kobiet i mężczyzn. Klirens metadonu zmniejsza się tylko do pewnego stopnia w podeszłym wieku (powyżej 65 lat). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Koncentrat do sporządzania roztworu doustnego"
+    ],
+    "nazwa_powszechna": [
+     "Methadoni hydrochloridum"
+    ],
+    "atc": [
+     "N07BC02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

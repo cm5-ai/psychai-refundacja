@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Paroksetyna dobrze wchłania się z przewodu pokarmowego po podaniu doustnym i podlega efektowi pierwszego przejścia. Z powodu efektu pierwszego przejścia ilość paroksetyny dostępna w krążeniu układowym jest mniejsza niż ilość wchłonięta z przewodu pokarmowego. Częściowe wysycenie efektu pierwszego przejścia i zmniejszony klirens osoczowy występuje przy zwiększającym się nasyceniu organizmu lekiem, po zastosowaniu większych pojedynczych dawek lub po podaniu wielokrotnym. Powoduje to nieproporcjonalne zwiększenie stężenia paroksetyny w osoczu i dlatego parametry farmakokinetyczne nie są stałe, co powoduje, że kinetyka leku jest nieliniowa. Jednakże nieliniowość ogólnie jest nieznaczna i ograniczona do tych osób, u których stężenie w osoczu po zastosowaniu małych dawek jest małe. Stężenie leku w stanie stacjonarnym osiągane jest po około 7 - 14 dniach od rozpoczęcia leczenia. Farmakokinetyka leku nie zmienia się podczas długotrwałego stosowania. Dystrybucja Paroksetyna jest w znacznym stopniu rozprowadzana do tkanek, a obliczenia farmakokinetyczne wskazują, że tylko 1% paroksetyny znajduje się w osoczu. Około 95% paroksetyny w stężeniach terapeutycznych jest związane z białkami. Nie wykazano zależności pomiędzy stężeniem paroksetyny w osoczu krwi a działaniem klinicznym (działania niepożądane i skuteczność). Metabolizm Główne metabolity paroksetyny są polarne i są skoniugowanymi produktami oksydacji i metylacji. Metabolity te są łatwo usuwane z organizmu. Biorąc pod uwagę względny brak aktywności farmakologicznej metabolitów paroksetyny, jest mało prawdopodobne, aby przyczyniały się one do terapeutycznego działania paroksetyny. Metabolizm nie zaburza selektywnego działania paroksetyny na neuronalny wychwyt zwrotny 5-HT. Eliminacja Około 64% dawki paroksetyny jest wydalane z moczem w postaci metabolitów, mniej niż 2% w postaci niezmienionej. Około 36% dawki jest wydalane z kałem, prawdopodobnie za pośrednictwem żółci (w postaci niezmienionej mniej niż 1% dawki). Jak stąd wynika, paroksetyna wydalana jest prawie wyłącznie na drodze przemiany metabolicznej. Wydalanie metabolitów jest dwufazowe: początkowo jest wynikiem metabolizmu pierwszego przejścia, a następnie układowej eliminacji paroksetyny. Okres półtrwania paroksetyny w fazie eliminacji jest zmienny, ale najczęściej wynosi około jednej doby. 15 Specjalne populacje pacjentów Osoby w podeszłym wieku i osoby z niewydolnością nerek i (lub) wątroby U osób w podeszłym wieku i osób z ciężką niewydolnością nerek lub niewydolnością wątroby występuje zwiększone stężenie paroksetyny w osoczu, ale zakres stężeń pokrywa się z zakresem stężeń u zdrowych dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Paroxetinum"
+    ],
+    "atc": [
+     "N06AB05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "ParoGen",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Paroksetyna dobrze się wchłania po podaniu doustnym i jest poddawana metabolizmowi pierwszego przejścia. Z uwagi na metabolizm pierwszego przejścia ilość paroksetyny obecna w krążeniu systemowym jest mniejsza niż ilość wchłonięta z przewodu pokarmowego. W przypadku większego obciążenia organizmu produktem w następstwie podania większej dawki pojedynczej lub podania dawek wielokrotnych dochodzi do częściowego nasycenia efektu pierwszego przejścia i zmniejszenia klirensu osoczowego. To prowadzi do nieproporcjonalnego wzrostu stężenia paroksetyny. Z tego względu parametry farmakokinetyczne nie są stałe, a farmakokinetyka jest nieliniowa. Nieliniowy charakter farmakokinetyki jest jednak słabo wyrażony i ograniczony do tych osób, które osiągają małe osoczowe stężenia produktu przy małych dawkach. Stan równowagi dynamicznej jest osiągany w ciągu 7-14 dni od rozpoczęcia leczenia produktami o natychmiastowym lub kontrolowanym uwalnianiu, a farmakokinetyka produktu wydaje się nie zmieniać w czasie leczenia przewlekłego. Dystrybucja Paroksetyna podlega intensywnej dystrybucji do tkanek, a obliczenia farmakokinetyczne wskazują, że tylko 1% paroksetyny obecnej w organizmie znajduje się w osoczu. W stężeniach terapeutycznych około 95% paroksetyny wiąże się z białkami osocza. Nie wykazano korelacji między stężeniami paroksetyny w osoczu a efektem klinicznym (działania niepożądane i skuteczność). Metabolizm Główne metabolity paroksetyny są to polarne i skonjugowane produkty oksydacji i metylacji, które łatwo się wydalają. W świetle względnego braku aktywności farmakologicznej jest bardzo mało prawdopodobne, aby przyczyniały się one do terapeutycznego efektu paroksetyny. Metabolizm nie ogranicza selektywnego działania paroksetyny na neuronalny wychwyt 5-HT. Wydalanie Mniej niż 2% podanej dawki paroksetyny wydala się z moczem w postaci niezmienionej, natomiast około 64% dawki w postaci metabolitów. Około 36% dawki wydala się z kałem, prawdopodobnie przez żółć, z czego niezmieniona paroksetyna stanowi mniej niż 1%. Paroksetyna jest więc eliminowana prawie całkowicie na drodze przemian metabolicznych. Wydalanie metabolitów jest dwufazowe. Początkowo jest wynikiem metabolizmu pierwszego przejścia, później zaś wiąże się z układową eliminacją paroksetyny. Okres półtrwania jest zmienny, ale zwykle wynosi 1 dobę. Szczególne grupy pacjentów Pacjenci w podeszłym wieku i osoby z niewydolnością nerek/wątroby U osób w podeszłym wieku, u pacjentów z ciężką niewydolnością nerek oraz u pacjentów z niewydolnością wątroby stężenie paroksetyny w osoczu jest zwiększone, ale zakres stężeń stwierdzanych produktu w osoczu pokrywa się z wartościami spotykanymi u zdrowych osób dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Paroxetinum"
+    ],
+    "atc": [
+     "N06AB05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Paroxetine Aurovitas",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Paroksetyna dobrze wchłania się po podaniu doustnym i podlega metabolizmowi pierwszego przejścia. Z powodu efektu pierwszego przejścia ilość paroksetyny dostępna w krążeniu układowym jest mniejsza niż ilość wchłonięta z przewodu pokarmowego. Częściowe wysycenie efektu pierwszego przejścia i zmniejszony osoczowy klirens występuje przy zwiększającym się nasyceniu organizmu lekiem, po zastosowaniu większych pojedynczych dawek lub po podawaniu wielokrotnym. Efektem tego są nieproporcjonalne zwiększenia stężeń paroksetyny w osoczu i dlatego parametry farmakokinetyczne nie są stałe, co powoduje, że kinetyka leku jest nieliniowa. Jednakże nieliniowość ogólnie jest nieznaczna i ograniczona do tych osób, u których stężenie w osoczu po zastosowaniu małych dawek jest małe. Stężenie leku w stanie stacjonarnym ustala się po około 7-14 dniach leczenia postaciami leku o natychmiastowym lub kontrolowanym uwalnianiu. Farmakokinetyka leku nie zmienia się podczas długotrwałego stosowania. Dystrybucja Paroksetyna jest rozlegle rozprowadzana do tkanek i obliczenia farmakokinetyczne wskazują, że tylko 1% paroksetyny znajduje się w osoczu. Około 95% paroksetyny w stężeniach terapeutycznych jest związane z białkami. Nie wykazano zależności między stężeniami paroksetyny w osoczu a działaniem klinicznym (działania niepożądane i skuteczność). Metabolizm Główne metabolity paroksetyny mają strukturę polarną i są skoniugowanymi produktami oksydacji i metylacji. Metabolity te są łatwo usuwane z organizmu. Biorąc pod uwagę względny brak aktywności farmakologicznej metabolitów paroksetyny, jest mało prawdopodobne by przyczyniały się do terapeutycznego działania paroksetyny. Metabolizm nie zaburza selektywnego działania paroksetyny na neuronalny wychwyt zwrotny serotoniny. Eliminacja 15 Około 64% dawki paroksetyny jest wydalane z moczem w postaci metabolitów (w postaci niezmienionej mniej niż 2%), około 36% jest wydalane z kałem, prawdopodobnie z żółcią (w postaci niezmienionej paroksetyny mniej niż 1% dawki). Wynika z tego, że paroksetyna wydalana jest prawie wyłącznie na drodze przemiany metabolicznej. Wydalanie metabolitów jest dwufazowe. Początkowo jest wynikiem metabolizmu pierwszego przejścia, a następnie układowej eliminacji paroksetyny. Okres półtrwania w fazie eliminacji paroksetyny jest zmienny; najczęściej wynosi około jednej doby. Szczególne grupy pacjentów Osoby w podeszłym wieku i osoby z niewydolnością nerek lub wątroby U osób w podeszłym wieku i osób z ciężką niewydolnością nerek lub niewydolnością wątroby występują zwiększone stężenia paroksetyny w osoczu, ale zakres stężeń pokrywa się z zakresem stężeń u zdrowych dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Paroxetinum"
+    ],
+    "atc": [
+     "N06AB05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

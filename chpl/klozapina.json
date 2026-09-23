@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym klozapina jest wchłaniana w 90 do 95%; prędkość i stopień wchłaniania leku są niezależne od przyjmowanego pokarmu. Klozapina podlega efektowi pierwszego przejścia w umiarkowanym stopniu, w wyniku czego jego bezwzględna biodostępność wynosi 50 do 60%. Dystrybucja W stanie stacjonarnym, w przypadku dawkowania dwa razy na dobę, maksymalne stężenia we krwi osiągane są po średnio około 2,1 h (zakres: 0,4 do 4,2 h), a objętość dystrybucji wynosi 1,6 l/kg. Klozapina wiąże się z białkami osocza w 95%. Metabolizm Klozapina jest niemal całkowicie metabolizowany przed wydaleniem przez CYP1A2 i CYP3A4 i w mniejszym stopniu, przez CYP2C19 i CYP2D6. Z głównych metabolitów leku, czynny jest jedynie metabolit demetylowy. Jego działanie farmakologiczne przypomina działanie klozapiny, jednak jest ono słabsze i trwa krócej. Eliminacja Eliminacja leku przebiega dwufazowo, a średni terminalny okres półtrwania wynosi 12 h (zakres: 6 do 26 h). Po podaniu pojedynczych dawek wynoszących 75 mg, średni terminalny okres półtrwania wynosił 7,9 h; okres ten wydłużył się do 14,2 h po osiągnięciu stanu stacjonarnego przy podawaniu dawek 75 mg codziennie przez 7 dni. W moczu i kale stwierdza się zaledwie śladowe ilości leku w postaci niezmienionej, około 50% podanej dawki jest wydalane w postaci metabolitów z moczem, a 30% - z kałem. Liniowość lub nieliniowość Zwiększenie dawki z 37,5 mg do 75 mg i 150 mg dwa razy na dobę powodowało w stanie stacjonarnym w sposób liniowo proporcjonalny do dawki zwiększenie pola pod krzywą zależności stężenia od czasu (AUC) oraz zwiększenie maksymalnych i minimalnych stężeń w osoczu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki ulegające rozpadowi w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Clozapinum"
+    ],
+    "atc": [
+     "N05AH02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Clopizam",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym klozapina jest wchłaniana w 90 do 95%; prędkość i stopień wchłaniania leku są niezależne od przyjmowanego pokarmu. Klozapina podlega efektowi pierwszego przejścia w umiarkowanym stopniu, w wyniku czego jego bezwzględna biodostępność wynosi 50 do 60%. Dystrybucja W stanie stacjonarnym, w przypadku dawkowania dwa razy na dobę, maksymalne stężenia we krwi osiągane są po średnio około 2,1 h (zakres: 0,4 do 4,2 h), a objętość dystrybucji wynosi 1,6 l/kg. Klozapina wiąże się z białkami osocza w 95%. Metabolizm Klozapina jest niemal całkowicie metabolizowana przed wydaleniem, głównie przez CYP1 A2, CYP3 A4 oraz w pewnym stopniu przez CYP2C19 i CYP2D6. Z głównych metabolitów leku, czynny jest jedynie metabolit demetylowy. Jego działanie farmakologiczne przypomina działanie klozapiny, jednak jest ono słabsze i trwa krócej. Eliminacja Eliminacja leku przebiega dwufazowo, a średni terminalny okres półtrwania wynosi 12 h (zakres: 6 do 26 h). Po podaniu pojedynczych dawek wynoszących 75 mg, średni terminalny okres półtrwania wynosił 7,9 h; okres ten wydłużył się do 14,2 h po osiągnięciu stanu stacjonarnego przy podawaniu dawek 75 mg codziennie przez 7 dni. W moczu i kale stwierdza się zaledwie śladowe ilości leku w postaci niezmienionej, około 50% podanej dawki jest wydalane w postaci metabolitów z moczem, a 30% - z kałem. Liniowość/nieliniowość Zwiększenie dawki z 37,5 mg do 75 mg i 150 mg dwa razy na dobę powodowało zwiększenie pola pod krzywą zależności stężenia od czasu (AUC) oraz zwiększenie maksymalnych i minimalnych stężeń w osoczu, w stanie stacjonarnym, w sposób liniowo proporcjonalny do dawki. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Clozapinum"
+    ],
+    "atc": [
+     "N05AH02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Clozapine Hasco",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym klozapina jest wchłaniana w 90 do 95%; prędkość i stopień wchłaniania leku są niezależne od przyjmowanego pokarmu. Klozapina podlega efektowi pierwszego przejścia w umiarkowanym stopniu, w wyniku czego jego bezwzględna biodostępność wynosi 50 do 60%. Dystrybucja W stanie stacjonarnym, w przypadku dawkowania dwa razy na dobę, maksymalne stężenia we krwi osiągane są po średnio około 2,1 h (zakres: 0,4 do 4,2 h), a objętość dystrybucji wynosi 1,6 l/kg. Klozapina wiąże się z białkami osocza w 95%. Metabolizm Klozapina jest niemal całkowicie metabolizowana przed wydaleniem przez CYP1A2 i CYP3A4 i w mniejszym stopniu przez CYP2C19 i CYP2D6. Z głównych metabolitów leku, czynny jest jedynie metabolit demetylowy. Jego działanie farmakologiczne przypomina działanie klozapiny, jednak jest ono słabsze i trwa krócej. Eliminacja Eliminacja leku przebiega dwufazowo, a średni terminalny okres półtrwania wynosi 12 godz. (zakres: 6 do 26 godz.). Po podaniu pojedynczych dawek wynoszących 75 mg, średni terminalny okres półtrwania wynosił 7,9 godz.; okres ten wydłużył się do 14,2 godz. po osiągnięciu stanu stacjonarnego przy podawaniu dawek 75 mg codziennie przez 7 dni. W moczu i kale stwierdza się zaledwie śladowe ilości leku w postaci niezmienionej, około 50% podanej dawki jest wydalane w postaci metabolitów z moczem, a 30% - z kałem. Liniowość lub nieliniowość Zwiększenie dawki z 37,5 mg do 75 mg i 150 mg dwa razy na dobę powodowało w stanie stacjonarnym w sposób liniowo proporcjonalny do dawki zwiększenie pola pod krzywą zależności stężenia od czasu (AUC) oraz zwiększenie maksymalnych i minimalnych stężeń w osoczu. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Clozapinum"
+    ],
+    "atc": [
+     "N05AH02"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

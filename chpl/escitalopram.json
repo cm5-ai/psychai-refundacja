@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Escytalopram wchłania się niemal całkowicie, niezależnie od spożycia pokarmu (średni czas do uzyskania maksymalnego stężenia (Tmax) wynosi 4 godziny po wielokrotnym podaniu dawki). Należy się spodziewać, że bezwzględna biodostępność escytalopramu wyniesie około 80%, podobnie jak mieszaniny racemicznej cytalopramu. Dystrybucja Pozorna objętość dystrybucji (Vd,β/F) po podaniu doustnym wynosi około 12 do 26 l/kg mc. Escytalopram i jego główne metabolity wiążą się z białkami osocza w mniej niż 80%. Metabolizm Escytalopram jest metabolizowany w wątrobie do metabolitu demetylowanego oraz didemetylowanego. Obydwa metabolity są farmakologicznie czynne. Jest również możliwe, że azot ulega utlenieniu, tworząc metabolit w postaci N-tlenku. Zarówno substancja macierzysta, jak i metabolity są częściowo wydalane w postaci glukuronidów. Po wielokrotnym podaniu dawki, średnie stężenia metabolitu demetylowanego i didemetylowanego wynoszą zazwyczaj odpowiednio 28-31% i <5% stężenia escytalopramu. Przemiana escytalopramu do metabolitu demetylowanego zachodzi głównie z udziałem izoenzymu CYP2C19. Możliwy jest również pewien udział izoenzymów CYP3A4 oraz CYP2D6. Eliminacja Okres półtrwania w fazie eliminacji (t1/2 β) po wielokrotnym podaniu dawki wynosi około 30 godzin, a klirens osoczowy po podaniu doustnym (Cloral) wynosi 0,6 l/min. Okres półtrwania głównych metabolitów jest znamiennie dłuższy. Zakłada się, że escytalopram i jego główne metabolity są wydalane zarówno drogą wątrobową (metaboliczną), jak i nerkową, a większość dawki wydalana jest w postaci metabolitów z moczem. Liniowość Farmakokinetyka jest liniowa. Stan stacjonarny stężenia w osoczu osiągany jest po około tygodniu. Średnie stężenia w stanie stacjonarnym wynoszące 50 nmol/l (zakres 20 do 125 nmol/l) osiągane są podczas podawania dawki dobowej wynoszącej 10 mg. Pacjenci w podeszłym wieku (powyżej 65 lat) Wydaje się, że eliminacja escytalopramu zachodzi wolniej u pacjentów w podeszłym wieku w porównaniu z młodszymi pacjentami. Wartość pola pod krzywą (AUC) jest około 50% większa u osób w podeszłym wieku w porównaniu z młodymi zdrowymi ochotnikami (patrz punkt 4.2). Zaburzenia czynności wątroby U pacjentów z łagodnym lub umiarkowanym zaburzeniem czynności wątroby (kryterium A i B według klasyfikacji Childa i Pugha) okres półtrwania escytalopramu był około dwa razy dłuższy, a ekspozycja około 60% większa niż u osób z prawidłową czynnością wątroby (patrz punkt 4.2). Zaburzenia czynności nerek W przypadku podawania mieszaniny racemicznej cytalopramu pacjentom z zaburzeniem czynności nerek (Clkr 10-53 ml/min) obserwowano dłuższy okres półtrwania oraz niewielkie zwiększenie ekspozycji. Nie badano stężeń metabolitów w osoczu, ale mogą być one zwiększone (patrz punkt 4.2). 14 Polimorfizm Zaobserwowano, że u osób wolno metabolizujących leki z udziałem izoenzymu CYP2C19, stężenie escytalopramu w osoczu było dwa razy większe niż u osób o szybkim metabolizmie. U osób z wolnym metabolizmem leków z udziałem izoenzymu CYP2D6 nie zaobserwowano istotnej zmiany ekspozycji (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Escitalopramum"
+    ],
+    "atc": [
+     "N06AB10"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "ApoEscitaxin ORO",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Escytalopram wchłania się nieomal całkowicie, niezależnie od spożycia pokarmu; średni czas do uzyskania maksymalnego stężenia (wartość Tmax) wynosi 4 godziny po podaniu dawki wielokrotnej. Należy się spodziewać, że bezwzględna biodostępność escytalopramu wyniesie około 80%, podobnie jak mieszaniny racemicznej cytalopramu. Dystrybucja Pozorna objętość dystrybucji (Vd, β/F) po podaniu doustnym wynosi około 12 do 26 l/kg mc. Escytalopram i jego główne metabolity wiążą się z białkami osocza w mniej niż 80%. Metabolizm Escytalopram jest metabolizowany w wątrobie do metabolitów demetylowanego oraz didemetylowanego. Obydwa metabolity są farmakologicznie czynne. Jest również możliwe, że azot utlenia się, tworząc metabolit w postaci N-tlenku. Zarówno lek macierzysty jak i metabolity są częściowo wydalane w postaci glukuronidów. Po wielokrotnym podaniu średnie stężenia metabolitu demetylowanego i didemetylowanego wynoszą zazwyczaj odpowiednio 28-31% i <5% stężenia escytalopramu. Biotransformacja escytalopramu do metabolitu demetylowanego zachodzi głównie z udziałem izoenzymu CYP2C19. Możliwy jest również pewien udział izoenzymów CYP3A4 oraz CYP2D6. Eliminacja Okres półtrwania wyznaczony w fazie eliminacji (t1/2 β) po wielokrotnym podaniu dawki wynosi około 30 godzin, a klirens osoczowy po podaniu doustnym (Cloral) wynosi około 0,6 l/min. Okres półtrwania głównych metabolitów jest znamiennie dłuższy. Zakłada się, że escytalopram i jego główne metabolity są eliminowane zarówno drogą wątrobową (metaboliczną) jak i nerkową, a zasadnicza część dawki wydalana jest w postaci metabolitów w moczu. Farmakokinetyka liniowa Farmakokinetyka ma charakter liniowy. Stan stacjonarny stężenia w osoczu osiągany jest po około tygodniu. Średnie stężenia w stanie stacjonarnym wynoszące 50 nmol/l (zakres od 20 do 125 nmol/l) osiągane są po podawaniu dawki dobowej wynoszącej 10 mg. Pacjenci w podeszłym wieku (> 65 lat) Wydaje się, że eliminacja escytalopramu zachodzi wolniej u pacjentów w podeszłym wieku niż u osób młodszych. Wartość pola pod krzywą zależności stężenia od czasu (AUC) jest o około 50 % większa u osób w podeszłym wieku w porównaniu z młodymi zdrowymi ochotnikami (patrz punkt 4.2). Zaburzenia czynności wątroby U pacjentów z łagodnymi lub umiarkowanymi zaburzeniami czynności wątroby (kryterium A i B według klasyfikacji Childa i Pugha) okres półtrwania escytalopramu był około dwa razy dłuższy, a ekspozycja około 60% większa niż u osób z prawidłową czynnością wątroby (patrz punkt 4.2). Zaburzenie czynności nerek Po podaniu racemicznego cytalopramu pacjentom z zaburzeniem czynności nerek (CLcr 10-53 ml/min) 15/17 obserwowano dłuższy okres półtrwania oraz niewielkie zwiększenie całkowitego wpływu leku na organizm. Nie badano stężeń w osoczu metabolitów, ale mogą być one zwiększone (patrz punkt 4.2). Polimorfizm Zaobserwowano, że u osób wolno metabolizujących produkty lecznicze przy udziale izoenzymu CYP2C19 stężenie escytalopramu w osoczu było dwa razy większe niż u osób o szybkim metabolizmie. U osób z wolniejszym metabolizmem produktów leczniczych przy udziale izoenzymu CYP2D6 nie zaobserwowano istotnej zmiany całkowitego wpływu leku na organizm (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki ulegające rozpadowi w jamie ustnej"
+    ],
+    "nazwa_powszechna": [
+     "Escitalopramum"
+    ],
+    "atc": [
+     "N06AB10"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Betesda",
@@ -71,7 +95,20 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Escytalopram wchłania się prawie całkowicie, niezależnie od spożycia pokarmu (średnia wartość Tmax wynosi 4 godziny po podaniu dawki wielokrotnej). Należy się spodziewać, że bezwzględna biodostępność escytalopramu wyniesie około 80%, podobnie jak racemicznego cytalopramu. Dystrybucja Pozorna objętość dystrybucji (Vd, β/F) po podaniu doustnym wynosi około 12 do 26 l/kg mc. Escytalopram i jego główne metabolity wiążą się z białkami osocza w mniej niż 80%. Metabolizm Escytalopram jest metabolizowany w wątrobie do metabolitów demetylowanych oraz didemetylowanych. Obydwa metabolity są farmakologicznie czynne. Jest również możliwe, że azot ulega utlenieniu, tworząc metabolit w postaci N-tlenku. Zarówno lek macierzysty, jak i metabolity, są częściowo wydalane w postaci glukuronidów. Po wielokrotnym podaniu dawki średnie stężenia metabolitu demetylowanego i didemetylowanego wynoszą zazwyczaj odpowiednio 28-31% i <5% stężenia escytalopramu. Biotransformacja escytalopramu do metabolitu demetylowanego zachodzi głównie z udziałem izoenzymu CYP2C19. Możliwy jest również pewien udział izoenzymów CYP3A4 oraz CYP2D6. Eliminacja Okres półtrwania wyznaczony w fazie eliminacji (t1/2β) po podaniu dawki wielokrotnej wynosi około 30 godzin, a klirens osoczowy po podaniu doustnym wynosi około 0,6 l/min. Okres półtrwania głównych metabolitów jest znamiennie dłuższy. Zakłada się, że escytalopram i główne metabolity są eliminowane zarówno drogą wątrobową (metaboliczną), jak i nerkową, a zasadnicza część dawki 13 wydalana jest w postaci metabolitów w moczu. Liniowość Farmakokinetyka ma charakter liniowy. Stan stacjonarny stężenia w osoczu osiągany jest po około tygodniu. Średnie stężenie w stanie stacjonarnym wynoszące 50 nmol/l (zakres 20 do 125 nmol/l) osiągane jest podczas podawania dawki dobowej wynoszącej 10 mg. Pacjenci w podeszłym wieku (powyżej 65 lat) Wydaje się, że eliminacja escytalopramu zachodzi wolniej u pacjentów w podeszłym wieku niż u młodszych. Wartość pola pod krzywą stężenie - czas (AUC) jest o około 50% większa u osób w podeszłym wieku w porównaniu z młodymi zdrowymi ochotnikami (patrz punkt 4.2). Zaburzenia czynności wątroby U pacjentów z łagodnymi lub umiarkowanymi zaburzeniami czynności wątroby (kryterium A i B według klasyfikacji Childa i Pugha) okres półtrwania escytalopramu był około dwa razy dłuższy, a ekspozycja około 60% większa niż u osób z prawidłową czynnością wątroby (patrz punkt 4.2). Zaburzenia czynności nerek Po podawaniu racemicznego cytalopramu u pacjentów z zaburzeniem czynności nerek (klirens kreatyniny 10-53 ml/min) obserwowano dłuższy okres półtrwania oraz niewielkie zwiększenie wartości pola pod krzywą stężenie-czas. Nie badano stężenia w osoczu metabolitów, ale może być ono zwiększone (patrz punkt 4.2). Polimorfizm Zaobserwowano, że u osób wolno metabolizujących przy udziale izoenzymu CYP2C19, stężenie escytalopramu w osoczu było dwa razy większe niż u osób o szybkim metabolizmie. U osób z wolniejszym metabolizmem przy udziale izoenzymu CYP2D6 nie zaobserwowano istotnej zmiany narażenia (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Krople doustne, roztwór",
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Escitalopramum"
+    ],
+    "atc": [
+     "N06AB10"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

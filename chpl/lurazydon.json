@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Lurazydon osiąga maksymalne stężenie w surowicy w ciągu 1-3 godzin. W badaniu oceniającym wpływ posiłku średnie wartości Cmax i AUC lurazydonu zwiększyły się, odpowiednio, 2-3 razy i 1,5-2 razy, gdy produkt podawano z posiłkiem w porównaniu do wartości obserwowanych po podawaniu na czczo. Dystrybucja Średnia przybliżona pozorna objętość dystrybucji po podaniu 37 mg lurazydonu wyniosła 6000 L. Lurazydon w wysokim stopniu (~99%) wiąże się z białkami osocza. Metabolizm Lurazydon jest metabolizowany głównie przez CYP3A4. Główne szlaki metabolizmu to N-dealkilacja oksydacyjna, hydroksylacja pierścienia norbornanowego oraz S-oksydacja. Lurazydon jest metabolizowany do dwóch aktywnych metabolitów (ID-14283 i ID-14326) oraz dwóch nieaktywnych metabolitów (ID-20219 i ID-20220). Lurazydon i jego metabolity ID-14283, ID-14326, ID- 20219 i ID-20220 odpowiadają w przybliżeniu za, odpowiednio, 11,4; 4,1; 0,4; 24 i 11% radioaktywności surowicy. CYP3A4 jest głównym enzymem odpowiedzialnym za rozkład aktywnego metabolitu ID-14283. 18 Zarówno lurazydon, jak i jego aktywny metabolit ID-14283, przyczyniają się do działania farmakodynamicznego wynikającego z ich wpływu na receptory dopaminergiczne i serotoninergiczne. Wyniki badań in vitro wskazują, że lurazydon nie jest substratem enzymów CYP1A1, CYP1A2, CYP2A6, CYP4A11, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 ani CYP2E1. Lurazydon in vitro nie wykazywał hamowania bezpośredniego ani słabego (bezpośredniego lub zależnego od czasu) (IC50>5,9 μM) aktywności enzymów cytochromu P450 (CYP)1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, i CYP3A4. W oparciu o te dane, nie przewiduje się wpływu lurazydonu na farmakokinetykę produktów leczniczych będących substratami CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 i CYP2E1. W przypadku stosowania produktów leczniczych, które są substratami CYP3A4 o wąskim indeksie terapeutycznym, patrz punkt "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Lurasidoni hydrochloridum"
+    ],
+    "atc": [
+     "N05AE05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Alurazen",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Lurazydon osiąga maksymalne stężenie w surowicy w ciągu 1-3 godzin. W badaniu oceniającym wpływ posiłku średnie wartości Cmax i AUC lurazydonu zwiększyły się, odpowiednio, 2-3 razy i 1,5-2 razy, gdy produkt podawano z posiłkiem w porównaniu do wartości obserwowanych po podawaniu na czczo. Dystrybucja Średnia przybliżona pozorna objętość dystrybucji po podaniu 37 mg lurazydonu wyniosła 6000 L. Lurazydon w dużym stopniu (~99%) wiąże się z białkami osocza. Metabolizm Lurazydon jest metabolizowany głównie przez CYP3A4. Główne szlaki metabolizmu to N-dealkilacja oksydacyjna, hydroksylacja pierścienia norbornanowego oraz S-oksydacja. Lurazydon jest metabolizowany do dwóch aktywnych metabolitów (ID-14283 i ID-14326) oraz dwóch nieaktywnych metabolitów (ID-20219 i ID-20220). Lurazydon i jego metabolity ID-14283, ID-14326, ID- 20219 i ID-20220 odpowiadają w przybliżeniu za, odpowiednio, 11,4; 4,1; 0,4; 24 i 11% radioaktywności surowicy. CYP3A4 jest głównym enzymem odpowiedzialnym za rozkład aktywnego metabolitu ID-14283. Zarówno lurazydon, jak i jego aktywny metabolit ID-14283, przyczyniają się do działania farmakodynamicznego wynikającego z ich wpływu na receptory dopaminergiczne i serotoninergiczne. Wyniki badań in vitro wskazują, że lurazydon nie jest substratem enzymów CYP1A1, CYP1A2, CYP2A6, CYP4A11, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 ani CYP2E1. Lurazydon in vitro nie wykazywał hamowania bezpośredniego ani słabego (bezpośredniego lub zależnego od czasu) (IC50>5,9 μM) aktywności enzymów cytochromu P450 (CYP)1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, i CYP3A4. W oparciu o te dane, nie przewiduje się wpływu lurazydonu na farmakokinetykę produktów leczniczych będących substratami CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 i CYP2E1. W przypadku stosowania produktów leczniczych, które są substratami CYP3A4 o wąskim indeksie terapeutycznym, patrz punkt 4.5. 19 NR_07.11.2022 28.06.2024 WZ_29.07.2025 16.10.2025 08.12.2025 v11 Lurazydon jest in vitro substratem nośników P-gp i BCRP. Lurazydon nie podlega czynnemu transportowi przez OATP1B1 ani OATP1B3. Lurazydon jest in vitro inhibitorem P-gp, BCRP i OCT1 (patrz punkt 4.5). Na podstawie badań in vitro nie oczekuje się, aby lurazydon wywierał klinicznie istotne działanie hamujące na nośniki OATP1B1, OATP1B3, OCT2, OAT1, OAT3, MATE1, MATE2K lub BSEP. Eliminacja Okres półtrwania w fazie eliminacji po podaniu lurazydonu wynosi 20-40 godzin. Po doustnym podaniu dawki znakowanej radioizotopem, około 67% dawki odzyskano ze stolca, a 19% z moczu. W moczu znajdowały się głównie różne metabolity; wydalenie związku macierzystego przez nerki było minimalne. Liniowość lub nieliniowość Farmakokinetyka lurazydonu jest proporcjonalna do dawki w zakresie całkowitej dawki dobowej od 18,5 mg do 148 mg. Stężenie stanu równowagi osiągane jest w ciągu 7 dni od rozpoczęcia podawania lurazydonu. Farmakokinetyka w szczególnych grupach pacjentów Osoby w podeszłym wieku Dostępne są tylko ograniczone dane dotyczące zdrowych ochotników w wieku ≥65 lat. Zebrane dane wskazują, że ekspozycja jest podobna do występującej u osób w wieku <65 lat. Jednakże można oczekiwać zwiększenia ekspozycji u pacjentów w podeszłym wieku z zaburzeniami czynności nerek lub wątroby. Pacjenci z zaburzeniami czynności wątroby Stężenie lurazydonu w surowicy jest zwiększone u zdrowych ochotników z zaburzeniami czynności wątroby klasy A, B lub C wg Childa-Pugha, z ekspozycją zwiększoną, odpowiednio, 1,5-, 1,7- i 3-krotnie. Pacjenci z zaburzeniami czynności nerek Stężenie lurazydonu w surowicy jest zwiększone u zdrowych ochotników z łagodnymi, umiarkowanymi lub ciężkimi zaburzeniami czynności nerek, z ekspozycją zwiększoną, odpowiednio, 1,5-, 1,9- i 2,0-krotnie. Nie oceniano osób ze schyłkową niewydolnością nerek (CrCl <15 mL/min). Płeć Nie stwierdzono klinicznie istotnych różnic pomiędzy płciami w zakresie farmakokinetyki lurazydonu w analizie farmakokinetyki populacyjnej pacjentów ze schizofrenią. Rasa Nie stwierdzono klinicznie istotnych różnic w zakresie farmakokinetyki lurazydonu w analizie farmakokinetyki populacyjnej pacjentów ze schizofrenią. Stwierdzono, że u pacjentów pochodzenia azjatyckiego ekspozycja na lurazydon jest 1,5-większa, niż u pacjentów rasy białej. Palenie tytoniu Wyniki badań in vitro z użyciem ludzkich enzymów wątrobowych wskazują, że lurazydon nie jest substratem CYP1A2; w związku z tym palenie tytoniu nie powinno mieć wpływu na farmakokinetykę lurazydonu. Dzieci i młodzież Farmakokinetykę lurazydonu u dzieci i młodzieży oceniono w grupie dzieci w wieku 6-12 lat liczącej 47 osób oraz w grupie młodzieży w wieku 13-17 lat liczącej 234 osoby. Lurazydon podawano w postaci lurazydonu chlorowodorku w dawkach dobowych wynoszących 20, 40, 80, 120 mg (6-17 lat) lub 160 mg (tylko w grupie 10-17 lat) do 42 dni. Nie stwierdzono wyraźnego związku pomiędzy uzyskanym stężeniem w surowicy krwi a wiekiem czy masą ciała. U dzieci i młodzieży w wieku 6-17 lat farmakokinetyka lurazydonu jest zasadniczo porównywalna do stwierdzanej u dorosłych. 20 NR_07.11.2022 28.06.2024 WZ_29.07.2025 16.10.2025 08.12.2025 v11 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Lurasidonum"
+    ],
+    "atc": [
+     "N05AE05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Asil",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Lurazydon osiąga maksymalne stężenie w surowicy w ciągu 1-3 godzin. W badaniu oceniającym wpływ posiłku średnie wartości Cmax i AUC lurazydonu zwiększyły się, odpowiednio, 2-3 razy i 1,5-2 razy, gdy produkt podawano z posiłkiem w porównaniu do wartości obserwowanych po podawaniu na czczo. Dystrybucja Średnia przybliżona pozorna objętość dystrybucji po podaniu 37 mg lurazydonu wyniosła 6000 l. Lurazydon w wysokim stopniu (~99%) wiąże się z białkami osocza. Metabolizm Lurazydon jest metabolizowany głównie przez CYP3A4. Główne szlaki metabolizmu to N-dealkilacja oksydacyjna, hydroksylacja pierścienia norbornanowego oraz S-oksydacja. Lurazydon jest metabolizowany do dwóch aktywnych metabolitów (ID-14283 i ID-14326) oraz dwóch nieaktywnych metabolitów (ID-20219 i ID-20220). Lurazydon i jego metabolity ID-14283, ID- 14326, ID-20219 i ID-20220 odpowiadają w przybliżeniu za, odpowiednio, 11,4; 4,1; 0,4; 24 i 11% radioaktywności surowicy. CYP3A4 jest głównym enzymem odpowiedzialnym za rozkład aktywnego metabolitu ID-14283. Zarówno lurazydon, jak i jego aktywny metabolit ID-14283, przyczyniają się do działania farmakodynamicznego wynikającego z ich wpływu na receptory dopaminergiczne i serotoninergiczne. 18 Wyniki badań in vitro wskazują, że lurazydon nie jest substratem enzymów CYP1A1, CYP1A2, CYP2A6, CYP4A11, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 ani CYP2E1. Lurazydon in vitro nie wykazywał hamowania bezpośredniego ani słabego (bezpośredniego lub zależnego od czasu) (IC50>5,9 μM) aktywności enzymów cytochromu P450 (CYP)1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, i CYP3A4. W oparciu o te dane, nie przewiduje się wpływu lurazydonu na farmakokinetykę produktów leczniczych będących substratami CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 i CYP2E1. W przypadku stosowania produktów leczniczych, które są substratami CYP3A4 o wąskim indeksie terapeutycznym, patrz punkt "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Lurasidonum"
+    ],
+    "atc": [
+     "N05AE05"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

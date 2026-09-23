@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Buspiron szybko wchłania się po podaniu doustnym. Dystrybucja Maksymalne stężenia w osoczu występują po 60-90 minutach od podania. Po wielokrotnym podaniu stężenia w osoczu w stanie stacjonarnym występują w ciągu 2 dni leczenia. Metabolizm Buspiron w 95% wiąże się z białkami osocza. Następnie w dużym stopniu ulega metabolizmowi pierwszego przejścia w wątrobie. Eliminacja Buspiron jest wydalany głównie w wyniku metabolizmu w wątrobie. W badaniach farmakokinetyki średni okres półtrwania wynosił od 2 do 11 godzin. Liniowość/nieliniowość Stężenie w osoczu jest liniowo zależne od dawki. Dzieci i młodzież W stanie stacjonarnym, następujące dawki buspironu u dzieci w wieku 6-12 lat powodowały zwiększenie Cmax (stężenie maksymalne) i AUC (pole powierzchni pod krzywą) w porównaniu z dorosłymi, jak przedstawiono w tabeli: Dawka Cmax AUC 7,5 mg dwa razy 2,9-krotnie 1,8-krotnie dziennie 15 mg dwa razy 2,1-krotnie 1,5-krotnie dziennie W całym badanym zakresie dawek, Cmax i AUC 1-PP (aktywnego metabolitu buspironu, 1- pirymidynylopiperazyny) u dzieci były w przybliżeniu dwukrotnie większe niż u dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki"
+    ],
+    "nazwa_powszechna": [
+     "Buspironi hydrochloridum"
+    ],
+    "atc": [
+     "N05BE01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

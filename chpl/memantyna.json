@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Bezwzględna biodostępność memantyny wynosi około 100%. tmax występuje między 3 a 8 godziną od przyjęcia leku. Nie ma danych, które wskazywałyby na to, iż pokarm ma wpływ na wchłanianie memantyny. Dystrybucja Podawanie memantyny w dawkach dobowych 20 mg prowadzi do osiągnięcia stanu równowagi stężeń w osoczu w przedziale od 70 ng/ml do 150 ng/ml (0,5-1 μmol), przy dużej zmienności osobniczej. W przypadku podawania memantyny w dawkach dobowych od 5 mg do 30 mg, obliczona średnia wartość współczynnika rozdziału płyn mózgowo-rdzeniowy / osocze wyniosła 0,52. Objętość dystrybucji wynosi około 10 l/kg. Memantyna wiąże się z białkami osocza w około 45%. Metabolizm U człowieka około 80% memantyny występuje w krążeniu w postaci nie zmienionej. Głównymi metabolitami u człowieka są N-3,5-dimetylogludantan, mieszanina izomerów 4- i 6-hydroksymemantyny i 1-nitrozo-3,5-dimetyloadamantan. Metabolity te nie wykazują działania antagonistycznego w stosunku do NMDA. W badaniach in vitro nie stwierdzono udziału układu enzymatycznego cytochromu P 450 w przemianach metabolicznych. W badaniu z użyciem podawanej doustnie, znakowanej 14C memantyny, odzyskano średnio 84% podanej dawki w ciągu 20 dni, z czego ponad 99% wydalone zostało przez nerki. Eliminacja Eliminacja memantyny jest procesem jednowykładniczym, a końcowy t1/2 wynosi od 60 do 100 godzin. U ochotników z prawidłową czynnością nerek, całkowity klirens memantyny (Cltot) wynosi 170 ml/min/1,73 m2. Klirens nerkowy jest po części efektem wydalania kanalikowego. W nerkach zachodzi również proces wchłaniania zwrotnego z kanalików, prawdopodobnie przy udziale białek uczestniczących w transporcie kationów. W przypadku alkalizacji moczu szybkość wydalania memantyny przez nerki może ulec 7-9-krotnemu zwolnieniu (patrz punkt 4.4). Do alkalizacji moczu może dojść w następstwie drastycznych zmian diety, np. zmiany diety mięsnej na wegetariańską lub przyjmowania dużych ilości leków alkalizujących treść żołądkową. Liniowość Badania u ochotników wykazały liniową farmakokinetykę memantyny w zakresie dawek od 10 mg do 40 mg. Zależności farmakokinetyczne/farmakodynamiczne W przypadku podawania memantyny w dawce dobowej wynoszącej 20 mg, stężenie leku w płynie mózgowo-rdzeniowym osiąga wartość ki (ki = stała hamowania), która w korze płatów czołowych ludzkiego mózgu ma dla memantyny wartość 0,5 µmol. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Memantini hydrochloridum"
+    ],
+    "atc": [
+     "N06DX01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Biomentin",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie: Bezwzględna biodostępność memantyny wynosi ok. 100%, a tmax występuje między 3 a 8 godziną od przyjęcia leku. Nie ma danych, które sugerowałyby, że pokarm wpływa na wchłanianie memantyny. Dystrybucja: Podawanie memantyny w dawkach dobowych 20 mg prowadzi do osiągnięcia stanu równowagi stężeń w osoczu w przedziale od 70 ng/ml do 150 ng/ml (0,5 – 1 μmol), przy dużej zmienności osobniczej. Po dawkach dobowych memantyny od 5 mg do 30 mg, obliczona średnia wartość współczynnika rozdziału płyn mózgowo-rdzeniowy/osocze wyniosła 0,52. Objętość dystrybucji wynosi ok. 10 l/kg. Memantyna wiąże się z białkami osocza w ok. 45%. Metabolizm: W organizmie człowieka ok. 80% memantyny występuje w krążeniu w postaci niezmienionej. Głównymi metabolitami u człowieka są N-3,5-dimetylogludantan, mieszanina izomerów 4- i 6-hydroksymemantyny oraz 1-nitrozo-3,5-dimetyloadamantan. Metabolity te nie wykazują działania antagonistycznego względem receptorów NMDA. W badaniach in vitro nie stwierdzono udziału układu enzymatycznego cytochromu P450 w przemianach metabolicznych. W badaniu z użyciem doustnie podawanej memantyny znakowanej 14C odzyskano średnio 84% podanej dawki w ciągu 20 dni, z czego ponad 99% zostało wydalone przez nerki. Eliminacja: Eliminacja memantyny z organizmu jest procesem jednowykładniczym, a końcowy t½ wynosi od 60 do 100 godzin. U ochotników z prawidłową czynnością nerek, całkowity klirens memantyny (Cltot) wynosi 170 ml/min/1,73 m2. Klirens nerkowy jest po części wynikiem wydalania kanalikowego. W nerkach zachodzi również proces wchłaniania zwrotnego z kanalików, prawdopodobnie przy udziale białek uczestniczących w transporcie kationów. W przypadku alkalizacji moczu szybkość wydalania memantyny przez nerki może ulec 7-9-krotnemu zmniejszeniu (patrz punkt 4.4). 7 Alkalizacja moczu może być skutkiem radykalnych zmian w sposobie odżywiania, np. zmiany diety mięsnej na wegetariańską lub przyjmowania dużych ilości leków alkalizujących treść żołądkową. Liniowość lub nieliniowość: Badania przeprowadzone w grupie ochotników wykazały liniową farmakokinetykę memantyny w zakresie dawek od 10 mg do 40 mg. Zależności farmakokinetyczno-farmakodynamiczne: Po podaniu memantyny w dawce dobowej 20 mg, stężenie leku w płynie mózgowo-rdzeniowym osiąga wartość ki (ki = stała hamowania), która w korze płatów czołowych mózgu ludzkiego ma dla memantyny wartość 0,5 μmol. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Memantini hydrochloridum"
+    ],
+    "atc": [
+     "N06DX01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Cognomem",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Bezwzględna biodostępność memantyny wynosi około 100%. tmax występuje między 3. a 8. godziną od przyjęcia produktu leczniczego. Nie ma danych, które wskazywałyby na wpływ pokarmu na wchłanianie memantyny. Dystrybucja Podawanie memantyny w dawkach dobowych 20 mg prowadzi do osiągnięcia stanu równowagi stężeń w osoczu w przedziale od 70 ng/ml do 150 ng/ml (0,5-1 μmol), przy dużej zmienności osobniczej. W przypadku 7 podawania memantyny w dawkach dobowych od 5 mg do 30 mg, obliczona średnia wartość współczynnika rozdziału płyn mózgowo-rdzeniowy/osocze wyniosła 0,52. Objętość dystrybucji wynosi około 10 l/kg mc. Memantyna wiąże się z białkami osocza w około 45%. Metabolizm U ludzi, około 80% memantyny występuje w krążeniu w postaci niezmienionej. Głównymi metabolitami u ludzi są N-3,5-dimetylogludantan, mieszanina izomerów 4- i 6-hydroksymemantyny i 1-nitrozo-3,5-dimetyloadamantan. Metabolity te nie wykazują działania antagonistycznego w stosunku do NMDA. W badaniach in vitro nie stwierdzono udziału układu enzymatycznego cytochromu P 450 w przemianach metabolicznych. W badaniu z użyciem podawanej doustnie, znakowanej 14C memantyny, odzyskano średnio 84% podanej dawki w ciągu 20 dni, z czego ponad 99% wydalone zostało przez nerki. Eliminacja Eliminacja memantyny jest procesem jednowykładniczym, a końcowy t1/2 wynosi od 60 do 100 godzin. U ochotników z prawidłową czynnością nerek, całkowity klirens memantyny (Cltot) wynosi 170 ml/min/1,73 m2 pc., a klirens nerkowy jest po części efektem wydalania kanalikowego. W nerkach zachodzi również proces wchłaniania zwrotnego z kanalików, prawdopodobnie przy udziale białek uczestniczących w transporcie kationów. W przypadku alkalizacji moczu szybkość wydalania memantyny przez nerki może ulec 7-9-krotnemu zwolnieniu (patrz punkt 4.4). Do alkalizacji moczu może dojść w następstwie drastycznych zmian diety, np. zmiany diety mięsnej na wegetariańską lub przyjmowania dużych ilości produktów leczniczych alkalizujących treść żołądkową. Liniowość lub nieliniowość Badania u ochotników wykazały liniową farmakokinetykę memantyny w zakresie dawek od 10 mg do 40 mg. Zależności farmakokinetyczno-farmakodynamiczne Po podawaniu memantyny w dawce dobowej 20 mg, stężenie produktu leczniczego w płynie mózgowo- rdzeniowym osiąga wartość ki (ki = stała hamowania), która w korze płatów czołowych ludzkiego mózgu ma dla memantyny wartość 0,5 μmol. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Memantini hydrochloridum"
+    ],
+    "atc": [
+     "N06DX01"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

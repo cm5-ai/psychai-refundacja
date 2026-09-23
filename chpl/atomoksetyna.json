@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Farmakokinetyka atomoksetyny u dzieci i młodzieży jest podobna jak u dorosłych. Farmakokinetyka atomoksetyny u dzieci w wieku poniżej 6 lat nie została zbadana. Badania farmakokinetyki wykazały, że kapsułki atomoksetyny i roztwór doustny są biorównoważne. Wchłanianie 17 Atomoksetyna jest szybko i niemal całkowicie wchłaniana po podaniu doustnym i osiąga średnie maksymalne stężenie w osoczu (Cmax) po około 1 lub 2 godzinach po podaniu leku. Bezwzględna dostępność biologiczna atomoksetyny po podaniu doustnym wynosiła od 63% do 94%, w zależności od zmienności osobniczej przy umiarkowanym metabolizmie pierwszego przejścia. Atomoksetyna może być podawana niezależnie od posiłków. Dystrybucja Atomoksetyna jest dystrybuowana w całym organizmie oraz w znacznym stopniu (98%) wiąże się z białkami osocza, przede wszystkim z albuminą. Metabolizm Atomoksetyna ulega biotransformacji głównie za pośrednictwem ścieżki enzymatycznej cytochromu P450 2D6 (CYP2D6). Osoby, u których aktywność tej ścieżki enzymatycznej jest zmniejszona (osoby wolno metabolizujące), stanowią około 7% populacji rasy kaukaskiej. U tych osób stężenie atomoksetyny w osoczu jest większe niż u osób, u których ścieżka enzymatyczna wykazuje prawidłową aktywność (osoby intensywnie metabolizujące). U osób wolno metabolizujących, pole pod krzywą AUC atomoksetyny jest około 10 razy większe, a stężenie maksymalne w stanie równowagi (Css, max) około 5 razy większe niż u osób intensywnie metabolizujących. Głównym metabolitem oksydacyjnym jest 4-hydroksyatomoksetyna, która ulega szybkiej glukuronizacji. 4- hydroksyatomoksetyna wykazuje taką samą aktywność jak atomoksetyna, lecz występuje w osoczu w znacznie mniejszych stężeniach. Chociaż 4-hydroksyatomoksetyna powstaje głównie w wyniku aktywności enzymów CYP2D6, u osób, u których enzymy CYP2D6 są nieaktywne, 4-hydroksyatomoksetyna może powstawać w wyniku aktywności innych enzymów cytochromu P450, lecz w wolniejszym tempie. W dawkach leczniczych atomoksetyna nie działa hamująco ani pobudzająco na CYP2D6. Enzymy cytochromu P450: atomoksetyna nie powoduje istotnego klinicznie hamowania ani indukcji enzymów cytochromu P450, w tym CYP1A2, CYP3A, CYP2D6 i CYP2C9. Eliminacja Średni okres półtrwania w fazie eliminacji atomoksetyny po podaniu doustnym wynosi 3,6 godziny u osób intensywnie metabolizujących oraz 21 godzin u osób wolno metabolizujących. Atomoksetyna jest wydalana głównie w postaci O-glukuronianu 4-hydroksyatomoksetyny, przede wszystkim w moczu. Liniowość lub nieliniowość Farmakokinetyka atomoksetyny jest liniowa w zakresie dawek badanych zarówno u osób intensywnie, jak i wolno metabolizujących. Specjalne grupy pacjentów Zaburzenie czynności wątroby powoduje zmniejszenie klirensu atomoksetyny, zwiększenie ekspozycji na atomoksetynę [dwukrotne zwiększenie pola pod krzywą (AUC) w przypadku umiarkowanego zaburzenia czynności wątroby i czterokrotne zwiększenie AUC w przypadku ciężkiego zaburzenia czynności wątroby] oraz wydłużenie okresu półtrwania leku macierzystego w porównaniu z grupą kontrolną osób zdrowych o tym samym genotypie, który warunkuje intensywną aktywność enzymu CYP2D6. U pacjentów z umiarkowanymi do ciężkich zaburzeniami czynności wątroby (klasa B i C wg klasyfikacji Childa-Pugha), należy dostosować dawkę początkową i dawkę docelową leku (patrz punkt 4.2). Średnie stężenie atomoksetyny w osoczu u pacjentów ze schyłkową niewydolnością nerek było na ogół większe niż u osób zdrowych z grupy kontrolnej, na co wskazuje zwiększenie wartości Cmax (różnica 7%) i AUC0-∞ (różnica około 65%). Różnice pomiędzy tymi dwiema grupami po skorygowaniu pod względem masy ciała są mniejsze. Farmakokinetyka atomoksetyny i jej metabolitów u osób ze schyłkową niewydolnością nerek wykazała, że nie jest konieczne dostosowywanie dawki leku (patrz punkt 4.2). 18 "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Atomoxetinum"
+    ],
+    "atc": [
+     "N06BA09"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Atomoksetyna Medice",
@@ -51,7 +63,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Farmakokinetyka atomoksetyny u dzieci i młodzieży jest podobna jak u dorosłych. Farmakokinetyka atomoksetyny u dzieci w wieku poniżej sześciu lat nie została zbadana. Wchłanianie: Atomoksetyna jest szybko i niemal całkowicie wchłaniana po podaniu doustnym i osiąga średnie maksymalne stężenie w osoczu (Cmax) po około 1 lub 2 godzinach po podaniu leku. Bezwzględna dostępność biologiczna atomoksetyny po podaniu doustnym wynosiła od 63% do 94%, w zależności od zmienności osobniczej w umiarkowanym metabolizmie pierwszego przejścia. Atomoksetyna może być podawana niezależnie od posiłków. Dystrybucja: Atomoksetyna jest dystrybuowana w całym organizmie oraz w znacznym stopniu (98%) wiąże się z białkami osocza, przede wszystkim z albuminą. Metabolizm: Atomoksetyna ulega biotransformacji głównie za pośrednictwem szlaku enzymatycznego cytochromu P450 2D6 (CYP2D6). Osoby, u których aktywność tego szlaku enzymatycznego jest zmniejszona (osoby wolno metabolizujące), stanowią około 7% populacji rasy białej. U tych osób stężenie atomoksetyny w osoczu jest większe niż u osób, u których szlak enzymatyczny wykazuje prawidłową aktywność (osoby intensywnie metabolizujące). U osób wolno metabolizujących pole pod krzywą AUC atomoksetyny jest około 10 razy większe, a stężenie maksymalne w stanie równowagi (Css, max) około 5 razy większe niż u osób intensywnie metabolizujących. Głównym metabolitem oksydacyjnym jest 4-hydroksyatomoksetyna, która ulega szybkiej glukuronizacji. 4- hydroksyatomoksetyna wykazuje taką samą aktywność jak atomoksetyna, lecz występuje w osoczu w znacznie mniejszych stężeniach. Chociaż 4-hydroksyatomoksetyna powstaje głównie w wyniku aktywności enzymów CYP2D6, u osób, u których enzymy CYP2D6 są nieaktywne, 4- 18 hydroksyatomoksetyna może powstawać w wyniku aktywności innych enzymów cytochromu P450, lecz w wolniejszym tempie. W dawkach leczniczych atomoksetyna nie działa hamująco ani pobudzająco na CYP2D6. Enzymy cytochromu P450: atomoksetyna nie powoduje istotnego klinicznie hamowania ani indukcji enzymów cytochromu P450, w tym CYP1A2, CYP3A, CYP2D6 i CYP2C9. Eliminacja: Średni okres półtrwania w fazie eliminacji atomoksetyny po podaniu doustnym wynosi 3,6 godziny u osób intensywnie metabolizujących oraz 21 godzin u osób wolno metabolizujących. Atomoksetyna jest wydalana głównie w postaci O-glukuronianu 4-hydroksyatomoksetyny, przede wszystkim w moczu. Liniowość/nieliniowość: farmakokinetyka atomoksetyny jest liniowa w zakresie dawek badanych zarówno u osób intensywnie, jak i wolno metabolizujących. Specjalne populacje pacjentów: Zaburzenie czynności wątroby powoduje zmniejszenie klirensu atomoksetyny, zwiększenie ekspozycji na atomoksetynę [dwukrotne zwiększenie pola pod krzywą (AUC) w przypadku umiarkowanego zaburzenia czynności wątroby i czterokrotne zwiększenie AUC w przypadku ciężkiego zaburzenia czynności wątroby] oraz wydłużenie okresu półtrwania leku macierzystego w porównaniu z grupą kontrolną osób zdrowych o tym samym genotypie, który warunkuje intensywną aktywność enzymu CYP2D6. U pacjentów z umiarkowanym lub ciężkim zaburzeniem czynności wątroby (klasa B i C wg klasyfikacji Childa-Pugha) należy dostosować dawkę początkową i dawkę docelową leku (patrz punkt 4.2). Średnie stężenie atomoksetyny w osoczu u pacjentów ze schyłkową niewydolnością nerek było na ogół większe niż u osób zdrowych z grupy kontrolnej, na co wskazuje zwiększenie wartości C max (różnica7%) i AUC0-∞ (różnica około 65%). Różnice pomiędzy tymi dwiema grupami po skorygowaniu pod względem masy ciała są mniejsze. Farmakokinetyka atomoksetyny i jej metabolitów u osób ze schyłkową niewydolnością nerek wykazała, że nie jest konieczne dostosowywanie dawki leku (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Atomoxetinum"
+    ],
+    "atc": [
+     "N06BA09"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   },
   {
    "nazwa": "Auroxetyn",
@@ -71,7 +95,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Farmakokinetyka atomoksetyny u dzieci i młodzieży jest podobna jak u dorosłych. Farmakokinetyka atomoksetyny u dzieci w wieku poniżej 6 roku lat nie została zbadana. Badania farmakokinetyczne wykazały biorównoważność atomoksetyny w postaci kapsułek i roztworu doustnego. Wchłanianie Atomoksetyna jest szybko i niemal całkowicie wchłaniana po podaniu doustnym i osiąga średnie maksymalne stężenie w osoczu (Cmax) po około 1 lub 2 godzinach po podaniu leku. Bezwzględna dostępność biologiczna atomoksetyny po podaniu doustnym wynosiła od 63% do 94%, w zależności od zmienności osobniczej w umiarkowanym metabolizmie pierwszego przejścia. Atomoksetyna może być podawana niezależnie od posiłków. Dystrybucja Atomoksetyna jest dystrybuowana w całym organizmie oraz w znacznym stopniu (98%) wiąże się z białkami osocza, przede wszystkim z albuminą. Metabolizm Atomoksetyna ulega biotransformacji głównie za pośrednictwem ścieżki enzymatycznej cytochromu P450 2D6 (CYP2D6). Osoby, u których aktywność tej ścieżki enzymatycznej jest zmniejszona (osoby wolno metabolizujące), stanowią około 7% populacji rasy kaukaskiej. U tych osób stężenie atomoksetyny w osoczu jest większe niż u osób, u których ścieżka enzymatyczna wykazuje prawidłową aktywność (osoby intensywnie metabolizujące). U osób wolno metabolizujących pole pod krzywą AUC atomoksetyny jest około 10 razy większe, a stężenie maksymalne w stanie równowagi (Css, max) około 5 razy większe niż u osób intensywnie metabolizujących. Głównym metabolitem oksydacyjnym jest 4-hydroksyatomoksetyna, która ulega szybkiej glukuronizacji. 4- hydroksyatomoksetyna wykazuje taką samą moc jak atomoksetyna, lecz występuje w osoczu w znacznie mniejszych stężeniach. Chociaż 4-hydroksyatomoksetyna powstaje głównie przy udziale enzymów CYP2D6, u osób, u których enzymy CYP2D6 są nieaktywne, 4-hydroksyatomoksetyna może powstawać w wyniku aktywności innych enzymów cytochromu P450, lecz w wolniejszym tempie. W dawkach leczniczych atomoksetyna nie działa hamująco ani pobudzająco na CYP2D6. Enzymy cytochromu P450: atomoksetyna nie powoduje istotnego klinicznie hamowania ani indukcji enzymów cytochromu P450, w tym CYP1A2, CYP3A, CYP2D6 i CYP2C9. Eliminacja Średni okres półtrwania w fazie eliminacji atomoksetyny po podaniu doustnym wynosi 3,6 godziny u osób intensywnie metabolizujących oraz 21 godzin u osób wolno metabolizujących. Atomoksetyna jest wydalana głównie w postaci O-glukuronianu 4-hydroksyatomoksetyny, przede wszystkim w moczu. Liniowość/nieliniowość: Farmakokinetyka atomoksetyny jest liniowa w zakresie dawek badanych zarówno u osób intensywnie, jak i wolno metabolizujących. Populacje szczególne Zaburzenie czynności wątroby powoduje zmniejszenie klirensu atomoksetyny, zwiększenie ekspozycji na atomoksetynę [dwukrotne zwiększenie pola pod krzywą (AUC) w przypadku umiarkowanego 18 zaburzenia czynności wątroby i czterokrotne zwiększenie AUC w przypadku ciężkiego zaburzenia czynności wątroby] oraz wydłużenie okresu półtrwania leku macierzystego w porównaniu z grupą kontrolną osób zdrowych o tym samym genotypie, który warunkuje intensywną aktywność enzymu CYP2D6. U pacjentów z umiarkowanym lub ciężkim zaburzeniem czynności wątroby (klasa B i C wg klasyfikacji Child-Pugh) należy dostosować dawkę początkową i dawkę docelową leku (patrz punkt 4.2). Średnie stężenie atomoksetyny w osoczu u pacjentów z krańcową niewydolnością nerek było na ogół większe niż u osób zdrowych z grupy kontrolnej, na co wskazuje zwiększenie wartości Cmax (różnica 7%) i AUC0-∞ (różnica około 65%). Różnice pomiędzy tymi dwiema grupami skorygowane pod względem masy ciała uległy zmniejszeniu. Farmakokinetyka atomoksetyny i jej metabolitów u osób z krańcową niewydolnością nerek wykazała, że nie jest konieczne dostosowywanie dawki leku (patrz punkt 4.2). "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "nazwa_powszechna": [
+     "Atomoxetinum"
+    ],
+    "atc": [
+     "N06BA09"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }

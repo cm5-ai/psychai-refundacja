@@ -31,7 +31,19 @@
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Fluwoksamina wchłania się całkowicie po podaniu doustnym. Maksymalne stężenia w osoczu występują w ciągu 3-8 godzin po podaniu. Średnia całkowita biodostępność wynosi 53% z uwagi na procesy metaboliczne podczas pierwszego przejścia przez wątrobę. Jednoczesne spożycie pokarmu nie wpływa na farmakokinetykę fluwoksaminy. Dystrybucja Wiązanie fluwoksaminy z białkami osocza w warunkach in vitro wynosi 80%. Objętość dystrybucji u ludzi wynosi 25 l/kg. Metabolizm Fluwoksamina jest w znacznym stopniu metabolizowana w wątrobie. Chociaż w warunkach in vitro głównym izoenzymem odpowiadającym za metabolizm fluwoksaminy jest CYP2D6, to jednak stężenia w osoczu u osób, u których tempo metabolizmu z udziałem CYP2D6 jest powolne, są niewiele większe niż u osób charakteryzujących się intensywnym metabolizmem. Średni okres półtrwania w osoczu wynosi około 13-15 godzin po podaniu pojedynczej dawki i jest nieco dłuższy (17-22 godzin) w przypadku wielokrotnego dawkowania. Na ogół stężenia w osoczu osiągają stan stacjonarny w ciągu 10-14 dni. Fluwoksamina ulega intensywnej biotransformacji w wątrobie, głównie poprzez oksydacyjną demetylację. W wyniku tego powstaje co najmniej dziewięć metabolitów, które są wydalane przez nerki. Dwa główne metabolity wykazują minimalną aktywność farmakologiczną. Nie jest spodziewana aktywność farmakologiczna pozostałych metabolitów. Fluwoksamina jest silnym inhibitorem CYP1A2 i CYP2C19. Wykazuje umiarkowanie silną inhibicję CYP2C9, CYP2D6 i CYP3A4. 11 Fluwoksamina wykazuje liniową farmakokinetykę po podaniu pojedynczej dawki. Stężenia w stanie równowagi są większe niż stężenia wyliczone na podstawie danych dotyczących pojedynczej dawki i nieproporcjonalnie rosną po podaniu większych dawek dobowych. Szczególne grupy pacjentów Farmakokinetyka fluwoksaminy jest podobna u zdrowych osób dorosłych, osób w podeszłym wieku i pacjentów z niewydolnością nerek. Metabolizm fluwoksaminy jest zaburzony u pacjentów z chorobami wątroby. Stężenia fluwoksaminy w osoczu w stanie równowagi były dwukrotnie większe u dzieci (w wieku 6- 11 lat) niż u młodzieży (w wieku 12-17 lat). Stężenia w osoczu u młodzieży są zbliżone do wartości występujących u dorosłych. "
    },
    "punkty_uciete": [],
-   "punkty_nieznalezione": []
+   "punkty_nieznalezione": [],
+   "klucz_rpl": {
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "nazwa_powszechna": [
+     "Fluvoxamini maleas"
+    ],
+    "atc": [
+     "N06AB08"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   }
   }
  ]
 }
