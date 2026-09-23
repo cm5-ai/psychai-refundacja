@@ -44,6 +44,15 @@
      "N05BA06"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.8": {
+     "znakow": 157,
+     "typowo_dla_tego_punktu": 4718,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
    }
   },
   {
@@ -108,6 +117,15 @@
      "N05BA06"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 229,
+     "typowo_dla_tego_punktu": 6529,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
    }
   }
  ]
