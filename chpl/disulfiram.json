@@ -1,25 +1,53 @@
 {
- "substancja": "disulfiram",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Anticol",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [
+     "4.8"
+    ],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.4",
+     "4.5"
+    ]
+   },
+   "NAGLOWEK_NIEZGODNY": {
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "punkty": [
+     "4.8"
+    ],
+    "wykryto": "2026-09-23"
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.5": {
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "typowo_dla_tego_punktu": 3140,
+     "wykryto": "2026-09-23",
+     "znakow": 231
+    }
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N07BB01"
+    ],
+    "nazwa_powszechna": [
+     "Disulfiramum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "500 mg",
+   "nazwa": "Anticol",
    "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/600/characteristic",
-   "sha256_pdf": "7c99b8646b35d5183b907f32c0ac7ef92849b5f01afbdfb361b8df37f1eeddac",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Uzależnienie od alkoholu. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Podawanie produktu można rozpocząć po co najmniej 24-godzinnym okresie abstynencji. Dawka początkowa zwykle wynosi 500 mg na dobę (1 tabletka). Tabletkę stosuje się raz na dobę rano lub w przypadku znacznego nasilenia efektu uspokajającego wieczorem. Dawkę tę należy stosować zwykle przez 1 do 2 tygodni. Następnie podaje się dawkę podtrzymującą, która wynosi 250 mg na dobę (125 do 500 mg na dobę). Maksymalna dawka doustna wynosi 500 mg na dobę. Podawanie produktu należy kontynuować przez okres zalecony przez lekarza, jednak nie dłużej niż 6 miesięcy bez ponownej oceny pacjenta. ",
@@ -27,49 +55,59 @@
     "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Podczas stosowania disulfiramu należy zachować ostrożność u pacjentów z: chorobami nerek, wątroby, chorobami układu oddechowego, niedoczynnością tarczycy, uszkodzeniem mózgu i padaczką. Wystąpienie reakcji disulfiramowej może pogłębić stopień zaawansowania tych chorób. W okresie leczenia disulfiramem oraz w ciągu 14 dni od jego zakończenia obowiązuje bezwzględny zakaz picia napojów alkoholowych. Picie alkoholu w trakcie stosowania disulfiramu może powodować wystąpienie objawów zagrażających życiu, ponieważ disulfiram hamuje metabolizm etanolu, prowadząc do nagromadzenia aldehydu octowego w organizmie. Może to prowadzić do reakcji disulfiramowej (reakcji disulfiram-alkohol) i wystąpienia działań niepożądanych wymienionych w punkcie ",
     "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Disulfiram blokuje metabolizm alkoholu i prowadzi do kumulacji aldehydu octowego w krwiobiegu. Szczegółowe informacje o reakcji disulfiram-alkohol patrz punkt ",
     "4.6": "4.6 Wpływ na płodność, ciążę i laktację Ciąża Disulfiram nie powinien być stosowany u kobiet w ciąży. Karmienie piersią Produkt nie powinien być stosowany w okresie karmienie piersią. Brak dostępnych danych na temat tego, czy disulfiram przenika do mleka matki. Jego stosowanie w okresie karmienia piersią nie jest zalecane szczególnie w sytuacji, gdy istnieje możliwość interakcji z produktami leczniczymi, które mogą być stosowane u dziecka. ",
-    "4.8": "4.8. Przed rozpoczęciem leczenia zaleca się przeprowadzenie bardzo dokładnego wywiadu w celu rozważeniu wszystkich zalet i wad takiego leczenia uzależnienia od alkoholu i ustalenia, czy pacjent kwalifikuje się do leczenia. Przed rozpoczęciem leczenia należy także ocenić czynność wątroby i nerek. Pacjentów należy ostrzec o nieprzewidywalnym i potencjalnie poważnym charakterze reakcji disulfiram-alkohol, ponieważ w rzadkich przypadkach notowano zgony w wyniku spożycia alkoholu przez pacjentów przyjmujących disulfiram. Objawy reakcji disulfiramowej (patrz punkt 4.8) mogą wystąpić także po zastosowaniu płynów zawierających alkohol (np. płyny do płukania jamy ustnej, sosy, ocet, syropy przeciwkaszlowe, środki rozgrzewające, płyny po goleniu, perfumy i inne kosmetyki). Należy również zachować ostrożność przy spożywaniu produktów zawierających małe ilości alkoholu lub bezalkoholowych piw i win, ponieważ mogą wywołać reakcję disulfiram-alkohol. Produkt może być stosowany wyłącznie za zgodą pacjenta oraz pod warunkiem poinformowania go o zagrożeniach w razie spożywania alkoholu w czasie jego stosowania. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie po podaniu doustnym jest zmienne, dystrybucja następuje głównie do nerek, trzustki, wątroby, jelit i tkanki tłuszczowej. Disulfiram jest szybko metabolizowany do kwasu dietyloditiokarbaminowego, sprzęgany z kwasem glukuronowym, utleniany do siarczanu, metylowany i rozkładany do dietyloaminy i dwusiarczku węgla. Wydalanie zachodzi głównie przez nerki. "
    },
-   "punkty_uciete": [],
-   "punkty_nieznalezione": [],
+   "punkty_nieznalezione": [
+    "4.8"
+   ],
+   "punkty_odrzucone": {
+    "4.8": {
+     "powod": "Tresc punktu nie odpowiada jego numerowi - ekstraktor zakotwiczyl sie na odsylaczu wewnatrz tekstu. Wykryte 2026-09-23. To NIE znaczy, ze etykieta nie ma tego punktu - znaczy, ze my go nie mamy.",
+     "tresc": "4.8. Przed rozpoczęciem leczenia zaleca się przeprowadzenie bardzo dokładnego wywiadu w celu rozważeniu wszystkich zalet i wad takiego leczenia uzależnienia od alkoholu i ustalenia, czy pacjent kwalifikuje się do leczenia. Przed rozpoczęciem leczenia należy także ocenić czynność wątroby i nerek. Pacjentów należy ostrzec o nieprzewidywalnym i potencjalnie poważnym charakterze reakcji disulfiram-alkohol, ponieważ w rzadkich przypadkach notowano zgony w wyniku spożycia alkoholu przez pacjentów przyjmujących disulfiram. Objawy reakcji disulfiramowej (patrz punkt 4.8) mogą wystąpić także po zastosowaniu płynów zawierających alkohol (np. płyny do płukania jamy ustnej, sosy, ocet, syropy przeciwkaszlowe, środki rozgrzewające, płyny po goleniu, perfumy i inne kosmetyki). Należy również zachować ostrożność przy spożywaniu produktów zawierających małe ilości alkoholu lub bezalkoholowych piw i win, ponieważ mogą wywołać reakcję disulfiram-alkohol. Produkt może być stosowany wyłącznie za zgodą pacjenta oraz pod warunkiem poinformowania go o zagrożeniach w razie spożywania alkoholu w czasie jego stosowania. ",
+     "wykryto": "2026-09-23"
+    }
+   },
+   "punkty_uciete": [
+    "4.4",
+    "4.5"
+   ],
+   "sha256_pdf": "7c99b8646b35d5183b907f32c0ac7ef92849b5f01afbdfb361b8df37f1eeddac",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/600/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.6"
+    ]
+   },
+   "PODEJRZANIE_KROTKI": {
+    "5.2": {
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "typowo_dla_tego_punktu": 2414,
+     "wykryto": "2026-09-23",
+     "znakow": 208
+    }
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N07BB01"
     ],
     "nazwa_powszechna": [
      "Disulfiramum"
     ],
-    "atc": [
-     "N07BB01"
+    "postac": [
+     "Tabletki do implantacji"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
    },
-   "NAGLOWEK_NIEZGODNY": {
-    "punkty": [
-     "4.8"
-    ],
-    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
-    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
-    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
-    "wykryto": "2026-09-23"
-   },
-   "PODEJRZANIE_KROTKI": {
-    "4.5": {
-     "znakow": 231,
-     "typowo_dla_tego_punktu": 3140,
-     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
-     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
-     "wykryto": "2026-09-23"
-    }
-   }
-  },
-  {
-   "nazwa": "Disulfiram WZF",
    "moc": "100 mg",
+   "nazwa": "Disulfiram WZF",
    "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1971/characteristic",
-   "sha256_pdf": "0897ad04d60acef49046041b3b8b1b2863a02fd39fcd2ff7d2935a40453c870e",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Pomocniczo w leczeniu uzależnienia od alkoholu. Produkt jest przeznaczony dla wybranych i współpracujących pacjentów, z zastosowaniem odpowiedniego leczenia wspomagającego. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Tabletki do implantacji znajdujące się w oryginalnym opakowaniu są jałowe. Lek wszczepia się podpowięziowo, rozmieszczając gwiaździście 8 do 10 tabletek. Zabieg można powtórzyć po 8 miesiącach. Tabletki przeznaczone do wszczepienia muszą być jałowe, bez żadnych zanieczyszczeń oraz nie mogą być uszkodzone. ",
@@ -80,29 +118,26 @@
     "4.8": "4.8 Działania niepożądane Może wystąpić senność, nudności, wymioty, metaliczny posmak lub smak czosnku w ustach, przemijająca impotencja, pacjent może się łatwo męczyć. W rzadkich przypadkach odnotowywano reakcje psychotyczne, w tym stany depresyjne, paranoiczne, schizofrenię, manię. Odnotowywano skórne reakcje alergiczne, zapalenie nerwów obwodowych, uszkodzenie hepatocytów. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Lek jest w znacznym stopniu metabolizowany w wątrobie do nieczynnych metabolitów wydalanych z moczem. Około 20% podanej dawki ulega wydaleniu w postaci niezmienionej z kałem. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki do implantacji"
-    ],
-    "nazwa_powszechna": [
-     "Disulfiramum"
-    ],
-    "atc": [
-     "N07BB01"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   },
-   "PODEJRZANIE_KROTKI": {
-    "5.2": {
-     "znakow": 208,
-     "typowo_dla_tego_punktu": 2414,
-     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
-     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
-     "wykryto": "2026-09-23"
-    }
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.6"
+   ],
+   "sha256_pdf": "0897ad04d60acef49046041b3b8b1b2863a02fd39fcd2ff7d2935a40453c870e",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1971/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "disulfiram",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

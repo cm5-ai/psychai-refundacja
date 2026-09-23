@@ -1,25 +1,24 @@
 {
- "substancja": "diazepam",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Diazepam Genoptim",
+   "klucz_rpl": {
+    "atc": [
+     "N05BA01"
+    ],
+    "nazwa_powszechna": [
+     "Diazepamum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "5 mg",
+   "nazwa": "Diazepam Genoptim",
    "podmiot": "Synoptis Pharma Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35141/characteristic",
-   "sha256_pdf": "e7026346932248f89a9f1275caffed61abd8a371cbde9c3054b3206d21b27565",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Dorośli: - Leczenie objawowe zaburzeń lękowych. Benzodiazepiny są wskazane wyłącznie, jeśli zaburzenie ma ciężką postać, powoduje niesprawność lub jest dla chorego przyczyną skrajnego dyskomfortu. - Leczenie objawowe alkoholowego zespołu abstynencyjnego. Dorośli i dzieci w wieku powyżej 6 lat: - Leczenie objawowe skurczów mięśni szkieletowych (wywołanych stanem zapalnym mięśni i stawów, urazem), w tym skurczów wywołanych zaburzeniami górnego neuronu ruchowego (np. porażenie mózgowe, paraplegia, a także atetoza oraz zespół uogólnionej sztywności). Diazepam Genoptim 5mg jest wskazany do stosowania u dorosłych, młodzieży i dzieci od 6 lat. Stosowanie benzodiazepin u dzieci do 6 lat będzie odbywać się wyłącznie na podstawie decyzji lekarza i pod ścisłym nadzorem specjalisty (pediatry, neuropediatry, psychiatry, neurologa, anestezjologa, specjalisty intensywnej terapii), który sam ustali dawkę. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dawkę należy dostosować indywidualnie do choroby. Leczenie należy rozpocząć od najniższej skutecznej dawki, a następnie stopniowo zwiększać dawkę do uzyskania optymalnego efektu. 2 Czas trwania leczenia zaburzeń lękowych powinien być jak najkrótszy (patrz punkt 4.4). Pacjenta należy regularnie badać, aby ocenić potrzebę dalszego leczenia, zwłaszcza w przypadku ustąpienia objawów. Zasadniczo leczenie nie może trwać dłużej niż 8 do 12 tygodni (łącznie z okresem zmniejszania dawki). W niektórych przypadkach konieczne może być przedłużenie leczenia poza okres maksymalny; w takiej sytuacji nie należy tego robić bez ponownej oceny stanu pacjenta przez specjalistę. Skuteczność długotrwałego leczenia (> 6 miesięcy) nie była oceniana w systematycznych badaniach klinicznych. Produkt leczniczy należy zwykle przyjmować po południu lub wieczorem. Zazwyczaj stosowana dawka w codziennej praktyce: Dorośli Dawka początkowa: 5 do 10mg. W zależności od nasilenia objawów: 5 do 20 mg/dobe. Pojedyncza dawka zwykle nie przekracza 10 mg. Dzieci i młodzież Z powodu potencjalnych problemów z połykaniem nie zaleca się stosowania produktu leczniczego Diazepam Genoptim u dzieci w wieku poniżej 6 lat. Dla młodszych dzieci dostępne są bardziej odpowiednie postacie farmaceutyczne leku. Produkt leczniczy wolno podawać dzieciom w wieku poniżej 6 lat wyłącznie na podstawie decyzji lekarza i w warunkach ścisłego nadzoru specjalisty (pediatry, neurologa, psychiatry, anestezjologa lub specjalisty intensywnej terapii), który sam ustali dawkę. U dzieci poniżej 6. miesiąca życia specjalista zastosuje Diazepam Genoptim tylko w przypadku braku innych leków, ponieważ nie wiadomo, jak dobrze Diazepam Genoptim działa i jak jest bezpieczny u pacjentów. Zazwyczaj stosowana dawka: Dzieci i młodzież w wieku powyżej 6 lat: 0,1 do 0,3 mg/kg mc./dobę. Nie zaleca się stosowania długookresowego. Lekarz może przepisać inny produkt leczniczy zawierający tą samą substancją czynną w mniejszej dawce z uwagi na brak dostępności produktu Diazepam Genoptim w dawce innej niż 5 mg. W poniższej tabeli podano zwykle stosowane średnie dawki dla każdego wskazania: Wskazania Dorośli Dzieci i młodzież Zaburzenia lękowe 10 mg doustnie na dobę (2,5 mg Nie dotyczy rano i 2,5mg w południe oraz 5mg Leczenie przewlekłe wieczorem) Przykurcz mięśni i spastyczność 2 do 10 mg, 3-4 razy na dobę 2 do 40 mg doustnie doustnie podzielone na różne Leczenie przewlekłe dawki/dobę Alkoholowy zespół abstencyjny 10 mg, 3 do 4 razy w ciągu Nie dotyczy pierwszych 24 godzin, a następnie do 5 mg 3 do 4 razy na dobę, jeżeli konieczne. Szczególne grupy pacjentów 3 Pacjenci w podeszłym wieku oraz pacjenci osłabieni Leczenie należy rozpocząć od możliwie najmniejszej dawki (2 do 2,5 mg raz lub dwa razy na dobę) i stopniowo ją zwiększać, jeśli będzie to niezbędne i dobrze tolerowane. Na początku leczenia pacjentów tych należy regularnie badać, aby zminimalizować dawkę i(lub) częstość podawania, w celu uniknięcia przedawkowania w wyniku kumulacji leku. Zaburzenia czynności nerek Modyfikacja dawki nie jest zwykle konieczna. Podczas stosowania diazepamu u pacjentów z zaburzeniami czynności nerek należy jednak zachować ostrożność. Benzodiazepin, których czynnymi metabolitami jest np. diazepam, należy unikać u pacjentów ze schyłkową niewydolnością nerek. Zaburzenia czynności wątroby U tych pacjentów należy zmniejszyć dawkę i regularnie badać na początku leczenia, aby dostosować dawkę i(lub) częstość podawania, w celu uniknięcia przedawkowania w wyniku kumulacji leku. Pacjenci z otyłością W różnych badaniach wykazano, że u pacjentów otyłych, w porównaniu do osób o prawidłowej masie ciała, parametry kinetyczne ulegają zmianie. Pacjenci z otyłością wymagają znacznie dłuższego leczenia niż pacjenci o prawidłowej masie ciała, zanim wystąpi maksymalny efekt działania produktu leczniczego w trakcie terapii długookresowej. Podobnie efekt terapeutyczny i działania niepożądane, w tym objawy odstawienia, u pacjentów otyłych mogą trwać dłużej po przerwaniu dłuższego leczenia (patrz punkt 5.2). Sposób podawania Podanie doustne. ",
@@ -30,28 +29,39 @@
     "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa Najczęściej zgłaszanymi działaniami niepożądanymi są zmęczenie, senność i osłabienie mięśni. Te działania niepożądane są zwykle związane z dawką. Występują na ogół na początku leczenia i ustępują po podaniu kolejnych dawek. Tabelaryczny wykaz działań niepożądanych Mogą także wystąpić następujące działania niepożądane. Poniższa tabela oparta jest na doświadczeniach po wprowadzeniu produktu do obrotu, a działania niepożądane zostały sklasyfikowane zgodnie z klasyfikacją układów i narządów MedDRA. Pogrupowanie częstości określono zgodnie z następującą konwencją: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10 000 do < 1/1000), bardzo rzadko (< 1/10 000) i częstość nieznana (nie może być określona na podstawie dostępnych danych). MedDRA Bardzo Często Niezbyt Rzadko Bardzo Częstość nieznana System, często (≥ 1/100 często (≥ 1/10000 rzadko (≥ 1/10) do (≥ 1/1000 do (<1/10 000) (nie może być Klasyfikacja < 1/10) do < 1/1000) określona na układów i < 1/100) podstawie dostępnych narządów danych) Zaburzenia Dyskrazja krwi, krwi i układu agranulocytoza chłonnego 11 Zaburzenia Splątanie i psychiczne dezorientacja, spłycenie emocjonalne, depresja, zwiększone lub zmniejszone libido. Reakcje psychiatryczne i paradoksalnea, takie jak niepokój, drażliwość, agresywność, majaczenie, urojenia, wściekłość, koszmary senne, omamy, psychozy, niewłaściwe zachowanie i inne niepożądane skutki behawioralne Zaburzenia Ataksja, w tym układu niestabilność podczas nerwowego chodzenia, dyzartria, ból głowy, drżenie, zawroty głowy, zmniejszona czujność, trudności z koncentracją, amnezja następczab, sennośćc Zaburzenia Podwójne widzenie, oka niewyraźne widzenie Zaburzenia Zawroty głowy ucha i układowe błędnika Zaburzenia Niewydolność serca, w serca tym zatrzymanie akcji serca, depresja krążeniowa, nieregularna częstość akcji serca Zaburzenia Niedociśnienie naczyniowe tętnicze Zaburzenia Depresja oddechowa, układu w tym zatrzymanie oddechowego, oddechu klatki piersiowej i śródpiersia 12 Zaburzenia Nudności, suchość w żołądka i jelit jamie ustnej, zwiększone ślinienie, zaparcia i inne zaburzenia żołądkowo- jelitowe Zaburzenia Żółtaczka, zwiększona wątroby i aktywność dróg aminotransferaz, żółciowych zwiększona aktywność fosfatazy zasadowej we krwi Zaburzenia Reakcje skórne skóry i tkanki (wysypka skórna, podskórnej pokrzywka, świąd, wysypka rumieniowa, zespół Stevensa- Johnsonad, toksyczna nekroliza naskórkad i rumień wielopostaciowyd) Zaburzenia Osłabienie mięśnic mięśniowo- szkieletowe i tkanki łącznej Zaburzenia Zatrzymanie moczu, nerek i dróg nietrzymanie moczu moczowych Zaburzenia Zmęczeniec ogólne i stany w miejscu podania Urazy, Upadki i związane z zatrucia i nimi złamaniae powikłania po zabiegach a W przypadku wystąpienia takich objawów należy odstawić diazepam. Częściej występują u dzieci i osób starszych. b Amnezja następcza może wystąpić przy stosowaniu dawek terapeutycznych, a ryzyko wzrasta przy wyższych dawkach. Objawy amnezji mogą być związane z niewłaściwym zachowaniem. c Reakcje te są zwykle związane z dawką. Występują głównie na początku leczenia, ale zwykle ustępują po wielokrotnym podaniu. d W większości przypadków ciężkich reakcji skórnych jednoczesne przyjmowanie leków u pacjentów z upośledzonym stanem ogólnym uznano za ważne czynniki zakłócające. e Istnieje zwiększone ryzyko upadków i związanych z nimi złamań u pacjentów przyjmujących jednocześnie środki uspokajające (w tym spożywających alkohol) oraz u pacjentów w podeszłym wieku stosujących benzodiazepiny. 13 Stosowanie długotrwałe (nawet w dawkach terapeutycznych) może doprowadzić do rozwoju uzależnienia fizycznego. Po wystąpieniu uzależnienia fizycznego nagłe przerwanie leczenia spowoduje wystąpienie objawów odstawienia (patrz punkt 4.4). Może wystąpić uzależnienie psychiczne. Opisywano także przypadki uzależnienia od benzodiazepin. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, 02 222 Warszawa, Tel.: + 48 22 49 21 301, Faks: + 48 22 49 21 309. Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Diazepam ulega szybkiemu i całkowitemu wchłanianiu z układu pokarmowego. Maksymalne stężenia w osoczu są osiągane w ciągu 30–90 minut po podaniu doustnym. Wchłanianie jest opóźnione i ograniczone po podaniu w trakcie posiłku o umiarkowanej zawartości tłuszczu. W obecności pokarmu średnie opóźnienie wynosi ok. 45 minut w porównaniu do 15 minut na czczo. Dochodzi także do wydłużenia średniego czasu niezbędnego do osiągnięcia stężeń maksymalnych do około 2,5 godziny w obecności pokarmu w porównaniu do 1,25 godziny na czczo. Prowadzi to do średniego spadku wartości Cmax na poziomie 20% oraz spadku AUC o 27% (od 15% do 50%) po podaniu w trakcie posiłku. Dystrybucja Po podaniu doustnym dawki 5 mg diazepamu maksymalne stężenie w surowicy na poziomie około 176 ng/mL występuje po upływie 0,5–1 godziny. Dalsza dystrybucja wiąże się ze znaczącym spadkiem stężenia w osoczu utrzymującym się przez 2–4 godziny. Diazepam i jego metabolity są w znacznym stopniu wiązane z białkami osocza (diazepam 98%). Diazepam i jego metabolity przenikają barierę krew-mózg i barierę łożyskową oraz występują w mleku ludzkim w stężeniach wynoszących około jedną dziesiątą wartości obserwowanych w osoczu matki (patrz punkt 4.6). Objętość dystrybucji w fazie stacjonarnej wynosi 0,8–1,0 l/kg mc. Okres półtrwania w fazie dystrybucji wynosi 3 godziny. Metabolizm Diazepam jest metabolizowany głównie do farmakologicznie czynnych metabolitów N -desmetylodiazepamu, temazepamu i oksazepamu. W oksydacyjnych przemianach diazepamu uczestniczą izoenzymy CYP3A4 i CYP2C19. Oksazepam i temazepam są dalej sprzęgane do kwasu glukuronowego. Okres półtrwania biologicznie czynnego metabolitu, N-desmetylodiazepamu, wynosi 2–4 dni. Eliminacja Spadek parametrów stężenia w osoczu do czasu po podaniu doustnym jest dwufazowy – po wstępnej i intensywnej fazie dystrybucji następuje długotrwała faza eliminacji końcowej (okres półtrwania wynosi do 48 godzin). Okres półtrwania czynnego metabolitu, N-desmetylodiazepamu, w końcowej fazie eliminacji wynosi do 100 godzin. Diazepam i jego metabolity są wydalane przede wszystkim drogą nerkową, głównie w postaci sprzężonej, a około 10% substancji wydalanej jest z kałem. Klirens diazepamu wynosi 20–30 ml/min. Szczególne grupy pacjentów Okres półtrwania w fazie eliminacji może być wydłużony u noworodków, pacjentów w podeszłym wieku oraz u pacjentów z chorobami wątroby. W przypadku niewydolności nerek okres półtrwania diazepamu nie zostaje znacząco zmieniony. Okres półtrwania: pacjenci w podeszłym wieku: 70–100 godzin. Dzieci: wcześniaki: 40–110 godzin; noworodki urodzone w terminie: ok. 30 godzin, niemowlęta do ukończenia 1. roku życia: ok. 10 godzin, dzieci powyżej 1. roku życia: ok. 20 godzin. Pacjenci z otyłością W różnych badaniach wykazano, że u pacjentów otyłych, w porównaniu do osób o prawidłowej masie ciała, parametry kinetyczne ulegają zmianie. W badaniu, w którym uczestnicy otrzymywali na noc diazepam w dawce 2 mg przez 30 dni kumulacja była opóźniona, a okres półtrwania skumulowanej substancji czynnej u uczestników z nadwagą uległ wydłużeniu w porównaniu do pacjentów o prawidłowej masie ciała (7,8 dnia w porównaniu do 3,1 dnia). Podobnie skumulowana ilość czynnego metabolitu, desmetylodiazepamu, uległa znaczącemu wydłużeniu. Okres półtrwania diazepamu w fazie eliminacji z osocza uległ wydłużeniu do 82 godzin u uczestników otyłych. Zmieniona 15 farmakokinetyka w przypadku długotrwałego leczenia u pacjentów otyłych wynika prawdopodobnie z objętości dystrybucji. Dane te wskazują, że pacjenci z otyłością wymagają znacznie dłuższego leczenia niż pacjenci o prawidłowej masie ciała zanim wystąpi maksymalny efekt działania produktu leczniczego w trakcie terapii długookresowej. Podobnie efekt terapeutyczny i działania niepożądane, w tym objawy odstawienia, mogą występować przez dłuższy czas po przerwaniu dłuższego leczenia u pacjentów otyłych. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "e7026346932248f89a9f1275caffed61abd8a371cbde9c3054b3206d21b27565",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35141/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3",
+     "4.5",
+     "4.8"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N05BA01"
     ],
     "nazwa_powszechna": [
      "Diazepamum"
     ],
-    "atc": [
-     "N05BA01"
+    "postac": [
+     "Roztwór do wstrzykiwań",
+     "Tabletki"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Diazepam Grindeks",
+   },
    "moc": "10 mg/2 ml",
+   "nazwa": "Diazepam Grindeks",
    "podmiot": "AS Grindeks",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36875/characteristic",
-   "sha256_pdf": "432b6759b96089151351aab81a29a89bb1060f79d965dbab91302d4689dc42d2",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Benzodiazepiny są wskazane do stosowania tylko wtedy, gdy zaburzenie jest ciężkie, uniemożliwia lub skrajnie utrudnia funkcjonowanie pacjenta lub naraża go na silny stres. Diazepam jest wskazany: - w leczeniu stanów pobudzenia, lęku i napięcia psychicznego o stopniu nasilenia umiarkowanym do ciężkiego; - jako podstawowy środek uspokajający u pacjentów, u których występuje lęk lub stres; w indukcji znieczulenia i w celu uspokojenia przed zabiegami diagnostycznymi, procedurami chirurgicznymi i endoskopowymi (cewnikowanie serca) (leczenie przedoperacyjne); - w łagodzeniu pobudzenia, paniki, drżenia i omamów (delirium tremens); - w leczeniu ostrych stanów padaczkowych, ciężkich drgawek, tężca i stanów przedrzucawkowych lub rzucawki; - w leczeniu odruchowych skurczów mięśni powodowanych miejscowym urazem (zranienie, stan zapalny); może być również stosowany do zmniejszenia spastyczności wynikającej z obrażeń rdzenia kręgowego lub neuronów wstawkowych z mięśnia nadgrzebieniowego, takich jak porażenie mózgowe, paraplegia, a także atetoza oraz zespół postępującej sztywności. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dawkowanie należy ustalić dla każdego pacjenta indywidualnie. Leczenie należy rozpocząć od najmniejszej zalecanej dawki, szczególnie u dzieci, osób w podeszłym wieku i osłabionych lub osób z chorobą wątroby lub z niską zawartością albuminy w surowicy. Czas trwania leczenia powinien być jak najkrótszy (patrz pkt. 4.4). 1 Dorośli W stanach lęku o stopniu nasilenia umiarkowanym do ciężkiego: zwykle stosowana dawka wynosi 2 - 10 mg domięśniowo (im.) lub dożylnie (iv.). W razie konieczności dawkę można powtórzyć po 3 - 4 godzinach. Premedykacja: zwykle stosowana dawka wynosi od 10 - 20 mg domięśniowo jedną godzinę przed indukcją znieczulenia. W zespole odstawienia alkoholowego (delirium tremens): 10 mg domięśniowo lub dożylnie, w razie konieczności po 3 - 4 godzinach podać kolejne 5 - 10 mg, (wg innej wytycznej: 0,1 - 2,0 mg/kg mc., dożylnie, powtarzając cyklicznie, co 8 godzin, aż do ustąpienia objawów), a następnie kontynuować leczenie lekami doustnymi. W indukcji znieczulenia: 0,2 - 0,5 mg/kg mc. dożylnie. Sedacja przed zabiegami: 10 - 20 mg dożylnie (dawka początkowa 5 mg, a następnie 2,5 mg i powtarzać co 30 sekund dopóki powieki nie opadną do połowy źrenic). U pacjentów z otyłością dawka wynosi 30 mg dożylnie. W stanach padaczkowych: 0,15 - 0,25 mg/kg mc. dożylnie, powtarzać co 10-15 minut, w razie konieczności lub podawać w ciągłym wlewie dożylnym (dawka maksymalna 3 mg/kg mc. na 24 godziny). W tężcu: 0,1 - 0,3 mg/kg mc. dożylnie, powtarzać co 1 - 4 godziny, lub alternatywnie, podawać w ciągłym wlewie dożylnym lub za pomocą sondy żołądkowej (3 – 4 mg/kg mc. na 24 godziny). W stanie przedrzucawkowym lub rzucawce: 10 - 20 mg dożylnie (jeśli wymagane są dodatkowe dawki, należy zwiększyć perfuzję do maksymalnie 100 mg na 24 godziny). W skurczach mięśni: 5 - 10 mg, domięśniowo lub dożylnie, w razie konieczności powtórzyć po 3-4 godzinach. Po ustąpieniu ostrych objawów leczenie należy kontynuować lekami doustnymi, jeśli konieczne. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Należy stosować zmniejszoną dawkę. Na początku terapii pacjentów tych należy regularnie monitorować, w celu zmniejszenia dawki lub częstości podawania produktu leczniczego oraz zapobieżenia przedawkowaniu leku w wyniku jego kumulacji w organizmie. Zalecaną dawką u pacjentów w podeszłym wieku jest najmniejsza możliwa skuteczna dawka. Pacjenci z zaburzeniami wątroby i (lub) nerek Należy stosować zmniejszoną dawkę u pacjentów z zaburzeniami wątroby. Zalecaną dawką u pacjentów z chorobami nerek i (lub) wątroby jest najmniejsza możliwa skuteczna dawka. Dzieci i młodzież Benzodiazepin nie należy podawać dzieciom bez dokładnej oceny wskazania. Premedykacja: zwykle stosowana dawka wynosi 0,1 - 0,2 mg/kg masy ciała domięśniowo. Sedacja przed zabiegami: zwykle stosowana dawka wynosi 0,1 - 0,2 mg/kg masy ciała dożylnie. Sposób podawania Podanie dożylne, domięśniowe. Zaleca się wykonywanie wstrzyknięć domięśniowych głęboko. Wstrzyknięcia dożylne należy dokonać bardzo powoli (mniej więcej 0,5-1 mL na minutę) w duże żyły. 2 Zbyt szybkie podanie może doprowadzić do bezdechu. Zaleca się, aby podczas podawania dożylnego dostępny był zestaw do resuscytacji. Należy unikać wykonywania wstrzyknięć dotętniczych. Jeśli konieczna jest ciągła infuzja dożylna, zaleca się zmieszanie 2 mL diazepamu we wstrzyknięciu z nie mniej niż 500 mL roztworu do infuzji i natychmiastowe użycie końcowego roztworu (patrz punkt 6.6). ",
@@ -62,29 +72,34 @@
     "4.8": "4.8 Działania niepożądane Najczęściej występujące działania niepożądane to: zmęczenie, senność i osłabienie (działania te są zwykle zależne od dawki), które zwykle pojawiają się na początku leczenia i ustępują po podaniu kolejnych dawek. Uzależnienie Stosowanie tego produktu leczniczego przez dłuższy czas (nawet w dawkach terapeutycznych) może prowadzić do rozwoju uzależnienia fizycznego: zaprzestanie stosowania leku może spowodować wystąpienie objawów odstawienia lub efektu odbicia (patrz punkt 4.4). Zgłaszano również przypadki nadużywania benzodiazepin (patrz punkt 4.4). Działania niepożądane przedstawiono poniżej zgodnie z klasyfikacją układów i narządów wg systemu MedDRA: Zaburzenia psychiczne Opisywano reakcje paradoksalne, takie jak niepokój ruchowy, pobudzenie, drażliwość, agresja, urojenia, atak furii, koszmary senne, omamy, psychozy, niewłaściwe zachowania i inne zaburzenia zachowania związane z podawaniem benzodiazepin. Jeśli wystąpią powyższe objawy, należy przerwać leczenie. Objawy te częściej pojawiają się u dzieci i młodzieży oraz u pacjentów w podeszłym wieku. Mogą wystąpić również: dezorientacja, bierność emocjonalna, osłabienie czujności, depresja, zwiększone lub zmniejszone libido. Zaburzenia układu nerwowego Ataksja, dyzartria, zaburzenia wymowy (niewyraźna mowa), ból głowy, drżenia, zawroty głowy. Niepamięć następcza może wystąpić po zastosowaniu dawek terapeutycznych, a ryzyko wystąpienia tej reakcji wzrasta ze wzrostem dawki. Objawom niepamięci może towarzyszyć niewłaściwe zachowanie. Zaburzenia oka Podwójne widzenie, nieostre widzenie. Zaburzenia ucha i błędnika Zawroty głowy pochodzenia obwodowego. Zaburzenia serca Niewydolność serca, w tym zatrzymanie akcji serca. 7 Zaburzenia naczyniowe Niedociśnienie tętnicze, zapaść krążeniowa. Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Depresja oddechowa w tym niewydolność oddechowa. Zgłaszano przypadki wystąpienia niewydolności krążeniowo-oddechowej, jeśli diazepam był podawany doodbytniczo. Zaburzenia żołądka i jelit Nudności, suchość w jamie ustnej lub nadmierne wydzielanie śliny, zaparcia i inne zaburzenia żołądka i jelit. Zaburzenia wątroby i dróg żółciowych Żółtaczka Zaburzenia skóry i tkanki podskórnej Wysypka skórna, pokrzywka, świąd, rumień. Większość przypadków nie była ciężka. W większości przypadków powiązanych z ciężkimi reakcjami skórnymi (zespół Steven-Johnsona, toksyczna martwica naskórka i rumień wielopostaciowy) pacjent stosował jednocześnie inne leki i wykazywał ogólne zaburzenia stanu zdrowia, co uznano za istotne czynniki uniemożliwiające właściwą klasyfikację reakcji niepożądanej. Zaburzenia nerek i dróg moczowych Nietrzymanie moczu, zatrzymanie moczu. Zaburzenia ogólne i stany w miejscu podania Zakrzepica żylna, zapalenie żył, podrażnienie w miejscu wstrzyknięcia, miejscowy obrzęk lub, rzadziej, zmiany naczyniowe, zwłaszcza po szybkim podaniu dożylnym. Badania diagnostyczne Podwyższone stężenia transaminaz i fosfatazy alkalicznej we krwi, nieregularne bicie serca. Podanie domięśniowe może spowodować miejscowy ból, któremu czasem towarzyszy rumień w miejscu podania. Często w miejscu podania pacjent odczuwa ból. Nie należy podawać leku do bardzo małych żył, a zwłaszcza należy bezwzględnie unikać podawania leku dotętniczo oraz wynaczynienia leku. Urazy, zatrucia i powikłania po zabiegach Zgłaszano przypadki upadków i złamań u pacjentów stosujących benzodiazepiny. Ryzyko wystąpienia tych działań niepożądanych jest większe u pacjentów, którzy jednocześnie przyjmują inne leki uspokajające (w tym napoje alkoholowe) oraz u pacjentów w podeszłym wieku. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa tel.: + 48 22 49-21-301 faks: +48 22 49-21-309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. 8 ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Diazepam podany domięśniowo absorbowany jest całkowicie, aczkolwiek nie zawsze szybciej niż po podaniu doustnym. Dystrybucja Diazepam i jego metabolity wiążą się w znacznym stopniu z białkami osocza (98%). Diazepam i jego metabolity przenikają barierę krew/mózg, barierę łożyskową oraz są wykrywane w mLeku ludzkim w stężeniach wynoszących około jedną dziesiątą wartości obserwowanych w osoczu matki (patrz punkt 4.6). Objętość dystrybucji diazepamu w fazie stacjonarnej wynosi 0,8–1 L/kg mc. Okres półtrwania w fazie dystrybucji wynosi 3 godziny. 9 Metabolizm Diazepam jest głównie metabolizowany do farmakologicznie czynnych metabolitów: N-desmetylodiazepamu, temazepamu i oksazepamu. W oksydacyjnych przemianach diazepamu uczestniczą izoenzymy CYP2C19 i CYP3A. Oksazepam i temazepam są dalej sprzęgane z kwasem glukuronowym. Eliminacja Spadek stężenia diazepamu w osoczu ma przebieg dwufazowy, gdy podawany jest dożylnie: po wstępnej, szybkiej i intensywnej fazie dystrybucji, następuje długotrwała faza eliminacji końcowej. Okres półtrwania czynnego metabolitu N-desmetylodiazepamu wynosi do 100 godzin. Diazepam i jego metabolity są wydalane przede wszystkim w moczu, głównie w postaci sprzężonej. Klirens diazepamu wynosi 20–30 mL/min. Specjalne grupy pacjentów Okres półtrwania w fazie eliminacji może być wydłużony u noworodków, u pacjentów w podeszłym wieku oraz u pacjentów z chorobami wątroby. U pacjentów z niewydolnością nerek okres półtrwania diazepamu nie ulega znaczącym zmianom. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3",
+    "4.5",
+    "4.8"
+   ],
+   "sha256_pdf": "432b6759b96089151351aab81a29a89bb1060f79d965dbab91302d4689dc42d2",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36875/characteristic"
+  },
+  {
    "klucz_rpl": {
-    "postac": [
-     "Roztwór do wstrzykiwań",
-     "Tabletki"
+    "atc": [
+     "N05BA01"
     ],
     "nazwa_powszechna": [
      "Diazepamum"
     ],
-    "atc": [
-     "N05BA01"
+    "postac": [
+     "Roztwór do wstrzykiwań",
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Neorelium",
+   },
    "moc": "5 mg",
+   "nazwa": "Neorelium",
    "podmiot": "Tarchomińskie Zakłady Farmaceutyczne \"Polfa\" S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7700/characteristic",
-   "sha256_pdf": "f26392c838e373291d55d8e2ffa641a8cd6a585fc175ca84479f6baf3726a7ae",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania - krótkotrwałe leczenie stanów lękowych (przez 2 do 4 tygodni), które mogą być także związane z bezsennością; - leczenie objawów nagłego odstawienia alkoholu; - leczenie stanów zwiększonego napięcia mięśniowego; - jako lek uspakajający i środek do premedykacji; - pomocniczo jako lek przeciwdrgawkowy w leczeniu niektórych typów padaczki, np. drgawki kloniczne mięśni. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas trwania leczenia należy określić dla każdego pacjenta indywidualnie. Dawkowanie Dorośli Stany lękowe i niepokoju – 5 do 10 mg na dobę w 1 do 2 dawkach podzielonych. Objawy alkoholowego zespołu abstynencyjnego - do 30 mg na dobę w dawkach podzielonych, przeciętnie 10 mg 3 razy dziennie. W uzasadnionych przypadkach, szczególnie w psychozach alkoholowych, dawkę można zwiększyć do 60 mg na dobę (konieczna jest kontrola ewentualnych zaburzeń oddechowych). Bezsenność - 5 do 10 mg, 30 minut przed snem. Stany spastyczne mięśni - 5 do 15 mg na dobę w dawkach podzielonych, w ciężkich przypadkach dawkę dobową można zwiększyć do 60 mg. Jako środek do premedykacji – 5 mg do 20 mg. Jako lek przeciwdrgawkowy – 2 mg do 10 mg 2 do 4 razy na dobę. Dzieci powyżej 3 lat W stanach lękowych, stanach zwiększonego napięcia mięśniowego lub jako lek przeciwdrgawkowy – 1 mg do 2,5 mg 3 do 4 razy na dobę lub 0,12 mg do 0,8 mg/kg masy ciała lub 3,5 mg do 24 mg/m2 powierzchni ciała na dobę w 3 – 4 dawkach podzielonych, następnie dawkę można stopniowo zwiększyć w zależności od skuteczności i nasilenia działań niepożądanych. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku są bardziej wrażliwi na leki działające na ośrodkowy układ nerwowy. Stosowane dawki nie powinny przekraczać połowy dawki zalecanej dla pacjentów dorosłych. Pacjenci z niewydolnością wątroby i (lub) nerek Należy zachować ostrożność u pacjentów z zaburzeniami czynności wątroby i (lub) nerek. Może być konieczne zmniejszenie dawki leku. Dawkowanie należy ustalać indywidualnie dla każdego pacjenta w zależności od stopnia niewydolności chorego narządu. Czas leczenia Czas leczenia diazepamem należy ograniczyć do minimum i nie powinno być dłuższe niż 4 tygodnie w przypadku bezsenności lub 8 do 12 tygodni w przypadku stanów lękowych, wliczając w to czas stopniowego odstawienia produktu leczniczego. Nie należy wydłużać tych okresów bez ponownej oceny stanu pacjenta. Sposób podawania Tabletki należy przyjmować doustnie popijając niewielką ilością wody. ",
@@ -95,21 +110,23 @@
     "4.8": "4.8 Działania niepożądane Ilość i nasilenie działań niepożądanych zależy od indywidualnej wrażliwości pacjenta oraz dawki - z reguły mają łagodny charakter i ustępują po odstawieniu leku. Częstość działań niepożądanych pojawiających się po zastosowaniu produktu leczniczego określono następująco: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (nie może być określona na podstawie dostępnych danych) Klasyfikacja Niezbyt Bardzo układów i Często Rzadko Częstość nieznana często rzadko narządów Zaburzenia krwi i zaburzenia w składzie układu chłonnego morfologicznym krwi Zaburzenia układu reakcje immunologiczneg anafilaktyczne o Zaburzenia brak apetytu metabolizmu i odżywiania Zaburzenia reakcje paradoksalne - niepokój psychiczne psychoruchowy, bezsenność, zwiększona pobudliwość i agresywność, drżenie mięśniowe, drgawki. Reakcje paradoksalne najczęściej występują po spożyciu alkoholu, u pacjentów w podeszłym wieku i u pacjentów z chorobami psychicznymi. uzależnienie psychiczne i fizyczne może rozwinąć się podczas leczenia diazepamem w dawkach terapeutycznych. Nagłe przerwanie 5 PL_29.09.2020 v6 CD leczenia może wywołać zespół odstawienny. Pacjenci nadużywający alkoholu lub leków są bardziej podatni na rozwinięcie uzależnienia. Podczas leczenia diazepamem może ujawnić się wcześniej istniejąca, niezdiagnozowana depresja. Zaburzenia układu senność, spowolnienie reakcji, ból i nerwowego zawroty głowy, stany splątania i dezorientacji, ataksja. Działania te występują najczęściej na początku leczenia, u pacjentów w podeszłym wieku (patrz punkt 4.4) i z reguły ustępują w czasie trwania dalszej kuracji. W przypadku nasilenia tych reakcji odpowiednie zmniejszenie dawki zwykle zmniejsza nasilenie i częstość ich występowania. Niekiedy, tak jak i po innych benzodiazepinach, zwłaszcza po dużych dawkach może pojawić się dyzartria z mową zamazaną i nieprawidłowym wymawianiem, zaburzenia pamięci, zaburzenia libido. Zaburzenia oka zaburzenia widzenia (niewyraźne, podwójne widzenie) Zaburzenia serca bradykardia, ból w klatce piersiowej Zaburzenia nieznaczne obniżenie ciśnienia naczyniowe tętniczego krwi Zaburzenia nudności, żołądka i jelit dolegliwości żołądkowe, uczucie suchości w jamie ustnej Zaburzenia niewielkie podwyższenie aktywności wątroby i dróg aminotransferazy, zaburzenia żółciowych czynności wątroby z wystąpieniem żółtaczki Zaburzenia skóry i alergiczne reakcje skórne (wysypki, tkanki podskórnej świąd, pokrzywka) Zaburzenia drżenie mięśni, zwiotczenie mięśni mięśniowo- szkieletowe i tkanki łącznej Zaburzenia nerek i zatrzymanie moczu, nietrzymanie dróg moczowych moczu 6 PL_29.09.2020 v6 CD Zaburzenia układu zaburzenia miesiączkowania rozrodczego i piersi Zaburzenia ogólne ogólne osłabienie, omdlenia i stany w miejscu podania Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C; 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Diazepam dobrze wchłania się z przewodu pokarmowego; biodostępność wynosi około 98%. Dystrybucja Po doustnym podaniu 20 mg diazepamu maksymalne stężenie we krwi występuje po 0,9-1,3 godziny i wynosi 500 ng/ml. Okres półtrwania dla diazepamu wynosi około 24 do 48 godzin, z białkami krwi wiąże się w 94 - 99%. Diazepam wykazuje duże powinowactwo do tkanki tłuszczowej. Przenika przez barierę krew/płyn mózgowo-rdzeniowy, barierę łożyska i do mleka matki. Metabolizm Diazepam jest metabolizowany w wątrobie. W wyniku tego procesu powstają aktywne metabolity: N- dezmetylodiazepam (nordiazepam), temazepam, oksazepam, które następnie ulegają sprzęganiu z kwasem glukuronowym. Eliminacja Diazepam i jego metabolity są wydalane głównie z moczem. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Roztwór do wstrzykiwań",
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Diazepamum"
-    ],
-    "atc": [
-     "N05BA01"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_uciete": [],
+   "sha256_pdf": "f26392c838e373291d55d8e2ffa641a8cd6a585fc175ca84479f6baf3726a7ae",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7700/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "diazepam",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

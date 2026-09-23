@@ -1,25 +1,32 @@
 {
- "substancja": "bromazepam",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Bromox",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.8"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05BA08"
+    ],
+    "nazwa_powszechna": [
+     "Bromazepamum"
+    ],
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "3 mg",
+   "nazwa": "Bromox",
    "podmiot": "Orion Corporation",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39886/characteristic",
-   "sha256_pdf": "0bcb94cd4f01a48410f3719c38877d74420ac07e1d52fec0fdceb6c8c7953344",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Bromazepam wskazany jest w leczeniu: - stanów lękowych; - leczeniu wspomagającym objawów lęku, towarzyszących zaburzeniom psychicznym, takim jak zmiany nastroju lub schizofrenia. Benzodiazepiny są wskazane do stosowania tylko wtedy, gdy zaburzenie jest ciężkie, uniemożliwia lub skrajnie utrudnia funkcjonowanie pacjenta lub naraża go na silny lęk. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Czas trwania leczenia powinien być jak najkrótszy. Całkowity czas leczenia nie powinien być dłuższy niż 8 - 12 tygodni, wliczając w to okres stopniowego odstawiania produktu leczniczego. Podane dawkowanie należy traktować jako ogólne wytyczne i dobierać dawkę indywidualnie dla danego pacjenta. Ambulatoryjne leczenie pacjentów należy rozpoczynać od podawania małych dawek, dawki należy stopniowo zwiększać do optymalnej wielkości. Pacjent powinien zgłaszać się do lekarza regularnie, w celu oceny konieczności dalszego podawania produktu leczniczego, szczególnie w sytuacjach, w których nie obserwuje się objawów choroby. 1 W niektórych przypadkach leczenie może trwać dłużej, pod warunkiem przeprowadzenia specjalistycznej oceny stanu pacjenta. Dawkowanie Dorośli Należy stosować najmniejszą dawkę, zapewniającą kontrolę objawów. Optymalne dawkowanie i częstość podawania produktu leczniczego Bromox należy ustalać na podstawie indywidualnej reakcji pacjenta na leczenie, nasilenia objawów i wywiadu, dotyczącego wcześniejszego stosowania leków psychotropowych. Zwykle stosowane dawki dla pacjentów leczonych ambulatoryjnie wynoszą od 1,5 mg do 3 mg do trzech razy na dobę (4,5 mg – 9 mg na dobę). W szczególnych przypadkach, u pacjentów hospitalizowanych, można zastosować dawki od 6 mg do 12 mg dwa lub trzy razy na dobę. Dawkę leku należy zmniejszać stopniowo. Pacjenci stosujący benzodiazepiny przez dłuższy czas mogą wymagać dłuższego okresu zmniejszania dawki. Może być wskazana pomoc specjalisty. Osoby w podeszłym wieku lub osłabione Pacjenci w podeszłym wieku wymagają mniejszych dawek ze względu na indywidualne różnice we wrażliwości na produkt leczniczy i w jego farmakokinetyce; dawka nie powinna być większa niż połowa dawki zwykle zalecanej (patrz punkt 5.2). Pacjenci z zaburzeniami czynności wątroby Pacjenci z zaburzeniami czynności wątroby i (lub) nerek wymagają mniejszych dawek ze względu na indywidualne różnice we wrażliwości na produkt leczniczy i w jego farmakokinetyce. U osób w podeszłym wieku i (lub) pacjentów z zaburzeniami czynności wątroby i (lub) nerek zaleca się regularną kontrolę i zakończenie leczenia tak szybko, jak jest to możliwe. Dzieci i młodzież Nie zaleca się stosowania produktu Bromox u dzieci w wieku poniżej 12 lat. ",
@@ -30,47 +37,58 @@
     "4.8": "4.8 Działania niepożądane Produkt leczniczy Bromox, stosowany w dawkach terapeutycznych, jest dobrze tolerowany. Podczas leczenia bromazepamem zgłaszano niżej wymienione działania niepożądane, które występowały z następującą częstością: bardzo często (≥1/10), często (≥1/100 do < 1/10), niezbyt często (≥1/1000 do < 1/100), rzadko (≥1/10000 do <1/1000), bardzo rzadko (<1/10000), częstość nieznana (nie może być określona na podstawie dostępnych danych). Klasyfikacja układów i narządów Częstość nieznana (nie może być określona na podstawie MedDRA dostępnych danych) Zaburzenia układu Nadwrażliwość, wstrząs anafilaktyczny, obrzęk immunologicznego naczynioruchowy Zaburzenia psychiczne Stan splątania*, zaburzenia emocjonalne*, zaburzenia libido, uzależnienie lekowe**, leko-/narkomania**, zespół odstawienny** 6 Depresja Reakcje paradoksalne jak niepokój, zwłaszcza ruchowy, pobudzenie, drażliwość, agresja, urojenia, gniew, koszmary senne, omamy, psychoza, nietypowe zachowanie** Niepamięć następcza**, upośledzenie pamięci Zaburzenia układu nerwowego Senność*, bóle głowy*, zawroty głowy*, osłabiona czujność*, ataksja* Zaburzenia oka Podwójne widzenie* Zaburzenia serca Niewydolność serca, w tym zatrzymanie akcji serca Zaburzenia układu Depresja oddechowa oddechowego, klatki piersiowej i śródpiersia Zaburzenia żołądka i jelit Nudności*, wymioty*, zaparcie Zaburzenia skóry i tkanki Wysypka, świąd, pokrzywka podskórnej Zaburzenia mięśniowo- Osłabienie siły mięśniowej* szkieletowe i tkanki łącznej Zaburzenia nerek i dróg Zatrzymanie moczu moczowych Zaburzenia ogólne i stany w Zmęczenie* miejscu podania Urazy, zatrucia i powikłania po Upadki, złamania*** zabiegach * Działania te występują głównie na początku i zwykle ustępują w trakcie leczenia. ** Patrz punkt ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym, bromazepam jest szybko wchłaniany z przewodu pokarmowego i osiąga największe stężenie w osoczu w ciągu 2 godzin. Całkowita biodostępność niezmienionego bromazepamu po podaniu doustnym wynosi 60%. Po podaniu dawek wielokrotnych stopień wchłaniania bromazepamu pozostaje stały; obserwuje się przewidywalne stężenia w stanie stacjonarnym, co potwierdza linearną kinetykę leku. Stężenia w osoczu w stanie stacjonarnym osiągane są w ciągu około 5 - 9 dni. Przy podawaniu trzy razy na dobę, obserwuje się 3-4-krotnie większe stężenia w stanie stacjonarnym, niż po podaniu pojedynczej dawki. Dystrybucja Po wchłonięciu następuje szybka dystrybucja bromazepamu w organizmie. Przeciętnie 70% bromazepamu wiąże się z białkami osocza poprzez oddziaływanie hydrofobowe; ligandami wiążącymi są albumina i kwaśna α1-glikoproteina.Objętość dystrybucji wynosi ok. 50 litrów. Metabolizm Bromazepam jest intensywnie metabolizowany w wątrobie. Nie tworzą się żadne metabolity o okresie półtrwania dłuższym niż okres półtrwania leku wyjściowego. Ilościowo przeważają 2 metabolity: 3-hydroksybromazepam (mniej aktywny niż bromazepam) i 2-(2-amino-5-bromo- 3-hydroksybenzoilo)-pirydyna (nieaktywny). Bromazepam jest metabolizowany, przynajmniej częściowo, z udziałem cytochromu P450 (CYP450). Nie ustalono jednak, które konkretnie izoenzymy CYP biorą udział w tym procesie. Obserwuje się jednak, że silny inhibitor CYP3A4 (itrakonazol) i umiarkowany inhibitor CYP2C9 (flukonazol) nie 8 mają wpływu na farmakokinetykę bromazepamu, co wskazuje na to, że wspomniane izoenzymy nie odgrywają tu większej roli. Wyraźne interakcje z fluwoksaminą wskazują na współudział CYP1A2 (patrz punkt 4.5 „Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji). Eliminacja Okres półtrwania bromazepamu w fazie eliminacji wynosi około 20 godzin, a klirens wynosi około 40 ml/min. Metabolizm jest główną drogą eliminacji leku. Ilość bromazepamu w niezmienionej postaci w moczu wynosi zaledwie 2%, a koniugatów glukoronidowych 3-hydroksybromazepamu i 2-(2-amino- 5-bromo-3-hydroksybenzoilo)-pirydyny - odpowiednio 27% i 40% przyjętej dawki leku. Farmakokinetyka w szczególnych grup pacjentów U pacjentów w podeszłym wieku może występować znacząco wyższe stężenie maksymalne, mniejsza objętość dystrybucji, zwiększenie wolnej frakcji osocza, niższy klirens, a tym samym przedłużony okres półtrwania. Wynika stąd, że ustalone stężenia bromazepamu dla określonej wielkości dawkowania będą średnio dwa razy wyższe u pacjentów w podeszłym wieku w porównaniu z pacjentami młodszymi. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.8"
+   ],
+   "sha256_pdf": "0bcb94cd4f01a48410f3719c38877d74420ac07e1d52fec0fdceb6c8c7953344",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39886/characteristic"
+  },
+  {
    "klucz_rpl": {
-    "postac": [
-     "Kapsułki twarde"
+    "atc": [
+     "N05BA08"
     ],
     "nazwa_powszechna": [
      "Bromazepamum"
     ],
-    "atc": [
-     "N05BA08"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Lexotan",
-   "moc": "3 mg",
-   "zrodlo": "",
-   "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {},
-   "klucz_rpl": {
     "postac": [
      "Tabletki"
     ],
-    "nazwa_powszechna": [
-     "Bromazepamum"
-    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "moc": "3 mg",
+   "nazwa": "Lexotan",
+   "punkty": {},
+   "stan": "BRAK URL ChPL W SPISIE",
+   "zrodlo": ""
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.8"
+    ]
+   },
+   "klucz_rpl": {
     "atc": [
      "N05BA08"
     ],
+    "nazwa_powszechna": [
+     "Bromazepamum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Sedam 3",
+   },
    "moc": "3 mg",
+   "nazwa": "Sedam 3",
    "podmiot": "Sandoz GmbH",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10195/characteristic",
-   "sha256_pdf": "528fad68523ee9ad823b3f52bce268c35b120051c85cde40f9007c0961a36718",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Wymagające leczenia farmakologicznego:  zaburzenie lękowe uogólnione,  dysfunkcje autonomiczne występujące pod postacią somatyczną m.in. z objawami skórnymi, ze strony układu pokarmowego, ze strony układu krążenia i układu moczowo-płciowego,  stany lękowe występujące w przebiegu przewlekłych chorób organicznych ośrodkowego układu nerwowego,  zaburzenie stresowe pourazowe z objawami lęku,  zaburzenia adaptacyjne. Uwaga: Nie wszystkie stany lękowe wymagają podawania leków i często są objawem choroby somatycznej lub psychicznej. W takich przypadkach należy im przeciwdziałać w inny sposób lub leczyć chorobę podstawową. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkę produktu leczniczego i czas leczenia należy ustalić w zależności od wskazania, ciężkości choroby oraz odpowiedzi klinicznej pacjenta. Z zasady należy stosować najmniejszą dawkę skuteczną 1 CDSv06 + subst. pom. przez możliwie krótki czas. Leczenie stanów lękowych nie powinno trwać dłużej niż 8 do 12 tygodni. Leczenie ambulatoryjne Leczenie należy rozpocząć od 3 mg bromazepamu przyjmowanych jedną godzinę przed udaniem się na spoczynek. W razie potrzeby dawkę można zwiększyć do 6 mg bromazepamu na dobę. Działanie bromazepamu podanego wieczorem trwa zwykle do następnego wieczora i nie wymaga przyjmowania dodatkowej dawki w ciągu dnia. Jednak w rzadkich przypadkach może być konieczne podanie w ciągu dnia 1,5 mg albo 3 mg bromazepamu. W pojedynczych przypadkach dawkę można zwiększyć do 12 mg bromazepamu na dobę. Leczenie szpitalne W ciężkich przypadkach dawkę można stopniowo zwiększać do 18 mg bromazepamu na dobę. Na początku leczenia lekarz prowadzący powinien uważnie obserwować reakcję pacjenta, aby możliwie szybko rozpoznać ewentualne objawy przedawkowania. Dotyczy to zwłaszcza pacjentów w podeszłym wieku, osłabionych, z organicznym uszkodzeniem mózgu, niewydolnością krążenia, niewydolnością oddechową oraz zaburzoną czynnością wątroby. Pacjenci powinni otrzymać wskazówki dotyczące zachowania w codziennym życiu, uwzględniające w szczególności sytuację życiową, aktywność zawodową itd. Specjalne wskazówki dotyczące dawkowania U pacjentów w podeszłym wieku, z organicznym uszkodzeniem mózgu, niewydolnością krążenia, niewydolnością oddechową, zaburzeniami czynności wątroby lub nerek leczenie należy rozpoczynać od połowy wyżej opisanych dawek, tzn. od 1,5 mg bromazepamu na noc. Dawka nie powinna być większa niż połowa zwykle zalecanej dawki, a maksymalna dawka dobowa wynosi 6 mg bromazepamu. Sposób i czas podawania Tabletki należy połykać, popijając odpowiednią ilością płynu. Czas leczenia określany jest indywidualnie dla każdego pacjenta. W razie ostrych objawów klinicznych stosowanie bromazepamu należy ograniczyć do pojedynczych dawek lub kilkudniowego leczenia. Jeśli objawy utrzymują się długo, czas podawania zależy od stadium choroby. Po 2 tygodniach leczenia należy stopniowo zmniejszyć dawkę produktu leczniczego i zweryfikować jego dalsze stosowanie. Produktu nie powinno się podawać dłużej niż 8 do 12 tygodni. Długie stosowanie (trwające ponad 1 tydzień) oraz nagłe przerwanie leczenia może spowodować przejściowe zaburzenia snu, stany niepokoju i napięcia, uczucie zmęczenia i pobudzenia. Produkt leczniczy należy odstawiać stopniowo, poprzez zmniejszanie dawki. ",
@@ -81,20 +99,26 @@
     "4.8": "4.8 Działania niepożądane Podczas leczenia bromazepamem notowano niżej wymienione działania niepożądane, które występowały z następującą częstością: Często (≥1/100 to <1/10) Niezbyt często (≥1/1,000 to <1/100) Rzadko (≥1/10 000 do <1/1000) Częstość nieznana (częstość nie może być określona na podstawie dostępnych danych) Klasyfikacja układów Działania niepożądane i narządów MedDRA Zaburzenia układu Częstość nieznana: Nadwrażliwość, wstrząs anafilaktyczny, obrzęk immunologicznego naczynioruchowy Zaburzenia psychiczne Rzadko: Stan splątania*, zaburzenia emocjonalne*, zaburzenia libido, uzależnienie od leku**, nadużywanie leku**, zespół odstawienia**, depresja, reakcje paradoksalne, tj. niepokój ruchowy, pobudzenie, drażliwość, zachowanie agresywne, urojenia, złość, koszmary senne, omamy, psychoza, nietypowe zachowanie**, niepamięć następcza**, zaburzenia pamięci Zaburzenia układu nerwowego Często: Senność*, Częstość nieznana: Ból głowy*, zawroty głowy*, zmniejszenie czujności*, ataksja* Zaburzenia oka Rzadko: Podwójne widzenie* Zaburzenia serca Częstość nieznana: Niewydolność serca, włącznie z zatrzymaniem akcji serca Zaburzenia układu Częstość nieznana: Depresja oddechowa oddechowego, klatki piersiowej i śródpiersia Zaburzenia żołądka i jelit Rzadko: Nudności*, wymioty*, zaparcia Zaburzenia skóry i tkanki Rzadko: Wysypka, świąd, pokrzywka podskórnej Zaburzenia mięśniowo- Niezbyt często: Osłabienie siły mięśniowej* szkieletowe i tkanki łącznej Zaburzenia nerek i dróg Częstość nieznana: Zatrzymanie moczu moczowych Zaburzenia ogólne i stany Częstość nieznana: Uczucie zmęczenia* w miejscu podania Urazy, zatrucia i powikłania po Częstość nieznana: Upadki, złamania*** zabiegach * Działania te występują głównie na początku leczenia i zazwyczaj ustępują w jego trakcie. ** Patrz punkt ",
     "5.2": "5.2 Właściwości farmakokinetyczne Po podaniu doustnym bromazepam wchłania się szybko w około 85%. Maksymalne stężenie leku w osoczu osiąga po 1 godzinie od podania. Wiąże się z białkami osocza w 70%. Objętość dystrybucji waha się od 0,6 do 0,9 l/kg mc., a klirens wynosi około 60 ml/min. Bromazepam metabolizowany jest w wątrobie. Brak metabolitów o znaczącym działaniu klinicznym. Dwa główne metabolity: 3-hydroksybromazepam oraz 2-amino-5-bromobenzoilopirydyna wydalane są głównie przez nerki w postaci sprzężonej. Około 2% niezmienionej substancji czynnej znajduje się w moczu. Okres półtrwania bromazepamu i jego metabolitów wynosi od 15 do 28 godzin i może być wydłużony u pacjentów w podeszłym wieku. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki"
-    ],
-    "nazwa_powszechna": [
-     "Bromazepamum"
-    ],
-    "atc": [
-     "N05BA08"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.8"
+   ],
+   "sha256_pdf": "528fad68523ee9ad823b3f52bce268c35b120051c85cde40f9007c0961a36718",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10195/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "bromazepam",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

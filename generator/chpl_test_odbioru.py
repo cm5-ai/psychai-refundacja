@@ -150,6 +150,48 @@ try:
 except Exception as e:
     bledy.append(f"T10 nieczytelna data budowy: {e}")
 
+# T18. GENERATOR NIE MOZE SAM OGLOSIC KWARANTANNY.
+# Kwarantanna jest decyzja czlowieka o cache, ktorego nie da sie przebudowac.
+# Gdyby generator umial ja wystawiac, "legalizowalby" wlasne uciecia - a wtedy
+# T6 przestaje cokolwiek chronic. Dlatego: slowa KWARANTANNA nie ma prawa byc
+# w kodzie budujacym cache.
+try:
+    _zrodlo = open("generator/chpl_cache.py", encoding="utf-8").read()
+    if "KWARANTANNA" in _zrodlo:
+        bledy.append("T18: generator chpl_cache.py zawiera slowo KWARANTANNA - "
+                     "generator nie moze sam legalizowac wlasnych uciec")
+except OSError:
+    ostrzezenia.append("T18: nie odczytano generator/chpl_cache.py")
+
+# STATUS KWARANTANNY - naglowek raportu. NIE zmienia werdyktu: plik
+# w kwarantannie z definicji nie jest cache produkcyjnym.
+_kw = []
+for _f in sorted(glob.glob(KATALOG + "/*.json")):
+    if os.path.basename(_f) == "INDEX.json":
+        continue
+    try:
+        _d = json.load(open(_f, encoding="utf-8"))
+    except Exception:
+        continue
+    if _d.get("STATUS") == "KWARANTANNA":
+        _o = _u = 0
+        for _p in _d.get("produkty", []):
+            _k = _p.get("KWARANTANNA") or {}
+            _o += len(_k.get("odrzucone") or [])
+            _u += len(_k.get("uciete") or [])
+        _kw.append((_d.get("substancja"), _o, _u))
+        _kw_data = _d.get("KWARANTANNA_DATA", "?")
+if _kw:
+    print("=" * 60)
+    print("CACHE W KWARANTANNIE od", _kw_data)
+    print("plikow:", len(_kw),
+          "| punktow odrzuconych (tresc obca):", sum(x[1] for x in _kw),
+          "| oznaczonych jako uciete:", sum(x[2] for x in _kw))
+    print("TEN CACHE NIE JEST PRODUKCYJNY. Runtime czyta go wylacznie przez")
+    print("punkty_nieznalezione i punkty_uciete (modul 19). Przebudowa: rejestr")
+    print("nieosiagalny 2026-09-23.")
+    print("=" * 60)
+
 print(f"substancji w INDEX: {len(subs)} | plikow: {len(glob.glob(KATALOG + '/*.json'))}")
 for o in ostrzezenia[:40]:
     print("  UWAGA:", o)

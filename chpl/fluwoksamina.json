@@ -1,25 +1,34 @@
 {
- "substancja": "fluwoksamina",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Fevarin",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3",
+     "4.4",
+     "4.5"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AB08"
+    ],
+    "nazwa_powszechna": [
+     "Fluvoxamini maleas"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "100 mg",
+   "nazwa": "Fevarin",
    "podmiot": "Viatris Healthcare Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2420/characteristic",
-   "sha256_pdf": "fdb6f04a06e291eb6e552784b3e6a44325ccd6659b598d55e1448b78e746c0f1",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania - Duże zaburzenia depresyjne - Zaburzenia obsesyjno-kompulsyjne (ang. obsessive-compulsive disorder, OCD) ",
     "4.2": "4.2 Dawkowanie i sposób podawania Depresja Dorośli Zalecaną dawką jest 100 mg na dobę. Leczenie należy rozpoczynać od 50 mg lub 100 mg, podawanych w jednej dawce wieczorem. Dawkowanie powinno zostać ocenione i, w razie konieczności, skorygowane w ciągu 3 do 4 tygodni od rozpoczęcia leczenia, a następnie wtedy, kiedy jest to uzasadnione klinicznie. Chociaż możliwy jest wzrost częstości działań niepożądanych po wyższych dawkach leku, to jeśli po kilku tygodniach stosowania produktu w zalecanej dawce odpowiedź na leczenie jest niewystarczająca, u niektórych pacjentów może okazać się korzystne stopniowe zwiększanie dawki do maksymalnie 300 mg na dobę (patrz punkt 5.1). Dawki do 150 mg można podawać w dawce pojedynczej, najlepiej wieczorem. Zaleca się, aby całkowitą dobową dawkę większą niż 150 mg podawać w 2 lub 3 dawkach podzielonych. Dawkowanie należy dostosowywać ostrożnie, indywidualnie u każdego chorego do osiągnięcia najmniejszej skutecznej dawki. Chorzy na depresję powinni być leczeni przez odpowiednio długi czas, przynajmniej 6 miesięcy, do czasu upewnienia się, że objawy choroby ustąpiły. Dzieci i młodzież Nie należy stosować produktu Fevarin w leczeniu dużych zaburzeń depresyjnych u dzieci i młodzieży w wieku poniżej 18 lat. Nie ustalono skuteczności i bezpieczeństwa stosowania produktu Fevarin w leczeniu dużych zaburzeń depresyjnych w populacji pediatrycznej (patrz punkt 4.4). 1 Zaburzenia obsesyjno - kompulsyjne Dorośli Zalecana dawka wynosi od 100 mg do 300 mg na dobę. Należy rozpoczynać od dawki 50 mg na dobę. Chociaż możliwy jest wzrost częstości działań niepożądanych po wyższych dawkach leku, to jeśli po kilku tygodniach stosowania produktu w zalecanej dawce odpowiedź na leczenie jest niewystarczająca, u niektórych pacjentów może okazać się korzystne stopniowe zwiększanie dawki do maksymalnie 300 mg na dobę (patrz punkt 5.1). Dawki do 150 mg można podawać w dawce pojedynczej, najlepiej wieczorem. Zaleca się, aby całkowitą dobową dawkę większą niż 150 mg podawać w 2 lub 3 dawkach podzielonych. Jeśli uzyskano dobrą odpowiedź terapeutyczną, leczenie można kontynuować w indywidualnie dostosowanej dawce. Mimo braku systematycznych badań określających długość leczenia fluwoksaminą, należy wziąć pod uwagę, że OCD mają charakter przewlekły i dlatego u pacjentów z pozytywną odpowiedzią terapeutyczną warto rozważyć kontynuowanie leczenia ponad 10 tygodni. Dawkowanie należy dostosowywać ostrożnie, indywidualnie u każdego chorego do osiągnięcia najmniejszej skutecznej dawki. Zasadność dalszego leczenia należy oceniać okresowo. U pacjentów pozytywnie reagujących na farmakoterapię niektórzy klinicyści zalecają dodatkowo stosowanie psychoterapii behawioralnej. Nie wykazano skuteczności długotrwałego (ponad 24 tygodnie) leczenia OCD. Dzieci i młodzież Dawka początkowa dla dzieci w wieku ponad 8 lat i młodzieży to 25 mg na dobę podawana najlepiej przed snem. Dawkę można zwiększać o 25 mg co 4-7 dni przy dobrej tolerancji, aż do uzyskania skutecznej dawki. Skuteczna dawka wynosi zwykle od 50 mg do 200 mg na dobę. Maksymalna dawka u dzieci nie powinna przekraczać 200 mg na dobę. Zaleca się, aby całkowitą dawkę dobową większą niż 50 mg podawać w dwóch dawkach podzielonych. Jeśli dwie dawki podzielone nie są równe, większa dawka powinna być podana przed snem. Objawy odstawienia obserwowane po zakończeniu przyjmowania fluwoksaminy Należy unikać nagłego odstawienia leku. Kończąc leczenie fluwoksaminą należy zmniejszać dawkę stopniowo, przynajmniej przez okres 1 lub 2 tygodni, w celu ograniczenia ryzyka wystąpienia objawów odstawienia (patrz punkty 4.4 i 4.8). Jeśli po zmniejszeniu dawki lub zaprzestaniu leczenia wystąpią nasilone objawy odstawienia, można rozważyć powrót do poprzednio podawanej dawki. Następnie można kontynuować zmniejszanie dawki bardziej stopniowo. Niewydolność wątroby lub nerek U pacjentów z niewydolnością wątroby lub nerek należy zaczynać leczenie od małych dawek. Chorzy powinni pozostawać pod stałą kontrolą. Sposób podawania Tabletki Fevarin należy połykać bez rozgryzania, popijając wodą. ",
@@ -30,20 +39,28 @@
     "4.8": "4.8 Działania niepożądane Zdarzenia niepożądane obserwowane w badaniach klinicznych z częstością podaną poniżej, są często związane z chorobą i nie muszą mieć związku z leczeniem. Oszacowana częstość: bardzo często (1/10), często (1/100 do <1/10), niezbyt często (1/1 000 do <1/100), rzadko (1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych). System Często Niezbyt często Rzadko Częstość nieznana klasyfikacji narządowej MedDRA Zaburzenia Hiperprolaktynemia, endokrynologiczne nieprawidłowe wydzielanie hormonu antydiuretycznego Zaburzenia Anoreksja Hiponatremia, metabolizmu zwiększenie masy i odżywiania ciała, zmniejszenie masy ciała Zaburzenia Omamy, Mania Myśli samobójcze, psychiczne dezorientacja, zachowania agresja samobójcze 8 Zaburzenia Pobudzenie Zaburzenia Drgawki Zespół serotoninowy, układu nerwowego psychoruchowe, pozapiramidowe, zdarzenia nerwowość, lęk, ataksja przypominające bezsenność, złośliwy zespół senność, drżenie, neuroleptyczny, ból głowy, akatyzja/niepokój zawroty głowy psychoruchowy, parestezje, zaburzenia smaku Zaburzenia oka Jaskra, rozszerzenie źrenic Zaburzenia serca Kołatanie serca, tachykardia Zaburzenia Niedociśnienie Objawy krwotoczne naczyniowe ortostatyczne (tj. krwawienia z przewodu pokarmowego, krwawienia ginekologiczne, wybroczyny, plamica) Zaburzenia Ból brzucha, żołądka i jelit zaparcie, biegunka, suchość w ustach, niestrawność, nudności wymioty Zaburzenia Zaburzenia wątroby i dróg czynności żółciowych wątroby Zaburzenia skóry Nadmierne Skórne reakcje Nadwrażliwość Zespół Stevensa- i tkanki pocenie się nadwrażliwości na światło Johnsona**/Toksyczne podskórnej (w tym obrzęk martwicze oddzielanie naczynioruchowy się naskórka**, rumień wysypka, świąd) wielopostaciowy** Zaburzenia Bóle stawów, bóle Złamania kości* mięśniowo- mięśni szkieletowe, tkanki łącznej i kości Zaburzenia nerek Zaburzenia oddawania i i dróg moczu (włączając w to moczowych zatrzymanie moczu, nietrzymanie moczu, częstomocz, oddawanie moczu w nocy i mimowolne oddawanie moczu) Zaburzenia Nieprawidłowy Mlekotok Anorgazmia, układu (opóźniony) zaburzenia rozrodczego wytrysk miesiączkowania i piersi (takie jak brak miesiączki, skąpe 9 miesiączki, krwotok maciczny, krwotok miesiączkowy), krwotok poporodowy*** Zaburzenia ogólne Astenia, złe Zespół odstawienia, i stany w miejscu samopoczucie włączając zespół podania odstawienia u noworodka * Badania epidemiologiczne, przeprowadzone głównie u pacjentów w wieku 50 lat i starszych wykazały zwiększone ryzyko złamań kości u pacjentów przyjmujących SSRI i trójpierścieniowe leki przeciwdepresyjne (ang. tricyclic antidepressants, TCA). Mechanizm prowadzący do tego ryzyka jest nieznany. **Szacowana częstość na podstawie zgłoszeń po wprowadzeniu produktu do obrotu, nie obserwowane w czasie badań klinicznych kontrolowanych placebo. ***Zdarzenie to zgłaszano dla grupy leków SSRI i SNRI (patrz punkty 4.4 i 4.6). Objawy odstawienia po zaprzestaniu stosowania fluwoksaminy Zaprzestanie leczenia fluwoksaminą (zwłaszcza nagłe zakończenie leczenia) często prowadzi do wystąpienia objawów odstawienia. Z tego powodu w przypadku gdy leczenie fluwoksaminą nie jest dłużej konieczne, zaleca się zakończenie jej podawania poprzez stopniowe zmniejszanie dawki (patrz punkt 4.2 i 4.4). Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, fax: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Fluwoksamina wchłania się całkowicie po podaniu doustnym. Maksymalne stężenia w osoczu występują w ciągu 3-8 godzin po podaniu. Średnia całkowita biodostępność wynosi 53% z uwagi na procesy metaboliczne podczas pierwszego przejścia przez wątrobę. Jednoczesne spożycie pokarmu nie wpływa na farmakokinetykę fluwoksaminy. Dystrybucja Wiązanie fluwoksaminy z białkami osocza w warunkach in vitro wynosi 80%. Objętość dystrybucji u ludzi wynosi 25 l/kg. Metabolizm Fluwoksamina jest w znacznym stopniu metabolizowana w wątrobie. Chociaż w warunkach in vitro głównym izoenzymem odpowiadającym za metabolizm fluwoksaminy jest CYP2D6, to jednak stężenia w osoczu u osób, u których tempo metabolizmu z udziałem CYP2D6 jest powolne, są niewiele większe niż u osób charakteryzujących się intensywnym metabolizmem. Średni okres półtrwania w osoczu wynosi około 13-15 godzin po podaniu pojedynczej dawki i jest nieco dłuższy (17-22 godzin) w przypadku wielokrotnego dawkowania. Na ogół stężenia w osoczu osiągają stan stacjonarny w ciągu 10-14 dni. Fluwoksamina ulega intensywnej biotransformacji w wątrobie, głównie poprzez oksydacyjną demetylację. W wyniku tego powstaje co najmniej dziewięć metabolitów, które są wydalane przez nerki. Dwa główne metabolity wykazują minimalną aktywność farmakologiczną. Nie jest spodziewana aktywność farmakologiczna pozostałych metabolitów. Fluwoksamina jest silnym inhibitorem CYP1A2 i CYP2C19. Wykazuje umiarkowanie silną inhibicję CYP2C9, CYP2D6 i CYP3A4. 11 Fluwoksamina wykazuje liniową farmakokinetykę po podaniu pojedynczej dawki. Stężenia w stanie równowagi są większe niż stężenia wyliczone na podstawie danych dotyczących pojedynczej dawki i nieproporcjonalnie rosną po podaniu większych dawek dobowych. Szczególne grupy pacjentów Farmakokinetyka fluwoksaminy jest podobna u zdrowych osób dorosłych, osób w podeszłym wieku i pacjentów z niewydolnością nerek. Metabolizm fluwoksaminy jest zaburzony u pacjentów z chorobami wątroby. Stężenia fluwoksaminy w osoczu w stanie równowagi były dwukrotnie większe u dzieci (w wieku 6- 11 lat) niż u młodzieży (w wieku 12-17 lat). Stężenia w osoczu u młodzieży są zbliżone do wartości występujących u dorosłych. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Fluvoxamini maleas"
-    ],
-    "atc": [
-     "N06AB08"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3",
+    "4.4",
+    "4.5"
+   ],
+   "sha256_pdf": "fdb6f04a06e291eb6e552784b3e6a44325ccd6659b598d55e1448b78e746c0f1",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2420/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "fluwoksamina",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

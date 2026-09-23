@@ -1,25 +1,32 @@
 {
- "substancja": "chlorpromazyna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Fenactil",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05AA01"
+    ],
+    "nazwa_powszechna": [
+     "Chlorpromazini hydrochloridum"
+    ],
+    "postac": [
+     "Krople doustne, roztwór"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "40 mg/g",
+   "nazwa": "Fenactil",
    "podmiot": "Zakłady Farmaceutyczne \"UNIA\" Spółdzielnia Pracy",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2391/characteristic",
-   "sha256_pdf": "c0257d5899aee4f59d0dc78e99316b222f13d2c0869ec5b66ce3414addb8fed3",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia psychiczne, takie jak: schizofrenia i psychozy innego typu (szczególnie paranoidalne), stany maniakalne, hipomaniakalne. Wspomagająco w krótkotrwałym leczeniu stanów lękowych, pobudzenia psychoruchowego, gwałtownych lub niebezpiecznych zachowań impulsywnych. Schizofrenia dziecięca i autyzm. Leczenie nudności i wymiotów, gdy inne leki są nieskuteczne lub niedostępne. Wystąpienie czkawki opornej na leczenie. ",
     "4.2": "4.2 Dawkowanie i sposób podawania 1 g produktu leczniczego Fenactil zawiera 40 mg chloropromazyny chlorowodorku (31 kropli). 1 kropla produktu leczniczego Fenactil zawiera 1,29 mg chloropromazyny chlorowodorku. UWAGA Nie należy stosować chloropromazyny chlorowodorku u dzieci w 1. roku życia z wyjątkiem sytuacji stanowiących zagrożenie dla życia. Dawkowanie Sposób dawkowania chloropromazyny chlorowodorku należy ustalać indywidualnie dla każdego pacjenta. - Leczenie schizofrenii, innych psychoz, stanów maniakalnych, stanów lękowych, pobudzenia psychoruchowego i zachowań impulsywnych, leczenie schizofrenii dziecięcej i autyzmu Dorośli: Początkowo 25 mg trzy razy na dobę lub 75 mg wieczorem, zwiększając dawkę dobową o 25 mg aż do uzyskania skutecznej podtrzymującej dawki dobowej. Podtrzymująca dawka dobowa wynosi od 75 mg do 300 mg, u niektórych pacjentów nawet do 1 g. 1 Dzieci od 1 roku do 6 lat: 0,5 mg/kg mc. co 4-6 h, aż do zalecanej dawki 40 mg na dobę. Dzieci od 6 do 12 lat: do dawki dla dorosłych, aż do maksymalnej zalecanej dawki 75 mg na dobę. Pacjenci w podeszłym wieku lub osłabieni: Początkowa dawka to do zwykłej dawki dla dorosłych, dawkę zwiększać stopniowo. - Leczenie nudności i wymiotów Dorośli: 10 mg do 25 mg co 4-6 h. Dzieci od 1 roku do 6 lat: 0,5 mg/kg mc. co 4-6 h, maksymalna dawka dobowa nie powinna być większa niż 40 mg. Dzieci od 6 do 12 lat: 0,5 mg/kg mc. co 4-6 h, maksymalna dawka dobowa nie powinna być większa niż 75 mg. Pacjenci w podeszłym wieku lub osłabieni: Dawka początkowa to do zwykłej dawki dla dorosłych. Leczenie powinno odbywać się pod ścisłą kontrolą lekarza. - Leczenie czkawki Dorośli: 25 mg do 50 mg trzy lub cztery razy na dobę. Dzieci od 1 roku do 12 lat: Brak danych Pacjenci w podeszłym wieku lub osłabieni: Brak danych ",
@@ -30,22 +37,28 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane pojawiają się rzadko w trakcie stosowania produktu leczniczego. Do najczęściej występujących należą zaburzenia ze strony układu nerwowego. Zaburzenia krwi i układu chłonnego: u 30% pacjentów przyjmujących duże dawki produktu leczniczego przez dłuższy czas może wystąpić niewielka leukopenia. Rzadko może pojawić się agranulocytoza, która nie jest zależna od dawki produktu leczniczego. Zaburzenia układu immunologicznego: podczas leczenia fenotiazyną mogą wystąpić reakcje alergiczne, takie jak: obrzęk naczynioruchowy, skurcz oskrzeli i pokrzywka, rzadko obserwuje się 5 wstrząs anafilaktyczny. Podczas leczenia produktem leczniczym bardzo rzadko może pojawić się toczeń rumieniowaty układowy. Zaburzenia endokrynologiczne: hiperprolaktynemia, która może objawiać się mlekotokiem, ginekomastią, brakiem menstruacji i impotencją. Zaburzenia układu nerwowego: ostre dystonie, dyskinezy, zwykle krótkotrwałe, częściej występują u dzieci i młodzieży w trakcie pierwszych czterech dni leczenia lub po zwiększeniu dawki; akatyzja zwykle pojawia się po podaniu dużej dawki początkowej; parkinsonizm częściej pojawia się u dorosłych i osób w podeszłym wieku, zwykle po kilku tygodniach lub miesiącach leczenia. Najczęstsze objawy parkinsonizmu to: drżenie, sztywność, akineza; dyskinezy późne mogące pojawić się podczas stosowania przez dłuższy czas dużych dawek produktu leczniczego, nawet po zaprzestaniu leczenia. Należy stosować możliwie najmniejsze dawki produktu leczniczego; bezsenność; pobudzenie. Zaburzenia okulistyczne: obserwuje się zmiany oczne i pojawienie metalicznego szaro- fiołkoworóżowego zabarwienia odsłoniętej skóry, głównie u kobiet przyjmujących chloropromazyny chlorowodorek nieprzerwanie przez długi okres czasu (od 4 do 8 lat). Zaburzenia serca: podczas leczenia neuroleptykami może pojawić się arytmia serca, w tym arytmie przedsionkowe, blok A-V, częstoskurcz komorowy, migotanie komór, prawdopodobnie zależne od dawki. Do pojawienia się tych objawów mogą predysponować wcześniejsze choroby serca, podeszły wiek, hipokaliemia i jednoczesne przyjmowanie trójpierścieniowych leków przeciwdepresyjnych. Obserwuje się niewielkie zmiany w EKG, takie jak: wydłużenie odstępu QT, obniżenie odcinka ST, zmiany załamków U i T. Zaburzenia naczyniowe: niedociśnienie, zwykle ortostatyczne, na wystąpienie którego narażone są szczególnie osoby w podeszłym wieku lub z hipowolemią. Wystąpienie niedociśnienia ortostatycznego jest bardziej prawdopodobne po podaniu domięśniowym produktu leczniczego. Zaburzenia żołądka i jelit: możliwe jest wystąpienie suchości błony śluzowej jamy ustnej. Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia: u osób wrażliwych (podatnych) może wystąpić depresja oddechowa; może dojść do zmniejszenia drożności nosa. Zaburzenia wątroby i dróg żółciowych: u niewielkiego procenta pacjentów przyjmujących chloropromazyny chlorowodorek może wystąpić przejściowa żółtaczka. Objawem ostrzegawczym może być nagłe pojawienie się gorączki po tygodniu do trzech tygodni od rozpoczęcia leczenia. Żółtaczka po przyjęciu chloropromazyny chlorowodorku posiada cechy żółtaczki cholestatycznej i jest związana z zaleganiem w przewodach żółciowych skrzepliny żółciowej. Towarzysząca eozynofilia wskazuje na alergiczne podłoże tego zjawiska. Rzadko u pacjentów przyjmujących chloropromazyny chlorowodorek dochodzi do uszkodzenia wątroby, czasami śmiertelnego. W przypadku pojawienia się żółtaczki należy przerwać leczenie. Zaburzenia skóry i tkanki podskórnej: w przypadku częstego kontaktu z produktem leczniczym może (rzadko) pojawić się alergia kontaktowa. Różnego rodzaju wysypki skórne mogą pojawić się również w trakcie przyjmowania produktu leczniczego. U pacjentów przyjmujących duże dawki produktu leczniczego może wystąpić fotowrażliwość podczas słonecznej pogody, należy więc unikać bezpośredniej ekspozycji na promienie słoneczne. Zaburzenia układu rozrodczego i piersi: rzadko obserwuje się priapizm u pacjentów leczonych chloropromazyny chlorowodorkiem. Zaburzenia ogólne i stany w miejscu podania: może wystąpić złośliwy zespół neuroleptyczny (hipertermia, sztywność, zaburzenia autonomicznego układu nerwowego, zaburzenia świadomości). Zgłaszanie podejrzewanych działań niepożądanych 6 Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, 02-222 Warszawa tel.: + 48 22 49 21 301 faks: + 48 22 49 21 309 strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne 7 Po podaniu doustnym chloropromazyny chlorowodorek wchłania się szybko z przewodu pokarmowego i jest dobrze rozprowadzany po organizmie. Maksymalne stężenie we krwi osiąga w ciągu 1 godziny. Chloropromazyny chlorowodorek jest metabolizowany w wątrobie i wydalany z moczem i żółcią. Stężenie chloropromazyny chlorowodorku we krwi zmniejsza się szybko, podczas gdy metabolity chloropromazyny chlorowodorku wydalane są powoli. Chloropromazyny chlorowodorek wiąże się w dużym stopniu z białkami osocza. Łatwo przechodzi przez łożysko. Niewielkie ilości są również wykrywane w mleku matki. U dzieci wymagana jest mniejsza dawka na kg mc. niż u dorosłych. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Krople doustne, roztwór"
-    ],
-    "nazwa_powszechna": [
-     "Chlorpromazini hydrochloridum"
-    ],
-    "atc": [
-     "N05AA01"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.2"
+   ],
+   "sha256_pdf": "c0257d5899aee4f59d0dc78e99316b222f13d2c0869ec5b66ce3414addb8fed3",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2391/characteristic"
   }
  ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "chlorpromazyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "uwagi_audytu": [
   "2026-09-22: usunieto produkty podpiete przez blad dopasowania: Chlorprothixen Hasco, Chlorprothixen Zentiva. Powod: cudza ChPL (test odbioru T8b/T16)."
  ]

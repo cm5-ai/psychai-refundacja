@@ -1,25 +1,33 @@
 {
- "substancja": "buspiron",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Spamilan",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2",
+     "4.8"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05BE01"
+    ],
+    "nazwa_powszechna": [
+     "Buspironi hydrochloridum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "10 mg",
+   "nazwa": "Spamilan",
    "podmiot": "EGIS Polska Spółka z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9953/characteristic",
-   "sha256_pdf": "c87cdd28ca2ee476d52d646726a7459e1a4f6ecf7f73ae06143605ffca88454b",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Spamilan wskazany jest w krótkotrwałym leczeniu zaburzeń lękowych i łagodzeniu objawów lęku z towarzyszącą depresją lub bez depresji. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Dawkowanie należy dostosować w zależności od stanu pacjenta. Zalecana dawka początkowa wynosi 5 mg dwa lub trzy razy na dobę i można ją zwiększać co 2-3 dni. Zalecana dawka lecznicza wynosi 15 do 30 mg na dobę w dawkach podzielonych, natomiast maksymalna zalecana dawka dobowa wynosi 60 mg w dawkach podzielonych. 1 Spamilan wymaga wielokrotnego podawania: działania terapeutyczne nie pojawiają się wcześniej niż w ciągu około 7-14 dni leczenia. W celu uzyskania maksymalnej korzyści terapeutycznej konieczne może być leczenie przez 4 tygodnie. Pokarm zwiększa biodostępność buspironu. Spamilan należy przyjmować codziennie o tej samej porze, zawsze z posiłkiem lub zawsze bez posiłku. Jeśli buspiron podaje się jednocześnie z silnym inhibitorem CYP3A4, należy zastosować mniejszą dawkę początkową i zwiększać ją stopniowo, wyłącznie po ocenie lekarskiej (patrz punkt 4.5). Sok grejpfrutowy zwiększa stężenia buspironu w osoczu. Pacjenci stosujący buspiron powinni unikać picia dużych ilości soku grejpfrutowego. Pacjenci w podeszłym wieku Aktualnie dostępne dane nie zalecają zmiany schematu dawkowania w zależności od wieku lub płci pacjenta. Pacjenci z zaburzeniami czynności nerek Po pojedynczej dawce u pacjentów z łagodnym lub umiarkowanym pogorszeniem czynności nerek (klirens kreatyniny 20-49 mL/min/1,73 m2) obserwowano niewielkie zwiększenie stężeń buspironu we krwi, bez zwiększenia okresu półtrwania. U tych chorych buspiron należy stosować ostrożnie i zaleca się podawanie małych dawek 2 razy na dobę. Przed ewentualnym zwiększeniem dawki należy starannie oceniać odpowiedź na leczenie, oraz objawy występujące u pacjentów. Pojedyncza dawka u pacjentów z bezmoczem powoduje zwiększenie we krwi stężenia metabolitu 1-pirymidynylo- piperazyny (1-PP), przy czym dializa nie miała wpływu na stężenia buspironu ani na stężenia 1-PP. Buspironu nie należy podawać u pacjentów z klirensem kreatyniny < 20 mL/min/1,73 m2), a szczególnie u pacjentów z bezmoczem, ponieważ mogą wystąpić zwiększone i niepoddające się leczeniu stężenia buspironu i jego metabolitów Pacjenci z zaburzeniami czynności wątroby Zgodnie z oczekiwaniami, leki takie jak buspiron stosowane u pacjentów z pogorszeniem czynności wątroby wykazują osłabiony efekt pierwszego przejścia. Po pojedynczej dawce u pacjentów z marskością wątroby obserwuje się zwiększone maksymalne stężenia niezmienionego buspironu, z wydłużeniem jego okresu półtrwania. U tych chorych buspiron należy stosować ostrożnie a dawkowanie należy zwiększać indywidualnie, starając się ograniczyć prawdopodobieństwo wystąpienia niepożądanych objawów ośrodkowych, które mogą się pojawiać z uwagi na duże maksymalne stężenia buspironu. Zwiększanie dawki należy rozważać ostrożnie i dopiero po 4-5 dniach stosowania wcześniejszej dawki. Dzieci i młodzież Badania kontrolowane placebo, w których 334 pacjentów leczono buspironem przez okres do 6 tygodni nie wykazały, aby buspiron, w dawkach zalecanych dla dorosłych, był skuteczny w zespole lęku uogólnionego u pacjentów w wieku poniżej 18 lat. Osoczowe stężenia buspironu i jego aktywnego metabolitu były większe u dzieci niż u dorosłych otrzymujących równoważne dawki (patrz punkt 5.2). Ten lek nie jest zalecany do leczenia dzieci i młodzieży w wieku poniżej 18 lat (patrz punkt 4.4), ponieważ nie ustalono jego stosowania u dzieci i młodzieży. Brak danych dotyczących skuteczności i bezpieczeństwa stosowania buspironu u dzieci. Sposób podawania Podanie doustne. Lek należy przyjmować codziennie o tej samej porze, zawsze z posiłkiem lub zawsze bez posiłku. 2 ",
@@ -30,20 +38,27 @@
     "4.8": "4.8 Działania niepożądane Jeśli występują działania niepożądane, typowo są one obserwowane na początku leczenia i zwykle ustępują w czasie dalszego stosowania leku i (lub) po zmniejszeniu dawki. Doświadczenie kliniczne Gdy porównywano pacjentów otrzymujących buspiron z pacjentami otrzymującymi placebo, jedynymi objawami niepożądanymi, jakie występowały istotnie częściej (p < 0,10) w grupie buspironu niż w grupie placebo były: zawroty głowy, bóle głowy, nerwowość, nudności, pobudzenie i poty/potliwość skóry. Lista działań niepożądanych przedstawiona poniżej uwzględnia klasyfikację układów i narządów, preferowaną terminologię MedDRA i częstość występowania określoną następująco: bardzo często (≥ 1/10), często (≥ 1/100 do < 1/10) i bardzo rzadko (< 1/10 000). POLEKOWE DZIAŁANIA NIEPOŻĄDANE OPISYWANE W PRAKTYCE KLINICZNEJ Klasyfikacja układów i Częstość występowania Terminy MedDra narządów Zaburzenia psychiczne często nerwowość, bezsenność, zaburzenia koncentracji, depresja, stan splątania, zaburzenia snu, złość bardzo rzadko zaburzenia psychotyczne, omamy, depersonalizacja, chwiejność emocjonalna Zaburzenia układu nerwowego bardzo często zawroty głowy*, bóle głowy, senność często parestezje, nieostre widzenie, zaburzenia koordynacji, drżenie, szum w uszach bardzo rzadko zespół serotoninowy, drgawki, widzenie tunelowe, zaburzenia pozapiramidowe, sztywność mięśni z objawem koła zębatego, dyskinezy, dystonia, omdlenie, amnezja, ataksja, parkinsonizm, akatyzja, zespół niespokojnych nóg, niepokój ruchowy Zaburzenia serca często tachykardia, ból w klatce piersiowej Zaburzenia układu często przekrwienie błony śluzowej oddechowego, klatki piersiowej nosa, ból gardła i krtani i śródpiersia Zaburzenia żołądka i jelit często nudności, ból brzucha, suchość w jamie ustnej, biegunka, zaparcia, wymioty Zaburzenia skóry i tkanki często zimne poty, wysypka podskórnej rzadko obrzęk naczynioruchowy, wybroczyny, pokrzywka Zaburzenia układu mięśniowo- często bóle kostno-mięśniowe szkieletowego i tkanki łącznej 7 Zaburzenia nerek i dróg bardzo rzadko zatrzymanie moczu moczowych Zaburzenia układu rozrodczego bardzo rzadko mlekotok i piersi Zaburzenia ogólne i odczyny w często zmęczenie miejscu podania *Zawroty głowy obejmują uczucie omdlewania. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Buspiron szybko wchłania się po podaniu doustnym. Dystrybucja Maksymalne stężenia w osoczu występują po 60-90 minutach od podania. Po wielokrotnym podaniu stężenia w osoczu w stanie stacjonarnym występują w ciągu 2 dni leczenia. Metabolizm Buspiron w 95% wiąże się z białkami osocza. Następnie w dużym stopniu ulega metabolizmowi pierwszego przejścia w wątrobie. Eliminacja Buspiron jest wydalany głównie w wyniku metabolizmu w wątrobie. W badaniach farmakokinetyki średni okres półtrwania wynosił od 2 do 11 godzin. Liniowość/nieliniowość Stężenie w osoczu jest liniowo zależne od dawki. Dzieci i młodzież W stanie stacjonarnym, następujące dawki buspironu u dzieci w wieku 6-12 lat powodowały zwiększenie Cmax (stężenie maksymalne) i AUC (pole powierzchni pod krzywą) w porównaniu z dorosłymi, jak przedstawiono w tabeli: Dawka Cmax AUC 7,5 mg dwa razy 2,9-krotnie 1,8-krotnie dziennie 15 mg dwa razy 2,1-krotnie 1,5-krotnie dziennie W całym badanym zakresie dawek, Cmax i AUC 1-PP (aktywnego metabolitu buspironu, 1- pirymidynylopiperazyny) u dzieci były w przybliżeniu dwukrotnie większe niż u dorosłych. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki"
-    ],
-    "nazwa_powszechna": [
-     "Buspironi hydrochloridum"
-    ],
-    "atc": [
-     "N05BE01"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.2",
+    "4.8"
+   ],
+   "sha256_pdf": "c87cdd28ca2ee476d52d646726a7459e1a4f6ecf7f73ae06143605ffca88454b",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9953/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "buspiron",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

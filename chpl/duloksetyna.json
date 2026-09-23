@@ -1,6 +1,184 @@
 {
- "substancja": "duloksetyna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
+ "produkty": [
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [
+     "4.4",
+     "4.5",
+     "4.8",
+     "5.2"
+    ],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2",
+     "4.3",
+     "4.6"
+    ]
+   },
+   "NAGLOWEK_NIEZGODNY": {
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "punkty": [
+     "4.4",
+     "4.5",
+     "4.8",
+     "5.2"
+    ],
+    "wykryto": "2026-09-23"
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AX21"
+    ],
+    "nazwa_powszechna": [
+     "Duloxetinum"
+    ],
+    "postac": [
+     "Kapsułki dojelitowe, twarde"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "moc": "30 mg",
+   "nazwa": "AuroDulox",
+   "podmiot": "Aurovitas Pharma Polska Sp. z o.o.",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Leczenie dużych zaburzeń depresyjnych. Leczenie bólu w obwodowej neuropatii cukrzycowej. Leczenie zaburzeń lękowych uogólnionych. Produkt leczniczy AuroDulox jest wskazany do stosowania u dorosłych. Dodatkowe informacje, patrz punkt 5.1. ",
+    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Duże zaburzenia depresyjne Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano bezpieczeństwo stosowania większych dawek niż 60 mg raz na dobę, aż do maksymalnej dawki 1 120 mg na dobę. Nie uzyskano jednak dowodów klinicznych na to, że u pacjentów, u których nie uzyskano odpowiedzi na leczenie zalecaną dawką początkową, zwiększenie dawki może przynieść korzyści. Odpowiedź na leczenie obserwuje się zwykle po 2-4 tygodniach stosowania. Po utrwaleniu odpowiedzi na leczenie przeciwdepresyjne zaleca się kontynuowanie terapii przez kilka miesięcy, aby zapobiec nawrotom. U pacjentów, u których uzyskano odpowiedź na leczenie duloksetyną z nawracającymi epizodami dużej depresji w wywiadzie, należy rozważyć dalsze długotrwałe leczenie dawką od 60 do 120 mg na dobę. Zaburzenia lękowe uogólnione Zalecana dawka początkowa u pacjentów z uogólnionymi zaburzeniami lękowymi wynosi 30 mg raz na dobę i może być przyjmowana podczas posiłku lub między posiłkami. W przypadku braku odpowiedniej odpowiedzi na leczenie, należy zwiększyć dawkę do 60 mg, czyli zazwyczaj stosowanej dawki podtrzymującej u większości pacjentów. U pacjentów ze współistniejącymi dużymi zaburzeniami depresyjnymi zaleca się stosowanie dawki początkowej i podtrzymującej 60 mg raz na dobę (patrz też zalecenia dotyczące dawkowania powyżej). Wykazano skuteczność dawek do 120 mg na dobę, których bezpieczeństwo stosowania oceniano w badaniach klinicznych. Dlatego, u pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, można rozważyć zwiększenie dawki do 90 mg lub 120 mg. Dawkę należy zwiększać w zależności od uzyskanej odpowiedzi na leczenie i tolerancji produktu leczniczego przez pacjenta. Po utrwaleniu się odpowiedzi, zaleca się kontynuowanie leczenia przez kilka miesięcy w celu zapobiegania nawrotom. Ból w obwodowej neuropatii cukrzycowej Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano bezpieczeństwo stosowania większych dawek niż 60 mg raz na dobę, aż do maksymalnej dawki 120 mg na dobę, podawanej w równych dawkach podzielonych. Stężenie duloksetyny w osoczu wykazuje dużą zmienność osobniczą, patrz punkt ",
+    "4.3": "4.3 Przeciwwskazania Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Przeciwwskazane jest jednoczesne stosowanie produktu AuroDulox z nieselektywnymi, nieodwracalnymi inhibitorami monoaminooksydazy (IMAO), patrz punkt ",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Płodność W badaniach na zwierzętach stosowanie duloksetyny nie miało wpływu na płodność samców, natomiast u samic skutki były widoczne tylko w przypadku stosowania dawek, które powodowały toksyczność u matek. Ciąża Badania na zwierzętach wykazały toksyczny wpływ na reprodukcję, gdy narażenie układowe (pole pod krzywą AUC) duloksetyny było mniejsze niż maksymalne narażenie kliniczne, patrz punkt "
+   },
+   "punkty_nieznalezione": [
+    "4.4",
+    "4.5",
+    "4.8",
+    "5.2"
+   ],
+   "punkty_odrzucone": {
+    "4.4": {
+     "powod": "Tresc punktu nie odpowiada jego numerowi - ekstraktor zakotwiczyl sie na odsylaczu wewnatrz tekstu. Wykryte 2026-09-23. To NIE znaczy, ze etykieta nie ma tego punktu - znaczy, ze my go nie mamy.",
+     "tresc": "4.4. Rozpoczynanie leczenia produktem AuroDulox u pacjentów z niekontrolowanym nadciśnieniem tętniczym jest przeciwwskazane ze względu na ryzyko przełomu nadciśnieniowego, patrz punkty 4.4 i 4.8. ",
+     "wykryto": "2026-09-23"
+    },
+    "4.5": {
+     "powod": "Tresc punktu nie odpowiada jego numerowi - ekstraktor zakotwiczyl sie na odsylaczu wewnatrz tekstu. Wykryte 2026-09-23. To NIE znaczy, ze etykieta nie ma tego punktu - znaczy, ze my go nie mamy.",
+     "tresc": "4.5. Choroba wątroby powodująca zaburzenia czynności wątroby, patrz punkt ",
+     "wykryto": "2026-09-23"
+    },
+    "4.8": {
+     "powod": "Tresc punktu nie odpowiada jego numerowi - ekstraktor zakotwiczyl sie na odsylaczu wewnatrz tekstu. Wykryte 2026-09-23. To NIE znaczy, ze etykieta nie ma tego punktu - znaczy, ze my go nie mamy.",
+     "tresc": "4.8. Jeżeli w wyniku zmniejszenia dawki lub przerwania leczenia wystąpią objawy nie do zniesienia dla pacjenta, można rozważyć wznowienie leczenia z użyciem wcześniej stosowanej dawki. Następnie lekarz może zalecić dalsze, stopniowe zmniejszanie dawki, ale w wolniejszym tempie. Sposób podawania Podanie doustne. ",
+     "wykryto": "2026-09-23"
+    },
+    "5.2": {
+     "powod": "Tresc punktu nie odpowiada jego numerowi - ekstraktor zakotwiczyl sie na odsylaczu wewnatrz tekstu. Wykryte 2026-09-23. To NIE znaczy, ze etykieta nie ma tego punktu - znaczy, ze my go nie mamy.",
+     "tresc": "5.2. Dlatego, u niektórych pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, korzystne może być zwiększenie dawki. Odpowiedź kliniczną należy ocenić po 2 miesiącach leczenia. Po tym okresie u pacjentów z niewystarczającą początkową odpowiedzią kliniczną mało prawdopodobne jest osiągnięcie lepszych wyników. Należy regularnie (nie rzadziej niż co 3 miesiące) oceniać korzyści z leczenia, patrz punkt ",
+     "wykryto": "2026-09-23"
+    }
+   },
+   "punkty_uciete": [
+    "4.2",
+    "4.3",
+    "4.6"
+   ],
+   "sha256_pdf": "ce31e9bbd563df6e28b1870e0cd5ffce008970f41b177255fbcaa521282d0bf0",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42070/characteristic"
+  },
+  {
+   "klucz_rpl": {
+    "atc": [
+     "N06AX21"
+    ],
+    "nazwa_powszechna": [
+     "Duloxetinum"
+    ],
+    "postac": [
+     "Kapsułki dojelitowe, twarde"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "moc": "60 mg",
+   "nazwa": "Cymbalta",
+   "punkty": {},
+   "stan": "BRAK URL ChPL W SPISIE",
+   "zrodlo": ""
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [
+     "4.8",
+     "5.2"
+    ],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2",
+     "4.4"
+    ]
+   },
+   "NAGLOWEK_NIEZGODNY": {
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "punkty": [
+     "4.8",
+     "5.2"
+    ],
+    "wykryto": "2026-09-23"
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AX21"
+    ],
+    "nazwa_powszechna": [
+     "Duloxetinum"
+    ],
+    "postac": [
+     "Tabletki dojelitowe"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "moc": "30 mg",
+   "nazwa": "Depratal",
+   "podmiot": "Adamed Pharma S.A.",
+   "punkty": {
+    "4.1": "4.1. Wskazania do stosowania Leczenie dużych zaburzeń depresyjnych. Leczenie bólu w obwodowej neuropatii cukrzycowej. Leczenie zaburzeń lękowych uogólnionych. Produkt leczniczy Depratal jest wskazany do stosowania u dorosłych. Dodatkowe informacje, patrz punkt 5.1. ",
+    "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Duże zaburzenia depresyjne Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano 1 bezpieczeństwo stosowania większych dawek niż 60 mg na dobę, aż do maksymalnej dawki 120 mg na dobę. Nie uzyskano jednak dowodów klinicznych, które wskazywałyby, że u pacjentów, u których nie uzyskano odpowiedzi na leczenie zalecaną dawką początkową, zwiększenie dawki może przynieść korzyści. Odpowiedź na leczenie obserwuje się zwykle po 2-4 tygodniach terapii. Po utrwaleniu odpowiedzi na leczenie przeciwdepresyjne zaleca się kontynuowanie terapii przez kilka miesięcy, aby zapobiec nawrotom. U pacjentów, u których uzyskano odpowiedź na leczenie duloksetyną z nawracającymi epizodami dużej depresji w wywiadzie należy rozważyć dalsze długotrwałe leczenie dawką od 60 do 120 mg na dobę. Zaburzenia lękowe uogólnione Zalecana dawka początkowa u pacjentów z uogólnionymi zaburzeniami lękowymi wynosi 30 mg raz na dobę i może być przyjmowana podczas posiłku lub między posiłkami. W przypadku braku odpowiedniej odpowiedzi na leczenie, należy zwiększyć dawkę do 60 mg, czyli zazwyczaj stosowanej dawki podtrzymującej u większości pacjentów. U pacjentów ze współistniejącymi dużymi zaburzeniami depresyjnymi zaleca się stosowanie dawki początkowej i podtrzymującej 60 mg raz na dobę (patrz też zalecenia dotyczące dawkowania powyżej). Wykazano skuteczność dawek do 120 mg na dobę, których bezpieczeństwo stosowania oceniano w badaniach klinicznych. Dlatego, u pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, można rozważyć zwiększenie dawki do 90 mg lub 120 mg. Dawkę należy zwiększać w zależności od uzyskanej odpowiedzi na leczenie i tolerancji produktu przez pacjenta. Po utrwaleniu się odpowiedzi, zaleca się kontynuowanie leczenia przez kilka miesięcy w celu zapobiegania nawrotom. Ból w obwodowej neuropatii cukrzycowej Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano bezpieczeństwo stosowania większych dawek niż 60 mg raz na dobę, aż do maksymalnej dawki 120 mg na dobę, podawanej w równych dawkach podzielonych. Stężenie duloksetyny w osoczu wykazuje dużą zmienność osobniczą (patrz punkt 5.2). Dlatego, u niektórych pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, zwiększenie dawki może przynieść korzyści. Odpowiedź kliniczną należy ocenić po 2 miesiącach leczenia. Po tym okresie u pacjentów z niewystarczającą początkową odpowiedzią kliniczną mało prawdopodobne jest osiągnięcie lepszych wyników. Należy regularnie (nie rzadziej niż co 3 miesiące) oceniać korzyści z leczenia (patrz punkt 5.1). Szczególne grupy pacjentów Osoby w podeszłym wieku Nie zaleca się dostosowania dawkowania u osób w podeszłym wieku, jedynie ze względu na wiek pacjenta. Jednakże, tak jak w przypadku innych produktów leczniczych, należy zachować ostrożność stosując produkt Depratal u osób w podeszłym wieku, szczególnie u pacjentów z dużymi zaburzeniami depresyjnymi lub uogólnionymi zaburzeniami lękowymi w przypadku podawania dawki 120 mg na dobę, dla której istnieją ograniczone dane (patrz punkty 4.4 i 5.2). Zaburzenia czynności wątroby Nie wolno stosować produktu Depratal u pacjentów z chorobami wątroby powodującymi zaburzenia czynności wątroby (patrz punkty 4.3 i 5.2). 2 Zaburzenia czynności nerek Nie jest konieczne dostosowanie dawki produktu leczniczego u pacjentów z łagodnym lub umiarkowanym zaburzeniem czynności nerek (klirens kreatyniny 30 do 80 ml/min). Nie wolno stosować produktu Depratal u pacjentów z ciężką niewydolnością nerek (klirens kreatyniny <30 ml/min; patrz punkt 4.3). Dzieci i młodzież Duloksetyny nie należy stosować u dzieci i młodzieży w wieku poniżej 18 lat w leczeniu dużych zaburzeń depresyjnych ze względu na bezpieczeństwo stosowania i skuteczność (patrz punkty 4.4, 4.8 i 5.1). Nie określono bezpieczeństwa stosowania ani skuteczności duloksetyny w leczeniu zaburzeń lękowych uogólnionych u dzieci i młodzieży w wieku od 7 do 17 lat. Aktualne dane przedstawiono w punktach 4.8, 5.1 i ",
+    "4.3": "4.3. Przeciwwskazania Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Przeciwwskazane jest jednoczesne stosowanie produktu Depratal z nieselektywnymi, nieodwracalnymi inhibitorami monoaminooksydazy (IMAO) (patrz punkt 4.5). Choroba wątroby powodująca zaburzenia czynności wątroby (patrz punkt 5.2). Nie należy stosować produktu Depratal w skojarzeniu z fluwoksaminą, cyprofloksacyną lub enoksacyną (tj. silnymi inhibitorami CYP1A2), ponieważ jednoczesne podawanie tych produktów powoduje zwiększenie stężenia duloksetyny w osoczu (patrz punkt 4.5). Ciężkie zaburzenia czynności nerek (klirens kreatyniny <30 ml/min) (patrz punkt 4.4). Przeciwwskazane jest rozpoczynanie leczenia produktem Depratal u pacjentów z niekontrolowanym nadciśnieniem tętniczym ze względu na ryzyko wystąpienia przełomu nadciśnieniowego (patrz punkty 4.4 i 4.8). ",
+    "4.4": "4.4. Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Epizody manii i napady padaczkowe Produkt leczniczy Depratal należy stosować ostrożnie u pacjentów z epizodami manii w wywiadzie lub z rozpoznaniem choroby afektywnej dwubiegunowej i (lub) napadów padaczkowych. Rozszerzenie źrenic (mydriaza) 3 Zgłaszano przypadki rozszerzenia źrenic w związku ze stosowaniem duloksetyny. Dlatego należy zachować ostrożność zalecając produkt leczniczy Depratal pacjentom ze zwiększonym ciśnieniem wewnątrzgałkowym lub z ryzykiem ostrej jaskry z wąskim kątem. Ciśnienie tętnicze i częstość akcji serca U niektórych pacjentów stosowanie duloksetyny powodowało zwiększenie ciśnienia tętniczego krwi i klinicznie istotne nadciśnienie tętnicze. Może być to spowodowane noradrenergicznym wpływem duloksetyny. Zgłaszano przypadki przełomu nadciśnieniowego podczas stosowania duloksetyny, zwłaszcza u pacjentów, u których występowało nadciśnienie przed rozpoczęciem leczenia. Dlatego u pacjentów ze stwierdzonym nadciśnieniem i (lub) innymi chorobami serca zaleca się kontrolowanie ciśnienia tętniczego, zwłaszcza w pierwszym miesiącu leczenia. Duloksetynę należy stosować ostrożnie u pacjentów, których stan może się pogorszyć w następstwie zwiększenia częstości akcji serca lub wzrostu ciśnienia tętniczego krwi. Należy zachować ostrożność w przypadku jednoczesnego stosowania duloksetyny i produktów leczniczych, które mogą powodować zaburzenia metabolizmu (patrz punkt 4.5). U pacjentów, u których utrzymuje się wysokie ciśnienie tętnicze krwi podczas stosowania duloksetyny, należy rozważyć zmniejszenie dawki lub stopniowe odstawienie produktu leczniczego (patrz punkt 4.8). U pacjentów z niekontrolowanym nadciśnieniem tętniczym krwi nie należy rozpoczynać leczenia duloksetyną (patrz punkt 4.3). Zaburzenia czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek, poddawanych hemodializie (klirens kreatyniny <30 ml/min) występowało zwiększone stężenie duloksetyny w osoczu. Pacjenci z ciężkim zaburzeniem czynności nerek - patrz punkt ",
+    "4.5": "4.5. Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Inhibitory monoaminooksydazy (IMAO): Ze względu na ryzyko wystąpienia zespołu serotoninowego, nie należy stosować duloksetyny jednocześnie z nieselektywnymi, nieodwracalnymi inhibitorami monoaminooksydazy (IMAO) lub w okresie przynajmniej 14 dni po przerwaniu leczenia IMAO. Ze względu na okres półtrwania duloksetyny, powinno upłynąć przynajmniej 5 dni od odstawienia produktu Depratal przed rozpoczęciem stosowania IMAO (patrz punkt 4.3). Nie zaleca się jednoczesnego stosowania produktu Depratal i selektywnych, odwracalnych inhibitorów monoaminooksydazy (IMAO), takich jak moklobemid (patrz punkt 4.4). Antybiotyk linezolid jest odwracalnym, nieselektywnym IMAO i nie należy go stosować u pacjentów leczonych produktem Depratal (patrz punkt 4.4). Inhibitory CYP1A2: Ponieważ duloksetyna jest metabolizowana przez CYP1A2, jednoczesne stosowanie duloksetyny i silnych inhibitorów CYP1A2 może spowodować zwiększenie stężenia duloksetyny. Fluwoksamina (w dawce 100 mg raz na dobę), silny inhibitor CYP1A2, zmniejszała pozorny klirens osoczowy duloksetyny o około 77% i zwiększała pole pod krzywą AUC0-t sześciokrotnie. Z tego powodu nie należy podawać produktu Depratal w skojarzeniu z silnymi inhibitorami CYP1A2, takimi jak fluwoksamina (patrz punkt 4.3). Produkty lecznicze działające na ośrodkowy układ nerwowy (OUN): Z wyjątkiem przypadków opisanych w niniejszym punkcie, nie przeprowadzono systematycznej oceny ryzyka związanego ze stosowaniem duloksetyny w skojarzeniu z innymi produktami leczniczymi działającymi na OUN. Z tego powodu zaleca się ostrożność w przypadku jednoczesnego stosowania produktu Depratal z innymi produktami leczniczymi lub substancjami działającymi na ośrodkowy układ nerwowy, w tym z alkoholem i lekami uspokajającymi (np. benzodiazepiny, opioidowe leki przeciwbólowe, leki przeciwpsychotyczne, fenobarbital, leki przeciwhistaminowe o działaniu uspokajającym). Substancje działające na receptory serotoninergiczne: W rzadkich przypadkach zgłaszano zespół serotoninowy u pacjentów stosujących jednocześnie selektywne inhibitory zwrotnego wychwytu serotoniny (SSRI) lub noradrenaliny (SNRI) i leki działające na receptory serotoninergiczne. Należy zachować ostrożność podczas jednoczesnego stosowania produktu leczniczego Depratal i leków serotoninergicznych, takich jak selektywne inhibitory zwrotnego wychwytu serotoniny, selektywne inhibitory zwrotnego wychwytu noradrenaliny, trójpierścieniowych leków przeciwdepresyjnych, np. klomipraminy i amitryptyliny, IMAO, takich jak moklobemid lub linezolid, produktów leczniczych zawierających ziele dziurawca zwyczajnego (Hypericum perforatum) lub tryptanów, tramadolu, petydyny, tryptofanu i buprenorfiny (patrz punkt 4.4). 7 Wpływ duloksetyny na inne produkty lecznicze: Leki metabolizowane przez CYP1A2: Jednoczesne stosowanie duloksetyny (60 mg dwa razy na dobę) nie wpływało istotnie na farmakokinetykę teofiliny, substratu enzymu CYP1A2. Leki metabolizowane przez CYP2D6: Duloksetyna jest umiarkowanym inhibitorem CYP2D6. Po podaniu duloksetyny w dawce 60 mg dwa razy na dobę i pojedynczej dawki dezypraminy, substratu CYP2D6, pole pod krzywą AUC dezypraminy zwiększyło się trzykrotnie. Jednoczesne podawanie duloksetyny (40 mg dwa razy na dobę) zwiększa pole pod krzywą AUC tolterodyny (podawanej w dawce 2 mg dwa razy na dobę) w stanie równowagi o 71%, lecz nie wpływa na farmakokinetykę jej aktywnego metabolitu 5-hydroksylowego. Nie jest zalecane dostosowanie dawki. Należy zachować ostrożność w przypadku jednoczesnego podawania produktu Depratal z lekami metabolizowanymi głównie przez CYP2D6 (rysperydon, trójpierścieniowe leki przeciwdepresyjne, takie jak nortryptylina, amitryptylina i imipramina), w szczególności gdy mają wąski indeks terapeutyczny (np. flekainid, propafenon i metoprolol). Doustne środki antykoncepcyjne i inne leki steroidowe: Wyniki badań in vitro wskazują, że duloksetyna nie pobudza katalitycznej aktywności CYP3A. Nie przeprowadzono szczegółowych badań interakcji in vivo. Przeciwzakrzepowe i przeciwpłytkowe produkty lecznicze: Należy zachować ostrożność w razie jednoczesnego stosowania duloksetyny i doustnych leków przeciwzakrzepowych lub przeciwpłytkowych, ze względu na zwiększone ryzyko wystąpienia krwawienia wynikającego z interakcji farmakodynamicznej. Ponadto, zgłaszano zwiększenie wartości współczynnika INR (ang. International Normalized Ratio) w przypadku jednoczesnego stosowania u pacjentów duloksetyny i warfaryny. Natomiast skojarzone stosowanie duloksetyny i warfaryny w ustalonych warunkach, u zdrowych ochotników, podczas klinicznego badania farmakologicznego nie powodowało klinicznie istotnej zmiany współczynnika INR w stosunku do wartości początkowej, oraz w farmakokinetyce R- lub S-warfaryny. Wpływ innych produktów leczniczych na duloksetynę Leki zobojętniające sok żołądkowy i antagoniści receptora histaminowego H2: Jednoczesne stosowanie duloksetyny z lekami zobojętniającymi zawierającymi glin i magnez lub duloksetyny z famotydyną nie wpływało w sposób istotny na szybkość ani na stopień wchłaniania duloksetyny po doustnym podaniu dawki 40 mg. Substancje zwiększające aktywność CYP1A2: Analizy farmakokinetyczne wykazały, że u osób palących stężenie duloksetyny w osoczu jest prawie o 50% mniejsze niż u osób niepalących. ",
+    "4.6": "4.6. Wpływ na płodność, ciążę i laktację Płodność W badaniach na zwierzętach stosowanie duloksetyny nie miało wpływu na płodność samców, natomiast u samic skutki były widoczne tylko w przypadku stosowania dawek, które powodowały toksyczność u matek. Ciąża Badania na zwierzętach wykazały toksyczny wpływ na reprodukcję w przypadku, gdy poziom narażenia układowego (pole pod krzywą AUC) duloksetyny był mniejszy niż maksymalna ekspozycja kliniczna (patrz punkt 5.3). Wyniki dwóch dużych badań obserwacyjnych (jedno przeprowadzone w Stanach Zjednoczonych Ameryki Północnej z udziałem 2500 kobiet przyjmujących duloksetynę w pierwszym trymestrze ciąży, a drugie w Unii Europejskiej z udziałem 1500 kobiet przyjmujących duloksetynę w pierwszym trymestrze ciąży) nie wskazują na zwiększenie ogólnego ryzyka wystąpienia poważnych wrodzonych wad rozwojowych u dzieci. Analiza poszczególnych wad rozwojowych, takich jak wady rozwojowe serca, nie dała jednoznacznych wyników. 8 W badaniu przeprowadzonym w Unii Europejskiej, stosowanie duloksetyny przez pacjentki w zaawansowanej ciąży (w dowolnym czasie od 20 tygodnia ciąży do porodu) było związane ze zwiększeniem ryzyka przedwczesnego porodu (mniej niż dwukrotne, co odpowiada około 6 dodatkowym przedwczesnym porodom na 100 kobiet leczonych duloksetyną w późnym okresie ciąży). Większość przedwczesnych porodów nastąpiła między 35. a 36. tygodniem ciąży. Takich zależności nie zaobserwowano w badaniu przeprowadzonym w Stanach Zjednoczonych Ameryki Północnej. Dane z obserwacji w Stanach Zjednoczonych Ameryki Północnej wskazują na zwiększenie ryzyka (mniej niż dwukrotne) krwotoku poporodowego w przypadku stosowania duloksetyny w ciągu miesiąca poprzedzającego poród. Dane epidemiologiczne wskazują, że stosowanie selektywnych inhibitorów wychwytu zwrotnego serotoniny (ang. SSRI) w ciąży, szczególnie w ciąży zaawansowanej, może zwiększać ryzyko wystąpienia przetrwałego nadciśnienia płucnego noworodków (ang. persistent pulmonary hypertension in the newborn, PPHN). Chociaż brak badań oceniających związek PPHN ze stosowaniem inhibitorów wychwytu zwrotnego serotoniny i noradrenaliny (ang. SNRI), nie można wykluczyć ryzyka jego wystąpienia podczas przyjmowania duloksetyny, biorąc pod uwagę związany z tym mechanizm działania (zahamowanie wychwytu zwrotnego serotoniny). Tak jak w przypadku innych leków działających na receptory serotoninergiczne, u noworodków, których matki przyjmowały duloksetynę w okresie przedporodowym, mogą wystąpić objawy odstawienia. Objawy odstawienia duloksetyny mogą obejmować hipotonię, drżenie, drżączkę, trudności w karmieniu, zaburzenia oddechowe i drgawki. Większość przypadków obserwowano w chwili urodzenia lub w ciągu kilku dni po urodzeniu. Produkt leczniczy Depratal można stosować u kobiet w ciąży tylko wtedy, gdy potencjalne korzyści przewyższają zagrożenie dla płodu. Kobietom należy zalecić, aby poinformowały lekarza, jeżeli w trakcie leczenia zajdą w ciążę bądź zamierzają zajść w ciążę. Karmienie piersią W badaniu obejmującym 6 pacjentek, które podczas laktacji nie karmiły dzieci piersią, stwierdzono, że duloksetyna bardzo słabo przenika do mleka ludzkiego. Szacowana dawka dobowa w miligramach w przeliczeniu na kilogram masy ciała dla niemowląt wynosi około 0,14% dawki stosowanej u matki (patrz punkt 5.2). Nie zaleca się stosowania produktu Depratal w okresie karmienia piersią, ponieważ nie jest określone bezpieczeństwo stosowania duloksetyny u niemowląt. "
+   },
+   "punkty_nieznalezione": [
+    "4.8",
+    "5.2"
+   ],
+   "punkty_odrzucone": {
+    "4.8": {
+     "powod": "Tresc punktu nie odpowiada jego numerowi - ekstraktor zakotwiczyl sie na odsylaczu wewnatrz tekstu. Wykryte 2026-09-23. To NIE znaczy, ze etykieta nie ma tego punktu - znaczy, ze my go nie mamy.",
+     "tresc": "4.8. Zazwyczaj objawy te są łagodne lub umiarkowane, jednak u niektórych pacjentów mogą być ciężkie. Objawy występują zazwyczaj w ciągu pierwszych kilku dni po przerwaniu leczenia, jednak istnieją bardzo rzadkie zgłoszenia o wystąpieniu objawów u pacjentów, którzy nieumyślnie pominęli dawkę produktu leczniczego. Na ogół objawy te ustępują samoistnie, zwykle w ciągu 2 tygodni, chociaż u niektórych pacjentów mogą utrzymywać się dłużej (od 2 do 3 miesięcy lub dłużej). Z tego powodu w przypadku przerwania leczenia zaleca się stopniowe zmniejszanie dawki duloksetyny w okresie nie krótszym niż 2 tygodnie, w zależności od wymagań pacjenta (patrz punkt 4.2). Osoby w podeszłym wieku Istnieją ograniczone dane dotyczące stosowania produktu Depratal w dawce 120 mg u pacjentów w podeszłym wieku z dużymi zaburzeniami depresyjnymi i uogólnionymi zaburzeniami lękowymi. Dlatego należy zachować ostrożność w przypadku stosowania maksymalnej dawki u osób w podeszłym wieku (patrz punkty 4.2 i 5.2). Akatyzja, niepokój psychoruchowy Stosowanie duloksetyny wiązało się z występowaniem akatyzji, charakteryzującej się uczuciem niepokoju subiektywnie odczuwanego jako nieprzyjemny lub przygnębiający oraz koniecznością poruszania się, często połączoną z niemożnością spokojnego usiedzenia lub ustania w miejscu. Największe prawdopodobieństwo wystąpienia tego objawu zachodzi w okresie pierwszych kilku tygodni leczenia. U pacjentów, u których wystąpiły takie objawy, zwiększanie dawki może być szkodliwe. Produkty lecznicze zawierające duloksetynę Duloksetyna jest stosowana pod innymi nazwami handlowymi w różnych wskazaniach (w leczeniu bólu w obwodowej neuropatii cukrzycowej, leczeniu dużych zaburzeń depresyjnych, leczeniu zaburzeń lękowych uogólnionych i wysiłkowego nietrzymania moczu). Należy unikać jednoczesnego stosowania więcej niż jednego z tych produktów leczniczych. Zapalenie wątroby lub zwiększenie aktywności enzymów wątrobowych 6 Podczas stosowania duloksetyny obserwowano uszkodzenia wątroby, w tym znaczne zwiększenie aktywności enzymów wątrobowych (>10-krotnie przekraczające górną granicę normy), zapalenie wątroby i żółtaczkę (patrz punkt 4.8). Większość z tych zdarzeń wystąpiła w pierwszych miesiącach leczenia. Uszkodzenie wątroby występowało głównie na poziomie hepatocytów. Należy zachować ostrożność podczas stosowania duloksetyny u pacjentów stosujących inne produkty lecznicze, które mogą powodować uszkodzenia wątroby. Zaburzenia czynności seksualnych Selektywne inhibitory wychwytu zwrotnego serotoniny (ang. selective serotonin reuptake inhibitors, SSRI) oraz inhibitory wychwytu zwrotnego serotoniny i noradrenaliny (ang. serotonin norepinephrine reuptake inhibitors, SNRI) mogą spowodować wystąpienie objawów zaburzeń czynności seksualnych (patrz punkt 4.8). Zgłaszano przypadki długotrwałych zaburzeń czynności seksualnych, w których objawy utrzymywały się pomimo przerwania stosowania SSRI i (lub) SNRI. Cukier Tabletki dojelitowe Depratal zawierają cukier prasowalny, w tym sacharozę. Pacjenci z rzadkimi dziedzicznymi zaburzeniami związanymi z nietolerancją fruktozy, zespołem złego wchłaniania glukozy-galaktozy lub niedoborem sacharazy-izomaltazy, nie powinni przyjmować tego produktu leczniczego. ",
+     "wykryto": "2026-09-23"
+    },
+    "5.2": {
+     "powod": "Tresc punktu nie odpowiada jego numerowi - ekstraktor zakotwiczyl sie na odsylaczu wewnatrz tekstu. Wykryte 2026-09-23. To NIE znaczy, ze etykieta nie ma tego punktu - znaczy, ze my go nie mamy.",
+     "tresc": "5.2. Nie badano bezpieczeństwa stosowania i skuteczności duloksetyny w leczeniu bólu w obwodowej neuropatii cukrzycowej. Nie ma dostępnych danych. Przerwanie leczenia Należy unikać nagłego przerwania stosowania produktu leczniczego. W przypadku zakończenia leczenia produktem Depratal należy stopniowo zmniejszać dawkę produktu leczniczego w ciągu przynajmniej 1 do 2 tygodni w celu zmniejszenia ryzyka wystąpienia objawów odstawienia (patrz punkty 4.4 i 4.8). Jeżeli w wyniku zmniejszenia dawki lub przerwania leczenia wystąpią objawy nie do zniesienia dla pacjenta, można rozważyć wznowienie leczenia z użyciem wcześniej stosowanej dawki. Następnie lekarz może zalecić dalsze, stopniowe zmniejszanie dawki, ale w wolniejszym tempie. Sposób podawania Do stosowania doustnego. ",
+     "wykryto": "2026-09-23"
+    }
+   },
+   "punkty_uciete": [
+    "4.2",
+    "4.4"
+   ],
+   "sha256_pdf": "98f24b85e1fe3bc89c3af40fa2544cc2212ca2dbc7f0c964028002aea8125286",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36471/characteristic"
+  }
+ ],
  "punkty_zadane": [
   "4.1",
   "4.2",
@@ -11,112 +189,6 @@
   "4.8",
   "5.2"
  ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
- "produkty": [
-  {
-   "nazwa": "AuroDulox",
-   "moc": "30 mg",
-   "podmiot": "Aurovitas Pharma Polska Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42070/characteristic",
-   "sha256_pdf": "ce31e9bbd563df6e28b1870e0cd5ffce008970f41b177255fbcaa521282d0bf0",
-   "stan": "OK",
-   "punkty": {
-    "4.1": "4.1 Wskazania do stosowania Leczenie dużych zaburzeń depresyjnych. Leczenie bólu w obwodowej neuropatii cukrzycowej. Leczenie zaburzeń lękowych uogólnionych. Produkt leczniczy AuroDulox jest wskazany do stosowania u dorosłych. Dodatkowe informacje, patrz punkt 5.1. ",
-    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Duże zaburzenia depresyjne Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano bezpieczeństwo stosowania większych dawek niż 60 mg raz na dobę, aż do maksymalnej dawki 1 120 mg na dobę. Nie uzyskano jednak dowodów klinicznych na to, że u pacjentów, u których nie uzyskano odpowiedzi na leczenie zalecaną dawką początkową, zwiększenie dawki może przynieść korzyści. Odpowiedź na leczenie obserwuje się zwykle po 2-4 tygodniach stosowania. Po utrwaleniu odpowiedzi na leczenie przeciwdepresyjne zaleca się kontynuowanie terapii przez kilka miesięcy, aby zapobiec nawrotom. U pacjentów, u których uzyskano odpowiedź na leczenie duloksetyną z nawracającymi epizodami dużej depresji w wywiadzie, należy rozważyć dalsze długotrwałe leczenie dawką od 60 do 120 mg na dobę. Zaburzenia lękowe uogólnione Zalecana dawka początkowa u pacjentów z uogólnionymi zaburzeniami lękowymi wynosi 30 mg raz na dobę i może być przyjmowana podczas posiłku lub między posiłkami. W przypadku braku odpowiedniej odpowiedzi na leczenie, należy zwiększyć dawkę do 60 mg, czyli zazwyczaj stosowanej dawki podtrzymującej u większości pacjentów. U pacjentów ze współistniejącymi dużymi zaburzeniami depresyjnymi zaleca się stosowanie dawki początkowej i podtrzymującej 60 mg raz na dobę (patrz też zalecenia dotyczące dawkowania powyżej). Wykazano skuteczność dawek do 120 mg na dobę, których bezpieczeństwo stosowania oceniano w badaniach klinicznych. Dlatego, u pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, można rozważyć zwiększenie dawki do 90 mg lub 120 mg. Dawkę należy zwiększać w zależności od uzyskanej odpowiedzi na leczenie i tolerancji produktu leczniczego przez pacjenta. Po utrwaleniu się odpowiedzi, zaleca się kontynuowanie leczenia przez kilka miesięcy w celu zapobiegania nawrotom. Ból w obwodowej neuropatii cukrzycowej Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano bezpieczeństwo stosowania większych dawek niż 60 mg raz na dobę, aż do maksymalnej dawki 120 mg na dobę, podawanej w równych dawkach podzielonych. Stężenie duloksetyny w osoczu wykazuje dużą zmienność osobniczą, patrz punkt ",
-    "4.3": "4.3 Przeciwwskazania Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Przeciwwskazane jest jednoczesne stosowanie produktu AuroDulox z nieselektywnymi, nieodwracalnymi inhibitorami monoaminooksydazy (IMAO), patrz punkt ",
-    "4.4": "4.4. Rozpoczynanie leczenia produktem AuroDulox u pacjentów z niekontrolowanym nadciśnieniem tętniczym jest przeciwwskazane ze względu na ryzyko przełomu nadciśnieniowego, patrz punkty 4.4 i 4.8. ",
-    "4.5": "4.5. Choroba wątroby powodująca zaburzenia czynności wątroby, patrz punkt ",
-    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Płodność W badaniach na zwierzętach stosowanie duloksetyny nie miało wpływu na płodność samców, natomiast u samic skutki były widoczne tylko w przypadku stosowania dawek, które powodowały toksyczność u matek. Ciąża Badania na zwierzętach wykazały toksyczny wpływ na reprodukcję, gdy narażenie układowe (pole pod krzywą AUC) duloksetyny było mniejsze niż maksymalne narażenie kliniczne, patrz punkt ",
-    "4.8": "4.8. Jeżeli w wyniku zmniejszenia dawki lub przerwania leczenia wystąpią objawy nie do zniesienia dla pacjenta, można rozważyć wznowienie leczenia z użyciem wcześniej stosowanej dawki. Następnie lekarz może zalecić dalsze, stopniowe zmniejszanie dawki, ale w wolniejszym tempie. Sposób podawania Podanie doustne. ",
-    "5.2": "5.2. Dlatego, u niektórych pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, korzystne może być zwiększenie dawki. Odpowiedź kliniczną należy ocenić po 2 miesiącach leczenia. Po tym okresie u pacjentów z niewystarczającą początkową odpowiedzią kliniczną mało prawdopodobne jest osiągnięcie lepszych wyników. Należy regularnie (nie rzadziej niż co 3 miesiące) oceniać korzyści z leczenia, patrz punkt "
-   },
-   "punkty_uciete": [],
-   "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Kapsułki dojelitowe, twarde"
-    ],
-    "nazwa_powszechna": [
-     "Duloxetinum"
-    ],
-    "atc": [
-     "N06AX21"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   },
-   "NAGLOWEK_NIEZGODNY": {
-    "punkty": [
-     "4.4",
-     "4.5",
-     "4.8",
-     "5.2"
-    ],
-    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
-    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
-    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
-    "wykryto": "2026-09-23"
-   }
-  },
-  {
-   "nazwa": "Cymbalta",
-   "moc": "60 mg",
-   "zrodlo": "",
-   "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {},
-   "klucz_rpl": {
-    "postac": [
-     "Kapsułki dojelitowe, twarde"
-    ],
-    "nazwa_powszechna": [
-     "Duloxetinum"
-    ],
-    "atc": [
-     "N06AX21"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Depratal",
-   "moc": "30 mg",
-   "podmiot": "Adamed Pharma S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36471/characteristic",
-   "sha256_pdf": "98f24b85e1fe3bc89c3af40fa2544cc2212ca2dbc7f0c964028002aea8125286",
-   "stan": "OK",
-   "punkty": {
-    "4.1": "4.1. Wskazania do stosowania Leczenie dużych zaburzeń depresyjnych. Leczenie bólu w obwodowej neuropatii cukrzycowej. Leczenie zaburzeń lękowych uogólnionych. Produkt leczniczy Depratal jest wskazany do stosowania u dorosłych. Dodatkowe informacje, patrz punkt 5.1. ",
-    "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Duże zaburzenia depresyjne Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano 1 bezpieczeństwo stosowania większych dawek niż 60 mg na dobę, aż do maksymalnej dawki 120 mg na dobę. Nie uzyskano jednak dowodów klinicznych, które wskazywałyby, że u pacjentów, u których nie uzyskano odpowiedzi na leczenie zalecaną dawką początkową, zwiększenie dawki może przynieść korzyści. Odpowiedź na leczenie obserwuje się zwykle po 2-4 tygodniach terapii. Po utrwaleniu odpowiedzi na leczenie przeciwdepresyjne zaleca się kontynuowanie terapii przez kilka miesięcy, aby zapobiec nawrotom. U pacjentów, u których uzyskano odpowiedź na leczenie duloksetyną z nawracającymi epizodami dużej depresji w wywiadzie należy rozważyć dalsze długotrwałe leczenie dawką od 60 do 120 mg na dobę. Zaburzenia lękowe uogólnione Zalecana dawka początkowa u pacjentów z uogólnionymi zaburzeniami lękowymi wynosi 30 mg raz na dobę i może być przyjmowana podczas posiłku lub między posiłkami. W przypadku braku odpowiedniej odpowiedzi na leczenie, należy zwiększyć dawkę do 60 mg, czyli zazwyczaj stosowanej dawki podtrzymującej u większości pacjentów. U pacjentów ze współistniejącymi dużymi zaburzeniami depresyjnymi zaleca się stosowanie dawki początkowej i podtrzymującej 60 mg raz na dobę (patrz też zalecenia dotyczące dawkowania powyżej). Wykazano skuteczność dawek do 120 mg na dobę, których bezpieczeństwo stosowania oceniano w badaniach klinicznych. Dlatego, u pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, można rozważyć zwiększenie dawki do 90 mg lub 120 mg. Dawkę należy zwiększać w zależności od uzyskanej odpowiedzi na leczenie i tolerancji produktu przez pacjenta. Po utrwaleniu się odpowiedzi, zaleca się kontynuowanie leczenia przez kilka miesięcy w celu zapobiegania nawrotom. Ból w obwodowej neuropatii cukrzycowej Dawka początkowa oraz zalecana dawka podtrzymująca wynoszą 60 mg raz na dobę i mogą być przyjmowane podczas posiłku lub między posiłkami. W badaniach klinicznych oceniano bezpieczeństwo stosowania większych dawek niż 60 mg raz na dobę, aż do maksymalnej dawki 120 mg na dobę, podawanej w równych dawkach podzielonych. Stężenie duloksetyny w osoczu wykazuje dużą zmienność osobniczą (patrz punkt 5.2). Dlatego, u niektórych pacjentów, u których nie uzyskano wystarczającej odpowiedzi na leczenie dawką 60 mg, zwiększenie dawki może przynieść korzyści. Odpowiedź kliniczną należy ocenić po 2 miesiącach leczenia. Po tym okresie u pacjentów z niewystarczającą początkową odpowiedzią kliniczną mało prawdopodobne jest osiągnięcie lepszych wyników. Należy regularnie (nie rzadziej niż co 3 miesiące) oceniać korzyści z leczenia (patrz punkt 5.1). Szczególne grupy pacjentów Osoby w podeszłym wieku Nie zaleca się dostosowania dawkowania u osób w podeszłym wieku, jedynie ze względu na wiek pacjenta. Jednakże, tak jak w przypadku innych produktów leczniczych, należy zachować ostrożność stosując produkt Depratal u osób w podeszłym wieku, szczególnie u pacjentów z dużymi zaburzeniami depresyjnymi lub uogólnionymi zaburzeniami lękowymi w przypadku podawania dawki 120 mg na dobę, dla której istnieją ograniczone dane (patrz punkty 4.4 i 5.2). Zaburzenia czynności wątroby Nie wolno stosować produktu Depratal u pacjentów z chorobami wątroby powodującymi zaburzenia czynności wątroby (patrz punkty 4.3 i 5.2). 2 Zaburzenia czynności nerek Nie jest konieczne dostosowanie dawki produktu leczniczego u pacjentów z łagodnym lub umiarkowanym zaburzeniem czynności nerek (klirens kreatyniny 30 do 80 ml/min). Nie wolno stosować produktu Depratal u pacjentów z ciężką niewydolnością nerek (klirens kreatyniny <30 ml/min; patrz punkt 4.3). Dzieci i młodzież Duloksetyny nie należy stosować u dzieci i młodzieży w wieku poniżej 18 lat w leczeniu dużych zaburzeń depresyjnych ze względu na bezpieczeństwo stosowania i skuteczność (patrz punkty 4.4, 4.8 i 5.1). Nie określono bezpieczeństwa stosowania ani skuteczności duloksetyny w leczeniu zaburzeń lękowych uogólnionych u dzieci i młodzieży w wieku od 7 do 17 lat. Aktualne dane przedstawiono w punktach 4.8, 5.1 i ",
-    "4.3": "4.3. Przeciwwskazania Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Przeciwwskazane jest jednoczesne stosowanie produktu Depratal z nieselektywnymi, nieodwracalnymi inhibitorami monoaminooksydazy (IMAO) (patrz punkt 4.5). Choroba wątroby powodująca zaburzenia czynności wątroby (patrz punkt 5.2). Nie należy stosować produktu Depratal w skojarzeniu z fluwoksaminą, cyprofloksacyną lub enoksacyną (tj. silnymi inhibitorami CYP1A2), ponieważ jednoczesne podawanie tych produktów powoduje zwiększenie stężenia duloksetyny w osoczu (patrz punkt 4.5). Ciężkie zaburzenia czynności nerek (klirens kreatyniny <30 ml/min) (patrz punkt 4.4). Przeciwwskazane jest rozpoczynanie leczenia produktem Depratal u pacjentów z niekontrolowanym nadciśnieniem tętniczym ze względu na ryzyko wystąpienia przełomu nadciśnieniowego (patrz punkty 4.4 i 4.8). ",
-    "4.4": "4.4. Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Epizody manii i napady padaczkowe Produkt leczniczy Depratal należy stosować ostrożnie u pacjentów z epizodami manii w wywiadzie lub z rozpoznaniem choroby afektywnej dwubiegunowej i (lub) napadów padaczkowych. Rozszerzenie źrenic (mydriaza) 3 Zgłaszano przypadki rozszerzenia źrenic w związku ze stosowaniem duloksetyny. Dlatego należy zachować ostrożność zalecając produkt leczniczy Depratal pacjentom ze zwiększonym ciśnieniem wewnątrzgałkowym lub z ryzykiem ostrej jaskry z wąskim kątem. Ciśnienie tętnicze i częstość akcji serca U niektórych pacjentów stosowanie duloksetyny powodowało zwiększenie ciśnienia tętniczego krwi i klinicznie istotne nadciśnienie tętnicze. Może być to spowodowane noradrenergicznym wpływem duloksetyny. Zgłaszano przypadki przełomu nadciśnieniowego podczas stosowania duloksetyny, zwłaszcza u pacjentów, u których występowało nadciśnienie przed rozpoczęciem leczenia. Dlatego u pacjentów ze stwierdzonym nadciśnieniem i (lub) innymi chorobami serca zaleca się kontrolowanie ciśnienia tętniczego, zwłaszcza w pierwszym miesiącu leczenia. Duloksetynę należy stosować ostrożnie u pacjentów, których stan może się pogorszyć w następstwie zwiększenia częstości akcji serca lub wzrostu ciśnienia tętniczego krwi. Należy zachować ostrożność w przypadku jednoczesnego stosowania duloksetyny i produktów leczniczych, które mogą powodować zaburzenia metabolizmu (patrz punkt 4.5). U pacjentów, u których utrzymuje się wysokie ciśnienie tętnicze krwi podczas stosowania duloksetyny, należy rozważyć zmniejszenie dawki lub stopniowe odstawienie produktu leczniczego (patrz punkt 4.8). U pacjentów z niekontrolowanym nadciśnieniem tętniczym krwi nie należy rozpoczynać leczenia duloksetyną (patrz punkt 4.3). Zaburzenia czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek, poddawanych hemodializie (klirens kreatyniny <30 ml/min) występowało zwiększone stężenie duloksetyny w osoczu. Pacjenci z ciężkim zaburzeniem czynności nerek - patrz punkt ",
-    "4.5": "4.5. Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Inhibitory monoaminooksydazy (IMAO): Ze względu na ryzyko wystąpienia zespołu serotoninowego, nie należy stosować duloksetyny jednocześnie z nieselektywnymi, nieodwracalnymi inhibitorami monoaminooksydazy (IMAO) lub w okresie przynajmniej 14 dni po przerwaniu leczenia IMAO. Ze względu na okres półtrwania duloksetyny, powinno upłynąć przynajmniej 5 dni od odstawienia produktu Depratal przed rozpoczęciem stosowania IMAO (patrz punkt 4.3). Nie zaleca się jednoczesnego stosowania produktu Depratal i selektywnych, odwracalnych inhibitorów monoaminooksydazy (IMAO), takich jak moklobemid (patrz punkt 4.4). Antybiotyk linezolid jest odwracalnym, nieselektywnym IMAO i nie należy go stosować u pacjentów leczonych produktem Depratal (patrz punkt 4.4). Inhibitory CYP1A2: Ponieważ duloksetyna jest metabolizowana przez CYP1A2, jednoczesne stosowanie duloksetyny i silnych inhibitorów CYP1A2 może spowodować zwiększenie stężenia duloksetyny. Fluwoksamina (w dawce 100 mg raz na dobę), silny inhibitor CYP1A2, zmniejszała pozorny klirens osoczowy duloksetyny o około 77% i zwiększała pole pod krzywą AUC0-t sześciokrotnie. Z tego powodu nie należy podawać produktu Depratal w skojarzeniu z silnymi inhibitorami CYP1A2, takimi jak fluwoksamina (patrz punkt 4.3). Produkty lecznicze działające na ośrodkowy układ nerwowy (OUN): Z wyjątkiem przypadków opisanych w niniejszym punkcie, nie przeprowadzono systematycznej oceny ryzyka związanego ze stosowaniem duloksetyny w skojarzeniu z innymi produktami leczniczymi działającymi na OUN. Z tego powodu zaleca się ostrożność w przypadku jednoczesnego stosowania produktu Depratal z innymi produktami leczniczymi lub substancjami działającymi na ośrodkowy układ nerwowy, w tym z alkoholem i lekami uspokajającymi (np. benzodiazepiny, opioidowe leki przeciwbólowe, leki przeciwpsychotyczne, fenobarbital, leki przeciwhistaminowe o działaniu uspokajającym). Substancje działające na receptory serotoninergiczne: W rzadkich przypadkach zgłaszano zespół serotoninowy u pacjentów stosujących jednocześnie selektywne inhibitory zwrotnego wychwytu serotoniny (SSRI) lub noradrenaliny (SNRI) i leki działające na receptory serotoninergiczne. Należy zachować ostrożność podczas jednoczesnego stosowania produktu leczniczego Depratal i leków serotoninergicznych, takich jak selektywne inhibitory zwrotnego wychwytu serotoniny, selektywne inhibitory zwrotnego wychwytu noradrenaliny, trójpierścieniowych leków przeciwdepresyjnych, np. klomipraminy i amitryptyliny, IMAO, takich jak moklobemid lub linezolid, produktów leczniczych zawierających ziele dziurawca zwyczajnego (Hypericum perforatum) lub tryptanów, tramadolu, petydyny, tryptofanu i buprenorfiny (patrz punkt 4.4). 7 Wpływ duloksetyny na inne produkty lecznicze: Leki metabolizowane przez CYP1A2: Jednoczesne stosowanie duloksetyny (60 mg dwa razy na dobę) nie wpływało istotnie na farmakokinetykę teofiliny, substratu enzymu CYP1A2. Leki metabolizowane przez CYP2D6: Duloksetyna jest umiarkowanym inhibitorem CYP2D6. Po podaniu duloksetyny w dawce 60 mg dwa razy na dobę i pojedynczej dawki dezypraminy, substratu CYP2D6, pole pod krzywą AUC dezypraminy zwiększyło się trzykrotnie. Jednoczesne podawanie duloksetyny (40 mg dwa razy na dobę) zwiększa pole pod krzywą AUC tolterodyny (podawanej w dawce 2 mg dwa razy na dobę) w stanie równowagi o 71%, lecz nie wpływa na farmakokinetykę jej aktywnego metabolitu 5-hydroksylowego. Nie jest zalecane dostosowanie dawki. Należy zachować ostrożność w przypadku jednoczesnego podawania produktu Depratal z lekami metabolizowanymi głównie przez CYP2D6 (rysperydon, trójpierścieniowe leki przeciwdepresyjne, takie jak nortryptylina, amitryptylina i imipramina), w szczególności gdy mają wąski indeks terapeutyczny (np. flekainid, propafenon i metoprolol). Doustne środki antykoncepcyjne i inne leki steroidowe: Wyniki badań in vitro wskazują, że duloksetyna nie pobudza katalitycznej aktywności CYP3A. Nie przeprowadzono szczegółowych badań interakcji in vivo. Przeciwzakrzepowe i przeciwpłytkowe produkty lecznicze: Należy zachować ostrożność w razie jednoczesnego stosowania duloksetyny i doustnych leków przeciwzakrzepowych lub przeciwpłytkowych, ze względu na zwiększone ryzyko wystąpienia krwawienia wynikającego z interakcji farmakodynamicznej. Ponadto, zgłaszano zwiększenie wartości współczynnika INR (ang. International Normalized Ratio) w przypadku jednoczesnego stosowania u pacjentów duloksetyny i warfaryny. Natomiast skojarzone stosowanie duloksetyny i warfaryny w ustalonych warunkach, u zdrowych ochotników, podczas klinicznego badania farmakologicznego nie powodowało klinicznie istotnej zmiany współczynnika INR w stosunku do wartości początkowej, oraz w farmakokinetyce R- lub S-warfaryny. Wpływ innych produktów leczniczych na duloksetynę Leki zobojętniające sok żołądkowy i antagoniści receptora histaminowego H2: Jednoczesne stosowanie duloksetyny z lekami zobojętniającymi zawierającymi glin i magnez lub duloksetyny z famotydyną nie wpływało w sposób istotny na szybkość ani na stopień wchłaniania duloksetyny po doustnym podaniu dawki 40 mg. Substancje zwiększające aktywność CYP1A2: Analizy farmakokinetyczne wykazały, że u osób palących stężenie duloksetyny w osoczu jest prawie o 50% mniejsze niż u osób niepalących. ",
-    "4.6": "4.6. Wpływ na płodność, ciążę i laktację Płodność W badaniach na zwierzętach stosowanie duloksetyny nie miało wpływu na płodność samców, natomiast u samic skutki były widoczne tylko w przypadku stosowania dawek, które powodowały toksyczność u matek. Ciąża Badania na zwierzętach wykazały toksyczny wpływ na reprodukcję w przypadku, gdy poziom narażenia układowego (pole pod krzywą AUC) duloksetyny był mniejszy niż maksymalna ekspozycja kliniczna (patrz punkt 5.3). Wyniki dwóch dużych badań obserwacyjnych (jedno przeprowadzone w Stanach Zjednoczonych Ameryki Północnej z udziałem 2500 kobiet przyjmujących duloksetynę w pierwszym trymestrze ciąży, a drugie w Unii Europejskiej z udziałem 1500 kobiet przyjmujących duloksetynę w pierwszym trymestrze ciąży) nie wskazują na zwiększenie ogólnego ryzyka wystąpienia poważnych wrodzonych wad rozwojowych u dzieci. Analiza poszczególnych wad rozwojowych, takich jak wady rozwojowe serca, nie dała jednoznacznych wyników. 8 W badaniu przeprowadzonym w Unii Europejskiej, stosowanie duloksetyny przez pacjentki w zaawansowanej ciąży (w dowolnym czasie od 20 tygodnia ciąży do porodu) było związane ze zwiększeniem ryzyka przedwczesnego porodu (mniej niż dwukrotne, co odpowiada około 6 dodatkowym przedwczesnym porodom na 100 kobiet leczonych duloksetyną w późnym okresie ciąży). Większość przedwczesnych porodów nastąpiła między 35. a 36. tygodniem ciąży. Takich zależności nie zaobserwowano w badaniu przeprowadzonym w Stanach Zjednoczonych Ameryki Północnej. Dane z obserwacji w Stanach Zjednoczonych Ameryki Północnej wskazują na zwiększenie ryzyka (mniej niż dwukrotne) krwotoku poporodowego w przypadku stosowania duloksetyny w ciągu miesiąca poprzedzającego poród. Dane epidemiologiczne wskazują, że stosowanie selektywnych inhibitorów wychwytu zwrotnego serotoniny (ang. SSRI) w ciąży, szczególnie w ciąży zaawansowanej, może zwiększać ryzyko wystąpienia przetrwałego nadciśnienia płucnego noworodków (ang. persistent pulmonary hypertension in the newborn, PPHN). Chociaż brak badań oceniających związek PPHN ze stosowaniem inhibitorów wychwytu zwrotnego serotoniny i noradrenaliny (ang. SNRI), nie można wykluczyć ryzyka jego wystąpienia podczas przyjmowania duloksetyny, biorąc pod uwagę związany z tym mechanizm działania (zahamowanie wychwytu zwrotnego serotoniny). Tak jak w przypadku innych leków działających na receptory serotoninergiczne, u noworodków, których matki przyjmowały duloksetynę w okresie przedporodowym, mogą wystąpić objawy odstawienia. Objawy odstawienia duloksetyny mogą obejmować hipotonię, drżenie, drżączkę, trudności w karmieniu, zaburzenia oddechowe i drgawki. Większość przypadków obserwowano w chwili urodzenia lub w ciągu kilku dni po urodzeniu. Produkt leczniczy Depratal można stosować u kobiet w ciąży tylko wtedy, gdy potencjalne korzyści przewyższają zagrożenie dla płodu. Kobietom należy zalecić, aby poinformowały lekarza, jeżeli w trakcie leczenia zajdą w ciążę bądź zamierzają zajść w ciążę. Karmienie piersią W badaniu obejmującym 6 pacjentek, które podczas laktacji nie karmiły dzieci piersią, stwierdzono, że duloksetyna bardzo słabo przenika do mleka ludzkiego. Szacowana dawka dobowa w miligramach w przeliczeniu na kilogram masy ciała dla niemowląt wynosi około 0,14% dawki stosowanej u matki (patrz punkt 5.2). Nie zaleca się stosowania produktu Depratal w okresie karmienia piersią, ponieważ nie jest określone bezpieczeństwo stosowania duloksetyny u niemowląt. ",
-    "4.8": "4.8. Zazwyczaj objawy te są łagodne lub umiarkowane, jednak u niektórych pacjentów mogą być ciężkie. Objawy występują zazwyczaj w ciągu pierwszych kilku dni po przerwaniu leczenia, jednak istnieją bardzo rzadkie zgłoszenia o wystąpieniu objawów u pacjentów, którzy nieumyślnie pominęli dawkę produktu leczniczego. Na ogół objawy te ustępują samoistnie, zwykle w ciągu 2 tygodni, chociaż u niektórych pacjentów mogą utrzymywać się dłużej (od 2 do 3 miesięcy lub dłużej). Z tego powodu w przypadku przerwania leczenia zaleca się stopniowe zmniejszanie dawki duloksetyny w okresie nie krótszym niż 2 tygodnie, w zależności od wymagań pacjenta (patrz punkt 4.2). Osoby w podeszłym wieku Istnieją ograniczone dane dotyczące stosowania produktu Depratal w dawce 120 mg u pacjentów w podeszłym wieku z dużymi zaburzeniami depresyjnymi i uogólnionymi zaburzeniami lękowymi. Dlatego należy zachować ostrożność w przypadku stosowania maksymalnej dawki u osób w podeszłym wieku (patrz punkty 4.2 i 5.2). Akatyzja, niepokój psychoruchowy Stosowanie duloksetyny wiązało się z występowaniem akatyzji, charakteryzującej się uczuciem niepokoju subiektywnie odczuwanego jako nieprzyjemny lub przygnębiający oraz koniecznością poruszania się, często połączoną z niemożnością spokojnego usiedzenia lub ustania w miejscu. Największe prawdopodobieństwo wystąpienia tego objawu zachodzi w okresie pierwszych kilku tygodni leczenia. U pacjentów, u których wystąpiły takie objawy, zwiększanie dawki może być szkodliwe. Produkty lecznicze zawierające duloksetynę Duloksetyna jest stosowana pod innymi nazwami handlowymi w różnych wskazaniach (w leczeniu bólu w obwodowej neuropatii cukrzycowej, leczeniu dużych zaburzeń depresyjnych, leczeniu zaburzeń lękowych uogólnionych i wysiłkowego nietrzymania moczu). Należy unikać jednoczesnego stosowania więcej niż jednego z tych produktów leczniczych. Zapalenie wątroby lub zwiększenie aktywności enzymów wątrobowych 6 Podczas stosowania duloksetyny obserwowano uszkodzenia wątroby, w tym znaczne zwiększenie aktywności enzymów wątrobowych (>10-krotnie przekraczające górną granicę normy), zapalenie wątroby i żółtaczkę (patrz punkt 4.8). Większość z tych zdarzeń wystąpiła w pierwszych miesiącach leczenia. Uszkodzenie wątroby występowało głównie na poziomie hepatocytów. Należy zachować ostrożność podczas stosowania duloksetyny u pacjentów stosujących inne produkty lecznicze, które mogą powodować uszkodzenia wątroby. Zaburzenia czynności seksualnych Selektywne inhibitory wychwytu zwrotnego serotoniny (ang. selective serotonin reuptake inhibitors, SSRI) oraz inhibitory wychwytu zwrotnego serotoniny i noradrenaliny (ang. serotonin norepinephrine reuptake inhibitors, SNRI) mogą spowodować wystąpienie objawów zaburzeń czynności seksualnych (patrz punkt 4.8). Zgłaszano przypadki długotrwałych zaburzeń czynności seksualnych, w których objawy utrzymywały się pomimo przerwania stosowania SSRI i (lub) SNRI. Cukier Tabletki dojelitowe Depratal zawierają cukier prasowalny, w tym sacharozę. Pacjenci z rzadkimi dziedzicznymi zaburzeniami związanymi z nietolerancją fruktozy, zespołem złego wchłaniania glukozy-galaktozy lub niedoborem sacharazy-izomaltazy, nie powinni przyjmować tego produktu leczniczego. ",
-    "5.2": "5.2. Nie badano bezpieczeństwa stosowania i skuteczności duloksetyny w leczeniu bólu w obwodowej neuropatii cukrzycowej. Nie ma dostępnych danych. Przerwanie leczenia Należy unikać nagłego przerwania stosowania produktu leczniczego. W przypadku zakończenia leczenia produktem Depratal należy stopniowo zmniejszać dawkę produktu leczniczego w ciągu przynajmniej 1 do 2 tygodni w celu zmniejszenia ryzyka wystąpienia objawów odstawienia (patrz punkty 4.4 i 4.8). Jeżeli w wyniku zmniejszenia dawki lub przerwania leczenia wystąpią objawy nie do zniesienia dla pacjenta, można rozważyć wznowienie leczenia z użyciem wcześniej stosowanej dawki. Następnie lekarz może zalecić dalsze, stopniowe zmniejszanie dawki, ale w wolniejszym tempie. Sposób podawania Do stosowania doustnego. "
-   },
-   "punkty_uciete": [],
-   "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki dojelitowe"
-    ],
-    "nazwa_powszechna": [
-     "Duloxetinum"
-    ],
-    "atc": [
-     "N06AX21"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   },
-   "NAGLOWEK_NIEZGODNY": {
-    "punkty": [
-     "4.8",
-     "5.2"
-    ],
-    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
-    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
-    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
-    "wykryto": "2026-09-23"
-   }
-  }
- ]
+ "substancja": "duloksetyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

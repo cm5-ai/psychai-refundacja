@@ -1,25 +1,32 @@
 {
- "substancja": "klorazepat",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Cloranxen",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05BA05"
+    ],
+    "nazwa_powszechna": [
+     "Dikalii clorazepas"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "10 mg",
+   "nazwa": "Cloranxen",
    "podmiot": "Teva Pharmaceuticals Polska Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8002/characteristic",
-   "sha256_pdf": "801a2d1d91b113cbdf278f2123db1c34253735ca060b0bf508cf270bf52526de",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania • Krótkotrwałe stany lęku i niepokoju, zwłaszcza doraźnie wspomagająco w przebiegu nerwicy • Zespół abstynencji w uzależnieniu alkoholowym (majaczenie alkoholowe, stany predeliryjne). Leczenie farmakologiczne jest wskazane tylko w sytuacjach, w których objawy są nasilone, zaburzają prawidłowe funkcjonowanie lub są uciążliwe dla pacjenta. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie należy rozpoczynać od dawki początkowej, stopniowo zwiększając dawkę, w celu uniknięcia wystąpienia działań niepożądanych. Nie należy przekraczać dawki maksymalnej 30 mg na dobę. Czas leczenia powinien być możliwie najkrótszy i nie powinien przekraczać 4 tygodni włączając w to okres zmniejszania dawki. Podczas leczenia należy regularnie monitorować pacjenta w celu ewentualnego zmniejszenia dawki lub częstości podawania leku. Ze względu na możliwość wystąpienia objawów odstawienia, lek należy odstawiać ostrożnie, stopniowo zmniejszając dawkę dobową. Dawkowanie Dorośli dawka terapeutyczna: od 5 mg do 30 mg na dobę. Leczenie zaleca się rozpoczynać od dawki 5 mg na dobę. Dawkę dobową można przyjmować jeden raz na dobę, wieczorem. 1 Dzieci i młodzież Produkt leczniczy Cloranxen w dawce 10 mg jest przeznaczony do stosowania u osób dorosłych. Produkt leczniczy w dawce 5 mg: Dane dotyczące stosowania u dzieci i młodzieży w leczeniu lęku są ograniczone, dlatego nie zaleca się stosowania w tej grupie wiekowej. Tylko w wyjątkowych przypadkach, uzasadnionych przez lekarza specjalistę, stosowanie u dzieci w wieku powyżej 12 lat: w dawce 0,5 mg/kg mc. na dobę w dawkach podzielonych. Pacjenci w podeszłym wieku U pacjentów w wieku podeszłym należy zmniejszyć dawkę o 50 %; leczenie powinno trwać jak najkrócej. Pacjenci z zaburzeniami czynności nerek U pacjentów z zaburzeniami czynności nerek dawkę leku należy zmniejszyć o 50 %. Pacjenci z zaburzeniami czynności wątroby U pacjentów z zaburzeniami czynności wątroby produkt leczniczy Cloranxen należy stosować bardzo ostrożnie; u pacjentów z niewydolnością wątroby może wystąpić encefalopatia. ",
@@ -30,28 +37,42 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania i nasilenie działań niepożądanych zależy od indywidualnej wrażliwości pacjenta oraz podanej dawki klorazepanu. 6 Klasyfikacja układów Bardzo Często Niezbyt często Częstość nieznana i narządów wg MedDRA często (≥1/100 (≥1/1000 do (nie może być określona na (≥1/10) do <1/100) podstawie dostępnych danych). <1/10) Zaburzenia układu Reakcje immunologicznego nadwrażliwości Zaburzenia psychiczne Drażliwość; Bradyfrenia; Pobudzenie; U określonych pacjentów (w Splątanie szczególności u dzieci i osób w podeszłym wieku) mogą wystąpić reakcje paradoksalne (patrz także punkt 4.4); Agresja; omamy, niepokój, euforia, bezsenność, koszmary nocne, psychozy, niewłaściwe zachowanie. Reakcje te występują zwłaszcza u dzieci i osób w podeszłym wieku. Może wystąpić niepamięć następcza. Może wystąpić zespół z odbicia z bardziej nasilonym lękiem niż ten, który był wskazaniem do zastosowania leczenia.* . Zaburzenia układu Senność Zawroty Obniżone Zaburzenia funkcji poznawczych, nerwowego (szczegó głowy napięcie takie jak osłabienie pamięci lnie u mięśniowe (niepamięć następcza (patrz osób w punkt 4.4), zaburzenia uwagi i podeszły zaburzenia mowy. m wieku) Ból głowy, uczucie znużenia, niezborność ruchowa, podwójne widzenie, może ujawnić się depresja, zaburzenia świadomości Zaburzenia skóry i Grudkowo- tkanki podskórnej plamkowe oraz swędzące wysypki skórne Zaburzenia ogólne i stany Osłabieni Upadki (patrz punkt 4.4) w miejscu podania e Niekiedy występuje zwiększenie masy ciała, zmiany libido. Ponadto występować może obniżenie ciśnienia tętniczego. Zaburzenia żołądka i jelit Suchość błon śluzowych jamy ustnej, uczucie pełności w nadbrzuszu, zaparcie. Zaburzenia układu Zaburzenia miesiączkowania i rozrodczego i piersi zahamowanie owulacji 7 *Długotrwałe stosowanie (szczególnie w dużych dawkach) może prowadzić do rozwoju uzależnienia fizycznego i, po odstawieniu leczenia - do zespołu odstawienia (patrz punkt 4.4). Występuje on gwałtowniej w przypadku zastosowania benzodiazepin o krótkim okresie półtrwania, niż po benzodiazepinach z długim okresem półtrwania (kilka dni). Podczas stosowania benzodiazepin może ujawnić się wcześniej istniejąca, niezdiagnozowana depresja. Może wystąpić uzależnienie psychiczne. Odnotowano przypadki nadużywania benzodiazepin. Stosowanie nawet terapeutycznych dawek produktu leczniczego może prowadzić do uzależnienia fizycznego; przerwanie leczenia może powodować objawy odstawienia lub bezsenność i niepokój „z odbicia”. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Klorazepan po podaniu doustnym ulega szybkiej przemianie do nordiazepamu i w tej postaci jest wchłaniany niemal całkowicie. Maksymalne stężenie występuje po 0,5-2 h (po podaniu 20 mg Cmax wynosi 200-600 ng/ml). Nordiazepam silnie wiąże się z białkami osocza (97-99 %). Pozorna objętość dystrybucji wynosi 0,6 –1,7 l/kg. Nordiazepam ulega częściowej przemianie do czynnego biologicznie oksazepamu, który jest następnie sprzęgany z kwasem glukuronowym i wydalany głównie z moczem. Okres półtrwania wynosi 50-75 h, ulega znacznemu wydłużeniu w chorobach wątroby (do 110 h), jak również u chorych w wieku podeszłym. Ze względu na długi okres półtrwania nordiazepam ulega kumulacji, po wielokrotnym podawaniu 20 mg/24 h stężenia w stanie stacjonarnym wynoszą 500–1100 ng/ml. Nie występuje ścisła korelacja pomiędzy stężeniami i działaniem produkt leczniczego. Szczególne populacje pacjentów U pacjentów w podeszłym wieku zmniejsza się metabolizm leku w wątrobie; stężenie leku we krwi w stanie stacjonarnym ulega zwiększeniu i wydłuża się okres półtrwania leku. U pacjentów w podeszłym wieku należy zmniejszyć dawkę leku. U pacjentów z zaburzeniem czynności wątroby okres półtrwania ulega wydłużeniu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "801a2d1d91b113cbdf278f2123db1c34253735ca060b0bf508cf270bf52526de",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8002/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3",
+     "4.4",
+     "4.5"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N05BA05"
     ],
     "nazwa_powszechna": [
      "Dikalii clorazepas"
     ],
-    "atc": [
-     "N05BA05"
+    "postac": [
+     "Kapsułki",
+     "Kapsułki twarde"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Tranxene",
+   },
    "moc": "10 mg",
+   "nazwa": "Tranxene",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6754/characteristic",
-   "sha256_pdf": "9f7bbe37b61ec1e63da5fceb846a07af0e4a323162bea21a7d962f54dc9d8838",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania - Krótkotrwałe stany lęku i niepokoju, zwłaszcza doraźnie wspomagająco w przebiegu nerwicy, - Zespół abstynencji w uzależnieniu alkoholowym (majaczenie alkoholowe, stany predeliryjne). Leczenie farmakologiczne jest wskazane tylko w sytuacjach, w których objawy są nasilone, zaburzają prawidłowe funkcjonowanie lub są uciążliwe dla pacjenta. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie należy rozpoczynać od dawki początkowej, stopniowo zwiększając dawkę, w celu uniknięcia wystąpienia działań niepożądanych. Nie należy przekraczać dawki maksymalnej 30 mg na dobę. Czas leczenia powinien być możliwie najkrótszy i nie powinien przekraczać 8 do 12 tygodni, włączając w to okres zmniejszania dawki. Podczas leczenia należy regularnie monitorować pacjenta w celu ewentualnego zmniejszenia dawki lub częstości podawania leku. Ze względu na możliwość wystąpienia objawów odstawienia, lek należy odstawiać ostrożnie, stopniowo zmniejszając dawkę dobową. Dawkowanie Dorośli dawka terapeutyczna: od 5 do 30 mg na dobę. Leczenie zaleca się rozpoczynać od dawki 5 mg na dobę. Dawkę dobową można przyjmować jeden raz na dobę, wieczorem. Dzieci i młodzież Produkt leczniczy Tranxene w dawce 10 mg jest przeznaczony do stosowania u osób dorosłych. Produkt leczniczy Tranxene w dawce 5 mg: Dane dotyczące stosowania u dzieci i młodzieży w leczeniu lęku są ograniczone, dlatego nie zaleca się stosowania w tej grupie wiekowej. Tylko w wyjątkowych przypadkach, uzasadnionych przez lekarza specjalistę, stosowanie u dzieci w wieku powyżej 9 lat: w dawce 0,5 mg/kg mc. na dobę w dawkach podzielonych. Pacjenci w wieku podeszłym U pacjentów w wieku podeszłym należy zmniejszyć dawkę o 50%; leczenie powinno trwać jak najkrócej. Pacjenci z zaburzeniami czynności nerek U pacjentów z zaburzeniami czynności nerek dawkę leku należy zmniejszyć o 50%. Pacjenci z zaburzeniami czynności wątroby U pacjentów z zaburzeniami czynności wątroby produkt leczniczy Tranxene należy stosować bardzo ostrożnie; u pacjentów z niewydolnością wątroby może wystąpić encefalopatia. ",
@@ -62,29 +83,41 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania i nasilenie działań niepożądanych zależy od indywidualnej wrażliwości pacjenta oraz podanej dawki klorazepatu. 5 Mogą wystąpić następujące działania niepożądane: Klasyfikacja Bardzo Często Niezbyt często Częstość nieznana układów często (≥1/100 do (≥1/1000 do (nie może być określona na i narządów wg (≥1/10) <1/10) <1/100) podstawie dostępnych danych). MedDRA Zaburzenia układu Reakcje immunologicznego nadwrażliwości Zaburzenia Drażliwość; Bradyfrenia; psychiczne Pobudzenie; U określonych pacjentów (w Splątanie szczególności u dzieci i osób w podeszłym wieku) mogą wystąpić reakcje paradoksalne (patrz także punkt 4.4); Agresja, omamy; Może wystąpić zespół z odbicia z bardziej nasilonym lękiem niż ten, który był wskazaniem do zastosowania leczenia.* Zaburzenia układu Senność Zawroty Obniżone Zaburzenia funkcji poznawczych, nerwowego (szczególnie głowy napięcie takie jak osłabienie pamięci u osób w mięśniowe (niepamięć następcza (patrz podeszłym punkt 4.4), zaburzenia uwagi i wieku) zaburzenia mowy Zaburzenia skóry i Grudkowo- tkanki podskórnej plamkowe oraz swędzące wysypki skórne Zaburzenia ogólne i Osłabienie Upadki (patrz punkt 4.4) stany w miejscu podania *Długotrwałe stosowanie (szczególnie w dużych dawkach) może prowadzić do rozwoju uzależnienia fizycznego i, po odstawieniu leczenia - do zespołu odstawienia (patrz punkt 4.4). Występuje on gwałtowniej w przypadku zastosowania benzodiazepin o krótkim okresie półtrwania, niż po benzodiazepinach z długim okresem półtrwania (kilka dni). Po podaniu benzodiazepin stwierdzano następujące dodatkowe działania niepożądane: stłumienie emocji, zmniejszona czujność, ból głowy, ataksja, podwójne widzenie, zaburzenia ze strony przewodu pokarmowego, zmiany libido, amnezja, z którą może być związane z nietypowe zachowanie, reakcje psychiczne i paradoksalne z niepokojem, urojeniami, napadami złości, koszmarami sennymi, psychozami, nietypowymi zachowaniami i innymi zaburzeniami zachowania. Podczas stosowania benzodiazepin może ujawnić się wcześniej istniejąca, niezdiagnozowana depresja. Może wystąpić uzależnienie psychiczne. Odnotowano przypadki nadużywania benzodiazepin. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania 6 produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, Al. Jerozolimskie 181C, 02-222 Warszawa Tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu lub przedstawicielowi podmiotu odpowiedzialnego w Polsce. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Dystrybucja Po doustnym podaniu około 80% klorazepatu ulega w żołądku dekarboksylacji do desmetylodiazepamu, którego maksymalne stężenie w osoczu występuje po 1 godzinie. Objętość dystrybucji desmetylodiazepamu wynosi około jednego L / kg. Z białkami krwi wiąże się w około 97%. Nie ustalono związku między stężeniem we krwi a skutecznością dla tej grupy produktów leczniczych ze względu na ich intensywny metabolizm i z powodu rozwoju tolerancji. Benzodiazepiny przechodzą przez barierę krew-mózg, przenikają przez łożysko i do mleka kobiecego. Metabolizm i eliminacja Głównym metabolitem klorazepatu jest desmetylodiazepam, który jest aktywny; jego okres półtrwania jest dłuższy niż substancji macierzystej (30 do 150 godzin). Innym aktywnym metabolitem jest oksazepam. Lek i jego metabolity jest wydzielany w moczu. 7 Szczególne populacje pacjentów U pacjentów w podeszłym wieku zmniejsza się metabolizm leku w wątrobie; stężenie leku we krwi w stanie stacjonarnym ulega zwiększeniu i wydłuża się okres półtrwania leku. U pacjentów w podeszłym wieku należy zmniejszyć dawkę leku. U pacjentów z zaburzeniem czynności wątroby okres półtrwania ulega wydłużeniu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3",
+    "4.4",
+    "4.5"
+   ],
+   "sha256_pdf": "9f7bbe37b61ec1e63da5fceb846a07af0e4a323162bea21a7d962f54dc9d8838",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6754/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.5"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Kapsułki",
-     "Kapsułki twarde"
+    "atc": [
+     "N05BA05"
     ],
     "nazwa_powszechna": [
      "Dikalii clorazepas"
     ],
-    "atc": [
-     "N05BA05"
+    "postac": [
+     "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Tranxene 20",
+   },
    "moc": "20 mg/2 ml",
+   "nazwa": "Tranxene 20",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6755/characteristic",
-   "sha256_pdf": "9106a7b720311a60f5f3e0572bc9f98dc789c752c7b83f6fc178babe922a8f2e",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Neurologiczno-psychiatryczne stany nagłe, takie jak: - napady lęku i niepokoju; - napady pobudzenia ruchowego i agresji. Zapobieganie i (lub) leczenie delirium tremens i innych objawów zespołu abstynencji w uzależnieniu alkoholowym. Jako lek wspomagający w skurczach tonicznych w tężcu. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Ostre napady lęku i stany pobudzenia psychoruchowego lub agresji 20 - 200 mg na dobę domięśniowo lub dożylnie, po czym w razie potrzeby należy kontynuować podawanie produktu w postaci doustnej. Objawy zespołu abstynencji w uzależnieniu alkoholowym Od 50 do 100 mg na dobę, parenteralnie. Jeśli zachodzi potrzeba dalszego stosowania we wstrzyknięciach, po 2 - 3 dniach dawka powinna być obniżona o połowę; ewentualne dalsze stosowanie produktu można kontynuować w postaci doustnej. Tężec W przypadkach nie wymagających tracheotomii - 120 do 500 mg na dobę we wlewach dożylnych; w ciężkim tężcu, z oddychaniem wspomaganym - 500 do 2000 mg na dobę we wlewie dożylnym. Stosowanie u osób w podeszłym wieku oraz u pacjentów z zaburzeniem czynności nerek lub wątroby Dawkę należy zmniejszyć. Niekiedy wystarczy dawka o połowę mniejsza od średniej dawki. Dzieci i młodzież Stosowanie u dzieci jest przeciwwskazane. 1 Sposób podawania Lek można podawać domięśniowo albo w powolnym wstrzyknięciu dożylnym lub w powolnym wlewie dożylnym. Ze względu na ryzyko wystąpienia bezdechu przy szybkim wstrzyknięciu dożylnym, lek należy podawać w powolnym wstrzyknięciu dożylnym, do dużej żyły (patrz punkt 4.8). Przy podawaniu domięśniowym należy produkt leczniczy wstrzykiwać głęboko domięśniowo. Placówka, w której podaje się lek, powinna dysponować wyposażeniem do prowadzenia intensywnej terapii oddechowej. Należy unikać mieszania leków w tej samej strzykawce. Należy stosować wyłącznie rozpuszczalnik dołączony w opakowaniu produktu leczniczego. Czas trwania leczenia Leczenie powinno trwać tak krótko, jak to możliwe. W razie zmiany produktu leczniczego na postać doustną, należy regularnie weryfikować obecność wskazań do jego stosowania. ",
@@ -95,20 +128,26 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania i nasilenie działań niepożądanych zależy od indywidualnej wrażliwości pacjenta oraz podanej dawki dipotasu klorazepatu. Mogą wystąpić następujące działania niepożądane: Klasyfikacja Bardzo Często Niezbyt często Częstość nieznana układów często (≥1/100 do (≥1/1000 do (nie może być określona na i narządów wg (≥1/10) <1/10) <1/100) podstawie dostępnych danych). MedDRA Zaburzenia układu Reakcje immunologicznego nadwrażliwości 5 Klasyfikacja Bardzo Często Niezbyt często Częstość nieznana układów często (≥1/100 do (≥1/1000 do (nie może być określona na i narządów wg (≥1/10) <1/10) <1/100) podstawie dostępnych danych). MedDRA Zaburzenia Drażliwość; Bradyfrenia; psychiczne Pobudzenie; U określonych pacjentów (w Splątanie szczególności u dzieci i osób w podeszłym wieku) mogą wystąpić reakcje paradoksalne (patrz także punkt 4.4); Agresja, halucynacje; Może wystąpić zespół z odbicia z bardziej nasilonym lękiem niż ten, który był wskazaniem do zastosowania leczenia.* Zaburzenia układu Senność Zawroty Obniżone Zaburzenia funkcji poznawczych, nerwowego (szczególnie głowy napięcie takie jak osłabienie pamięci u osób w mięśniowe (niepamięć następcza (patrz podeszłym punkt 4.4), zaburzenia uwagi i wieku) zaburzenia mowy Zaburzenia skóry i Grudkowo- tkanki podskórnej plamkowe oraz swędzące wysypki skórne Zaburzenia ogólne i Osłabienie Upadki (patrz punkt 4.4) stany w miejscu podania *Długotrwałe stosowanie (szczególnie w dużych dawkach) może prowadzić do rozwoju uzależnienia fizycznego i, po odstawieniu leczenia - do zespołu odstawienia (patrz punkt 4.4). Występuje on gwałtowniej w przypadku stosowania benzodiazepin o krótkim okresie półtrwania, niż po benzodiazepinach z długim okresem półtrwania (kilka dni) Po podaniu benzodiazepin stwierdzano następujące dodatkowe działania niepożądane: stłumienie emocji, zmniejszona czujność, ból głowy, ataksja, podwójne widzenie, zaburzenia ze strony przewodu pokarmowego, zmiany libido, amnezja, z którą może być związane nietypowe zachowanie, reakcje psychiczne i paradoksalne z niepokojem, urojeniami, napadami złości, koszmarami sennymi, psychozami, nietypowymi zachowaniami i innymi zaburzeniami zachowania. Podczas stosowania benzodiazepin może ujawnić się wcześniej istniejąca, niezdiagnozowana depresja. Może wystąpić uzależnienie psychiczne. Odnotowano przypadki nadużywania benzodiazepin. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, 02-222 Warszawa 6 Tel.: + 48 22 49 21 301; faks: + 48 22 49 21 309, Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu lub przedstawicielowi podmiotu odpowiedzialnego w Polsce. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Dystrybucja Po wstrzyknięciu domięśniowym 50 mg dipotasu klorazepatu, stężenia maksymalne leku oraz jego metabolitu, desmetylodiazepamu, w osoczu występują po 30 minutach do 1 godziny. Po podaniu leku w tej samej dawce dożylnie, odpowiednie stężenia maksymalne występują znacznie wcześniej. Objętość dystrybucji desmetylodiazepamu wynosi około 1 l/kg. Lek w znacznym stopniu wiąże się z białkami osocza (ponad 97%). Ze względu na stopień przekształceń metabolicznych oraz występowanie tachyfilaksji nie określono związku pomiędzy stężeniem leków z tej grupy, a siłą ich działania. Benzodiazepiny przechodzą przez barierę krew-mózg oraz przez łożysko. Są one wydzielane z mlekiem kobiecym. 7 Metabolizm i eliminacja Głównym metabolitem dipotasu klorazepatu jest desmetylodiazepam. Metabolit ten jest czynny farmakodynamicznie. Jego okres półtrwania jest dłuższy od okresu półtrwania substancji macierzystej (30 – 150 godzin). W następstwie hydroksylacji desmetylodiazepamu powstaje inny czynny metabolit, oksazepam. Inaktywacja zachodzi w procesie sprzęgania z kwasem glukuronowym. Powstają substancje rozpuszczalne w wodzie, wydalane z moczem. Szczególne populacje pacjentów Pacjenci w wieku podeszłym: Występuje zmniejszenie metabolizmu w wątrobie i klirensu całkowitego. Stężenia leku w osoczu w stanie równowagi są zwiększone, podobnie jak frakcja niezwiązana z białkami osocza i okres półtrwania leku. Z wspomnianych przyczyn należy zmniejszyć dawkę produktu leczniczego, przynajmniej w pierwszej fazie leczenia. Pacjenci z upośledzeniem czynności wątroby: Obserwuje się wydłużenie okresu półtrwania i zmniejszenie całkowitego klirensu leku w osoczu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań"
-    ],
-    "nazwa_powszechna": [
-     "Dikalii clorazepas"
-    ],
-    "atc": [
-     "N05BA05"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.5"
+   ],
+   "sha256_pdf": "9106a7b720311a60f5f3e0572bc9f98dc789c752c7b83f6fc178babe922a8f2e",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6755/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "klorazepat",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

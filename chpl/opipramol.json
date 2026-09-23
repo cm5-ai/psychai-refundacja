@@ -1,25 +1,32 @@
 {
- "substancja": "opipramol",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Apropol",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AA05"
+    ],
+    "nazwa_powszechna": [
+     "Opipramoli dihydrochloridum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "50 mg",
+   "nazwa": "Apropol",
    "podmiot": "Polfarmex S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42593/characteristic",
-   "sha256_pdf": "851145f2531ae1c6eaa1789e137bb54344185f8e2f12b80389500142c535abf1",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia lękowe i uogólnione zaburzenia występujące pod postacią somatyczną. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie musi zawsze przebiegać pod nadzorem lekarza. Dawkowanie Dorośli Zwykle u dorosłych dawka wynosi 50 mg opipramolu dichlorowodorku rano i w południe oraz 100 mg opipramolu dichlorowodorku wieczorem. W zależności od skuteczności i tolerancji leku przez pacjenta, dawkę można zmniejszyć do 50 mg lub 100 mg opipramolu dichlorowodorku i podawać raz na dobę, na noc lub dawkę można zwiększyć do 100 mg opipramolu dichlorowodorku i podawać do trzech razy na dobę. Dzieci i młodzież APROPOL nie jest zalecany do stosowania u dzieci i młodzieży w wieku do 18 lat z powodu braku danych dotyczących bezpieczeństwa stosowania i skuteczności (patrz punkt 4.4). Sposób podawania Tabletki APROPOL należy przyjmować podczas posiłku lub bezpośrednio po posiłkach, popijając wodą. Ponieważ działanie opipramolu nie pojawia się natychmiast, a zmiany nastroju występują stopniowo, produkt leczniczy należy stosować systematycznie przez co najmniej 2 tygodnie. Zalecany średni czas leczenia wynosi od 1 do 2 miesięcy. 1 ",
@@ -30,28 +37,31 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane przedstawiono według częstości występowania zgodnie z następującą klasyfikacją: Bardzo często (≥1/10) Często (≥1/100 do <1/10) Niezbyt często (≥1/1 000 do <1/100) Rzadko (≥1/10 000 do <1/1 000) Bardzo rzadko (<1/10 000) Nieznana (częstość nie może być określona na podstawie dostępnych danych) Klasyfikacja Często Niezbyt często Rzadko Bardzo rzadko układów (≥1/100 (≥1/1 000 do (≥1/10 000 do (<1/10 000) i narządów do <1/10) <1/100) <1/1 000) Zaburzenia krwi Zmiany Agranulocytoza i układu parametrów krwi, chłonnego szczególnie leukopenia 4 Zaburzenia Zwiększenie metabolizmu masy ciała, i odżywiania odczucie pragnienia Zaburzenia Szczególnie na Zawroty głowy, Stany pobudzenia, Mózgowe napady układu początku leczenia senność, drżenie bóle głowy, drgawkowe, nerwowego zmęczenie parestezje, zaburzenia szczególnie motoryczne u pacjentów (akatyzja, w podeszłym dyskinezy), wieku, ataksja, stany splątania polineuropatie, i delirium, nagła jaskra, szczególnie stany niepokoju związane (stany lękowe) z nagłym odstawieniem lub długotrwałym stosowaniem dużych dawek opipramolu, pobudzenie, pocenie się, zaburzenia snu Zaburzenia oka Zaburzenia akomodacji Zaburzenia serca Szczególnie na Tachykardia, Stany zapaści, początku leczenia palpitacje zaburzenia niedociśnienie przewodzenia, tętnicze nasilenie i ortostatyczne istniejącej spadki ciśnienia niewydolności serca Zaburzenia układu Uczucie oddechowego, zatkanego nosa klatki piersiowej i śródpiersia Zaburzenia żołądka Suchość błony Zaparcia Zaburzenia i jelit śluzowej jamy żołądkowo- ustnej jelitowe, zaburzenia smaku, niedrożność jelit porażenna, szczególnie w przypadku nagłego odstawienia opipramolu lub długotrwałego leczenia dużymi dawkami, 5 nudności, wymioty Zaburzenia Okresowo Ciężkie wątroby i dróg zwiększona zaburzenia żółciowych aktywność czynności enzymów wątroby, wątrobowych po długotrwałym (patrz punkt leczeniu żółtaczka 4.4.) i przewlekłe uszkodzenie wątroby (patrz punkt 4.4) Zaburzenia skóry Skórne Obrzęki Wypadanie i tkanki podskórnej reakcje włosów alergiczne (wysypka, pokrzywka) Zaburzenia nerek Zaburzenia Zatrzymanie i dróg moczowych oddawania moczu moczu Zaburzenia układu Zaburzenia Mlekotok rozrodczego ejakulacji, i piersi zaburzenia erekcji Złamania kości Badania epidemiologiczne, które zostały przeprowadzone głównie u pacjentów w wieku 50 lat i powyżej, wykazują zwiększone ryzyko złamań kości u pacjentów przyjmujących leki z grup SSRI i trójpierścieniowych leków przeciwdepresyjnych. Mechanizm, który powoduje to ryzyko, jest nieznany. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym opipramolu dichlorowodorek wchłania się szybko i całkowicie. 7 Dystrybucja Wiązanie z białkami osocza wynosi około 91%. Objętość dystrybucji wynosi około 10 L/kg mc, okres półtrwania w fazie eliminacji wynosi około 11 godzin. Metabolizm Częściowy metabolizm do dehydroksyetyloopipramolu zachodzi podczas pierwszego przejścia przez wątrobę. Opipramol jest głównie metabolizowany przez izoenzym CYP2D6. U pacjentów z niedoborem CYP2D6 (wolno metabolizujących) maksymalne stężenie opipramolu w osoczu może być nawet 2,5 razy większe niż u ludzi z prawidłowym metabolizmem. Jednak w przypadku długotrwałego stosowania okres półtrwania w fazie eliminacji nie jest wydłużony, więc nawet u pacjentów wolno metabolizujących nie należy oczekiwać kumulacji opipramolu. Eliminacja Substancja czynna, opipramol, jest eliminowana w ponad 70% przez nerki, z tego do około 10% w postaci niezmienionej. Pozostała część jest wydalana z kałem. U pacjentów z upośledzoną czynnością nerek może być konieczne zmniejszenie dawki opipramolu, ponieważ wraz ze wzrostem nasilenia choroby, spowolniona jest eliminacja. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.2"
+   ],
+   "sha256_pdf": "851145f2531ae1c6eaa1789e137bb54344185f8e2f12b80389500142c535abf1",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42593/characteristic"
+  },
+  {
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N06AA05"
     ],
     "nazwa_powszechna": [
      "Opipramoli dihydrochloridum"
     ],
-    "atc": [
-     "N06AA05"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Pramolan",
+   },
    "moc": "50 mg",
+   "nazwa": "Pramolan",
    "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5470/characteristic",
-   "sha256_pdf": "5919f186e00f27cc7211c8cbaa21c97f285449fa2ebd422b69984ae4396c4e9d",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia lękowe uogólnione i zaburzenia występujące pod postacią somatyczną. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie musi zawsze przebiegać pod nadzorem lekarza. Dawkowanie Dorośli Zwykle u dorosłych dawka wynosi 50 mg opipramolu dichlorowodorku rano i w południe oraz 100 mg opipramolu dichlorowodorku wieczorem. W zależności od skuteczności i tolerancji leku przez pacjenta, dawkę można zmniejszyć do 50 mg lub 100 mg opipramolu dichlorowodorku i podawać raz na dobę, na noc lub dawkę można zwiększyć do 100 mg opipramolu dichlorowodorku i podawać do trzech razy na dobę. Dzieci w wieku powyżej 6 lat Dzieciom w wieku powyżej 6 lat podaje się 3 mg opipramolu dichlorowodorku na kilogram masy ciała. Maksymalnie 100 mg na dobę. Ponieważ doświadczenie w stosowaniu opipramolu u dzieci jest niewielkie, to zalecenie dotyczące dawkowania należy traktować tylko jako wskazówkę. Sposób podawania Tabletki powlekane należy przyjmować podczas posiłku lub bezpośrednio po posiłkach, popijając wodą. Ponieważ działanie opipramolu nie pojawia się natychmiast, a zmiany nastroju występują stopniowo, produkt leczniczy należy stosować systematycznie przez co najmniej 2 tygodnie. 1 Zalecany średni czas leczenia wynosi od 1 do 2 miesięcy. ",
@@ -62,28 +72,36 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania działań niepożądanych sklasyfikowano zgodnie z konwencją MedDRA. Klasyfikacja Często (≥1/100 Niezbyt często Rzadko Bardzo rzadko układów i do <1/10) (≥1/1 000 do (≥1/10 000 do (<1/10 000) narządów <1/100) <1/1 000) 3 Zaburzenia krwi Zmiany Agranulocytoza i układu parametrów krwi, chłonnego szczególnie leukopenia Zaburzenia Szczególnie na Zawroty głowy, Stany pobudzenia, Mózgowe napady układu początku leczenia senność, zaburzenia bóle głowy, drgawkowe, nerwowego zmęczenie, suchość oddawania moczu, parestezje, zaburzenia błony śluzowej zaburzenia szczególnie motoryczne jamy ustnej, akomodacji, u pacjentów w (akatyzja, uczucie zatkanego drżenie, podeszłym wieku, dyskinezy), ataksja, nosa zwiększenie masy stany splątania polineuropatie, ciała, odczucie i delirium, nagła jaskra, stany pragnienia szczególnie niepokoju związane z nagłym odstawieniem lub długotrwałym stosowaniem dużych dawek opipramolu, pobudzenie, pocenie się, zaburzenia snu Zaburzenia serca Szczególnie na Tachykardia, Stany zapaści, początku leczenia palpitacje zaburzenia niedociśnienie przewodzenia, i ortostatyczne nasilenie istniejącej spadki ciśnienia niewydolności serca Zaburzenia żołądka Zaparcia Zaburzenia i jelit żołądkowo- jelitowe, zaburzenia smaku, niedrożność jelit porażenna, szczególnie w przypadku nagłego odstawienia opipramolu lub długotrwałego leczenia dużymi dawkami, nudności, wymioty 4 Zaburzenia Okresowo Ciężkie zaburzenia wątroby i dróg zwiększona czynności wątroby, żółciowych aktywność po długotrwałym enzymów leczeniu żółtaczka wątrobowych i przewlekłe uszkodzenie wątroby Zaburzenia skóry Skórne Obrzęki Wypadanie włosów i tkanki podskórnej reakcje alergiczne (wysypka, pokrzywka) Zaburzenia nerek Zatrzymanie moczu i dróg moczowych Zaburzenia układu Zaburzenia Mlekotok rozrodczego ejakulacji, i piersi zaburzenia erekcji Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 e-mail: ndl@urpl.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym opipramol wchłania się szybko i całkowicie. Dystrybucja Wiązanie z białkami osocza wynosi około 91%. Objętość dystrybucji wynosi około 10 l/kg a okres półtrwania w fazie eliminacji wynosi około 11 godzin. Metabolizm Częściowy metabolizm do dehydroksyetyloopipramolu zachodzi podczas pierwszego przejścia przez wątrobę. Opipramol jest głównie metabolizowany przez izoenzym CYP2D6. U pacjentów z niedoborem CYP2D6 (wolno metabolizujących) maksymalne stężenie opipramolu w osoczu może być nawet 2,5 razy większe niż u ludzi z prawidłowym metabolizmem. Jednakże w przypadku długotrwałego stosowania okres półtrwania w fazie eliminacji nie jest wydłużony, więc nawet u pacjentów wolno metabolizujących nie należy oczekiwać kumulacji opipramolu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "5919f186e00f27cc7211c8cbaa21c97f285449fa2ebd422b69984ae4396c4e9d",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5470/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "5.2"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N06AA05"
     ],
     "nazwa_powszechna": [
      "Opipramoli dihydrochloridum"
     ],
-    "atc": [
-     "N06AA05"
+    "postac": [
+     "Tabletki drażowane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Sympramol",
+   },
    "moc": "50 mg",
+   "nazwa": "Sympramol",
    "podmiot": "Farmak International Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2819/characteristic",
-   "sha256_pdf": "d694e31ab464376fec33f8400c0369e03423fa855312ca5aab57936df05b051f",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia lękowe uogólnione i zaburzenia występujące pod postacią somatyczną. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie musi zawsze przebiegać pod nadzorem lekarza. Zwykle u dorosłych dawka wynosi 50 mg dichlorowodorku opipramolu rano i w południe oraz 100 mg dichlorowodorku opipramolu wieczorem. W zależności od skuteczności i tolerancji leku przez pacjenta, dawkę można zmniejszyć do 50-100 mg dichlorowodorku opipramolu i podawać raz na dobę, najlepiej na noc, lub dawkę można zwiększyć do 100 mg dichlorowodorku opipramolu i podawać do trzech razy na dobę. Dzieciom powyżej 6 lat podaje się 3 mg dichlorowodorku opipramolu na kilogram masy ciała. Ponieważ doświadczenie w stosowaniu opipramolu u dzieci jest niewielkie, to zalecenie dotyczące dawkowania należy traktować tylko jako wskazówkę. Sympramol 50 mg tabletki drażowane należy przyjmować z płynem (wodą, sokiem owocowym). Efekt działania opipramolu nie pojawia się natychmiast, a zmiany nastroju postępują stopniowo, dlatego produkt leczniczy powinien być stosowany regularnie przez co najmniej 2 tygodnie. Zalecany średni czas leczenia wynosi od 1 do 2 miesięcy. ",
@@ -94,20 +112,26 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania działań niepożądanych: Bardzo często (1/10) Często (1/100 do <1/10) Niezbyt często (1/1 000 do <1/100) Rzadko (1/10 000 do <1/1 000) Bardzo rzadko (1/10 000) Często Niezbyt często Rzadko Bardzo rzadko Zaburzenia krwi Zmiany morfologii Agranulocytoza i układu chłonnego krwi, szczególnie leukopenia Zaburzenia układu Szczególnie na Zawroty głowy, Stany pobudzenia, Mózgowe napady nerwowego początku leczenia - senność, zaburzenia bóle głowy, drgawkowe, zmęczenie, suchość oddawania moczu, parestezje, zaburzenia błony śluzowej zaburzenia szczególnie motoryczne jamy ustnej, akomodacji, u pacjentów (akatyzja, uczucie zatkanego drżenie, w podeszłym dyskinezy), ataksja, nosa zwiększenie masy wieku: stany polineuropatie, ciała, odczucie splątania i delirium, nagła jaskra, stany pragnienia zwłaszcza po lękowe nagłym odstawieniu lub długotrwałym stosowaniu dużych dawek opipramolu; pobudzenie, pocenie się, zaburzenia snu Zaburzenia serca Szczególnie na Tachykardia, Stany zapaści, początku leczenia - palpitacje zaburzenia PL/H/0126/001/IA/027/G 3 niedociśnienie przewodzenia, i ortostatyczne nasilenie istniejącej spadki ciśnienia niewydolności serca Zaburzenia żołądka Zaparcia Zaburzenia i jelit żołądkowo- jelitowe, zaburzenia smaku, niedrożność jelit porażenna, szczególnie po nagłym odstawieniu opipramolu lub długotrwałym leczeniu dużymi dawkami: nudności, wymioty Zaburzenia wątroby Okresowo Ciężkie zaburzenia i dróg żółciowych zwiększona czynności wątroby, aktywność po długotrwałym enzymów leczeniu żółtaczka wątrobowych i przewlekłe uszkodzenie wątroby Zaburzenia skóry Skórne reakcje Obrzęki Wypadanie włosów i tkanki podskórnej alergiczne (wysypka, pokrzywka) Zaburzenia nerek Zatrzymanie moczu i dróg moczowych Zaburzenia układu Zaburzenia Mlekotok rozrodczego i piersi ejakulacji, zaburzenia erekcji Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, PL-02 222 Warszawa Tel.: + 48 22 49 21 301, Faks: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl. Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Po podaniu doustnym opipramol wchłania się szybko i całkowicie. Częściowy metabolizm do dehydroksyetyloopipramolu zachodzi podczas pierwszego przejścia przez wątrobę. Wiązanie z białkami osocza wynosi około 91%. Objętość dystrybucji wynosi około 10 l/kg, a okres półtrwania w fazie eliminacji około 11 godzin. Opipramol jest głównie metabolizowany przez izoenzym CYP2D6. U pacjentów z niedoborem CYP2D6 (wolno metabolizujących) maksymalne stężenie opipramolu w osoczu może być nawet 2,5 razy większe niż u ludzi z prawidłowym metabolizmem. Jednakże w przypadku długotrwałego stosowania okres półtrwania w fazie eliminacji nie jest wydłużony, więc nawet u pacjentów wolno metabolizujących nie należy oczekiwać kumulacji opipramolu. PL/H/0126/001/IA/027/G 5 "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki drażowane"
-    ],
-    "nazwa_powszechna": [
-     "Opipramoli dihydrochloridum"
-    ],
-    "atc": [
-     "N06AA05"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "5.2"
+   ],
+   "sha256_pdf": "d694e31ab464376fec33f8400c0369e03423fa855312ca5aab57936df05b051f",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2819/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "opipramol",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

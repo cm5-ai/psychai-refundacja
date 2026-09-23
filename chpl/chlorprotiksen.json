@@ -1,25 +1,24 @@
 {
- "substancja": "chlorprotiksen",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Chlorprothixen Hasco",
+   "klucz_rpl": {
+    "atc": [
+     "N05AF03"
+    ],
+    "nazwa_powszechna": [
+     "Chlorprothixeni hydrochloridum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "15 mg",
+   "nazwa": "Chlorprothixen Hasco",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42763/characteristic",
-   "sha256_pdf": "97b1a2b1692990ed728aeccbdfb748d9f19976f50277e4c153da9c2a33a680dd",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Leczenie psychoz endogennych i organicznych ze stanami pobudzenia ruchowego i agresywnością, niepokoju i bezsenności w nerwicach i zaburzeniach psychosomatycznych, psychoz alkoholowych. W chirurgii - premedykacja dla uspokojenia pacjenta i zmniejszenia reakcji neurowegetatywnych oraz w celu zapobiegania wymiotom pooperacyjnym. ",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dawkowanie należy dostosować indywidualnie w zależności od wskazań i tolerancji pacjenta. 1/13 Nerwice: zazwyczaj 15 mg jeden do trzech razy na dobę. Zaburzenia psychotyczne: zazwyczaj 50 mg do 100 mg dwa do czterech razy na dobę. Dawkę dobową należy podzielić tak, aby większą dawkę podawać przed snem. Premedykacja: dawkowanie ustala lekarz indywidualnie dla każdego pacjenta. Dzieci i młodzież Nie zaleca się stosowania chloroprotyksenu u dzieci i młodzieży ze względu na brak dobrze kontrolowanych badań. Sposób podawania Tabletki powlekane należy przyjmować z posiłkiem i połykać w całości, popijając szklanką wody lub mleka, aby uniknąć podrażnienia żołądka. ",
@@ -30,28 +29,37 @@
     "4.8": "4.8. Działania niepożądane Większość działań niepożądanych jest zależna od dawki. Częstość występowania oraz nasilenie są największe we wczesnej fazie leczenia i ulegają zmniejszeniu w miarę jego kontynuacji. Blokada receptorów dopaminergicznych w ośrodkowym układzie nerwowym może powodować ostre powikłania neurologiczne - dystonię, ponadto akatyzję lub objawy pozapiramidowe. Objawy pozapiramidowe mogą wystąpić zwłaszcza we wczesnej fazie leczenia. W większości przypadków takie działania niepożądane można kontrolować przez zmniejszenie dawki i (lub) podanie leków przeciw parkinsonizmowi. Nie zaleca się rutynowego profilaktycznego stosowania leków przeciw parkinsonizmowi. Podawanie leków przeciw parkinsonizmowi w rutynowej profilaktyce nie jest zalecane. Leki przeciw parkinsonizmowi nie zmniejszają dyskinez późnych, a mogą je nasilać. W takich przypadkach zaleca się zmniejszenie dawki lub, w razie możliwości, zaprzestanie podawania leku. W uporczywej akatyzji pomocne może być stosowanie benzodiazepiny lub propranololu. Złośliwy zespół neuroleptyczny (hiperpireksja, drżenie, akineza, śpiączka), w przebiegu którego konieczne jest natychmiastowe przerwanie podawania chloroprotyksenu i rozpoczęcie leczenia objawowego na Oddziale Intensywnej Terapii lub Klinice Anestezjologii i Resuscytacji, występuje rzadko. Tak zwana dyskineza późna (przewlekła - opóźniona) jako objaw nadwrażliwości układu dopaminergicznego (nieskoordynowane ruchy choreoatetotyczne są prognostycznie ważne) może wystąpić podczas długotrwałego stosowania (zwłaszcza u starszych pacjentów). Dodatkowe podawanie leków neuroleptycznych maskuje objawy, dlatego konieczne jest uważne monitorowanie stanu pacjenta. Istnieje również poważne ryzyko wywołania napadów padaczkopodobnych. Rzadko zdarza się obserwować również zwiększony niepokój, zwłaszcza u pacjentów maniakalnych lub schizoafektywnych (w takich przypadkach lepsza jest zmiana na inny lek neuroleptyczny np. haloperydol). Poniżej przedstawiono działania niepożądane chloroprotyksenu; podział zgodnie z klasyfikacją MedDRA, z następującymi wskaźnikami częstości występowania: bardzo często (≥1/10); często (≥1/100 do <1/10); niezbyt często (≥1/1000 do <1/100); rzadko (≥1/10 000 do <1/1000); bardzo rzadko (<1/10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych): Zaburzenia krwi i układu chłonnego Rzadko: małopłytkowość, neutropenia, leukopenia, agranulocytoza Bardzo rzadko: niedokrwistość hemolityczna, plamica małopłytkowa, pancytopenia, eozynofilia Zaburzenia układu immunologicznego Rzadko: nadwrażliwość, reakcja anafilaktyczna Zaburzenia endokrynologiczne Rzadko: hiperprolaktynemia 7/13 Zaburzenia metabolizmu i odżywiania Często: zwiększenie łaknienia Niezbyt często: zmniejszenie łaknienia Rzadko: hiperglikemia, upośledzona tolerancja glukozy Zaburzenia psychiczne Często: bezsenność, nerwowość, pobudzenie, zmniejszenie libido Zaburzenia układu nerwowego Bardzo często: senność, zawroty głowy Często: bóle głowy, dystonia Niezbyt często: akatyzja, późne dyskinezy, parkinsonizm, drgawki Rzadko: napady padaczkopodobne Bardzo rzadko: złośliwy zespół neuroleptyczny (bardzo wysoka gorączka, wzrost napięcia mięśni, akineza, śpiączka) Zaburzenia oka Często: zaburzenia akomodacji, nieprawidłowe widzenie Niezbyt często: napady przymusowego patrzenia z rotacją gałek ocznych Bardzo rzadko: barwnikowe zwyrodnienie siatkówki*, zmętnienie soczewki*, złogi w rogówce* Zaburzenia serca Często: częstoskurcz**, palpitacje Rzadko: wydłużenie odstępu QT w elektrokardiogramie Bardzo rzadko: zatrzymanie serca, bradykardia Zaburzenia naczyniowe Często: niedociśnienie ortostatyczne Niezbyt często: niedociśnienie tętnicze, uderzenia gorąca Bardzo rzadko: żylna choroba zatorowo-zakrzepowa Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Rzadko: zatkany nos, duszność Bardzo rzadko: astma, obrzęk krtani Zaburzenia żołądka i jelit Bardzo często: suchość w jamie ustnej, wzmożony ślinotok Często: zaparcia, niestrawność, nudności Niezbyt często: wymioty, biegunka Zaburzenia wątroby i dróg żółciowych Bardzo rzadko: żółtaczka, żółtaczka cholestatyczna*** Zaburzenia skóry i tkanki podskórnej Często: nasilone pocenie się Niezbyt często: wysypka, świąd, nadwrażliwość na światło, stany zapalne skóry Rzadko: rumień, wyprysk 8/13 Zaburzenia mięśniowo-szkieletowe i tkanki łącznej Często: mialgia Niezbyt często: sztywność mięśni Bardzo rzadko: zespół toczniopodobny Zaburzenia nerek i dróg moczowych Niezbyt często: zaburzenia oddawania moczu, zatrzymanie moczu Bardzo rzadko: nadmierne wydalanie kwasu moczowego z moczem Ciąża, połóg i okres okołoporodowy Nieznana: zespół odstawienia leku u noworodka (patrz punkt 4.6) Zaburzenia układu rozrodczego i piersi Niezbyt często: zaburzenia wytrysku, zaburzenia wzwodu Rzadko: zaburzenia miesiączkowania, ginekomastia, mlekotok Zaburzenia ogólne i stany w miejscu podania Często: astenia, zmęczenie Rzadko: zaburzenia termoregulacji organizmu Badania diagnostyczne Często: zwiększenie masy ciała Niezbyt często: zmniejszenie masy ciała, nieprawidłowe wyniki testów czynnościowych wątrobowych * Bardzo rzadko po wielu latach leczenia dużymi dawkami leku. ** Szczególnie podczas nagłego przerwania leczenia. *** Na tle reakcji immunopatologicznej. Efekt klasy Podczas stosowania leków przeciwpsychotycznych zgłaszano przypadki żylnej choroby zakrzepowo- zatorowej, w tym przypadki zatorów tętnicy płucnej i zakrzepicy żył głębokich – częstość nieznana. Podczas stosowania leków przeciwpsychotycznych zgłaszano przypadki priapizmu (długotrwałego, bolesnego wzwodu prącia), który może prowadzić do zaburzeń erekcji – częstość nieznana (patrz punkt 4.4). Tak jak w przypadku innych leków należących do grupy środków przeciwpsychotycznych, zgłaszano rzadkie przypadki wydłużenia odstępu QT, komorowych zaburzeń rytmu – migotania komór, częstoskurczu komorowego, torsade de pointes oraz nagłych niewyjaśnionych zgonów, również dla chloroprotyksenu (patrz punkt 4.4). Objawy odstawienia Nagłemu zaprzestaniu stosowania chloroprotyksenu mogą towarzyszyć objawy odstawienia. Najczęściej są to: nudności, wymioty, anoreksja, biegunka, wodnisty wyciek z nosa, pocenie się, bóle mięśniowe, parestezje, bezsenność, niepokój, lęk i pobudzenie. Pacjenci mogą także odczuwać zawroty głowy, nasilone odczucie ciepła lub chłodu oraz drżenie. Objawy zazwyczaj rozpoczynają się od 1 do 4 dni od momentu odstawienia leku i słabną w przeciągu 7-14 dni. 9/13 Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: 22 49-21-301, fax: 22 49-21-309, Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można również zgłaszać podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Chloroprotyksen jest szybko wchłaniany z przewodu pokarmowego, a jego działanie rozpoczyna się w ciągu 30 minut. Dystrybucja Przenika przez barierę krew-mózg, ma dużą objętość dystrybucji w organizmie. Wiąże się z białkami osocza (w ponad 99%). Metabolizm i eliminacja Jest intensywnie metabolizowany w wątrobie i wydalany w postaci metabolitów z moczem i kałem. Biologiczny okres półtrwania leku wynosi od 8 do 12 godzin. Przenika przez barierę łożyskową i w niewielkich ilościach jest wydzielany do mleka. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "97b1a2b1692990ed728aeccbdfb748d9f19976f50277e4c153da9c2a33a680dd",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42763/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.6",
+     "4.8"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N05AF03"
     ],
     "nazwa_powszechna": [
      "Chlorprothixeni hydrochloridum"
     ],
-    "atc": [
-     "N05AF03"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Chlorprothixen Zentiva",
+   },
    "moc": "15 mg",
+   "nazwa": "Chlorprothixen Zentiva",
    "podmiot": "Zentiva, k.s.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6643/characteristic",
-   "sha256_pdf": "887b1567baab6e717cf0fbc08df06ab4299e078e4ac32dddcde225ea21286290",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Leczenie psychoz endogennych i organicznych ze stanami pobudzenia ruchowego i agresywnością, niepokoju i bezsenności w nerwicach i zaburzeniach psychosomatycznych, psychoz alkoholowych. W chirurgii - premedykacja w celu uspokojenia pacjenta i zmniejszenia reakcji neurowegetatywnych, oraz w celu zapobiegania wymiotom pooperacyjnym. ",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dawkowanie należy dostosować indywidualnie w zależności od wskazań i tolerancji pacjenta. Nerwice: zazwyczaj 15 mg od 1 do 3 razy na dobę. Zaburzenia psychotyczne: zazwyczaj 50 mg do 100 mg od 2 do 4 razy na dobę. Dawkę dobową należy podzielić tak, aby większą dawkę podawać przed snem. 1 Dzieci i młodzież Nie zaleca się stosowania chloroprotyksenu u dzieci i młodzieży w wieku poniżej 18 lat ze względu na brak dobrze kontrolowanych badań. Sposób podawania Tabletki powlekane należy przyjmować z posiłkiem i połykać w całości, popijając szklanką wody lub mleka, aby uniknąć podrażnienia żołądka. ",
@@ -62,22 +70,29 @@
     "4.8": "4.8. Działania niepożądane Większość działań niepożądanych jest zależna od dawki. Częstość występowania oraz nasilenie są największe we wczesnej fazie leczenia i ulegają zmniejszeniu w miarę jego kontynuacji. Blokada receptorów dopaminergicznych w ośrodkowym układzie nerwowym może powodować ostre powikłania neurologiczne - dystonię, ponadto akatyzję lub objawy pozapiramidowe. Objawy pozapiramidowe mogą wystąpić zwłaszcza we wczesnej fazie leczenia. W większości przypadków takie działania niepożądane można kontrolować przez zmniejszenie dawki i (lub) podanie leków przeciw parkinsonizmowi. Nie zaleca się rutynowego profilaktycznego stosowania leków przeciw parkinsonizmowi. Podawanie leków przeciw parkinsonizmowi w rutynowej profilaktyce nie jest zalecane. Leki przeciw parkinsonizmowi nie zmniejszają dyskinez późnych, a mogą je nasilać. W takich przypadkach zaleca się zmniejszenie dawki lub, w razie możliwości, zaprzestanie podawania leku. W uporczywej akatyzji pomocne może być stosowanie benzodiazepiny lub propranololu. Złośliwy zespół neuroleptyczny (hiperpireksja, drżenie, akineza, śpiączka), w przebiegu którego konieczne jest natychmiastowe przerwanie podawania chlorprotyksenu i rozpoczęcie leczenia objawowego na Oddziale Intensywnej Terapii lub Klinice Anestezjologii i Resuscytacji, występuje rzadko. Tak zwana dyskineza późna (przewlekła - opóźniona) jako objaw nadwrażliwości układu dopaminergicznego (nieskoordynowane ruchy choreoatetotyczne są prognostycznie ważne) może wystąpić podczas długotrwałego stosowania (zwłaszcza u starszych pacjentów). Dodatkowe podawanie leków neuroleptycznych maskuje objawy, dlatego konieczne jest uważne monitorowanie stanu pacjenta. Istnieje również poważne ryzyko wywołania napadów padaczkopodobnych. Rzadko zdarza się obserwować również zwiększony niepokój, zwłaszcza u pacjentów maniakalnych lub schizoafektywnych (w takich przypadkach lepsza jest zmiana na inny lek neuroleptyczny np. haloperydol). W poniższej tabeli przedstawiono działania niepożądane chlorprotyksenu; podział zgodnie z klasyfikacją MedDRA, z następującymi wskaźnikami częstości występowania: bardzo często (≥1/10); często (≥1/100 do <1/10); niezbyt często (≥1/1000 do <1/100); rzadko (≥1/10 000 do <1/1000); bardzo rzadko (<1/10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych): Klasyfikacja układów i Częstość Działanie niepożądane narządów wg MedDRA Zaburzenia krwi i układu rzadko małopłytkowość, neutropenia, leukopenia, chłonnego agranulocytoza bardzo rzadko niedokrwistość hemolityczna, plamica małopłytkowa, pancytopenia, eozynofilia Zaburzenia układu rzadko nadwrażliwość, reakcja anafilaktyczna immunologicznego 6 Klasyfikacja układów i Częstość Działanie niepożądane narządów wg MedDRA Zaburzenia rzadko hiperprolaktynemia endokrynologiczne Zaburzenia metabolizmu i często zwiększenie łaknienia odżywiania niezbyt często zmniejszenie łaknienia rzadko hiperglikemia, upośledzona tolerancja glukozy Zaburzenia psychiczne często bezsenność, nerwowość, pobudzenie, zmniejszenie libido Zaburzenia układu bardzo często senność, zawroty głowy nerwowego często bóle głowy, dystonia niezbyt często akatyzja, późne dyskinezy, parkinsonizm, drgawki rzadko napady padaczkopodobne bardzo rzadko złośliwy zespół neuroleptyczny (bardzo wysoka gorączka, wzrost napięcia mięśni, akinezja, śpiączka) Zaburzenia oka często zaburzenia akomodacji, nieprawidłowe widzenie niezbyt często napady przymusowego patrzenia z rotacją gałek ocznych bardzo rzadko barwnikowe zwyrodnienie siatkówki*, zmętnienie soczewki*, złogi w rogówce* Zaburzenia serca często częstoskurcz**, palpitacje rzadko wydłużenie odstępu QT w elektrokardiogramie bardzo rzadko zatrzymanie serca, bradykardia Zaburzenia naczyniowe często niedociśnienie ortostatyczne niezbyt często niedociśnienie, uderzenia gorąca bardzo rzadko żylna choroba zatorowo-zakrzepowa Zaburzenia układu rzadko nieżyt nosa, duszność oddechowego, klatki piersiowej i śródpiersia bardzo rzadko astma, obrzęk krtani Zaburzenia żołądka i jelit bardzo często suchość w ustach, wzmożony ślinotok często zaparcia, niestrawność, nudności niezbyt często wymioty, biegunka Zaburzenia wątroby i dróg bardzo rzadko żółtaczka, żółtaczka cholestatyczna*** żółciowych Zaburzenia skóry i tkanki często nasilone pocenie się podskórnej niezbyt często wysypka, świąd, nadwrażliwość na światło, stany zapalne skóry rzadko rumień, wyprysk Zaburzenia mięśniowo- często mialgia szkieletowe i tkanki łącznej niezbyt często sztywność mięśni bardzo rzadko zespół toczniopodobny Zaburzenia nerek i dróg niezbyt często zaburzenia oddawania moczu, zatrzymanie moczu moczowych bardzo rzadko nadmierne wydalanie kwasu moczowego z moczem Ciąża, połóg i okres nieznana zespół odstawienia leku u noworodka (patrz okołoporodowy punkt 4.6) niezbyt często zaburzenia wytrysku, zaburzenia wzwodu 7 Klasyfikacja układów i Częstość Działanie niepożądane narządów wg MedDRA Zaburzenia układu rzadko ginekomastia, mlekotok, zaburzenia rozrodczego i piersi miesiączkowania, Zaburzenia ogólne i stany w często astenia, zmęczenie miejscu podania rzadko zaburzenia termoregulacji organizmu Badania diagnostyczne często zwiększenie masy ciała niezbyt często zmniejszenie masy ciała, nieprawidłowe wyniki testów czynnościowych wątrobowych * Bardzo rzadko po wielu latach leczenia dużymi dawkami leku. ** Szczególnie podczas nagłego przerwania leczenia. *** Na tle reakcji immunopatologicznej. Efekt klasy Podczas stosowania leków przeciwpsychotycznych zgłaszano przypadki żylnej choroby zakrzepowo- zatorowej, w tym przypadki zatorów tętnicy płucnej i zakrzepicy żył głębokich - częstość występowania jest nieznana. Podczas stosowania leków przeciwpsychotycznych zgłaszano przypadki priapizmu (długotrwałej, bolesnej erekcji prącia), który może prowadzić do zaburzeń erekcji – częstość występowania jest nieznana (patrz punkt 4.4). Tak jak w przypadku innych leków należących do grupy środków przeciwpsychotycznych, zgłaszano rzadkie przypadki wydłużenia odstępu QT, komorowych zaburzeń rytmu – migotania komór, częstoskurczu komorowego, torsade de pointes oraz nagłych niewyjaśnionych zgonów, również dla chloroprotyksenu (patrz punkt 4.4). Objawy odstawienia Nagłemu zaprzestaniu stosowania chloroprotyksenu mogą towarzyszyć objawy odstawienia. Najczęściej są to: nudności, wymioty, anoreksja, biegunka, wyciek wodnisty z nosa, pocenie się, bóle mięśniowe, parestezje, bezsenność, niepokój, lęk i pobudzenie. Pacjenci mogą także odczuwać zawroty głowy, nasilone odczucie ciepła lub chłodu oraz drżenie. Objawy zazwyczaj rozpoczynają się od 1 do 4 dni od momentu odstawienia leku i słabną w przeciągu 7-14 dni. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: 22 49-21-301, faks: 22 49-21-309, strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu lub przedstawicielowi podmiotu odpowiedzialnego w Polsce. 8 ",
     "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Chloroprotyksen jest szybko wchłaniany z przewodu pokarmowego, a jego działanie rozpoczyna się w ciągu 30 minut. 9 Dystrybucja Przenika przez barierę krew-mózg, ma dużą objętość dystrybucji w organizmie. Wiąże się z białkami osocza (w ponad 99%). Metabolizm i eliminacja Jest intensywnie metabolizowany w wątrobie i wydalany w postaci metabolitów z moczem i kałem. Biologiczny okres półtrwania leku wynosi od 8 do 12 godzin. Przenika przez barierę łożyskową i w niewielkich ilościach jest wydzielany do mleka. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Chlorprothixeni hydrochloridum"
-    ],
-    "atc": [
-     "N05AF03"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.6",
+    "4.8"
+   ],
+   "sha256_pdf": "887b1567baab6e717cf0fbc08df06ab4299e078e4ac32dddcde225ea21286290",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6643/characteristic"
   }
  ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "chlorprotiksen",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "uwagi_audytu": [
   "2026-09-22: usunieto produkty podpiete przez blad dopasowania: Fenactil. Powod: cudza ChPL (test odbioru T8b/T16)."
  ]

@@ -1,25 +1,32 @@
 {
- "substancja": "temazepam",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Signopam",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05CD07"
+    ],
+    "nazwa_powszechna": [
+     "Temazepamum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "10 mg",
+   "nazwa": "Signopam",
    "podmiot": "Tarchomińskie Zakłady Farmaceutyczne \"Polfa\" S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6097/characteristic",
-   "sha256_pdf": "07188b0df1f7fe34ec1e362e82eb571685268a51b3e60da1de8eff6acea17886",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Doraźnie i krótkotrwale: - w leczeniu ciężkich zaburzeń snu w przypadkach, gdy bezsenność powoduje znacznie nasilone wyczerpanie u pacjenta; - w premedykacji - przygotowanie do zabiegów chirurgicznych i uciążliwych badań diagnostycznych. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas leczenia należy określić dla każdego pacjenta indywidualnie. Dawkowanie Dorośli Zaburzenia snu: zwykle podaje się 10 mg do 20 mg pół godziny przed snem. W indywidualnych przypadkach, gdy brak odpowiedzi klinicznej na mniejsze dawki, dawkę można zwiększyć maksymalnie do 40 mg na dobę. Premedykacja: zwykle podaje się 20 mg do 40 mg w dawce jednorazowej 30 do 60 minut przed zabiegiem chirurgicznym lub badaniem diagnostycznym. Dzieci Nie określono bezpieczeństwa i skuteczności stosowania temazepamu u dzieci. Dawkowanie u pacjentów w podeszłym wieku (powyżej 65 lat) Pacjenci w podeszłym wieku są bardziej wrażliwi na leki działające na ośrodkowy układ nerwowy. U pacjentów tych zaleca się podawanie temazepamu w możliwie najmniejszej efektywnej dawce. Stosowana dawka nie powinna być większa niż połowa dawki zalecanej dla pacjentów dorosłych. 1 PL_ztw07.02.2022 zmTermWazn_01.04.2026 v1 Dawkowanie u pacjentów z niewydolnością nerek i (lub) wątroby Należy zachować ostrożność w przypadku stosowania temazepamu u pacjentów z zaburzeniami czynności wątroby i (lub) nerek. Może być konieczne zmniejszenie dawki leku. Dawkowanie należy ustalać indywidualnie dla każdego pacjenta w zależności od stopnia niewydolności chorego narządu. Czas leczenia Leczenie nie powinno być dłuższe niż 4 tygodnie, wliczając w to czas stopniowego odstawiania produktu leczniczego. W indywidualnych przypadkach, po ponownej ocenie stanu pacjenta, lekarz może zdecydować o przedłużeniu maksymalnego czasu leczenia. Sposób podawania Tabletki należy przyjmować doustnie popijając niewielką ilością wody 30 minut przed snem. Zaleca się stosowanie możliwie najmniejszych skutecznych dawek. Dawki leku należy zwiększać stopniowo. ",
@@ -30,28 +37,31 @@
     "4.8": "4.8 Działania niepożądane Częstość działań niepożądanych pojawiających się po zastosowaniu produktu leczniczego określono następująco: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych) Zaburzenia krwi i układu chłonnego rzadko: zmiany w składzie krwi Reakcje nadwrażliwości Zaburzenia układu immunologicznego Bardzo rzadko: reakcje anafilaktyczne Zaburzenia skóry i tkanki podskórnej Częstość nieznana: skórne reakcje alergiczne (wysypki, świąd, pokrzywka) Zaburzenia metabolizmu i odżywiania Częstość nieznana: brak apetytu Zaburzenia psychiczne Częstość nieznana: reakcje paradoksalne - niepokój psychoruchowy, bezsenność, zwiększona pobudliwość i agresywność, drżenie mięśniowe, drgawki Reakcje paradoksalne najczęściej występują po spożyciu alkoholu, u pacjentów w podeszłym wieku i u pacjentów z chorobami psychicznymi. Częstość nieznana: uzależnienie psychiczne i fizyczne może rozwinąć się podczas leczenia temazepamem w dawkach terapeutycznych. Nagłe przerwanie leczenia może wywołać zespół odstawienia. Pacjenci nadużywający alkoholu lub leków są bardziej podatni na rozwinięcie uzależnienia. Podczas leczenia temazepamem może ujawnić się wcześniej istniejąca, niezdiagnozowana depresja. Zaburzenia układu nerwowego Często: senność, spowolnienie reakcji, ból i zawroty głowy, stany splątania i dezorientacji, ataksja Działania te występują najczęściej na początku leczenia, u pacjentów w podeszłym wieku (patrz punkt 4.4) i z reguły ustępują w czasie trwania dalszej kuracji. W przypadku nasilenia tych reakcji odpowiednie zmniejszenie dawki zwykle zmniejsza nasilenie i częstość ich występowania. Częstość nieznana: dyzartria z mową zamazaną i nieprawidłowym wymawianiem, zaburzenia pamięci, zaburzenia libido. Objawy te mogą pojawić się zwłaszcza u pacjentów przyjmujących duże dawki leku. Zaburzenia oka Częstość nieznana: zaburzenia widzenia (niewyraźne, podwójne widzenie) Zaburzenia naczyniowe Częstość nieznana: obniżenie ciśnienia tętniczego krwi Zaburzenia żołądka i jelit Rzadko: nudności, dolegliwości żołądkowe, uczucie suchości w jamie ustnej Zaburzenia wątroby i dróg żółciowych Częstość nieznana: zwiększenie aktywności aminotransferaz, zaburzenia czynności wątroby z wystąpieniem żółtaczki Zaburzenia nerek i dróg moczowych Częstość nieznana: zatrzymanie moczu, nietrzymanie moczu 5 PL_ztw07.02.2022 zmTermWazn_01.04.2026 v1 Zaburzenia ogólne i stany w miejscu podania Częstość nieznana: ogólne osłabienie, omdlenia Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C; 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Temazepam dobrze wchłania się z przewodu pokarmowego. Po doustnym podaniu 20 mg temazepamu maksymalne stężenie we krwi występuje po około 50 minut i wynosi 660 do 1100 ng/ml. Stężenie w stanie stacjonarnym osiąga po trzydniowym podawaniu dawek wielokrotnych. Nie stwierdzono kumulacji w organizmie związku macierzystego ani jego metabolitów. Temazepam wiąże się z białkami osocza krwi w około 96%. Przenika przez barierę krew-płyn mózgowo-rdzeniowy i przez łożysko. Przenika do mleka ludzkiego. Temazepam metabolizowany jest w wątrobie. Większość w postaci niezmienionej jest bezpośrednio sprzęgana z kwasem glukuronowym i wydalana z moczem. Mniej niż 5% podanego temazepamu ulega demetylacji do oksazepamu, który następnie jest sprzęgany z kwasem glukuronowym i wydalany. Powstające metabolity - glukuronidy temazepamu nie wywierają żadnego działania na ośrodkowy układ nerwowy. Temazepam wydalany jest szybko. Okres półtrwania w fazie eliminacji wynosi od 7 do 11 godzin (średnio 8 godzin). Po podaniu dawki pojedynczej, 80% dawki wydalane jest w moczu, po sprzężeniu z kwasem glukuronowym, a 12% - z kałem. Mniej niż 2% podanej dawki wydalane jest w postaci niezmienionej w moczu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "07188b0df1f7fe34ec1e362e82eb571685268a51b3e60da1de8eff6acea17886",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6097/characteristic"
+  },
+  {
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N05CD07"
     ],
     "nazwa_powszechna": [
      "Temazepamum"
     ],
-    "atc": [
-     "N05CD07"
+    "postac": [
+     "Tabletki"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Teseda",
+   },
    "moc": "10 mg",
+   "nazwa": "Teseda",
    "podmiot": "Orion Corporation",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39918/characteristic",
-   "sha256_pdf": "955470e58023e40c184b251e59981ab69fe0106a0deb3f9a5ac27a37037dc34d",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Dorośli - Bezsenność. - Krótkotrwałe leczenie ciężkiego lęku, który uniemożliwia funkcjonowanie pacjenta lub naraża go na silny stres. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Bezsenność 10-20 mg u dorosłych i 10 mg u osób w podeszłym wieku, przed snem. Dawkę można zwiększyć pod ścisłą kontrolą lekarza. Zazwyczaj czas trwania leczenia wynosi od kilku dni do dwóch tygodni, maksymalnie cztery tygodnie, włączając w to okres zmniejszania dawki. W indywidualnych przypadkach lekarz może zdecydować o przedłużeniu maksymalnego czasu leczenia. Konieczna jest wówczas ponowna ocena potrzeby kontynuowania leczenia i działań niepożądanych. Lęk U dorosłych z okresowymi stanami lęku i napięcia nerwowego 10-30 mg, nie więcej niż trzy razy na dobę. Leczenie powinno być możliwe najkrótsze. Całkowity czas leczenia nie powinien przekraczać 8 do 12 tygodni, włączając w to okres zmniejszania dawki. W indywidualnych przypadkach lekarz 1 może zdecydować o przedłużeniu maksymalnego czasu leczenia. Konieczna jest wtedy ponowna ocena potrzeby kontynuowania leczenia i działań niepożądanych. Osoby w podeszłym wieku U osób w podeszłym wieku należy zmniejszyć dawkę, ze względu na ryzyko wystąpienia ataksji i stanu splątania, co może prowadzić do upadków i obrażeń. Dzieci Produkt leczniczy Teseda nie jest zalecany do stosowania u dzieci. Nie określono bezpieczeństwa stosowania ani skuteczności temazepamu u dzieci w wieku poniżej 18 lat. Pacjenci z zaburzeniem czynności wątroby lub nerek Może być konieczne zmniejszenie dawki produktu leczniczego (patrz punkt 4.4). Dawkowanie należy ustalać indywidualnie w zależności od odpowiedzi klinicznej pacjenta na leczenie. ",
@@ -62,20 +72,23 @@
     "4.8": "4.8 Działania niepożądane Nawet najczęściej występujące działania niepożądane temazepamu występują u mniej niż 2% leczonych pacjentów. Do tych działań niepożądanych należą: zmęczenie, senność w ciągu dnia (w przypadku bezsenności), uspokojenie, uczucie odrętwienia i zmniejszona czujność. Senność występuje głównie na początku leczenia i może ustępować po wielokrotnym podawaniu produktu leczniczego. Częstość działań niepożądanych określono następująco: Bardzo często (≥1/10) Często (≥1/100 do <1/10) Niezbyt często (≥1/1 000 do <1/100) Rzadko (≥1/10 000 do <1/1 000) Bardzo rzadko (<1/10 000) Nieznana (częstość nie może być określona na podstawie dostępnych danych) Klasyfikacja Często Niezbyt często Rzadko Bardzo rzadko układów i narządów Zaburzenia układu Reakcje nadwrażliwości, immunologicznego reakcje anafilaktyczne/ rzekomoanafilaktyczne Zaburzenia Zaburzenia emocji, Zaburzenia snu, Niepamięć Zmiany psychiczne dezorientacja koszmary senne następcza, reakcje libido psychiczne lub paradoksalne1, objawy odstawieniae2, depresja3 Zaburzenia układu Senność w ciągu Ból głowy, zawroty nerwowego dnia, uspokojenie, głowy, ataksja zmniejszona czujność Zaburzenia oka Podwójne widzenie Zaburzenia Dolegliwości żołądka i jelit żołądkowo-jelitowe suchość błony śluzowej jamy ustnej 5 Zaburzenia skóry i Reakcje skórne, tkanki podskórnej reakcje nadwrażliwości Zaburzenia Osłabienie mięśni mięśniowo- szkieletowe i tkanki łącznej Zaburzenia ogólne Zmęczenie i stany w miejscu podania 1 Podczas stosowania benzodiazepin mogą wystąpić reakcje paradoksalne, takie jak niepokój, pobudzenie, drażliwość, agresywność, urojenia, koszmary senne, omamy, psychozy, niewłaściwe zachowania (prawdopodobnie z towarzyszącą niepamięcią), chodzenie we śnie i inne behawioralne działania niepożądane (patrz punkt 4.4). 2 Nagłemu przerwaniu leczenia mogą towarzyszyć objawy odstawienia, takie jak lęk, bezsenność i drgawki (patrz punkt 4.4). 3 Podczas leczenia benzodiazepiną może ujawnić się wcześniej istniejąca depresja. Uzależnienie Stosowanie benzodiazepin (nawet w dawkach terapeutycznych) może doprowadzić do uzależnienia fizycznego i psychicznego. Nagłe przerwanie leczenia może spowodować wystąpienie objawów odstawienia lub zjawiska „z odbicia” (patrz punkt 4.4). Odnotowano nadużywanie benzodiazepin. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C; 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dystrybucja Temazepam wchłania się bardzo szybko i prawie całkowicie z przewodu pokarmowego. Metabolizm pierwszego przejścia jest znikomy. Maksymalne stężenie we krwi występuje zazwyczaj po około 1 godzinie. Temazepam wiąże się silnie z białkami osocza (2-4% występuje w postaci niezwiązanej), a objętość dystrybucji wynosi 1 l/kg. Stężenie w płynie mózgowo-rdzeniowym jest około 5 razy większe niż w osoczu. Temazepam przenika przez łożysko. Do mleka ludzkiego przenika tylko w niewielkich ilościach. Metabolizm i wydalanie Temazepam jest metabolizowany głównie do nieaktywnych metabolitów. Niewielka, nieistotna klinicznie część jest metabolizowana do oksazepamu. Okres półtrwania w fazie eliminacji wynosi od 5 do 20 godzin (u kobiet okres półtrwania w fazie eliminacji jest nieco dłuższy niż u mężczyzn). Temazepam wydalany jest z moczem w postaci sprzężonych metabolitów. Wydalanie u kobiet jest wolniejsze niż u mężczyzn. Szczególne grupy pacjentów Właściwości farmakokinetyczne nie ulegają istotnym zmianom u pacjentów z marskością wątroby i niewydolnością nerek ani u osób w podeszłym wieku. Farmakokinetyka u dzieci i młodzieży jest nieznana. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki"
-    ],
-    "nazwa_powszechna": [
-     "Temazepamum"
-    ],
-    "atc": [
-     "N05CD07"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_uciete": [],
+   "sha256_pdf": "955470e58023e40c184b251e59981ab69fe0106a0deb3f9a5ac27a37037dc34d",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39918/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "temazepam",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

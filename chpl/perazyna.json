@@ -1,25 +1,32 @@
 {
- "substancja": "perazyna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Perazin 100 mg",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.4"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05AB10"
+    ],
+    "nazwa_powszechna": [
+     "Perazinum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "100 mg",
+   "nazwa": "Perazin 100 mg",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9992/characteristic",
-   "sha256_pdf": "be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Różne postacie schizofrenii oraz ostre zaburzenia psychotyczne (także katatoniczne) z towarzyszącymi objawami pobudzenia psychoruchowego, manii i urojeń. ",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Początkowo stosuje się od 50 do 100 mg na dobę, w dalszym etapie leczenia stopniowo zwiększając dawkę do 300 do 600 mg na dobę w dawkach podzielonych. Maksymalna dawka lecznicza wynosi 800 mg na dobę w dawkach podzielonych. Dawka podtrzymująca wynosi od 75 do 300 mg na dobę. Leczenie pacjentów ambulatoryjnych należy rozpocząć od najmniejszych skutecznych dawek, a następnie dawkę można zwiększyć, aż do uzyskania pożądanej reakcji na leczenie. W celu uzyskania szybszej reakcji na leczenie, u pacjentów hospitalizowanych można rozpocząć leczenie od większych dawek. Nie zaleca się nagłych zmian dawkowania, ponieważ zwiększa to ryzyko wystąpienia działań niepożądanych. Maksymalne działanie przeciwpsychotyczne uzyskuje się po jednym do trzech tygodni leczenia. W przypadku podawania dawki optymalnej przez dłuższy czas, należy ją stopniowo zmniejszać do najmniejszej dawki skutecznej. Pacjenci z niewydolnością nerek W niewydolności nerek nie istnieje konieczność zmiany dawkowania produktu leczniczego. 1/8 Pacjenci z niewydolnością wątroby U pacjentów z zaburzeniami czynności wątroby wskazane jest zmniejszenie dawek perazyny, zaleca się u nich stosowanie połowy dawki dla dorosłych, a w ciężkiej niewydolności wątroby przerwanie podawania produktu. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku powinni otrzymywać zmniejszone dawki. Zaleca się u nich stosowanie połowy dawki dla dorosłych; takie dawkowanie zapewnia zwykle u osób w podeszłym wieku pożądane działanie lecznicze. Dzieci i młodzież Brak dostatecznych danych, pozwalających na ocenę bezpieczeństwa stosowania produktu leczniczego u dzieci i młodzieży poniżej 16 lat, dlatego perazyna przeznaczona jest wyłącznie do leczenia dorosłych. Odstawienie produktów Perazin 25 mg; Perazin 100 mg Leczenie zaburzeń psychotycznych jest kuracją długotrwałą. W przypadku uzyskania zadowalającej poprawy nie jest wskazane zbyt szybkie redukowanie dawki produktu. Dawki należy zmniejszać stopniowo przez kilka do kilkunastu miesięcy. Decyzja lekarza o przerwaniu leczenia może być oparta jedynie na doświadczeniu klinicznym z uwzględnieniem dotychczasowego przebiegu choroby oraz stanu chorego. Sposób podawania Podanie doustne. ",
@@ -30,28 +37,31 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania działań niepożądanych określono zgodnie z konwencją MedDRA: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). 4/8 W obrębie każdej grupy objawy niepożądane są wymienione zgodnie ze zmniejszającym się nasileniem częstości występowania. Badania diagnostyczne Częstość nieznana: fałszywe wyniki testów ciążowych. Zaburzenia serca Częstość nieznana: zaburzenia rytmu serca, obniżenie ciśnienia tętniczego krwi. Zaburzenia krwi i układu chłonnego Bardzo rzadko: obrzęki, agranulocytoza. Częstość nieznana: zmniejszenie liczby leukocytów, zmniejszenie liczby płytek krwi. Zaburzenia układu nerwowego Niezbyt często: dyskinezy, zespół objawów parkinsonizmu. Rzadko: zmiany czucia w dłoniach i stopach, napady drgawek. Bardzo rzadko: objawy pozapiramidowe objawiające się akatyzją, często połączoną z depresją, występującą zwykle po fazie maniakalnej psychozy, złośliwy zespół poneuroleptyczny, występujący w pojedynczych przypadkach. Zaburzenia oka Często: zmiana ciśnienia wewnątrzgałkowego. Rzadko: nadwrażliwość oczu na światło. Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Często: obrzęk błony śluzowej nosa. Bardzo rzadko: zaburzenia oddychania. Zaburzenia żołądka i jelit Często: zaparcia. Bardzo rzadko: dolegliwości żołądkowo-jelitowe, nudności, zgorzelinowe zapalenie jelit. Zaburzenia nerek i dróg moczowych Często: trudności w oddawaniu moczu. Zaburzenia skóry i tkanki podskórnej Rzadko: ciężkie reakcje fototoksyczne, którym towarzyszy odkładanie się pigmentu. Częstość nieznana: zmiany skórne o charakterze pokrzywki lub podrażnienia. Zaburzenia metabolizmu i odżywiania Często: przyrost masy ciała. Zaburzenia naczyniowe Rzadko: zapaść naczyniowa. Zaburzenia ogólne i stany w miejscu podania Często: suchość błon śluzowych jamy ustnej, nasilone pragnienie. Częstość nieznana: krwawienie z nosa. Zaburzenia układu immunologicznego Bardzo rzadko: toczeń rumieniowaty. Zaburzenie wątroby i dróg żółciowych Bardzo rzadko: cholestaza. 5/8 Częstość nieznana: zwiększenie aktywności enzymów wątrobowych i żółtaczka. Zaburzenia układu rozrodczego i piersi Bardzo często: mlekotok. Często: zaburzenia czynności seksualnych (np. zaburzenia erekcji, ejakulacji). Rzadko: ginekomastia u mężczyzn. Częstość nieznana: zaburzenia miesiączkowania, powiększenie gruczołów piersiowych u kobiet. Zaburzenia psychiczne Niezbyt często: zaburzenia snu, ogólny niepokój, zwiększone występowanie koszmarów nocnych, dezorientacja i otępienie. Rzadko: epizody majaczenia, stany splątania. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Aleje Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, e-mail: ndl@urpl.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2. Właściwości farmakokinetyczne Perazyna jest szybko wchłaniana z przewodu pokarmowego osiągając maksymalne stężenie w osoczu po 2 do 4 godzinach od podania. Wiąże się w 95-98% z białkami osocza. Przenika przez barierę krew- mózg osiągając wyższe stężenie w mózgu niż w osoczu. Perazyna i jej metabolity przenikają przez łożysko oraz do mleka matki. Wykazuje efekt pierwszego przejścia, co powoduje, że jej stężenie w osoczu jest wyższe po podaniu dożylnym niż doustnym. Perazyna jest metabolizowana w wątrobie poprzez hydroksylację, sprzęganie z kwasem glukuronowym, N-oksydację, sulfooksydację oraz dealkilację. Wydalana jest z moczem oraz żółcią głównie w postaci metabolitów. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.4"
+   ],
+   "sha256_pdf": "be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9992/characteristic"
+  },
+  {
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N05AB10"
     ],
     "nazwa_powszechna": [
      "Perazinum"
     ],
-    "atc": [
-     "N05AB10"
+    "postac": [
+     "Tabletki"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Perazin 200 mg",
+   },
    "moc": "200 mg",
+   "nazwa": "Perazin 200 mg",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29102/characteristic",
-   "sha256_pdf": "505697ada1b6d0bf17287d6044a555d675129f6af4703a438046608f42402289",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Różne postacie schizofrenii oraz ostre zaburzenia psychotyczne (także katatoniczne) z towarzyszącymi objawami pobudzenia psychoruchowego, manii i urojeń. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Początkowo stosuje się od 50 do 100 mg na dobę, w dalszym etapie leczenia stopniowo zwiększając dawkę do 300 lub do 600 mg na dobę w dawkach podzielonych. Maksymalna dawka lecznicza wynosi 800 mg na dobę w dawkach podzielonych. Dawka podtrzymująca wynosi od 75 do 300 mg na dobę. Leczenie pacjentów ambulatoryjnych należy rozpocząć od najmniejszych skutecznych dawek, a następnie dawkę można zwiększyć, aż do uzyskania pożądanej reakcji na leczenie. W celu uzyskania szybszej reakcji na leczenie, u pacjentów hospitalizowanych można rozpocząć leczenie od większych dawek. Nie zaleca się nagłych zmian dawkowania, ponieważ zwiększa to ryzyko wystąpienia działań niepożądanych. Maksymalne działanie przeciwpsychotyczne uzyskuje się po jednym do trzech tygodni leczenia. W przypadku podawania dawki optymalnej przez dłuższy czas, należy ją stopniowo zmniejszać do najmniejszej dawki skutecznej. Pacjenci z niewydolnością nerek W niewydolności nerek nie istnieje konieczność zmiany dawkowania produktu leczniczego. Pacjenci z niewydolnością wątroby U pacjentów z zaburzeniami czynności wątroby wskazane jest zmniejszenie dawek perazyny, zaleca się u nich stosowanie połowy dawki dla dorosłych, a w ciężkiej niewydolności wątroby przerwanie podawania produktu. 1/8 Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku powinni otrzymywać zmniejszone dawki. Zaleca się u nich stosowanie połowy dawki dla dorosłych; takie dawkowanie zapewnia zwykle u osób w podeszłym wieku pożądane działanie lecznicze. Dzieci i młodzież Brak dostatecznych danych pozwalających na ocenę bezpieczeństwa stosowania produktu leczniczego u dzieci i młodzieży poniżej 16 lat, dlatego perazyna przeznaczona jest wyłącznie do leczenia dorosłych. Odstawienie produktów Perazin 50 mg lub Perazin 200 mg Leczenie zaburzeń psychotycznych jest kuracją długotrwałą. Po uzyskaniu zadowalającej poprawy nie jest wskazane zbyt szybkie redukowanie dawki produktu. Dawki należy zmniejszać stopniowo przez kilka do kilkunastu miesięcy. Decyzja lekarza o przerwaniu leczenia może być oparta jedynie na doświadczeniu klinicznym z uwzględnieniem dotychczasowego przebiegu choroby oraz stanu chorego. Sposób podawania Podanie doustne. ",
@@ -62,28 +72,36 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania działań niepożądanych określono zgodnie z konwencją MedDRA: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). Badania diagnostyczne Częstość nieznana: fałszywe wyniki testów ciążowych. Zaburzenia serca Częstość nieznana: zaburzenia rytmu serca, obniżenie ciśnienia tętniczego krwi. Zaburzenia krwi i układu chłonnego Bardzo rzadko: obrzęki, agranulocytoza. 4/8 Częstość nieznana: zmniejszenie liczby leukocytów, zmniejszenie liczby płytek krwi. Zaburzenia układu nerwowego Niezbyt często: dyskinezy, zespół objawów parkinsonizmu. Rzadko: zmiany czucia w dłoniach i stopach, napady drgawek. Bardzo rzadko: objawy pozapiramidowe objawiające się akatyzją, często połączoną z depresją, występującą zwykle po fazie maniakalnej psychozy, złośliwy zespół neuroleptyczny, występujący w pojedynczych przypadkach. Zaburzenia oka Często: zmiana ciśnienia wewnątrzgałkowego. Rzadko: nadwrażliwość oczu na światło. Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Często: obrzęk błony śluzowej nosa. Bardzo rzadko: zaburzenia oddychania. Zaburzenia żołądka i jelit Często: zaparcia. Bardzo rzadko: dolegliwości żołądkowo-jelitowe, nudności, zgorzelinowe zapalenie jelit. Zaburzenia nerek i dróg moczowych Często: trudności w oddawaniu moczu. Zaburzenia skóry i tkanki podskórnej Rzadko: ciężkie reakcje fototoksyczne, którym towarzyszy odkładanie się pigmentu. Częstość nieznana: zmiany skórne o charakterze pokrzywki lub podrażnienia. Zaburzenia metabolizmu i odżywiania Często: przyrost masy ciała. Zaburzenia naczyniowe Rzadko: zapaść naczyniowa. Zaburzenia ogólne i stany w miejscu podania Często: suchość błon śluzowych jamy ustnej, nasilone pragnienie. Częstość nieznana: krwawienie z nosa. Zaburzenia układu immunologicznego Bardzo rzadko: toczeń rumieniowaty. Zaburzenie wątroby i dróg żółciowych Bardzo rzadko: cholestaza. Częstość nieznana: zwiększenie aktywności enzymów wątrobowych i żółtaczka. Zaburzenia układu rozrodczego i piersi Bardzo często: mlekotok. Często: zaburzenia czynności seksualnych (np. zaburzenia erekcji, ejakulacji). Rzadko: ginekomastia u mężczyzn. Częstość nieznana: zaburzenia miesiączkowania, powiększenie gruczołów piersiowych u kobiet. Zaburzenia psychiczne Niezbyt często: zaburzenia snu, ogólny niepokój, zwiększone występowanie koszmarów nocnych, dezorientacja i otępienie. Rzadko: epizody majaczenia, stany splątania. 5/8 Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Aleje Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, e-mail: ndl@urpl.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Perazyna jest szybko wchłaniana z przewodu pokarmowego osiągając maksymalne stężenie w osoczu po 2 do 4 godzinach od podania. Wiąże się w 95-98% z białkami osocza. Przenika przez barierę krew- mózg osiągając wyższe stężenie w mózgu niż w osoczu. Perazyna i jej metabolity przenikają przez łożysko oraz do mleka matki. Wykazuje efekt pierwszego przejścia, co powoduje, że jej stężenie w osoczu jest wyższe po podaniu dożylnym niż doustnym. Perazyna jest metabolizowana w wątrobie 6/8 poprzez hydroksylację, sprzęganie z kwasem glukuronowym, N-oksydację, sulfooksydację oraz dealkilację. Wydalana jest z moczem oraz żółcią głównie w postaci metabolitów. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "505697ada1b6d0bf17287d6044a555d675129f6af4703a438046608f42402289",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29102/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.4"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N05AB10"
     ],
     "nazwa_powszechna": [
      "Perazinum"
     ],
-    "atc": [
-     "N05AB10"
+    "postac": [
+     "Tabletki"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Perazin 25 mg",
+   },
    "moc": "25 mg",
+   "nazwa": "Perazin 25 mg",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9991/characteristic",
-   "sha256_pdf": "be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Różne postacie schizofrenii oraz ostre zaburzenia psychotyczne (także katatoniczne) z towarzyszącymi objawami pobudzenia psychoruchowego, manii i urojeń. ",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Początkowo stosuje się od 50 do 100 mg na dobę, w dalszym etapie leczenia stopniowo zwiększając dawkę do 300 do 600 mg na dobę w dawkach podzielonych. Maksymalna dawka lecznicza wynosi 800 mg na dobę w dawkach podzielonych. Dawka podtrzymująca wynosi od 75 do 300 mg na dobę. Leczenie pacjentów ambulatoryjnych należy rozpocząć od najmniejszych skutecznych dawek, a następnie dawkę można zwiększyć, aż do uzyskania pożądanej reakcji na leczenie. W celu uzyskania szybszej reakcji na leczenie, u pacjentów hospitalizowanych można rozpocząć leczenie od większych dawek. Nie zaleca się nagłych zmian dawkowania, ponieważ zwiększa to ryzyko wystąpienia działań niepożądanych. Maksymalne działanie przeciwpsychotyczne uzyskuje się po jednym do trzech tygodni leczenia. W przypadku podawania dawki optymalnej przez dłuższy czas, należy ją stopniowo zmniejszać do najmniejszej dawki skutecznej. Pacjenci z niewydolnością nerek W niewydolności nerek nie istnieje konieczność zmiany dawkowania produktu leczniczego. 1/8 Pacjenci z niewydolnością wątroby U pacjentów z zaburzeniami czynności wątroby wskazane jest zmniejszenie dawek perazyny, zaleca się u nich stosowanie połowy dawki dla dorosłych, a w ciężkiej niewydolności wątroby przerwanie podawania produktu. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku powinni otrzymywać zmniejszone dawki. Zaleca się u nich stosowanie połowy dawki dla dorosłych; takie dawkowanie zapewnia zwykle u osób w podeszłym wieku pożądane działanie lecznicze. Dzieci i młodzież Brak dostatecznych danych, pozwalających na ocenę bezpieczeństwa stosowania produktu leczniczego u dzieci i młodzieży poniżej 16 lat, dlatego perazyna przeznaczona jest wyłącznie do leczenia dorosłych. Odstawienie produktów Perazin 25 mg; Perazin 100 mg Leczenie zaburzeń psychotycznych jest kuracją długotrwałą. W przypadku uzyskania zadowalającej poprawy nie jest wskazane zbyt szybkie redukowanie dawki produktu. Dawki należy zmniejszać stopniowo przez kilka do kilkunastu miesięcy. Decyzja lekarza o przerwaniu leczenia może być oparta jedynie na doświadczeniu klinicznym z uwzględnieniem dotychczasowego przebiegu choroby oraz stanu chorego. Sposób podawania Podanie doustne. ",
@@ -94,20 +112,26 @@
     "4.8": "4.8 Działania niepożądane Częstość występowania działań niepożądanych określono zgodnie z konwencją MedDRA: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). 4/8 W obrębie każdej grupy objawy niepożądane są wymienione zgodnie ze zmniejszającym się nasileniem częstości występowania. Badania diagnostyczne Częstość nieznana: fałszywe wyniki testów ciążowych. Zaburzenia serca Częstość nieznana: zaburzenia rytmu serca, obniżenie ciśnienia tętniczego krwi. Zaburzenia krwi i układu chłonnego Bardzo rzadko: obrzęki, agranulocytoza. Częstość nieznana: zmniejszenie liczby leukocytów, zmniejszenie liczby płytek krwi. Zaburzenia układu nerwowego Niezbyt często: dyskinezy, zespół objawów parkinsonizmu. Rzadko: zmiany czucia w dłoniach i stopach, napady drgawek. Bardzo rzadko: objawy pozapiramidowe objawiające się akatyzją, często połączoną z depresją, występującą zwykle po fazie maniakalnej psychozy, złośliwy zespół poneuroleptyczny, występujący w pojedynczych przypadkach. Zaburzenia oka Często: zmiana ciśnienia wewnątrzgałkowego. Rzadko: nadwrażliwość oczu na światło. Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Często: obrzęk błony śluzowej nosa. Bardzo rzadko: zaburzenia oddychania. Zaburzenia żołądka i jelit Często: zaparcia. Bardzo rzadko: dolegliwości żołądkowo-jelitowe, nudności, zgorzelinowe zapalenie jelit. Zaburzenia nerek i dróg moczowych Często: trudności w oddawaniu moczu. Zaburzenia skóry i tkanki podskórnej Rzadko: ciężkie reakcje fototoksyczne, którym towarzyszy odkładanie się pigmentu. Częstość nieznana: zmiany skórne o charakterze pokrzywki lub podrażnienia. Zaburzenia metabolizmu i odżywiania Często: przyrost masy ciała. Zaburzenia naczyniowe Rzadko: zapaść naczyniowa. Zaburzenia ogólne i stany w miejscu podania Często: suchość błon śluzowych jamy ustnej, nasilone pragnienie. Częstość nieznana: krwawienie z nosa. Zaburzenia układu immunologicznego Bardzo rzadko: toczeń rumieniowaty. Zaburzenie wątroby i dróg żółciowych Bardzo rzadko: cholestaza. 5/8 Częstość nieznana: zwiększenie aktywności enzymów wątrobowych i żółtaczka. Zaburzenia układu rozrodczego i piersi Bardzo często: mlekotok. Często: zaburzenia czynności seksualnych (np. zaburzenia erekcji, ejakulacji). Rzadko: ginekomastia u mężczyzn. Częstość nieznana: zaburzenia miesiączkowania, powiększenie gruczołów piersiowych u kobiet. Zaburzenia psychiczne Niezbyt często: zaburzenia snu, ogólny niepokój, zwiększone występowanie koszmarów nocnych, dezorientacja i otępienie. Rzadko: epizody majaczenia, stany splątania. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Aleje Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, e-mail: ndl@urpl.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2. Właściwości farmakokinetyczne Perazyna jest szybko wchłaniana z przewodu pokarmowego osiągając maksymalne stężenie w osoczu po 2 do 4 godzinach od podania. Wiąże się w 95-98% z białkami osocza. Przenika przez barierę krew- mózg osiągając wyższe stężenie w mózgu niż w osoczu. Perazyna i jej metabolity przenikają przez łożysko oraz do mleka matki. Wykazuje efekt pierwszego przejścia, co powoduje, że jej stężenie w osoczu jest wyższe po podaniu dożylnym niż doustnym. Perazyna jest metabolizowana w wątrobie poprzez hydroksylację, sprzęganie z kwasem glukuronowym, N-oksydację, sulfooksydację oraz dealkilację. Wydalana jest z moczem oraz żółcią głównie w postaci metabolitów. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki"
-    ],
-    "nazwa_powszechna": [
-     "Perazinum"
-    ],
-    "atc": [
-     "N05AB10"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.4"
+   ],
+   "sha256_pdf": "be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9991/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "perazyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

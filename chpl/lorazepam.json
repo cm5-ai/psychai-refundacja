@@ -1,25 +1,44 @@
 {
- "substancja": "lorazepam",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Lorabex",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2",
+     "4.3",
+     "4.8"
+    ]
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.8": {
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "typowo_dla_tego_punktu": 4718,
+     "wykryto": "2026-09-23",
+     "znakow": 157
+    }
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05BA06"
+    ],
+    "nazwa_powszechna": [
+     "Lorazepamum"
+    ],
+    "postac": [
+     "Roztwór do wstrzykiwań",
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "0,5 mg",
+   "nazwa": "Lorabex",
    "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41258/characteristic",
-   "sha256_pdf": "98994ec3cc37545677e2d1469a489ee8d190ad65e6ab66d3610d73e1d96cdfba",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Lorabex jest wskazany w krótkotrwałym objawowym leczeniu zaburzeń lękowych i bezsenności spowodowanej lękiem, gdy lęk jest poważny, obezwładniający lub naraża na skrajne cierpienie. Lorabex można również stosować jako premedykację przed zabiegami diagnostycznymi lub przed zabiegami chirurgicznymi. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dawkowanie i czas leczenia należy określić indywidualnie dla każdego pacjenta. Zwykle należy stosować najmniejszą skuteczną dawkę przez możliwie krótki czas. Produkt należy odstawiać stopniowo u wszystkich pacjentów, ponieważ ryzyko wystąpienia objawów odstawienia oraz objawów z odbicia wzrasta po nagłym przerwaniu stosowania (patrz punkt 4.4). 1 Czas trwania leczenia nie powinien przekraczać 4 tygodni, włączając stopniowe odstawianie produktu. Nie należy przedłużać czasu prowadzenia leczenia bez ponownej oceny potrzeby jego kontynuacji. Aby uniknąć działań niepożądanych, dawkę lorazepamu należy zwiększać stopniowo, zaczynając od zwiększenia dawki przyjmowanej wieczorem. Zalecana dawka Dorośli Objawowe leczenie zaburzeń lękowych i bezsenności spowodowanej lękiem:  0,5 mg - 2,5 mg na dobę w dawkach podzielonych lub jednorazowo przed snem. Premedykacja przed zabiegami diagnostycznymi lub przed zabiegami chirurgicznymi:  1 mg - 2,5 mg na noc przed operacją i (lub)  2 mg - 4 mg na 1 - 2 godziny przed operacją. Dzieci i młodzież Produkt leczniczy Lorabex nie jest zalecany u dzieci i młodzieży w wieku poniżej 18 lat. Nie określono bezpieczeństwa ani skuteczności stosowania lorazepamu w tej grupie pacjentów, z wyłączeniem poniższego wskazania. Premedykacja: Dzieci w wieku poniżej 6 lat Dzieci poniżej 6 lat nie powinny być leczone lorazepamem. Dzieci w wieku 6-12 lat Premedykacja przed zabiegami diagnostycznymi lub przed zabiegami chirurgicznymi: nie należy przekraczać dawki 0,5 mg - 1 mg lub 0,05 mg / kg mc. Dawkę należy przyjąć na 1 - 2 godziny przed zabiegiem. Młodzież w wieku 13-18 lat Premedykacja przed zabiegami diagnostycznymi lub przed zabiegami chirurgicznymi: 1 mg - 4 mg na 1-2 godziny przed zabiegiem. Pacjenci w podeszłym wieku i osłabieni U pacjentów w podeszłym wieku oraz osłabionych zazwyczaj stosowana dawka powinna być zmniejszona o połowę, a dawkowanie należy dostosować do potrzeb i tolerancji pacjenta (patrz punkt 4.4). Pacjenci z zaburzeniami czynności wątroby lub nerek U pacjentów z zaburzeniami czynności nerek lub łagodną do umiarkowanej niewydolnością wątroby mogą okazać się skuteczne mniejsze dawki lorazepamu (patrz punkt 4.4). Stosowanie u pacjentów z ciężką niewydolnością wątroby jest przeciwwskazane (patrz punkt 4.3). Pacjenci z przewlekłą niewydolnością oddechową Zalecane są mniejsze dawki (patrz punkt 4.4). Sposób podawania Podanie doustne. Tabletki należy połykać w całości, popijając odpowiednią ilością płynu (np. ½ do 1 szklanki wody). 2 ",
@@ -30,38 +49,41 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane występują zwykle na początku leczenia, jeśli dawka jest zbyt duża i u pacjentów wymienionych w punktach 4.3 i ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym lorazepam jest szybko i niemal całkowicie wchłaniany. Maksymalne stężenie w surowicy występuje po upływie około 2 godzin od podania (zakres: 0,5-3 godziny); biodostępność po podaniu doustnym wynosi 90-93%. Dystrybucja Lorazepam wiąże się w około 85% - 91% z białkami, przy czym wolna frakcja jest znacznie podwyższona u pacjentów w podeszłym wieku. Przenika przez barierę krew/płyn mózgowo- rdzeniowy, a jego stężenia w płynie mózgowo-rdzeniowym wynoszą około 5% - 28% odpowiadających poziomów w osoczu. Przekracza barierę łożyskową, a stężenia w osoczu noworodków są zbliżone do stężeń w surowicy matek. Okres półtrwania dystrybucji wynosi 20-25 minut (zakres: 10,3 - 42,7), a objętość dystrybucji wynosi 1,3 l/kg mc. Stężenia w osoczu w stanie stacjonarnym są osiągane w ciągu trzech dni. Metabolizm Lorazepam jest intensywnie metabolizowany w wątrobie, w około 75%, i podlega recyrkulacji jelitowo-wątrobowej. Przewlekłe podawanie nie wpływa na zdolność wątroby do hydroksylacji. Głównym nieaktywnym metabolitem jest glukuronid 3-O-fenolowy stanowiący 75% dawki. Pozostałe metabolity występujące w mniejszych ilościach to: 6-chloro-4-O-chlorofenylo-2,1-chinazolinon i hydroksylowana pochodna lorazepamu - wszystkie są nieaktywne. Eliminacja Główną drogą wydalania jest droga przez nerki - 88%, mniejsze ilości są wydalane z kałem (7%). Całkowity klirens wynosi 1,1 ml/min/kg mc. Okres półtrwania lorazepamu w fazie eliminacji wynosi 12 godzin, a ryzyko nadmiernej kumulacji jest minimalne. Okres półtrwania w fazie eliminacji nieaktywnego metabolitu glukuronidu wynosi 12-18 godzin. Nie ma zmian parametrów farmakokinetycznych u osób starszych. W ciężkich zaburzeniach czynności wątroby okres półtrwania lorazepamu w fazie eliminacji jest podwojony. Zaburzenie czynności nerek powoduje zmniejszenie szybkości wydalania metabolitu glukuronidu bez wydłużenia okresu półtrwania lorazepamu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.2",
+    "4.3",
+    "4.8"
+   ],
+   "sha256_pdf": "98994ec3cc37545677e2d1469a489ee8d190ad65e6ab66d3610d73e1d96cdfba",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41258/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Roztwór do wstrzykiwań",
-     "Tabletki"
+    "atc": [
+     "N05BA06"
     ],
     "nazwa_powszechna": [
      "Lorazepamum"
     ],
-    "atc": [
-     "N05BA06"
+    "postac": [
+     "Tabletki drażowane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
    },
-   "PODEJRZANIE_KROTKI": {
-    "4.8": {
-     "znakow": 157,
-     "typowo_dla_tego_punktu": 4718,
-     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
-     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
-     "wykryto": "2026-09-23"
-    }
-   }
-  },
-  {
-   "nazwa": "Lorafen",
    "moc": "1 mg",
+   "nazwa": "Lorafen",
    "podmiot": "Tarchomińskie Zakłady Farmaceutyczne \"Polfa\" S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3971/characteristic",
-   "sha256_pdf": "d192cab884c75787496721d045d8cad673bdf86ad6f1e73f1d7dc2db647137f3",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Doraźnie i krótkotrwale: - w zaburzeniach lękowych różnego pochodzenia, towarzyszącym chorobom układu krążenia, chorobom przewodu pokarmowego; - w zaburzeniach snu związanych ze stanami wzmożonego lęku. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas leczenia należy określić dla każdego pacjenta indywidualnie. Dorośli i dzieci powyżej 12 lat W zaburzeniach lękowych początkowo podaje się zwykle 2 mg do 3 mg lorazepamu na dobę w 2 lub 3 dawkach podzielonych a następnie, jeśli zachodzi konieczność, zwiększa się dawkę do dawki podtrzymującej, która najczęściej wynosi do 6 mg na dobę w 2 lub 3 dawkach podzielonych. Dawkę lorazepamu należy zwiększać stopniowo, zaczynając od zwiększenia dawki przyjmowanej wieczorem. Maksymalnie można podać do 10 mg/dobę. W zaburzeniach snu spowodowanych lękiem zwykle podaje się raz na dobę 2 mg do 4 mg lorazepamu przed snem. Pacjenci w podeszłym wieku i osłabieni U pacjentów w podeszłym wieku i osłabionych dawkę początkową należy zmniejszyć o około 50%, a dawkowanie dostosować do potrzeb i tolerancji leku przez pacjenta (patrz punkt 4.4). 1 PL_ztw19.05.2015 05.03.2021 v6_CD Dzieci poniżej 12 lat Bezpieczeństwo i skuteczność lorazepamu u dzieci poniżej 12 lat nie zostały ustalone. Pacjenci z zaburzoną czynnością nerek i (lub) wątroby Zalecane jest indywidualne ustalanie dawki. Produktu nie należy odstawiać nagle, konieczna jest zawsze stopniowa redukcja dawki. Sposób podawania Tabletki należy przyjmować doustnie, popijając niewielką ilością wody. Zaleca się stosowanie możliwie najniższych skutecznych dawek do opanowania objawów lęku. Dawki lorazepamu należy zwiększać stopniowo. ",
@@ -72,28 +94,50 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane, jeśli występują, to zwykle na początku leczenia i ustępują w czasie trwania dalszej kuracji lub po zmniejszeniu dawki. Najczęściej zgłaszane działania niepożądane związane z benzodiazepinami obejmują senność w ciągu dnia, zawroty głowy, osłabienie mięśni i ataksję. Liczba i nasilenie działań niepożądanych zależy od indywidualnej wrażliwości pacjenta oraz dawki. Działania niepożądane pojawiające się po zastosowaniu produktu leczniczego można sklasyfikować jako występujące: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000) częstość nieznana (nie może być określona na podstawie dostępnych danych). 5 PL_ztw19.05.2015 05.03.2021 v6_CD Klasyfikacja Częstość występowania układów Bardzo Często Rzadko Bardzo rzadko Częstość nieznana narządów wg często MedDRA Zaburzenia zaburzenia w krwi i układu składzie chłonnego morfologicznym krwi Zaburzenia reakcje układu anafilaktyczne, immunologicz- anafilaktoidalne nego Zaburzenia brak apetytu metabolizmu i odżywiania Zaburzenia dezorientacja, myśli, próby psychiczne zaburzenia samobójcze *, emocjonalne, brak uzależnienie samokontroli, psychiczne i fizyczne impulsywność, **, Nagłe przerwanie euforia, zaburzenia leczenia może snu, ujawnienie się wywołać zespół wcześniej odstawienia (patrz istniejącej, punkt 4.4), niezdiagnozowanej reakcje paradoksalne - depresji niepokój psychoruchowy, bezsenność, zwiększona pobudliwość i agresywność, drżenie mięśniowe, drgawki *** Zaburzenia senność, ból i zawroty głowy, drżenie, reakcje układu spowolnienie stany splątania i pozapiramidowe, nerwowego reakcji dezorientacji, śpiączka (patrz 4.9) ataksja**** Niekiedy, tak jak i po innych benzodiazepinach, zwłaszcza po dużych dawkach może pojawić się dyzartria z mową zamazaną i nieprawidłowym wymawianiem, zaburzenia pamięci. Zaburzenia oka zaburzenia widzenia (niewyraźne, podwójne widzenie) Zaburzenia bradykardia, ból w serca klatce piersiowej 6 PL_ztw19.05.2015 05.03.2021 v6_CD Zaburzenia nieznaczne naczyniowe obniżenie ciśnienia tętniczego krwi Zaburzenia nudności, żołądka i jelit dolegliwości żołądkowe, uczucie suchości w jamie ustnej Zaburzenia niewielkie wątroby i dróg podwyższenie żółciowych aktywności aminotransferazy, zaburzenia czynności wątroby z wystąpieniem żółtaczki Zaburzenia alergiczne reakcje skóry i tkanki skórne (wysypki, podskórnej świąd, pokrzywka) Zaburzenia osłabie- mięśniowo- nie szkieletowe i mięśni tkanki łącznej Zaburzenia zatrzymanie moczu, nerek i dróg nietrzymanie moczu moczowych Zaburzenia zaburzenia układu miesiączkowania, rozrodczego i zaburzenia libido piersi Zaburzenia ogólne osłabienie, ogólne i stany omdlenia w miejscu podania *mogą wystąpić u pacjentów z depresją lub lękiem związanym z depresją leczonych tylko jednym lekiem ** może rozwinąć się podczas leczenia lorazepamem w dawkach terapeutycznych. Pacjenci nadużywający alkoholu lub leków są bardziej podatni na rozwinięcie uzależnienia. *** reakcje paradoksalne najczęściej występują po spożyciu alkoholu, u pacjentów w podeszłym wieku i u pacjentów z chorobami psychicznymi. **** działania te występują najczęściej na początku leczenia, u pacjentów w podeszłym wieku (patrz punkt 4.4) i z reguły ustępują w czasie trwania dalszej kuracji. W przypadku nasilenia tych reakcji odpowiednie zmniejszenie dawki zwykle zmniejsza nasilenie i częstość ich występowania. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, 02-222 Warszawa Tel.: + 48 22 49 21 301 7 PL_ztw19.05.2015 05.03.2021 v6_CD Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Lorazepam dobrze wchłania się z przewodu pokarmowego. Maksymalne stężenie we krwi występuje po około 2 godzinach. Po doustnym podaniu 2 mg lorazepamu maksymalne stężenie we krwi wynosi 20 ng/ml. Lorazepam w 85% wiąże się z białkami krwi. Przenika przez barierę krew/płyn mózgowo-rdzeniowy. Przenika przez barierę łożyska i do mleka kobiecego. Proces biotransformacji lorazepamu przebiega w wątrobie. W wyniku sprzęgania z kwasem glukuronowym powstaje nieaktywny metabolit – glukuronian lorazepamu. Biologiczny okres półtrwania dla lorazepamu wynosi około 12 godzin. Lorazepam wydalany jest głównie z moczem w postaci glukuronianu lorazepamu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "d192cab884c75787496721d045d8cad673bdf86ad6f1e73f1d7dc2db647137f3",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3971/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2",
+     "4.5",
+     "5.2"
+    ]
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "typowo_dla_tego_punktu": 6529,
+     "wykryto": "2026-09-23",
+     "znakow": 229
+    }
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki drażowane"
+    "atc": [
+     "N05BA06"
     ],
     "nazwa_powszechna": [
      "Lorazepamum"
     ],
-    "atc": [
-     "N05BA06"
+    "postac": [
+     "Tabletki"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Lorazepam Orion",
+   },
    "moc": "0,5 mg",
+   "nazwa": "Lorazepam Orion",
    "podmiot": "Orion Corporation",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49947/characteristic",
-   "sha256_pdf": "615c0262fd6cf5e74854f41bcf261c64b24c221a7a631649d92da1ec22237485",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania U osób dorosłych w krótkotrwałym leczeniu zaburzeń lękowych lub w krótkotrwałym łagodzeniu lęku i niepokoju związanego z objawami depresji. Produkt leczniczy Lorazepam Orion jest wskazany tylko wtedy, kiedy leczenie niefarmakologiczne okazało się nieskuteczne, a choroba jest ciężka, wyniszczająca lub powoduje nadmierny niepokój u pacjenta. Niepokój i napięcie związane ze stresem dnia codziennego zazwyczaj nie wymagają stosowania leków przeciwlękowych. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dawkowanie i czas trwania leczenia należy określić indywidualnie dla każdego pacjenta. Należy zastosować najmniejszą skuteczną dawkę przez możliwie krótki czas; w razie potrzeby dawkę można zwiększyć. Nie zaleca się długotrwałego stosowania produktu leczniczego. Na ogół, czas trwania leczenia nie powinien przekraczać 2-4 tygodni, włączając w to okres stopniowego odstawienia produktu leczniczego. Nie należy przedłużać czasu leczenia bez ponownej oceny potrzeby jego kontynuacji i nie powinno ono trwać dłużej niż maksymalnie 2–3 miesiące. Nie zaleca się przewlekłego stosowania produktu leczniczego, ponieważ niewiele wiadomo na temat jego długoterminowego bezpieczeństwa i skuteczności, a lorazepam może wywoływać uzależnienie (patrz punkt 4.4). Produkt leczniczy należy odstawiać stopniowo, ponieważ ryzyko wystąpienia objawów odstawienia oraz objawów z odbicia zwiększa się po nagłym przerwaniu leczenia. 1 W leczeniu stanów lękowych średnia dobowa dawka wynosi od 0,5 do 3 mg, w kilku dawkach podzielonych. Jednak, maksymalna dawka dobowa wynosi 7,5 mg. Największą dawkę należy przyjmować przed snem. W leczeniu bezsenności w wyniku lęku lub przemijającego stresu sytuacyjnego pojedyncza dawka dobowa wynosi od 0,5 do 2 mg i zwykle podawana jest przed snem. Dzieci i młodzież Nie określono bezpieczeństwa stosowania ani skuteczności lorazepamu u dzieci. Osoby w podeszłym wieku U pacjentów w podeszłym wieku oraz osłabionych zalecana dawka początkowa wynosi 1 mg na dobę, w dwóch dawkach podzielonych; dawkowanie należy starannie dostosować do potrzeb i tolerancji produktu leczniczego przez pacjenta. Generalnie, u pacjentów w podeszłym wieku i osłabionych, jak również u pacjentów z zaburzeniem czynności nerek lub wątroby, lub przewlekłą niewydolnością oddechową należy zmniejszyć dawkę lub wydłużyć odstęp między dawkami, ze względu na ryzyko zahamowania czynności układu oddechowego. Należy często kontrolować stan tych pacjentów i ostrożnie dostosowywać dawkowanie w zależności od reakcji pacjenta. W przypadku pacjentów w podeszłym wieku oraz osłabionych należy zmniejszyć zazwyczaj stosowaną dawkę o 50%, a dawkowanie należy dostosować do potrzeb i tolerancji pacjenta (patrz punkt ",
@@ -104,29 +148,28 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane występują zwykle na początku leczenia i na ogół zmniejszają się lub znikają podczas dalszego stosowania lub po zmniejszeniu dawki. Częstość występowania określa się następująco: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). Zaburzenia krwi i układu Rzadko Dyskrazja krwi (trombocytopenia, chłonnego agranulocytoza, pancytopenia) Zaburzenia układu Bardzo rzadko Reakcje nadwrażliwości, reakcje immunologicznego anafilatyczne/rzekomoanafilaktyczne 7 Zaburzenia metabolizmu Niezbyt często Zmiany apetytu i odżywiania Bardzo rzadko Zespół nieprawidłowego wydzielania hormonu antydiuretycznego (ang. syndrome of inappropriate antidiuretic hormone secrection, SIADH), hiponatremia Zaburzenia psychiczne Często Dezorientacja, depresja, ujawnienie depresji Niezbyt często Zmiany libido, osłabienie orgazmu, stłumienie emocji Bardzo rzadko Brak zahamowań, euforia, myśli / próby samobójcze Reakcje paradoksalne, w tym: lęk, pobudzenie, ekscytacja, wrogość, agresja, gniew, zaburzenia snu/bezsenność, pobudzenie seksualne, omamy Częstość nieznana Nadużywanie leku, uzależnienie od leku (patrz punkt 4.4) Zaburzenia układu Bardzo często Uspokojenie, senność nerwowego Często Ataksja, zawroty głowy Niezbyt często Bóle głowy, zmniejszenie czujności Rzadko Przemijająca niepamięć następcza lub zaburzenia pamięci Bardzo rzadko Objawy pozapiramidowe, drżenie, zawroty głowy układowe, dyzartria/niewyraźna mowa, drgawki/napady padaczkowe, śpiączka, zaburzenia koncentracji, zaburzenia równowagi Zaburzenia oka Niezbyt często Zaburzenia widzenia (w tym podwójne widzenie i niewyraźne widzenie) Zaburzenia naczyniowe Bardzo rzadko Niskie ciśnienie krwi, zmniejszenie ciśnienia krwi Zaburzenia układu Bardzo rzadko Depresja oddechowa, bezdech, nasilenie oddechowego, klatki bezdechu sennego, nasilenie obturacyjnej piersiowej i śródpiersia choroby płuc Zaburzenia żołądka i jelit Niezbyt często Nudności, zaburzenia żołądkowo-jelitowe Bardzo rzadko Zaparcia Zaburzenia wątroby i dróg Rzadko Zwiększenie stężenia bilirubiny, żółtaczka, żółciowych zwiększenie aktywności aminotransferaz wątrobowych, zwiększenie aktywności fosfatazy alkalicznej Zaburzenia skóry i tkanki Niezbyt często Reakcje skórne podskórnej Bardzo rzadko Skórne reakcje alergiczne, łysienie, obrzęk naczynioruchowy Zaburzenia Często Osłabienie mięśni mięśniowo-szkieletowe i tkanki łącznej Zaburzenia układu Niezbyt często Impotencja rozrodczego i piersi Zaburzenia ogólne i stany Bardzo często Zmęczenie w miejscu podania Często Astenia Bardzo rzadko Hipotermia Częstość nieznana Zespół odstawienia (patrz punkt 4.4) 8 Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane do podmiotu odpowiedzialnego lub za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181 C, 02-222 Warszawa Tel.: +48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym lorazepam jest szybko i niemal całkowicie wchłaniany. Maksymalne stężenie w osoczu występuje po upływie około 2 godzin od podania. Eliminacja Okres półtrwania niesprzężonego lorazepamu w osoczu człowieka wynosi zazwyczaj około 12 do 16 godzin. Przy stężeniach istotnych klinicznie lorazepam w około 90% wiąże się z białkami osocza. Stężenie lorazepamu w osoczu jest zależne od dawki. Po wielokrotnym podaniu u zdrowych osób nie obserwowano wzmożonej kumulacji. Lorazepam jest metabolizowany głównie przez sprzęganie z kwasem glukuronowym z wytworzeniem nieaktywnego glukuronidu. Lorazepam nie ma aktywnych metabolitów; 70% do 75% dawki ulega wydaleniu w moczu w postaci glukuronidu. Lorazepam nie jest hydroksylowany w znaczącym stopniu ani też nie jest substratem dla N-dealkilujących enzymów układu CYP450. Szczególne grupy pacjentów Wiek nie ma klinicznie istotnego wpływu na właściwości farmakokinetyczne lorazepamu. Podczas badania pacjentów w podeszłym wieku obserwowano statystycznie istotne zmniejszenie całkowitego klirensu, jednak okres półtrwania w fazie eliminacji nie uległ znaczącej zmianie. Nie obserwowano zmiany klirensu lorazepamu u pacjentów z łagodną lub umiarkowaną niewydolnością wątroby (zapalenie wątroby, marskość wątroby spowodowana przez alkohol). Podczas badań farmakokinetycznych pojedynczych dawek u pacjentów z różnym stopniem niewydolności nerek (łagodna do ciężkiej) nie obserwowano znaczących zmian dotyczących wchłaniania, klirensu i wydalania lorazepamu. Wydalanie nieaktywnego glukuronianu było znacznie opóźnione. Upośledzenie wydalania z wydłużeniem okresu półtrwania obserwowano w rezultacie dłuższego podawania lorazepamu u dwóch pacjentów z przewlekłą niewydolnością nerek. Hemodializa nie ma istotnego wpływu na właściwości farmakokinetyczne niezmienionego lorazepamu, natomiast w znaczącym stopniu usuwa nieaktywny glukuronian z osocza. 10 "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki"
-    ],
-    "nazwa_powszechna": [
-     "Lorazepamum"
-    ],
-    "atc": [
-     "N05BA06"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   },
-   "PODEJRZANIE_KROTKI": {
-    "4.4": {
-     "znakow": 229,
-     "typowo_dla_tego_punktu": 6529,
-     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
-     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
-     "wykryto": "2026-09-23"
-    }
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.2",
+    "4.5",
+    "5.2"
+   ],
+   "sha256_pdf": "615c0262fd6cf5e74854f41bcf261c64b24c221a7a631649d92da1ec22237485",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49947/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "lorazepam",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

@@ -1,25 +1,32 @@
 {
- "substancja": "agomelatyna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Agolek",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AX22"
+    ],
+    "nazwa_powszechna": [
+     "Agomelatinum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "25 mg",
+   "nazwa": "Agolek",
    "podmiot": "Przedsiębiorstwo Farmaceutyczne LEK-AM Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38500/characteristic",
-   "sha256_pdf": "122cb01c1d90a19e84f037c6dca3f7c178686e8bed618add6087432c097bd4f7",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Agolek jest wskazany w leczeniu dużych epizodów depresyjnych u dorosłych. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka to 25 mg raz na dobę, zażywana doustnie wieczorem przed snem. Po dwóch tygodniach leczenia, jeżeli nie ma poprawy, dawka może być zwiększona do 50 mg raz na dobę, tj. do dwóch tabletek po 25 mg przyjmowanych przed snem. Decydując o zwiększeniu dawki należy wziąć pod uwagę wyższe ryzyko zwiększenia aktywności aminotransferaz. Każde zwiększenie dawki do 50 mg powinno być oparte na ocenie korzyści i ryzyka u konkretnego pacjenta oraz na ścisłym przestrzeganiu kontrolowania wyników testów czynnościowych wątroby. U wszystkich pacjentów należy przeprowadzić badania czynności wątroby przed rozpoczęciem leczenia. Nie należy rozpoczynać terapii, jeśli aktywność aminotransferaz w surowicy 3-krotnie przewyższa górny zakres normy (patrz punkty 4.3 i 4.4). Podczas leczenia należy okresowo kontrolować aktywność aminotransferaz: po około trzech tygodniach, sześciu tygodniach (koniec ostrej fazy), po dwunastu tygodniach i po dwudziestu czterech tygodniach leczenia (koniec fazy podtrzymującej) oraz później, kiedy jest to klinicznie wskazane (patrz także punkt 4.4). Terapię należy przerwać, jeśli aktywność aminotransferaz w surowicy 3-krotnie przewyższa górny zakres normy (patrz punkty 4.3 i 4.4). Zwiększając dawkowanie, należy znowu przeprowadzić badania czynności wątroby z tą samą częstością, jak podczas rozpoczynania leczenia. 1 Czas trwania leczenia Aby zapewnić ustąpienie objawów, pacjenci z depresją powinni być leczeni wystarczająco długo, przynajmniej 6 miesięcy. Zmiana leczenia z leku przeciwdepresyjnego z grupy SSRI/SNRI na leczenie agomelatyną Po przerwaniu stosowania leku przeciwdepresyjnego z grupy SSRI (ang. Selective Serotonin Reuptake Inhibitors – Selektywne Inhibitory Wychwytu Zwrotnego Serotoniny) lub SNRI (ang. Serotonin Norepinephrine Reuptake Inhibitors – Inhibitory Wychwytu Zwrotnego Serotoniny i Noradrenaliny) u pacjentów mogą wystąpić objawy odstawienia. Aby ich uniknąć, należy sprawdzić w Charakterystyce Produktu Leczniczego aktualnie stosowanego produktu leczniczego z grupy SSRI/SNRI, jak należy go odstawiać. Podawanie agomelatyny można rozpocząć od razu w trakcie zmniejszania dawkowania leku z grupy SSRI/SNRI (patrz punkt 5.1). Przerwanie leczenia Nie jest wymagane stopniowe zmniejszanie dawki w celu przerwania leczenia. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania agomelatyny (25 do 50 mg/dobę) u pacjentów w podeszłym wieku (<75 lat) z depresją. Działanie leku nie jest udokumentowane u pacjentów ≥75 lat. Z tego względu agomelatyny nie należy stosować u pacjentów z tej grupy wiekowej (patrz punkty 4.4 i 5.1). Nie wymaga się dostosowania dawki w zależności od wieku (patrz punkt 5.2). Zaburzenia czynności nerek U pacjentów z ciężkim zaburzeniami czynności nerek nie obserwowano istotnej zmiany parametrów farmakokinetycznych agomelatyny. Jednak dostępne są tylko ograniczone kliniczne dane dotyczące stosowania agomelatyny u chorujących na depresję pacjentów z ciężkimi lub umiarkowanymi zaburzeniami czynności nerek i z dużymi epizodami depresyjnymi. Z tego względu należy zachować ostrożność przepisując agomelatynę tym pacjentom. Zaburzenia czynności wątroby Agomelatyna jest przeciwwskazana u pacjentów z zaburzeniami czynności wątroby (patrz punkty 4.3, 4.4 i 5.2). Dzieci i młodzież Nie określono dotychczas bezpieczeństwa stosowania ani skuteczności agomelatyny u dzieci powyżej 2 lat w leczeniu dużych epizodów depresyjnych. Brak dostępnych danych (patrz punkt 4.4). Nie stosuje się agomelatyny u dzieci do 2 roku życia w leczeniu dużych epizodów depresyjnych. Sposób podawania Podanie doustne. Tabletki powlekane produktu leczniczego Agolek mogą być przyjmowane z pokarmem lub bez pokarmu. ",
@@ -30,28 +37,40 @@
     "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa Działania niepożądane zazwyczaj były łagodne lub umiarkowane i występowały w pierwszych dwóch tygodniach leczenia. Najczęstszymi działaniami niepożądanymi były: ból głowy, nudności i zawroty głowy. Zazwyczaj były to przemijające działania niepożądane i na ogół nie prowadziły do przerwania leczenia. Działania niepożądane wymienione w tabeli W poniższej tabeli przedstawiono działania niepożądane obserwowane podczas badań klinicznych kontrolowanych placebo oraz kontrolowanych substancją czynną. Działania niepożądane wymieniono poniżej zgodnie z następującą konwencją: bardzo częste (≥1/10); częste (≥1/100 do <1/10); niezbyt częste (≥1/1 000 do <1/100); rzadkie (≥1/10 000 do <1/1 000); bardzo rzadkie (<1/10 000), częstość nieznana (nie może być oceniona na podstawie dostępnych danych). Częstości występowania nie były korygowane względem placebo. Klasyfikacja układów Częstość występowania Preferowane określenie i narządów Zaburzenia psychiczne Często Lęk Nietypowe sny* Niezbyt często Myśli lub zachowania samobójcze (patrz punkt 4.4) Pobudzenie oraz powiązane objawy* (takie jak drażliwość i niepokój) Agresja* Koszmary senne* Mania/hipomania* Objawy te mogą być także spowodowane przez chorobę podstawową (patrz punkt 4.4). Stan splątania* Rzadko Omamy* Zaburzenia układu Bardzo często Ból głowy nerwowego Często Zawroty głowy Senność Bezsenność Niezbyt często Migrena Parestezje Zespół niespokojnych nóg* Rzadko Akatyzja* Zaburzenia oka Niezbyt często Niewyraźne widzenie 6 Zaburzenia ucha Niezbyt często Szum uszny* i błędnika Zaburzenia żołądka i jelit Często Nudności Biegunka Zaparcie Ból brzucha Wymioty* Zaburzenia wątroby Często Zwiększone wartości AlAT i (lub) AspAT i dróg żółciowych [w badaniach klinicznych, zwiększenie >3- krotnej wartości górnej granicy prawidłowego zakresu dla AlAT i (lub) AspAT stwierdzono u 1,2% pacjentów stosujących agomelatynę w dawce 25 mg na dobę oraz u 2,6% pacjentów stosujących dawkę 50 mg na dobę wobec 0,5% po placebo]. Niezbyt często Zwiększona aktywność gamma- glutamylotransferazy* (GGT) (>3-krotnej wartości górnej granicy prawidłowego zakresu) Rzadko Zapalenie wątroby Zwiększona aktywność fosfatazy zasadowej* (>3-krotnej wartości górnej granicy prawidłowego zakresu) Niewydolność wątroby*(1) Żółtaczka* Zaburzenia skóry i tkanki Niezbyt często Wzmożone pocenie podskórnej Egzema Świąd* Pokrzywka* Rzadko Wysypka rumieniowata Obrzęk twarzy i obrzęk naczynioruchowy* Zaburzenia mięśniowo- Często Ból pleców szkieletowe i tkanki Niezbyt często Ból mięśni* łącznej Zaburzenia nerek i dróg Rzadko Zatrzymanie moczu* moczowych Zaburzenia ogólne i stany Często Zmęczenie w miejscu podania Badania diagnostyczne Często Zwiększenie masy ciała* Niezbyt często Zmniejszenie masy ciała* * Częstość działań niepożądanych określona w badaniach klinicznych na podstawie spontanicznych raportów. (1) Wyjątkowo zgłoszono kilka przypadków zakończonych zgonem lub wymagających przeszczepienia wątroby dotyczących pacjentów z czynnikami ryzyka uszkodzenia wątroby. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: 7 Al. Jerozolimskie 181C 02-222 Warszawa tel.: + 48 22 49 21 301 fax: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dostępność biologiczna Agomelatyna jest szybko i dobrze (≥80%) wchłaniana po podaniu doustnym. Całkowita dostępność biologiczna jest mała (<5% doustnej dawki terapeutycznej), a zmienność międzyosobnicza - znaczna. Dostępność biologiczna jest zwiększona u kobiet w porównaniu do mężczyzn. Dostępność biologiczną zwiększa przyjmowanie doustnych środków antykoncepcyjnych, a zmniejsza palenie tytoniu. Maksymalne stężenie w osoczu jest osiągane w ciągu 1 do 2 godzin. W zakresie dawek terapeutycznych ogólna ekspozycja na agomelatynę zwiększa się proporcjonalnie do dawki. Po większych dawkach występuje efekt nasycenia pierwszego przejścia. Spożycie pokarmu (posiłek standardowy lub bogatotłuszczowy) nie zmienia dostępności biologicznej ani szybkości wchłaniania. Zmienność jest zwiększona po posiłku bogatotłuszczowym. Dystrybucja Objętość dystrybucji w stanie stacjonarnym wynosi około 35 l, a stopień wiązania z białkami osocza 95% niezależnie od stężenia i nie ulega modyfikacji wraz z wiekiem oraz u pacjentów z zaburzeniem czynności nerek, ale wielkość wolnej frakcji jest podwojona u pacjentów z zaburzeniami czynności wątroby. Metabolizm Po podaniu doustnym agomelatyna jest szybko metabolizowana głównie przez wątrobowy izoenzym CYP1A2; izoenzymy CYP2C9 i CYP2C19 biorą także udział w metabolizmie, ale w mniejszym 10 stopniu. Główne metabolity, hydroksylowane i demetylowe pochodne agomelatyny, są nieaktywne i zostają szybko sprzęgane oraz wydalane w moczu. Eliminacja Eliminacja jest szybka, średni okres półtrwania w osoczu wynosi od 1 do 2 godzin, klirens jest duży (około 1 100 ml/min) i głównie metaboliczny. Wydalanie zachodzi głównie z moczem (80%) i w postaci metabolitów, niezmieniony związek występuje w moczu w ilościach pomijalnych. Wielokrotne podanie nie zmienia kinetyki. Zaburzenia czynności nerek U pacjentów z ciężkimi zaburzeniami czynności nerek (n = 8, pojedyncza dawka 25 mg) nie obserwowano istotnej zmiany parametrów farmakokinetycznych, ale należy zachować ostrożność u pacjentów z ciężkimi lub umiarkowanymi zaburzeniami czynności nerek, ponieważ dostępne są tylko ograniczone kliniczne dane ich dotyczące (patrz punkt 4.2). Zaburzenia czynności wątroby W specyficznym badaniu ekspozycja na agomelatynę w dawce 25 mg u pacjentów z marskością wątroby, z przewlekłymi łagodnymi (typ A w klasyfikacji Child-Pugh) lub umiarkowanymi (typ B w klasyfikacji Child-Pugh) zaburzeniami czynności wątroby, była znacznie zwiększona (odpowiednio 70 i 140 razy) w porównaniu do dobranych grup ochotników (wiek, masa ciała i nawyk palenia tytoniu) bez niewydolności wątroby (patrz punkt 4.2, 4.3 i 4.4). Pacjenci w podeszłym wieku W badaniu dotyczącym farmakokinetyki u pacjentów w podeszłym wieku (≥65 lat) wykazano, że po podaniu dawki 25 mg mediana wartości AUC i mediana wartości Cmax były około 4 razy i 13 razy większe u pacjentów ≥75 lat w porównaniu do pacjentów <75 lat. Całkowita liczba pacjentów otrzymujących dawkę 50 mg była za mała, aby móc wyciągnąć jakieś wnioski. Dostosowanie dawki u pacjentów w podeszłym wieku nie jest wymagane. Grupy etniczne Brak danych dotyczących wpływu rasy na farmakokinetykę agomelatyny. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "122cb01c1d90a19e84f037c6dca3f7c178686e8bed618add6087432c097bd4f7",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38500/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3",
+     "4.4"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N06AX22"
     ],
     "nazwa_powszechna": [
      "Agomelatinum"
     ],
-    "atc": [
-     "N06AX22"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Agomelatine +pharma",
+   },
    "moc": "25 mg",
+   "nazwa": "Agomelatine +pharma",
    "podmiot": "+pharma arzneimittel GmbH",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40183/characteristic",
-   "sha256_pdf": "2fb4d9145626a19afcb4bdef23af7f86b91e689ad61797cc93bf77eb2c771909",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Agomelatine +pharma jest wskazany do leczenia dużych epizodów depresyjnych u dorosłych. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka to 25 mg raz na dobę, zażywana doustnie wieczorem przed snem. Po dwóch tygodniach leczenia, jeżeli nie ma poprawy, dawka może być zwiększona do 50 mg raz na dobę, tj. do dwóch tabletek powlekanych po 25 mg przyjmowanych przed snem. Decydując o zwiększeniu dawki należy wziąć pod uwagę wyższe ryzyko zwiększenia aktywności aminotransferaz. W każdym przypadku zwiększenie dawki do 50 mg powinno być oparte na ocenie korzyści i ryzyka u konkretnego pacjenta oraz na ścisłym przestrzeganiu monitorowania wyników testów czynnościowych wątroby. U wszystkich pacjentów należy przeprowadzić badania czynności wątroby przed rozpoczęciem leczenia. Nie należy rozpoczynać terapii, jeśli aktywność aminotransferaz w surowicy 3-krotnie przekracza górny zakres normy (patrz punkty 4.3 i 4.4). Podczas leczenia należy okresowo monitorować aktywność aminotransferaz: po około trzech tygodniach, po sześciu tygodniach (koniec ostrej fazy), po dwunastu tygodniach i po dwudziestu czterech tygodniach leczenia (koniec fazy podtrzymującej) oraz później, kiedy jest to klinicznie wskazane (patrz także punkt 4.4). Terapię należy przerwać, jeśli aktywność aminotransferaz w surowicy 3-krotnie przekracza górny zakres normy (patrz punkty 4.3 i 4.4). Zwiększając dawkowanie, należy znowu przeprowadzić badania czynności wątroby z tą samą częstością, jak podczas rozpoczynania leczenia. Czas trwania leczenia Aby zapewnić ustąpienie objawów, pacjenci z depresją powinni być leczeni wystarczająco długo, przynajmniej 6 miesięcy. 1/14 Zmiana leczenia z leku przeciwdepresyjnego z grupy SSRI/SNRI na leczenie agomelatyną Po przerwaniu stosowania leku przeciwdepresyjnego z grupy SSRI (ang. Selective Serotonin Reuptake Inhibitors – Selektywne Inhibitory Wychwytu Zwrotnego Serotoniny) lub SNRI (ang. Serotonin Norepinephrine Reuptake Inhibitors – Inhibitory Wychwytu Zwrotnego Serotoniny i Noradrenaliny) u pacjentów mogą wystąpić objawy odstawienia. Aby ich uniknąć, należy sprawdzić w Charakterystyce Produktu Leczniczego aktualnie stosowanego produktu leczniczego z grupy SSRI/SNRI, jak należy go odstawiać. Podawanie agomelatyny można rozpocząć od razu w trakcie zmniejszania dawkowania leku z grupy SSRI/SNRI (patrz punkt 5.1). Przerwanie leczenia Nie jest wymagane stopniowe zmniejszanie dawki podczas przerywania leczenia. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania agomelatyny (25 do 50 mg/dobę) u pacjentów w podeszłym wieku (<75 lat) z depresją. Działanie leku nie jest udokumentowane u pacjentów ≥75 lat. Z tego względu agomelatyny nie należy stosować u pacjentów z tej grupy wiekowej (patrz punkty 4.4 i 5.1). Nie wymaga się dostosowania dawki w zależności od wieku (patrz punkt 5.2). Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek nie obserwowano istotnej zmiany parametrów farmakokinetycznych agomelatyny. Jednak dostępne są tylko ograniczone dane kliniczne dotyczące stosowania agomelatyny u chorujących na depresję pacjentów z ciężkim lub umiarkowanym zaburzeniem czynności nerek i z dużymi epizodami depresyjnymi. Z tego względu należy zachować ostrożność przepisując agomelatynę tym pacjentom. Zaburzenie czynności wątroby Agomelatyna jest przeciwwskazana u pacjentów z zaburzeniem czynności wątroby (patrz punkty 4.3, 4.4 i 5.2). Dzieci i młodzież Dzieci od urodzenia do wieku poniżej 7 lat Stosowanie agomelatyny u dzieci od urodzenia do wieku poniżej 7 lat w leczeniu dużych epizodów depresyjnych nie jest właściwe. Brak dostępnych danych. Dzieci i młodzież w wieku od 7 do 17 lat Nie określono bezpieczeństwa stosowania ani skuteczności agomelatyny u dzieci i młodzieży w wieku od 7 do 17 lat w leczeniu dużych epizodów depresyjnych. Obecnie dostępne dane opisano w punktach 4.4, 4.8, 5.1 i 5.2, ale nie można podać zaleceń dotyczących dawkowania. Sposób podawania Podanie doustne Tabletki powlekane produktu Agomelatine +pharma mogą być przyjmowane z pokarmem lub bez pokarmu. ",
@@ -62,28 +81,40 @@
     "4.8": "4.8. Na podstawie zbiorczych danych z badań klinicznych działania niepożądane dotyczące wątroby częściej zgłaszano u młodzieży (6,3%) w porównaniu do dorosłych (1,7%). Długoterminowe dane dotyczące bezpieczeństwa stosowania są ograniczone. Obejmują one długoterminowe doświadczenie w zakresie wzrostu, dojrzewania płciowego (patrz punkt 5.1) i funkcji poznawczych. Pacjenci w podeszłym wieku Nie udokumentowano działania u pacjentów ≥75 lat, z tego względu agomelatyna nie powinna być stosowana przez pacjentów z tej grupy wiekowej (patrz także punkty 4.2 i 5.1). Stosowanie u pacjentów w podeszłym wieku z otępieniem Agomelatyna nie powinna być stosowana w leczeniu dużych epizodów depresyjnych u pacjentów w podeszłym wieku z otępieniem, ponieważ nie ustalono u nich bezpieczeństwa i skuteczności tej substancji. Choroba afektywna dwubiegunowa/mania/hipomania Agomelatyna powinna być stosowana z ostrożnością u pacjentów z chorobą afektywną dwubiegunową, manią lub hipomanią w wywiadzie, a leczenie należy przerwać, jeżeli u pacjenta wystąpią objawy manii (patrz punkt 4.8). Samobójstwo/ myśli samobójcze Depresja jest związana ze zwiększonym ryzykiem myśli samobójczych, samookaleczeń i samobójstwa (zdarzenia związane z samobójstwem). Ryzyko utrzymuje się do czasu uzyskania znaczącej remisji. Poprawa może nie wystąpić w ciągu pierwszych tygodni leczenia a nawet dłużej, dlatego pacjentów należy ściśle obserwować, aż do uzyskania znaczącej poprawy. Z doświadczeń klinicznych wynika, że ryzyko samobójstwa może zwiększyć się we wczesnych etapach powrotu do zdrowia. Pacjenci z zachowaniami samobójczymi w wywiadzie lub przejawiający przed rozpoczęciem leczenia znacznego stopnia skłonności samobójcze, należą do grupy zwiększonego ryzyka wystąpienia myśli samobójczych lub prób samobójczych i powinni być uważnie obserwowani podczas leczenia. Metaanaliza kontrolowanych placebo badań klinicznych, dotyczących leków przeciwdepresyjnych stosowanych u dorosłych pacjentów z zaburzeniami psychicznymi wykazała u pacjentów w wieku poniżej 25 lat zwiększone (w porównaniu z placebo) ryzyko zachowań samobójczych. W trakcie leczenia, zwłaszcza na początku terapii i po zmianach dawki, należy ściśle obserwować pacjentów, szczególnie z grupy wysokiego ryzyka. Pacjentów (oraz ich opiekunów) należy powiadomić o konieczności obserwowania jakiegokolwiek klinicznego pogorszenia stanu, zachowań lub myśli samobójczych i niezwykłych zmian w zachowaniu oraz natychmiastowego zwrócenia się o poradę lekarską, jeśli te objawy wystąpią. Jednoczesne leczenie inhibitorami CYP1A2 (patrz punkty 4.3 i 4.5) Należy zachować ostrożność, stosując agomelatynę z umiarkowanymi inhibitorami CYP1A2 (np. propranololem, enoksacyną), ponieważ może to powodować zwiększoną ekspozycję na agomelatynę. Sód Produkt leczniczy zawiera mniej niż 1 mmol sodu (23 mg) na tabletkę powlekaną, to znaczy lek uznaje się za „wolny od sodu”. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dostępność biologiczna Agomelatyna jest szybko i dobrze (≥80%) wchłaniana po podaniu doustnym. Całkowita dostępność biologiczna jest mała (<5% doustnej dawki terapeutycznej), a zmienność międzyosobnicza - znaczna. Dostępność biologiczna jest zwiększona u kobiet w porównaniu do mężczyzn. Dostępność biologiczną zwiększa przyjmowanie doustnych środków antykoncepcyjnych, a zmniejsza palenie tytoniu. Maksymalne stężenie w osoczu jest osiągane w ciągu 1 do 2 godzin. W zakresie dawek terapeutycznych ogólna ekspozycja na agomelatynę zwiększa się proporcjonalnie do dawki. Po większych dawkach występuje efekt nasycenia pierwszego przejścia. Spożycie pokarmu (posiłek standardowy lub bogatotłuszczowy) nie zmienia dostępności biologicznej ani szybkości wchłaniania. Zmienność jest zwiększona po posiłku bogatotłuszczowym. Dystrybucja Objętość dystrybucji w stanie stacjonarnym wynosi około 35 l, a stopień wiązania z białkami osocza 95% niezależnie od stężenia i nie ulega modyfikacji wraz z wiekiem oraz u pacjentów z zaburzeniem czynności nerek, ale wielkość wolnej frakcji jest podwojona u pacjentów z zaburzeniem czynności wątroby. Metabolizm Po podaniu doustnym agomelatyna jest szybko metabolizowana głównie przez wątrobowy izoenzym CYP1A2; izoenzymy CYP2C9 i CYP2C19 biorą także udział w metabolizmie, ale w mniejszym stopniu. Główne metabolity, hydroksylowane i demetylowe pochodne agomelatyny, są nieaktywne i zostają szybko sprzęgane oraz wydalane w moczu. Eliminacja Eliminacja jest szybka, średni okres półtrwania w osoczu wynosi od 1 do 2 godzin, klirens jest duży (około 1 100 ml/min) i głównie metaboliczny. Wydalanie zachodzi głównie z moczem (80%) i w postaci metabolitów, niezmieniony związek występuje w moczu w ilościach pomijalnych. Wielokrotne podanie nie zmienia kinetyki. 11/14 Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek (n = 8, pojedyncza dawka 25 mg) nie obserwowano istotnej zmiany parametrów farmakokinetycznych. Należy jednak zachować ostrożność u pacjentów z ciężkim lub umiarkowanym zaburzeniem czynności nerek, ponieważ dostępne są tylko ograniczone kliniczne dane ich dotyczące (patrz punkt 4.2). Zaburzenie czynności wątroby W specyficznym badaniu ekspozycja na agomelatynę w dawce 25 mg u pacjentów z marskością wątroby, z przewlekłymi łagodnymi (typ A w klasyfikacji Child-Pugh) lub umiarkowanymi (typ B w klasyfikacji Child-Pugh) zaburzeniami czynności wątroby, była znacznie zwiększona (odpowiednio 70 i 140 razy) w porównaniu do dobranych grup ochotników (wiek, masa ciała i nawyk palenia tytoniu) bez niewydolności wątroby (patrz punkt 4.2, 4.3 i 4.4). Dzieci i młodzież Właściwości farmakokinetyczne agomelatyny badano u 60 dzieci i 166 nastolatków otrzymujących dawki dobowe w zakresie od 1 do 25 mg. Większość danych pochodzi z pomiarów stężenia leku w ślinie, a ekspozycja na agomelatynę w osoczu u dzieci i młodzieży jest w dużym stopniu niescharakteryzowana. Podobnie jak u dorosłych, zmienność międzyosobnicza dotycząca farmakokinetyki agomelatyny jest znaczna. Dostępne dane dotyczące dzieci i młodzieży wskazują, że w znacznym stopniu pokrywają się one z obserwowanym zakresem ekspozycji u dorosłych po podaniu agomelatyny w dawce 25 mg. Pacjenci w podeszłym wieku W badaniu dotyczącym farmakokinetyki u pacjentów w podeszłym wieku (≥65 lat) wykazano, że po podaniu dawki 25 mg mediana wartości AUC i mediana wartości Cmax były około 4 razy i 13 razy większe u pacjentów ≥75 lat niż u pacjentów <75 lat. Całkowita liczba pacjentów otrzymujących dawkę 50 mg była za mała, aby móc wyciągnąć jakieś wnioski. Nie wymaga się dostosowania dawki u pacjentów w podeszłym wieku. Grupy etniczne Brak danych dotyczących wpływu pochodzenia etnicznego na farmakokinetykę agomelatyny. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3",
+    "4.4"
+   ],
+   "sha256_pdf": "2fb4d9145626a19afcb4bdef23af7f86b91e689ad61797cc93bf77eb2c771909",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40183/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N06AX22"
     ],
     "nazwa_powszechna": [
      "Agomelatinum"
     ],
-    "atc": [
-     "N06AX22"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Agomelatine Adamed",
+   },
    "moc": "25 mg",
+   "nazwa": "Agomelatine Adamed",
    "podmiot": "Adamed Pharma S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38501/characteristic",
-   "sha256_pdf": "bbf306b5a2030baa68ae14cd6718deb444115f898dd289c2140df7d33e88701f",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Leczenie dużych epizodów depresyjnych. Produkt leczniczy Agomelatine Adamed jest wskazana do stosowania u dorosłych. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka to 25 mg raz na dobę, przyjmowana doustnie wieczorem przed snem. Po dwóch tygodniach leczenia, jeżeli nie ma poprawy, dawka może być zwiększona do 50 mg raz na dobę, tj. do dwóch tabletek po 25 mg przyjmowanych jednocześnie wieczorem przed snem. Decydując o zwiększeniu dawki należy wziąć pod uwagę wyższe ryzyko zwiększenia aktywności aminotransferaz. Zwiększenie dawki do 50 mg powinno być każdorazowo poprzedzone oceną korzyści i ryzyka u konkretnego pacjenta, a także wymaga dokładnego monitorowania wyników testów czynnościowych wątroby. U wszystkich pacjentów należy przeprowadzić badania czynności wątroby przed rozpoczęciem leczenia. Nie należy rozpoczynać terapii, jeśli aktywność aminotransferaz w surowicy 3-krotnie przekracza górną granicę normy (patrz punkty 4.3 i 4.4). Podczas leczenia należy okresowo monitorować aktywność aminotransferaz: po około trzech tygodniach, sześciu tygodniach (koniec ostrej fazy), po dwunastu tygodniach i po dwudziestu czterech tygodniach leczenia (koniec fazy podtrzymującej) oraz później, kiedy jest to klinicznie wskazane (patrz także punkt 4.4). Terapię należy przerwać, jeśli aktywność aminotransferaz w surowicy 3-krotnie przekracza górną granicę normy (patrz punkty 4.3 i 4.4). 2 Zwiększając dawkowanie, należy ponownie przeprowadzić badania czynności wątroby z tą samą częstością, jak podczas rozpoczynania leczenia. Czas trwania leczenia Aby zapewnić ustąpienie objawów, leczenie pacjentów z depresją powinno trwać wystarczająco długo, nie krócej niż 6 miesięcy. Zmiana leczenia z leku przeciwdepresyjnego z grupy SSRI/SNRI na leczenie agomelatyną Po przerwaniu stosowania leku przeciwdepresyjnego z grupy SSRI (ang. Selective Serotonin Reuptake Inhibitors – Selektywne Inhibitory Wychwytu Zwrotnego Serotoniny) lub SNRI (ang. Serotonin Norepinephrine Reuptake Inhibitors – Inhibitory Wychwytu Zwrotnego Serotoniny i Noradrenaliny) u pacjentów mogą wystąpić objawy odstawienia. Aby ich uniknąć, należy sprawdzić w Charakterystyce Produktu Leczniczego aktualnie stosowanego produktu leczniczego z grupy SSRI/SNRI, jak należy go odstawiać. Podawanie agomelatyny można rozpocząć od razu w trakcie zmniejszania dawkowania leku z grupy SSRI/SNRI (patrz punkt 5.1). Przerwanie leczenia Nie ma potrzeby stopniowego zmniejszania dawki w celu przerwania leczenia. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Skuteczność i bezpieczeństwo stosowania agomelatyny (25 do 50 mg/dobę) potwierdzono u pacjentów w podeszłym wieku <75 lat) z depresją. Działanie leku nie jest udokumentowane u pacjentów ≥75 lat. Z tego względu agomelatyny nie należy stosować u pacjentów z tej grupy wiekowej (patrz punkty 4.4 i 5.1). Nie ma potrzeby zmiany dawkowania w zależności od wieku (patrz punkt 5.2). Zaburzenia czynności nerek U pacjentów z ciężkimi zaburzeniami czynności nerek nie obserwowano istotnej zmiany parametrów farmakokinetycznych agomelatyny. Jednak dostępne są tylko ograniczone dane kliniczne dotyczące stosowania agomelatyny u chorujących na depresję pacjentów z ciężkimi lub umiarkowanymi zaburzeniami czynności nerek i z dużymi epizodami depresyjnymi. Z tego względu należy zachować ostrożność przepisując agomelatynę tym pacjentom. Zaburzenie czynności wątroby Agomelatyna jest przeciwwskazana u pacjentów z zaburzeniami czynności wątroby (patrz punkty 4.3, 4.4 i 5.2). Dzieci i młodzież Nie określono dotychczas bezpieczeństwa stosowania ani skuteczności agomelatyny w leczeniu dużych epizodów depresyjnych u dzieci powyżej 2 lat. Brak dostępnych danych (patrz punkt 4.4). Agomelatyna nie ma zastosowania w leczeniu dużych epizodów depresyjnych u dzieci do 2 roku życia. Sposób podawania Podanie doustne. Produkt leczniczy Agomelatine Adamed w postaci tabletek powlekanych można przyjmować niezależnie od posiłków. 3 ",
@@ -94,20 +125,26 @@
     "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa W ramach badań klinicznych ponad 8 000 pacjentów z depresją otrzymywało agomelatynę. Działania niepożądane zazwyczaj były łagodne lub umiarkowane i występowały w pierwszych dwóch tygodniach leczenia. Najczęściej obserwowanymi działaniami niepożądanymi były: ból głowy, nudności i zawroty głowy. Zazwyczaj były to przemijające działania niepożądane i na ogół nie prowadziły do przerwania leczenia. Tabelaryczne zestawienie działań niepożądanych W tabeli poniżej przedstawiono działania niepożądane obserwowane podczas badań klinicznych z zastosowaniem zarówno placebo jak i substancji referencyjnej w grupie kontrolnej. Działania niepożądane wymieniono poniżej zgodnie z następującą konwencją: bardzo częste (≥1/10); częste (≥1/100 do <1/10); niezbyt częste (≥1/1 000 do <1/100); rzadkie (≥1/10 000 do <1/1 000); bardzo rzadkie (<1/10 000), częstość nieznana (nie może być oceniona na podstawie dostępnych danych). Częstości występowania nie korygowano względem placebo. Klasyfikacja układów i Częstość występowania Preferowane określenie narządów Zaburzenia psychiczne Często Lęk Nietypowe sny* Niezbyt często Myśli lub zachowania samobójcze (patrz punkt 4.4) Pobudzenie oraz powiązane objawy* (takie jak drażliwość i niepokój) Agresja* Koszmary senne* Mania/hipomania* Objawy te mogą być także spowodowane przez chorobę podstawową (patrz punkt 4.4). Stan splątania* Rzadko Omamy* Zaburzenia układu Bardzo często Ból głowy nerwowego Często Zawroty głowy Senność Bezsenność Niezbyt często Parestezje Zespół niespokojnych nóg* Migrena Rzadko Akatyzja* 8 Zaburzenia oka Niezbyt często Niewyraźne widzenie Zaburzenia ucha i błędnika Niezbyt często Szumy uszne* Zaburzenia żołądka i jelit Często Nudności Biegunka Zaparcia Ból brzucha Wymioty* Zaburzenia wątroby i dróg Często Zwiększone wartości AlAT i (lub) AspAT [w żółciowych badaniach klinicznych, wartości >3- krotnej wartości górnej granicy normy dla AlAT i (lub) AspAT stwierdzono u 1,2% pacjentów stosujących agomelatynę w dawce 25 mg na dobę oraz u 2,6% pacjentów stosujących dawkę 50 mg na dobę wobec 0,5% po placebo]. Niezbyt często Zwiększona aktywność gamma- glutamylotransferazy* (GGT) (>3-krotnej wartości górnej granicy normy) Rzadko Zapalenie wątroby Zwiększona aktywność fosfatazy zasadowej* (>3-krotnej wartości górnej granicy normy) Niewydolność wątroby*(1) Żółtaczka* Zaburzenia skóry i tkanki Niezbyt często Egzema podskórnej Wzmożone pocenie Świąd* Pokrzywka* Rzadko Wysypka rumieniowata Obrzęk twarzy i obrzęk naczynioruchowy* Zaburzenia mięśniowo- Często Ból pleców szkieletowe i tkanki łącznej Niezbyt często Ból mięśni* Zaburzenia nerek i dróg Rzadko Zatrzymanie moczu* moczowych Zaburzenia ogólne i stany w Często Zmęczenie miejscu podania Badania diagnostyczne Często Zwiększenie masy ciała* Niezbyt często Zmniejszenie masy ciała* * Częstość działań niepożądanych określona w badaniach klinicznych na podstawie spontanicznych raportów. (1) Wyjątkowo zgłoszono kilka przypadków zakończonych zgonem lub wymagających przeszczepienia wątroby dotyczących pacjentów z czynnikami ryzyka uszkodzenia wątroby. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać 9 wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: +48 22 49 21 301, faks: +48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie i dostępność biologiczna Agomelatyna jest szybko i dobrze (≥80%) wchłaniana po podaniu doustnym. Całkowita dostępność biologiczna jest mała (<5% doustnej dawki terapeutycznej), a zmienność międzyosobnicza - znaczna. Dostępność biologiczna jest zwiększona u kobiet w porównaniu do mężczyzn. Dostępność biologiczną 12 zwiększa przyjmowanie doustnych środków antykoncepcyjnych, a zmniejsza palenie tytoniu. Maksymalne stężenie w osoczu jest osiągane w ciągu 1 do 2 godzin. W zakresie dawek terapeutycznych ogólna ekspozycja na agomelatynę zwiększa się proporcjonalnie do dawki. Po większych dawkach występuje efekt nasycenia pierwszego przejścia. Spożycie pokarmu (posiłek standardowy lub bogatotłuszczowy) nie zmienia dostępności biologicznej ani szybkości wchłaniania. Zmienność jest zwiększona po posiłku bogatotłuszczowym. Dystrybucja Objętość dystrybucji w stanie stacjonarnym wynosi około 35 l, a stopień wiązania z białkami osocza 95% niezależnie od stężenia i nie ulega modyfikacji wraz z wiekiem oraz u pacjentów z zaburzeniem czynności nerek, ale wielkość wolnej frakcji jest podwojona u pacjentów z zaburzeniem czynności wątroby. Metabolizm Po podaniu doustnym agomelatyna jest szybko metabolizowana głównie przez wątrobowy izoenzym CYP1A2; izoenzymy CYP2C9 i CYP2C19 biorą także udział w metabolizmie, ale w mniejszym stopniu. Główne metabolity, hydroksylowane i demetylowe pochodne agomelatyny, są nieaktywne i zostają szybko sprzęgane oraz wydalane w moczu. Eliminacja Eliminacja jest szybka, średni okres półtrwania w osoczu wynosi od 1 do 2 godzin, klirens jest duży (około 1 100 ml/min) i głównie na drodze metabolicznej. Wydalanie zachodzi głównie z moczem (80%) i w postaci metabolitów, niezmieniony związek występuje w moczu w ilościach pomijalnych. Wielokrotne podanie nie wpływa na zmianę kinetyki. Zaburzenia czynności nerek U pacjentów z ciężkimi zaburzeniami czynności nerek (n=8, pojedyncza dawka 25 mg) nie obserwowano istotnej zmiany parametrów farmakokinetycznych. Należy jednak zachować ostrożność u pacjentów z ciężkim lub umiarkowanymi zaburzeniami czynności nerek, ponieważ dostępne są tylko ograniczone dane kliniczne dotyczące takich pacjentów (patrz punkt 4.2). Zaburzenia czynności wątroby W specyficznym badaniu z udziałem pacjentów z marskością wątroby, z przewlekłym łagodnym (typ A w klasyfikacji Child-Pugh) lub umiarkowanym (typ B w klasyfikacji Child-Pugh) zaburzeniem czynności wątroby, ekspozycja na agomelatynę w dawce 25 mg była znacznie zwiększona (odpowiednio 70 i 140 razy) w porównaniu do dobranych grup ochotników (wiek, masa ciała i nawyk palenia tytoniu) bez niewydolności wątroby (patrz punkt 4.2, 4.3 i 4.4). Pacjenci w podeszłym wieku W badaniu dotyczącym farmakokinetyki u pacjentów w podeszłym wieku (≥65 lat) wykazano, że po podaniu dawki 25 mg mediana wartości AUC i Cmax była odpowiednio około 4 razy i 13 razy większa u pacjentów ≥75 lat niż u pacjentów <75 lat. Całkowita liczba pacjentów otrzymujących dawkę 50 mg była zbyt mała, aby wyciągać jakiekolwiek wnioski. Nie ma potrzeby zmiany dawkowania u pacjentów w podeszłym wieku. Grupy etniczne 13 Brak danych dotyczących wpływu rasy na farmakokinetykę agomelatyny. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Agomelatinum"
-    ],
-    "atc": [
-     "N06AX22"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.2"
+   ],
+   "sha256_pdf": "bbf306b5a2030baa68ae14cd6718deb444115f898dd289c2140df7d33e88701f",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38501/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "agomelatyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

@@ -1,44 +1,51 @@
 {
- "substancja": "alprazolam",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Afobam",
-   "moc": "0,25 mg",
-   "zrodlo": "",
-   "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {},
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N05BA12"
     ],
     "nazwa_powszechna": [
      "Alprazolamum"
     ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "moc": "0,25 mg",
+   "nazwa": "Afobam",
+   "punkty": {},
+   "stan": "BRAK URL ChPL W SPISIE",
+   "zrodlo": ""
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
+   "klucz_rpl": {
     "atc": [
      "N05BA12"
     ],
+    "nazwa_powszechna": [
+     "Alprazolamum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Alpragen",
+   },
    "moc": "0,25 mg",
+   "nazwa": "Alpragen",
    "podmiot": "Viatris Ltd",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10561/characteristic",
-   "sha256_pdf": "318cb3d2dcc78dd207a98990b7a5ca9ac1b35c3fa4d473a7854841013728e0c6",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Alprazolam jest wskazany w krótkotrwałym leczeniu objawowym stanów lękowych u osób dorosłych. Alprazolam jest wskazany wyłącznie w przypadku ciężkich zaburzeń, w których objawy są nasilone, uniemożliwiają pacjentowi prawidłowe funkcjonowanie lub są dla niego bardzo uciążliwe. ",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Czas trwania leczenia Alprazolam należy stosować w najmniejszej możliwej skutecznej dawce, przez możliwie najkrótszy czas i maksymalnie przez 2-4 tygodnie. Należy często oceniać stan pacjenta i potrzebę przedłużania leczenia. Nie zaleca się długotrwałego leczenia. Ryzyko uzależnienia może wzrastać wraz z dawką i czasem trwania leczenia (patrz punkt 4.4). Dorośli (w wieku powyżej 18 lat) Zazwyczaj stosowana dawka wynosi 0,25 mg do 0,5 mg trzy razy na dobę. Może być zwiększana (w razie konieczności) w odstępach co 3 do 4 dni do maksymalnej dawki 4 mg na dobę. Pacjenci w podeszłym wieku U pacjentów w podeszłym wieku klirens leku jest zmniejszony i podobnie jak w przypadku innych benzodiazepin, zwiększa się wrażliwość na lek. Leczenie pacjentów w podeszłym wieku należy zaczynać od małej dawki początkowej 0,25 mg dwa do trzech razy na dobę. W razie dobrej tolerancji, dawkę można zwiększać stopniowo, ale nie więcej niż o 0,5 mg co 3 dni. W razie wystąpienia działań niepożądanych dawkę należy zmniejszyć. U pacjentów w podeszłym wieku w dobrej kondycji fizycznej maksymalna dawka powinna wynosić 1,5 mg na dobę. U osłabionych pacjentów w podeszłym wieku maksymalna dawka powinna być ograniczona do 0,75 mg na dobę. Pacjenci z chorobami wyniszczającymi lub z zaburzeniami czynności wątroby i (lub) nerek U pacjentów z chorobami wyniszczającymi lub z zaburzeniami czynności wątroby i (lub) nerek również konieczne jest ostrożne wprowadzanie dawek początkowych i zalecane są podobne wielkości dawek maksymalnych od 0,75 mg do 1,5 mg na dobę, w zależności od stopnia wyniszczenia lub zaburzenia czynności narządów. Dzieci i młodzież Bezpieczeństwo i skuteczność alprazolamu u dzieci i młodzieży w wieku poniżej 18 lat nie zostało ustalone z tego powodu stosowanie alprazolamu nie jest zalecane w tej grupie wiekowej. Ważne informacje dotyczące dawkowania Optymalną dawkę należy ustalić na podstawie nasilenia objawów i indywidualnej odpowiedzi pacjenta na leczenie. Należy stosować możliwie najmniejszą skuteczną dawkę, aby uniknąć ataksji lub nadmiernej sedacji. Dawkowanie należy zwiększać ostrożnie, a jeśli istnieje taka potrzeba, w pierwszej kolejności należy zwiększyć dawkę wieczorną, a dopiero potem dawki podawane w ciągu dnia. Pacjenci, którzy nigdy wcześniej nie przyjmowali leków psychotropowych lub osoby uzależnione od alkoholu wymagają na ogół podawania mniejszych dawek niż pacjenci uprzednio przyjmujący leki psychotropowe. Przerwanie leczenia Leczenie należy kończyć stopniowo redukując dawkę leku, aby uniknąć objawów zespołu odstawienia Sposób podania Tabletki Alpragen są przeznaczone do stosowania doustnego. ",
@@ -49,28 +56,39 @@
     "4.8": "4.8 Działania niepożądane Najczęstszym działaniem niepożądanym jest senność, która występuje u 10% leczonych, ale ulega zmniejszeniu najczęściej po kilku dniach lub po zmniejszeniu dawki. Podczas leczenia alprazolamem następujące działania niepożądane były obserwowane i odnotowywane z następującą częstością: Bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10 000 do <1/1000), bardzo rzadko (<1/10 000), nieznana (nie może być określona na podstawie dostępnych danych). Klasyfikacja układów Częstość Działanie niepożądane i narządów MedDRA Zakażenia i zarażenia Często Zakażenia górnych dróg pasożytnicze oddechowych Zaburzenia krwi i układu Niezbyt często Zwiększona skłonność do chłonnego powstawania siniaków Nieznana Agranulocytoza Zaburzenia Nieznana Hiperprolaktynemia endokrynologiczne Zaburzenia metabolizmu i Często Zwiększenie apetytu, odżywiania zmniejszenie apetytu, Zaburzenia psychiczne Bardzo często Drażliwość, depresja1, Zaburzenia snu Często Zwiększone lub zmniejszone libido, depersonalizacja, bezsenność, nerwowość, derealizacja, strach, lęk, splątanie, dezorientacja, obniżony stan psychiczny, niepokój Niezbyt często Intensywne sny, pobudzenie, gadatliwość, impulsywność, złość, agresja, omamy, mania, spowolnienie psychoruchowe, koszmary senne, niepokój, spowolnienie procesów myślowych, euforia, utrata zdolności odczuwania przyjemności, brak orgazmu, zaburzenia afektywne, lęk napadowy, uzależnienie Nieznana Reakcje paradoksalne na leki2, wrogie zachowanie, hipomania, zaburzenia myślenia, nadmierna czujność, zmiany libido, nadużywanie leku* Zaburzenia układu Bardzo często Ból głowy, senność, zaburzenia nerwowego pamięci, zawroty głowy, zaburzenia mowy, ataksja, sedacja Często Parestezje, dyskineza, zaburzenia koordynacji, drżenia, zaburzenia równowagi, trudności z koncentracją, nadmierna senność, letarg Niezbyt często Omdlenie, niepamięć3, drgawki, niezborność ruchów, zaburzenia smaku, napady częściowe, osłupienie Nieznana Akatyzja, zaburzenia poznawcze, zaburzenia naczynioruchowe, napady padaczkowe z objawami autonomicznymi, dystonia, nadpobudliwość Zaburzenia oka Często Niewyraźne widzenie Niezbyt często Podwójne widzenie, zaburzenia widzenia Zaburzenia ucha i błędnika Często Szumy uszne Zaburzenia serca Często Kołatania serca Nieznana Tachykardia Zaburzenia naczyniowe Często Uderzenia gorąca Nieznana Niedociśnienie tętnicze Zaburzenia układu Często Przekrwienie błony śluzowej oddechowego, klatki nosa, hiperwentylacja piersiowej i śródpiersia Nieznana Niedrożność dróg oddechowych Zaburzenia żołądka i jelit Bardzo często Suchość w jamie ustnej, zaparcie Często Zwiększone wydzielanie śliny, wymioty, dyskomfort w nadbrzuszu, biegunka, nudności, bóle brzucha Nieznana Zmniejszone wydzielanie śliny Zaburzenia wątroby i dróg Nieznana Zaburzenia czynności wątroby, żółciowych żółtaczka, zapalenie wątroby Zaburzenia skóry i tkanki Często Nadmierne pocenie się, podskórnej zapalenie skóry, świąd Niezbyt często Wysypka Nieznana Skórne reakcje alergiczne, obrzęk naczynioruchowy, nadwrażliwość na światło Zaburzenia mięśniowo- Często Drżenia mięśni, skurcze mięśni, szkieletowe i tkanki łącznej bóle pleców, bóle stawów, bóle mięśni Niezbyt często Sztywność mięśni, osłabienie siły mięśniowej, bóle kończyn Nieznana Nieprawidłowe napięcie mięśniowe Zaburzenia nerek i dróg Niezbyt często Nietrzymanie moczu, moczenie moczowych nocne, częstomocz Nieznana Zatrzymanie moczu, trudności w oddawaniu moczu Zaburzenia układu Często Zaburzenia seksualne rozrodczego i piersi Niezbyt często Zaburzenia wytrysku, zaburzenia erekcji, zaburzenia miesiączkowania Zaburzenia ogólne i stany w Bardzo często Męczliwość miejscu podania Często Obrzęki, osłabienie, ból w klatce piersiowej Niezbyt często Złe samopoczucie, zaburzenia chodu, wrażenie upojenia alkoholowego, uczucie zdenerwowania/spięcia, uczucie odprężenia, uczucie kaca, objawy grypopodobne, uczucie nierealności, bezwładność snu, pragnienie, zespół odstawienia leku* Nieznana Uczucie gorąca, obrzęki obwodowe Badania diagnostyczne Często Zwiększenie masy ciała, zmniejszenie masy ciała Niezbyt często Zwiększenie stężenia bilirubiny Nieznana Zwiększenie ciśnienia śródgałkowego Urazy, zatrucia i powikłania Często Ryzyko wypadków drogowych po zabiegach Niezbyt często Upadki, urazy kończyn, przedawkowanie *Działanie niepożądane stwierdzone po wprowadzeniu produktu do obrotu Stosowanie (w dawkach terapeutycznych) może prowadzić do rozwoju uzależnienia fizycznego: przerwanie leczenia może spowodować objawy odstawienia lub objawy z odbicia, może też dojść do uzależnienia psychicznego. Obserwowano nadużywanie benzodiazepin (patrz punkt 4.4). Nagłe przerwanie leczenia może prowadzić do łagodnej dysforii, zaburzeń snu i drgawek. 1 Depresja: istniejące wcześniej zaburzenia depresyjne mogą ujawnić się podczas stosowania benzodiazepin. 2 Reakcje paradoksalne na leki, takie jak: niepokój, pobudzenie, drażliwość, agresja, urojenia, wybuchy gniewu, koszmary senne, omamy, psychozy, nieadekwatne zachowanie i inne niepożądane efekty behawioralne zwykle występują podczas stosowania benzodiazepin lub leków podobnych do benzodiazepin. Przy stosowaniu tego leku mogą one być bardzo ciężkie. Są one bardziej prawdopodobne u osób w podeszłym wieku. 3 Niepamięć: niepamięć może wystąpić przy dawkach terapeutycznych, ryzyko wzrasta przy wyższych dawkach. Niepamięć może być powiązana z nietypowym zachowaniem (patrz punkt 4.4). Niekorzystne skutki behawioralne: w wielu spośród zgłoszonych przypadków niepożądanych zmian w zachowaniu, pacjenci otrzymywali jednocześnie inne leki działające na ośrodkowy układ nerwowy i (lub) stwierdzono u nich współistniejące choroby psychiczne. Pacjenci, u których stwierdzane są w wywiadzie: pograniczne zaburzenie osobowości (borderline), zachowania gwałtowne i agresywne, czy nadużywanie alkoholu lub środków odurzających mogą być narażeni na ryzyko takich zdarzeń. Po zaprzestaniu stosowania alprazolamu u pacjentów z zespołem stresu pourazowego zgłaszano występowanie drażliwości, wrogości i natrętnych myśli. Objawy abstynencyjne: objawy odstawienia występowały po szybkim zmniejszeniu dawki lub nagłym odstawieniu benzodiazepin, w tym alprazolamu. Mogą one mieć charakter od łagodnej dysforii i bezsenności do poważnego zespołu, który może obejmować skurcze mięśni i brzucha, wymioty, pocenie się, drżenie i konwulsje. Ponadto występowały drgawki po szybkim spadku dawki lub nagłym przerwaniu leczenia alprazolam. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, Al. Jerozolimskie 181C, 02-222 Warszawa, tel: + 48 22 49 21 301, fax: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym alprazolam dobrze się wchłania z przewodu pokarmowego. Maksymalne stężenie w surowicy osiąga po 1-2 godzinach. Dystrybucja Alprazolam wiąże się z białkami osocza w 70 do 80%. Jest metabolizowany przede wszystkim w wątrobie do alfa-hydroksyalprazolamu i nieaktywnej pochodnej benzofenonu. Metabolizm Hydroksymetabolity wywierają pewne działanie farmakologiczne, a alfa-hydroksyalprazolam, jak opisywano, ma co najmniej w połowie tak silne działanie jak alprazolam. Ich stężenia w osoczu są jednak niewielkie. Eliminacja Alprazolam wydala się głównie z moczem w postaci niezmienionej i w formie metabolitów. Średni okres półtrwania w surowicy wynosi 10 do 12 godzin, ale u osób w podeszłym wieku wydalanie przebiega wolniej a opisywany zakres wartości wynosi od 6,3 do 26,9 godzin. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "318cb3d2dcc78dd207a98990b7a5ca9ac1b35c3fa4d473a7854841013728e0c6",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10561/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.8"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki"
+    "atc": [
+     "N05BA12"
     ],
     "nazwa_powszechna": [
      "Alprazolamum"
     ],
-    "atc": [
-     "N05BA12"
+    "postac": [
+     "Tabletki"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Alpraxil",
+   },
    "moc": "0,25 mg",
+   "nazwa": "Alpraxil",
    "podmiot": "Biofarm Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43883/characteristic",
-   "sha256_pdf": "e79c6999725c69e9f89d8ddd19852fbd9938657cc24df32322c194fecb07d16c",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Alpraxil jest wskazany w krótkotrwałym leczeniu objawowym stanów lękowych u osób dorosłych. Alpraxil jest wskazany wyłącznie w przypadku ciężkich zaburzeń, w których objawy są nasilone, uniemożliwiają pacjentowi prawidłowe funkcjonowanie lub są dla niego bardzo uciążliwe. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Czas trwania leczenia: Alpraxil należy stosować w najmniejszej możliwej skutecznej dawce, przez możliwie najkrótszy czas i maksymalnie przez 2-4 tygodnie. Należy często oceniać stan pacjenta i potrzebę przedłużania leczenia, szczególnie jeśli nasilenie objawów występujących u pacjenta zmniejsza się lub objawy ustąpią. Nie zaleca się długotrwałego leczenia. Ryzyko uzależnienia może wzrastać wraz z dawką i czasem trwania leczenia (patrz punkt 4.4). W niektórych przypadkach może być konieczne przedłużenie okresu stosowania produktu leczniczego. Nie należy tego jednak czynić bez wcześniejszej oceny stanu pacjenta przez specjalistę. W razie stosowania przewlekłego istnieje ryzyko rozwinięcia zależności lekowej (niekorzystny stosunek korzyści do zagrożeń). Optymalne dawkowanie produktu leczniczego Alpraxil powinno być ustalane indywidualnie na podstawie nasilenia objawów i indywidualnej reakcji pacjenta na leczenie. W razie wystąpienia nasilonych działań niepożądanych po podaniu dawki początkowej konieczne jest zmniejszenie dawki. U nielicznych pacjentów, którzy wymagać będą podawania większych dawek niż początkowo zalecane, dawkowanie należy zwiększać stopniowo, większą dawkę podając wieczorem, by uniknąć działań niepożądanych. Pacjenci, którzy wcześniej nie przyjmowali leków psychotropowych, wymagają podawania mniejszych dawek aniżeli pacjenci uprzednio przyjmujący leki uspokajające, przeciwdepresyjne lub nasenne oraz osoby uzależnione od alkoholu. Aby nie dopuścić do ataksji lub nadmiernego uspokojenia, należy stosować najmniejszą skuteczną dawkę. Jest to szczególnie istotne w przypadku osób w podeszłym wieku i (lub) osłabionych. Leczenie objawowe stanów lękowych Zalecana dawka początkowa wynosi 0,25 mg lub 0,5 mg trzy razy na dobę. Dawkę można zwiększać, zależnie od odpowiedzi pacjenta na leczenie, do maksymalnej dawki dobowej wynoszącej 4 mg, podawanej w dawkach podzielonych, przyjmowane w ciągu doby. Przerwanie leczenia Ponieważ leczenie ma charakter objawowy, po jego przerwaniu objawy choroby mogą nawrócić. Dawkę leku należy zmniejszać stopniowo, aby uniknąć wystąpienia objawów zespołu odstawienia. Dzieci i młodzież Produktu Alpraxil nie należy stosować u dzieci i młodzieży poniżej 18 lat. Stosowanie u pacjentów w podeszłym wieku lub osłabionych Zalecana dawka początkowa wynosi 0,25 mg dwa lub trzy razy na dobę. Dawkę w razie konieczności można stopniowo zwiększać, zależnie od tolerancji na lek. W razie wystąpienia działań niepożądanych dawkę początkową należy zmniejszyć. Stosowanie u pacjentów z niewydolnością wątroby Stosowanie u pacjentów z ciężką niewydolnością wątroby jest przeciwwskazane. Sposób podawania Podanie doustne. ",
@@ -81,20 +99,26 @@
     "4.8": "4.8 Działania niepożądane Najbardziej uciążliwe działania niepożądane są wynikiem nadmiernego działania farmakologicznego alprazolamu. Wystąpienie niektórych działań niepożądanych całkowicie zależy od osobniczej podatności pacjenta oraz podanej dawki leku. Działania niepożądane zwykle obserwuje się na początku terapii. Ustępują one w miarę kontynuowania leczenia lub kiedy zmniejszy się dawkę. Działania niepożądane związane ze stosowaniem alprazolamu u pacjentów uczestniczących w kontrolowanych badaniach klinicznych i po wprowadzeniu produktu do obrotu to: Klasyfikacja Bardzo często Często Niezbyt często Częstość układów i (≥1/10) (≥1/100 (≥1/1000 do nieznana narządów do <1/10) <1/100) (częstość nie może być określona na podstawie dostępnych danych) Zaburzenia Hiperprolakty- endokrynologi- nemia* czne Zaburzenia Zmniejszenie metabolizmu i apetytu odżywiania Zaburzenia Depresja Stan splątania, Mania* (patrz Hipomania*, psychiczne dezorientacja, punkt 4.4), agresywne zmniejszenie omamy*, gniew*, zachowanie*, libido, lęk, pobudzenie*, wrogie bezsenność, uzależnienie zachowanie*, nerwowość, zaburzenia zwiększenie myślenia*, libido* zwiększona aktywność psychoruchowa*, nadużywanie leku* Zaburzenia Uspokojenie, Zaburzenia Niepamięć Zaburzenia układu senność, ataksja, równowagi, autonomicznego nerwowego zaburzenia nieprawidłowa układu pamięci, koordynacja, nerwowego *, zaburzenia zaburzenia dystonia* mowy, zawroty koncentracji głowy, ból głowy uwagi, nadmierna potrzeba snu, letarg, drżenie Zaburzenia oka Nieostre widzenie Zaburzenia Zaparcia, suchość Nudności Zaburzenia żołądka i jelit w jamie ustnej żołądkowo- jelitowe* Zaburzenia Zapalenie wątroby i dróg wątroby*, żółciowych czynnościowe zaburzenia wątroby*, żółtaczka* Zaburzenia skóry Zapalenie skóry* Obrzęk i tkanki naczyniorucho- podskórnej wy*, reakcje Klasyfikacja Bardzo często Często Niezbyt często Częstość układów i (≥1/10) (≥1/100 (≥1/1000 do nieznana narządów do <1/10) <1/100) (częstość nie może być określona na podstawie dostępnych danych) nadwrażliwości na światło* Zaburzenia Osłabienie siły mięśniowo- mięśniowej szkieletowe i tkanki łącznej Zaburzenia nerek Nietrzymanie Zatrzymanie i dróg moczu* moczu* moczowych Zaburzenia Zaburzenia Nieregularne układu czynności miesiączkowanie* rozrodczego i płciowych* piersi Zaburzenia Zmęczenie, Zespół Obrzęki ogólne i stany w drażliwość odstawienia leku* obwodowe* miejscu podania Badania Zmniejszenie Zwiększenie diagnostyczne masy ciała, ciśnienia zwiększenie wewnątrzgałko- masy ciała wego* *Działanie niepożądane stwierdzone po wprowadzeniu alprazolamu do obrotu W wielu przypadkach pacjenci wykazujący wymienione objawy przyjmowali też inne leki o działaniu ośrodkowym i (lub) występowały u nich zaburzenia psychiczne. W jednym przypadku wysunięto hipotezę, że ryzyko wystąpienia powyższych działań niepożądanych może być większe u pacjentów z zaburzeniami osobowości typu „borderline”, z zachowaniami agresywnymi w wywiadzie, nadużywających alkoholu lub leków oraz u pacjentów chorujących na zespół stresu pourazowego. Następujące działania niepożądane benzodiazepin obserwowano rzadko lub bardzo rzadko: zaburzenia motoryki, padaczkę, objawy paranoi, depersonalizację, agranulocytozę, reakcje alergiczne oraz anafilaksję. Inne działania niepożądane związane ze stosowaniem benzodiazepin:  zależność psychiczna i fizyczna;  objawy odstawienia. Patrz punkt ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Maksymalne stężenie produktu leczniczego Alpraxil w osoczu po podaniu doustnym osiągane jest po 1-2 godzinach. Dystrybucja Okres półtrwania alprazolamu wynosi 12–15 godzin, a u osób w podeszłym wieku wynosi średnio 16 godzin. W warunkach in vitro alprazolam wiąże się z białkami surowicy w 70%. Metabolizm Alprazolam ulega przede wszystkim oksydacji. Głównymi metabolitami alprazolamu są alfa- hydroksyalprazolam i pochodna benzofenonu. Stężenie w osoczu tych metabolitów jest bardzo małe. Aktywność biologiczna alfa-hydroksyalprazolamu jest około połowę mniejsza niż aktywność samego alprazolamu. Okresy półtrwania metabolitów alprazolamu są tego samego rzędu wielkości co alprazolamu. Pochodna benzofenonu prawie nie wykazuje aktywności biologicznej. Eliminacja Eliminacja alprazolamu i jego metabolitów odbywa się głównie przez nerki. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki"
-    ],
-    "nazwa_powszechna": [
-     "Alprazolamum"
-    ],
-    "atc": [
-     "N05BA12"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.8"
+   ],
+   "sha256_pdf": "e79c6999725c69e9f89d8ddd19852fbd9938657cc24df32322c194fecb07d16c",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43883/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "alprazolam",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

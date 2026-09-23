@@ -1,25 +1,32 @@
 {
- "substancja": "chlordiazepoksyd",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Elenium",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05BA02"
+    ],
+    "nazwa_powszechna": [
+     "Chlordiazepoxidum"
+    ],
+    "postac": [
+     "Tabletki drażowane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "10 mg",
+   "nazwa": "Elenium",
    "podmiot": "Tarchomińskie Zakłady Farmaceutyczne \"Polfa\" S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2157/characteristic",
-   "sha256_pdf": "5a787d3ab99e4df78f02db9c45c9461237875975ea6129b692d6ea959a6a5abd",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Doraźne, krótkotrwałe leczenie objawowe (przez 2 do 4 tygodni): • stanów lękowych różnego pochodzenia (towarzyszących zespołom psychoorganicznym, objawom psychotycznym); • stanów lękowych związanych z bezsennością; • ostrego zespołu odstawienia alkoholu; • stanów zwiększonego napięcia mięśniowego o różnej etiologii. Uwaga! Stany napięcia i niepokoju związane z problemami dnia codziennego nie są wskazaniem do stosowania leku. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas leczenia należy określić dla każdego pacjenta indywidualnie. Dorośli Stany lękowe: zwykle stosuje się do 30 mg na dobę w dawkach podzielonych, co 6 do 8 godzin. W szczególnych sytuacjach można stosować dawki większe, zależnie od indywidualnego zapotrzebowania. Nie należy przekraczać maksymalnej dawki dobowej 100 mg. Stany lękowe z towarzyszącą bezsennością – 10 mg do 30 mg w jednorazowej dawce przed snem. Stany pobudzenia w ostrym zespole odstawienia alkoholu – 25 mg do 100 mg. W razie potrzeby dawkę można powtarzać, co 2 do 4 godzin, nie przekraczając 200 mg na dobę. Następnie zmniejsza się dawkę do podtrzymującej, najniższej dawki wystarczającej do opanowania objawów pobudzenia. Stany zwiększonego napięcia mięśniowego – 10 mg do 30 mg na dobę w dawkach podzielonych. Dzieci Nie zaleca się stosowania chlordiazepoksydu u dzieci. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku są bardziej wrażliwi na leki działające na ośrodkowy układ nerwowy. U pacjentów tych zaleca się podawanie chlordiazepoksydu w możliwie najmniejszej efektywnej dawce. Stosowane dawki nie powinny przekraczać połowy dawki zalecanej dla pacjentów dorosłych. Sposób podawania Tabletki należy przyjmować doustnie, przed lub wraz z posiłkiem, popijając wodą. Czas leczenia Chlordiazepoksyd stosuje się doraźnie. Leczenie nie powinno być dłuższe niż 4 tygodnie, wliczając w to czas stopniowego odstawiania produktu leczniczego. W indywidualnych przypadkach, po ponownej ocenie stanu pacjenta, lekarz może zdecydować o przedłużeniu maksymalnego czasu leczenia. Produktu nie należy odstawiać nagle, konieczne jest zawsze stopniowe zmniejszanie dawki. ",
@@ -30,22 +37,28 @@
     "4.8": "4.8 Działania niepożądane Liczba i nasilenie działań niepożądanych zależy od indywidualnej wrażliwości pacjenta oraz dawki - z reguły mają łagodny charakter i ustępują po odstawieniu leku. Częstość działań niepożądanych po zastosowaniu produktu leczniczego określono następująco: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (nie może być określona na podstawie dostępnych danych) Klasyfikacja Często Niezbyt Rzadko Bardzo Częstość nieznana układów i często rzadko narządów Zaburzenia krwi i zaburzenia składu krwi układu chłonnego 5 ztw_23.07.2024 zmShelf-life_12.12.2024 17.01.2025 v2 Zaburzenia układu rekacje immunologicznego anafilakty- czne Zaburzenia brak apetytu metabolizmu i odżywiania Zaburzenia reakcje paradoksalne - psychiczne niepokój psychoruchowy, bezsenność, zwiększona pobudliwość i agresja * Zaburzenia układu senność, spowolnienie dyzartria, drgawki. nerwowego reakcji, ból i zawroty zaburzenia głowy, stany splątania pamięci, i dezorientacji, zaburzenia libido ataksja** (zwłaszcza po dużych dawkach) Zaburzenia oka zaburzenia widzenia (niewyraźne, podwójne widzenie) Zaburzenia serca bradykardia, ból w klatce piersiowej Zaburzenia nieznaczne obniżenie naczyniowe ciśnienia tętniczego krwi Zaburzenia żołądka nudności, i jelit dolegliwości żołądkowe, zaparcia, uczucie suchości w jamie ustnej Zaburzenia wątroby niewielkie podwyższenie i dróg żółciowych aktywności aminotransferazy, zaburzenia czynności wątroby z wystąpieniem żółtaczki Zaburzenia skóry i alergiczne reakcje skórne tkanki podskórnej (wysypki, świąd, pokrzywka) Zaburzenia drżenie mięśni, mięśniowo- zwiotczenie mięśni szkieletowe i tkanki łącznej Zaburzenia nerek i zatrzymanie moczu, dróg moczowych nietrzymanie moczu Zaburzenia układu zaburzenia rozrodczego i piersi miesiączkowania Zaburzenia ogólne i ogólne osłabienie, stany w miejscu omdlenia, upadki. podania 6 ztw_23.07.2024 zmShelf-life_12.12.2024 17.01.2025 v2 * Reakcje paradoksalne najczęściej występują po spożyciu alkoholu, u pacjentów w podeszłym wieku i u pacjentów z chorobami psychicznymi ** Działania te występują najczęściej na początku leczenia, u pacjentów w podeszłym wieku (patrz punkt 4.4) i z reguły ustępują w czasie trwania dalszej kuracji. Jeśli objawy te nasilą się należy zmniejszyć dawkę leku. Uzależnienie psychiczne i fizyczne może rozwinąć się podczas leczenia chlordiazepoksydem w dawkach terapeutycznych. Pacjenci nadużywający alkoholu lub leków są bardziej podatni na rozwinięcie uzależnienia. Nagłe przerwanie leczenia może wywołać zespół odstawienia. Podczas leczenia chlordiazepoksydem może ujawnić się wcześniej istniejąca, niezdiagnozowana depresja. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C; 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Chlordiazepoksyd dobrze wchłania się z przewodu pokarmowego. Po doustnym podaniu chlordiazepoksydu maksymalne stężenie we krwi występuje po około 1 - 2 godzinach. Chlordiazepoksyd przenika przez barierę krew - płyn mózgowo-rdzeniowy i przez łożysko. Przenika do mleka matki. Okres półtrwania wynosi 6 do 30 godzin. Chlordiazepoksyd ulega przemianom w wątrobie do aktywnych farmakologicznie metabolitów (dimetylochlordiazepoksyd, demoksepam), przedłużających czas działania leku. Chlordiazepoksyd w postaci niezmienionej oraz jego metabolity wydalane są z moczem. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki drażowane"
-    ],
-    "nazwa_powszechna": [
-     "Chlordiazepoxidum"
-    ],
-    "atc": [
-     "N05BA02"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "5a787d3ab99e4df78f02db9c45c9461237875975ea6129b692d6ea959a6a5abd",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2157/characteristic"
   }
  ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "chlordiazepoksyd",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "uwagi_audytu": [
   "2026-09-22: usunieto produkty podpiete przez blad dopasowania: Convulex. Powod: cudza ChPL (test odbioru T8b/T16)."
  ]

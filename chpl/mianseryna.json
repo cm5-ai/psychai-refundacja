@@ -1,25 +1,33 @@
 {
- "substancja": "mianseryna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Deprexolet",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.4",
+     "4.8"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AX03"
+    ],
+    "nazwa_powszechna": [
+     "Mianserini hydrochloridum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "10 mg",
+   "nazwa": "Deprexolet",
    "podmiot": "Adamed Pharma S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13293/characteristic",
-   "sha256_pdf": "d33e9eb42cb76afa80625e6bef90f92977be005a76ab25c64b27dea4d2b46ddc",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Leczenie zespołu depresyjnego. ",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Początkowo przez kilka pierwszych dni należy podawać 30 mg na dobę w pojedynczej dawce wieczornej lub w dawkach podzielonych. Zwykle dawka podtrzymująca wynosi od 30 mg do 90 mg na dobę. Niektórzy pacjenci mogą wymagać większych dawek leku. Lek jest zwykle dobrze tolerowany, gdy stosuje się go w dawkach podzielonych do 200 mg na dobę. Jednakże, za dawkę maksymalną w leczeniu depresji przyjęto 120 mg na dobę. Leczenie przeciwdepresyjne należy kontynuować przez co najmniej kilka miesięcy (4 do 6 miesięcy) po ustąpieniu objawów depresji. U pacjentów w podeszłym wieku, w początkowej fazie leczenia nie należy przekraczać dawki 30 mg na dobę. Dawkę należy zwiększać ostrożnie. Zadowalający efekt kliniczny uzyskuje się zwykle po podawaniu mniejszej dawki podtrzymującej. Sposób podawania Tabletki należy połykać w całości, bez rozgryzania. ",
@@ -30,28 +38,40 @@
     "4.8": "4.8 Działania niepożądane Najczęstszym działaniem niepożądanym mianseryny jest senność, zwłaszcza w pierwszych dniach podawania leku. Objaw ten może się nasilić po spożyciu alkoholu. W trakcie przyjmowania mianseryny może wystąpić granulocytopenia lub agranulocytoza jako objaw uszkodzenia szpiku kostnego, najczęściej między 4. a 6. tygodniem leczenia. Powikłanie to występuje częściej u pacjentów w podeszłym wieku, jest odwracalne i ustępuje całkowicie po odstawieniu leku. Żółtaczka, hipomania czy drgawki mogą wystąpić nawet po dawkach terapeutycznych i stanowią wskazania do przerwania podawania mianseryny. Wystąpienie objawów zakażenia (np. gorączki, bólu gardła, zapalenia jamy ustnej lub innych stanów zapalnych) jest wskazaniem do odstawienia leku i zlecenia badania morfologii krwi z rozmazu. Częstość występowania działań niepożądanych określona jest w następujący sposób: bardzo często (1/10), często (1/100 do <1/10), niezbyt często (1/1 000 do <1/100), rzadko (1/10 000 do <1/1 000), bardzo rzadko (<10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych). Klasyfikacja Często Niezbyt często Rzadko Częstość nieznana układów i 3 narządów Zaburzenia krwi i Nieprawidłowy Niedokrwistość układu chłonnego skład krwi zwykle objawiający się jako granulocytopenia czy agranulocytoza Zaburzenia Zwiększenie masy Zwiększone metabolizmu i ciała łaknienie odżywiania Zaburzenia Hipomania Myśli samobójcze psychiczne Zachowania samobójcze U pacjentów z chorobą dwubiegunową zmiana fazy, nasilenie objawów psychotycznych Zaburzenia układu Uspokojenie Drgawki Zawroty głowy nerwowego występujące na Hiperkineza początku leczenia, (zespół zmniejszające się wraz niespokojnych z kontynuacją terapii nóg) (Uwaga: zmniejszenie Zespół dawki na ogół nie neuroleptyczny prowadzi do złośliwy mniejszego uspokojenia, ale może zagrozić skuteczności leku przeciwdepresyjnego Senność (zwłaszcza w pierwszych dniach podawania leku) Zaburzenia serca Bradykardia po podaniu dawki początkowej Zaburzenia Niedociśnienie naczyniowe ortostatyczne Zaburzenia Zwiększenie stężenia Żółtaczka Uszkodzenie wątroby i dróg enzymów wątroby żółciowych wątrobowych Zaburzenia skóry i Wysypki Nadmierne tkanki podskórnej skórne pocenie się Zaburzenia Bóle stawów Drżenie mięśniowo- szkieletowe i tkanki łącznej Zaburzenia ogólne Obrzęki Osłabienie i stany w miejscu podania Zaburzenia układu Ginekomastia rozrodczego i Tkliwość piersi brodawek 4 sutkowych Mlekotok Zgłaszano przypadki myśli i zachowań samobójczych podczas leczenia mianseryną, a także w krótkim czasie po odstawieniu leku (patrz punkt 4.4). Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, fax: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl ",
     "5.2": "5.2. Właściwości farmakokinetyczne Ogólna charakterystyka wykonanych badań Badania przeprowadzono po jednorazowym i wielokrotnym podaniu mianseryny u zdrowych ochotników i u pacjentów z depresją. Po podaniu wielokrotnym stan stacjonarny stężenia w osoczu uzyskano po 14 dniach. Nie wykazano korelacji między stężeniem mianseryny w osoczu a występowaniem działań niepożądanych czy toksycznych. Wchłanianie Po podaniu doustnym mianseryna wchłania się z przewodu pokarmowego szybko, ale niecałkowicie. W wyniku silnie zaznaczonego efektu pierwszego przejścia biodostępność leku wynosi około 30%. Czas uzyskania maksymalnego stężenia w surowicy (Tmax) wynosi od 2 do 3 godzin. Cmax po podaniu 5 60 mg wynosi od 102  28 ng/ml do 114  26 ng/ml. W stanie stacjonarnym stężenie terapeutyczne określono na od 28 µg/ml do 72 µg/ml. Dystrybucja Mianseryna wiąże się w dużym stopniu (90%) z białkami osocza. W środowisku o fizjologicznym pH występuje głównie (ponad 90%) w postaci zjonizowanej. Łatwo przenika do tkanek, w tym do ośrodkowego układu nerwowego. Objętość dystrybucji wynosi 3300 l (od 15,7  2,2 l/kg do 27,5  9,6 l/kg). Metabolizm Mianseryna jest metabolizowana w wątrobie na drodze hydroksylacji pierścienia aromatycznego, N-oksydacji i N-demetylacji. Eliminacja Mianseryna jest wydalana z moczem w postaci niezmienionej (4 - 7%) oraz w formie metabolitów (około 70%). W niewielkich ilościach jest wydalana z kałem. Okres półtrwania (T0,5) wynosi średnio 17 godzin (od 6 do 39 godzin). "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.4",
+    "4.8"
+   ],
+   "sha256_pdf": "d33e9eb42cb76afa80625e6bef90f92977be005a76ab25c64b27dea4d2b46ddc",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13293/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N06AX03"
     ],
     "nazwa_powszechna": [
      "Mianserini hydrochloridum"
     ],
-    "atc": [
-     "N06AX03"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Lerivon",
+   },
    "moc": "10 mg",
+   "nazwa": "Lerivon",
    "podmiot": "Organon Polska Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3720/characteristic",
-   "sha256_pdf": "8e25847182d0819bb2d4ad06ea0de68fbcc9e380359ba2ca7e92e13e7dafa7ce",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Objawy depresyjne o różnym podłożu, w których wskazane jest leczenie farmakologiczne. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Tabletki należy przyjmować doustnie bez rozgryzania, popijając płynem. Dorośli: Dawkowanie należy dostosować indywidualnie dla każdego pacjenta. Zaleca się rozpocząć leczenie od dawki 30 mg na dobę. Dawkę można stopniowo zwiększać co kilka dni, aż do osiągnięcia właściwej reakcji klinicznej pacjenta. Zróżnicowane dawkowanie w zależności od stopnia depresji wynosi od 60 do 90 mg. Pacjenci w podeszłym wieku: Dawkowanie należy dostosować indywidualnie dla każdego pacjenta. Początkowo dawka powinna wynosić 30 mg na dobę. Dawkę można zwiększać co kilka dni. Zazwyczaj dawka mniejsza niż dla dorosłych jest wystarczająca do uzyskania zadowalającej reakcji klinicznej pacjenta. Dzieci i młodzież: Lerivon nie powinien być stosowany w leczeniu dzieci i młodzieży w wieku poniżej 18 lat (patrz punkt 4.4). • Dawkę dobową należy podawać w dawkach podzielonych albo jednorazowo na noc (ze względu na korzystny wpływ na sen). • Leczenie odpowiednią dawką powoduje zazwyczaj pozytywną reakcję kliniczną w ciągu 2–4 tygodni. W przypadku niezadowalającej reakcji, dawkę można zwiększyć. Jeżeli w ciągu następnych 2–4 tygodni leczenia nie ma reakcji, leczenie należy przerwać. • Po uzyskaniu poprawy klinicznej celowe jest kontynuowanie leczenia jeszcze przez 4–6 miesięcy. • Nagłe odstawienie produktu Lerivon bardzo rzadko powoduje objawy odstawienne. ",
@@ -62,28 +82,31 @@
     "4.8": "4.8 Działania niepożądane U pacjentów z depresją występują objawy związane z samą chorobą (suchość w jamie ustnej, zaparcia, zaburzenia akomodacji). Dlatego niekiedy trudno określić, które objawy są następstwem choroby, a które występują w wyniku leczenia produktem Lerivon. 3 Częstość występowania określono w następujący sposób: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10000 do <1/1000), bardzo rzadko (<1/10000), nieznana (częstość nie może być określona na podstawie dostępnych danych). Klasyfikacja układów Częstość nieznana i narządów Zaburzenia krwi i układu Nieprawidłowy skład krwi zwykle objawiający się jako chłonnego granulocytopenia czy agranulocytoza (patrz też punkt 4.4) Zaburzenia metabolizmu Zwiększenie masy ciała i odżywiania Zaburzenia psychiczne Hipomania Zaburzenia układu Uspokojenie (występujące na początku leczenia zmniejszające się nerwowego wraz z kontynuacją terapii). (Uwaga: zmniejszenie dawki na ogół nie prowadzi do mniejszego uspokojenia, ale może zagrozić skuteczności leku przeciwdepresyjnego) Drgawki Hiperkineza (zespół niespokojnych nóg) Złośliwy zespół neuroleptyczny Zaburzenia serca Bradykardia po podaniu dawki początkowej Wydłużenie odstępu QT w zapisie elektrokardiograficznym Częstoskurcz komorowy typu „torsade de pointes” Zaburzenia naczyniowe Niedociśnienie Zaburzenia wątroby i dróg Zwiększenie stężenia enzymów wątrobowych żółciowych Żółtaczka Zapalenie wątroby Nieprawidłowa czynność wątroby Zaburzenia skóry i tkanki Wysypka podskórnej Zaburzenia mięśniowo- Bóle stawów szkieletowe i tkanki łącznej Zaburzenia ogólne i stany Obrzęk w miejscu podania Zgłaszano przypadki myśli i zachowań samobójczych podczas leczenia mianseryną, a także w krótkim czasie po odstawieniu leku (patrz punkt 4.4). Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49-21-301, fax: + 48 22 49-21-309, e-mail: ndl@urpl.gov.pl. Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Po podaniu doustnym mianseryna – substancja czynna produktu Lerivon – jest szybko i dobrze wchłaniana. Maksymalne stężenie w osoczu osiąga w ciągu 3 godzin. Biodostępność wynosi około 20%. Mianseryna z białkami osocza wiąże się w około 95%. Okres półtrwania w fazie eliminacji (21– 61 godzin) jest wystarczający, aby produkt podawać w jednorazowej dawce dobowej. Stężenia produktu w osoczu w stanie stacjonarnym osiągane są w ciągu 6 dni stosowania. Mianseryna jest metabolizowana i wydalana z moczem i kałem w ciągu 7–9 dni. Główne szlaki metaboliczne to demetylacja i utlenianie, a następnie sprzęganie. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "8e25847182d0819bb2d4ad06ea0de68fbcc9e380359ba2ca7e92e13e7dafa7ce",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3720/characteristic"
+  },
+  {
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N06AX03"
     ],
     "nazwa_powszechna": [
      "Mianserini hydrochloridum"
     ],
-    "atc": [
-     "N06AX03"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Miansec",
+   },
    "moc": "10 mg",
+   "nazwa": "Miansec",
    "podmiot": "PharmaSwiss Česká republika s.r.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8442/characteristic",
-   "sha256_pdf": "8bb618e799994e49a7604d24627fedb632961a4827f75e6fb4ba92734d7da7a4",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Objawy depresyjne o różnym podłożu, w których wskazane jest leczenie farmakologiczne. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Dawkowanie należy dostosować indywidualnie dla każdego pacjenta. Leczenie należy rozpocząć od dawki 30 mg na dobę. Dawkę można stopniowo zwiększać co kilka dni, aż do osiągnięcia właściwej reakcji klinicznej pacjenta. Zróżnicowane dawkowanie w zależności od stopnia depresji wynosi od 60 do 90 mg. Pacjenci w podeszłym wieku Dawkowanie należy dostosować indywidualnie dla każdego pacjenta. Dawka początkowa nie powinna być większa niż 30 mg na dobę. Dawkę można zwiększać co kilka dni. Zazwyczaj dawka mniejsza niż dla dorosłych jest wystarczająca do uzyskania zadowalającej reakcji klinicznej pacjenta. Dzieci i młodzież Mianseryny nie należy stosować w leczeniu dzieci i młodzieży w wieku poniżej 18 lat. Uwaga: Dawkę dobową należy podawać w dawkach podzielonych lub jednorazowo na noc (ze względu na korzystny wpływ na sen). Leczenie odpowiednią dawką powoduje zazwyczaj uzyskanie reakcji klinicznej w ciągu 2-4 tygodni. W przypadku niezadowalającej reakcji dawkę można zwiększyć. Jeżeli w ciągu następnych 2-4 tygodni leczenia nie ma reakcji, leczenie należy przerwać. Po uzyskaniu poprawy klinicznej należy kontynuować leczenie przez 4-6 miesięcy. Nagłe odstawienie mianseryny może w bardzo rzadkich przypadkach spowodować wystąpienie objawów odstawiennych. 1 Sposób podawania Tabletki należy przyjmować doustnie bez rozgryzania, popijając płynem. ",
@@ -94,20 +117,23 @@
     "4.8": "4.8 Działania niepożądane U pacjentów z depresją występują objawy związane z samą chorobą (suchość w jamie ustnej, zaparcia, zaburzenia akomodacji). Dlatego też, niekiedy trudno jest określić, które objawy są następstwem choroby, a które występują w wyniku leczenia mianseryną. Częstość występowania określono w następujący sposób: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10000 do <1/1000), bardzo rzadko (<1/10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych). Klasyfikacja układów i narządów Częstość nieznana Zaburzenia krwi i układu Nieprawidłowy skład krwi zwykle objawiający się jako chłonnego granulocytopenia czy agranulocytoza (patrz też punkt 4.4) Zaburzenia metabolizmu Zwiększenie masy ciała i odżywiania Zaburzenia psychiczne Hipomania Zaburzenia układu nerwowego Uspokojenie (występujące na początku leczenia zmniejszające się wraz z kontynuacją terapii). (Uwaga: zmniejszenie dawki na ogół nie prowadzi do mniejszego uspokojenia, ale może zagrozić skuteczności leku przeciwdepresyjnego) Drgawki Hiperkineza (zespół niespokojnych nóg) Złośliwy zespół neuroleptyczny Zaburzenia serca Bradykardia po podaniu dawki początkowej Wydłużenie odstępu QT w zapisie elektrokardiograficznym Częstoskurcz komorowy typu „torsade de pointes” Zaburzenia naczyniowe Niedociśnienie Zaburzenia wątroby i dróg Zwiększenie stężenia enzymów wątrobowych żółciowych Żółtaczka Zapalenie wątroby Nieprawidłowa czynność wątroby Zaburzenia skóry i tkanki Wysypka podskórnej Zaburzenia mięśniowo- Bóle stawów szkieletowe i tkanki łącznej Zaburzenia ogólne i stany Obrzęk w miejscu podania Zgłaszano przypadki myśli i zachowań samobójczych podczas leczenia mianseryną, a także w krótkim czasie po odstawieniu leku (patrz punkt 4.4). Zgłaszanie podejrzewanych działań niepożądanych 4 Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: 22 49-21-301, fax: 22 49-21-309, Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Mianseryna po podaniu doustnym jest szybko i dobrze wchłaniana z przewodu pokarmowego. Maksymalne stężenie w osoczu osiąga w ciągu 3 godzin. Na skutek efektu pierwszego przejścia w wątrobie dostępność biologiczna produktu wynosi około 20%. Z białkami osocza wiąże się w około 95%. Dobrze przenika przez błony komórkowe, również do ośrodkowego układu nerwowego. Objętość dystrybucji mianseryny jest podobna jak w przypadku trójpierścieniowych leków 5 przeciwdepresyjnych. Stężenia w osoczu w stanie równowagi dynamicznej są osiągane w ciągu 6 dni stosowania. Na metabolizm wątrobowy składają się procesy hydroksylacji pierścienia aromatycznego, N-oksydacji i N-demetylacji. Powstałe w wyniku metabolizmu pochodne mianseryny - demetylomianseryna i 8-hydroksymianseryna są aktywne farmakologicznie. Eliminacja leku następuje w dwóch fazach. W pierwszej lek jest szybko usuwany z kompartmentu centralnego (T1/2 = 1,4 h). Eliminacja ulega następnie zwolnieniu na skutek powolnego przechodzenia leku z kompartmentu tkankowego. Okres półtrwania w fazie eliminacji (21–61 godzin) jest wystarczający, aby produkt podawać w jednorazowej dawce dobowej. Lek po przejściu metabolizmu wątrobowego jest eliminowany prawie całkowicie przez nerki, w postaci wolnych lub skoniugowanych metabolitów (zaledwie 4 - 7% w postaci niezmienionej). Nieznaczne ilości wydalane są z kałem (około 14%). Mianseryna jest metabolizowana i wydalana w ciągu 7–9 dni. Działanie mianseryny ujawnia się po kilku dniach, zaś poprawa kliniczna występuje po 2-3 tygodniach leczenia. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Mianserini hydrochloridum"
-    ],
-    "atc": [
-     "N06AX03"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_uciete": [],
+   "sha256_pdf": "8bb618e799994e49a7604d24627fedb632961a4827f75e6fb4ba92734d7da7a4",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8442/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "mianseryna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

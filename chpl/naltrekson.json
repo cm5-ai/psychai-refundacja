@@ -1,25 +1,32 @@
 {
- "substancja": "naltrekson",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Adepend",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "5.2"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N07BB04"
+    ],
+    "nazwa_powszechna": [
+     "Naltrexoni hydrochloridum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "50 mg",
+   "nazwa": "Adepend",
    "podmiot": "Walter Ritter GmbH + Co. KG",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23659/characteristic",
-   "sha256_pdf": "ec622401147d714748213ad8e401964be603b9a7191d032598739d905145d92a",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Adepend jest stosowany w ramach ogólnego programu leczenia alkoholizmu w celu zmniejszenia ryzyka nawrotu choroby, jako lek wspomagający abstynencję oraz zmniejszający potrzebę napicia się alkoholu („pragnienie”). ",
     "4.2": "4.2 Dawkowanie i sposób podawania Przed rozpoczęciem leczenia należy się upewnić, że pacjent nie przyjmuje opioidów (patrz punkt 4.4). Zgodnie z krajowymi wytycznymi leczeniem naltreksonem powinno być rozpoczęte i nadzorowane wyłącznie przez lekarza z doświadczeniem w leczeniu pacjentów uzależnionych od alkoholu. Leczeniem naltreksonem należy rozważyć tylko u pacjentów, którzy nie przyjmowali opioidów przez wystarczająco długi okres (patrz punkt 4.4). Leczenie należy rozpocząć od małej dawki naltreksonu, zgodnie ze schematem leczenia indukcyjnego. Dawki większe niż 150 mg nawet tylko w ciągu jednej doby mogą nasilić działania niepożądane i dlatego nie są zalecane. Dorośli Zalecana dawka chlorowodorku naltreksonu u dorosłych wynosi 50 mg na dobę (1 tabletka na dobę). Dzieci i młodzież (< 18 lat) Produkt Adepend 50 mg w postaci tabletek powlekanych nie jest zalecany do stosowania u dzieci i młodzieży w wieku poniżej 18 lat, w przedstawionym powyżej wskazaniu, ze względu na brak danych dotyczących bezpieczeństwa stosowania i skuteczności. Osoby w wieku podeszłym Nie określono bezpieczeństwa stosowania leczenia uzależnienia od opiatów u osób w podeszłym wieku. 1 Pacjenci z chorobami wątroby i (lub) nerek Tabletki powlekane Adepend 50 mg są przeciwwskazane do stosowania u pacjentów z ciężkimi chorobami wątroby i (lub) nerek. U pacjentów z niewielkimi lub umiarkowanymi zaburzeniami wątroby i (lub) nerek produkt Adepend, 50 mg w postaci tabletek powlekanych należy stosować z dużą ostrożnością i pod ścisłym nadzorem (patrz punkt 4.4). Należy rozważyć dostosowanie dawkowania u pacjenta (patrz punkt 5.2). Sposób podawania Tabletki powlekane Adepend 50 mg powinny być przyjmowane z płynem. Czas trwania leczenia Nie można określić typowego czasu trwania leczenia, ponieważ produkt Adepend 50 mg w postaci tabletek powlekanych jest stosowany jako terapia uzupełniająca, a czas powrotu do zdrowia u pacjentów uzależnionych od alkoholu jest zróżnicowany nawet wówczas, gdy mają oni wsparcie psychologiczne. Zalecany czas trwania leczenia wynosi co najmniej 3 miesiące, konieczne może być jednak wydłużenie leczenia. Skuteczność udowodniona jest w badaniach z grupą kontrolną w okresie do 12 miesięcy. Chlorowodorek naltreksonu nie powoduje zależności psychicznej ani fizycznej. W czasie długotrwałego leczenia nie występuje osłabienie działania antagonistycznego. ",
@@ -30,28 +37,31 @@
     "4.8": "4.8 Działania niepożądane Następujące działania niepożądane zostały pogrupowane według klasyfikacji układów i narządów oraz częstości występowania. Bardzo często (≥ 1/10) Często (≥1/100 do < 1/10) Niezbyt często (≥1/1 000 do < 1/100) Rzadko (≥ 1/10 000 do < 1/1 000) Bardzo rzadko (< 1/10 000) nieznana (częstość nie może być określona na podstawie dostępnych danych) Wydaje się, że obserwowane działania niepożądane naltreksonu są podobne u pacjentów uzależnionych od alkoholu, jak i uzależnionych od opioidów. Poważne działania niepożądane nie są rzadkie. 5 Zakażenia i zarażenia pasożytnicze Niezbyt często: opryszczka wargowa, grzybica stóp Zaburzenia krwi i układu chłonnego Niezbyt często: uogólnione powiększenie węzłów chłonnych rzadko: idiopatyczna plamica małopłytkowa Zaburzenia metabolizmu i odżywiania Często: zmniejszenie apetytu Zaburzenia psychiczne Bardzo często: nerwowość, lęk, bezsenność Często: drażliwość, zaburzenia afektywne Niezbyt często: omamy, splątanie, przygnębienie, depresja, paranoja, dezorientacja, koszmary, pobudzenie, zaburzenia popędu płciowego, niezwykłe sny Rzadko: myśli samobójcze, próby samobójcze Zaburzenia układu nerwowego Bardzo często: ból głowy, niepokój zwłaszcza ruchowy Często: zawroty głowy Niezbyt często: drżenie, senność Zaburzenia oka Często: nasilone łzawienie Niezbyt często: nieostre widzenie, podrażnienie i obrzęk oka, światłowstręt, zmęczenie lub ból oka, niedomoga widzenia barw Zaburzenia ucha i błędnika Niezbyt często: dyskomfort, ból ucha, szum w uszach, zawrót głowy pochodzenia błędnikowego Zaburzenia serca Często: częstoskurcz, kołatania serca, nieprawidłowości w EKG Zaburzenia naczyniowe Niezbyt często: zmiany ciśnienia tętniczego, nagłe zaczerwienienie, zwłaszcza twarzy Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Często: ból w klatce piersiowej Niezbyt często: przekrwienie nosa, dyskomfort w obrębie nosa, wodnisty wyciek z nosa, kichanie, choroby jamy ustnej i gardła, zwiększone ślinienie, choroby zatok, duszność, dysfonia, kaszel, ziewanie Zaburzenia żołądka i jelit Bardzo często: ból brzucha, nudności, wymioty Często: biegunka, zaparcie Niezbyt często: wzdęcie z oddawaniem wiatrów, hemoroidy, wrzody, suchość w jamie ustnej 6 Zaburzenia wątroby i dróg żółciowych Niezbyt często: choroby wątroby, podwyższone stężenia bilirubiny, zapalenie wątroby (podczas leczenia możliwe jest podwyższenie aktywności aminotransferaz, po zakończeniu przyjmowania produktu leczniczego Adepend w ciągu kilku tygodni aktywność aminotransferaz powraca do wartości początkowych). Zaburzenia skóry i tkanki podskórnej Często: wysypka Niezbyt często: łojotok, świąd, trądzik, łysienie Zaburzenia mięśniowo-szkieletowe i tkanki łącznej Bardzo często: ból stawów i mięśni Niezbyt często: ból pachwin Bardzo rzadko: rozpad mięśni prążkowanych Zaburzenia nerek i dróg moczowych Niezbyt często: częstomocz, trudności w oddawaniu moczu Zaburzenia układu rozrodczego i piersi Często: opóźniony wytrysk nasienia, zaburzenia erekcji, zaburzenia popędu płciowego Zaburzenia ogólne i stany w miejscu podania Bardzo często: astenia Często: pragnienie, zwiększona energia, dreszcze, nadmierna potliwość Niezbyt często: zwiększenie łaknienia, utrata masy ciała, przyrost masy ciała, gorączka, ból, uczucie zimna w kończynach, uderzenia gorąca Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: 22 49-21-301, fax: 22 49-21-309, e-mail: ndl@urpl.gov.pl. Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym chlorowodorek naltreksonu jest szybko i całkowicie wchłaniany z przewodu pokarmowego. Maksymalne stężenie w osoczu osiągane jest w ciągu godziny. Dystrybucja Stopień wiązania leku z białkami osocza wynosi 21%. Stężenie w osoczu w stanie stacjonarnym wynosi 8,55 mg/ml. Metabolizm Metabolizm ma miejsce głównie w wątrobie, w mechanizmie pierwszego przejścia. Chlorowodorek naltreksonu jest przede wszystkim hydroksylowany do głównego czynnego metabolitu, jakim jest 6-beta-naltreksol, a w mniejszym stopniu do 2-hydroksy-3-metoksy-6-beta-naltreksolu. Eliminacja Substancja jest usuwana przede wszystkim przez nerki. Około 60% dawki doustnej jest wydzielane w ciągu 48 godzin jako glukuronian 6-beta-naltreksolu i chlorowodorek naltreksonu. Okres półtrwania chlorowodorku naltreksonu w surowicy wynosi około 4 godzin. Okres półtrwania 6-beta-naltreksolu w surowicy wynosi 13 godzin. U pacjentów z marskością wątroby obserwowano pięć do dziesięciu razy większe stężenie chlorowodorku naltreksonu w surowicy. 8 "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "5.2"
+   ],
+   "sha256_pdf": "ec622401147d714748213ad8e401964be603b9a7191d032598739d905145d92a",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23659/characteristic"
+  },
+  {
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N07BB04"
     ],
     "nazwa_powszechna": [
      "Naltrexoni hydrochloridum"
     ],
-    "atc": [
-     "N07BB04"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Naltex",
+   },
    "moc": "50 mg",
+   "nazwa": "Naltex",
    "podmiot": "Accord Healthcare Polska Sp. z o.o.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23769/characteristic",
-   "sha256_pdf": "daeaeb8e4fcc8f048838ec273e48b85db05ba87ff9cdfef0888db8a0a7fd4c37",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt Naltex, 50 mg, tabletki powlekane jest przeznaczony do stosowania u dorosłych. Lek wspomagający w kompleksowym postępowaniu leczniczym, obejmującym porady psychologiczne dla pacjentów uzależnionych od opioidów i poddawanych detoksykacji (patrz punkt 4.2 i 4.4). Lek wspomagający utrzymanie abstynencji w leczeniu uzależnienia od alkoholu. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dorośli Leczenie naltreksonem powinno być rozpoczynane i kontynuowane przez odpowiednio wykwalifikowanych specjalistów. U pacjentów uzależnionych od opioidów dawka początkowa chlorowodorku naltreksonu wynosi 25 mg (pół tabletki). Następnie stosuje się dawkę standardową - jedna tabletka na dobę (= 50 mg chlorowodorku naltreksonu na dobę). W celu uzupełnienia pominiętej dawki należy podawać jedną tabletkę na dobę, aż do nadejścia czasu przyjęcia kolejnej dawki standardowej. Podanie naltreksonu osobom uzależnionym od opioidów może prowadzić do wystąpienia objawów odstawiennych, które mogą stanowić zagrożenie dla życia. Przed rozpoczęciem leczenia naltreksonem pacjenci, których podejrzewa się o przyjmowanie opioidów lub uzależnienie od opioidów muszą zostać poddani testowi prowokacji naloksonem (patrz punkt 4.4), chyba że możliwe jest potwierdzenie (za pomocą analizy moczu), że pacjent nie przyjmował opioidów przez okres ostatnich 7–10 dni. W związku z tym, że naltrekson stosuje się w leczeniu uzupełniającym, a proces całkowitego powrotu do zdrowia u pacjentów uzależnionych od opioidów przebiega indywidualnie, nie można ustalić zaleceń odnośnie czasu trwania leczenia. Należy rozważyć zastosowanie 3-miesięcznego leczenia początkowego. Konieczne może być jednak długoterminowe podawanie leku. 1 Zalecana dawka stosowana w leczeniu osób uzależnionych od alkoholu, pomocna w utrzymaniu abstynencji wynosi 50 mg na dobę (1 tabletka). Przyjmowanie dawek większych niż 150 mg na dobę nie jest zalecane, ponieważ może to prowadzić do zwiększenia częstości występowania działań niepożądanych. W związku z tym, że chlorowodorek naltreksonu jest stosowany w leczeniu uzupełniającym, a proces całkowitego powrotu do zdrowia u pacjentów uzależnionych od alkoholu przebiega indywidualnie, nie można ustalić zaleceń odnośnie czasu trwania leczenia. Należy rozważyć stosowanie trzymiesięcznego leczenia początkowego. Konieczne może być jednak długoterminowe podawanie leku. Schemat dawkowania może wymagać modyfikacji, aby poprawić stopień dostosowania się do schematu dawkowania składającego się z 3 dawek tygodniowo: 2 tabletki (=100 mg chlorowodorku naltreksonu) w poniedziałek i w środę oraz 3 tabletki (=150 mg chlorowodorku naltreksonu) w piątek. Dzieci i młodzież Naltreksonu nie należy podawać dzieciom i młodzieży w wieku poniżej 18 lat, ze względu na niewystarczającą ilość danych klinicznych w tej grupie wiekowej. Nie ustalono bezpieczeństwa stosowania leku u dzieci. Pacjenci w podeszłym wieku Brak wystarczających danych dotyczących bezpieczeństwa i skuteczności stosowania naltreksonu stosowanego w tym wskazaniu u pacjentów w podeszłym wieku. ",
@@ -62,20 +72,23 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane wymienione poniżej uporządkowano na podstawie klasyfikacji układów i narządów oraz częstości występowania: Bardzo często (≥ 1/10) Często (≥1/100 do <1/10) Niezbyt często (≥ 1/1000 do < 1/100) Rzadko (≥ 1/10 000 do < 1/1000) Bardzo rzadko (< 1/10 000) Nieznana (częstość nie może być określona na podstawie dostępnych danych). Klasyfikacja układów i narządów Działanie niepożądane MedDRA Zakażenia i zarażenia pasożytnicze Niezbyt często Opryszczka wargowa Grzybica stóp Zaburzenia krwi i układu chłonnego Niezbyt często Powiększenie węzłów chłonnych Rzadko Samoistna plamica małopłytkowa Zaburzenia metabolizmu i odżywiania Często Zmniejszony apetyt Zaburzenia psychiczne Bardzo często Nerwowość Lęk Bezsenność Często Zaburzenia afektywne Przygnębienie Drażliwość Zmiany nastroju Niezbyt często Omamy Stan splątania Depresja Paranoja Dezorientacja Koszmary senne Pobudzenie Spadek libido Niezwykłe sny 5 Rzadko Myśli samobójcze Próby samobójcze Bardzo rzadko Euforia Zaburzenia układu nerwowego Bardzo często Ból głowy Trudności z zasypianiem Niepokój Często Zawroty głowy Dreszcze Zawroty głowy pochodzenia błędnikowego Niezbyt często Drżenie Senność Rzadko Zaburzenia mowy Zaburzenia oka Często Wzmożone łzawienie Niezbyt często Niewyraźne widzenie Podrażnienie oka Światłowstręt Obrzęk oka Ból oka Osłabienie siły wzroku Zaburzenia ucha i błędnika Niezbyt często Dolegliwości uszne Ból ucha Dzwonienie w uszach Zaburzenia równowagi Zaburzenia serca Często Tachykardia Kołatanie serca Zmiany zapisu EKG Zaburzenia naczyniowe Niezbyt często Wahania ciśnienia krwi Wypieki (rumieńce) Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Często Ból w klatce piersiowej Niezbyt często Przekrwienie błony śluzowej nosa Dyskomfort w nosie Wodnisty wyciek z nosa Kichanie Ból jamy ustnej i gardła Zwiększone wytwarzanie śluzu w oskrzelach Dolegliwości ze strony zatok Duszność Dysfonia Kaszel Ziewanie Zaburzenia żołądka i jelit Bardzo często Ból brzucha Skurcz brzucha Nudności lub skłonność do wymiotów Wymioty Często Biegunka Zaparcia Niezbyt często Wzdęcia 6 Hemoroidy Wrzody Suchość w jamie ustnej Zaburzenia wątroby i dróg żółciowych Niezbyt często Zaburzenia czynności wątroby Wzrost stężenia bilirubiny we krwi Zapalenie wątroby W trakcie leczenia może wystąpić wzrost stężenia aminotranferaz. Po zakończeniu leczenia naltreksonem aktywność enzymów wraca do wartości wyjściowych w ciągu kilku tygodni. Zaburzenia skóry i tkanki podskórnej Często Wysypka Niezbyt często Wyprysk i (lub) łojotok Świąd Trądzik Łysienie Bardzo rzadko Osutka Zaburzenia mięśniowo-szkieletowe i tkanki łącznej Bardzo często Bóle stawów Bóle mięśni Niezbyt często Ból w pachwinie Bardzo rzadko Rabdomioliza (rozpad mięśni) Zaburzenia nerek i dróg moczowych Często Zatrzymanie moczu Niezbyt często Częstomocz Dyzuria (bolesne oddawanie moczu) Zaburzenia układu rozrodczego i piersi Często Opóźniony wytrysk Zaburzenia erekcji Zaburzenia ogólne i stany w miejscu podania Bardzo często Osłabienie Astenia (złe samopoczucie) Często Utrata apetytu Pragnienie Zwiększona ilość energii Dreszcze Nadmierne pocenie się Niezbyt często Zwiększony apetyt Spadek masy ciała Wzrost masy ciała Gorączka Ból Zimne dłonie lub stopy Uczucie gorąca Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie możliwe działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych 7 Al. Jerozolimskie 181C 02-222 Warszawa Tel:+ 48 22 49 21 301 Fax: +48 22 49 21 309 strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożadane można zgłaszać również do podmiotu odpowiedzialnego. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym naltrekson wchłania się szybko i niemal całkowicie z przewodu pokarmowego. Metabolizm Podlega efektowi pierwszego przejścia w wątrobie, a maksymalne stężenie w osoczu jest osiągane w ciągu około godziny. Naltrekson ulega hydroksylacji w wątrobie głównie do jego aktywnego metabolitu, 6-beta-naltreksolu, a w mniejszym stopniu do 2-hydroksy-3-metoksy-6-beta-naltreksolu. Okres półtrwania naltreksonu w osoczu wynosi około 4 godzin, średnie stężenie we krwi wynosi 8,55 mg/ml, a stopień wiązania z białkami osocza wynosi 21%. Okres półtrwania 6-beta-naltreksolu w osoczu wynosi 13 godzin. Eliminacja Produkt leczniczy jest wydalany głównie przez nerki. Około 60% podanej doustnie dawki jest wydalana w ciągu 48 godzin w postaci glukuronianu 6-beta-naltreksolu i naltreksonu. U pacjentów z marskością wątroby obserwowano pięć do dziesięciu razy większe stężenie naltreksonu w osoczu. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Naltrexoni hydrochloridum"
-    ],
-    "atc": [
-     "N07BB04"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_uciete": [],
+   "sha256_pdf": "daeaeb8e4fcc8f048838ec273e48b85db05ba87ff9cdfef0888db8a0a7fd4c37",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23769/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "naltrekson",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

@@ -1,25 +1,33 @@
 {
- "substancja": "promazyna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Promazin Jelfa",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3",
+     "4.8"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N05AA03"
+    ],
+    "nazwa_powszechna": [
+     "Promazini hydrochloridum"
+    ],
+    "postac": [
+     "Tabletki drażowane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "100 mg",
+   "nazwa": "Promazin Jelfa",
    "podmiot": "Bausch Health Ireland Ltd.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5563/characteristic",
-   "sha256_pdf": "fd508d3d6a2aa31b16648dfc5ce170947bc775fb90bd1d45b112480d0e2a3371",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Krótkotrwałe leczenie wspomagające umiarkowanego lub ciężkiego pobudzenia psychoruchowego. Leczenie pobudzenia i niepokoju u osób w podeszłym wieku. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Produkt leczniczy przeznaczony jest dla osób dorosłych. Dawkowanie Dawkowanie należy dostosować indywidualnie dla każdego pacjenta. Dawkowanie zależy od wskazań, nasilenia choroby, wieku pacjenta oraz jego wrażliwości na działanie produktu leczniczego. Pobudzenie psychoruchowe Dorośli: zazwyczaj 100 mg do 200 mg cztery razy na dobę. Leczenie należy rozpocząć od stosowania 1 mniejszych dawek. Następnie dawkę zwiększa się stopniowo do dawki optymalnej dla pacjenta. Przerwy między dawkami wynoszą zwykle 6 – 8 godzin. Niektórzy pacjenci mogą przyjmować jednorazową dobową dawkę leku przed snem. Osoby w podeszłym wieku: należy stosować połowę dawki początkowej. Leczenie należy prowadzić pod ścisłym nadzorem lekarza. Pobudzenie i niepokój Osoby w podeszłym wieku: początkowo 25 mg, następnie, jeśli konieczne, do 50 mg cztery razy na dobę. Należy przestrzegać stopniowego zwiększania dawki produktu leczniczego. Leczenie należy prowadzić pod ścisłym nadzorem lekarza. ",
@@ -30,28 +38,40 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane zostały wymienione zgodnie z częstością wystepowania określoną następujaco: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10 000 do <1/1000), bardzo rzadko (<1/10 000), częstość nieznana (nie może być określona na podstawie dostępnych danych). Najczęściej obserwowanymi działaniami niepożądanymi są zaburzenia układu nerwowego. Zaburzenia krwi i układu chłonnego Częstość nieznana: Granulocytopenia Agranulocytoza Eozynofilia Leukopenia Niedokrwistość hemolityczna Niedokrwistość aplastyczna Małopłytkowość. Zaburzenia układu immunologicznego Częstość nieznana: Obrzęk naczynioruchowy Skurcz oskrzeli Pokrzywka Reakcje anafilaktyczne (wyjątkowo rzadkie) Układowy toczeń rumieniowaty Zaburzenia endokrynologiczne 4 Częstość nieznana: Mlekotok Ginekomastia Zaburzenia miesiączkowania Hiperglikemia Hipoglikemia Cukromocz Impotencja Zaburzenia libido Wzmożone pragnienie Zwiększenie masy ciała Zaburzenia metabolizmu i odżywiania Częstość nieznana: Uciążliwe zaparcia (związane z antycholinergicznym działaniem preparatu) prowadzące czasami do zaparć nawykowych Nudności i wymioty (wyjątkowo rzadko) Zaburzenia psychiczne Częstość nieznana: Senność Upośledzenie koncentracji Nadmierne zahamowanie ruchowe Zaburzenia snu Depresja Zaburzenia układu nerwowego Częstość nieznana: Parkinsonizm (ustępujący po zmniejszeniu dawki lub podaniu produktów leczniczych antycholinergicznych) Akatyzja Ostry zespół dyskinetyczny Napady drgawek Późne dyskinezy lub zespoły dystoniczne (szczególnie u osób długotrwale leczonych po nagłym odstawieniu produktu leczniczego lub znacznym zmniejszeniu dawki), Hipertermia (szczególnie w czasie gorącej i wilgotnej pogody lub w przypadku równoczesnego stosowania produktów leczniczych przeciw parkinsonizmowi), Hipotermia (szczególnie u osób w podeszłym wieku lub z niedoczynnością tarczycy) Złośliwy zespól neuroleptyczny* Zaburzenia akomodacji Zatrzymanie moczu Zaparcia Suchość błon śluzowych Zaburzenia serca Częstość nieznana: Blok przedsionkowo – komorowy Przedsionkowe zaburzenia rytmu Tachykardia komorowa Migotanie komór Zmiany w EKG: spłaszczenie lub odwrócenie załamka T, wydłużenie odstępu PQ i odstępu QT oraz pojawienie się fali U Zaburzenia naczyniowe Częstość nieznana: Niedociśnienie (zwłaszcza na początku leczenia) Ortostatyczne spadki ciśnienia krwi Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Częstość nieznana: Depresja oddechowa u wrażliwych pacjentów Zaburzenia wątroby i dróg żółciowych Częstość nieznana: 5 Żółtaczka zastoinowa wywołana skurczem przewodów żółciowych o mechanizmie uczuleniowym** Zaburzenia skóry i tkanki podskórnej Częstość nieznana: Skórne odczyny alergiczne Nadwrażliwość na światło Zmiany barwnikowe (przebarwienie skóry, odkładanie barwnika w rogówce i siatkówce oka) Zaburzenia układu rozrodczego i piersi Częstość nieznana: Priapizm *-Złośliwy zespół neuroleptyczny - zahamowanie ruchowe aż do stanu osłupienia z wyraźnym nasileniem napięcia mięśni szkieletowych, drżeniem i pojedynczymi ruchami mimowolnymi, tachykardia, hipertermia, duże wahania ciśnienia tętniczego krwi, zaburzenia wegetatywne: poty, ślinotok, zaczerwienienie twarzy, narastające zaburzenia świadomości aż do stanu śpiączkowego, leukocytoza, odwodnienie, zaburzenia elektrolitowe. Leczenie zespołu polega na odstawieniu promazyny, nawodnieniu chorego, wyrównaniu zaburzeń elektrolitowych, ochłodzeniu ciała, podtrzymaniu czynności układu krążenia. Podaje się bromokryptynę, amantadynę, preparaty antycholinergiczne, a w celu zmniejszenia napięcia mięśniowego dantrolen lub benzodiazepiny. **- Żółtaczka zastoinowa wywołana skurczem przewodów żółciowych o mechanizmie uczuleniowym występuje zwykle między 2. a 4. tygodniem leczenia. Dolegliwości przypominają wirusowe zapalenie wątroby, a badania laboratoryjne wskazują na pochodzenie mechaniczne. Jeśli taki stan wystąpi, należy odstawić promazynę i nie podawać ponownie. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych. Al. Jerozolimskie 181C 02-222 Warszawa tel.: 22 49-21-301 fax: 22 49-21-309 Strona internetowa: https://smz.ezdrowie.gov.pl ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Promazyna szybko wchłania się z przewodu pokarmowego. Dystrybucja Promazyna w bardzo dużym stopniu wiąże się z białkami osocza. Podlega szerokiej dystrybucji w organizmie. Przenika przez barierę krew – mózg osiągając większe stężenie w mózgu niż w osoczu krwi. Promazyna i jej metabolity przenikają również przez barierę łożyskową i wydzielane są w mleku matki. Metabolizm Podlega metabolizmowi pierwszego przejścia w obrębie ściany jelita. Jest również metabolizowana w wątrobie. Eliminacja Wydalana jest z moczem i kałem w postaci licznych czynnych i nieczynnych metabolitów. Zależności farmakokinetyczno-farmakodynamiczne Nie wykazano prostej korelacji pomiędzy stężeniem promazyny i jej metabolitów w osoczu a efektem terapeutycznym. Efekt terapeutyczny utrzymuje się od kilku dni do kilku tygodni lub nawet dłużej. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3",
+    "4.8"
+   ],
+   "sha256_pdf": "fd508d3d6a2aa31b16648dfc5ce170947bc775fb90bd1d45b112480d0e2a3371",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5563/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.3"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki drażowane"
+    "atc": [
+     "N05AA03"
     ],
     "nazwa_powszechna": [
      "Promazini hydrochloridum"
     ],
-    "atc": [
-     "N05AA03"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Promazine Hasco",
+   },
    "moc": "100 mg",
+   "nazwa": "Promazine Hasco",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35859/characteristic",
-   "sha256_pdf": "4e78012c03106ed9494d54fc72c5ed110b7aac95ec344080d095d3da9aba09d4",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Krótkotrwałe leczenie wspomagające umiarkowanego lub ciężkiego pobudzenia psychoruchowego. Leczenie pobudzenia i niepokoju u osób w podeszłym wieku. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Produkt leczniczy przeznaczony jest dla osób dorosłych. Dawkowanie Dawkowanie należy dostosować indywidualnie dla każdego pacjenta. Dawkowanie zależy od wskazań, nasilenia choroby, wieku pacjenta oraz jego wrażliwości na działanie produktu leczniczego. Pobudzenie psychoruchowe Dorośli: zazwyczaj 100 mg do 200 mg cztery razy na dobę. Leczenie należy rozpocząć od stosowania mniejszych dawek. Następnie dawkę zwiększa się stopniowo do dawki optymalnej dla pacjenta. Przerwy między dawkami wynoszą zwykle 6 - 8 godzin. Niektórzy pacjenci mogą przyjmować jednorazową dobową dawkę leku przed snem. Osoby w podeszłym wieku: należy stosować połowę dawki początkowej. Leczenie należy prowadzić pod ścisłym nadzorem lekarza. Pobudzenie i niepokój Osoby w podeszłym wieku: początkowo 25 mg, następnie, jeśli konieczne, do 50 mg cztery razy na dobę. Należy przestrzegać stopniowego zwiększania dawki produktu leczniczego. Leczenie należy prowadzić pod ścisłym nadzorem lekarza. ",
@@ -62,20 +82,26 @@
     "4.8": "4.8 Działania niepożądane Działania niepożądane zostały wymienione zgodnie z częstością występowania określoną następująco: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1000 do <1/100), rzadko (≥1/10 000 do <1/1000), bardzo rzadko (<1/10 000), częstość nieznana (nie może być określona na podstawie dostępnych danych). Najczęściej obserwowanymi działaniami niepożądanymi są zaburzenia układu nerwowego. Zaburzenia krwi i układu chłonnego Częstość nieznana: Granulocytopenia Agranulocytoza Eozynofilia Leukopenia Niedokrwistość hemolityczna Niedokrwistość aplastyczna Małopłytkowość Zaburzenia układu immunologicznego Częstość nieznana: Obrzęk naczynioruchowy Skurcz oskrzeli Pokrzywka Reakcje anafilaktyczne (wyjątkowo rzadkie) Układowy toczeń rumieniowaty Zaburzenia endokrynologiczne Częstość nieznana: Mlekotok Ginekomastia Zaburzenia miesiączkowania Hiperglikemia Hipoglikemia Cukromocz Impotencja Zaburzenia libido Wzmożone pragnienie Zwiększenie masy ciała Zaburzenia metabolizmu i odżywiania Częstość nieznana: Uciążliwe zaparcia (związane z przeciwcholinergicznym działaniem produktu) prowadzące czasami do zaparć nawykowych 4 Nudności i wymioty (wyjątkowo rzadko) Zaburzenia psychiczne Częstość nieznana: Senność Upośledzenie koncentracji Nadmierne zahamowanie ruchowe Zaburzenia snu Depresja Zaburzenia układu nerwowego Częstość nieznana: Parkinsonizm (ustępujący po zmniejszeniu dawki lub podaniu produktów leczniczych przeciwcholinergicznych) Akatyzja Ostry zespół dyskinetyczny Napady drgawek Późne dyskinezy lub zespoły dystoniczne (szczególnie u osób długotrwale leczonych po nagłym odstawieniu produktu leczniczego lub znacznym zmniejszeniu dawki) Hipertermia (szczególnie w czasie gorącej i wilgotnej pogody lub w przypadku równoczesnego stosowania produktów leczniczych przeciw parkinsonizmowi) Hipotermia (szczególnie u osób w podeszłym wieku lub z niedoczynnością tarczycy) Złośliwy zespól neuroleptyczny* Zaburzenia akomodacji Zatrzymanie moczu Zaparcia Suchość błon śluzowych Zaburzenia serca Częstość nieznana: Blok przedsionkowo – komorowy Przedsionkowe zaburzenia rytmu Tachykardia komorowa Migotanie komór Zmiany w EKG: spłaszczenie lub odwrócenie załamka T, wydłużenie odstępu PQ i odstępu QT oraz pojawienie się fali U Zaburzenia naczyniowe Częstość nieznana: Niedociśnienie (zwłaszcza na początku leczenia) Ortostatyczne spadki ciśnienia krwi Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Częstość nieznana: Depresja oddechowa u wrażliwych pacjentów Zaburzenia wątroby i dróg żółciowych Częstość nieznana: Żółtaczka zastoinowa wywołana skurczem przewodów żółciowych o mechanizmie 5 uczuleniowym** Zaburzenia skóry i tkanki podskórnej Częstość nieznana: Skórne odczyny alergiczne Nadwrażliwość na światło Zmiany barwnikowe (przebarwienie skóry, odkładanie barwnika w rogówce i siatkówce oka) Zaburzenia układu rozrodczego i piersi Częstość nieznana: Priapizm *-Złośliwy zespół neuroleptyczny - zahamowanie ruchowe aż do stanu osłupienia z wyraźnym nasileniem napięcia mięśni szkieletowych, drżeniem i pojedynczymi ruchami mimowolnymi, tachykardia, hipertermia, duże wahania ciśnienia tętniczego krwi, zaburzenia wegetatywne: poty, ślinotok, zaczerwienienie twarzy, narastające zaburzenia świadomości aż do stanu śpiączkowego, leukocytoza, odwodnienie, zaburzenia elektrolitowe. Leczenie zespołu polega na odstawieniu promazyny, nawodnieniu chorego, wyrównaniu zaburzeń elektrolitowych, ochłodzeniu ciała, podtrzymaniu czynności układu krążenia. Podaje się bromokryptynę, amantadynę, produkty przeciwcholinergiczne, a w celu zmniejszenia napięcia mięśniowego - dantrolen lub benzodiazepiny. **- Żółtaczka zastoinowa wywołana skurczem przewodów żółciowych o mechanizmie uczuleniowym występuje zwykle między 2. a 4. tygodniem leczenia. Dolegliwości przypominają wirusowe zapalenie wątroby, a badania laboratoryjne wskazują na pochodzenie mechaniczne. Jeśli taki stan wystąpi, należy odstawić promazynę i nie podawać ponownie. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 e-mail: ndl@urpl.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Promazyna szybko wchłania się z przewodu pokarmowego. Dystrybucja Promazyna w bardzo dużym stopniu wiąże się z białkami osocza. Podlega szerokiej dystrybucji w organizmie. Przenika przez barierę krew – mózg osiągając większe stężenie w mózgu niż w osoczu. Promazyna i jej metabolity przenikają również przez barierę łożyskową i wydzielane są w mleku matki. Metabolizm Podlega metabolizmowi pierwszego przejścia w obrębie ściany jelita. Jest również metabolizowana w wątrobie. Eliminacja Wydalana jest z moczem i kałem w postaci licznych czynnych i nieczynnych metabolitów. Zależności farmakokinetyczno-farmakodynamiczne Nie wykazano prostej korelacji pomiędzy stężeniem promazyny i jej metabolitów w osoczu a efektem terapeutycznym. Efekt terapeutyczny utrzymuje się od kilku dni do kilku tygodni lub nawet dłużej. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Promazini hydrochloridum"
-    ],
-    "atc": [
-     "N05AA03"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.3"
+   ],
+   "sha256_pdf": "4e78012c03106ed9494d54fc72c5ed110b7aac95ec344080d095d3da9aba09d4",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35859/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "promazyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

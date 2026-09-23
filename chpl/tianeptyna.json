@@ -1,25 +1,32 @@
 {
- "substancja": "tianeptyna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Atinepte",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.6"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AX14"
+    ],
+    "nazwa_powszechna": [
+     "Tianeptinum natricum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "12,5 mg",
+   "nazwa": "Atinepte",
    "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28267/characteristic",
-   "sha256_pdf": "d824f67ed339dec8d282264f65b81c9b1b32be8a6a441225e2511b30cd69227d",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Leczenie epizodów depresyjnych. Tianeptynę można stosować w lekkiej, umiarkowanej i ciężkiej depresji. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Zalecana dawka to 1 tabletka (12,5 mg) 3 razy na dobę (rano, w południe i wieczorem), przed głównymi posiłkami. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania tianeptyny u pacjentów z depresją w podeszłym wieku (≥65 lat) (patrz punkt 5.1). Nie jest konieczne dostosowanie dawki w zależności od wieku. U wątłych, szczupłych pacjentów w podeszłym wieku (o masie ciała <55 kg) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 ml/min) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności wątroby U pacjentów z ciężką marskością wątroby (klasa C wg Childa-Pugha) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Nie jest konieczna modyfikacja dawkowania u pacjentów z uzależnieniem alkoholowym, z łagodną lub umiarkowaną marskością albo bez marskości wątroby (patrz punkt 5.2). 1 Dzieci i młodzież Nie określono dotychczas bezpieczeństwa stosowania ani skuteczności tianeptyny u dzieci i młodzieży w wieku poniżej 18 lat. Dane nie są dostępne (patrz punkt 4.4). Sposób podawania Tabletki można przyjmować na czczo. Tabletkę należy połykać w całości, popijając szklanką wody. Przerwanie leczenia Należy unikać nagłego przerwania leczenia. Dawkowanie należy stopniowo zmniejszać w ciągu 7 do 14 dni w celu zmniejszenia ryzyka reakcji z odstawienia (patrz punkt 4.4). ",
@@ -30,28 +37,50 @@
     "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa Działania niepożądane zgłoszone w badaniach klinicznych tianeptyny mają łagodne nasilenie. Są to głównie nudności, zaparcia, ból brzucha, senność, bóle głowy, uczucie suchości błony śluzowej jamy ustnej i zawroty głowy. Wykaz działań niepożądanych przedstawiony w tabeli Podczas badań klinicznych i (lub) po wprowadzeniu tianeptyny do obrotu zgłaszano następujące działania niepożądane, które zaszeregowano według następującej częstości występowania: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych). Klasyfikacja układów Częstość Działania niepożądane i narządów występowania Zaburzenia metabolizmu Często Jadłowstręt i odżywiania Częstość nieznana⃰ Hiponatremia Zaburzenia psychiczne Często Koszmary senne Niezbyt często Nadużywanie i uzależnienie od leku, wszczególności u osób w wieku poniżej 50 lat z uzależnieniem od alkoholu lub leków w wywiadzie Częstość nieznana⃰ Podczas leczenia tianeptyną lub krótko po jej odstawieniu (patrz punkt 4.4) zgłaszano przypadki myśli lub zachowań samobójczych Stan splątania, omamy Zaburzenia układu Często Bezsenność nerwowego Senność Zawroty głowy Ból głowy 4 Omdlenie Drżenia Częstość nieznana⃰ Zaburzenia pozapiramidowe Dyskinezy Zaburzenia oka Często Zaburzenia widzenia Zaburzenia serca Często Tachykardia Skurcze dodatkowe Ból w klatce piersiowej Zaburzenia naczyniowe Często Uderzenia gorąca Zaburzenia układu Często Duszność oddechowego, klatki piersiowej i śródpiersia Zaburzenia żołądka i jelit Często Ból żołądka Ból brzucha Suchość błony śluzowej jamy ustnej Nudności Wymioty Zaparcia Wzdęcia Zaburzenia skóry i tkanki Niezbyt często Wysypka grudkowo-plamista lub podskórnej rumieniowa Świąd Pokrzywka Częstość nieznana⃰ Trądzik Zapalenie pęcherzowe skóry (pojedyncze przypadki) Zaburzenia mięśniowo- Często Ból mięśni szkieletowe i podskórne Ból pleców Zaburzenia wątroby idróg Częstość nieznana⃰ Zwiększona aktywność enzymów żółciowych wątrobowych Zaburzenia ogólne i stany Często Osłabienie w miejscu podania Uczucie ciała obcego w gardle *Dane zebrane po wprowadzeniu tianeptyny do obrotu. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 e-mail: ndl@urpl.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Wchłanianie tianeptyny w przewodzie pokarmowym jest szybkie i całkowite, wpływ pokarmu jest nieistotny. Dystrybucja Dystrybucja tianeptyny jest szybka, ponieważ lek wiąże się w znacznym stopniu z białkami (około 94%), głównie z albuminami. Biotransformacja Tianeptyna jest w bardzo dużym stopniu metabolizowana w wątrobie, głównie w procesie β-oksydacji, nie ulega biotransformacji przy udziale cytochromu P450. Głównym metabolitem jest czynny kwas pentanowy (MC5), substancja słabiej działająca niż tianeptyna. Eliminacja Eliminacja tianeptyny charakteryzuje się krótkim okresem półtrwania wynoszącym 3 godziny, większość metabolitów jest wydalana z moczem. Pacjenci w podeszłym wieku, w bardzo podeszłym wieku oraz wątli pacjenci U pacjentów w podeszłym wieku stężenia tianeptyny były zwiększone o 30%, a stężenia MC5 były około dwukrotnie zwiększone po pojedynczym i wielokrotnym podaniu, w porównaniu do młodszych osób (patrz punkt 4.2). U pacjentów w bardzo podeszłym wieku (87 ± 5 lat) oraz wątłych pacjentów (o masie ciała 45 kg ± 9 kg) obserwowano istotne zwiększenie wartości Cmax i AUC dla tianeptyny oraz MC5 po pojedynczym podaniu leku (patrz punkt 4.2). Pacjenci z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 ml/min) Po pojedynczym i wielokrotnym podaniu właściwości farmakokinetyczne tianeptyny są niezmienione, ale wartość AUC dla MC5 jest około dwukrotnie zwiększona (patrz punkt 4.2). Pacjenci z ciężką marskością wątroby (klasa C wg Childa-Pugha) Wartości AUC dla tianeptyny oraz dla MC5 po podaniu dawki 12,5 mg są zwiększone w porównaniu do wartości u dorosłych pacjentów z depresją (patrz punkt 4.2). W przypadku łagodnej marskości wątroby, takiej jak u osób uzależnionych od alkoholu, wpływ na parametry farmakokinetyczne jest nieistotny (patrz punkt 4.2). "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.6"
+   ],
+   "sha256_pdf": "d824f67ed339dec8d282264f65b81c9b1b32be8a6a441225e2511b30cd69227d",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28267/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.2",
+     "4.6"
+    ]
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.5": {
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "typowo_dla_tego_punktu": 3140,
+     "wykryto": "2026-09-23",
+     "znakow": 296
+    }
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
+    "atc": [
+     "N06AX14"
     ],
     "nazwa_powszechna": [
      "Tianeptinum natricum"
     ],
-    "atc": [
-     "N06AX14"
+    "postac": [
+     "Tabletki drażowane",
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  },
-  {
-   "nazwa": "Coaxil",
+   },
    "moc": "12,5 mg",
+   "nazwa": "Coaxil",
    "podmiot": "Les Laboratoires Servier",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1516/characteristic",
-   "sha256_pdf": "9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Tianeptyna jest wskazana w leczeniu zespołów depresyjnych. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Zalecaną dawką jest 1 tabletka (12,5 mg) 3 razy na dobę (rano, w środku dnia i wieczorem), przed posiłkami. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania tianeptyny u pacjentów z depresją w podeszłym wieku (≥65 lat), patrz punkt ",
@@ -62,38 +91,40 @@
     "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa Działania niepożądane zgłoszone w badaniach klinicznych tianeptyny mają łagodne nasilenie. Są to głównie nudności, zaparcia, ból brzucha, senność, bóle głowy, uczucie suchości błony śluzowej jamy ustnej i zawroty głowy. Wykaz działań niepożądanych przedstawiony w tabeli Podczas badań klinicznych i (lub) po wprowadzeniu tianeptyny do obrotu zgłaszano następujące działania niepożądane, które zaszeregowano według następującej częstości występowania: bardzo często (≥1/10); często (≥1/100 do <1/10); niezbyt często (≥1/1 000 do <1/100); rzadko (≥1/10 000 do <1/1 000); bardzo rzadko (≥1/100 000 do <1/10 000), nieznana (częstość nie może być określona na podstawie dostępnych danych). Klasyfikacja układów Częstość Zalecane określenie i narządów występowania Zaburzenia metabolizmu Często Jadłowstręt i odżywiania Częstość nieznana⃰ Hiponatremia Zaburzenia psychiczne Często Koszmary senne Niezbyt często Nadużywanie i uzależnienie od leku, w szczególności u osób w wieku poniżej 50 lat z uzależnieniem od alkoholu lub leków w wywiadzie 4 Częstość nieznana⃰ Podczas leczenia tianeptyną lub wkrótce po jej odstawieniu (patrz punkt 4.4) zgłaszano przypadki myśli lub zachowań samobójczych Stan splątania, omamy Zaburzenia układu nerwowego Często Bezsenność Senność Zawroty głowy Ból głowy Omdlenie Drżenia Częstość nieznana⃰ Zaburzenia pozapiramidowe Dyskinezy Zaburzenia serca Często Tachykardia Skurcze dodatkowe Ból w klatce piersiowej Zaburzenia naczyniowe Często Uderzenia gorąca Zaburzenia układu oddechowego Często Duszność Zaburzenia żołądka i jelit Często Ból żołądka Ból brzucha Uczucie suchości błony śluzowej jamy ustnej Nudności Wymioty Zaparcia Wzdęcia Zaburzenia skóry Niezbyt często Wysypka grudkowo-plamista lub rumieniowa Świąd Pokrzywka Częstość nieznana⃰ Trądzik W wyjątkowych przypadkach zapalenie pęcherzowe skóry Zaburzenia mięśniowo- Często Ból mięśniowy szkieletowe Ból lędźwiowy Zaburzenia ogólne Często Osłabienie Uczucie ściśniętego gardła Zaburzenia wątroby i dróg Częstość nieznana⃰ Zwiększona aktywność enzymów żółciowych wątrobowych Zapalenie wątroby, które w wyjątkowych przypadkach może być ciężkie ⃰ Doświadczenie po wprowadzeniu leku do obrotu. 5 Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel: + 48 22 49 21 301 Fax: + 48 22 49 21 309 e-mail: ndl@urpl.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Wchłanianie w przewodzie pokarmowym jest szybkie i całkowite, wpływ pokarmu jest nieistotny. Dystrybucja Dystrybucja jest szybka. Lek wiąże się z białkami w około 94%, głównie z albuminami. Metabolizm Tianeptyna jest w bardzo dużym stopniu metabolizowana w wątrobie, głównie w procesie -oksydacji, nie ulega biotransformacji przy udziale cytochromu P450. Głównym metabolitem jest czynny kwas pentanowy (MC5), substancja słabiej działająca niż tianeptyna. 7 Eliminacja Eliminacja tianeptyny charakteryzuje się krótkim okresem półtrwania wynoszącym 3 godziny, większość metabolitów jest wydalana z moczem. Pacjenci w podeszłym wieku, w bardzo podeszłym wieku oraz wątli pacjenci U pacjentów w podeszłym wieku stężenia tianeptyny były zwiększone o 30%, a stężenia MC5 były około dwukrotnie zwiększone po pojedynczym i wielokrotnym podaniu, w porównaniu do młodszych osób (patrz punkt 4.2). U pacjentów w bardzo podeszłym wieku (87 ± 5 lat) oraz wątłych pacjentów (o masie ciała 45 kg ± 9 kg) obserwowano istotne zwiększenie wartości Cmax i AUC dla tianeptyny oraz MC5 po pojedynczym podaniu leku (patrz punkt 4.2). Pacjenci z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 ml/min) Po pojedynczym i wielokrotnym podaniu właściwości farmakokinetyczne tianeptyny są niezmienione, ale wartość AUC dla MC5 jest około dwukrotnie zwiększona (patrz punkt 4.2). Pacjenci z ciężką marskością wątroby (klasa C wg Childa-Pugha) Wartości AUC dla tianeptyny oraz dla MC5 po podaniu dawki 12,5 mg są zwiększone w porównaniu do wartości u dorosłych pacjentów z depresją (patrz punkt 4.2). W przypadku łagodnej marskości wątroby, takiej jak u osób uzależnionych od alkoholu, wpływ na parametry farmakokinetyczne jest nieistotny (patrz punkt 4.2). "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.2",
+    "4.6"
+   ],
+   "sha256_pdf": "9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1516/characteristic"
+  },
+  {
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.6"
+    ]
+   },
    "klucz_rpl": {
-    "postac": [
-     "Tabletki drażowane",
-     "Tabletki powlekane"
+    "atc": [
+     "N06AX14"
     ],
     "nazwa_powszechna": [
      "Tianeptinum natricum"
     ],
-    "atc": [
-     "N06AX14"
+    "postac": [
+     "Tabletki powlekane"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
    },
-   "PODEJRZANIE_KROTKI": {
-    "4.5": {
-     "znakow": 296,
-     "typowo_dla_tego_punktu": 3140,
-     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
-     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
-     "wykryto": "2026-09-23"
-    }
-   }
-  },
-  {
-   "nazwa": "Tialera",
    "moc": "12,5 mg",
+   "nazwa": "Tialera",
    "podmiot": "Zentiva, k.s.",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26405/characteristic",
-   "sha256_pdf": "6e2b46401f5fd6aa0892cc2a87645f3b9b7688ebc91b3cd008c574357cef29d4",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Tialera jest wskazany w leczeniu zespołów depresyjnych. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka to jedna tabletka (12,5 mg) 3 razy na dobę (rano, w południe i wieczorem), przed posiłkami. Należy unikać nagłego przerwania leczenia. Dawkę należy stopniowo zmniejszać przez 7 do 14 dni, aby ograniczyć reakcję odstawienia (patrz punkt 4.4). Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania tianeptyny u pacjentów z depresją w podeszłym wieku (≥65 lat). Nie wymaga się dostosowania dawki w zależności od wieku. U wątłych, szczupłych pacjentów w podeszłym wieku (o masie ciała <55 kg) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 mL/min) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności wątroby U pacjentów z ciężką marskością wątroby (klasa C wg Childa-Pugha) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Nie jest konieczna modyfikacja dawkowania u pacjentów z uzależnieniem alkoholowym, z łagodną lub umiarkowaną marskością albo bez marskości wątroby (patrz punkt 5.2). 1 Dzieci i młodzież Nie określono bezpieczeństwa i skuteczności produktu leczniczego Tialera u dzieci i młodzieży w wieku poniżej 18 lat. Dlatego nie zaleca się jego stosowania u dzieci i młodzieży (patrz punkt 4.4). Sposób podawania Do stosowania doustnego. ",
@@ -104,20 +135,26 @@
     "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa: W badaniach klinicznych zgłaszano łagodne i ciężkie działania niepożądane.Obejmowały one głównie: nudności, zaparcia, ból brzucha, senność, bóle głowy, uczucie suchości błony śluzowej jamy ustnej i zawroty głowy. Tabelaryczne zestawienie działań niepożądanych: Podczas badań klinicznych i (lub) po wprowadzeniu do obrotu zgłaszano następujące działania niepożądane, uszeregowane zgodnie z częstością występowania: bardzo często (≥ 1/10); często (≥ 1/100 do < 1/10); niezbyt często (≥ 1/1 000 do < 1/100); rzadko (≥ 1/10 000 do < 1/1 000); bardzo rzadko (< 1/10 000); częstość nieznana (częstość nie może być określona na podstawie dostępnych danych) 4 Klasyfikacja układów Częstość Działania niepożądane i narządów występowania Zaburzenia metabolizmu Często Jadłowstręt i odżywiania Częstość nieznana⃰ Hiponatremia Zaburzenia psychiczne Często Koszmary senne Niezbyt często Nadużywanie i uzależnienie od leku, w szczególności u osób w wieku poniżej 50 lat z uzależnieniem od alkoholu lub leków w wywiadzie Częstość nieznana⃰ Podczas leczenia tianeptyną lub krótko po jej odstawieniu (patrz punkt 4.4) zgłaszano przypadki myśli lub zachowań samobójczych Stan splątania, omamy Zaburzenia układu Często Bezsenność nerwowego Senność Zawroty głowy Ból głowy Omdlenie Drżenia Częstość nieznana⃰ Zaburzenia pozapiramidowe Dyskinezy Zaburzenia serca Często Tachykardia Skurcze dodatkowe Ból w klatce piersiowej Zaburzenia naczyniowe Często Uderzenia gorąca Zaburzenia układu Często Duszność oddechowego, klatki piersiowej i śródpiersia Zaburzenia żołądka i jelit Często Ból żołądka Ból brzucha Suchość w ustach Nudności Wymioty Zaparcia Wzdęcia Zaburzenia skóry i tkanki Niezbyt często Wysypka grudkowo-plamista lub podskórnej rumieniowa Świąd Pokrzywka Częstość nieznana⃰ Trądzik Zapalenie pęcherzowe skóry (pojedyncze przypadki) Zaburzenia mięśniowo- Często Ból mięśni szkieletowe i podskórne Ból odcinka lędźwiowego kręgosłupa Zaburzenia ogólne i stany Często Osłabienie w miejscu podania Uczucie ściśniętego gardła Zaburzenia wątroby i Częstość nieznana⃰ Zwiększona aktywność enzymów dróg żółciowych wątrobowych Zapalenie wątroby (o ciężkim przebiegu w pojedynczych przypadkach) ⃰ Dane zebrane po wprowadzeniu tianeptyny do obrotu. 5 Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Wchłanianie w przewodzie pokarmowym jest szybkie i całkowite, wpływ pokarmu jest nieistotny Dystrybucja Dystrybucja jest szybka ze względu na to, iż lek wiąże się w znacznym stopniu z białkami (około 94%), głównie z albuminami. Biotransformacja Tianeptyna jest w bardzo dużym stopniu metabolizowana w wątrobie, głównie w procesie β-oksydacji, nie ulega biotransformacji przy udziale cytochromu P450. Głównym metabolitem jest czynny kwas pentanowy (MC5), substancja słabiej działająca niż tianeptyna. Eliminacja Eliminacja tianeptyny charakteryzuje się krótkim okresem półtrwania wynoszącym 3 godziny, większość metabolitów jest wydalana z moczem. Osoby w podeszłym wieku, w bardzo podeszłym wieku oraz wątli pacjenci U pacjentów w podeszłym wieku stężenia tianeptyny były zwiększone o 30%, a stężenia MC5 były około dwukrotnie zwiększone po pojedynczym i wielokrotnym podaniu, w porównaniu do młodszych osób (patrz punkt 4.2). U pacjentów w bardzo podeszłym wieku (87 ± 5 lat) oraz wątłych pacjentów (o masie ciała 45 kg ± 9 kg) obserwowano istotne zwiększenie wartości Cmax i AUC dla tianeptyny oraz MC5 po pojedynczym podaniu leku (patrz punkt 4.2). 7 Pacjenci z ciężką marskością wątroby (klasa C wg Childa-Pugha) Wartości AUC dla tianeptyny oraz dla MC5 po podaniu dawki 12,5 mg są zwiększone w porównaniu do wartości u dorosłych pacjentów z depresją (patrz punkt 4.2). W przypadku łagodnej marskości wątroby, takiej jak u osób uzależnionych od alkoholu, wpływ na parametry farmakokinetyczne jest nieistotny (patrz punkt 4.2). Pacjenci z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 mL/min) Po pojedynczym i wielokrotnym podaniu właściwości farmakokinetyczne tianeptyny są niezmienione, ale wartość AUC dla MC5 jest około dwukrotnie zwiększona (patrz punkt 4.2). "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki powlekane"
-    ],
-    "nazwa_powszechna": [
-     "Tianeptinum natricum"
-    ],
-    "atc": [
-     "N06AX14"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.6"
+   ],
+   "sha256_pdf": "6e2b46401f5fd6aa0892cc2a87645f3b9b7688ebc91b3cd008c574357cef29d4",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26405/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "tianeptyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }

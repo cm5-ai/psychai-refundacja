@@ -1,25 +1,32 @@
 {
- "substancja": "reboksetyna",
+ "KWARANTANNA_DATA": "2026-09-23",
+ "STATUS": "KWARANTANNA",
  "pobrano": "2026-09-22",
- "punkty_zadane": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
  "produkty": [
   {
-   "nazwa": "Edronax",
+   "KWARANTANNA": {
+    "data": "2026-09-23",
+    "odrzucone": [],
+    "powod_urwania": "Tekst nie konczy sie zamknieciem zdania - podejrzenie ucziecia przez ekstraktor. Wykryte 2026-09-23.",
+    "uciete": [
+     "4.4"
+    ]
+   },
+   "klucz_rpl": {
+    "atc": [
+     "N06AX18"
+    ],
+    "nazwa_powszechna": [
+     "Reboxetinum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
    "moc": "4 mg",
+   "nazwa": "Edronax",
    "podmiot": "Pfizer Europe MA EEIG",
-   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9832/characteristic",
-   "sha256_pdf": "9559d8a9b72504ca6de1e0b5ef6b0a428220edf8f21211034755a0b09c05ff82",
-   "stan": "OK",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Reboksetyna jest wskazana w intensywnym leczeniu depresji (w tym ciężkiej postaci) oraz w leczeniu podtrzymującym u pacjentów, którzy dobrze zareagowali na leczenie początkowe. ",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Zalecana dawka terapeutyczna podawana doustnie wynosi 4 mg dwa razy na dobę (8 mg/dobę). Pełną dawkę terapeutyczną można zastosować już od początku leczenia. W przypadku niepełnej odpowiedzi klinicznej po 3-4 tygodniach dawka ta może być zwiększona do 10 mg na dobę. Maksymalna dawka dobowa nie powinna być większa niż 12 mg. Jak dotąd, nie ustalono minimalnej skutecznej dawki produktu. Pacjenci w podeszłym wieku (powyżej 65 lat) W badaniach klinicznych, w których brali udział pacjenci w podeszłym wieku, stosowano dawkę 2 mg dwa razy na dobę (4 mg/dobę). Jednak bezpieczeństwo i skuteczność produktu nie były oceniane w warunkach próby kontrolowanej z użyciem placebo. Dlatego, tak jak w przypadku innych leków przeciwdepresyjnych, których nie badano w warunkach kontrolowanych z użyciem placebo, nie należy stosować reboksetyny w tej grupie wiekowej. Dzieci i młodzież Stosowanie reboksetyny u dzieci i młodzieży poniżej 18 lat nie jest zalecane. Nie określono bezpieczeństwa stosowania ani skuteczności produktu leczniczego w tej populacji pacjentów (patrz punkt 4.4). Pacjenci z niewydolnością nerek lub wątroby Dawka początkowa u pacjentów z niewydolnością nerek lub wątroby powinna wynosić 2 mg dwa razy 1 na dobę. Dawkę tę można następnie zwiększać w zależności od reakcji pacjenta na produkt. Sposób podawania Podanie doustne. ",
@@ -30,20 +37,26 @@
     "4.8": "4.8 Działania niepożądane W badaniach klinicznych reboksetynę otrzymywało ponad 2100 pacjentów, a około 250 z nich przyjmowało produkt przez co najmniej rok. Częstość występowania jest określona według następującego podziału: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). Do częstych działań niepożądanych, które ponad dwukrotnie częściej względem placebo wymagały przerwania terapii, należały: bezsenność, zawroty głowy, suchość błony śluzowej jamy ustnej, nudności, zwiększone pocenie się, uczucie niecałkowitego opróżnienia pęcherza (dotyczy tylko mężczyzn), zaburzenia odczuwania potrzeby oddawania moczu (dotyczy tylko mężczyzn) i bóle głowy. W badaniach kontrolowanych placebo trwających do 8 tygodni, działania niepożądane zostały zgłoszone u około 80% pacjentów przyjmujących reboksetynę i u około 70% pacjentów przyjmujących placebo. Odsetek pacjentów przyjmujących reboksetynę lub placebo rezygnujących z leczenia z powodu działań niepożądanych wynosił odpowiednio 9% i 5%. Tabela 1. Związane z leczeniem działania niepożądane u pacjentów leczonych reboksetyną w kontrolowanych placebo badaniach klinicznych o okresie trwania ≤8 tygodni Klasyfikacja układów Częstość Działania niepożądane i narządów według MedDRA Zaburzenia metabolizmu Często Brak, utrata lub zmniejszenie apetytu i odżywiania Zaburzenia psychiczne Bardzo często Bezsenność Zaburzenia układu Bardzo często Zawroty głowy nerwowego Często Akatyzja, zaburzenia smaku Zaburzenia oka Często Zaburzenia akomodacji Zaburzenia ucha i błędnika Niezbyt często Zawroty głowy pochodzenia błędnikowego Zaburzenia serca Często Kołatanie serca, tachykardia Zaburzenia naczyniowe Często Rozszerzenie naczyń krwionośnych, niedociśnienie ortostatyczne, niedociśnienie tętnicze Zaburzenia żołądka i jelit Bardzo często Zaparcia, suchość błony śluzowej jamy ustnej Zaburzenia skóry i tkanki Bardzo często Nadmierne pocenie się podskórnej Zaburzenia nerek i dróg Często Zaburzenia odczuwania potrzeby oddawania moczowych moczu, uczucie niecałkowitego opróżnienia pęcherza, zakażenia układu moczowego, bolesne oddawanie moczu, zatrzymanie moczu Zaburzenia układu Często Zaburzenia ejakulacji i erekcji, ból przy rozrodczego i piersi wytrysku, opóźnienie wytrysku, zaburzenia ze strony jąder - przede wszystkim ból jąder Zaburzenia ogólne i stany Często Dreszcze w miejscu podania W trakcie terapii reboksetyną lub niedługo po zaprzestaniu jej stosowania obserwowano przypadki wystąpienia myśli i zachowań samobójczych (patrz punkt 4.4). 6 W celu oceny długoterminowej tolerancji produktu przeprowadzono długoterminowe badanie kontrolowane placebo, w którym wzięło udział 143 pacjentów przyjmujących reboksetynę oraz 140 pacjentów przyjmujących placebo. Podczas terapii długoterminowej nowe działania niepożądane wystąpiły u 30% pacjentów w grupie reboksetyny i u 25% pacjentów w grupie placebo, i spowodowały przerwanie terapii u odpowiednio 4% i 1% chorych. Ryzyko wystąpienia poszczególnych działań niepożądanych było podobne w grupie reboksetyny i placebo. W badaniach długoterminowych nie wystąpiły inne działania niepożądane poza tymi, które opisano w badaniach krótkoterminowych. Jedynym zdarzeniem obserwowanym częściej u pacjentów otrzymujących reboksetynę były zaparcia. W badaniach krótkoterminowych u pacjentów z depresją, częstość działań niepożądanych nie różniła się istotnie u kobiet i u mężczyzn, z wyjątkiem powikłań urologicznych (takich jak: uczucie niecałkowitego opróżnienia pęcherza, zaburzenia odczuwania potrzeby oddawania moczu i częstomocz), które częściej były opisywane u mężczyzn (31,4%[143/456]) niż u kobiet przyjmujących reboksetynę (7%[59/847]). Częstość powikłań urologicznych u pacjentów przyjmujących placebo była natomiast podobna u mężczyzn (5%[15/302]) i kobiet (8,4%[37/440]). W populacji pacjentów w podeszłym wieku całkowita częstość wszystkich działań niepożądanych, jak i częstość poszczególnych działań niepożądanych, nie różniła się od przedstawionej powyżej. W badaniach klinicznych przed wprowadzeniem produktu do obrotu objawy związane z nagłym odstawieniem produktu wystąpiły u 5% pacjentów przyjmujących reboksetynę oraz u 4% pacjentów przyjmujących placebo. Po wprowadzeniu produktu do obrotu zgłoszono kilka spontanicznych raportów dotyczących wystąpienia objawów odstawienia, w tym bólu głowy, zawrotów głowy, nerwowości oraz nudności; ze zgłoszeń tych nie wyłaniał się jednak żaden spójny wzorzec zdarzeń zachodzących po zaprzestaniu leczenia reboksetyną. W tych badaniach krótkoterminowych u pacjentów z depresją, w których mierzono częstość pracy serca za pomocą EKG, stosowanie reboksetyny było związane z przyspieszeniem pracy serca w pozycji stojącej, w porównaniu z placebo, o średnio 6 do 12 uderzeń na minutę. Oprócz tachykardii, u dorosłych pacjentów leczonych reboksetyną nie obserwowano żadnych spójnych zmian w zapisach EKG. We wszystkich badaniach krótkoterminowych u pacjentów z depresją, średnia zmiana częstości pracy serca (wyrażona w uderzeniach na minutę) w grupie leczonych reboksetyną wyniosła 3,0; 6,4 i 2,9 w pozycji stojącej, siedzącej i leżącej na plecach w porównaniu z odpowiednio 0; 0 i 0,5 w tych samych pozycjach u pacjentów przyjmujących placebo. W tych samych badaniach z powodu tachykardii leczenie przerwało 0,8% pacjentów przyjmujących reboksetynę oraz 0,1% pacjentów w grupie placebo. Dane uzyskane po wprowadzeniu produktu leczniczego do obrotu Poniższa tabela zawiera działania niepożądane, które zostały zgłoszone po wprowadzeniu reboksetyny do obrotu. Tabela 2. Działania niepożądane zgłaszane po wprowadzeniu produktu leczniczego do obrotu Klasyfikacja układów Częstość Działania niepożądane i narządów według MedDRA Zaburzenia metabolizmu Nieznana Niedobór sodu we krwi i odżywiania Zaburzenia psychiczne Często Pobudzenie, lęk Nieznana Omamy, agresywne zachowanie 7 Zaburzenia układu Często Parestezje nerwowego Nieznana Zespół serotoninowy Zaburzenia oka Niezbyt Rozszerzenie źrenic często Zaburzenia naczyniowe Często Nadciśnienie tętnicze Nieznana Obwodowe oziębienie, zespół Raynauda Zaburzenia żołądka i jelit Bardzo Nudności często Często Wymioty Zaburzenia układu Nieznana Ból jąder rozrodczego i piersi Zaburzenia skóry i tkanki Nieznana Alergiczne zapalenie skóry, wysypka podskórnej Zaburzenia ogólne i stany Nieznana Drażliwość w miejscu podania Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem: Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu lub przedstawicielowi podmiotu odpowiedzialnego. ",
     "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie U zdrowych ochotników po podaniu doustnym pojedynczej dawki 4 mg reboksetyny maksymalne stężenia, wynoszące około 130 ng/ml, są osiągane po 2 godzinach od przyjęcia produktu. Dane wskazują, że całkowita biodostępność produktu wynosi co najmniej 60%. Dystrybucja Reboksetyna jest dystrybuowana do wszystkich płynów ustrojowych. Reboksetyna wiąże się z białkami osocza w 97% u osób młodych i 92% u pacjentów w podeszłym wieku (z większym powinowactwem do α1 kwaśnej glikoproteiny niż do albuminy) i nie zależy to istotnie od stężenia 9 produktu. Metabolizm i eliminacja Radioaktywność oznaczana w moczu stanowiła 78% dawki. Mimo że w krążeniu ustrojowym dominuje niezmieniona postać produktu (70% całkowitej radioaktywności wyrażanej wartością AUC), to tylko 10% dawki jest wydalane w postaci niezmienionej z moczem. Dowodzi to, że główną drogą wydalania produktu jest biotransformacja, a szybkość wydalania metabolitów jest ograniczona szybkością ich powstawania. Głównymi zidentyfikowanymi szlakami metabolicznymi są 2-O-dealkilacja, hydroksylacja pierścienia etoksyfenolowego oraz oksydacja pierścienia morfolinowego, po czym następuje częściowe lub całkowite sprzęganie z kwasem glukuronowym lub grupą sulfonową. Produkt dostępny jest w postaci mieszaniny racemicznej (obydwa enancjomery są aktywne w modelach doświadczalnych). Nie obserwowano inwersji chiralnej ani wzajemnych oddziaływań farmakokinetycznych między enancjomerami. Stężenia silniejszej izoformy SS w osoczu są dwa razy mniejsze, a wydalanie wraz z moczem dwukrotnie większe w porównaniu do drugiego enancjomeru. Nie obserwowano istotnych różnic w okresach półtrwania obydwu enancjomerów. U pacjentów z niewydolnością nerek lub wątroby obserwuje się zwiększenie ekspozycji układowej na produkt oraz dwukrotne wydłużenie okresu półtrwania. Podobne lub nieco większe (3-krotne) zwiększenie ekspozycji obserwuje się u pacjentów w podeszłym wieku w porównaniu do młodych, zdrowych ochotników. Liniowość lub nieliniowość Stężenia reboksetyny w surowicy zmniejszają się wykładniczo, a okres półtrwania produktu wynosi około 13 godzin. Stan stacjonarny zostaje osiągnięty w ciągu 5 dni. Liniową farmakokinetykę wykazano po zastosowaniu pojedynczych doustnych zalecanych klinicznie dawek produktu. Zależności farmakokinetyczno-farmakodynamiczne In vitro reboksetyna jest metabolizowana głównie przez CYP3A4. Badania in vitro wykazały, że reboksetyna nie hamuje aktywności następujących izoenzymów cytochromu P450: CYP1A2, CYP2C9, CYP2C19 i CYP2E1. Reboksetyna hamuje zarówno CYP2D6 jak i CYP3A4, jednak powinowactwo do tych układów jest małe i w badaniach in vivo nie obserwowano wpływu na metabolizm leków metabolizowanych przez te układy enzymatyczne. Należy zachować ostrożność podczas jednoczesnego stosowania reboksetyny i silnych inhibitorów CYP3A4. "
    },
-   "punkty_uciete": [],
    "punkty_nieznalezione": [],
-   "klucz_rpl": {
-    "postac": [
-     "Tabletki"
-    ],
-    "nazwa_powszechna": [
-     "Reboxetinum"
-    ],
-    "atc": [
-     "N06AX18"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
+   "punkty_odrzucone": {},
+   "punkty_uciete": [
+    "4.4"
+   ],
+   "sha256_pdf": "9559d8a9b72504ca6de1e0b5ef6b0a428220edf8f21211034755a0b09c05ff82",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9832/characteristic"
   }
- ]
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "reboksetyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
 }
