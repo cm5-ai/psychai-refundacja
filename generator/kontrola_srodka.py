@@ -19,12 +19,21 @@ S1 OBCY NAGLOWEK W SRODKU. Naglowek sekcji ChPL jest ustalony prawem:
 S2 URWANIE NA ODSYLACZU. Tekst konczy sie na "patrz", "(patrz punkt".
 S3 SMIECI PRZED NAGLOWKIEM. Tekst zaczyna sie od malej litery albo od
    znaku interpunkcyjnego - poczatek jest w srodku cudzego zdania.
-S4 NAKLADANIE SIE PUNKTOW. Dwa punkty tej samej etykiety maja wspolny
-   fragment 200 znakow. Sekcje ChPL sa rozlaczne. Porownanie DOSLOWNE,
-   bez progu podobienstwa (3B).
+S4 PODEJRZENIE_PRZECIEKU. Dwa punkty tej samej etykiety maja wspolny
+   DOSLOWNY fragment 200 znakow. AUDYT, NIE SYGNAL: sprawdzone na wszystkich
+   20 parach - fragment lezy w SRODKU obu punktow, ani razu na szwie
+   koniec-A / poczatek-B. Grok potwierdzil, ze ChPL sertraliny powtarza
+   akapit o IMAO i pimozydzie w 4.3 i w 4.5. Nawet polozenie na szwie nie
+   byloby dowodem: legalnie powtorzony akapit moze wypasc na koncu 4.4
+   i poczatku 4.5 (kontrprzyklad GPT).
 S5 BRAK FRAZY OBOWIAZKOWEJ. 4.3 zawiera "nadwrazliwo", 4.6 "ciaz",
    5.2 opis wchlaniania albo metabolizmu. Brak = sygnal, nie dowod.
-S6 BILANS. N_WEJSCIE = N_CZYSTE + N_Z_SYGNALEM, identyfikatory zachowane.
+S6 BILANS. N_WEJSCIE = N_BEZ_WYKRYTEJ_ANOMALII + N_Z_SYGNALEM, identyfikatory zachowane.
+
+NAZWA WYNIKU MA ZNACZENIE (uwaga GPT 2026-09-23). Przejscie testow NIE
+znaczy KOMPLETNY, tylko BRAK_WYKRYTEJ_ANOMALII. Punkt, z ktorego wyciety
+zostal gladko kawalek srodka - poczatek dobry, koniec dobry, tekst plynny -
+nie zostawia sladu na samym tekscie i nie wykryje go zaden z tych testow.
 
 KIERUNEK BLEDU. Falszywy alarm kosztuje jedno zajrzenie do ChPL. Falszywe
 "czysty" moze kosztowac pacjenta. Decyzje o kwarantannie podejmuje osobny
@@ -133,7 +142,7 @@ def s5_brak_frazy(numer, t):
 
 
 def main():
-    r = {"data": "2026-09-23", "N_WEJSCIE": 0, "N_CZYSTE": 0, "N_Z_SYGNALEM": 0,
+    r = {"data": "2026-09-23", "N_WEJSCIE": 0, "N_BEZ_WYKRYTEJ_ANOMALII": 0, "N_Z_SYGNALEM": 0,
          "S1_obcy_naglowek": [], "S2_urwanie_na_odsylaczu": [],
          "S3_smieci_przed_naglowkiem": [], "S4_nakladanie": [], "S5_brak_frazy": [], "S6_start_w_odsylaczu": []}
     for f in sorted(glob.glob(os.path.join(KAT, "*.json"))):
@@ -172,13 +181,13 @@ def main():
                 if s5_brak_frazy(k, t):
                     r["S5_brak_frazy"].append("%s pkt %s (%d znakow)" % (et, k, len(t)))
                     sygnal = True
-                r["N_Z_SYGNALEM" if sygnal else "N_CZYSTE"] += 1
+                r["N_Z_SYGNALEM" if sygnal else "N_BEZ_WYKRYTEJ_ANOMALII"] += 1
 
-    assert r["N_WEJSCIE"] == r["N_CZYSTE"] + r["N_Z_SYGNALEM"], "BILANS FAIL"
+    assert r["N_WEJSCIE"] == r["N_BEZ_WYKRYTEJ_ANOMALII"] + r["N_Z_SYGNALEM"], "BILANS FAIL"
     out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "RAPORT_KONTROLA_SRODKA.json")
     json.dump(r, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print("N_WEJSCIE %d = N_CZYSTE %d + N_Z_SYGNALEM %d"
-          % (r["N_WEJSCIE"], r["N_CZYSTE"], r["N_Z_SYGNALEM"]))
+    print("N_WEJSCIE %d = N_BEZ_WYKRYTEJ_ANOMALII %d + N_Z_SYGNALEM %d"
+          % (r["N_WEJSCIE"], r["N_BEZ_WYKRYTEJ_ANOMALII"], r["N_Z_SYGNALEM"]))
     for k in ("S1_obcy_naglowek", "S2_urwanie_na_odsylaczu", "S3_smieci_przed_naglowkiem",
               "S4_nakladanie", "S5_brak_frazy", "S6_start_w_odsylaczu"):
         print("%-28s %4d" % (k, len(r[k])))
