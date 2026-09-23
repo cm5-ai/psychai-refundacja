@@ -1,0 +1,27 @@
+{
+ "data": "2026-09-23",
+ "po_co": "Zestaw przypadkow o ZNANEJ prawidlowej odpowiedzi, zweryfikowanych w rejestrze przez recenzenta zewnetrznego. Kazda przyszla poprawka ekstraktora MUSI byc na nich przetestowana ZANIM nadpisze cache. Bez takiego zestawu naprawa ekstraktora jest niesprawdzalna.",
+ "ograniczenie": "Zrodlem jest streszczenie recenzenta, nie odczyt runtime. Nie uzywac jako pinu ChPL przy pacjencie.",
+ "przypadki": [
+  {"substancja": "lurazydon", "produkty": ["Lurasidone Teva", "Alurazen", "Asil"],
+   "punkt": "4.3", "blad": "PODSTAWIENIE_OBCEJ_SEKCJI",
+   "co_bylo": "tekst o zamianie leku przeciwpsychotycznego, pochodzacy z konca punktu 4.2",
+   "czego_oczekiwac_po_naprawie": "4.3 zawiera jednoczesne stosowanie z silnymi inhibitorami i silnymi induktorami CYP3A4 jako przeciwwskazanie",
+   "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48287/characteristic"},
+  {"substancja": "sulpiryd", "produkty": ["Sulpiryd Teva"],
+   "punkt": "4.6", "blad": "START_W_SRODKU_ODSYLACZA",
+   "co_bylo": "sam tytul sekcji i nawias zamykajacy, zero tresci",
+   "czego_oczekiwac_po_naprawie": "4.6 biegnie od naglowka ciaza/laktacja do 4.7 i obejmuje ciaze, ryzyko objawow u noworodka po ekspozycji w III trymestrze oraz karmienie piersia",
+   "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1132/characteristic"},
+  {"substancja": "fluoksetyna", "produkty": ["Andepin"],
+   "punkt": "4.5", "blad": "GLEBOKIE_UCIECIE_PRAWIDLOWO_ROZPOCZETEJ_SEKCJI",
+   "co_bylo": "179 znakow; ten sam punkt u Bioxetin 7193 znakow, u EGIS 7245",
+   "czego_oczekiwac_po_naprawie": "sekcja zaczyna sie od interakcji z inhibitorami MAO i biegnie przez liczne interakcje, w tym CYP2D6, az do 4.6; IMAO sa w niej jawnie obecne",
+   "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12369/characteristic"},
+  {"substancja": "walproinian", "produkty": ["Absenor", "Convival Chrono"],
+   "punkt": "4.3", "blad": "BRAK_BLEDU_WYCIAGU",
+   "co_bylo": "rozne listy przeciwwskazan miedzy produktami - podejrzenie, ze to artefakt",
+   "czego_oczekiwac_po_naprawie": "roznica jest PRAWDZIWA: Absenor wymienia nadwrazliwosc na orzeszki ziemne i soje oraz inaczej sformulowane przeciwwskazania watrobowe, Convival Chrono wymienia jednoczesna meflochine. Convulex niezweryfikowany - endpoint niedostepny.",
+   "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16807/characteristic"}
+ ]
+}
