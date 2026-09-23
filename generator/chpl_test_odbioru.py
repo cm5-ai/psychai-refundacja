@@ -72,14 +72,25 @@ for nazwa, v in subs.items():
         for _k in nz:
             ostrzezenia.append(f"T5b {etykieta}: punkt {_k} ma tresc innego punktu - "
                                f"KARANTANNA, nie cytowac")
-        OCZEK = {"4.1": "wskazania", "4.2": "dawkowanie", "4.3": "przeciwwskazania",
-                 "4.4": "ostrzeżenia", "4.5": "interakcje", "4.6": "wpływ na płodność",
-                 "4.8": "działania niepożądane", "5.2": "właściwości farmakokinetyczne"}
-        for _k, _slowo in OCZEK.items():
+        # KANON, NIE JEDNO SLOWO. Naglowek 4.6 ma kilka legalnych redakcji
+        # ("Wplyw na ciaze i laktacje", "Plodnosc, ciaza i laktacja",
+        # "Ciaza, karmienie piersia i wplyw na plodnosc"). Test na jedno
+        # literalne slowo odrzucal poprawne etykiety - Lamitrin i Serdolect.
+        # Nieznany wariant = BLAD do obejrzenia, nie cicha zgoda.
+        OCZEK = {"4.1": ["wskazania"], "4.2": ["dawkowanie"],
+                 "4.3": ["przeciwwskazania"],
+                 "4.4": ["ostrzeżenia"], "4.5": ["interakcje"],
+                 "4.6": ["wpływ na płodność", "wpływ na ciążę", "płodność, ciąża",
+                         "ciąża, karmienie piersią", "ciąża i laktacja",
+                         "ciąża i karmienie"],
+                 "4.8": ["działania niepożądane"],
+                 "5.2": ["właściwości farmakokinetyczne"]}
+        for _k, _slowa in OCZEK.items():
             _t = " ".join((p["punkty"].get(_k) or "").split())
-            if _t and _slowo not in _t[:90].lower() and _k not in nz:
-                bledy.append(f"T5b {etykieta}: punkt {_k} nie ma w naglowku slowa "
-                             f"'{_slowo}' i NIE jest oznaczony jako niezgodny")
+            if _t and _k not in nz and not any(w in _t[:90].lower() for w in _slowa):
+                bledy.append(f"T5b {etykieta}: punkt {_k} nie ma w naglowku zadnego "
+                             f"z kanonicznych wariantow {_slowa} i NIE jest oznaczony "
+                             f"jako niezgodny")
 
         # T6. Uciecia.
         uc = p.get("punkty_uciete")
