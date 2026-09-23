@@ -1,10 +1,10 @@
 # Komunikaty bezpieczeństwa — leki psychiatryczne (RPL)
 
-Stan RPL: 2026-09-22
+Stan RPL: 2026-09-23
 
 Brak nowych komunikatów od poprzedniego spisu.
 
-## Wszystkie produkty z komunikatami (149)
+## Wszystkie produkty z komunikatami (147)
 
 - Convulex (Acidum valproicum, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/1569/file/1 - Komunikaty bezpieczeństwa
 - Convulex 150 (Acidum valproicum, 150 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/24812/file/1 - Komunikaty bezpieczeństwa
@@ -107,8 +107,6 @@ Brak nowych komunikatów od poprzedniego spisu.
 - Pralex (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/27425/file/1 - Komunikaty bezpieczeństwa
 - Pramatis (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/25426/file/1 - Komunikaty bezpieczeństwa
 - Pramatis (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/25429/file/1 - Komunikaty bezpieczeństwa
-- Symescital (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28625/file/1 - Komunikaty bezpieczeństwa
-- Symescital (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28624/file/1 - Komunikaty bezpieczeństwa
 - Absenor (Natrii valproas, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16807/file/1 - Komunikaty bezpieczeństwa
 - Absenor (Natrii valproas, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16898/file/1 - Komunikaty bezpieczeństwa
 - Convival Chrono (Natrii valproas, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/41304/file/1 - Komunikaty bezpieczeństwa

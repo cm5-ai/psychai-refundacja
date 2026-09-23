@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-09-22",
-  "sha256_zrodla": "263fdd3faf3430fe365f27aab373e07185f97d7b5a6f7df5b4b684b6b887774c",
+  "stan_na_dzien": "2026-09-23",
+  "sha256_zrodla": "96df0ceff6a71c038c91e70e18861a197607d9eb9578ef2ee234ee39043ba26f",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -12,19 +12,22 @@
    "N02BF",
    "N02AE01",
    "C02AC02",
-   "R06AD02"
+   "R06AD02",
+   "N04AA",
+   "N04BB",
+   "C07AA05"
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2465,
-  "opakowania": 8975,
+  "produkty": 2493,
+  "opakowania": 9029,
   "bledy_parsowania_opakowan": 0,
-  "opakowania_bez_gtin": 1060,
+  "opakowania_bez_gtin": 1062,
   "opakowania_ze_statusem": {
-   "Skasowane": 332
+   "Skasowane": 334
   },
   "odczyt_kontrolny": 0,
-  "komunikaty_produkty": 149,
+  "komunikaty_produkty": 147,
   "nowe_komunikaty": 0
  },
  "produkty": [
@@ -6708,6 +6711,502 @@
      "pozwolenie_eu": null,
      "id_opakowania": "152707",
      "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100070658",
+   "nazwa": "Viregyt-K",
+   "nazwa_powszechna": "Amantadini hydrochloridum",
+   "substancja": "Amantadini hydrochloridum 100 mg",
+   "moc": "100 mg",
+   "postac": "Kapsułki",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Egis Pharmaceuticals PLC",
+   "pozwolenie": "03209",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7065/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7065/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": null,
+     "kategoria": "Rp",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "10624",
+     "opis": "250 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990320912",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "46997",
+     "opis": "50 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05995327184944",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "142652",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100463870",
+   "nazwa": "Viregyt-K",
+   "nazwa_powszechna": "Amantadini hydrochloridum",
+   "substancja": "Amantadini hydrochloridum 100 mg",
+   "moc": "100 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "67/22",
+   "waznosc_pozwolenia": "2027-02-02",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991475451",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "143620",
+     "opis": "50 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100466588",
+   "nazwa": "Viregyt-K",
+   "nazwa_powszechna": "Amantadini hydrochloridum",
+   "substancja": "Amantadini hydrochloridum 100 mg",
+   "moc": "100 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "156/22",
+   "waznosc_pozwolenia": "2027-04-04",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991479367",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "144354",
+     "opis": "50 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100479417",
+   "nazwa": "Viregyt-K",
+   "nazwa_powszechna": "Amantadini hydrochloridum",
+   "substancja": "Amantadini hydrochloridum 100 mg",
+   "moc": "100 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "012/23",
+   "waznosc_pozwolenia": "2028-01-24",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991507183",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "148754",
+     "opis": "50 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100489213",
+   "nazwa": "Viregyt-K",
+   "nazwa_powszechna": "Amantadini hydrochloridum",
+   "substancja": "Amantadini hydrochloridum 100 mg",
+   "moc": "100 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "241/23",
+   "waznosc_pozwolenia": "2028-10-23",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991524517",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "151802",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100218629",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Merz Pharmaceuticals GmbH",
+   "pozwolenie": "16179",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21862/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21862/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990742905",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "54315",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990742929",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "54316",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100459040",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "399/21",
+   "waznosc_pozwolenia": "2026-10-21",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991467791",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "142207",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991467807",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "142208",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100468830",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "213/22",
+   "waznosc_pozwolenia": "2027-05-18",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991483777",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "145086",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991483784",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "145087",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100480921",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "040/23",
+   "waznosc_pozwolenia": "2028-03-09",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991509507",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "149214",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100486726",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Medezin Sp. z o.o.",
+   "pozwolenie": "161/23",
+   "waznosc_pozwolenia": "2028-08-16",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991519513",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "150977",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991519520",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "150978",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100519414",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Medezin Sp. z o.o.",
+   "pozwolenie": "185/25",
+   "waznosc_pozwolenia": "2030-05-23",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991576264",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "162216",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991576271",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "162217",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100538184",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "188/26",
+   "waznosc_pozwolenia": "2031-05-11",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991601232",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "167057",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991601249",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "167058",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100543625",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas/100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Allpharm Sp. z o.o. sp.k.",
+   "pozwolenie": "293/26",
+   "waznosc_pozwolenia": "2031-08-10",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991607517",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168137",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100246637",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 200 mg/500 ml",
+   "moc": "200 mg/500 ml",
+   "postac": "Roztwór do infuzji",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Merz Pharmaceuticals GmbH",
+   "pozwolenie": "08057",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24663/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24663/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990805716",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "89",
+     "opis": "2 butelki 500 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990805723",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "90",
+     "opis": "10 butelek 500 ml",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -17071,6 +17570,297 @@
      "pozwolenie_eu": null,
      "id_opakowania": "130722",
      "opis": "56 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100003395",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni hydrochloridum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "Desma GmbH",
+   "pozwolenie": "01932",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/339/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/339/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990193219",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "554",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": null,
+     "kategoria": "Rp",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "555",
+     "opis": "250 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100240416",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "",
+   "moc": "2 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "19/07",
+   "waznosc_pozwolenia": "2027-05-04",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990501892",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "64061",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100340997",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni hydrochloridum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "166/15",
+   "waznosc_pozwolenia": "2025-04-08",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991216405",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "107790",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100366175",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni hydrochloridum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "111/16",
+   "waznosc_pozwolenia": "2026-03-02",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991265762",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "114571",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100446945",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni hydrochloridum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "33/21",
+   "waznosc_pozwolenia": "2026-01-28",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991447311",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "139115",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100451039",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni hydrochloridum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "Medezin Sp. z o.o.",
+   "pozwolenie": "137/21",
+   "waznosc_pozwolenia": "2026-04-23",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991452841",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "140049",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100464388",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni hydrochloridum 2 mg",
+   "moc": "2 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "91/22",
+   "waznosc_pozwolenia": "2027-02-16",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991476670",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "143798",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100003389",
+   "nazwa": "Akineton",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni lactas 5 mg",
+   "moc": "5 mg/ml",
+   "postac": "Roztwór do wstrzykiwań",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "Desma GmbH",
+   "pozwolenie": "03716",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/338/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/338/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990371617",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "553",
+     "opis": "5 amp. 1 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100102660",
+   "nazwa": "Akineton SR 4 mg",
+   "nazwa_powszechna": "Biperideni hydrochloridum",
+   "substancja": "Biperideni hydrochloridum 4 mg",
+   "moc": "4 mg",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
+   "atc": [
+    "N04AA02"
+   ],
+   "podmiot": "Desma GmbH",
+   "pozwolenie": "08842",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10266/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10266/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990884216",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "17728",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990884223",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "17729",
+     "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990884230",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "17730",
+     "opis": "100 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -46711,120 +47501,6 @@
    ]
   },
   {
-   "id": "100286252",
-   "nazwa": "Symescital",
-   "nazwa_powszechna": "Escitalopramum",
-   "substancja": "Escitalopramum 10 mg",
-   "moc": "10 mg",
-   "postac": "Tabletki powlekane",
-   "atc": [
-    "N06AB10"
-   ],
-   "podmiot": "Symphar Sp. z o.o.",
-   "pozwolenie": "20530",
-   "waznosc_pozwolenia": "2023-09-22",
-   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28625/characteristic",
-   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28625/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28625/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
-   "opakowania": [
-    {
-     "gtin": "05909991008932",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79400",
-     "opis": "20 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008949",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79401",
-     "opis": "28 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008956",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79402",
-     "opis": "30 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008963",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79403",
-     "opis": "50 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008970",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79404",
-     "opis": "56 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008987",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79405",
-     "opis": "84 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008994",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79406",
-     "opis": "90 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991009007",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79407",
-     "opis": "98 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991009021",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79408",
-     "opis": "100 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100460191",
    "nazwa": "Symescital",
    "nazwa_powszechna": "Escitalopramum",
@@ -46878,120 +47554,6 @@
      "pozwolenie_eu": null,
      "id_opakowania": "149522",
      "opis": "98 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100286246",
-   "nazwa": "Symescital",
-   "nazwa_powszechna": "Escitalopramum",
-   "substancja": "Escitalopramum 5 mg",
-   "moc": "5 mg",
-   "postac": "Tabletki powlekane",
-   "atc": [
-    "N06AB10"
-   ],
-   "podmiot": "Symphar Sp. z o.o.",
-   "pozwolenie": "20529",
-   "waznosc_pozwolenia": "2023-09-22",
-   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28624/characteristic",
-   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28624/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28624/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
-   "opakowania": [
-    {
-     "gtin": "05909991008833",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79391",
-     "opis": "20 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008840",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79392",
-     "opis": "28 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008857",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79393",
-     "opis": "30 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008864",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79394",
-     "opis": "50 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008871",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79395",
-     "opis": "56 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008888",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79396",
-     "opis": "84 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008895",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79397",
-     "opis": "90 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008901",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79398",
-     "opis": "98 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991008925",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "79399",
-     "opis": "100 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -82697,7 +83259,7 @@
    "id": "100163549",
    "nazwa": "ValproLEK 300",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Natrii valproas + Acidum valproicum",
+   "substancja": "Acidum valproicum + Natrii valproas",
    "moc": "300 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
@@ -109652,6 +110214,509 @@
      "pozwolenie_eu": null,
      "id_opakowania": "53406",
      "opis": "1 butelka 150 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100141393",
+   "nazwa": "Propranolol Accord",
+   "nazwa_powszechna": "Propranololi hydrochloridum",
+   "substancja": "Propranololi hydrochloridum 10 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "C07AA05"
+   ],
+   "podmiot": "Accord Healthcare Polska Sp. z o.o.",
+   "pozwolenie": "20799",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14139/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14139/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991033477",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "15456",
+     "opis": "25 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033484",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "15645",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033491",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "16274",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033507",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "16570",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033521",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "16981",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033538",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "19316",
+     "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033545",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "19546",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033552",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "21513",
+     "opis": "250 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100141861",
+   "nazwa": "Propranolol Accord",
+   "nazwa_powszechna": "Propranololi hydrochloridum",
+   "substancja": "Propranololi hydrochloridum 40 mg",
+   "moc": "40 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "C07AA05"
+   ],
+   "podmiot": "Accord Healthcare Polska Sp. z o.o.",
+   "pozwolenie": "20800",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14186/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14186/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991033569",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "21524",
+     "opis": "25 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033576",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "21563",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033583",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "21570",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033590",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "21616",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033606",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "22511",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033620",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "22561",
+     "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033637",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "22701",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991033644",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "23331",
+     "opis": "250 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100407483",
+   "nazwa": "Propranolol Aurovitas",
+   "nazwa_powszechna": "Propranololi hydrochloridum",
+   "substancja": "Propranololi hydrochloridum 10 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "C07AA05"
+   ],
+   "podmiot": "Aurovitas Pharma Polska Sp. z o.o.",
+   "pozwolenie": "25783",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40748/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40748/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991425531",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135611",
+     "opis": "20 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425548",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135612",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425555",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135613",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425562",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135614",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425579",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135615",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425586",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135616",
+     "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425593",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135617",
+     "opis": "90 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425609",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135618",
+     "opis": "98 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425616",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135619",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100407490",
+   "nazwa": "Propranolol Aurovitas",
+   "nazwa_powszechna": "Propranololi hydrochloridum",
+   "substancja": "Propranololi hydrochloridum 40 mg",
+   "moc": "40 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "C07AA05"
+   ],
+   "podmiot": "Aurovitas Pharma Polska Sp. z o.o.",
+   "pozwolenie": "25784",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40749/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40749/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991425654",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135623",
+     "opis": "20 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425661",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135624",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425678",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135625",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425685",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135626",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425692",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135627",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425708",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135628",
+     "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425715",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135629",
+     "opis": "90 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425722",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135630",
+     "opis": "98 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991425739",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "135631",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100055831",
+   "nazwa": "Propranolol WZF",
+   "nazwa_powszechna": "Propranololi hydrochloridum",
+   "substancja": "Propranololi hydrochloridum 10 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "C07AA05"
+   ],
+   "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
+   "pozwolenie": "01121",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5583/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5583/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990112111",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "8364",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100055854",
+   "nazwa": "Propranolol WZF",
+   "nazwa_powszechna": "Propranololi hydrochloridum",
+   "substancja": "Propranololi hydrochloridum 40 mg",
+   "moc": "40 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "C07AA05"
+   ],
+   "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
+   "pozwolenie": "01122",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5585/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5585/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990112210",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "8366",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100323088",
+   "nazwa": "Hemangiol",
+   "nazwa_powszechna": "Propranololum",
+   "substancja": "Propranololi hydrochloridum 4.28 mg",
+   "moc": "3,75 mg/ml",
+   "postac": "Roztwór doustny",
+   "atc": [
+    "C07AA05"
+   ],
+   "podmiot": "Pierre Fabre Medicament",
+   "pozwolenie": "",
+   "waznosc_pozwolenia": "",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991140991",
+     "kategoria": "Rpz",
+     "status": null,
+     "pozwolenie_eu": "EU/1/14/919/001",
+     "id_opakowania": "103036",
+     "opis": "1 butelka 120 ml",
      "refundacja_A1": null,
      "refundacja_LP": null
     }

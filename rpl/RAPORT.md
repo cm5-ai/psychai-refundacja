@@ -1,10 +1,10 @@
 # Spis RPL — leki psychiatryczne
 
-Stan RPL: 2026-09-22  
-Produkty: 2465, opakowania: 8975 (bez GTIN: 1060), błędy odczytu: 0, odczyt kontrolny: 0  
-Statusy opakowań: {'Skasowane': 332}  
+Stan RPL: 2026-09-23  
+Produkty: 2493, opakowania: 9029 (bez GTIN: 1062), błędy odczytu: 0, odczyt kontrolny: 0  
+Statusy opakowań: {'Skasowane': 334}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `25a680cf0556c612e46a04e674c31caf2e07a815872e0d8182e178a220fc43f9`
+sha256 spisu: `58a1c520db383d6731c52f0b324abd46750626e4237631a92a5fbb225395ee31`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
@@ -19,11 +19,14 @@ sha256 spisu: `25a680cf0556c612e46a04e674c31caf2e07a815872e0d8182e178a220fc43f9`
 - **Acidum valproicum**: Kapsułki dojelitowe miękkie: 500 mg; Kapsułki miękkie: 150 mg, 300 mg, 500 mg
 - **Agomelatinum**: Tabletki powlekane: 25 mg
 - **Alprazolamum**: Tabletki: 0,25 mg, 0,5 mg, 1 mg, 2 mg, 250 mcg, 500 mcg; Tabletki o przedłużonym uwalnianiu: 0,5 mg, 1 mg, 2 mg; Tabletki o zmodyfikowanym uwalnianiu: 0,5 mg, 1 mg
+- **Amantadini hydrochloridum**: Kapsułki: 100 mg; Kapsułki twarde: 100 mg
+- **Amantadini sulfas**: Roztwór do infuzji: 200 mg/500 ml; Tabletki powlekane: 100 mg
 - **Amisulpridum**: Tabletki: 100 mg, 200 mg, 400 mg, 50 mg; Tabletki powlekane: 400 mg
 - **Amitriptylini hydrochloridum**: Tabletki powlekane: 10 mg, 25 mg
 - **Aripiprazolum**: Kapsułki twarde: 10 mg, 15 mg, 5 mg; Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu: 300 mg, 400 mg; Roztwór do wstrzykiwań: 7,5 mg/ml; Roztwór doustny: 1 mg/ml; Tabletki: 10 mg, 15 mg, 2,5 mg, 20 mg, 30 mg, 5 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 15 mg, 30 mg; Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce: 720 mg, 960 mg
 - **Asenapinum**: Tabletki podjęzykowe: 10 mg, 5 mg
 - **Atomoxetinum**: Kapsułki twarde: 10 mg, 100 mg, 18 mg, 25 mg, 40 mg, 60 mg, 80 mg; Tabletki powlekane: 10 mg, 18 mg, 25 mg, 40 mg
+- **Biperideni hydrochloridum**: Roztwór do wstrzykiwań: 5 mg/ml; Tabletki: 2 mg; Tabletki o przedłużonym uwalnianiu: 4 mg
 - **Brexpiprazolum**: Tabletki powlekane: 0,25 mg, 0,5 mg, 1 mg, 2 mg, 3 mg, 4 mg
 - **Brivaracetamum**: Roztwór do wstrzykiwań / do infuzji: 10 mg/ml; Roztwór doustny: 10 mg/ml; Tabletki powlekane: 10 mg, 100 mg, 25 mg, 50 mg, 75 mg
 - **Bromazepamum**: Kapsułki twarde: 3 mg, 6 mg; Tabletki: 3 mg, 6 mg
@@ -141,6 +144,8 @@ sha256 spisu: `25a680cf0556c612e46a04e674c31caf2e07a815872e0d8182e178a220fc43f9`
 - **Prochlorperazini  dimaleas**: Tabletki: 10 mg
 - **Promazini hydrochloridum**: Tabletki drażowane: 100 mg, 25 mg, 50 mg; Tabletki powlekane: 100 mg, 25 mg, 50 mg
 - **Promethazini hydrochloridum**: Syrop: 5 mg/5 ml; Tabletki drażowane: 10 mg, 25 mg
+- **Propranololi hydrochloridum**: Tabletki: 10 mg, 40 mg; Tabletki powlekane: 10 mg, 40 mg
+- **Propranololum**: Roztwór doustny: 3,75 mg/ml
 - **Quetiapinum**: Tabletki o przedłużonym uwalnianiu: 150 mg, 200 mg, 300 mg, 400 mg, 50 mg, 600 mg; Tabletki powlekane: 100 mg, 150 mg, 200 mg, 25 mg, 300 mg; Zawiesina doustna: 25 mg/ml
 - **Reboxetinum**: Tabletki: 4 mg
 - **Remimazolamum**: Proszek do sporządzania koncentratu roztworu do wstrzykiwań lub infuzji: 50 mg; Proszek do sporządzania roztworu do wstrzykiwań: 20 mg
