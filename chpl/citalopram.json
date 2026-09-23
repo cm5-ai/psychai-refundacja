@@ -107,6 +107,16 @@
      "N06AB04"
     ],
     "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.4",
+     "4.5"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
    }
   }
  ]

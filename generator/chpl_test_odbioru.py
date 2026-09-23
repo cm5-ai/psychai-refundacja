@@ -62,6 +62,25 @@ for nazwa, v in subs.items():
         if p.get("stan") != "OK":
             ostrzezenia.append(f"T5 {etykieta}: stan {p.get('stan')}")
             continue
+        # T5b. NAGLOWEK PUNKTU MUSI ODPOWIADAC JEGO NUMEROWI.
+        # 2026-09-23: 42 z 1496 punktow nioslo tresc INNEGO punktu, a test
+        # odbioru tego nie widzial - sprawdzal uciecia i sha, nie tozsamosc
+        # sekcji. Lurazydon mial w 4.3 tekst o zamianie leku przeciwpsycho-
+        # tycznego zamiast przeciwwskazan. Wyciag zakotwiczal sie na
+        # odsylaczu "patrz punkt 4.5." wewnatrz tekstu.
+        nz = (p.get("NAGLOWEK_NIEZGODNY") or {}).get("punkty") or []
+        for _k in nz:
+            ostrzezenia.append(f"T5b {etykieta}: punkt {_k} ma tresc innego punktu - "
+                               f"KARANTANNA, nie cytowac")
+        OCZEK = {"4.1": "wskazania", "4.2": "dawkowanie", "4.3": "przeciwwskazania",
+                 "4.4": "ostrzeżenia", "4.5": "interakcje", "4.6": "wpływ na płodność",
+                 "4.8": "działania niepożądane", "5.2": "właściwości farmakokinetyczne"}
+        for _k, _slowo in OCZEK.items():
+            _t = " ".join((p["punkty"].get(_k) or "").split())
+            if _t and _slowo not in _t[:90].lower() and _k not in nz:
+                bledy.append(f"T5b {etykieta}: punkt {_k} nie ma w naglowku slowa "
+                             f"'{_slowo}' i NIE jest oznaczony jako niezgodny")
+
         # T6. Uciecia.
         uc = p.get("punkty_uciete")
         if uc is None:
