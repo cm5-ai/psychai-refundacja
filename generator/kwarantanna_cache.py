@@ -32,6 +32,7 @@ import json, glob, os, sys, datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import polityka
+import kontrola_srodka
 
 DZIS = "2026-09-23"
 KONCE = ('.', ':', ';', ')', '%', '"', '”', '?', '!', ']')
@@ -52,9 +53,20 @@ def urwany(t):
 
 
 def obce(produkt):
-    """Punkty oznaczone wczesniej jako niosace tresc innego punktu."""
+    """Punkty niosace tresc INNEGO punktu - dwa niezalezne zrodla.
+
+    1. NAGLOWEK_NIEZGODNY - brak slowa naglowkowego na poczatku punktu.
+    2. S6 z kontrola_srodka - punkt zaczyna sie w srodku odsylacza
+       "(patrz punkt 4.8 Dzialania niepozadane)", wiec ma poprawny tytul,
+       ale tresc nalezy do sekcji, w ktorej stal odsylacz. Kontrola nr 1
+       tego NIE lapie, bo tytul sie zgadza.
+    """
     nk = produkt.get("NAGLOWEK_NIEZGODNY") or {}
-    return sorted(nk.get("punkty") or [])
+    out = set(nk.get("punkty") or [])
+    for k, v in (produkt.get("punkty") or {}).items():
+        if kontrola_srodka.s6_zaczyna_sie_w_odsylaczu(" ".join((v or "").split())):
+            out.add(k)
+    return sorted(out)
 
 
 def przetworz(d, sucho):
@@ -109,8 +121,12 @@ def przetworz(d, sucho):
                 uc.append(k)
         p["punkty_uciete"] = sorted(uc)
 
-        p["KWARANTANNA"] = {"data": DZIS, "odrzucone": sorted(do_usuniecia),
-                            "uciete": sorted(do_uciecia), "powod_urwania": POWOD_URWANY}
+        stara = p.get("KWARANTANNA") or {}
+        p["KWARANTANNA"] = {
+            "data": DZIS,
+            "odrzucone": sorted(set(stara.get("odrzucone") or []) | set(do_usuniecia)),
+            "uciete": sorted(set(stara.get("uciete") or []) | set(do_uciecia)),
+            "powod_urwania": POWOD_URWANY}
     return zmiany
 
 
