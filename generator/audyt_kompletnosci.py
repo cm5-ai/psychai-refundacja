@@ -102,7 +102,8 @@ def main():
     # Ukosnik nie jest cecha sekcji, tylko cecha zapisu nazwy. Lista musi byc
     # wymieniona, nie zgadywana; nowa sekcja ma byc tu dopisana recznie.
     NAZWY_SEKCJI = {"SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "PRZECIWPSYCHOTYCZNE",
-                    "TCA / STARSZE", "STABILIZATORY / PRZECIWDRGAWKOWE",
+                    "TCA / STARSZE", "STABILIZATORY NASTROJU", "GABAPENTYNOIDY",
+                    "PRZECIWPADACZKOWE W UZYCIU PSYCHIATRYCZNYM",
                     "BENZODIAZEPINY", "LEKI Z / NASENNE NIEBENZODIAZEPINOWE",
                     "ANKSJOLITYKI I NASENNE NIE-BZD",
                     "PSYCHOSTYMULANTY I ADHD",

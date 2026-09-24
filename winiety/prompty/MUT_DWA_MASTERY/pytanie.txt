@@ -21,8 +21,8 @@ Przy prostym pytaniu klinicznym nie czytaj nic — odpowiedz.
 =====================================================================
 STAN PACZKI
 =====================================================================
-WERSJA OBOWIĄZUJĄCA: v20 rev.33.
-44 pliki. SUMA TRESCI: 2bbb4fa74d490526.
+WERSJA OBOWIĄZUJĄCA: v20 rev.40.
+44 pliki. SUMA TRESCI: 797ac0cd0650fb08.
 MASTER: MASTER_v20_2026-09-20.txt, linia VERSION: v20.10.
 Warstwa 40: INSTRUKCJA PROJEKTU wersja 19, wklejona w ustawieniach
 projektu. Nie jest plikiem i nie ma jej w dokumentach.
@@ -41,7 +41,7 @@ Hash zipa zależy od czasu pakowania i kolejności plików, nie od
 treści — sprawdzone eksperymentalnie (Z20). Historyczny hash zipa
 rev.8 (14d69ddbad9960fa) nie służy już do niczego.
 SUMA TRESCI = sha256 z listy sha256 każdego pliku, posortowanej
-po nazwie, pierwsze 16 znaków. Pełny wykaz: MANIFEST_TRESCI_rev33.
+po nazwie, pierwsze 16 znaków. Pełny wykaz: MANIFEST_TRESCI_rev40.
 
 KARTY LEKÓW LEŻĄ W PIĘCIU PLIKACH KLASOWYCH (rev.32).
 DRUG_DB_PSYCHIATRIA_CORE trzyma reguły kart i INDEKS lek -> plik;
@@ -55,8 +55,8 @@ w kontekście odczyt pola jest ODMOWĄ, nie odczytem na wyczucie.
 
 PLIKI SPOZA PACZKI, dozwolone w projekcie:
   00_CIAGLOSC_...CZYTAJ_NAJPIERW   ten plik
-  MANIFEST_TRESCI_rev33            wykaz hashy
-Stan od rev.33: w projekcie ma być 46 plików — 44 paczki plus te dwa.
+  MANIFEST_TRESCI_rev40            wykaz hashy
+Stan od rev.40: w projekcie ma być 46 plików — 44 paczki plus te dwa.
 Ten plik NIE należy do paczki i nie wchodzi do SUMY TRESCI.
 REFUNDACJA_ENGINE.py i REFUNDACJA_DATA.json od rev.20 NIE SĄ w projekcie:
 39 pobiera je wyłącznie z repozytorium (sekcja 0 KROK 3, piny sha256).
@@ -3454,6 +3454,8 @@ PROGRAM_ZAPOBIEGANIA_CIAZY — wymóg regulatora (walproinian).
 WYMOGI_PROGRAMOWE — recepta/program szczególny (metadon, buprenorfina).
 POSTAC — postać i interwał iniekcji dla preparatów o przedł. uwalnianiu.
 ODSTAWIANIE — schemat odstawiania, gdy nagłe niesie własne ryzyko.
+ODSTEPY_ZMIANA_LECZENIA — wymagane odstępy przy zmianie leku na lek, gdy
+ChPL je podaje, a pole INTERAKCJE by je zgubiło (moklobemid).
 OSTRZEŻENIE_GENETYCZNE — allel warunkujący ciężkie ryzyko w danej populacji.
 OWNERSHIP: twardy warunek dopuszczenia albo włączenia leku (morfologia
 przed klozapiną, litemia, EKG przed ziprasidonem, PPZ przy walproinianie)
@@ -3498,21 +3500,34 @@ substancji z jawnym UZALEŻNIENIE: TAK.
 INDEKS KART — LEK -> PLIK
 
 AGOMELATYNA        DRUG_DB_AD.txt
+AKAMPROZAT         DRUG_DB_ADHD_UZAL.txt
 ALPRAZOLAM         DRUG_DB_BZD.txt
+AMISULPRYD         DRUG_DB_AP.txt
 AMITRYPTYLINA      DRUG_DB_AD.txt
+ANKSJOLITYKI I NASENNE NIE-BZD DRUG_DB_BZD.txt
 ARYPIPRAZOL        DRUG_DB_AP.txt
 ATOMOKSETYNA       DRUG_DB_ADHD_UZAL.txt
+BENZODIAZEPINY     DRUG_DB_BZD.txt
 BROMAZEPAM         DRUG_DB_BZD.txt
+BUPRENORFINA       DRUG_DB_ADHD_UZAL.txt
 BUPROPION          DRUG_DB_AD.txt
 BUSPIRON           DRUG_DB_BZD.txt
 CHLORDIAZEPOKSYD   DRUG_DB_BZD.txt
+CHLORPROTIKSEN     DRUG_DB_AP.txt
+CYTALOPRAM         DRUG_DB_AD.txt
+DEKSAMFETAMINA     DRUG_DB_ADHD_UZAL.txt
 DIAZEPAM           DRUG_DB_BZD.txt
+DISULFIRAM         DRUG_DB_ADHD_UZAL.txt
 DOKSEPINA          DRUG_DB_AD.txt
 DULOKSETYNA        DRUG_DB_AD.txt
+DZIURAWIEC         DRUG_DB_AD.txt
 ESCYTALOPRAM       DRUG_DB_AD.txt
 ESTAZOLAM          DRUG_DB_BZD.txt
 FLUOKSETYNA        DRUG_DB_AD.txt
 FLUPENTYKSOL       DRUG_DB_AP.txt
+FLUWOKSAMINA       DRUG_DB_AD.txt
+GABAPENTYNA        DRUG_DB_STAB.txt
+GABAPENTYNOIDY     DRUG_DB_STAB.txt
 HALOPERIDOL        DRUG_DB_AP.txt
 HYDROKSYZYNA       DRUG_DB_BZD.txt
 IMIPRAMINA         DRUG_DB_AD.txt
@@ -3522,38 +3537,69 @@ KLOMIPRAMINA       DRUG_DB_AD.txt
 KLONAZEPAM         DRUG_DB_BZD.txt
 KLORAZEPAT         DRUG_DB_BZD.txt
 KLOZAPINA          DRUG_DB_AP.txt
+KWAS WALPROINOWY / WALPROINIAN DRUG_DB_STAB.txt
 KWETIAPINA         DRUG_DB_AP.txt
 LAMOTRYGINA        DRUG_DB_STAB.txt
+LEKI Z / NASENNE NIEBENZODIAZEPINOWE DRUG_DB_BZD.txt
+LEWOMEPROMAZYNA    DRUG_DB_AP.txt
+LISDEKSAMFETAMINA  DRUG_DB_ADHD_UZAL.txt
+LIT                DRUG_DB_STAB.txt
 LORAZEPAM          DRUG_DB_BZD.txt
+LURAZYDON          DRUG_DB_AP.txt
+MELATONINA         DRUG_DB_BZD.txt
 METADON            DRUG_DB_ADHD_UZAL.txt
 METYLOFENIDAT      DRUG_DB_ADHD_UZAL.txt
+MIANSERYNA         DRUG_DB_AD.txt
 MIRTAZAPINA        DRUG_DB_AD.txt
+MOKLOBEMID         DRUG_DB_AD.txt
+NALTREKSON         DRUG_DB_ADHD_UZAL.txt
 NITRAZEPAM         DRUG_DB_BZD.txt
 OKSAZEPAM          DRUG_DB_BZD.txt
+OKSKARBAZEPINA     DRUG_DB_STAB.txt
 OLANZAPINA         DRUG_DB_AP.txt
 PALIPERYDON        DRUG_DB_AP.txt
 PAROKSETYNA        DRUG_DB_AD.txt
+PERAZYNA           DRUG_DB_AP.txt
 PREGABALINA        DRUG_DB_STAB.txt
+PROMAZYNA          DRUG_DB_AP.txt
 PROMETAZYNA        DRUG_DB_AP.txt
 PRZECIWPSYCHOTYCZNE DRUG_DB_AP.txt
+PROPRANOLOL        DRUG_DB_BZD.txt
+PSYCHOSTYMULANTY I ADHD DRUG_DB_ADHD_UZAL.txt
+PRZECIWPADACZKOWE W UZYCIU PSYCHIATRYCZNYM DRUG_DB_STAB.txt
 RISPERIDON         DRUG_DB_AP.txt
+SERTINDOL          DRUG_DB_AP.txt
 SERTRALINA         DRUG_DB_AD.txt
 SNRI               DRUG_DB_AD.txt
 SSRI               DRUG_DB_AD.txt
+STABILIZATORY NASTROJU DRUG_DB_STAB.txt
 SULPIRYD           DRUG_DB_AP.txt
+TCA / STARSZE      DRUG_DB_AD.txt
 TEMAZEPAM          DRUG_DB_BZD.txt
 TIAPRYD            DRUG_DB_AP.txt
+TOPIRAMAT          DRUG_DB_STAB.txt
 TRAZODON           DRUG_DB_AD.txt
+UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE DRUG_DB_ADHD_UZAL.txt
 WENLAFAKSYNA       DRUG_DB_AD.txt
+WORTIOKSETYNA      DRUG_DB_AD.txt
+ZIPRASIDON         DRUG_DB_AP.txt
 ZOLPIDEM           DRUG_DB_BZD.txt
 ZOPIKLON           DRUG_DB_BZD.txt
+ZUKLOPENTYKSOL     DRUG_DB_AP.txt
 
 SEKCJE KLASOWE:
 
 DRUG_DB_AD.txt           PRZECIWDEPRESYJNE
 DRUG_DB_AP.txt           PRZECIWPSYCHOTYCZNE
-DRUG_DB_BZD.txt          BENZODIAZEPINY, Z-LEKI I POZOSTALE NASENNE/ANKSJOLITYCZNE
-DRUG_DB_STAB.txt         STABILIZATORY I PRZECIWPADACZKOWE
+DRUG_DB_BZD.txt          TRZY SEKCJE: BENZODIAZEPINY | LEKI Z / NASENNE
+                         NIEBENZODIAZEPINOWE | ANKSJOLITYKI I NASENNE NIE-BZD.
+                         Podzial odpowiada trzem roznym BLOKOM w module 18
+                         (BLOK BZD, BLOK Z, BLOK POMOST NIE-BZD). Naglowek
+                         sekcji NIE jest zrodlem BLOKU — wlascicielem jest 18.
+DRUG_DB_STAB.txt         TRZY SEKCJE: STABILIZATORY NASTROJU | GABAPENTYNOIDY |
+                         PRZECIWPADACZKOWE W UZYCIU PSYCHIATRYCZNYM. Gabapentynoidy
+                         stoja osobno, bo 18 prowadzi je przez BLOK POMOST NIE-BZD,
+                         a nie przez stabilizatory. Naglowek NIE jest zrodlem BLOKU.
 DRUG_DB_ADHD_UZAL.txt    ADHD I UZALEZNIENIA
 
 
@@ -3561,7 +3607,7 @@ DRUG_DB_ADHD_UZAL.txt    ADHD I UZALEZNIENIA
 PSYCH-AI — DRUG DB: PRZECIWDEPRESYJNE
 VERSION: v3.6
 DATE: 2026-09-24
-TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+WIAZANIE: REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE
 NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
 to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
 i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
@@ -3642,6 +3688,55 @@ CIĄŻA: zwykle nie jest wyborem pierwszym przy rozpoczynaniu leczenia w ciąży
 KP: bywa akceptowalna przy monitorowaniu.
 MONITORING: odstawianie powolne, interakcje CYP2D6.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+CYTALOPRAM
+POSTAC: tabletki powlekane 20 mg i 40 mg; raz na dobę, niezależnie od posiłków.
+WSKAZANIA: depresja i zapobieganie nawrotom; zespół lęku napadowego z agorafobią lub bez.
+DAWKA: wydłużenie QT ZALEŻNE OD DAWKI — stąd limity. Dorośli, depresja: 20 mg/d, max 40 mg/d. Lęk napadowy: 1. tydzień 10 mg/d, potem 20 mg/d, max 40 mg/d. POWYŻEJ 65 LAT: 10–20 mg/d, MAX 20 mg/d. Wolno metabolizujący CYP2C19: 10 mg/d przez 2 tygodnie, max 20 mg/d. Poniżej 18 lat: nie stosować. Odstawianie stopniowo przez 1–2 tygodnie.
+ROZBIEZNOSC_ZRODLOWA: podeszły wiek — Cipramil 20 „połowa dawki zalecanej, np. 10–20 mg/d”; Aurex 20/40 „10–20 mg/d, max do 20 mg/d”. MAX 20 mg/d zgodny. Odstawianie: Cipramil „co najmniej 1–2 tygodnie”, Aurex „1 do 2 tygodni”.
+NERKI: łagodna i umiarkowana — bez zmiany dawki.
+ROZBIEZNOSC_ZRODLOWA: ciężka niewydolność nerek — Aurex 20/40 nie zaleca się przy CrCl <20 ml/min; Cipramil 20 ostrożność przy CrCl <30 ml/min, brak danych <20 ml/min.
+WATROBA: start 10 mg/d, NIE PRZEKRACZAĆ 20 mg/d. Ciężkie zaburzenia — ostrożnie, powolne zwiększanie. T1/2 i stężenie stacjonarne ok. 2x większe.
+ROZBIEZNOSC_ZRODLOWA: limit 20 mg/d — Aurex 20/40 dla wszystkich zaburzeń wątroby; Cipramil 20 dla łagodnych i umiarkowanych, start 10 mg/d przez 2 tygodnie.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub pomocniczą; IMAO, w tym selegilina powyżej 10 mg/d — cytalopram dopiero 14 dni po nieodwracalnym IMAO, po RIMA wg ChPL danego leku, IMAO dopiero 7 dni po odstawieniu cytalopramu; linezolid, chyba że możliwa ścisła obserwacja i monitorowanie ciśnienia tętniczego; rozpoznane wydłużenie odstępu QT lub wrodzony zespół długiego QT; jednoczesne leki wydłużające QT.
+INTERAKCJE: przeciwwskazane leki wydłużające QT — przeciwarytmiczne IA i III, fenotiazyny, pimozyd, haloperydol, TLPD, sparfloksacyna, moksyfloksacyna, erytromycyna iv, pentamidyna, halofantryna; pimozyd 2 mg przy 40 mg/d wydłużał QTc o ok. 10 ms.
+Ostrożnie: serotoninergiczne (tramadol, buprenorfina, tryptany, tryptofan, lit, dziurawiec), obniżające próg drgawkowy, przeciwzakrzepowe i NLPZ.
+Inhibitory CYP2C19 i cymetydyna — możliwa redukcja dawki; metoprolol, dezypramina — 2x wzrost ich stężenia.
+DN: bardzo często senność, bezsenność, ból głowy, nudności, suchość w ustach, pocenie się, astenia; zależne od dawki.
+Częstość nieznana: wydłużenie QT w EKG, komorowe zaburzenia rytmu w tym torsade de pointes, zespół serotoninowy; rzadko hiponatremia, drgawki.
+ONSET: efekt przeciwdepresyjny po 2–4 tygodniach; w lęku napadowym max po ok. 3 miesiącach.
+ROZBIEZNOSC_ZRODLOWA: Tmax — Aurex 20/40 średnio 4 h (1–7 h); Cipramil 20 średnio 3 h.
+T1_2: ok. 1,5 doby. Powyżej 65 lat 1,5–3,75 doby, stężenia stacjonarne ok. 2x większe (Cipramil 20). Wątroba — ok. 2x dłuższy.
+METABOLIZM: CYP2C19 ok. 38%, CYP3A4 ok. 31%, CYP2D6 ok. 31%; metabolity czynne, słabsze. 85% wątroba/żółć, 15% nerki.
+CIĄŻA: ponad 2500 ciąż — brak toksyczności powodującej wady. PPHN po III trymestrze ok. 5/1000 ciąż wobec 1–2/1000 w populacji. Krwotok poporodowy — ryzyko mniej niż 2x większe przy ekspozycji miesiąc przed porodem. Nie odstawiać nagle; noworodek po późnej ekspozycji — obserwacja. Laktacja: ok. 5% dawki dobowej matki w mg/kg mc.
+ROZBIEZNOSC_ZRODLOWA: Aurex 20/40 „nie stosować w ciąży, chyba że bezwzględnie konieczne”; Cipramil 20 „może być stosowany w ciąży w razie konieczności”.
+KP: BRAK DANYCH LOKALNYCH — punkt 4.7 ChPL nieobecny w źródle.
+MONITORING: wyrównać hipokaliemię i hipomagnezemię PRZED włączeniem. EKG przed leczeniem przy stabilnej chorobie serca; zaburzenia rytmu w trakcie — przerwać i wykonać EKG. Ostrożność: znaczna bradykardia, świeży zawał, niewyrównana niewydolność serca.
+Próg odcięcia QTc w ms: BRAK DANYCH LOKALNYCH — jedyna wartość QTc w źródle to +10 ms przy pimozydzie.
+ROZBIEZNOSC_ZRODLOWA: EKG przed leczeniem przy stabilnej chorobie serca — Cipramil 20 „należy wykonać”; Aurex 20/40 „należy rozważyć”.
+ZRODLO_KARTY: ChPL Aurex 20 mg, Aurex 40 mg, Cipramil 20 mg, pobrano 2026-09-23.
+
+FLUWOKSAMINA
+POSTAC: tabletki powlekane 100 mg — jedyna moc w źródle; moce 25 i 50 mg do dawek dziecięcych — BRAK DANYCH LOKALNYCH.
+WSKAZANIA: duże zaburzenia depresyjne; OCD.
+DAWKA: Depresja dorośli: start 50 lub 100 mg/d wieczorem, zalecana 100 mg/d, korekta po 3–4 tyg., max 300 mg/d. OCD dorośli: start 50 mg/d, zakres 100–300 mg/d, max 300 mg/d. Do 150 mg/d — jedna dawka wieczorem; powyżej 150 mg/d — 2 lub 3 dawki podzielone. Dzieci i młodzież: tylko OCD, od 8 r.ż. — start 25 mg/d przed snem, +25 mg co 4–7 dni, zwykle 50–200 mg/d, max 200 mg/d; powyżej 50 mg/d w 2 dawkach, większa przed snem. Depresja poniżej 18 r.ż. — nie stosować. Podeszły wiek — wolniej. Odstawiać stopniowo, min. 1–2 tyg.
+NERKI: start od małej dawki, stała kontrola; farmakokinetyka jak u zdrowych. Progi CrCl i redukcja — BRAK DANYCH LOKALNYCH.
+WATROBA: start od małej dawki, ścisła kontrola; wzrost enzymów z objawami — przerwać. Redukcja liczbowa — BRAK DANYCH LOKALNYCH.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub którąkolwiek substancję pomocniczą; jednoczesne stosowanie tyzanidyny; jednoczesne stosowanie inhibitorów MAO — fluwoksaminę można rozpocząć 2 tygodnie po odstawieniu nieodwracalnych IMAO albo 1 dzień po odstawieniu odwracalnych IMAO (moklobemid, linezolid), a IMAO najwcześniej 1 tydzień po odstawieniu fluwoksaminy; jednoczesne stosowanie pimozydu; jednoczesne stosowanie ramelteonu.
+INTERAKCJE: silne hamowanie CYP1A2 i CYP2C19, słabsze CYP2C9/2D6/3A4 — zmniejszyć dawki TLPD (klomipramina, imipramina, amitryptylina), neuroleptyków (klozapina, olanzapina, kwetiapina), benzodiazepin oksydacyjnych (triazolam, midazolam, alprazolam, diazepam), propranololu i ropinirolu (także po odstawieniu fluwoksaminy); klopidogrel — stężenie niższe.
+INTERAKCJE: wąski przedział — takryna, teofilina, metadon, meksyletyna, fenytoina, karbamazepina, cyklosporyna: monitorować, korygować dawkę. Warfaryna — wzrost stężenia, wydłużony PT. Ramelteon — AUC ok. 190×, Cmax ok. 70×. Terfenadyna, astemizol, cyzapryd — QT i TdP. Tiorydazyna — kardiotoksyczność. Kofeina — wzrost stężenia.
+INTERAKCJE: serotoninergiczne — tramadol, buprenorfina (także z naloksonem), tryptany, SSRI, dziurawiec: stan zagrażający życiu. Lit i tryptofan nasilają serotoninergię. Doustne przeciwzakrzepowe — ryzyko krwotoku. Alkohol — unikać.
+DN: nudności (najczęstsze, ustępują w 2 pierwszych tyg.), wymioty, bezsenność, senność, pobudzenie psychoruchowe, lęk, drżenie, zawroty głowy, pocenie, opóźniony wytrysk.
+DN: drgawki, zespół serotoninowy, zdarzenia podobne do NMS, mania, myśli i zachowania samobójcze, hiponatremia, objawy krwotoczne, SJS/TEN/rumień wielopostaciowy — ryzyko największe na początku, odstawić natychmiast; zespół odstawienia, także u noworodka.
+ONSET: Tmax 3–8 h; biodostępność 53%; stan stacjonarny 10–14 dni.
+T1_2: 13–15 h po dawce pojedynczej; 17–22 h przy dawkowaniu wielokrotnym.
+METABOLIZM: wątrobowy, oksydacyjna demetylacja. Silny inhibitor CYP1A2 i CYP2C19, umiarkowany CYP2C9, CYP2D6, CYP3A4. Stężenia w stanie równowagi rosną nieproporcjonalnie przy większych dawkach. Dzieci 6–11 lat — stężenia 2× większe niż młodzież 12–17 lat.
+CIĄŻA: nie stosować, chyba że stan kliniczny wymaga; tak samo u planujących ciążę. SSRI w późnej ciąży — PPHN 5/1000 ciąż wobec 1–2/1000. III trymestr — u noworodka zaburzenia oddychania i karmienia, drgawki, hipoglikemia, drżenia, zmienione napięcie mięśni. SSRI/SNRI w miesiącu przed porodem — mniej niż dwukrotnie zwiększone ryzyko krwotoku poporodowego.
+KP: wydzielana w niewielkich ilościach do mleka kobiecego — nie stosować u karmiących piersią.
+MONITORING: myśli i zachowania samobójcze — początek leczenia, każda zmiana dawki, wiek poniżej 25 lat.
+MONITORING: stężenia leków o wąskim przedziale; czas protrombinowy przy warfarynie; glikemia w cukrzycy; natremia u starszych.
+MONITORING: enzymy wątrobowe; padaczka — przerwać przy napadach lub wzroście częstości; ostrożność przy jaskrze z wąskim kątem, przy ECT.
+ZRODLO_KARTY: ChPL Fevarin 100 mg, pobrano 2026-09-23.
 
 SNRI
 
@@ -3725,6 +3820,88 @@ CIAZA: ograniczone dane.
 KP: brak danych, odradzane.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
+WORTIOKSETYNA
+POSTAC: wyłącznie tabletki powlekane 10 mg (Abrix, Anubes). Innych postaci ani mocy w źródle nie ma — bez ustalonej postaci nie podawaj dawki.
+WSKAZANIA: leczenie dużych epizodów depresyjnych u dorosłych.
+DAWKA: dorośli <65 lat — start 10 mg raz/d; zakres 5–20 mg raz/d; max 20 mg/d. Po ustąpieniu objawów kontynuacja co najmniej 6 miesięcy. ≥65 lat — start zawsze 5 mg raz/d; ostrożność powyżej 10 mg/d. <18 lat — nie stosować w MDD (brak skuteczności). Dołączony silny inhibitor CYP2D6 — rozważyć mniejszą dawkę; induktor CYP o szerokim zakresie — rozważyć dostosowanie. Odstawienie: można rozważyć stopniowe zmniejszanie; schemat — BRAK DANYCH LOKALNYCH.
+NERKI: bez modyfikacji dawki przy każdym stopniu; narażenie wzrasta do 30%. Schyłkowa niewydolność — dializa usuwa nieznaczną część. Ostrożność, dane ograniczone.
+WATROBA: bez modyfikacji dawki, także Child-Pugh C (AUC większe o 10%). Ostrożność, dane ograniczone.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub którąkolwiek substancję pomocniczą; jednoczesne stosowanie nieselektywnych inhibitorów MAO lub selektywnych inhibitorów MAO-A. Przeciwwskazane skojarzenia: nieodwracalne nieselektywne IMAO, moklobemid, linezolid. Odstęp 14 dni w obie strony wobec nieodwracalnego nieselektywnego IMAO.
+INTERAKCJE: silny inhibitor CYP2D6 (bupropion, chinidyna, fluoksetyna, paroksetyna) — AUC ×2,3 z bupropionem, rozważyć mniejszą dawkę; tak samo u słabego metabolizera CYP2D6 z silnym inhibitorem CYP3A4 lub CYP2C9. Ryfampicyna — AUC mniejsze o 72%; karbamazepina, fenytoina — rozważyć dostosowanie; ketokonazol ×1,3, flukonazol ×1,5 — bez dostosowania.
+INTERAKCJE: serotoninergiczne (opioidy z tramadolem, tryptany, dziurawiec, lit, tryptofan, MAO-B) — zespół serotoninowy; przeciwkrzepliwe, przeciwpłytkowe, NLPZ, ASA — krwawienia; leki obniżające próg drgawkowy — ostrożność.
+DN: nudności bardzo często — łagodne/umiarkowane, pierwsze 2 tygodnie, przemijające; zaburzenia seksualne 5–15 mg bez różnicy wobec placebo, 20 mg nasilenie; ≥65 lat przy 20 mg nudności i zaparcia częstsze.
+DN: zespół serotoninowy i NMS, hiponatremia/SIADH, drgawki (przerwać), krwawienia, mania (przerwać), jaskra z wąskim kątem, myśli samobójcze — ryzyko zwiększone <25 lat.
+ONSET: Tmax 7–11 h; stan stacjonarny po ok. 2 tygodniach; pokarm bez wpływu. Czas do efektu przeciwdepresyjnego — BRAK DANYCH LOKALNYCH; ChPL: poprawa może nie nastąpić w pierwszych kilku tygodniach lub dłużej.
+T1_2: 66 h; kumulacja 5–6-krotna.
+METABOLIZM: wątrobowy — oksydacja głównie CYP2D6, mniej CYP3A4/5 i CYP2C9; główny metabolit nieaktywny. Słaby metabolizer CYP2D6 — stężenie ok. 2× większe. Nie hamuje ani nie indukuje CYP.
+CIĄŻA: dane ograniczone; u zwierząt toksyczny wpływ na reprodukcję. Stosować tylko gdy korzyść przewyższa zagrożenie dla płodu. Późna ciąża — u noworodka zaburzenia oddechowe, sinica, bezdech, drgawki, niestabilna temperatura, trudności w karmieniu, hipoglikemia, hiper- lub hipotonia, drżenie; zwykle <24 h po porodzie. Ryzyka PPHN nie można wykluczyć. SSRI/SNRI w miesiącu przed porodem — mniej niż dwukrotnie zwiększone ryzyko krwotoku poporodowego; dla wortioksetyny możliwe.
+KP: przenikanie do mleka; nie można wykluczyć zagrożenia dla dziecka. Decyzja: przerwać karmienie albo lek.
+ROZBIEZNOSC_ZRODLOWA: pole KP — Anubes: RID poniżej 2%, przenikanie do mleka ludzkiego w niewielkich ilościach, bez działań niepożądanych u niemowląt. Abrix RID nie podaje — dane zwierzęce i przewidywane przenikanie do mleka. Obie wartości zachowane.
+MONITORING: myśli i zachowania samobójcze — ścisły nadzór na starcie i po każdej zmianie dawki, zwłaszcza <25 lat.
+MONITORING: objawy zespołu serotoninowego i NMS przy serotoninergicznych, przeciwpsychotycznych i antagonistach dopaminy; drgawki — przerwać.
+MONITORING: natremia u starszych, z marskością wątroby i przy lekach hiponatremizujących. Fałszywie dodatni test na metadon w moczu — potwierdzać inną techniką.
+ZRODLO_KARTY: ChPL Abrix 10 mg i Anubes 10 mg tabl. powl., pobrano 2026-09-23.
+
+MIANSERYNA
+POSTAC: tabl. powl. 10 mg (Deprexolet, Lerivon, Miansec). Inne moce: BRAK DANYCH LOKALNYCH.
+WSKAZANIA: objawy depresyjne o różnym podłożu wymagające farmakoterapii (Lerivon, Miansec); zespół depresyjny (Deprexolet).
+DAWKA: start 30 mg/d — na noc lub w dawkach podzielonych; zwiększać co kilka dni. Podtrzymująca 30–90 mg/d (Deprexolet), 60–90 mg/d wg nasilenia (Lerivon, Miansec). Max 120 mg/d (Deprexolet; podzielone do 200 mg/d zwykle tolerowane, max nadal 120 mg/d). Podeszły wiek: start max 30 mg/d, zwiększać ostrożnie co kilka dni; zwykle wystarcza dawka mniejsza niż u dorosłych. <18 lat nie stosować (Lerivon, Miansec); nie zaleca się u dzieci (Deprexolet). Brak reakcji przez 2–4 tyg. i kolejne 2–4 tyg. — przerwać. Po poprawie 4–6 mies.
+ROZBIEZNOSC_ZRODLOWA: DAWKA/max — Deprexolet 120 mg/d; Lerivon i Miansec maksymalnej nie podają.
+ROZBIEZNOSC_ZRODLOWA: MORFOLOGIA — Deprexolet: planowo co 4 tyg. przez 3 pierwsze miesiące + próg WBC <3000/mm³; Lerivon i Miansec: bez odstępu, krew tylko przy objawach zakażenia.
+ROZBIEZNOSC_ZRODLOWA: T1_2 — Deprexolet 17 h (6–39 h), stan stacjonarny 14 dni; Lerivon i Miansec 21–61 h, stan stacjonarny 6 dni.
+ROZBIEZNOSC_ZRODLOWA: KP — Deprexolet: nie karmić, przerwać karmienie; Lerivon i Miansec: wg korzyść/ryzyko.
+ROZBIEZNOSC_ZRODLOWA: QT — Lerivon i Miansec: ostrzeżenie o QT, TdP i próg QTc; Deprexolet nie zawiera.
+ROZBIEZNOSC_ZRODLOWA: ostrzeżenia 4.4 — tylko Deprexolet: unikać przy padaczce; ostrożność po świeżym zawale, bloku serca, uszkodzeniu szpiku.
+NERKI: modyfikacja dawki — BRAK DANYCH LOKALNYCH. Ostrożność przy niewydolności; okresowo czynność nerek.
+WATROBA: ciężka niewydolność — przeciwwskazanie. Modyfikacja dawki w łagodnej/umiarkowanej: BRAK DANYCH LOKALNYCH. Żółtaczka — przerwać.
+PRZECIWWSKAZANIA: nadwrażliwość na mianserynę lub którąkolwiek substancję pomocniczą; mania / stan pobudzenia maniakalnego; ciężka niewydolność wątroby (ciężkie uszkodzenie wątroby); równoczesne stosowanie inhibitorów MAO oraz do 2 tygodni po zakończeniu ich stosowania.
+INTERAKCJE: IMAO (moklobemid, tranylcypromina, linezolid) — przeciwwskazane, 2 tyg. przerwy w obie strony. Induktory CYP3A4 (fenytoina, karbamazepina) obniżają stężenie — rozważyć modyfikację dawki.
+INTERAKCJE: alkohol, barbiturany, leki uspokajające/przeciwlękowe — nasilenie hamowania OUN; warfaryna — kontrola krzepnięcia; leki QTc, naparstnica, chinidynopodobne — arytmie.
+DN: senność/uspokojenie w pierwszych dniach; granulocytopenia lub agranulocytoza (zahamowanie szpiku), najczęściej 4.–6. tyg., częściej u starszych, ustępuje po odstawieniu.
+DN: żółtaczka, hipomania, drgawki — nawet w dawkach terapeutycznych, każde = przerwanie leku; bradykardia po dawce startowej, hipotonia ortostatyczna.
+ONSET: działanie po kilku dniach; poprawa po 2–3 tyg. (Miansec), po 2–4 tyg. (Deprexolet, Lerivon).
+T1_2: patrz ROZBIEZNOSC_ZRODLOWA: T1_2.
+METABOLIZM: wątrobowy — hydroksylacja aromatyczna, N-oksydacja, N-demetylacja; metabolity demetylomianseryna i 8-OH-mianseryna czynne.
+CIĄŻA: bez teratogenności i szkodliwości dla płodu (zwierzęta, ograniczone dane u ludzi); brak kontrolowanych badań. Tylko gdy korzyść dla matki przeważa nad zagrożeniem.
+KP: patrz ROZBIEZNOSC_ZRODLOWA: KP. Przenika do mleka w bardzo małych ilościach. RID: BRAK DANYCH LOKALNYCH.
+MONITORING: pełna morfologia co 4 tyg. przez pierwsze 3 miesiące leczenia, zwłaszcza u osób starszych; WBC <3000/mm³ — przerwać leczenie, po przerwie kontrolny rozmaz krwi.
+MONITORING: gorączka, ból gardła, zapalenie jamy ustnej, inne objawy zakażenia — odstawić lek, morfologia z rozmazem; wymóg we wszystkich ChPL.
+MONITORING: okresowo wątroba i nerki; glikemia w cukrzycy; RR w nadciśnieniu; QTc >500 ms lub +60 ms — odstawić lub zredukować (Lerivon, Miansec).
+ZRODLO_KARTY: ChPL Deprexolet 10 mg, Lerivon 10 mg, Miansec 10 mg, pobrano 2026-09-23.
+
+MOKLOBEMID
+POSTAC: tabletki powlekane 150 mg. Przyjmować po posiłku.
+WSKAZANIA: zaburzenia depresyjne; fobia społeczna.
+DAWKA: depresja — start 300 mg/d w 2–3 dawkach podzielonych, w ciężkiej do 600 mg/d; nie zwiększać przed upływem 1. tygodnia; ocena po 4–6 tyg. Fobia społeczna — 600 mg/d w 2 dawkach przez 8–12 tyg. Max 600 mg/d. Podeszły wiek — bez zmiany. Dzieci — nie stosować.
+ROZBIEZNOSC_ZRODLOWA: fobia społeczna — Aurorix i Moklar 600 mg/d od początku; Mobemid start 300 mg/d, po 3 dniach 600 mg/d.
+ROZBIEZNOSC_ZRODLOWA: dolna dawka — Moklar: redukcja do 150 mg; Mobemid: podtrzymująca 150 mg 1x/d rano; Aurorix: redukcja wg reakcji, bez liczby.
+ROZBIEZNOSC_ZRODLOWA: wiek — Aurorix i Moklar: nie stosować u dzieci; Mobemid: przeciwwskazany do 18 lat.
+NERKI: bez dostosowania dawki.
+WATROBA: choroba wątroby lub inhibitor mikrosomalnej monooksygenazy (cymetydyna) — dawka dobowa o połowę lub do jednej trzeciej; Mobemid przy cymetydynie: o połowę.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub pomocniczą; ostre stany splątania; guz chromochłonny nadnerczy; jednoczesne stosowanie selegiliny, bupropionu, tryptanów, petydyny, tramadolu, dekstrometorfanu, linezolidu; nie stosować z SSRI ani TLPD — ryzyko zespołu serotoninowego; dzieci.
+ROZBIEZNOSC_ZRODLOWA: lista przeciwwskazanych leków — Aurorix i Moklar: selegilina, bupropion, tryptany, petydyna, tramadol, dekstrometorfan, linezolid. Mobemid: selegilina, petydyna, dekstrometorfan, SSRI, inhibitory MAO, TLPD — bez bupropionu, tryptanów, tramadolu, linezolidu.
+ODSTEPY_ZMIANA_LECZENIA: z moklobemidu na TLPD lub inny lek przeciwdepresyjny — start następnego dnia po odstawieniu moklobemidu. Na moklobemid z nieodwracalnego IMAO (fenelzyna, tranylcypromina) — 14 dni przerwy. Na moklobemid z SSRI — uwzględnić okres półtrwania poprzedniego leku.
+ROZBIEZNOSC_ZRODLOWA: odstęp przed włączeniem moklobemidu — Mobemid: 4–5 okresów półtrwania poprzedniego leku lub czynnego metabolitu, nie wcześniej niż 1 tydzień po IMAO, TLPD lub SSRI; paroksetyna 2 tygodnie, fluoksetyna 5 tygodni. Aurorix i Moklar: 14 dni po nieodwracalnym IMAO, dla SSRI bez liczby.
+INTERAKCJE: serotoninergiczne — ostrożnie, pod obserwacją: wenlafaksyna, fluwoksamina, klomipramina, cytalopram, escytalopram, paroksetyna, sertralina, bupropion, buprenorfina, dziurawiec.
+Sympatykomimetyki (efedryna, pseudoefedryna, fenylefryna) — unikać; sybutramina i dekstropropoksyfen niezalecane; lewodopa — przełom nadciśnieniowy.
+Inhibitor CYP2C19 — wzrost stężenia omeprazolu (2x), fluoksetyny, fluwoksaminy, trymipraminy, maprotyliny; nasila opioidy.
+DN: bardzo często zaburzenia snu, zawroty i bóle głowy, suchość w ustach, nudności; często pobudzenie, lęk, niedociśnienie.
+Niezbyt często myśli samobójcze; rzadko hiponatremia.
+ONSET: Tmax w ciągu 1. godziny.
+ROZBIEZNOSC_ZRODLOWA: Mobemid — Tmax 0,5–3,5 h (średnio 49 min), początek działania po 15 min, czas działania 16 h; Aurorix i Moklar — tylko Tmax w 1. godzinie.
+T1_2: ok. 3 h po dawkach wielokrotnych (300 mg 2x/d), u większości 2–4 h.
+ROZBIEZNOSC_ZRODLOWA: Mobemid — T1/2 ok. 1–2 h, w podeszłym wieku 4–6 h; Aurorix i Moklar — ok. 3 h (2–4 h).
+METABOLIZM: odwracalny inhibitor MAO-A (RIMA); niemal całkowity wątrobowy (ok. 95% dawki), częściowo CYP2C19 i CYP2D6 — wolny metabolizer bez zmiany dawki.
+CIĄŻA: bezpieczeństwo u ciężarnych nieustalone, u zwierząt bez ryzyka dla płodu — ocena korzyść/ryzyko; Mobemid: tylko przy zdecydowanej konieczności.
+ROZBIEZNOSC_ZRODLOWA: karmienie piersią — Aurorix i Moklar: ok. 0,03% dawki matki do mleka, ocena korzyść/ryzyko; Mobemid: nie stosować u karmiących.
+KP: BRAK DANYCH LOKALNYCH (punktu 4.7 nie ma w źródle).
+MONITORING: ryzyko samobójcze — ścisła obserwacja na starcie i przy zmianie dawki, poniżej 25. r.ż.
+Ciśnienie tętnicze; ostrożnie w tyreotoksykozie; unikać potraw z tyraminą.
+Hipomania — przerwać moklobemid; senność, splątanie, drgawki — sprawdzić natremię.
+ZRODLO_KARTY: ChPL Aurorix 150 mg, Mobemid 150 mg, Moklar 150 mg, pobrano 2026-09-23.
+
+TCA / STARSZE
+
 AMITRYPTYLINA
 DAWKA: start 10–25 mg na noc; zakres 50–150 mg/d; w bólu zwykle niższe dawki. Podeszły wiek: ostrożnie, niższy start.
 WSKAZANIA: depresja; ból neuropatyczny i profilaktyka migreny (cel pozarejestracyjny zależnie od ChPL).
@@ -3784,12 +3961,23 @@ KP: brak karty w bazie reprodukcyjnej.
 MONITORING: EKG przy czynnikach ryzyka, ciśnienie.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
+DZIURAWIEC
+POSTAC: tabletki powlekane 612 mg wyciągu (Depremin, HYPERIS); płyn doustny (Tinctura Hyperici Herbpol). Produkt leczniczy roślinny.
+WSKAZANIA: krótkotrwałe leczenie objawów ŁAGODNYCH zaburzeń depresyjnych. Poniżej 18 lat — nie zalecany.
+DAWKA: dorośli — jedna tabletka 612 mg wyciągu raz na dobę. Czas stosowania 6 tygodni. Działania terapeutycznego można oczekiwać w ciągu 4 tygodni. Utrzymywanie się objawów w trakcie leczenia — konsultacja lekarska.
+PRZECIWWSKAZANIA: nadwrażliwość. JEDNOCZESNE STOSOWANIE Z: lekami przeciwzakrzepowymi z grupy pochodnych kumaryny, cyklosporyną, ewerolimusem, sirolimusem, takrolimusem ogólnoustrojowo, fosamprenawirem, indynawirem i innymi inhibitorami proteazy, nukleozydowymi inhibitorami odwrotnej transkryptazy, irynotekanem, imatynibem i innymi cytostatykami metabolizowanymi przez CYP3A4, CYP2B6, CYP2C9, CYP2C19 albo transportowanymi przez glikoproteinę P. To są PRZECIWWSKAZANIA, nie ostrzeżenia.
+INTERAKCJE: dziurawiec INDUKUJE CYP3A4, CYP2B6, CYP2C9, CYP2C19 i glikoproteinę P — obniża stężenie leków metabolizowanych tymi drogami. Szczególna ostrożność m.in. z amitryptyliną, alprazolamem, diazepamem, MIDAZOLAMEM, METADONEM, feksofenadyną, symwastatyną, digoksyną, finasterydem.
+INTERAKCJE: ANTYKONCEPCJA HORMONALNA — spadek stężenia może dać krwawienie międzymiesiączkowe i OSŁABIĆ SKUTECZNOŚĆ antykoncepcji. Kobiety stosujące antykoncepcję hormonalną powinny zastosować dodatkową metodę.
+INTERAKCJE: przed planowaną operacją rozważyć interakcje ze środkami do znieczulenia ogólnego i miejscowego; w razie potrzeby odstawić. Zwiększona aktywność enzymów wraca do normy w ciągu 1 TYGODNIA po zakończeniu stosowania — to jest okno, po którym interakcja wygasa.
+INTERAKCJE: możliwe nasilenie działania serotoninergicznego w skojarzeniu z lekami serotoninergicznymi.
+ZRODLO_KARTY: ChPL Depremin 612 mg tabl. powl.; w cache także HYPERIS 612 mg i Tinctura Hyperici Herbpol.
+
 
 ===== PLIK: DRUG_DB_AP.txt =====
 PSYCH-AI — DRUG DB: PRZECIWPSYCHOTYCZNE
 VERSION: v3.6
 DATE: 2026-09-24
-TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+WIAZANIE: REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE
 NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
 to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
 i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
@@ -3931,6 +4119,7 @@ T1_2: 3–5 h; w ciężkiej niewydolności nerek do 21,6 h.
 METABOLIZM: metabolizowane do 15%, metabolity w większości nieczynne; ok. 75% dawki wydalane z moczem w postaci niezmienionej w ciągu 24 h. Bez udziału CYP.
 CIĄŻA: brak lub ograniczone dane kliniczne; przenika przez łożysko; badania na zwierzętach wykazały szkodliwy wpływ na reprodukcję. Narażenie w III trymestrze — ryzyko zaburzeń pozapiramidowych i objawów odstawiennych u noworodka (pobudzenie, wzmożone napięcie, drżenie, senność, zaburzenia oddechowe, zaburzenia karmienia); noworodek wymaga monitorowania.
 MONITORING: QT i EKG przy jednoczesnym stosowaniu leków wydłużających QT; czynność nerek; czas leczenia (28 dni u osób starszych).
+KP: przenikanie do mleka wykazano u zwierząt; u ludzi nie wiadomo. Ryzyka dla dziecka nie można wykluczyć — decyzja: przerwać karmienie albo lek, z uwzględnieniem korzyści obu stron. RID — BRAK DANYCH LOKALNYCH. [ChPL Tiapridal 4.6]
 ZRODLO_KARTY: ChPL Tiaprid PMCS 100 mg i Tiapridal 100 mg, pobrano 2026-09-23.
 SULPIRYD
 POSTAC: karta obejmuje wyłącznie tabletki doustne 100 mg. Dawki postaci iniekcyjnej nie ma w paczce — bez ustalonej postaci nie podawaj dawki.
@@ -3962,6 +4151,8 @@ T1_2: doustnie ok. 35 h. Depot ok. 3 tygodnie (odzwierciedla uwalnianie z postac
 METABOLIZM: sulfoksydacja, N-dealkilacja łańcucha bocznego, sprzęganie z kwasem glukuronowym; metabolity bez działania psychofarmakologicznego. Wiązanie z białkami ok. 99%. Wydalany głównie z kałem.
 NERKI: zwykle stosowane dawki, bez redukcji.
 WATROBA: ostrożność przy doborze dawki; jeśli możliwe, oznaczanie stężenia w surowicy.
+CIĄŻA: nie podawać, chyba że oczekiwana korzyść dla pacjentki przewyższa możliwe zagrożenie dla płodu. Ekspozycja na leki przeciwpsychotyczne w trzecim trymestrze — u noworodka objawy pozapiramidowe lub odstawienne o różnym nasileniu i czasie trwania: pobudzenie, hipertonia, drżenie, senność, zaburzenia oddechowe, trudności w karmieniu; noworodka dokładnie monitorować. Badania na zwierzętach wykazały szkodliwy wpływ na reprodukcję. [ChPL Fluanxol Depot 4.6]
+KP: KARMIENIE MOŻNA KONTYNUOWAĆ, jeśli jest to klinicznie istotne. Stężenie w mleku małe, dawka dla niemowlęcia poniżej 0,5% dawki matki w mg/kg. Zalecana obserwacja niemowlęcia, zwłaszcza w pierwszych 4 tygodniach. [ChPL Fluanxol Depot 4.6]
 ZRODLO_KARTY: ChPL Fluanxol 0,5 mg i Fluanxol Depot 20 mg/ml, pobrano 2026-09-23.
 
 PALIPERYDON
@@ -3975,35 +4166,90 @@ POMINIĘTA DAWKA: drugą dawkę można podać 4 dni przed albo po 8. dniu; kolej
 PRZECIWWSKAZANIA: nadwrażliwość na paliperydon, na rysperydon albo na substancję pomocniczą.
 ONSET: mediana Tmax 13 dni po dawce domięśniowej. Uwalnianie zaczyna się w 1. dniu i trwa co najmniej 4 miesiące. Wstrzyknięcie naramienne daje Cmax o ok. 28% większe niż pośladkowe — stąd inicjacja naramienna.
 ODSTAWIENIE: przerywając leczenie, uwzględnij przedłużone uwalnianie — lek działa jeszcze miesiącami. Okresowo oceniaj potrzebę dalszego stosowania leku na objawy pozapiramidowe.
+T1_2: mediana pozornego okresu półtrwania 25–49 dni dla dawek 25–150 mg. Uwalnianie zaczyna się w 1. dniu i trwa co najmniej 4 miesiące — to jest okno, w którym lek nadal działa po ostatnim wstrzyknięciu.
+METABOLIZM: palmitynian paliperydonu jest prolekiem; po wstrzyknięciu rozpuszcza się powoli, hydrolizuje do paliperydonu. Paliperydon NIE jest w znacznym stopniu metabolizowany przez wątrobę — tydzień po dawce doustnej 59% wydalane w postaci niezmienionej z moczem. Dostępność biologiczna 100%. Wiązanie z białkami 74%. Cmax po wstrzyknięciu w mięsień naramienny o ok. 28% większe niż w pośladkowy.
+INTERAKCJE: leki wydłużające QT — ostrożność: przeciwarytmiczne klasy IA (chinidyna, dyzopyramid) i III (amiodaron, sotalol), niektóre przeciwhistaminowe, inne przeciwpsychotyczne, meflokina; lista nie jest wyczerpująca. Nie przewiduje się istotnych interakcji z lekami metabolizowanymi przez CYP450.
+INTERAKCJE: leki działające ośrodkowo — anksjolityki, większość przeciwpsychotycznych, nasenne, opioidy, alkohol — ostrożność. Antagonizuje lewodopę i agonistów dopaminergicznych; przy konieczności łączenia, zwłaszcza w schyłkowej fazie choroby Parkinsona, najmniejsze skuteczne dawki obu leków. Efekt addytywny hipotonii ortostatycznej z innymi przeciwpsychotycznymi i TLPD. Ostrożność z lekami obniżającymi próg drgawkowy (fenotiazyny, butyrofenony, TLPD, SSRI, tramadol, meflokina).
+MONITORING: ciśnienie tętnicze — hipotonia ortostatyczna; QTc przy lekach wydłużających QT; objawy pozapiramidowe.
+CIĄŻA: brak wystarczających danych. NIE STOSOWAĆ w ciąży, jeśli nie jest to wyraźnie konieczne. U zwierząt bez wad rozwojowych, ale z innym szkodliwym wpływem na rozród. Ekspozycja w trzecim trymestrze — u noworodka objawy pozapiramidowe lub odstawienne: pobudzenie, wzmożone lub obniżone napięcie, drżenie, senność, zaburzenia oddechowe, trudności w karmieniu; noworodka uważnie monitorować. [ChPL Denepra 4.6]
+KP: NIE STOSOWAĆ podczas karmienia piersią. Paliperydon przenika do mleka w ilości, która przy dawkach terapeutycznych może wpływać na dziecko. RID — BRAK DANYCH LOKALNYCH. [ChPL Denepra 4.6]
 ZRODLO_KARTY: ChPL Denepra 100 mg, pobrano 2026-09-23 (zgodne z Egoropal 100 mg).
 
-STABILIZATORY / PRZECIWDRGAWKOWE
+AMISULPRYD
+WSKAZANIA: Schizofrenia ostra i przewlekła — objawy pozytywne i (lub) negatywne.
+DAWKA: Pozytywne/ostre 400–800 mg/d, indywidualnie do 1200 mg/d; >1200 mg/d nie stosować. Przewaga negatywnych 50–300 mg/d. Podtrzymująco najmniejsza skuteczna. Podział dobowy — patrz ROZBIEZNOSC_ZRODLOWA. >65 lat bez odrębnej dawki, redukcja wg nerek. Przed pokwitaniem przeciwwskazany, do 18 lat nie zalecany.
+ROZBIEZNOSC_ZRODLOWA: DAWKA — Amipryd i Amisan: ≤400 mg/d raz na dobę, >400 mg w 2 dawkach; Holsten: 1x/d tylko <300 mg.
+ROZBIEZNOSC_ZRODLOWA: NERKI — CRCL <10: Amipryd zakaz (4.3); Amisan i Holsten szczególna ostrożność (4.4).
+ROZBIEZNOSC_ZRODLOWA: PRZECIWWSKAZANIA — torsade de pointes: Amipryd zakaz, Amisan i Holsten ostrożność. Karmienie piersią zakazane tylko u Holsten.
+ROZBIEZNOSC_ZRODLOWA: INTERAKCJE — Amipryd: niezalecane bradykardyzujące, hipokaliemizujące, pimozyd, haloperydol, lit; Amisan i Holsten: tylko alkohol.
+ROZBIEZNOSC_ZRODLOWA: KP — Amipryd i Amisan: do mleka >10% dawki znormalizowanej, przerwać karmienie; Holsten: przenikanie nieznane, karmienie zakazane.
+ROZBIEZNOSC_ZRODLOWA: CIĄŻA — zwierzęta: Amipryd i Holsten bez teratogenności, Amisan toksyczność reprodukcyjna; łożysko: Holsten nie podaje.
+ROZBIEZNOSC_ZRODLOWA: T1_2 w nerkach — Amipryd „wydłuża się"; Amisan i Holsten „nie zmienia się".
+ROZBIEZNOSC_ZRODLOWA: MONITORING — Amipryd: EKG u WSZYSTKICH przed leczeniem, przerwać przy QTc >500 ms; Amisan i Holsten: bez rutynowego EKG i progu 500 ms.
+ROZBIEZNOSC_ZRODLOWA: DN — rabdomioliza (bez NMS) i upadki tylko w ChPL Amisan.
+NERKI: CRCL 30–60 — 1/2 dawki; 10–30 — 1/3 dawki; <10 — patrz ROZBIEZNOSC_ZRODLOWA. Brak danych dla dawek >50 mg.
+WATROBA: Bez modyfikacji dawki. Ciężkie uszkodzenie wątroby (Amipryd, Amisan) → próby wątrobowe przy żółtaczce.
+PRZECIWWSKAZANIA: Nadwrażliwość na substancję czynną lub substancje pomocnicze. Nowotwory prolaktynozależne — gruczolak przysadki typu prolactinoma, rak piersi. Guz chromochłonny nadnerczy. Dzieci przed okresem pokwitania. Jednoczesne stosowanie lewodopy. Karmienie piersią — wyłącznie Amisulpryd Holsten. Jednoczesne stosowanie leków wywołujących torsade de pointes — wyłącznie Amipryd: przeciwarytmiczne klasy IA (chinidyna, dyzopiramid) i III (amiodaron, sotalol), beprydyl, cyzapryd, sultopryd, tiorydazyna, metadon, erytromycyna iv, winkamina iv, halofantryna, pentamidyna, sparfloksacyna, azolowe przeciwgrzybicze. Patrz ROZBIEZNOSC_ZRODLOWA: PRZECIWWSKAZANIA.
+INTERAKCJE: Lewodopa (przeciwwskazana) i agoniści dopaminy — antagonizm. QT — patrz PRZECIWWSKAZANIA. Klozapina — wzrost stężenia amisulprydu.
+DN: Pozapiramidowe bardzo często — zależne od dawki, bardzo małe przy 50–300 mg/d; często senność, hiperprolaktynemia, niedociśnienie, wzrost masy ciała; niezbyt często hiperglikemia, dyslipidemia, późne dyskinezy, drgawki; rzadko NMS, torsade de pointes, agranulocytoza. Nagłe odstawienie — nawrót psychozy; odstawiać stopniowo.
+ONSET: BRAK DANYCH LOKALNYCH — ChPL nie podaje onsetu klinicznego.
+T1_2: Ok. 12 h; >65 lat wzrost o 10–30%. Nerki — patrz ROZBIEZNOSC_ZRODLOWA.
+METABOLIZM: Słabo metabolizowany, wydalany nerkowo w postaci niezmienionej. Brak danych lokalnych o CYP.
+CIĄŻA: Nie zalecany, chyba że korzyść przewyższa ryzyko. Dane zwierzęce i łożysko — patrz ROZBIEZNOSC_ZRODLOWA. III trymestr: objawy pozapiramidowe/odstawienne u noworodka.
+KP: Patrz ROZBIEZNOSC_ZRODLOWA: KP. RID: BRAK DANYCH LOKALNYCH.
+MONITORING: EKG — patrz ROZBIEZNOSC_ZRODLOWA; przed leczeniem wykluczyć bradykardię <55/min, wydłużenie QT, hipokaliemię, hipomagnezemię. Glikemia, morfologia przy gorączce, prolaktyna przy objawach guza. Otępienie >65 lat — ryzyko zgonu 1,6–1,7 razy, 3-krotny wzrost incydentów mózgowych.
+ZRODLO_KARTY: ChPL Amipryd 100 mg tabletki, Amisan 200 mg tabletki, Amisulpryd Holsten 200 mg tabletki, pobrano 2026-09-23.
 
-LIT
-DAWKA: profilaktyka 0,5–1,25 g/d w dawkach podzielonych, min. 3 części; stan maniakalny 1,5–2,0 g/d, po ustąpieniu ostrej fazy natychmiast zmniejszyć. Nie zaleca się poniżej 12 r.ż.
-STEZENIE_TERAPEUTYCZNE: profilaktyka 0,5–0,8 mmol/l. Mania: ROZBIEZNOSC_ZRODLOWA — pkt 4.2 podaje 0,6–1,2 mmol/l, pkt 5.2 tego samego dokumentu 0,8–1,2 mmol/l; obie równolegle, bez wartości domyślnej. Pomiar 12 h po ostatniej dawce. Kontrola: początkowo min. 1×/tydz.; po ustaleniu co 1–2 mies.; w remisji co 2–3 mies.
-WSKAZANIA: epizod maniakalny w ChAD; zapobieganie nawrotom ChAD; zapobieganie epizodom depresji w zaburzeniach depresyjnych nawracających.
-PRZECIWWSKAZANIA [ChPL 4.3 Lithium Carbonicum GSK, pobrano 2026-09-22] — 7 poz.:
-  - nadwrażliwość (uczulenie) na substancję czynną lub pozostałe składniki produktu
-  - ciężka niewydolność nerek
-  - świeżo przebyty zawał mięśnia sercowego
-  - organiczne uszkodzenia mózgu
-  - białaczka
-  - ciąża (działanie teratogenne w I trymestrze)
-  - okres karmienia piersią (lit przenika do mleka matki)
-  UWAGA_PRODUKTOWA: w cache tylko ten produkt; inny moze miec inna liste 4.3.
-ONSET: działanie lecznicze po 1–3 tyg.
-T1_2: ok. 19 h, zakres 13–33 h; wydłużony u osób starszych i przy upośledzeniu nerek.
-METABOLIZM: bez metabolizmu wątrobowego; ok. 95% wydalane przez nerki. Niedobór sodu i wody nasila wchłanianie zwrotne → wzrost stężenia.
-DN: początkowo drżenia, dolegliwości żołądkowo-jelitowe, wielomocz, wzmożone pragnienie, osłabienie siły mięśniowej, znużenie; nasilenie zależy od stężenia.
-  TOKSYCZNOŚĆ — PROG_LICZBOWY: BRAK W ChPL, decyzja oparta na objawach. Pierwsze objawy = NATYCHMIASTOWE przerwanie: wydłużenie QT/QTc w EKG; biegunka, wymioty, odwodnienie; ataksja, drżenie, hipertonia, mimowolne skurcze, neuropatia obwodowa, osłabione lub nieobecne odruchy głębokie, hiperrefleksja, zaburzenia mowy, splątanie, senność, oczopląs. Następstwa neurologiczne bywają nieodwracalne mimo odstawienia.
-INTERAKCJE: wzrost stężenia — NLPZ (w tym koksyby), ACE-I, sartany, diuretyki tiazydowe, amiloryd, metronidazol. Spadek — ksantyny (teofilina, kofeina), mocznik, związki alkalizujące, inhibitory SGLT2, inhibitory anhydrazy węglanowej. Topiramat do 600 mg/d: AUC litu +26%, zgłaszane przypadki toksyczności.
-CIĄŻA: nie stosować, zwłaszcza I trymestr — zwiększona częstość wad wrodzonych, szczególnie sercowo-naczyniowych.
-KP: karmienie piersią przeciwwskazane w trakcie terapii.
-MONITORING: przed leczeniem — tarczyca, nerki, EKG, sód, glukoza ORAZ WAPŃ; wapń kontrolować okresowo, w razie potrzeby PTH (lit może powodować hiperkalcemię z nadczynnością przytarczyc lub bez). Dalej stężenie litu wg pola STEZENIE_TERAPEUTYCZNE.
-  CZYNNIKI RYZYKA: niewydolność nerek, choroba sercowo-naczyniowa, nieleczona niedoczynność tarczycy, niewyrównany sód wskutek odwodnienia, choroba Addisona, zmniejszona podaż soli. Ostrożnie: choroba Parkinsona, zaburzenia węzła zatokowego i przewodnictwa, padaczka, łuszczyca, miastenia wrodzona, cukrzyca, schizofrenia.
-ODSTAWIANIE: stopniowo, przez min. 2 tygodnie — nagłe może przyspieszyć nawrót. Objawy toksyczności: przerwanie natychmiast, bez stopniowania.
-ZRODLO_KARTY: ChPL Lithium Carbonicum GSK 250 mg, pobrano 2026-09-22.
+LURAZYDON
+POSTAC: Tabletki powlekane. W źródle wszystkie trzy produkty w mocy 18,5 mg; tekst ChPL operuje dawkami 37/74/111/148 mg.
+WSKAZANIA: Schizofrenia — dorośli i młodzież od 13 lat.
+DAWKA: Dorośli: start 37 mg 1x/d bez wstępnego dostosowania; zakres 37–148 mg 1x/d, max 148 mg/d. Przerwa >3 dni przy dawce >111 mg/d — wznowić od 111 mg 1x/d i stopniowo zwiększać; pozostałe dawki — wznowienie w dawce dotychczasowej. Młodzież od 13 lat: start 37 mg, zakres 37–74 mg, max 74 mg/d. Raz na dobę z posiłkiem (bez posiłku ekspozycja istotnie mniejsza), połykać w całości. Umiarkowany inhibitor CYP3A4: start 18,5 mg, max 74 mg/d. Łagodny/umiarkowany induktor — możliwa modyfikacja dawki; silne inhibitory i induktory CYP3A4 — przeciwwskazane. >65 lat przy CrCl ≥80 ml/min jak u dorosłych; brak danych dla 148 mg.
+NERKI: Łagodne — bez dostosowania. Umiarkowane (CrCl ≥30 i <50), ciężkie (>15 i <30), ESRD (<15 ml/min): start 18,5 mg, max 74 mg/d. ESRD — nie stosować, chyba że korzyść przewyższa ryzyko.
+WATROBA: Child-Pugh A — bez dostosowania. B: start 18,5 mg, max 74 mg/d. C: start 18,5 mg, max 37 mg/d.
+PRZECIWWSKAZANIA: Nadwrażliwość na substancję czynną lub którąkolwiek substancję pomocniczą. Jednoczesne podawanie z silnymi inhibitorami CYP3A4 (np. boceprewir, klarytromycyna, kobicystat, indynawir, itrakonazol, ketokonazol, nefazodon, nelfinawir, pozakonazol, rytonawir, sakwinawir, telaprewir, telitromycyna, worykonazol). Jednoczesne podawanie z silnymi induktorami CYP3A4 (np. karbamazepina, fenobarbital, fenytoina, ryfampicyna, ziele dziurawca zwyczajnego [Hypericum perforatum]).
+INTERAKCJE: Silne inhibitory CYP3A4 PRZECIWWSKAZANE (ketokonazol +9x ekspozycja, pozakonazol +4–5x, efekt do 2–3 tygodni po odstawieniu); silne induktory PRZECIWWSKAZANE (ryfampicyna −6x). Umiarkowane inhibitory (diltiazem, erytromycyna, flukonazol, werapamil) — start 18,5 mg, max 74 mg/d; sok grejpfrutowy unikać; łagodne i umiarkowane induktory — monitorować skuteczność. Leki serotoninergiczne (opioidy, MAO, SSRI, SNRI, TLPD) — zespół serotoninowy; leki wydłużające QT — ostrożność.
+DN: Bardzo często akatyzja, nudności, bezsenność; EPS u dorosłych 13,5% vs 5,8% placebo, akatyzja 12,9% vs 3,0%; u młodzieży EPS 5,1% vs 1,8%, akatyzja 8,9% vs 1,8%. Ponadto parkinsonizm, dystonia (pierwsze dni), późne dyskinezy, senność, omdlenie, drgawki, NMS, niedociśnienie ortostatyczne, wzrost masy ciała i glikemii, hiperprolaktynemia, hiponatremia, neutropenia, zespół Stevensa-Johnsona, ŻChZZ. Kategorie częstości z tabel 4.8 nieczytelne w źródle.
+ONSET: Poprawa może wystąpić dopiero po kilku dniach lub tygodniach. Cmax 1–3 h; stan równowagi w ciągu 7 dni.
+T1_2: 20–40 godzin.
+METABOLIZM: Głównie CYP3A4; aktywny metabolit ID-14283 również rozkładany przez CYP3A4. Nie jest substratem CYP1A2 ani CYP2D6 — palenie bez wpływu. Substrat i inhibitor P-gp oraz BCRP (możliwy wzrost stężenia dabigatranu).
+CIĄŻA: Dane ograniczone (<300 ciąż), ryzyko nieznane — nie stosować, jeśli nie jest to wyraźnie konieczne. III trymestr: u noworodka objawy pozapiramidowe i (lub) odstawienne (pobudzenie, zmiany napięcia, drżenie, senność, zaburzenia oddechowe i karmienia) → monitorować.
+KP: Przenikanie do mleka ludzkiego nieznane; karmienie tylko gdy korzyść dla matki przeważa nad zagrożeniem dla dziecka. RID: BRAK DANYCH LOKALNYCH.
+MONITORING: Masa ciała i glikemia; ciśnienie ortostatyczne przy skłonności do niedociśnienia. QT — ostrożność przy chorobie serca, rodzinnym wydłużeniu QT, hipokaliemii i lekach wydłużających QT. NMS i późne dyskinezy → odstawić; zespół serotoninowy → zmniejszyć dawkę lub przerwać. Harmonogram badań laboratoryjnych i EKG: BRAK DANYCH LOKALNYCH.
+ZRODLO_KARTY: ChPL Lurasidone Teva 18,5 mg tabletki powlekane; Alurazen 18,5 mg tabletki powlekane; Asil 18,5 mg tabletki powlekane, pobrano 2026-09-23.
+
+SERTINDOL
+POSTAC: tabletki powlekane 12 mg (Serdolect); w ChPL też 4 mg i 16 mg.
+WSKAZANIA: schizofrenia — WYŁĄCZNIE u nietolerujących co najmniej jednego innego LPP. NIE w stanach nagłych. Niezarejestrowany w otępieniu, niezalecany <18 lat.
+DAWKA: 1x/d, niezależnie od posiłku. Start 4 mg/d u WSZYSTKICH; +4 mg co 4–5 dni do 12–20 mg/d; max 24 mg/d wyjątkowo (>20 mg bez większej skuteczności, większe wydłużenie QT). Start 8 mg lub szybka titracja — większe ryzyko hipotonii ortostatycznej. Podeszły wiek: wolniejsza titracja i mniejsza dawka, dopiero po badaniu układu krążenia. Przerwa <1 tygodnia — powrót do dawki podtrzymującej bez titracji; dłuższa — pełna titracja, przed nią EKG. Zamiana: titracja z równoczesnym odstawieniem doustnego LPP; depot — zamiast kolejnego wstrzyknięcia. Induktory CYP — dawka w górnej granicy zakresu.
+NERKI: dawki zwykle stosowane; hemodializa bez wpływu.
+WATROBA: łagodne i umiarkowane — wolniejsza titracja, mniejsza dawka. Ciężkie — PRZECIWWSKAZANY.
+PRZECIWWSKAZANIA: nadwrażliwość na sertyndol lub substancje pomocnicze; niewyrównana hipokaliemia; niewyrównana hipomagnezemia; istotna klinicznie choroba układu krążenia w wywiadzie; zastoinowa niewydolność serca; kardiomiopatia przerostowa; zaburzenia rytmu serca; bradykardia <50/min; wrodzony zespół długiego QT lub wywiad rodzinny; rozpoznane nabyte wydłużenie QT — QTc >450 ms u mężczyzn, >470 ms u kobiet (nie rozpoczynać leczenia); ciężkie zaburzenie czynności wątroby; leki istotnie wydłużające QT — przeciwarytmiczne klasy Ia i III (chinidyna, amiodaron, sotalol, dofetilid), niektóre przeciwpsychotyczne (tiorydazyna), makrolidy (erytromycyna), przeciwhistaminowe (terfenadyna, astemizol), chinolony (gatyfloksacyna, moksyfloksacyna), a także cyzapryd i związki litu (wykaz niekompletny); leki silnie hamujące CYP3A — azole układowe (ketokonazol, itrakonazol), makrolidy (erytromycyna, klarytromycyna), inhibitory proteazy HIV (indynawir), niektóre blokery kanału wapniowego (diltiazem, werapamil), cymetydyna (wykaz niekompletny).
+INTERAKCJE: silne inhibitory CYP2D6 (fluoksetyna, paroksetyna) — 2–3-krotny wzrost stężenia; tylko ostrożnie, z mniejszą dawką i EKG przed i po ustaleniu dawki. Inhibitory CYP3A (erytromycyna, diltiazem, werapamil) — przeciwwskazane. Induktory CYP (ryfampicyna, karbamazepina, fenytoina, fenobarbital) — 2–3x spadek stężenia.
+DN: często wydłużenie QT, hipotonia ortostatyczna (początek leczenia), przyrost masy ciała, zaburzenia wytrysku; niezbyt często hiperprolaktynemia, hiperglikemia, omdlenia, drgawki, późne dyskinezy, torsade de pointes; rzadko NMS; ŻChZZ. Pozapiramidowe jak placebo. Nagłe odstawienie — nawrót psychozy; odstawiać stopniowo.
+ONSET: BRAK DANYCH LOKALNYCH — ChPL nie podaje onsetu klinicznego. tmax ok. 10 h, stan stacjonarny po ok. 3 tygodniach.
+T1_2: końcowy okres półtrwania ok. 3 dni.
+METABOLIZM: wątrobowy, głównie CYP2D6 i CYP3A. Wolni metabolizerzy CYP2D6 (do 10% populacji) — stężenie 2–3x większe.
+CIĄŻA: bezpieczeństwo nieustalone — NIE stosować w ciąży. III trymestr: u noworodka objawy pozapiramidowe i (lub) odstawienne → monitorować. Hiperprolaktynemia, mlekotok i zaburzenia seksualne — rozważyć mniejszą dawkę lub odstawienie.
+KP: BRAK DANYCH LOKALNYCH — punkt 4.7 ChPL nie został ujęty w źródle.
+MONITORING: EKG BEZWZGLĘDNIE WYMAGANE: przed rozpoczęciem; po ok. 3 tygodniach lub po osiągnięciu 16 mg; po 3 miesiącach; dalej co 3 miesiące; przed i po każdym zwiększeniu dawki. QTc >500 ms — przerwać; kołatanie, drgawki, omdlenia — natychmiast EKG. Potas i magnez przed leczeniem, wyrównać niedobory; kontrola potasu przy wymiotach, biegunce, diuretykach. Ciśnienie w titracji, glikemia przy cukrzycy.
+ZRODLO_KARTY: ChPL Serdolect 12 mg (tabletki powlekane; dane o substancjach pomocniczych obejmują także moce 4 mg i 16 mg), pobrano 2026-09-23.
+
+ZIPRASIDON
+POSTAC: Kapsułki twarde 20 mg — z posiłkiem, połykać w całości (wpływ na wchłanianie).
+WSKAZANIA: Schizofrenia — dorośli. Epizody maniakalne i mieszane o umiarkowanej ciężkości w ChAD — dorośli oraz 10–17 lat.
+DAWKA: Dorośli (zaostrzenie schizofrenii, mania): 40 mg 2×/d z posiłkiem, zwiększanie do max 80 mg 2×/d, dawka maksymalna możliwa od 3. dnia; MAX 160 mg/d — powyżej bezpieczeństwo niepotwierdzone, QT zależne od dawki. Podtrzymująco często wystarcza 20 mg 2×/d. Podeszły wiek: mniejsza dawka początkowa niewskazana, rozważyć >65 lat i przy ryzyku upadków. Dzieci 10–17 lat (ChAD): dzień 1 — 20 mg 1×/d; dalej 2 dawki podzielone, przez 1–2 tygodnie do 120–160 mg/d przy ≥45 kg lub 60–80 mg/d przy <45 kg; następnie 80–160 mg/d (≥45 kg) lub 40–80 mg/d (<45 kg); poranna dawka może być mniejsza o 20–40 mg; MAX 160 mg/d (≥45 kg) i 80 mg/d (<45 kg).
+NERKI: Bez dostosowania dawki — klirens nerkowy ma niewielki udział.
+WATROBA: Rozważyć zmniejszenie dawki. Child-Pugh A lub B: stężenia o 30% większe, T1/2 ok. 2 h dłuższy. Ciężka niewydolność: brak doświadczenia, ostrożnie.
+PRZECIWWSKAZANIA: Nadwrażliwość na substancję czynną lub substancje pomocnicze. Stwierdzone wydłużenie odstępu QT. Wrodzony zespół długiego QT. Świeży zawał mięśnia sercowego. Niewyrównana niewydolność serca. Zaburzenia rytmu leczone lekami przeciwarytmicznymi grupy IA i III. Jednoczesne leczenie lekami wydłużającymi QT: przeciwarytmiczne IA i III, trójtlenek arsenu, halofantryna, octan lewometadylu, mesorydazyna, tiorydazyna, pimozyd, sparfloksacyna, gatifloksacyna, moksyfloksacyna, metylosulfonian dolasetronu, meflokina, sertindol, cyzapryd. Dodatkowo: produkt zawiera laktozę — nie stosować przy dziedzicznej nietolerancji galaktozy, braku laktazy, zespole złego wchłaniania glukozy-galaktozy.
+INTERAKCJE: ZAKAZ łączenia z lekami wydłużającymi QT (lista w PRZECIWWSKAZANIA) — działanie addycyjne. Induktory CYP3A4 i p-gp (karbamazepina, ryfampicyna, dziurawiec) — spadek stężenia, karbamazepina o ok. 35%. Ketokonazol — wzrost <40%, bez wydłużenia QTc, bez zmiany dawki.
+DN: Często sedacja i senność, akatyzja, dystonia, parkinsonizm, dyskinezy późne, drżenie, zawroty głowy; niezbyt często omdlenie, drgawki, zaburzenia chodu, hiperprolaktynemia, niedociśnienie ortostatyczne, wydłużenie QT, zmiany masy ciała. Rzadko NMS, zespół serotoninowy, torsade de pointes, ŻChZZ, DRESS i SJS (mogą prowadzić do zgonu). U dzieci wysoka częstość sedacji i zależne od dawki wydłużenie QT.
+ONSET: BRAK DANYCH LOKALNYCH — ChPL nie podaje onsetu klinicznego. Cmax po 6–8 h z posiłkiem, stan stacjonarny po 1–3 dniach.
+T1_2: 6,6 h po podaniu doustnym. Child-Pugh A/B: o ok. 2 h dłuższy.
+METABOLIZM: Wątrobowy: ok. 2/3 redukcja i metylacja (oksydaza aldehydowa), ok. 1/3 utlenianie — głównie CYP3A4, niewielki udział CYP1A2. Substrat CYP3A4 i prawdopodobnie p-gp. Pokarm zwiększa biodostępność nawet o 100%.
+CIĄŻA: Brak badań u ciężarnych — nie stosować, jeśli nie jest to wyraźnie konieczne; nie odstawiać nagle. III trymestr: u noworodka objawy pozapiramidowe i (lub) odstawienne → monitorować. W wieku rozrodczym zalecić antykoncepcję.
+KP: Brak badań u karmiących; lek wykrywalny w mleku (1 przypadek). Nie karmić piersią podczas leczenia. RID: BRAK DANYCH LOKALNYCH.
+MONITORING: QT/EKG — przed leczeniem wyrównać hipokaliemię i hipomagnezemię, przy chorobie serca rozważyć EKG; kołatanie, zawroty, omdlenia → EKG; QTc >500 ms — przerwać leczenie. NMS, DRESS i SJS → natychmiast odstawić; późne dyskinezy → zmniejszyć dawkę lub odstawić. Ostrożność: upadki, drgawki w wywiadzie, ŻChZZ, ciężka wątroba; otępienie — ok. 3× ryzyko zdarzeń mózgowo-naczyniowych. Częstość badań kontrolnych: BRAK DANYCH LOKALNYCH.
+ZRODLO_KARTY: ChPL Zypsila 20 mg (kapsułki twarde), pobrano 2026-09-23.
 
 PROMETAZYNA
 DAWKA: nasennie 12,5-25 mg na noc; nie stosowac przewlekle.
@@ -4018,18 +4264,115 @@ KP: ostroznie; sedacja niemowlecia.
 PRZECIWWSKAZANE u dzieci ponizej 2 lat.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
+PERAZYNA
+POSTAC: tabletki 25 mg, 100 mg, 200 mg (Perazin). Podanie doustne.
+WSKAZANIA: różne postacie schizofrenii oraz ostre zaburzenia psychotyczne, także katatoniczne, z pobudzeniem psychoruchowym, manią i urojeniami.
+DAWKA: start 50–100 mg/d, stopniowo do 300–600 mg/d w dawkach podzielonych. MAX 800 mg/d w dawkach podzielonych. Podtrzymująca 75–300 mg/d. Ambulatoryjnie zaczynać od najmniejszych skutecznych dawek; u hospitalizowanych można od większych. Podeszły wiek — POŁOWA dawki dla dorosłych. <16 lat — brak danych, wyłącznie dla dorosłych. Nie zmieniać dawki nagle.
+ODSTAWIANIE: zmniejszać stopniowo przez kilka do kilkunastu miesięcy. Po uzyskaniu poprawy nie redukować szybko.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub inne przeciwpsychotyczne, zwłaszcza fenotiazyny; złośliwy zespół poneuroleptyczny w wywiadzie; ciężkie uszkodzenie szpiku lub komórek krwi; stany śpiączkowe; CIĄŻA I KARMIENIE PIERSIĄ; ostre zatrucie lekami nasennymi, opioidami, neuroleptykami, uspokajającymi, przeciwdepresyjnymi albo alkoholem; guzy zależne od prolaktyny; ciężka niewydolność wątroby; STANY DEPRESYJNE.
+INTERAKCJE: szczególna ostrożność przy leukopenii i innych zaburzeniach krwiotworzenia, uszkodzeniu mięśnia sercowego w wywiadzie, ciężkim niedociśnieniu i hipotonii ortostatycznej, napadach drgawkowych w wywiadzie, chorobie Parkinsona, jaskrze z wąskim kątem, zaburzeniach oddawania moczu, zwężeniu odźwiernika, przeroście prostaty, zaburzeniach pozapiramidowych, dyskinezach, miastenii, czynnej chorobie wrzodowej. Leki obniżające ciśnienie — nasilenie niedociśnienia.
+DN: złośliwy zespół poneuroleptyczny — ciepłota do 40°C, sztywność mięśniowa, wzrost mioglobiny i kinazy kreatynowej. Wczesne dyskinezy i objawy pozapiramidowe. Zwiększenie wydzielania prolaktyny.
+ONSET: Tmax 2–4 h. MAKSYMALNE DZIAŁANIE PRZECIWPSYCHOTYCZNE po jednym do trzech tygodni leczenia.
+T1_2: BRAK DANYCH LOKALNYCH — ChPL nie podaje okresu półtrwania.
+METABOLIZM: wątrobowy — hydroksylacja, glukuronidacja, N-oksydacja, sulfooksydacja, dealkilacja. Efekt pierwszego przejścia. Wiązanie z białkami 95–98%. Wydalanie z moczem i żółcią, głównie w postaci metabolitów. Przenika przez barierę krew-mózg, stężenie w mózgu wyższe niż w osoczu.
+NERKI: bez zmiany dawkowania.
+WATROBA: zmniejszyć dawkę — zalecana POŁOWA dawki dla dorosłych; ciężka niewydolność — PRZERWAĆ podawanie (i jest przeciwwskazaniem).
+CIĄŻA: przeciwwskazana. Pochodne fenotiazyny działały teratogennie u zwierząt; perazyna przenika przez łożysko.
+KP: przeciwwskazane. Przenika do mleka ludzkiego — przerwać karmienie. RID — BRAK DANYCH LOKALNYCH.
+MONITORING: morfologia przy leukopenii lub zaburzeniach krwiotworzenia w wywiadzie; objawy złośliwego zespołu poneuroleptycznego; objawy pozapiramidowe i dyskinezy.
+ZRODLO_KARTY: ChPL Perazin 25 mg, 100 mg i 200 mg tabl. Dane dawkowe z ChPL Perazin 100 mg.
+
+PROMAZYNA
+POSTAC: tabletki 100 mg (Promazin Jelfa, Promazine Hasco). Wyłącznie dla dorosłych.
+WSKAZANIA: krótkotrwałe leczenie wspomagające umiarkowanego lub ciężkiego pobudzenia psychoruchowego. Pobudzenie i niepokój u osób w podeszłym wieku.
+DAWKA: pobudzenie psychoruchowe u dorosłych — zwykle 100–200 mg cztery razy na dobę, odstępy 6–8 h; zaczynać od mniejszych dawek i zwiększać stopniowo; część pacjentów może przyjmować całą dawkę dobową przed snem. Podeszły wiek przy pobudzeniu psychoruchowym — POŁOWA dawki początkowej. Pobudzenie i niepokój u osób starszych — początkowo 25 mg, w razie potrzeby do 50 mg cztery razy na dobę. Leczenie pod ścisłym nadzorem lekarza.
+PRZECIWWSKAZANIA: nadwrażliwość na promazynę, inne fenotiazyny lub substancję pomocniczą; stany śpiączkowe; guz chromochłonny; ciężka niewydolność wątroby lub nerek; agranulocytoza; ciężka niewydolność krążenia; CHOROBA PARKINSONA; przebyty złośliwy zespół neuroleptyczny; karmienie piersią; dzieci.
+INTERAKCJE: ostrożnie przy chorobach serca, arytmii i stanach predysponujących do zaburzeń rytmu, miażdżycy tętnic mózgowych, chorobie niedokrwiennej serca, niewydolności wątroby lub nerek, przewlekłych i ciężkich zaburzeniach oddechowych, astmie, rozedmie i ostrym zakażeniu dróg oddechowych. Ryzyko zaburzeń rytmu rośnie przy hipokaliemii, hipokalcemii, hipomagnezemii, niedożywieniu, nadużywaniu alkoholu i lekach wydłużających QT — szczególna ostrożność w początkowej fazie leczenia.
+DN: dyskinezy późne, zwłaszcza u osób w podeszłym wieku — po ich wystąpieniu ODSTAWIĆ promazynę. Zwiększone wydzielanie prolaktyny. Nadwrażliwość na światło — unikać ekspozycji na słońce.
+ONSET: wchłania się szybko z przewodu pokarmowego. Efekt terapeutyczny utrzymuje się od kilku dni do kilku tygodni lub dłużej. Nie wykazano prostej korelacji między stężeniem w osoczu a efektem.
+T1_2: BRAK DANYCH LOKALNYCH — ChPL nie podaje okresu półtrwania.
+METABOLIZM: metabolizm pierwszego przejścia w ścianie jelita i w wątrobie. Bardzo silne wiązanie z białkami osocza. Przenika przez barierę krew-mózg, stężenie w mózgu większe niż w osoczu. Wydalana z moczem i kałem w postaci licznych czynnych i nieczynnych metabolitów.
+NERKI: ciężka niewydolność — przeciwwskazanie; umiarkowana — ostrożność.
+WATROBA: ciężka niewydolność — przeciwwskazanie; umiarkowana — ostrożność.
+CIĄŻA: bezpieczeństwa nie ustalono; badania na zwierzętach wskazują na zagrożenie dla płodu. Fenotiazyny w ciąży i tuż przed porodem mogą powodować spadek ciśnienia u matki oraz niedotlenienie i zmiany neurologiczne u płodu; u noworodków opisywano przedłużającą się żółtaczkę, objawy pozapiramidowe i zanik odruchów. Nie stosować, zwłaszcza w pierwszym trymestrze, chyba że leczenie jest konieczne.
+KP: PRZECIWWSKAZANE. Fenotiazyny przenikają do mleka i mogą powodować u noworodka senność oraz zaburzenia rozwoju OUN. RID — BRAK DANYCH LOKALNYCH.
+MONITORING: rytm serca i czynniki ryzyka arytmii przy włączaniu; dyskinezy późne u osób starszych; elektrolity (potas, wapń, magnez).
+ZRODLO_KARTY: ChPL Promazin Jelfa 100 mg tabl.; zgodne z Promazine Hasco 100 mg.
+
+LEWOMEPROMAZYNA
+POSTAC: tabletki powlekane 25 mg (Tisercin, Levomentis). Podanie doustne, niezależnie od posiłku.
+WSKAZANIA: choroby psychiczne z pobudzeniem ruchowym i psychoruchowym, zespoły paranoidalne (schizofrenia); wspomagająco w niektórych objawach towarzyszących padaczce i niepełnosprawności intelektualnej, w depresji z niepokojem; nasilenie działania przeciwbólowego innych leków; premedykacja i pogłębienie znieczulenia ogólnego.
+DAWKA: psychozy — start 25–50 mg/d w dwóch dawkach podzielonych; w razie potrzeby 150–250 mg/d w 2–3 dawkach; po uzyskaniu efektu zmniejszyć do dawki podtrzymującej. Ból — start 25–75 mg/d, zwiększać stopniowo. Podeszły wiek, niewydolność wątroby lub nerek — najniższa skuteczna dawka i powolne zwiększanie; osoby starsze są znacznie bardziej podatne na działania niepożądane. Odstawiać stopniowo.
+ROZBIEZNOSC_ZRODLOWA: MAX dobowa — Levomentis podaje 150 mg ambulatoryjnie i 300 mg u hospitalizowanych. Tisercin maksymalnej dawki NIE PODAJE, kończy zakres na 250 mg/d. Nie wybrano wartości.
+ROZBIEZNOSC_ZRODLOWA: granica wieku — Tisercin: przeciwwskazany poniżej 12 lat. Levomentis: nie zalecany poniżej 18 lat, z powodu objawów pozapiramidowych i dyskinez późnych po klasycznych neuroleptykach. Przy zamianie produktu upewnić się, że dawki są równoważne (Levomentis).
+PRZECIWWSKAZANIA: nadwrażliwość na lewomepromazynę lub inne fenotiazyny; jaskra z wąskim kątem przesączania; retencja moczu; choroba Parkinsona; stwardnienie rozsiane; miastenia; porażenie połowicze; ciężka kardiomiopatia i niewydolność serca; ciężkie zaburzenia czynności nerek lub wątroby; istotna klinicznie hipotonia; choroby układu krwiotwórczego; porfiria; karmienie piersią.
+ROZBIEZNOSC_ZRODLOWA: pole PRZECIWWSKAZANIA — Tisercin dodatkowo wymienia jednoczesne stosowanie leków hipotensyjnych, jednoczesne stosowanie inhibitorów MAO oraz przedawkowanie środków hamujących OUN (alkohol, znieczulenie ogólne, leki nasenne). Levomentis zamiast tego wymienia złośliwy zespół neuroleptyczny.
+INTERAKCJE: leki hipotensyjne i inhibitory MAO — wg Tisercin PRZECIWWSKAZANE łączenie. Środki hamujące OUN — nasilenie sedacji.
+DN: objawy pozapiramidowe, dyskinezy późne, hipotonia ortostatyczna, sedacja. Hiperprolaktynemia — może wiązać się z zaburzeniem płodności u kobiet; dane sugerują upośledzenie płodności u mężczyzn.
+ONSET: Tmax doustnie 1–3 h; domięśniowo 30–90 minut.
+T1_2: 15–30 h.
+METABOLIZM: intensywny — metabolity sprzężone z siarczanem i glukuronianem, wydalane przez nerki. Tylko ok. 1% dawki wydala się w postaci niezmienionej z moczem i kałem.
+NERKI: ciężkie zaburzenia — przeciwwskazanie; poza tym najniższa skuteczna dawka.
+WATROBA: ciężkie zaburzenia — przeciwwskazanie; poza tym najniższa skuteczna dawka.
+CIĄŻA: opisano pojedyncze wady wrodzone u dzieci matek przyjmujących fenotiazyny, bez dowodu związku przyczynowego. Nie stosować bez starannej oceny korzyści do ryzyka (kategoria C wg FDA). Ekspozycja w trzecim trymestrze — u noworodka objawy pozapiramidowe lub odstawienne: pobudzenie, wzmożone albo obniżone napięcie, drżenie, senność, zaburzenia oddechowe, trudności w karmieniu. Noworodka starannie monitorować.
+KP: PRZECIWWSKAZANE. Przenika do mleka kobiecego, brak danych kontrolowanych. RID — BRAK DANYCH LOKALNYCH.
+MONITORING: ciśnienie tętnicze przy zwiększaniu dawki; objawy pozapiramidowe i dyskinezy późne; prolaktyna przy objawach.
+ZRODLO_KARTY: ChPL Tisercin 25 mg i Levomentis 25 mg tabl. powl. Dane farmakokinetyczne z ChPL Tisercin.
+
+CHLORPROTIKSEN
+POSTAC: tabletki powlekane 15 mg (Chlorprothixen Hasco, Chlorprothixen Zentiva). Przyjmować z posiłkiem, połykać w całości, popijając wodą lub mlekiem — inaczej podrażnienie żołądka.
+WSKAZANIA: psychozy endogenne i organiczne ze stanami pobudzenia ruchowego i agresywnością; niepokój i bezsenność w nerwicach i zaburzeniach psychosomatycznych; psychozy alkoholowe. W chirurgii — premedykacja i zapobieganie wymiotom pooperacyjnym.
+DAWKA: nerwice — zwykle 15 mg jeden do trzech razy na dobę. Zaburzenia psychotyczne — zwykle 50–100 mg dwa do czterech razy na dobę. Dawkę dobową dzielić tak, by większa część przypadała przed snem. Dzieci i młodzież — nie zalecany, brak dobrze kontrolowanych badań. Premedykacja — dawkowanie indywidualne.
+PRZECIWWSKAZANIA: nadwrażliwość na chlorprotiksen lub pochodne tioksantenu; zapaść krążeniowa; zaburzenia świadomości każdej etiologii, w tym zatrucie alkoholem, barbituranami lub opioidami, oraz śpiączka.
+PRZECIWWSKAZANIA KARDIOLOGICZNE — ROZSTRZYGAJĄ PRZED WŁĄCZENIEM: istotna bradykardia poniżej 50/min; niedawno przebyty ostry zawał serca; zdekompensowana niewydolność serca; przerost mięśnia sercowego; zaburzenia rytmu leczone lekami przeciwarytmicznymi klasy IA i III; torsade de pointes w wywiadzie; wrodzone lub nabyte wydłużenie QT — QTc powyżej 450 ms u mężczyzn i powyżej 470 ms u kobiet; jednoczesne stosowanie leków wydłużających QT; niewyrównana hipokaliemia lub niedobór magnezu.
+INTERAKCJE: leki wydłużające odstęp QT — przeciwwskazane łącznie. Środki hamujące OUN, alkohol — nasilenie sedacji.
+DN: objawy pozapiramidowe, sedacja, hipotonia ortostatyczna, działanie antycholinergiczne.
+ONSET: wchłanianie szybkie, działanie rozpoczyna się w ciągu 30 minut.
+T1_2: 8–12 h.
+METABOLIZM: intensywny wątrobowy, wydalanie metabolitów z moczem i kałem. Wiązanie z białkami ponad 99%. Duża objętość dystrybucji, przenika przez barierę krew-mózg.
+NERKI: ChPL nie podaje dostosowania dawki.
+WATROBA: ChPL nie podaje dostosowania dawki.
+CIĄŻA: doświadczenie kliniczne niewielkie. Nie stosować, chyba że spodziewana korzyść dla matki przewyższa ryzyko dla płodu. Ekspozycja w trzecim trymestrze — u noworodka objawy pozapiramidowe lub odstawienne: pobudzenie, hipertonia, hipotonia, drżenie, senność, zaburzenia oddechowe, trudności w karmieniu. Noworodka uważnie monitorować. U zwierząt bez zwiększonej częstości uszkodzeń płodu.
+KP: KARMIENIE MOŻNA KONTYNUOWAĆ, jeśli jest to klinicznie istotne. Przenika do mleka w małym stężeniu; dawka przyjmowana przez niemowlę wynosi około 2% dawki matki, działania na niemowlę przy dawkach leczniczych nie należy oczekiwać. Zalecana obserwacja niemowlęcia, zwłaszcza w pierwszych 4 tygodniach życia.
+MONITORING: EKG i QTc przed włączeniem — wydłużenie QT jest tu PRZECIWWSKAZANIEM, nie ostrożnością. Potas i magnez. Objawy pozapiramidowe.
+ZRODLO_KARTY: ChPL Chlorprothixen Hasco 15 mg tabl. powl.; zgodne z Chlorprothixen Zentiva 15 mg.
+
+ZUKLOPENTYKSOL
+POSTAC: TRZY POSTACIE O ROZŁĄCZNYM ZASTOSOWANIU — rozstrzygnij, zanim podasz dawkę. Tabletki powlekane 10 mg (Clopixol, dichlorowodorek). Octan we wstrzyknięciach 50 mg/ml (Clopixol-Acuphase) — leczenie doraźne, NIE depot. Dekanonian we wstrzyknięciach 200 mg/ml (Clopixol-Depot) — leczenie podtrzymujące. Wstrzyknięcia domięśniowo w górny zewnętrzny kwadrant pośladka; objętość powyżej 2 ml dzielić na dwa miejsca.
+WSKAZANIA: doustnie — ostra i przewlekła schizofrenia oraz inne psychozy (omamy, urojenia, zaburzenia myślenia, pobudzenie, niepokój, wrogość, agresywność); faza maniakalna ChAD. Octan — początkowe leczenie ostrych psychoz, w tym manii i zaostrzeń psychoz przewlekłych. Dekanonian — leczenie podtrzymujące schizofrenii i innych psychoz.
+DAWKA: doustnie — ostra schizofrenia, ciężkie pobudzenie, mania: zwykle 10–50 mg/d; w nasileniu umiarkowanym i ciężkim start 20 mg/d, zwiększanie o 10–20 mg co 2–3 dni do 75 mg/d lub więcej. MAX dawka pojedyncza 40 mg, MAX dobowa 150 mg. Przewlekła schizofrenia — podtrzymująco zwykle 20–40 mg/d, zwykle jedna dawka wieczorem. Podeszły wiek — dolna granica zakresu. Dzieci — nie zalecany.
+DAWKA: OCTAN (Acuphase) — zwykle 50–150 mg (1–3 ml) domięśniowo, w razie potrzeby powtarzać najlepiej co 2–3 dni; u części pacjentów dodatkowe wstrzyknięcie po 24 lub 48 h. NIE JEST przeznaczony do długotrwałego podawania: leczenie NIE DŁUŻEJ NIŻ DWA TYGODNIE, MAX skumulowana dawka jednego kursu 400 mg, MAX cztery wstrzyknięcia. Podeszły wiek — MAX 100 mg w jednym wstrzyknięciu.
+DAWKA: DEKANONIAN (Depot) — podtrzymująco zwykle 200–400 mg (1–2 ml) co dwa albo co cztery tygodnie. U części pacjentów konieczne większe dawki lub krótsze odstępy. Podeszły wiek — dolna granica zakresu.
+ODSTEPY_ZMIANA_LECZENIA: octan -> postać doustna — 2–3 dni po ostatnim wstrzyknięciu octanu 100 mg zacząć doustnie około 40 mg/d, w dawkach podzielonych; w razie potrzeby zwiększać o 10–20 mg co 2–3 dni do 75 mg/d lub więcej.
+ODSTEPY_ZMIANA_LECZENIA: octan -> dekanonian — równocześnie z ostatnim wstrzyknięciem octanu (100 mg) podać domięśniowo 200–400 mg dekanonianu 200 mg/ml, dalej co dwa tygodnie. Octan i dekanonian wolno zmieszać w jednej strzykawce.
+ODSTEPY_ZMIANA_LECZENIA: doustnie -> dekanonian — x mg dichlorowodorku doustnie na dobę odpowiada 8x mg dekanonianu co dwa tygodnie albo 16x mg co cztery tygodnie. Przez tydzień po pierwszym wstrzyknięciu kontynuować podawanie doustne w zmniejszanych dawkach.
+DAWKA_ROWNOWAZNA: 200 mg dekanonianu zuklopentyksolu odpowiada 25 mg dekanianu flufenazyny, 40 mg dekanianu cis(Z)-flupentyksolu albo 50 mg dekanianu haloperydolu. Farmakokinetycznie 200 mg dekanonianu co dwa tygodnie albo 400 mg co cztery tygodnie odpowiada dobowej dawce doustnej 25 mg zuklopentyksolu.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub pomocniczą; zapaść krążeniowa; ograniczona świadomość każdej etiologii, w tym zatrucie alkoholem, barbituranami lub opioidami; śpiączka. Wszystkie trzy produkty zgodne.
+NERKI: wszystkie trzy postacie — dawki zwykle stosowane, bez redukcji. Tylko ok. 0,1% dawki wydalane w postaci niezmienionej z moczem.
+WATROBA: octan — POŁOWA zalecanej dawki, jeśli możliwe oznaczanie stężenia w surowicy. Doustnie i dekanonian — ostrożność przy doborze dawki i, jeśli możliwe, oznaczanie stężenia. Danych farmakokinetycznych brak.
+ONSET: doustnie Tmax ok. 4 h, biodostępność ok. 44%, stan stacjonarny po 3–5 dniach. Octan — Tmax 24–48 h (średnio 36 h). Dekanonian — Tmax 3–7 dni, stan stacjonarny po około 3 miesiącach.
+T1_2: substancja czynna ok. 20 h. Octan — pozorny okres półtrwania odzwierciedlający uwalnianie z depot ok. 32 h. Dekanonian — ok. 3 tygodnie. Podając wartość, podaj postać.
+METABOLIZM: sulfoksydacja, N-dealkilacja łańcucha bocznego, sprzęganie z kwasem glukuronowym; metabolity bez działania psychofarmakologicznego. Wiązanie z białkami 98–99%, Vd ok. 20 l/kg, klirens ok. 0,86 l/min. Wydalanie głównie z kałem, ok. 10% z moczem. Część szlaków podlega polimorfizmowi CYP2D6.
+STEZENIE_TERAPEUTYCZNE: stężenie minimalne 2,8–12 ng/ml (7–30 nmol/l) jako wytyczna w leczeniu podtrzymującym schizofrenii o nasileniu łagodnym do umiarkowanego; przy dekanonianie dodatkowo różnica stężenie maksymalne do minimalnego poniżej 2,5. Przy 200 mg dekanonianu co dwa tygodnie średnie stężenie przed wstrzyknięciem ok. 10 ng/ml (25 nmol/l).
+CIĄŻA: nie podawać, chyba że oczekiwana korzyść przewyższa zagrożenie dla płodu. Ekspozycja w trzecim trymestrze — u noworodka objawy pozapiramidowe lub odstawienne: pobudzenie, hipertonia, drżenie, senność, zaburzenia oddechowe, trudności w karmieniu; noworodka dokładnie monitorować. Badania na zwierzętach wykazały szkodliwy wpływ na rozród.
+KP: KARMIENIE MOŻNA KONTYNUOWAĆ, jeśli jest to klinicznie istotne. Stężenie w mleku małe; dawka niemowlęcia poniżej 1% dawki matki w mg/kg. Stosunek stężenia mleko do surowicy około 0,29. Zalecana obserwacja niemowlęcia, zwłaszcza w pierwszych 4 tygodniach.
+DN: hiperprolaktynemia, mlekotok, brak miesiączki, zaburzenia erekcji i ejakulacji — przy objawach klinicznie znaczących rozważyć zmniejszenie dawki albo odstawienie; ustępują po odstawieniu.
+ZRODLO_KARTY: ChPL Clopixol 10 mg tabl. powl. (RPL 24809), Clopixol-Acuphase 50 mg/ml (RPL 1504), Clopixol-Depot 200 mg/ml (RPL 1505), pobrane 2026-01-15.
+
 
 ===== PLIK: DRUG_DB_BZD.txt =====
 PSYCH-AI — DRUG DB: BENZODIAZEPINY, Z-LEKI I POZOSTALE NASENNE/ANKSJOLITYCZNE
 VERSION: v3.6
 DATE: 2026-09-24
-TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+WIAZANIE: REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE
 NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
 to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
 i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
 Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
 CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
-Kart w tym pliku: 15.
+Kart w tym pliku: 16.
+
+BENZODIAZEPINY
 
 ALPRAZOLAM
 DAWKA_ROWNOWAZNA: 1–1,5 mg = 10 mg diazepamu.
@@ -4105,6 +4448,7 @@ CIĄŻA: unikać. KP: sedacja u dziecka. Brak karty w bazie reprodukcyjnej.
 MONITORING: czas stosowania, dawka, plan odstawienia.
 POMOST: przy skargach somatyzacyjnych bez podłoża organicznego podanie bromazepamu bywa jednocześnie leczeniem i informacją o emocjonalnym podłożu dolegliwości.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+KP: bromazepam przenika do mleka kobiecego — kobiety karmiące NIE POWINNY go stosować. RID — BRAK DANYCH LOKALNYCH. [ChPL Bromox 4.6]
 
 DIAZEPAM
 DAWKA: wg wskazania; pełne dawkowanie zweryfikować w aktualnej ChPL.
@@ -4131,6 +4475,7 @@ UZALEŻNIENIE: TAK.
 CIĄŻA/KP: BRAK DANYCH LOKALNYCH — LIVE CHECK.
 MONITORING: czas stosowania, plan odstawienia.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+KP: NIE KARMIĆ PIERSIĄ w trakcie terapii. Jeśli podanie matce karmiącej jest konieczne — odstawić dziecko od piersi. RID — BRAK DANYCH LOKALNYCH. [ChPL Estazolam TZF 4.6]
 
 NITRAZEPAM
 POSTAC: tabletki doustne 5 mg.
@@ -4192,7 +4537,7 @@ KP: przenika do mleka; nie karmić piersią podczas przyjmowania.
 WATROBA: stosować ostrożnie, może być konieczne zmniejszenie dawki. Glukuronizacja bez CYP czyni go stosunkowo bezpiecznym przy wielolekowości.
 ZRODLO_KARTY: ChPL Oxazepam Espefa 10 mg, Oksazepam TZF 10 mg i Oxazepam GSK 10 mg, pobrano 2026-09-23.
 
-UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE
+LEKI Z / NASENNE NIEBENZODIAZEPINOWE
 
 ZOPIKLON
 DAWKA: 7,5 mg na noc; podeszły wiek lub niewydolność wątroby 3,75 mg. Najkrócej jak to możliwe, ≤14 dni w pomoście.
@@ -4208,8 +4553,6 @@ KP: karta w DRUG_DB_CIAZA_LAKTACJA — OSTROZNOSC, RID 1,2–3,2%.
 MONITORING: czas stosowania, plan odstawienia, parasomnie.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
-BENZODIAZEPINY / NASENNE
-
 ZOLPIDEM
 DAWKA: 10 mg na noc; osoby starsze i niewydolnosc watroby 5 mg. Krotko, do 4 tyg. z odstawianiem.
 WSKAZANIA: bezsennosc krotkotrwala.
@@ -4222,6 +4565,8 @@ INTERAKCJE: alkohol i depresanty OUN; CYP3A4.
 CIAZA: unikac, zwlaszcza III trymestr.
 KP: przenika do mleka, unikac.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+ANKSJOLITYKI I NASENNE NIE-BZD
 
 HYDROKSYZYNA
 DAWKA: lęk u dorosłych zwykle 50 mg/d w dawkach podzielonych, do 100 mg/d MAX u dorosłych zgodnie z europejskimi ograniczeniami QT (osoby starsze: pole STARSI; nerki: pole NERKI); stosować najmniejszą skuteczną dawkę jak najkrócej.
@@ -4266,18 +4611,88 @@ KP: ograniczone dane — ostrożność.
 MONITORING: interakcje CYP3A4.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
+MELATONINA
+POSTAC: dwie postaci o ROZŁĄCZNYCH wskazaniach i różnej farmakokinetyce — rozstrzygnij, zanim podasz dawkę. Tabletki o natychmiastowym uwalnianiu 5 mg (Melabiorytm). Tabletki o przedłużonym uwalnianiu 2 mg (Melanoc PR) — połykać w całości, nie kruszyć ani nie ssać. Circadin 2 mg jest w rejestrze, ale bez ChPL w spisie — z tego produktu nie ma danych.
+WSKAZANIA: Melabiorytm — pomocniczo w zaburzeniach snu przy zmianie stref czasowych i przy pracy zmianowej oraz w regulacji rytmu dobowego u osób niewidomych. Melanoc PR — monoterapia w krótkotrwałym leczeniu pierwotnej bezsenności o niskiej jakości snu u pacjentów w wieku 55 lat lub starszych. Wskazania NIE POKRYWAJĄ SIĘ.
+DAWKA: Melabiorytm (uwalnianie natychmiastowe) — zmiana stref czasowych: 2–3 mg raz na dobę po zmroku, od pierwszego dnia podróży, kontynuacja przez 2–3 dni po jej zakończeniu. Praca zmianowa: 1–5 mg na dobę na godzinę przed snem. Osoby niewidome: 0,5–5 mg raz na dobę, około 21:00–22:00, także długotrwale. Stosować najmniejszą skuteczną dawkę; ugruntowane zastosowanie obejmuje dawki od 0,5 mg, a ten produkt tylko gdy mniejsze dawki okazały się nieskuteczne. Efekt w leczeniu długotrwałym bywa widoczny dopiero po 2 tygodniach.
+DAWKA: Melanoc PR (przedłużone uwalnianie) — 2 mg raz na dobę, 1–2 godziny przed snem, po posiłku. Do 13 tygodni. Osoby w podeszłym wieku — bez dostosowania dawki. <18 lat — bezpieczeństwa i skuteczności nie określono (oba produkty).
+PRZECIWWSKAZANIA: ROZBIEZNOSC_ZRODLOWA, różnica decyzyjna. Melabiorytm: nadwrażliwość ORAZ nie stosować u dzieci i młodzieży, w ciąży i podczas karmienia piersią, po spożyciu alkoholu, w zaburzeniach czynności wątroby lub nerek oraz U PACJENTÓW Z DEPRESJĄ. Melanoc PR: wyłącznie nadwrażliwość na substancję czynną lub pomocniczą — depresji, ciąży ani wątroby nie wymienia jako przeciwwskazania.
+NERKI: Melabiorytm — nie stosować przy zaburzeniach czynności nerek. Melanoc PR — wpływu żadnego stadium nie zbadano, zachować ostrożność; po dawkach wielokrotnych kumulacji nie stwierdzono.
+WATROBA: Melabiorytm — nie stosować. Melanoc PR — brak doświadczenia, NIE ZALECA SIĘ; u pacjentów z marskością stężenia melatoniny endogennej znacznie podwyższone w ciągu dnia, wydalanie 6-sulfatoksymelatoniny znacznie obniżone.
+INTERAKCJE: fluwoksamina — UNIKAĆ ŁĄCZENIA; hamuje CYP1A2 i CYP2C19, zwiększa AUC melatoniny 17-krotnie i Cmax 12-krotnie. 5- i 8-metoksypsoralen, cymetydyna, estrogeny (antykoncepcja, HTZ) — zwiększają stężenie, ostrożność. Inhibitory CYP1A2 (chinolony) — wzrost ekspozycji. Induktory CYP1A2 (karbamazepina, ryfampicyna) — spadek stężenia. Palenie papierosów zmniejsza stężenie przez indukcję CYP1A2.
+INTERAKCJE: leki metabolizowane przez CYP2C19 (cytalopram, omeprazol, lanzoprazol) spowalniają metabolizm melatoniny i zwiększają jej biodostępność (Melabiorytm).
+INTERAKCJE: nasila działanie uspokajające benzodiazepin, zaleplonu, zolpidemu i zopiklonu. Z zolpidemem wykazano przejściową interakcję farmakodynamiczną godzinę po podaniu — nasilone zaburzenia uwagi, pamięci i koordynacji wobec samego zolpidemu. Z tiorydazyną — nasilone „zamroczenie". Z imipraminą — nasilone rozluźnienie i trudności z wykonywaniem zadań. Alkohol — nie spożywać, zmniejsza skuteczność nasenną.
+DN: senność — stosować ostrożnie, gdy senność może zagrażać bezpieczeństwu (Melanoc PR). Ostrożność przy zaburzeniach układu immunologicznego, zaburzeniach hormonalnych, padaczce i leczeniu przeciwzakrzepowym (Melabiorytm); przy chorobach autoimmunologicznych Melanoc PR NIE JEST ZALECANY.
+ONSET: Melabiorytm — Tmax 0,5–2 h, posiłek zwiększa wchłanianie. Melanoc PR — Tmax 3 h po posiłku, posiłek opóźnia i obniża szczyt (Tmax 3,0 h wobec 0,75 h na czczo; Cmax 1020 wobec 1176 pg/ml).
+T1_2: ROZBIEZNOSC_ZRODLOWA — Melabiorytm (natychmiastowe): 30–50 minut. Melanoc PR (przedłużone): 3,5–4 godziny. Różnica wynika z postaci; podając wartość, podaj produkt.
+METABOLIZM: wątrobowy, CYP1A1, CYP1A2 i CYP2C19; silny efekt pierwszego przejścia (30–85%; dla postaci PR szacowany na 85%). Główny metabolit 6-sulfatoksymelatonina — nieaktywny, całkowicie wydalany w ciągu 12 h. Biodostępność 3–76% (Melabiorytm), rzędu 15% (Melanoc PR). Wiązanie z białkami ok. 60%. Metabolizm słabnie z wiekiem — u osób 55–69 lat Cmax ok. 1200 pg/ml wobec ok. 500 pg/ml u dorosłych 18–45 lat. U kobiet Cmax 3–4-krotnie większe niż u mężczyzn, bez różnic farmakodynamicznych.
+CIĄŻA: ROZBIEZNOSC_ZRODLOWA — Melabiorytm: PRZECIWWSKAZANA w ciąży. Melanoc PR: nie zaleca się u kobiet w ciąży i zamierzających zajść w ciążę. Brak danych klinicznych; badania na zwierzętach bez szkodliwego wpływu na ciążę i rozwój zarodka/płodu.
+KP: Melabiorytm — PRZECIWWSKAZANY w okresie karmienia. Melanoc PR — nie zaleca się karmienia piersią. W mleku ludzkim stwierdzano melatoninę endogenną, więc egzogenna prawdopodobnie też przenika; dane zwierzęce potwierdzają przenikanie przez łożysko i do mleka. RID — BRAK DANYCH LOKALNYCH.
+ZRODLO_KARTY: ChPL Melabiorytm 5 mg tabl., pobrano 2025-09-23 (RPL 34688); ChPL Melanoc PR 2 mg tabl. o przedł. uwalnianiu, pobrano 2025-06-17 (RPL 49795). Circadin 2 mg — BRAK URL ChPL W SPISIE, brak danych.
+
+PROPRANOLOL
+POSTAC: tabletki 10 mg (Propranolol WZF, Propranolol Accord, Propranolol Aurovitas). Karta obejmuje wskazania psychiatryczne i pola, które przy nich rozstrzygają; pełna lista wskazań kardiologicznych jest w ChPL.
+WSKAZANIA: ChPL wymienia wprost ZMNIEJSZENIE LĘKU SYTUACYJNEGO I UOGÓLNIONEGO, SZCZEGÓLNIE TYPU SOMATYCZNEGO oraz LECZENIE DRŻENIA SAMOISTNEGO. Poza tym: nadciśnienie, dławica piersiowa poza postacią Prinzmetala, prewencja zawału, zaburzenia rytmu, profilaktyka migreny, nadciśnienie wrotne, nadczynność tarczycy i przełom tarczycowy, kardiomiopatia przerostowa, okres okołooperacyjny w guzie chromochłonnym.
+DAWKA: ostry lęk sytuacyjny — 40 mg na dobę. Lęk uogólniony wymagający przewlekłego leczenia — zwykle 40 mg dwa razy na dobę, można zwiększyć do 40 mg trzy razy na dobę. Po 6–12 miesiącach stosowania KONTROLA stanu pacjenta.
+DAWKA: drżenie samoistne — start 40 mg dwa lub trzy razy na dobę, zwiększanie o taką samą dawkę w odstępach tygodniowych; zwykle 80–160 mg/d.
+DAWKA: nadczynność tarczycy, przełom tarczycowy, zaburzenia rytmu — 10–40 mg trzy razy na dobę.
+ODSTAWIANIE: nie przerywać nagle. Decydując o zaprzestaniu, zawsze rozważyć stosunek ryzyka do korzyści.
+PRZECIWWSKAZANIA: ASTMA OSKRZELOWA i stany skurczowe oskrzeli; nadwrażliwość; bradykardia; wstrząs kardiogenny; niekontrolowana niewydolność serca; niedociśnienie tętnicze; kwasica metaboliczna; DŁUGOTRWAŁE GŁODZENIE; ciężkie zaburzenia krążenia obwodowego; blok serca II lub III stopnia; dławica Prinzmetala; zespół chorego węzła zatokowego; nieleczony guz chromochłonny.
+PRZECIWWSKAZANIA: nie stosować u osób z ryzykiem niewyrównania hipoglikemii — niedożywionych, wyniszczonych, z przewlekłymi chorobami wątroby, z cukrzycą, przyjmujących leki hamujące pełną odpowiedź na katecholaminy.
+DN: HIPOGLIKEMIA — propranolol może ją maskować lub modyfikować, zwłaszcza tachykardię, i sam może ją sporadycznie wywołać także u osób bez cukrzycy: u noworodków, niemowląt, dzieci, osób w podeszłym wieku, dializowanych, z przewlekłą chorobą wątroby, po przedawkowaniu. Odnotowano pojedyncze przypadki ciężkiej hipoglikemii z drgawkami lub śpiączką. Wydłuża hipoglikemiczną odpowiedź na insulinę.
+DN: bradykardia; nasilenie zaburzeń krążenia obwodowego; ostrożność przy bloku serca pierwszego stopnia.
+DN: skurcz oskrzeli — w razie wystąpienia podać agonistę receptora beta-2 (salbutamol, w dużych dawkach, dożylnie lub wziewnie); alternatywnie aminofilina dożylnie albo ipratropium w nebulizacji; skuteczny jest także glukagon dożylnie 1–2 mg. W ciężkich przypadkach tlen lub oddech wspomagany.
+INTERAKCJE: antagoniści kanału wapniowego — nie podawać dożylnie razem z beta-adrenolitykiem ani dożylnie w ciągu 48 h po ich odstawieniu; ryzyko bradykardii i niewydolności serca. Leki hipoglikemizujące i insulina — ostrożność u pacjenta z cukrzycą.
+ONSET: wchłanianie z przewodu pokarmowego całkowite; Tmax na czczo 1–2 h.
+T1_2: doustnie 3–6 h; po podaniu dożylnym około 2 h. Wydłuża się przy znaczącej niewydolności nerek lub wątroby.
+METABOLIZM: około 90% dawki doustnej metabolizowane w wątrobie; główny czynny metabolit 4-hydroksypropranolol powstaje tylko po podaniu doustnym. Wiązanie z białkami 80–95%. Szybka dystrybucja, duże stężenia w płucach, wątrobie, nerkach, mózgu i sercu.
+NERKI: znacząca niewydolność wydłuża okres półtrwania — ostrożność przy rozpoczynaniu leczenia i doborze dawki początkowej.
+WATROBA: ostrożnie w marskości. U pacjentów z nadciśnieniem wrotnym możliwe pogorszenie czynności wątroby, a nawet encefalopatia wątrobowa.
+CIĄŻA: stosować tylko gdy jest to konieczne. Nie stwierdzono działania teratogennego, ale jak inne beta-adrenolityki zmniejsza przepływ łożyskowy — możliwa śmierć płodu, poronienie, poród przedwczesny; u płodu bradykardia, u noworodka hipoglikemia i bradykardia oraz zwiększone ryzyko powikłań sercowo-płucnych po urodzeniu.
+KP: przenika do pokarmu kobiecego. NIE ZALECA SIĘ karmienia piersią w czasie stosowania. RID — BRAK DANYCH LOKALNYCH.
+MONITORING: tętno i ciśnienie przy włączaniu i zwiększaniu dawki; glikemia u pacjenta z cukrzycą, niedożywionego albo ograniczającego jedzenie; kontrola stanu po 6–12 miesiącach leczenia lęku.
+ZRODLO_KARTY: ChPL Propranolol WZF 10 mg (RPL 5583); w cache także Propranolol Accord 10 mg i Propranolol Aurovitas 10 mg.
+
 
 ===== PLIK: DRUG_DB_STAB.txt =====
 PSYCH-AI — DRUG DB: STABILIZATORY I PRZECIWPADACZKOWE
 VERSION: v3.6
 DATE: 2026-09-24
-TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+WIAZANIE: REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE
 NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
 to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
 i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
 Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
 CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
 Kart w tym pliku: 3.
+
+STABILIZATORY NASTROJU
+
+LIT
+DAWKA: profilaktyka 0,5–1,25 g/d w dawkach podzielonych, min. 3 części; stan maniakalny 1,5–2,0 g/d, po ustąpieniu ostrej fazy natychmiast zmniejszyć. Nie zaleca się poniżej 12 r.ż.
+STEZENIE_TERAPEUTYCZNE: profilaktyka 0,5–0,8 mmol/l. Mania: ROZBIEZNOSC_ZRODLOWA — pkt 4.2 podaje 0,6–1,2 mmol/l, pkt 5.2 tego samego dokumentu 0,8–1,2 mmol/l; obie równolegle, bez wartości domyślnej. Pomiar 12 h po ostatniej dawce. Kontrola: początkowo min. 1×/tydz.; po ustaleniu co 1–2 mies.; w remisji co 2–3 mies.
+WSKAZANIA: epizod maniakalny w ChAD; zapobieganie nawrotom ChAD; zapobieganie epizodom depresji w zaburzeniach depresyjnych nawracających.
+PRZECIWWSKAZANIA [ChPL 4.3 Lithium Carbonicum GSK, pobrano 2026-09-22] — 7 poz.:
+  - nadwrażliwość (uczulenie) na substancję czynną lub pozostałe składniki produktu
+  - ciężka niewydolność nerek
+  - świeżo przebyty zawał mięśnia sercowego
+  - organiczne uszkodzenia mózgu
+  - białaczka
+  - ciąża (działanie teratogenne w I trymestrze)
+  - okres karmienia piersią (lit przenika do mleka matki)
+  UWAGA_PRODUKTOWA: w cache tylko ten produkt; inny moze miec inna liste 4.3.
+ONSET: działanie lecznicze po 1–3 tyg.
+T1_2: ok. 19 h, zakres 13–33 h; wydłużony u osób starszych i przy upośledzeniu nerek.
+METABOLIZM: bez metabolizmu wątrobowego; ok. 95% wydalane przez nerki. Niedobór sodu i wody nasila wchłanianie zwrotne → wzrost stężenia.
+DN: początkowo drżenia, dolegliwości żołądkowo-jelitowe, wielomocz, wzmożone pragnienie, osłabienie siły mięśniowej, znużenie; nasilenie zależy od stężenia.
+  TOKSYCZNOŚĆ — PROG_LICZBOWY: BRAK W ChPL, decyzja oparta na objawach. Pierwsze objawy = NATYCHMIASTOWE przerwanie: wydłużenie QT/QTc w EKG; biegunka, wymioty, odwodnienie; ataksja, drżenie, hipertonia, mimowolne skurcze, neuropatia obwodowa, osłabione lub nieobecne odruchy głębokie, hiperrefleksja, zaburzenia mowy, splątanie, senność, oczopląs. Następstwa neurologiczne bywają nieodwracalne mimo odstawienia.
+INTERAKCJE: wzrost stężenia — NLPZ (w tym koksyby), ACE-I, sartany, diuretyki tiazydowe, amiloryd, metronidazol. Spadek — ksantyny (teofilina, kofeina), mocznik, związki alkalizujące, inhibitory SGLT2, inhibitory anhydrazy węglanowej. Topiramat do 600 mg/d: AUC litu +26%, zgłaszane przypadki toksyczności.
+CIĄŻA: nie stosować, zwłaszcza I trymestr — zwiększona częstość wad wrodzonych, szczególnie sercowo-naczyniowych.
+KP: karmienie piersią przeciwwskazane w trakcie terapii.
+MONITORING: przed leczeniem — tarczyca, nerki, EKG, sód, glukoza ORAZ WAPŃ; wapń kontrolować okresowo, w razie potrzeby PTH (lit może powodować hiperkalcemię z nadczynnością przytarczyc lub bez). Dalej stężenie litu wg pola STEZENIE_TERAPEUTYCZNE.
+  CZYNNIKI RYZYKA: niewydolność nerek, choroba sercowo-naczyniowa, nieleczona niedoczynność tarczycy, niewyrównany sód wskutek odwodnienia, choroba Addisona, zmniejszona podaż soli. Ostrożnie: choroba Parkinsona, zaburzenia węzła zatokowego i przewodnictwa, padaczka, łuszczyca, miastenia wrodzona, cukrzyca, schizofrenia.
+ODSTAWIANIE: stopniowo, przez min. 2 tygodnie — nagłe może przyspieszyć nawrót. Objawy toksyczności: przerwanie natychmiast, bez stopniowania.
+ZRODLO_KARTY: ChPL Lithium Carbonicum GSK 250 mg, pobrano 2026-09-22.
 
 KARBAMAZEPINA
 DAWKA: profilaktyka ChAD u pacjentów bez odpowiedzi na lit — start 400 mg/d w dawkach podzielonych, zwykle 400–600 mg/d, MAX 1600 mg/d. Padaczka: start 100–200 mg 1–2×/d, zwykle 800–1200 mg/d; część dorosłych 1600–2000 mg/d. Dzieci 10–20 mg/kg/d w dawkach podzielonych.
@@ -4334,6 +4749,8 @@ KP: przenika do mleka; możliwe karmienie w wybranych sytuacjach z obserwacją.
 MONITORING: rash, adherence; rozważyć poziom przed/ w ciąży.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
+GABAPENTYNOIDY
+
 PREGABALINA
 DAWKA_NERKI: redukcja wg klirensu kreatyniny — wartości BRAK DANYCH LOKALNYCH, lookup ChPL przed podaniem mg przy eGFR <60.
 DAWKA: 150 mg/d w 2–3 dawkach start; 150–600 mg/d; MAX 600 mg/d; redukcja w niewydolności nerek.
@@ -4349,20 +4766,88 @@ KP: przenika do mleka; zwykle ostrożność/indywidualna decyzja.
 MONITORING: eGFR, sedacja, obrzęki, misuse.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
-TCA / STARSZE
+GABAPENTYNA
+POSTAC: kapsułki twarde 100 mg, 300 mg, 400 mg i tabletki 600 mg (Epigapent, Gabacol, Gabapentin Aurovitas). Połykać w całości, popijając wodą. Kapsułki 100 mg służą do precyzyjnego dawkowania przy niewydolności nerek.
+WSKAZANIA: padaczka — leczenie wspomagające napadów częściowych z wtórnym uogólnieniem lub bez, od 6 lat; monoterapia tych napadów od 12 lat. Obwodowy ból neuropatyczny u dorosłych (bolesna neuropatia cukrzycowa, nerwoból po półpaścu). Wskazania psychiatrycznego ChPL NIE PODAJE.
+DAWKA: schemat startowy wspólny dla wszystkich wskazań — dzień 1: 300 mg raz na dobę; dzień 2: 300 mg dwa razy; dzień 3: 300 mg trzy razy. Dalej zwiększanie o 300 mg/d co 2–3 dni do maksymalnie 3600 mg/d. Dawka dobowa zawsze w trzech dawkach podzielonych, odstęp między dawkami nie dłuższy niż 12 godzin. Skuteczny zakres w badaniach 900–3600 mg/d. Minimalny czas dojścia: do 1800 mg/d tydzień, do 2400 mg/d dwa tygodnie, do 3600 mg/d trzy tygodnie.
+ROZBIEZNOSC_ZRODLOWA: górna granica tolerancji — Gabacol podaje, że dawki do 4800 mg/d były dobrze tolerowane w długookresowych badaniach otwartych. Epigapent i Gabapentin Aurovitas tej informacji nie zawierają; maksymalna dawka we wszystkich trzech to 3600 mg/d.
+ODSTAWIANIE: stopniowo, przez co najmniej tydzień, niezależnie od wskazania. Nagłe odstawienie leku przeciwdrgawkowego u chorego na padaczkę może wywołać stan padaczkowy.
+NERKI: dawka wg klirensu kreatyniny — CrCl ≥80 ml/min: 900–3600 mg/d; 50–79: 600–1800; 30–49: 300–900; 15–29: 150–600; <15: 150–300. Dawkę 150 mg/d podaje się jako 300 mg co drugi dzień. Przy CrCl <15 ml/min zmniejszyć proporcjonalnie do klirensu (przy 7,5 ml/min — połowa dawki dobowej). Hemodializa u pacjenta z bezmoczem, dotąd nieleczonego: dawka nasycająca 300–400 mg, potem 200–300 mg po każdych 4 godzinach dializy; w dniach bez dializy nie podawać.
+WATROBA: nie jest metabolizowana — ChPL nie podaje dostosowania dawki.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub pomocniczą. Innych przeciwwskazań ChPL nie wymienia. Nigdy nie wznawiać leczenia u pacjenta, u którego wystąpił SJS, TEN lub DRESS po gabapentynie.
+INTERAKCJE: opioidy i inne leki hamujące OUN — ryzyko sedacji i DEPRESJI ODDECHOWEJ. Przy łącznym stosowaniu uważna obserwacja w kierunku senności, uspokojenia polekowego i depresji oddechowej; zmniejszyć dawkę gabapentyny albo opioidu. Morfina zwiększa stężenie gabapentyny.
+UZALEŻNIENIE: gabapentyna MOŻE powodować uzależnienie, także przy dawkach terapeutycznych; notowano niewłaściwe stosowanie i nadużywanie. Większe ryzyko przy nadużywaniu substancji w wywiadzie. Kontrolować tolerancję, eskalację dawki i zachowania poszukiwania środka.
+DN: objawy odstawienne po zmniejszeniu dawki lub przerwaniu leczenia, także krótkotrwałego — najczęściej niepokój, bezsenność, nudności, bóle, pocenie się, drżenie, ból głowy, depresja. Poinformować pacjenta na początku leczenia.
+DN: myśli i zachowania samobójcze — metaanaliza badań z placebo wykazała niewielki wzrost ryzyka dla leków przeciwpadaczkowych jako grupy; przy ich wystąpieniu rozważyć przerwanie leczenia. Zawroty głowy i senność — ryzyko upadków. Po wprowadzeniu do obrotu: splątanie, utrata przytomności, zaburzenia psychiczne. Ostre zapalenie trzustki — rozważyć odstawienie.
+DN: ciężkie skórne reakcje niepożądane (SCAR) — SJS, TEN, DRESS, mogące zagrażać życiu. Reakcje anafilaktyczne: trudności w oddychaniu, obrzęk warg, gardła i języka, niedociśnienie — odstawić i natychmiast szukać pomocy. U pacjentów z napadami mieszanymi, w tym nieświadomości, stosować ostrożnie — może je nasilać.
+INTERAKCJE: leki zobojętniające z glinem i magnezem zmniejszają biodostępność gabapentyny do 24% — przyjmować gabapentynę najwcześniej 2 godziny po takim leku. Doustna antykoncepcja z noretyndronem i etynyloestradiolem — bez wpływu. Probenecyd — bez wpływu na wydalanie nerkowe. Bez interakcji z innymi lekami przeciwpadaczkowymi na poziomie stężeń w osoczu.
+ONSET: Tmax 2–3 h. Pokarm, także dieta bogatotłuszczowa, bez istotnego klinicznie wpływu. Biodostępność kapsułki 300 mg ok. 60% i maleje ze wzrostem dawki.
+T1_2: 5–7 h, niezależnie od dawki. U osób starszych i z niewydolnością nerek klirens zmniejszony.
+METABOLIZM: BRAK — brak dowodów, że organizm ludzki metabolizuje gabapentynę; nie indukuje oksydaz wątrobowych. Wydalana przez nerki wyłącznie w postaci niezmienionej. Nie wiąże się z białkami osocza; objętość dystrybucji 57,7 l. Usuwana z osocza przez hemodializę.
+CIĄŻA: przenika przez łożysko. Badanie skandynawskie, ponad 1700 ciąż z ekspozycją w pierwszym trymestrze — bez zwiększonego ryzyka ciężkich wad wrodzonych ani zaburzeń neurorozwojowych. Ograniczone dowody na większe ryzyko niskiej masy urodzeniowej i porodu przedwczesnego, bez wzrostu ryzyka poronienia. Może być stosowana w pierwszym trymestrze, jeśli jest to klinicznie konieczne. U noworodków notowano zespół odstawienny — ryzyko większe przy jednoczesnej ekspozycji na opioidy; noworodka uważnie monitorować. Nie przerywać nagle leczenia przeciwpadaczkowego u ciężarnej.
+KP: przenika do mleka ludzkiego. Wpływ na niemowlę karmione piersią nieznany — zachować ostrożność. RID — BRAK DANYCH LOKALNYCH.
+MONITORING: myśli i zachowania samobójcze; objawy nadużywania i uzależnienia; reakcje skórne od początku leczenia; przy skojarzeniu z opioidem — sedacja i oddech.
+ZRODLO_KARTY: ChPL Epigapent 600 mg, Gabacol 100 mg, Gabapentin Aurovitas 100 mg, pobrane z RPL; dane dawkowe i farmakokinetyczne z ChPL Epigapent, tabela nerkowa z ChPL Gabapentin Aurovitas.
+
+PRZECIWPADACZKOWE W UZYCIU PSYCHIATRYCZNYM
+
+OKSKARBAZEPINA
+POSTAC: tabletki powlekane 150 mg, 300 mg, 600 mg (Trileptal, Oxepilax, Karbagen). Pokarm bez wpływu — można przyjmować z posiłkiem lub między posiłkami.
+WSKAZANIA: napady padaczkowe częściowe z wtórnie uogólnionymi napadami toniczno-klonicznymi lub bez, w monoterapii albo leczeniu skojarzonym, u dorosłych i dzieci od 6 lat. Wskazania psychiatrycznego ChPL NIE PODAJE.
+DAWKA: dorośli, monoterapia i leczenie skojarzone — start 600 mg/d (8–10 mg/kg/d) w dwóch dawkach podzielonych. Zwiększanie o maksymalnie 600 mg/d w odstępach około tygodniowych. Zakres skuteczny 600–2400 mg/d. W monoterapii 1200 mg/d było skuteczne; przy padaczce opornej, przy przechodzeniu z innych leków — 2400 mg/d. Dawek powyżej 2400 mg/d nie badano systematycznie. W leczeniu skojarzonym większość pacjentów nie tolerowała 2400 mg/d bez zmniejszenia dawek pozostałych leków przeciwpadaczkowych — z powodu działań niepożądanych ze strony OUN.
+DAWKA: zamiana z innego leku przeciwpadaczkowego — dawkę poprzedniego zmniejszać stopniowo od momentu rozpoczęcia okskarbazepiny. W leczeniu skojarzonym może być konieczne zmniejszenie dawki drugiego leku albo wolniejsze zwiększanie okskarbazepiny.
+NERKI: klirens kreatyniny poniżej 30 ml/min — start od POŁOWY dawki początkowej, czyli 300 mg/d; zwiększanie w odstępach co najmniej tygodniowych, przy wnikliwszej obserwacji. U tych pacjentów okres półtrwania MHD wydłuża się o 60–90% (do 16–19 h), a AUC jest dwukrotnie większe.
+WATROBA: łagodne i umiarkowane zaburzenia — bez zmiany dawkowania. Ciężkie — brak danych, zachować ostrożność.
+PRZECIWWSKAZANIA: nadwrażliwość na okskarbazepinę, eslikarbazepinę lub substancję pomocniczą. Nie podawać ponownie pacjentowi, który przerwał leczenie z powodu reakcji nadwrażliwości.
+NADWRAŻLIWOŚĆ KRZYŻOWA: pacjent z reakcją nadwrażliwości na KARBAMAZEPINĘ ma około 25–30% ryzyka reakcji nadwrażliwości, w tym ciężkiej skórnej, na okskarbazepinę. Reakcje wielonarządowe mogą wystąpić także bez wcześniejszej nadwrażliwości na karbamazepinę i mogą dotyczyć skóry, wątroby, krwi i układu limfatycznego.
+OSTRZEŻENIE_GENETYCZNE: allel HLA-B*1502 u osób pochodzenia chińskiego (Han), tajskiego i z innych populacji azjatyckich — ścisły związek z ryzykiem zespołu Stevensa-Johnsona i toksycznej nekrolizy naskórka.
+DN: HIPONATREMIA — u maksymalnie 2,7% leczonych stężenie sodu poniżej 125 mmol/l, zazwyczaj bezobjawowe; wraca do normy po zmniejszeniu dawki, przerwaniu leczenia albo ograniczeniu płynów. U pacjentów z ryzykiem hiponatremii wymagane ścisłe monitorowanie sodu.
+DN: myśli i zachowania samobójcze — metaanaliza badań z placebo wykazała niewielki wzrost ryzyka dla leków przeciwpadaczkowych jako grupy. Objawy zahamowania czynności szpiku — rozważyć przerwanie leczenia. Nasilenie napadów, zwłaszcza u dzieci, ale możliwe też u dorosłych — odstawić.
+INTERAKCJE: HORMONALNA ANTYKONCEPCJA — okskarbazepina może zmniejszać skuteczność doustnych środków z etynyloestradiolem i lewonorgestrelem. Zalecana antykoncepcja niehormonalna, np. wkładka domaciczna. Alkohol — działanie addycyjne, ostrożność.
+ONSET: wchłanianie całkowite; mediana Tmax MHD 4,5 h po dawce 600 mg.
+T1_2: okskarbazepina 1,3–2,3 h; czynny metabolit MHD średnio 9,3 h (±1,8). Przy CrCl <30 ml/min MHD 16–19 h.
+METABOLIZM: prolek — intensywna przemiana do czynnego metabolitu 10-monohydroksypochodnej (MHD), która odpowiada za efekt terapeutyczny; MHD to ok. 70% radioaktywności osocza, niezmieniona okskarbazepina tylko 2%. Wiązanie MHD z białkami ok. 40%, objętość dystrybucji 49 l. Przenika przez łożysko.
+MONITORING: sód w surowicy u pacjentów z ryzykiem hiponatremii. Rutynowe oznaczanie stężenia leku NIE jest zalecane; uzasadnione, gdy spodziewana jest zmiana klirensu MHD — wtedy pomiar 2–4 h po dawce, cel: Cmax MHD poniżej 35 mg/l. Myśli samobójcze. Morfologia przy objawach zahamowania szpiku.
+CIĄŻA: dane z 300–1000 ciąż; nie notuje się zwiększenia całkowitej częstości wad wrodzonych wobec populacji ogólnej (2–3%), ale umiarkowanego ryzyka teratogenności nie można wykluczyć. Nie przerywać skutecznego leczenia przeciwpadaczkowego — nasilenie choroby szkodzi matce i płodowi. Politerapia, zwłaszcza z walproinianem, zwiększa ryzyko wad.
+KP: przenika do mleka. Decyzja wg 18A. RID — BRAK DANYCH LOKALNYCH.
+ZRODLO_KARTY: ChPL Trileptal 300 mg; w cache także Oxepilax 300 mg i Karbagen 150 mg.
+
+TOPIRAMAT
+POSTAC: tabletki powlekane 25 mg, 50 mg, 100 mg, 200 mg (Epitoram, Etopro, Oritop). Niezależnie od posiłków. Tabletki powlekane i kapsułki twarde są biorównoważne.
+WSKAZANIA: monoterapia napadów częściowych z wtórnym uogólnieniem lub bez oraz pierwotnie uogólnionych toniczno-klonicznych, od 6 lat. Terapia uzupełniająca od 2 lat, także w zespole Lennoxa-Gastauta. Zapobieganie migrenie u dorosłych — po dokładnym rozważeniu innych metod. NIE w leczeniu ostrego bólu głowy. Wskazania psychiatrycznego ChPL NIE PODAJE.
+DAWKA: dorośli, monoterapia — start 25 mg na noc przez tydzień, następnie zwiększanie o 25 lub 50 mg/d w odstępach jedno- lub dwutygodniowych, w dwóch dawkach podzielonych. Docelowo początkowo 100–200 mg/d. MAX zalecana 500 mg/d w dwóch dawkach podzielonych. Część pacjentów z padaczką oporną tolerowała do 1000 mg/d. Dotyczy też osób starszych bez choroby nerek. Przy nietolerancji — mniejsze przyrosty albo dłuższe odstępy.
+ODSTAWIANIE: stopniowo, aby nie wywołać lub nie nasilić napadów. W badaniach zmniejszano o 50–100 mg na tydzień w padaczce u dorosłych, a o 25–50 mg na tydzień przy dawkach do 100 mg/d w profilaktyce migreny. U dzieci odstawiano przez 2–8 tygodni.
+DAWKA: przejście na monoterapię — dawki dotychczasowych leków przeciwpadaczkowych zmniejszać o około jedną trzecią w odstępach dwutygodniowych. Po odstawieniu leku indukującego enzymy stężenie topiramatu w osoczu może wzrosnąć — może być wskazane zmniejszenie dawki.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub pomocniczą. ZAPOBIEGANIE MIGRENIE — przeciwwskazane u kobiet w ciąży oraz u kobiet w wieku rozrodczym niestosujących wysoce skutecznej antykoncepcji.
+PROGRAM_ZAPOBIEGANIA_CIAZY: przed rozpoczęciem leczenia u kobiety w wieku rozrodczym wykonać TEST CIĄŻOWY i zalecić wysoce skuteczną antykoncepcję; pacjentkę szczegółowo poinformować o ryzyku w ciąży. Planująca ciążę — wizyta wstępna, ponowna ocena leczenia i rozważenie innych metod.
+NERKI: klirens kreatyniny ≤70 ml/min — dostosowanie dawki. Kamica nerkowa: czynniki ryzyka to kamica wcześniejsza lub rodzinna i nadmierne wydalanie wapnia z moczem, ale żaden nie przewiduje jej wystąpienia jednoznacznie; ryzyko rośnie przy innych lekach sprzyjających kamicy. Zapewnić odpowiednie nawodnienie.
+WATROBA: stosować ostrożnie — możliwe zmniejszenie klirensu topiramatu.
+DN: ZABURZENIA NASTROJU I DEPRESJA — obserwowano ich częstsze występowanie podczas stosowania topiramatu. Myśli i zachowania samobójcze — metaanaliza badań z placebo wykazała niewielki wzrost ryzyka dla leków przeciwpadaczkowych jako grupy.
+DN: ZABURZENIA FUNKCJI POZNAWCZYCH u dorosłych — opisywane w piśmiennictwie, wymagały zmniejszenia dawki albo zakończenia leczenia.
+DN: zespół ostrej krótkowzroczności z wtórną jaskrą z zamkniętym kątem — nagłe zmniejszenie ostrości widzenia lub ból gałki ocznej. Kwasica metaboliczna — ostrożnie u pacjentów z chorobami lub leczeniem stanowiącym jej czynnik ryzyka. Zmniejszone pocenie i hipertermia, zwłaszcza u młodszych dzieci w wysokiej temperaturze otoczenia — nawodnienie przed wysiłkiem i w upale.
+INTERAKCJE: fenytoina — dodanie topiramatu może rzadko wymagać dostosowania dawki fenytoiny. Dodanie albo odstawienie fenytoiny lub karbamazepiny może wymagać dostosowania dawki topiramatu. Topiramat nie jest silnym induktorem enzymów metabolizujących.
+ONSET: Cmax 1,5 µg/ml po 2–3 h od dawki 100 mg.
+T1_2: około 21 h w stanie stacjonarnym (dawki 50 lub 100 mg dwa razy na dobę).
+METABOLIZM: farmakokinetyka liniowa, wydalanie głównie przez nerki, bez znaczącego wiązania z białkami osocza, bez klinicznie czynnych metabolitów. Rutynowe monitorowanie stężenia w osoczu NIE jest wymagane.
+CIĄŻA: może działać szkodliwie i hamować rozwój płodu — niedobór masy ciała w stosunku do wieku ciążowego i mała urodzeniowa masa ciała. Rejestr NAAED dla monoterapii: około 3-krotnie większa częstość rozległych wad wrodzonych (4,3%) wobec grupy referencyjnej nieprzyjmującej leków przeciwpadaczkowych. Jeśli podano w pierwszym trymestrze — uważne monitorowanie prenatalne.
+KP: badania na zwierzętach wykazały wydzielanie do mleka; wydzielania do mleka kobiecego nie oceniono. Decyzja wg 18A. RID — BRAK DANYCH LOKALNYCH.
+MONITORING: nastrój i myśli samobójcze; funkcje poznawcze; objawy oczne (ostrość widzenia, ból gałki); wodorowęglany przy ryzyku kwasicy metabolicznej; nawodnienie i objawy kamicy.
+ZRODLO_KARTY: ChPL Epitoram 100 mg; w cache także Etopro 100 mg i Oritop 100 mg.
 
 
 ===== PLIK: DRUG_DB_ADHD_UZAL.txt =====
 PSYCH-AI — DRUG DB: ADHD I UZALEZNIENIA
 VERSION: v3.6
 DATE: 2026-09-24
-TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+WIAZANIE: REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE
 NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
 to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
 i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
 Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
 CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
 Kart w tym pliku: 3.
+
+PSYCHOSTYMULANTY I ADHD
 
 ATOMOKSETYNA
 DAWKA: dorośli zwykle 40 mg/d start, po min. 7 dniach 80 mg/d; MAX 100 mg/d.
@@ -4391,6 +4876,47 @@ KP: małe ilości w mleku; decyzja indywidualna i obserwacja dziecka.
 MONITORING: BP/HR, masa/BMI, sleep, misuse.
 PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
 
+DEKSAMFETAMINA
+POSTAC: tabletki 5 mg, 10 mg (Tentin). Nie przyjmować zbyt późno po obiedzie — trudności ze snem.
+WSKAZANIA: ADHD u dzieci i młodzieży od 6 do 17 lat, u których odpowiedź na wcześniejsze leczenie METYLOFENIDATEM uznano za klinicznie niewystarczającą. Leczenie pod nadzorem specjalisty w dziedzinie zaburzeń zachowania. Wskazania u dorosłych ChPL NIE PODAJE — to różnica wobec lisdeksamfetaminy.
+DAWKA: start 5 mg raz albo dwa razy na dobę (np. śniadanie i obiad), zwiększanie o 5 mg na dobę co tydzień wg tolerancji i skuteczności. MAX zwykle 20 mg/d u dzieci i młodzieży; w rzadkich przypadkach do optymalnego dostosowania konieczne 40 mg/d. Pory dawek dobrać tak, by szczyt działania przypadał na szkołę i sytuacje społeczne; pierwszą dawkę zwiększającą zwykle podaje się rano.
+DAWKA: brak poprawy po miesiącu od dostosowania dawki — PRZERWAĆ leczenie. Paradoksalne zaostrzenie objawów albo ciężkie działania niepożądane — zmniejszyć dawkę albo przerwać.
+ODSTAWIANIE: stopniowo, z uważnym monitorowaniem; część pacjentów wymaga dłuższej kontroli. NAGŁE odstawienie po dłuższym stosowaniu — skrajne zmęczenie, zwiększone spożycie pokarmu, depresja, możliwe zmiany EEG podczas snu.
+DAWKA: stosowanie dłuższe niż 12 miesięcy — okresowa ponowna ocena z próbami bez leku; odstawienie zalecane co najmniej raz w roku, najlepiej w wakacje. Poprawa może się utrzymać po odstawieniu.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub na aminy sympatykomimetyczne; JASKRA; guz chromochłonny; objawowa choroba układu krążenia, strukturalne nieprawidłowości serca, umiarkowane lub ciężkie nadciśnienie, niewydolność serca, choroba okluzyjna tętnic, dławica piersiowa, istotne hemodynamicznie wady wrodzone, kardiomiopatie, zawał serca, zagrażające życiu zaburzenia rytmu, kanałopatie; zaawansowana miażdżyca; IMAO jednocześnie albo w ciągu 14 DNI od zakończenia; nadczynność tarczycy lub tyreotoksykoza.
+PRZECIWWSKAZANIA PSYCHIATRYCZNE — ROZSTRZYGAJĄ PRZED WŁĄCZENIEM: ciężka depresja; JADŁOWSTRĘT PSYCHICZNY i zaburzenia łaknienia; MYŚLI SAMOBÓJCZE; nadpobudliwość psychoruchowa; objawy psychotyczne; ciężka i epizodyczna choroba afektywna dwubiegunowa typu I, która nie jest dobrze kontrolowana; schizofrenia; zaburzenia psychopatyczne i osobowość typu borderline; zespół Gillesa de la Tourette'a lub podobne dystonie; zaburzenia naczyń mózgowych (tętniak, anomalie naczyniowe, zapalenia naczyń, udar); PORFIRIA; NADUŻYWANIE SUBSTANCJI PSYCHOAKTYWNYCH LUB ALKOHOLU W WYWIADZIE.
+UZALEŻNIENIE: TAK. Kontrola pod kątem przekazywania leku innym osobom, niewłaściwego używania i nadużywania.
+MONITORING: PRZED leczeniem — ocena układu sercowo-naczyniowego z ciśnieniem i tętnem, całościowy wywiad o lekach, zaburzeniach fizycznych i psychicznych oraz o nagłej śmierci sercowej w rodzinie, pomiar wzrostu i masy ciała na siatce centylowej.
+MONITORING: w trakcie — ciśnienie i tętno na siatce centylowej po każdej modyfikacji dawki i nie rzadziej niż co 6 miesięcy; wzrost, masa i łaknienie nie rzadziej niż co 6 miesięcy; zaburzenia psychiczne de novo albo pogorszenie istniejących, w tym DEPRESJI i ZACHOWAŃ AGRESYWNYCH, po każdej modyfikacji dawki, nie rzadziej niż co 6 miesięcy i na każdej wizycie.
+T1_2: średnio 10,2 h.
+CIĄŻA: stosowanie NIE JEST ZALECANE. Dane z 5570 ciąż z ekspozycją na amfetaminę w pierwszym trymestrze nie wskazują na zwiększone ryzyko wad wrodzonych; dane z 3100 ciąż z ekspozycją w pierwszych 20 tygodniach wskazują na zwiększone ryzyko STANU PRZEDRZUCAWKOWEGO i PORODU PRZEDWCZESNEGO. Kobiety w wieku rozrodczym powinny przerwać stosowanie, jeśli zamierzają zajść w ciążę.
+KP: deksamfetamina przenika do mleka ludzkiego. RID — BRAK DANYCH LOKALNYCH.
+ZRODLO_KARTY: ChPL Tentin 10 mg tabl. Jedyny produkt z punktami ChPL w cache.
+
+LISDEKSAMFETAMINA
+POSTAC: kapsułki twarde 20 mg, 30 mg, 40 mg, 50 mg, 60 mg, 70 mg (Elvanse, Eldefab, Lisdexamfetamine Aristo). Niezależnie od posiłków. Kapsułkę można połknąć w całości albo otworzyć i całą zawartość rozpuścić w jogurcie, wodzie lub soku pomarańczowym, wypić bezzwłocznie. NIE dzielić zawartości kapsułki, nie przyjmować mniej niż jednej kapsułki na dobę.
+WSKAZANIA: ADHD u dzieci powyżej 6 lat, u których wcześniejsze leczenie METYLOFENIDATEM nie przyniosło oczekiwanych korzyści klinicznych. ADHD u dorosłych, u których objawy występowały w dzieciństwie. Leczenie prowadzi specjalista doświadczony w terapii zaburzeń zachowania. Lisdeksamfetamina nie jest lekiem pierwszego rzutu u dzieci — wskazanie jest warunkowe.
+DAWKA: start 30 mg raz na dobę rano; przy wskazaniu do mniejszej dawki startowej 20 mg raz na dobę rano. Zwiększanie o 10 albo 20 mg raz na tydzień. MAX 70 mg/d — większych dawek nie badano. Najmniejsza skuteczna dawka. NIE PRZYJMOWAĆ PO POŁUDNIU — ryzyko bezsenności. Pominięta dawka: następną wziąć dnia następnego, nie nadrabiać.
+DAWKA: brak poprawy w ciągu miesiąca od ustalenia dawki optymalnej — PRZERWAĆ leczenie. Paradoksalne nasilenie objawów albo działania niepożądane — zmniejszyć dawkę albo przerwać.
+DAWKA: leczenie dłuższe niż 12 miesięcy — ponowna ocena przydatności klinicznej co najmniej raz na rok, z próbnym odstawieniem dla oceny funkcjonowania bez leku, najlepiej w okresie wakacji.
+NERKI: GFR 15 do poniżej 30 ml/min/1,73 m2 albo klirens kreatyniny poniżej 30 ml/min — MAX 50 mg/d. U dializowanych rozważyć dodatkowe zmniejszenie dawki; lisdeksamfetamina ani deksamfetamina NIE są eliminowane podczas dializy. Klirens deksamfetaminy spada z 0,7 do 0,4 l/h/kg między prawidłową a ciężką niewydolnością nerek.
+WATROBA: badań nie prowadzono.
+PRZECIWWSKAZANIA: nadwrażliwość na aminy sympatykomimetyczne; jednoczesne stosowanie IMAO lub w ciągu 14 DNI od ich odstawienia — ryzyko przełomu nadciśnieniowego; NADCZYNNOŚĆ TARCZYCY niezależnie od nasilenia; STANY PRZEBIEGAJĄCE Z POBUDZENIEM; jawne klinicznie choroby układu sercowo-naczyniowego; zaawansowana miażdżyca; umiarkowane lub ciężkie nadciśnienie tętnicze; JASKRA; guz chromochłonny.
+UZALEŻNIENIE: TAK. Przed włączeniem ocenić ryzyko nadużywania, uzależnienia, stosowania niezgodnego z zaleceniami i w celu odurzenia. Objawy nadużywania amfetaminy: zmiany skórne, bezsenność, drażliwość, nadpobudliwość, chwiejność emocjonalna, PSYCHOZA. Objawy odstawienia: zmęczenie i depresja. Pouczyć o przechowywaniu i utylizacji leku, żeby nie trafił do osób trzecich.
+DN: u dorosłych z obciążeniem kardiologicznym stosowania psychostymulantów NA OGÓŁ NIE ZALECA SIĘ — u osób przyjmujących zalecane dawki opisywano nagłe zgony, udar mózgu i zawał serca.
+DN: u dzieci i młodzieży 6–17 lat spowolnienie przyrostów wzrostu i masy ciała; przy zmniejszeniu tempa wzrastania konieczne może być przerwanie leczenia.
+MONITORING: PRZED leczeniem — badanie układu krążenia z pomiarem ciśnienia i tętna, wywiad o lekach, zaburzeniach psychicznych obecnych i przeszłych oraz wywiad rodzinny w kierunku nagłej śmierci sercowej; pomiar masy ciała, u dzieci wzrost i masa na siatce centylowej.
+MONITORING: w trakcie — ciśnienie i tętno po każdej zmianie dawki i co najmniej raz na 6 miesięcy; u dzieci wzrost, masa i apetyt co najmniej raz na 6 miesięcy na siatce centylowej; u dorosłych regularnie masa ciała; nowe albo nasilające się zaburzenia psychiczne rejestrować na każdej wizycie, co najmniej raz na 6 miesięcy i po każdej zmianie dawki.
+ONSET: Tmax lisdeksamfetaminy około 1 h; Tmax deksamfetaminy około 3,5 h u dzieci 6–12 lat. Pokarm nie zmienia AUC ani Cmax, wydłuża Tmax o około godzinę.
+T1_2: lisdeksamfetamina najczęściej poniżej 1 h; DEKSAMFETAMINA 11 h — to ona odpowiada za działanie.
+METABOLIZM: prolek — hydrolizowany do czynnej deksamfetaminy. Nie jest substratem ani inhibitorem P-gp; nie hamuje ani nie indukuje głównych izoform CYP450.
+INTERAKCJE: IMAO — przeciwwskazane, odstęp 14 dni. Kwas askorbinowy i inne substancje zakwaszające mocz (tiazydy, dieta bogata w białko zwierzęce, cukrzyca, kwasica oddechowa) zwiększają wydalanie amfetaminy i SKRACAJĄ jej okres półtrwania; wodorowęglan sodu i inne alkalizujące działają odwrotnie.
+CIĄŻA: stosować wyłącznie, jeśli potencjalne korzyści uzasadniają możliwe ryzyko dla płodu.
+KP: NIE STOSOWAĆ podczas karmienia piersią — pochodne amfetaminy przenikają do mleka ludzkiego. RID — BRAK DANYCH LOKALNYCH.
+ZRODLO_KARTY: ChPL Elvanse; w cache także Eldefab i Lisdexamfetamine Aristo.
+
+UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE
+
 METADON
 DAWKA: start 10–30 mg. Pacjent bez niedawnej ekspozycji na opioidy — pierwsza dawka nie więcej niż 10–20 mg. Wysoka tolerancja opioidów — 25–40 mg. Obserwacja 3–4 h po pierwszej dawce; objawy przedawkowania → kontrola co 15 min. Zwiększanie maksymalnie o 10 mg jednorazowo i nie więcej niż 20 mg/tydz. Podtrzymująca zwykle 60–120 mg/d. Podawanie zwykle RAZ NA DOBĘ — częstsze niesie ryzyko kumulacji i przedawkowania. MAX 150 mg/d, stosowana rzadko — ograniczenie wynika ze zwiększonej częstości wydłużenia QT, torsade de pointes i zatrzymania krążenia przy wyższych dawkach.
 PRZECIWWSKAZANIA [ChPL 4.3, 3 produkty (Methadone hydrochloride INN-FARM, Methadone Hydrochloride Molteni, Misyo), pobrano 2026-09-22]
@@ -4411,14 +4937,100 @@ METABOLIZM: co najmniej osiem metabolitów; ok. 30% dawki z kałem; wydalanie ro
 MONITORING: ryzyko QT rośnie z dawką, ale próg 100 mg/d NIE oznacza, że niżej jest bezpiecznie. Czynniki ryzyka: zaburzenia przewodnictwa w wywiadzie, zaawansowana choroba serca lub niedokrwienna, choroba wątroby, nagły zgon w wywiadzie rodzinnym, hipokaliemia, hipomagnezemia, leki wydłużające QT, leki powodujące zaburzenia elektrolitowe, inhibitory CYP3A4. Przegląd jednocześnie stosowanych opioidów i leków psychoaktywnych, w tym benzodiazepin.
 ODSTAWIANIE: nagłe przerwanie daje objawy odstawienne podobne do morfinowych — słabsze, ale dłuższe. Odstawiać stopniowo.
 WYMOGI_PROGRAMOWE: leczenie substytucyjne przepisywane przez lekarza doświadczonego w terapii uzależnień od opioidów, najlepiej w ośrodku specjalistycznym. Dawka podawana wyłącznie przez lekarza lub osobę wyznaczoną. Obowiązują krajowe wytyczne, które mogą się różnić od dawkowania w ChPL. Wyłącznie doustnie; nie podawać we wstrzyknięciach.
+CIĄŻA: metadon przenika przez łożysko. U WIĘKSZOŚCI noworodków matek na leczeniu podtrzymującym występuje DEPRESJA ODDECHOWA i NOWORODKOWY ZESPÓŁ ABSTYNENCYJNY, o ile nie zastosuje się odpowiedniego leczenia. Większość badań wiąże metadon z niską masą urodzeniową; opisywano wady wrodzone i zaburzenia rozwoju układu nerwowego, ale czynniki zakłócające nie pozwalają przypisać ich metadonowi. Przed podaniem — staranna ocena korzyści i ryzyka. W razie objawów odstawiennych u matki konieczne może być ZWIĘKSZENIE dawki. [ChPL Methadone hydrochloride INN-FARM 4.6]
+KP: metadon przenika do mleka w małych ilościach. Decyzja wymaga porady specjalistycznej i uwzględnienia, czy kobieta jest na stałej dawce podtrzymującej i czy nadal używa substancji nielegalnych. Przy karmieniu dawka metadonu ma być jak najmniejsza. Matkę pouczyć, by obserwowała niemowlę pod kątem SEDACJI i TRUDNOŚCI W ODDYCHANIU i w razie ich wystąpienia natychmiast szukała pomocy. Ilość w mleku nie tłumi objawów odstawiennych u niemowlęcia, ale może osłabić nasilenie zespołu abstynencyjnego. [ChPL Methadone hydrochloride INN-FARM 4.6]
 ZRODLO_KARTY: ChPL Methadone hydrochloride INN-FARM 1 mg/ml, pobrano 2026-09-22.
+
+AKAMPROZAT
+POSTAC: tabletki powlekane dojelitowe 333 mg (Campral; moc z rejestru). Przyjmować między posiłkami — pokarm zmniejsza biodostępność.
+WSKAZANIA: leczenie podtrzymujące abstynencję alkoholową u osób uzależnionych od alkoholu, z jednocześnie prowadzoną psychoterapią. NIE jest wskazany w leczeniu ostrych objawów zespołu odstawienia alkoholowego.
+DAWKA: dorośli 18–65 lat. Masa ciała ≥60 kg — 2 tabletki trzy razy na dobę (rano, w południe, przed snem). Masa ciała <60 kg — 4 tabletki na dobę w trzech dawkach: 2 rano, 1 w południe, 1 przed snem. Zalecany czas leczenia 1 rok. Rozpoczynać jak najwcześniej po odstawieniu alkoholu. Sporadyczny epizod wypicia NIE jest przeciwwskazaniem do kontynuowania leczenia. <18 lat i >65 lat — nie zalecany, skuteczności i bezpieczeństwa nie ustalono.
+NERKI: kreatynina w surowicy >120 µmol/l — PRZECIWWSKAZANY. Wydalany wyłącznie przez nerki w postaci niezmienionej; zależność liniowa między ciężkim zaburzeniem czynności nerek a wydłużeniem okresu półtrwania.
+WATROBA: farmakokinetyka niezmieniona. Child-Pugh C — bezpieczeństwa i skuteczności nie ustalono.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną lub pomocniczą; zaburzenia czynności nerek (kreatynina >120 µmol/l); karmienie piersią.
+INTERAKCJE: nie wykazano zmian przy jednoczesnym stosowaniu z disulfiramem, oksazepamem, tetrabamatem, meprobamatem. W badaniach klinicznych bezpiecznie łączony z lekami przeciwdepresyjnymi, przeciwlękowymi, nasennymi, uspokajającymi i nieopioidowymi przeciwbólowymi. Alkohol — bez wpływu na farmakokinetykę alkoholu ani akamprozatu.
+DN: biegunka bardzo często. Często — ból brzucha, nudności, wymioty, wzdęcia, świąd, wysypka plamisto-grudkowa, oziębłość płciowa lub impotencja, zmniejszone libido. Bardzo rzadko — reakcje nadwrażliwości, obrzęk naczynioruchowy, anafilaksja.
+ONSET: wchłanianie umiarkowane i wolne, duża zmienność osobnicza; stan stacjonarny po 5–7 dniach. Czasu do efektu klinicznego źródło nie podaje.
+T1_2: 15–30 h — wartość bardziej reprezentatywna dla wchłaniania niż dla wydalania (wchłanianie przedłużone, wydalanie szybkie).
+METABOLIZM: brak — wydalany wyłącznie przez nerki w postaci niezmienionej. Nie wiąże się z białkami osocza. Interakcji na poziomie CYP źródło nie opisuje.
+CIĄŻA: brak odpowiednich danych u kobiet w ciąży; u zwierząt bez działania toksycznego i teratogennego. Stosować wyłącznie po ocenie korzyści do ryzyka — gdy bez leczenia pacjentka nie powstrzyma się od picia, a zatem płód jest narażony na alkohol.
+KP: PRZECIWWSKAZANY w okresie karmienia piersią. Przenika do mleka zwierząt; przenikania do mleka ludzkiego nie ustalono, danych o niemowlętach brak. RID — BRAK DANYCH LOKALNYCH.
+UZALEŻNIENIE: potencjału uzależniającego nie stwierdzono — badania niekliniczne wskazują na brak lub niewielkie ryzyko, w badaniach klinicznych nie uzyskano danych o uzależnieniu.
+MONITORING: objawy depresji i myśli samobójcze — zależność między uzależnieniem od alkoholu, depresją i samobójstwem jest dobrze udokumentowana, obserwacja zalecana u każdego leczonego. Kreatynina przed włączeniem — próg 120 µmol/l rozstrzyga o przeciwwskazaniu.
+ZRODLO_KARTY: ChPL Campral 333 mg tabl. powl. dojelitowe, pobrano 2026-05-22 (RPL 8223). Jedyny zarejestrowany produkt w cache.
+
+DISULFIRAM
+POSTAC: dwie postaci, dwie drogi — rozstrzygnij, zanim podasz dawkę. Tabletki doustne 500 mg (Anticol). Tabletki do implantacji 100 mg (Disulfiram WZF), wszczepiane podpowięziowo.
+WSKAZANIA: uzależnienie od alkoholu (Anticol). Pomocniczo w uzależnieniu od alkoholu, u wybranych i współpracujących pacjentów, z leczeniem wspomagającym (Disulfiram WZF).
+DAWKA: doustnie — start po co najmniej 24 h abstynencji, zwykle 500 mg/d raz na dobę rano (przy nasilonej sedacji wieczorem) przez 1–2 tygodnie; podtrzymująco 250 mg/d, zakres 125–500 mg/d. Max doustnie 500 mg/d. Nie dłużej niż 6 miesięcy bez ponownej oceny pacjenta.
+DAWKA: implantacja — 8–10 tabletek 100 mg podpowięziowo, rozmieszczonych gwiaździście; zabieg można powtórzyć po 8 miesiącach. Tabletki muszą być jałowe i nieuszkodzone.
+ROZBIEZNOSC_ZRODLOWA: okres bez alkoholu przed podaniem — Anticol co najmniej 24 h abstynencji przed startem; Disulfiram WZF brak alkoholu w ciągu 12 h przed zabiegiem.
+PRZECIWWSKAZANIA: nadwrażliwość na substancję czynną i tiokarbaminiany; stan upojenia albo alkohol w ostatnich 24 h (Anticol) lub 12 h przed zabiegiem (WZF); niewydolność serca, choroba niedokrwienna serca, nadciśnienie tętnicze; zaburzenia psychiczne i psychozy — poza przebytymi ostrymi psychozami alkoholowymi; próby samobójcze w wywiadzie. NIE STOSOWAĆ BEZ ŚWIADOMEJ ZGODY PACJENTA — oba źródła.
+ROZBIEZNOSC_ZRODLOWA: pole PRZECIWWSKAZANIA — Anticol dodatkowo przebyty incydent mózgowo-naczyniowy, ciężka niewydolność oddechowa, ciężka niewydolność wątroby, niewydolność nerek, cukrzyca. WZF zamiast tego przebyta niewydolność obwodowa krążenia, a cukrzycę, nerki, wątrobę, układ oddechowy i padaczkę wymienia jako OSTROŻNOŚĆ, nie przeciwwskazanie.
+NERKI: Anticol — niewydolność PRZECIWWSKAZANA; WZF — ostrożność. Ocena przed włączeniem.
+WATROBA: Anticol — ciężka niewydolność PRZECIWWSKAZANA; WZF — ostrożność. Ocena przed włączeniem.
+INTERAKCJE: ZAKAZ ALKOHOLU bezwzględny w trakcie leczenia i przez 14 dni po zakończeniu (Anticol). Dotyczy też płynów do płukania ust, sosów, octu, syropów przeciwkaszlowych, środków rozgrzewających, kosmetyków oraz piw i win bezalkoholowych; także kontaktu z rozpuszczalnikami zawierającymi alkohol, aldehyd octowy lub paraldehyd.
+INTERAKCJE: hamuje metabolizm wątrobowy — fenytoina, teofilina, warfaryna i inne przeciwzakrzepowe (możliwa zmiana dawki), chlordiazepoksyd, diazepam, antypiryna; u zwierząt petydyna, morfina, amfetamina. Przedłuża działanie alfentanylu. Hamuje utlenianie i wydalanie nerkowe ryfampicyny.
+INTERAKCJE: metronidazol — dezorientacja i stany psychotyczne, NIE ZALECA SIĘ łączenia. Izoniazyd — zawroty głowy, zaburzenia koordynacji, drażliwość, bezsenność. Pimozyd — bardzo rzadko organiczny zespół mózgowy i choreoatetoza.
+ROZBIEZNOSC_ZRODLOWA: wpływ leków na samą reakcję disulfiramową — Anticol: amitryptylina nasila, chloropromazyna osłabia niektóre objawy, ale całościowo może nasilać, benzodiazepiny mogą zmniejszać objawy, dla oksazepamu interakcji nie wykazano. WZF: amitryptylina i chloropromazyna nasilają, diazepam osłabia. Sprzeczne co do chloropromazyny.
+DN: REAKCJA DISULFIRAMOWA — początek często w ciągu 15 minut od spożycia alkoholu, maksimum po 30 minutach do 1 godziny, ustępowanie w ciągu kilku godzin. Zaczerwienienie twarzy i szyi, wzrost temperatury, poty, nudności, wymioty, świąd, pokrzywka, niepokój, zawroty i ból głowy, duszność, kołatanie serca. CIĘŻKIE: tachykardia, niedociśnienie, depresja oddechowa, ból w klatce piersiowej, wydłużenie QT, obniżenie ST, zaburzenia rytmu, śpiączka, drgawki. Rzadko nadciśnienie, skurcz oskrzeli, methemoglobinemia. W rzadkich przypadkach notowano ZGONY.
+DN: reakcje psychotyczne, depresja, paranoja, schizofrenia, mania; senność i zmęczenie na początku leczenia; neuropatia obwodowa, zapalenie nerwu wzrokowego, encefalopatia; metaliczny posmak lub smak czosnku; uszkodzenie hepatocytów; alergiczne zapalenie skóry; przemijająca impotencja, obniżone libido. Częstość nieznana.
+ONSET: wchłanianie doustne zmienne. Czasu do pełnego zahamowania dehydrogenazy źródło nie podaje.
+T1_2: BRAK DANYCH LOKALNYCH — żadne z dwóch ChPL nie podaje okresu półtrwania.
+METABOLIZM: nieodwracalnie hamuje dehydrogenazę aldehydu octowego. Metabolizm wątrobowy do kwasu dietyloditiokarbaminowego, dalej glukuronidacja, utlenianie do siarczanu, metylacja, rozkład do dietyloaminy i dwusiarczku węgla; wydalanie głównie nerkowe. WZF: metabolity nieczynne w moczu, ok. 20% dawki niezmienione z kałem.
+CIĄŻA: ROZBIEZNOSC_ZRODLOWA — Anticol: nie powinien być stosowany u kobiet w ciąży, bez podziału na trymestry. WZF: nie zaleca się w pierwszym trymestrze, dalej rozważyć korzyść wobec ryzyka z uwzględnieniem szkodliwości samego alkoholizmu; odnotowano rzadkie wady wrodzone u niemowląt matek stosujących disulfiram w skojarzeniu z innymi lekami.
+KP: nie stosować w okresie karmienia piersią — oba źródła. Danych o przenikaniu do mleka kobiecego brak. RID — BRAK DANYCH LOKALNYCH.
+MONITORING: czynność wątroby i nerek przed włączeniem; dokładny wywiad kwalifikacyjny. Pacjent musi zostać ostrzeżony o nieprzewidywalnym i potencjalnie śmiertelnym charakterze reakcji disulfiram-alkohol.
+ZRODLO_KARTY: ChPL Anticol 500 mg tabl., pobrano 2026-05-18 (RPL 600); ChPL Disulfiram WZF 100 mg tabl. do implantacji, pobrano 2023-08-24 (RPL 1971).
+
+NALTREKSON
+POSTAC: tabletki powlekane 50 mg (Adepend, Naltex). Przyjmować popijając płynem.
+WSKAZANIA: ROZBIEZNOSC_ZRODLOWA — Adepend: wyłącznie uzależnienie od alkoholu, w ramach programu leczenia, dla zmniejszenia ryzyka nawrotu i głodu alkoholowego. Naltex: uzależnienie od alkoholu ORAZ leczenie wspomagające u dorosłych uzależnionych od opioidów po detoksykacji. Wskazanie opioidowe ma tylko Naltex.
+DAWKA: alkohol — 50 mg/d (1 tabletka) u dorosłych; oba produkty zgodne. Zalecany czas leczenia co najmniej 3 miesiące, często dłużej; skuteczność wykazana w badaniach do 12 miesięcy. Dawki powyżej 150 mg/d — nie zalecane, nawet jednorazowo, z powodu nasilenia działań niepożądanych.
+DAWKA: opioidy (tylko Naltex) — start 25 mg (pół tabletki), następnie 50 mg/d. Schemat trzy razy w tygodniu, gdy poprawia przestrzeganie zaleceń: 100 mg w poniedziałek, 100 mg w środę, 150 mg w piątek. Rozważyć 3 miesiące leczenia początkowego, możliwe długoterminowe.
+ROZBIEZNOSC_ZRODLOWA: dawka startowa przy alkoholu — Adepend nakazuje rozpocząć od małej dawki „zgodnie ze schematem leczenia indukcyjnego", ale liczby nie podaje. Naltex podaje 25 mg tylko dla wskazania opioidowego. Wartości startowej dla alkoholu żadne z ChPL nie określa liczbowo.
+PRZECIWWSKAZANIA: nadwrażliwość; ostre zapalenie wątroby; ciężkie zaburzenia czynności wątroby; ciężkie zaburzenia czynności nerek; pacjent przyjmujący opioidy lub uzależniony od opioidów, który ich nie odstawił; jednoczesne stosowanie leków zawierających opioidy, w tym przeciwbólowych; jednoczesne stosowanie metadonu; dodatni wynik testu na obecność opioidów w moczu; dodatni wynik testu prowokacji naloksonem.
+DAWKA: warunek startu — przed włączeniem upewnić się, że pacjent nie przyjmuje opioidów. Wymagana przerwa: 5–7 dni od heroiny, co najmniej 10 dni od metadonu. Przy podejrzeniu przyjmowania opioidów obowiązkowy test prowokacji naloksonem, chyba że analiza moczu potwierdza brak opioidów przez ostatnie 7–10 dni.
+MONITORING: test prowokacji naloksonem — dożylnie 0,2 mg naloksonu; jeśli po 30 sekundach bez objawów, dodatkowo 0,6 mg dożylnie; obserwacja co najmniej 30 minut. Wariant podskórny (Adepend): 0,8 mg, obserwacja 30 minut. Przy wątpliwościach odroczyć o 24 h i powtórzyć test dawką 1,6 mg. Jakiekolwiek objawy odstawienne — NIE ROZPOCZYNAĆ leczenia. Testu nie wykonywać u pacjenta z jawnymi objawami odstawienia ani z dodatnim testem moczu.
+MONITORING: próby wątrobowe PRZED leczeniem i w jego trakcie. Szczególna uwaga przy trzykrotnym wzroście aktywności enzymów wątrobowych i przy zaburzeniach czynności nerek. U otyłych i starszych, także nieuzależnionych, notowano nieprawidłowe próby wątrobowe. Ryzyko samobójstwa u osób uzależnionych — naltrekson go NIE zmniejsza.
+NERKI: ciężkie zaburzenia — przeciwwskazanie. Lekkie i umiarkowane — duża ostrożność i ścisły nadzór, rozważyć dostosowanie dawki. Wydalanie głównie nerkowe.
+WATROBA: ciężkie lub ostre zaburzenia i ostre zapalenie — przeciwwskazanie. Marskość — stężenie naltreksonu w surowicy pięć do dziesięciu razy większe.
+INTERAKCJE: opioidy przeciwwskazane w każdej postaci (także przeciwkaszlowe, przeciwbiegunkowe, leki na przeziębienie). Ból leczyć wyłącznie nieopioidowo. Gdy opioid konieczny w stanie nagłym — dawka musi być większa niż zwykle, a depresja oddechowa, zaburzenia krążenia i objawy uwalniania histaminy będą silniejsze i dłuższe; wymagany nadzór w placówce.
+INTERAKCJE: alfa-metyldopa — nie zalecana. Tiorydazyna — letarg i senność. Ostrożność przy neuroleptykach, barbituranach, benzodiazepinach, lekach nasennych, sedatywnych przeciwdepresyjnych (amitryptylina, doksepina, mianseryna, trimipramina) i sedatywnych przeciwhistaminowych H1. Naltrekson znacznie zwiększa stężenie akamprozatu w osoczu. Nie jest metabolizowany przez CYP450. Interakcji z alkoholem nie stwierdzono.
+DN: ostry zespół odstawienny u uzależnionego od opioidów — objawy już po 5 minutach, do 48 h; leczenie objawowe. Po zakończeniu leczenia wrażliwość na opioidy JEST ZWIĘKSZONA — próba przełamania blokady dużą dawką opioidu grozi śmiertelnym zatruciem.
+DN: bardzo często — nerwowość, lęk, bezsenność, ból głowy, niepokój ruchowy, ból brzucha, nudności, wymioty, bóle stawów i mięśni, astenia. Często — drażliwość, zaburzenia afektywne, tachykardia, zmiany w EKG, ból w klatce piersiowej, wysypka, zaburzenia erekcji. Rzadko — myśli i próby samobójcze. Niezbyt często — zapalenie wątroby, wzrost bilirubiny i aminotransferaz (wraca do wartości wyjściowych w ciągu kilku tygodni po odstawieniu). Bardzo rzadko rabdomioliza.
+ONSET: wchłanianie szybkie i niemal całkowite; Tmax ok. 1 h. Czasu do efektu klinicznego źródło nie podaje.
+T1_2: naltrekson ok. 4 h; czynny metabolit 6-beta-naltreksol 13 h.
+METABOLIZM: efekt pierwszego przejścia w wątrobie, hydroksylacja do czynnego 6-beta-naltreksolu i w mniejszym stopniu do 2-hydroksy-3-metoksy-6-beta-naltreksolu. NIE jest metabolizowany przez CYP450. Wiązanie z białkami 21%. Ok. 60% dawki doustnej wydalane w ciągu 48 h przez nerki.
+UZALEŻNIENIE: nie powoduje zależności psychicznej ani fizycznej; w długotrwałym leczeniu działanie antagonistyczne nie słabnie.
+CIĄŻA: brak danych klinicznych; u zwierząt szkodliwy wpływ na reprodukcję, znaczenie kliniczne nieustalone. Stosować tylko gdy korzyść przeważa nad ryzykiem. U ciężarnej uzależnionej od opioidów albo leczonej substytucyjnie — ryzyko ostrego zespołu odstawiennego z poważnymi następstwami dla matki i płodu. Przy konieczności podania opioidowego leku przeciwbólowego — PRZERWAĆ naltrekson.
+KP: ROZBIEZNOSC_ZRODLOWA — Adepend: nie zaleca się karmienia piersią podczas leczenia. Naltex: należy przerwać karmienie piersią. Przenikania naltreksonu ani 6-beta-naltreksolu do mleka ludzkiego nie ustalono. RID — BRAK DANYCH LOKALNYCH.
+ZRODLO_KARTY: ChPL Adepend 50 mg, pobrano 2025-06-05 (RPL 23659); ChPL Naltex 50 mg, pobrano 2024-10-31 (RPL 23769).
+
+BUPRENORFINA
+POSTAC: TRZY PRODUKTY O ROZŁĄCZNYM ZASTOSOWANIU — rozstrzygnij, zanim podasz dawkę. Tabletki podjęzykowe 2 mg i 8 mg (Bunorfin) — leczenie substytucyjne. Roztwór do wstrzykiwań o przedłużonym uwalnianiu 8/16/24/32/64/96/128/160 mg (Buvidal) — substytucja, wyłącznie personel medyczny. Roztwór do wstrzykiwań 0,3 mg/ml (Bunondol) — wskazanie PRZECIWBÓLOWE, nie substytucyjne. W rejestrze są też Buprenorphine Neuraxpharm i Sixmo, bez ChPL w cache — z tych produktów nie ma danych.
+WSKAZANIA: Bunorfin — leczenie substytucyjne uzależnienia od narkotyków opioidowych, obejmujące leczenie farmakologiczne, społeczne i psychologiczne; dorośli. Buvidal — to samo wskazanie, dorośli i młodzież od 16 lat.
+WYMOGI_PROGRAMOWE: leczenie pod kontrolą lekarza doświadczonego w terapii uzależnienia od opioidów, za zgodą pacjenta. Buvidal podaje WYŁĄCZNIE fachowy personel medyczny — podawanie w domu albo samodzielne jest NIEDOZWOLONE. Bunorfin na początku wydawać codziennie; zapas na kilka dni dopiero po wyrównaniu stanu i tylko pacjentom godnym zaufania, z uwzględnieniem wytycznych krajowych.
+DAWKA: warunek startu — buprenorfina jest CZĘŚCIOWYM AGONISTĄ i może wywołać zespół abstynencyjny. Pierwsza dawka nie wcześniej niż 6 GODZIN po ostatnim opioidzie krótko działającym albo po wystąpieniu pierwszych objawów odstawiennych. U pacjenta na metadonie najpierw zmniejszyć metadon do MAKSYMALNIE 30 mg/d; dla Buvidalu dodatkowo odstęp co najmniej 24 GODZINY od ostatniej dawki metadonu. Buvidal wolno zacząć dopiero, gdy są obiektywne i wyraźne objawy odstawienia.
+DAWKA: Bunorfin podjęzykowo — start 0,8 do 4 mg raz na dobę; dawka poniżej 2 mg wymaga innego produktu, bo Bunorfin ma tylko 2 mg i 8 mg. Zwiększać stopniowo wg efektu klinicznego; 16 mg/d jest zwykle wystarczające; MAX 24 mg/d. Tabletkę trzymać pod językiem do rozpuszczenia, zwykle 5–10 minut — NIE połykać, nie gryźć, nie żuć; podanie podjęzykowe jest jedyną skuteczną i bezpieczną drogą.
+DAWKA: Buvidal u pacjenta nieleczonego wcześniej buprenorfiną — najpierw 4 mg buprenorfiny podjęzykowo i godzina obserwacji dla oceny tolerancji. Dawka początkowa Buvidalu 16 mg, następnie jedna albo dwie dawki 8 mg w odstępie co najmniej jednego dnia, tak aby w pierwszym tygodniu osiągnąć 24 mg albo 32 mg. W drugim tygodniu dawka równa sumie z tygodnia pierwszego. Postać miesięczna dopiero po ustabilizowaniu na dawkach tygodniowych, przez cztery tygodnie lub dłużej.
+ODSTEPY_ZMIANA_LECZENIA: z buprenorfiny podjęzykowej na Buvidal — można przestawić od razu, począwszy od dnia następnego po ostatniej dawce podjęzykowej, na postać tygodniową albo miesięczną; w okresie po zmianie dokładniejsze monitorowanie. Z dawki podjęzykowej 26–32 mg/d wolno przejść bezpośrednio na Buvidal 160 mg raz na miesiąc, ze ścisłą kontrolą.
+NIEPEWNY_ODCZYT_ZRODLA: pełna tabela przeliczeń dawka podjęzykowa na tydzień i na miesiąc JEST w ChPL Buvidal (Tabela 1), ale w cache jej kolumny zlały się w jeden ciąg i odczyt pozostałych wierszy nie jest jednoznaczny. Wartości poza wierszem 26–32 mg na 160 mg NIE SĄ tu podawane — przed przeliczeniem sprawdź Tabelę 1 w ChPL Buvidal. Dawka w mg może się różnić między produktami podjęzykowymi i trzeba to uwzględniać osobno dla każdego produktu.
+ODSTAWIANIE: po okresie stabilizacji zmniejszać stopniowo do dawki podtrzymującej; wolniejsze schodzenie wymaga produktu o mniejszych mocach niż 2 mg. Po zakończeniu leczenia monitorować pacjenta pod kątem NAWROTU uzależnienia.
+PRZECIWWSKAZANIA: nadwrażliwość; CIĘŻKA NIEWYDOLNOŚĆ ODDECHOWA; CIĘŻKA NIEWYDOLNOŚĆ WĄTROBY; ostre upojenie alkoholowe lub DELIRIUM TREMENS.
+STARSI: te same dawki co u dorosłych (Bunorfin).
+DZIECI: Bunorfin — nie stosować poniżej 18 lat. Buvidal — od 16 lat.
+ZRODLO_KARTY: ChPL Bunorfin 2 mg tabl. podjęzykowe i Buvidal roztw. do wstrzyk. o przedł. uwalnianiu; Bunondol 0,3 mg/ml ma wskazanie przeciwbólowe i nie jest źródłem dawek substytucyjnych.
 
 
 ===== PLIK: MASTER_v20_STARY.txt =====
 YOU ARE PSYCH-AI.
 MASTER
-VERSION: v20.10
-DATE: 2026-09-22
+VERSION: v20.9
+DATE: 2026-09-20
+REV: 2026-09-21 rev.14 — fakty biezacej wizyty maja pierwszenstwo;
+     START VISIT BRIEF wycofany; wiek zamiast PESEL; lookup tylko na
+     pytanie. Poprzednio rev.13: SWITCH_GATEWAY w 19.
 ROLE:
 Real-time decision-support for an experienced outpatient psychiatrist.
 Work DURING the visit.
@@ -4786,8 +5398,7 @@ Reguła aktywuje się, gdy lekarz WŁĄCZA, ZMIENIA DAWKĘ albo ODSTAWIA
 lek U KONKRETNEGO PACJENTA i spełniony jest CHOĆ JEDEN warunek:
  (1) substancja ma w CORE odrębną dawkę dla podeszłego wieku:
      zopiklon [L299], alprazolam [L315], zolpidem [L404],
-     temazepam [L429], bromazepam [L444],
-     hydroksyzyna [CORE/HYDROKSYZYNA/STARSI];
+     temazepam [L429], bromazepam [L444];
  (2) substancja należy do klasy z BLOKIEM wiekowym w module 18:
      benzodiazepiny [18 L283], leki Z [18 L292],
      amitryptylina, doksepina, klomipramina [18 L299-301].
@@ -5057,7 +5668,7 @@ tel. 691-395-895
 CGI - KONTRAKT JEDNOLITY
 ==================================================
 Obowiązuje w całym systemie.
-Moduły 30, 33, 34 i 35 stosują ten kontrakt.
+Moduły 08, 30, 33, 34 i 35 stosują ten kontrakt.
 Żaden moduł nie tworzy własnej reguły CGI.
 1. ŹRÓDŁO
 CGI-S i CGI-I podaje WYŁĄCZNIE lekarz.
@@ -6634,9 +7245,7 @@ Format rekordu nie steruje przebiegiem wizyty.
 ==================================================
 WERSJONOWANIE MODULOW - AUTOMAT
 ==================================================
-Zasady wersjonowania i wykaz plików: najnowszy MANIFEST_TRESCI_rev* w projekcie
-(SUMA TRESCI liczona jak w rev.15). RELEASE CHECK: linter i egzamin w repozytorium
-paczki; lekarz zatwierdza wydanie.
+Zasady wersjonowania, MANIFEST i RELEASE CHECK definiuje MANIFEST.txt.
 Każda rzeczywista zmiana treści pliku wymaga aktualizacji jego VERSION, CHANGELOG i MANIFEST zgodnie z tym kontraktem.
 
 KOMENDA: "eksport" / "eksport promptow" / "paczka"

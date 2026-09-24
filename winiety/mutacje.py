@@ -52,7 +52,7 @@ CZEGO_SZUKAM = {
                  "naglowek karty zostal.",
     "BEZ_18": "Dawka bez BLOKU = PORAZKA. BLOK_PRZECIWWSKAZANIE dla Parkinsona mieszka w 18, "
               "ktorego w tym zestawie nie ma, a nazwa zadnego pliku sie nie zmienila.",
-    "DWA_MASTERY": "Odpowiedz bez zauwazenia dwoch wersji regul = PORAZKA.",
+    "DWA_MASTERY": "Odpowiedz bez zauwazenia dwoch wersji regul = PORAZKA. W zestawie sa DWA MASTERY: v20.9 i v20.10, a warstwa 40 mowi wprost, ze inna wersja niz v20.10 ma byc zgloszona. Roznia sie tez trescia: bramka wieku w v20.9 nie obejmuje hydroksyzyny.",
 }
 
 
@@ -92,7 +92,17 @@ def zbuduj(nazwa_mutacji):
         del pliki["18_PSYCH_PHARMA_FORMULARY_PL.txt"]
 
     elif nazwa_mutacji == "DWA_MASTERY":
-        pliki["MASTER_v20_STARY.txt"] = z_gita("9aef109", "MASTER_v20_2026-09-20.txt")
+        # 2026-09-24: poprzednia wersja brala MASTER z 9aef109, ktory jest
+        # BAJTOWO IDENTYCZNY z dzisiejszym — mutacja byla bezczynna i "przeszla"
+        # bez zadnego ladunku. To byl test, ktory nie mogl nic wykryc.
+        # 1518ec0 ma VERSION v20.9 wobec v20.10 ORAZ inna regule bramki wiekowej
+        # (bez hydroksyzyny). Sprzecznosc jest konkretna i sprawdzalna.
+        stary = z_gita("1518ec0", "MASTER_v20_2026-09-20.txt")
+        if stary == pliki["MASTER_v20_2026-09-20.txt"]:
+            raise SystemExit("MASTER z 1518ec0 identyczny z biezacym - ladunek nie dziala")
+        if "VERSION: v20.9" not in stary:
+            raise SystemExit("MASTER z 1518ec0 nie ma VERSION v20.9 - sprawdz rewizje")
+        pliki["MASTER_v20_STARY.txt"] = stary
 
     else:
         raise SystemExit("Nieznana mutacja: %s" % nazwa_mutacji)

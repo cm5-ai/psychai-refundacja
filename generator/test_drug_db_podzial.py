@@ -132,7 +132,10 @@ def main():
     # zniknietej karty leku.
     PRZEMIANOWANE = {"BENZODIAZEPINY / NASENNE":
                      ["BENZODIAZEPINY", "LEKI Z / NASENNE NIEBENZODIAZEPINOWE",
-                      "ANKSJOLITYKI I NASENNE NIE-BZD"]}
+                      "ANKSJOLITYKI I NASENNE NIE-BZD"],
+                     "STABILIZATORY / PRZECIWDRGAWKOWE":
+                     ["STABILIZATORY NASTROJU", "GABAPENTYNOIDY",
+                      "PRZECIWPADACZKOWE W UZYCIU PSYCHIATRYCZNYM"]}
     for stara, nowe in PRZEMIANOWANE.items():
         brak_nowych = [x for x in nowe if x not in gdzie]
         if brak_nowych:
@@ -155,7 +158,8 @@ def main():
              "OK" if not brakujace and not nadmiarowe else "FAIL"))
 
     # T2
-    UZUPELNIONE = {"PALIPERYDON"}   # patrz DOPISANE w T7
+    UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
+                       "ESTAZOLAM", "BROMAZEPAM"])   # patrz DOPISANE w T7
     rozne = 0
     for n, tresc_zr in karty_zr.items():
         if n not in gdzie:
@@ -260,8 +264,13 @@ def main():
     # swiadome dopisanie pola. Kazda pozycja to jawny dlug: ile linii dopisano
     # i dlaczego. Bez tej tabeli jedyne wyjscie to wylaczenie T7 dla calej karty,
     # co skasowaloby ochrone reszty jej pol.
-    DOPISANE = {"PALIPERYDON": (5, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
-                                   "w karcie depot — audyt kart z 2026-09-24")}
+    DOPISANE = {"PALIPERYDON": (7, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
+                                   "w karcie depot, oraz CIĄŻA i KP — audyt kart z 2026-09-24"),
+                "FLUPENTYKSOL": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
+                "TIAPRYD": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
+                "METADON": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
+                "ESTAZOLAM": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
+                "BROMAZEPAM": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA")}
     delta = sum(n for n, _ in DOPISANE.values())
     if n_zr_karty + delta != n_po:
         bledy.append("T7: linii pol w kartach zrodla %d (+%d celowo), po podziale %d"
