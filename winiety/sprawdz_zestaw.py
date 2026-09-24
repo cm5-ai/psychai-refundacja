@@ -74,10 +74,39 @@ def main():
         print("FAIL: zestaw pusty. Regula bez wejscia nie jest zielona.")
         return 1
 
+    # SCHEMAT KROTKI JAKO DANA [2026-09-25, harness mutacyjny].
+    # Harness przemianowal klucz "wartosc" na "wartosc_ZEPSUTA". Kazde
+    # sprawdzenie ponizej pyta o pole przez .get(), wiec pole NIEISTNIEJACE
+    # bylo nie do odroznienia od pola PUSTEGO — kontrola V1 po prostu sie
+    # nie odpalila, a bramka powiedziala "ZESTAW SPOJNY". Literowka w kluczu
+    # wylaczala kontrole po cichu.
+    # To ten sam blad, przed ktorym broni cala paczka: BRAK != PUSTE,
+    # "nie znalazlem" != "nie ma". Nazwy pol sa tu DANA, nie domyslem.
+    WYMAGANE = {"rdzen", "produkt", "slot", "wartosc", "wartosc_typ",
+                "evidence_key", "zakazane_wartosci", "wymaga_z_paczki",
+                "wymaga_zachowania"}
+    OPCJONALNE = {"komentarz", "rola"}
+    TYPY_WARTOSCI = {"CYTAT", "WYLICZONA"}
+
     bledy, uwagi = [], []
     for v in w:
+        ident = v.get("id", "<BEZ ID>")
+        if "krotka" not in v:
+            bledy.append("V0 %s: winieta bez pola 'krotka'" % ident)
+            continue
         k = v["krotka"]
-        ident = v["id"]
+        brak = WYMAGANE - set(k)
+        obce = set(k) - WYMAGANE - OPCJONALNE
+        if brak:
+            bledy.append("V0 %s: krotka BEZ POL %s — kontrole, ktore ich "
+                         "pilnuja, po prostu sie nie odpala" % (ident, sorted(brak)))
+        if obce:
+            bledy.append("V0 %s: krotka ma POLA SPOZA SCHEMATU %s — literowka "
+                         "w nazwie klucza wyglada jak pole puste" % (ident, sorted(obce)))
+        if k.get("wartosc") and k.get("wartosc_typ") not in TYPY_WARTOSCI:
+            bledy.append("V0 %s: wartosc_typ '%s' spoza {CYTAT, WYLICZONA} — "
+                         "bez typu nie wiadomo, czy to cytat pola, czy arytmetyka"
+                         % (ident, k.get("wartosc_typ")))
         if k.get("wartosc") and k.get("wartosc_typ") == "CYTAT" and not jest(k["wartosc"]):
             bledy.append("V1 %s: wartosc CYTAT '%s' NIE WYSTEPUJE w paczce" % (ident, k["wartosc"]))
         if k.get("wartosc") and k.get("wartosc_typ") == "WYLICZONA" and not (k.get("wymaga_zachowania") or []):
