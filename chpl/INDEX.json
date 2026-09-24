@@ -1,15 +1,6 @@
 {
  "opis": "Indeks CHPL_CACHE. Wlascicielem pinu jest sekcja CHPL_WYCIAG w module 19.",
- "punkty": [
-  "4.1",
-  "4.2",
-  "4.3",
-  "4.4",
-  "4.5",
-  "4.6",
-  "4.8",
-  "5.2"
- ],
+ "punkty": 2966,
  "substancje": {
   "agomelatyna": {
    "plik": "chpl/agomelatyna.json",
@@ -152,6 +143,14 @@
     "Sixmo",
     "Bunondol",
     "Buvidal"
+   ],
+   "stan": "OK"
+  },
+  "buprenorfina_nalokson": {
+   "plik": "chpl/buprenorfina_nalokson.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Suboxone"
    ],
    "stan": "OK"
   },
@@ -325,6 +324,14 @@
    "pobrano": "2026-09-22",
    "produkty": [
     "Spravato"
+   ],
+   "stan": "OK"
+  },
+  "eslikarbazepina": {
+   "plik": "chpl/eslikarbazepina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Eslibon"
    ],
    "stan": "OK"
   },
@@ -664,6 +671,14 @@
    ],
    "stan": "OK"
   },
+  "maprotylina": {
+   "plik": "chpl/maprotylina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Ludiomil"
+   ],
+   "stan": "OK"
+  },
   "medazepam": {
    "plik": "chpl/medazepam.json",
    "pobrano": "2026-09-24",
@@ -931,6 +946,14 @@
     "Bulgaplin",
     "Egzysta",
     "Linefor"
+   ],
+   "stan": "OK"
+  },
+  "prochlorperazyna": {
+   "plik": "chpl/prochlorperazyna.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Chloropernazinum"
    ],
    "stan": "OK"
   },

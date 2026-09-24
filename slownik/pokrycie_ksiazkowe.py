@@ -81,12 +81,24 @@ def main():
     print("D. WZMIANKA: N_WEJSCIE %d = N_ZACHOWANE %d + N_ODRZUCONE %d -> %s"
           % (len(klucze), len(wym), len(niewym), len(klucze) == len(wym)+len(niewym)))
 
+    # Kontrola falszywego braku: substancje, ktore MAMY, a wyszukiwanie ich
+    # nie znalazlo. Kazda to albo dziura wyszukiwania, albo lek, ktorego
+    # podrecznik psychiatryczny naprawde nie opisuje. Rozstrzyga sie recznie,
+    # grepem po polskiej nazwie; wynik notuje sie tu, nie zgaduje.
+    # Sprawdzone 2026-09-24: opikapon, chinagolid, razagilina, rotygotyna,
+    # safinamid - 0 trafien polskiej nazwy we wszystkich trzech ksiazkach.
+    # To NIE jest dziura wyszukiwania: ksiazki ich nie wymieniaja.
     slepe = sorted(k for k in niewym if k in mamy)
-    print("   SLEPA PLAMKA WYSZUKIWANIA (mamy w cache, a szukanie nie trafilo): %d" % len(slepe))
+    print("   KONTROLA (mamy w cache, ksiazki nie wymieniaja): %d" % len(slepe))
     for k in slepe:
         print("     %-30s pl=%s  nazwy=%s" % (k[:30], sorted(pl_nazwa.get(k, [])),
                                               "; ".join(sorted(klucze[k]["nazwy"]))[:50]))
 
+    # UWAGA przy czytaniu listy brakow: klucz to caly sklad produktu.
+    # "Mamy lewodope" i "mamy klucz levodop" to dwa rozne zdania - mamy
+    # wszystkie polaczenia lewodopy, nie mamy monoproduktu (Inbrija).
+    # Tak samo ziola: mamy dziurawiec jako wyciag suchy, nie mamy
+    # intractum ani succus.
     maja = sorted(k for k in wym if k in mamy)
     braki = sorted(k for k in wym if k not in mamy)
     print()

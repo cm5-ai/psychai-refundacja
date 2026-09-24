@@ -1,0 +1,61 @@
+{
+ "STATUS": "UTWORZONY_2026-09-24",
+ "pobrano": "2026-09-24",
+ "pobrano_braki_ksiazkowe": "2026-09-24",
+ "produkty": [
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N05AB04"
+    ],
+    "nazwa_powszechna": [
+     "Prochlorperazini  dimaleas"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "10 mg",
+   "nazwa": "Chloropernazinum",
+   "podmiot": "Labor Przedsiębiorstwo Farmaceutyczno-Chemiczne Sp. z o.o.",
+   "postac": "Tabletki",
+   "punkty": {
+    "4.1": "4.1. Wskazania do stosowania Zapobieganie oraz leczenie nudności i wymiotów, zawroty głowy w zespole Meniere’a i w zapaleniu błędnika. Krótkotrwałe, wspomagające leczenie lęku.",
+    "4.2": "4.2. Dawkowanie i sposób podawania Podanie doustne Dorośli W zapobieganiu nudnościom i wymiotom - 5 do 10 mg 2 lub 3 razy na dobę; w leczeniu nudności i wymiotów - na początku 20 mg; w razie konieczności po upływie 2 godzin dodatkowo 10 mg. Krótkotrwałe leczenie wspomagające lęku - początkowo 15 do 20 mg na dobę w dawkach podzielonych. W razie konieczności można dawkę zwiększyć maksymalnie do 40 mg na dobę, podawaną w dawkach podzielonych. Leczenie zawrotów głowy w zespole Meniere’a - 5 mg 3 razy na dobę; w razie konieczności można zwiększyć dawkę leku do 30 mg na dobę. Po kilku tygodniach dawkę można stopniowo zmniejszyć do 5-10 mg na dobę. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku powinni otrzymywać zmniejszone dawki prochloroperazyny i należy ich dokładnie obserwować ze względu na skłonność do objawów parkinsonizmu polekowego. Objawy te są często nieodwracalne i nie są podatne na leczenie.",
+    "4.3": "4.3. Przeciwwskazania Nadwrażliwość na prochloroperazynę lub którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1.",
+    "4.4": "4.4. Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Należy unikać stosowania prochloroperazyny u pacjentów z zaburzeniami czynności nerek lub wątroby, chorobą Parkinsona, niedoczynnością tarczycy, niewydolnością serca, guzem chromochłonnym rdzenia nadnerczy, miastenią, przerostem gruczołu krokowego. Należy unikać stosowania tego produktu leczniczego u pacjentów, o których wiadomo, że są nadwrażliwi na fenotiazyny, oraz u pacjentów z jaskrą z wąskim kątem przesączania w wywiadzie lub u pacjentów z agranulocytozą. Wymagane jest ścisłe monitorowanie u pacjentów z padaczką lub drgawkami w wywiadzie, ponieważ pochodne fenotiazyny mogą obniżać próg drgawkowy. Ze względu na doniesienia dotyczące możliwości rozwinięcia się agranulocytozy, należy okresowo kontrolować pełną morfologię krwi. Wystąpienie objawów zakażenia lub gorączki o niewyjaśnionej przyczynie może wskazywać na zaburzenia składu krwi (patrz punkt 4.8) i może wymagać pilnej interwencji hematologicznej. Należy bezwzględnie przerwać leczenie w przypadku gorączki o niewyjaśnionej przyczynie, ponieważ może być objawem złośliwego zespołu neuroleptycznego (bladość powłok, hipertermia, zaburzenia ze strony układu autonomicznego, zaburzenia świadomości, zwiększone napięcie mięśni szkieletowych). Objawy zaburzeń ze strony układu autonomicznego, takie jak poty i wahania ciśnienia krwi mogą poprzedzać wystąpienie hipertermii i mogą stanowić wczesne sygnały ostrzegawcze. Pomimo, że złośliwy zespół neuroleptyczny może wystąpić na podłożu idiosynkrazji, czynnikami predysponującymi do jego wystąpienia są odwodnienie i choroba organiczna mózgu. Objawy nagłego odstawienia prochloroperazyny, takie jak nudności, wymioty i bezsenność, obserwowano bardzo rzadko. Po nagłym zaprzestaniu stosowania dużych dawek neuroleptyków, może również wystąpić nawrót dolegliwości. Należy brać pod uwagę możliwość rozwinięcia się zaburzeń czynności układu pozapiramidowego, dlatego zaleca się stopniowe odstawianie leku. Tak jak w przypadku innych neuroleptyków, wydłużenie odstępu QT podczas leczenia prochloroperazyną obserwowano bardzo rzadko (patrz punkt 4.8). Przed rozpoczęciem leczenia produktem Chloropernazinum należy bardzo starannie rozważyć ryzyko względem korzyści. Pacjenci z czynnikami ryzyka arytmii komorowych (np. choroba serca, zaburzenia metaboliczne, takie jak hipokaliemia, hipokalcemia czy hipomagnezemia, niedożywienie, uzależnienie od alkoholu, równoczesna terapia innymi lekami, o których wiadomo, że mogą wydłużać odstęp QT), powinni być ściśle monitorowani (parametry biochemiczne i EKG), zwłaszcza w początkowej fazie leczenia. Ze względu na ryzyko wystąpienia nadwrażliwości na światło pacjentom należy zalecić unikanie ekspozycji na promienie słoneczne. Aby zapobiec wystąpieniu alergii skórnych u osób, które mają często do czynienia z produktami zawierającymi pochodne fenotiazyny, należy zwrócić szczególną uwagę na unikanie bezpośredniego kontaktu leku ze skórą (patrz punkt 4.8). U pacjentów w podeszłym wieku lek należy stosować ostrożnie, w szczególności podczas bardzo gorącej lub bardzo chłodnej pogody (ryzyko wystąpienia hipertermii i hipotermii). Pacjenci w podeszłym wieku są szczególnie narażeni na wystąpienie ortostatycznych spadków ciśnienia krwi. Prochloroperazynę należy stosować ostrożnie u pacjentów w podeszłym wieku, ze względu na ich większą wrażliwość na leki działające na ośrodkowy układ nerwowy. W związku z czym, zalecane jest stosowanie u tych pacjentów mniejszych dawek leku. U pacjentów w podeszłym wieku istnieje zwiększone ryzyko rozwoju polekowego parkinsonizmu podczas dłuższego stosowania. Należy zwrócić również uwagę na to, aby właściwie rozróżnić objawy niepożądane działania produktu Chloropernazinum, np. ortostatyczne spadki ciśnienia od podobnych objawów wynikających z choroby podstawowej. Produkt leczniczy nie powinien być stosowany u pacjentów z dziedziczną nietolerancją galaktozy, niedoborem laktazy (typu Lapp) lub zespołem złego wchłaniania glukozy-galaktozy.",
+    "4.5": "4.5. Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Nie należy podawać adrenaliny pacjentom po przedawkowaniu produktu Chloropernazinum (patrz punkt 4.9). Hamujące działanie neuroleptyków na ośrodkowy układ nerwowy może być nasilone (addytywnie) przez alkohol, barbiturany i inne leki sedatywne. Może również wystąpić depresja oddechowa. Leki antycholinergiczne mogą zmniejszać przeciwpsychotyczne działanie neuroleptyków, natomiast słabe działanie antycholinergiczne neuroleptyków może być nasilone przez inne leki antycholinergiczne, prowadząc do zaparć, udaru cieplnego, itd. Niektóre leki wpływają na wchłanianie neuroleptyków: leki zobojętniające, leki przeciw parkinsonizmowi oraz lit. W sytuacji, gdy wymagane jest leczenie objawów pozapiramidowych wywołanych przez neuroleptyki, w pierwszej kolejności należy zastosować antycholinergiczne leki przeciw parkinsonizmowi (nie lewodopę), gdyż neuroleptyki antagonizują działanie agonistów receptorów dopaminowych przeciw parkinsonizmowi. Duże dawki neuroleptyków zmniejszają odpowiedź na leki hipoglikemizujące, których dawki w takich sytuacjach należy zwiększyć. Neuroleptyki mogą nasilać działanie hipotensyjne większości leków przeciwnadciśnieniowych, zwłaszcza blokerów receptorów alfa. Działanie niektórych leków może być zablokowane przez neuroleptyki będące pochodnymi fenotiazyny. Do leków tych należą: amfetamina, lewodopa, klonidyna, guanetydyna, adrenalina. Obserwowano klinicznie nieistotne zwiększenie lub zmniejszenie stężenia w osoczu wielu leków, np. propranololu czy fenobarbitalu. Jednoczesne podanie deferoksaminy i prochloroperazyny wywoływało przejściową encefalopatię metaboliczną, charakteryzującą się utratą przytomności na 48-72 godzin. Istnieje zwiększone ryzyko wystąpienia arytmii podczas jednoczesnego stosowania neuroleptyków z lekami, które wydłużają odstęp QT, w tym z niektórymi lekami przeciwarytmicznymi, przeciwdepresyjnymi i innymi lekami przeciwpsychotycznymi (patrz punkt 4.8). Istnieje zwiększone ryzyko wystąpienia agranulocytozy podczas stosowania neuroleptyków z lekami hamującymi czynność szpiku kostnego, takimi jak karbamazepina czy niektóre antybiotyki i cytostatyki. Istnieją rzadkie doniesienia o neurotoksyczności u pacjentów leczonych jednocześnie neuroleptykami i litem.",
+    "4.6": "4.6. Wpływ na płodność, ciążę i laktację Ciąża Nie ma wystarczających danych potwierdzających bezpieczeństwo stosowania prochloroperazyny w ciąży. Są dane wskazujące na szkodliwy wpływ prochloroperazyny na ciążę u zwierząt. Produkt Chloropernazinum nie powinien być stosowany w ciąży chyba, że jest lekiem niezbędnym. Neuroleptyki mogą czasami wydłużać okres porodu i w takich sytuacjach ich podawanie należy wstrzymać do czasu, kiedy nastąpi rozszerzenie szyjki macicy do 3-4 cm. Prawdopodobne działania niepożądane na noworodka to letarg, paradoksalna nadpobudliwość, drżenia i niski wynik w skali Apgar. Karmienie piersią Fenotiazyny mogą przenikać do mleka, dlatego należy przerwać karmienie piersią na czas leczenia.",
+    "4.8": "4.8. Działania niepożądane Wymienione poniżej działania niepożądane podzielono według częstości występowania oraz zgodnie z klasyfikacją układów i narządów MedDRA. Częstość występowania określono następująco: - bardzo często (≥1/10) - często (≥1/100 do 1/10) - niezbyt często (≥1/1 000 do 1/100) - rzadko (≥1/10 000 do 1/1 000) - bardzo rzadko (1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). Ogólnie, objawy niepożądane występują z małą częstością. Najczęściej występującymi objawami niepożądanymi są zaburzenia czynności układu nerwowego. Zaburzenia krwi i układu chłonnego Niezbyt często: łagodna leukopenia występująca u pacjentów stosujących długotrwale duże dawki. Rzadko: agranulocytoza, która nie jest zależna od dawki (patrz punkt 4.4). Zaburzenia endokrynologiczne Częstość nieznana: hiperprolaktynemia prowadząca do mlekotoku, ginekomastia, brak miesiączki, impotencja. Zaburzenia skóry i tkanki podskórnej Rzadko: alergia kontaktowa skóry; dotyczy to tych osób, które mają kontakt z produktami zawierającymi niektóre pochodne fenotiazyny (patrz punkt 4.4). Różnego rodzaju wysypki skórne występują również u pacjentów przyjmujących lek. Pacjentów przyjmujących duże dawki leku należy ostrzec, że może u nich rozwinąć się nadwrażliwość na światło podczas ekspozycji na promienie słoneczne i dlatego nie powinni przebywać bezpośrednio w blasku słońca. Zaburzenia ogólne i stany w miejscu podania Częstość nieznana: podczas stosowania każdego neuroleptyku może wystąpić złośliwy zespół neuroleptyczny (hipertermia, stan osłupienia ze zwiększonym napięciem mięśni szkieletowych, zaburzenia ze strony układu autonomicznego i zaburzenia świadomości). Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C, 02-222 Warszawa tel.: +48 22 492 11 00; fax: +48 22 492 11 09 e-mail: ndl@urpl.gov.pl",
+    "5.2": "5.2. Właściwości farmakokinetyczne Mało jest dostępnych informacji na temat stężenia we krwi, dystrybucji i wydalania prochloroperazyny u ludzi. Szybkość metabolizmu i wydalania fenotiazyn ulega spowolnieniu u pacjentów w podeszłym wieku."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "3e32587af5c09c6a14052164aea549543a05a49b96d7cab05e301c5848b89f5d",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1397/characteristic",
+   "zrodlo_pliku": "prochlorperazyna_Chloropernazinum.pdf"
+  }
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "prochlorperazyna",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
+}

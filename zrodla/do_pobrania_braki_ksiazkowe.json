@@ -1,0 +1,29 @@
+[
+ {
+  "plik": "eslikarbazepina",
+  "id": "100435999",
+  "nazwa": "Eslibon",
+  "moc": "200 mg",
+  "postac": "Tabletki",
+  "sub": "Eslicarbazepini acetas",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43599/characteristic"
+ },
+ {
+  "plik": "maprotylina",
+  "id": "100039915",
+  "nazwa": "Ludiomil",
+  "moc": "75 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Maprotilini hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3991/characteristic"
+ },
+ {
+  "plik": "prochlorperazyna",
+  "id": "100013979",
+  "nazwa": "Chloropernazinum",
+  "moc": "10 mg",
+  "postac": "Tabletki",
+  "sub": "Prochlorperazini  dimaleas",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1397/characteristic"
+ }
+]
