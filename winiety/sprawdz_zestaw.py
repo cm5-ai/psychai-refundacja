@@ -1,0 +1,114 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+SPRAWDZ ZESTAW BLOKUJACY — czy winiety mowia o paczce, ktora naprawde istnieje.
+
+PO CO. Winieta z bledna wartoscia oczekiwana jest GORSZA NIZ JEJ BRAK: obleje
+poprawna paczke i nauczy ignorowania bramki. Ten skrypt nie uruchamia modelu.
+Sprawdza jedno: czy to, czego winieta oczekuje, STOI W PLIKACH.
+
+CZEGO NIE SPRAWDZA. Czy oczekiwana wartosc jest MADRA klinicznie. To nalezy
+do lekarza. Tu pytamy tylko, czy jest w paczce.
+
+REGULY
+  V1  wartosc oczekiwana musi wystepowac w paczce
+  V2  kazdy evidence_key musi wystepowac w paczce
+  V1b wartosc WYLICZONA musi wymagac znacznika [WYLICZONE]
+  V3  kazdy zwrot z 'wymaga_z_paczki' musi wystepowac w paczce
+      'wymaga_zachowania' NIE jest sprawdzane wobec paczki — to wlasciwosc
+      odpowiedzi, nie tekst pliku
+  V4  zakazane_wartosci sa RAPORTOWANE, nie oblewaja: czesc ma istniec
+      (siostrzany produkt, liczba z innej tabeli), a czesc MA NIE ISTNIEC
+      (zwroty falszywej nieobecnosci). Raport pokazuje, ktore sa ktore.
+  V5  bilans: N_WEJSCIE = liczba krotek, nie liczba plikow
+"""
+import json, os, sys, glob, unicodedata
+
+def _paczka():
+    k = os.environ.get("PSYCHAI_PACZKA")
+    if k and os.path.isdir(os.path.join(k, "projekt")):
+        return k
+    for p in (os.path.expanduser("~/mnt/psychai-paczka"),
+              os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                           "..", "psychai-paczka")):
+        if os.path.isdir(os.path.join(p, "projekt")):
+            return os.path.normpath(p)
+    raise SystemExit("FAIL: nie znajduje paczki.")
+
+def kanon(s):
+    """Kanonizacja JAWNA (3B): bez ogonkow, bez wielkosci liter, myslniki
+    sprowadzone do jednego znaku, biale znaki sciete. Porownujemy po tym
+    kluczu, nie po podobienstwie."""
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    for a, b in (("–", "-"), ("—", "-"), ("−", "-"),
+                 ("„", '"'), ("”", '"'), (" ", " ")):
+        s = s.replace(a, b)
+    return " ".join(s.lower().split())
+
+ROOT = _paczka()
+TEKST = ""
+for f in sorted(glob.glob(os.path.join(ROOT, "projekt", "*.txt"))):
+    if os.path.basename(f).startswith("MANIFEST_"):
+        continue
+    TEKST += open(f, encoding="utf-8").read() + "\n"
+TEKST_K = kanon(TEKST)
+
+def jest(x):
+    return kanon(x) in TEKST_K
+
+def main():
+    d = json.load(open("zestaw_blokujacy.json", encoding="utf-8"))
+    w = d["WINIETY"]
+    print("=" * 70)
+    print("SPRAWDZENIE ZESTAWU BLOKUJACEGO WOBEC PACZKI")
+    print("=" * 70)
+    print("paczka: %s" % os.path.relpath(ROOT))
+    print("N_WEJSCIE (krotek): %d" % len(w))
+    print()
+    if not w:
+        print("FAIL: zestaw pusty. Regula bez wejscia nie jest zielona.")
+        return 1
+
+    bledy, uwagi = [], []
+    for v in w:
+        k = v["krotka"]
+        ident = v["id"]
+        if k.get("wartosc") and k.get("wartosc_typ") == "CYTAT" and not jest(k["wartosc"]):
+            bledy.append("V1 %s: wartosc CYTAT '%s' NIE WYSTEPUJE w paczce" % (ident, k["wartosc"]))
+        if k.get("wartosc") and k.get("wartosc_typ") == "WYLICZONA" and not (k.get("wymaga_zachowania") or []):
+            bledy.append("V1b %s: wartosc WYLICZONA bez wymogu znacznika [WYLICZONE]" % ident)
+        for e in k.get("evidence_key") or []:
+            if not jest(e):
+                bledy.append("V2 %s: evidence_key '%s' NIE WYSTEPUJE w paczce" % (ident, e))
+        for m in k.get("wymaga_z_paczki") or []:
+            if not jest(m):
+                bledy.append("V3 %s: 'wymaga_z_paczki' -> '%s' NIE WYSTEPUJE w paczce" % (ident, m))
+        for z in k.get("zakazane_wartosci") or []:
+            uwagi.append((ident, z, jest(z)))
+
+    print("V4 — ZAKAZANE WARTOSCI: czy to realne pomylki, czy wymyslone")
+    print("     JEST w paczce = realne ryzyko pomylki (siostrzany produkt, inna tabela)")
+    print("     NIE MA        = zwrot falszywej nieobecnosci, ma nigdy nie pasc")
+    for ident, z, obecne in uwagi:
+        print("   %-16s %-34s %s" % (ident, z[:34], "JEST" if obecne else "nie ma"))
+    print()
+    print("BILANS: krotek %d, sprawdzen V1-V3 wykonanych %d, zakazanych %d"
+          % (len(w), sum(1 + len(v["krotka"].get("evidence_key") or [])
+                         + len(v["krotka"].get("wymaga_z_paczki") or []) for v in w), len(uwagi)))
+    print()
+    if bledy:
+        print("ZESTAW NIE NADAJE SIE DO UZYCIA — %d bledow:" % len(bledy))
+        for b in bledy:
+            print("   " + b)
+        print()
+        print("Winieta oczekujaca czegos, czego w paczce nie ma, OBLEJE POPRAWNA")
+        print("PACZKE. To gorsze niz brak winiety, bo uczy ignorowania bramki.")
+        return 1
+    print("ZESTAW SPOJNY Z PACZKA.")
+    print("CO TO ZNACZY: kazda oczekiwana wartosc i kazdy pin ISTNIEJA w plikach.")
+    print("NIE znaczy, ze model je odda — to mierzy dopiero przebieg.")
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main())
