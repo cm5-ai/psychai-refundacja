@@ -1,0 +1,381 @@
+Jestes PSYCH-AI. Ponizej caly kontekst, ktory masz przy tej wizycie.
+Odpowiedz tak, jak odpowiedzialbys lekarzowi przy pacjencie.
+
+===== PLIK: DRUG_DB_PSYCHIATRIA_CORE.txt =====
+PSYCH-AI — DRUG DB: PSYCHIATRIA CORE
+VERSION: v3.6
+DATE: 2026-09-24
+ZMIANA v3.6: karty rozdzielone na piec plikow klasowych. Tresc kart bez
+zmian co do bajtu — podzial jest przenosinami, nie redakcja. Powod: przy
+wizycie plik wchodzi CALY, a odczyt jednego pola ciagnal 86 KB, zeby dac
+15 linii. Ten plik trzyma reguly kart i INDEKS; karta lezy w pliku klasy.
+REGULY KART SA WYLACZNIE TUTAJ. Pliki klasowe niosą same karty.
+
+PSYCH-AI — DRUG DB: PSYCHIATRIA CORE
+VERSION: v3.5
+DATE: 2026-09-24
+ZMIANA v3.5: przeglad calej grupy N05A pod katem postaci. Pole POSTAC
+w kartach KWETIAPINA, OLANZAPINA, ARYPIPRAZOL, RISPERIDON, HALOPERIDOL,
+KLOZAPINA. Nowe karty FLUPENTYKSOL i PALIPERYDON, obie z dawkowaniem depot.
+ZMIANA v3.4: szesc nowych kart zbudowanych z ChPL — TIAPRYD, SULPIRYD,
+NITRAZEPAM, KLORAZEPAT, CHLORDIAZEPOKSYD, OKSAZEPAM. Wprowadzone pole POSTAC
+w kazdej z nich. REGULA POSTACI: dawka, czestosc, dawka maksymalna i sposob
+podania wymagaja rozstrzygnietego produktu, postaci i drogi podania; sama
+zgodnosc substancji i kodu ATC nie wystarcza. Brak rozstrzygnietej postaci =
+brak dawki. Karty umieszczone w sekcjach klasowych (neuroleptyki, BZD),
+bo przynaleznosc do sekcji jest tym, co wiaze lek z BLOKIEM klasy w 18.
+ZMIANA v3.3: pole PRZECIWWSKAZANIA obowiązkowe we wszystkich kartach;
+podmiana karty LIT na wersję z ChPL; nowe karty KARBAMAZEPINA, KLOZAPINA,
+METADON; reguła zgodności międzyproduktowej.
+ZMIANA v3.2: ONSET/T1_2/METABOLIZM/UZALEŻNIENIE dla 28 wpisów CORE;
+nowe wpisy TEMAZEPAM, BROMAZEPAM, DIAZEPAM, ESTAZOLAM.
+ŹRÓDŁA: Stahl Prescriber's Guide 2024; Jarema (red.) 2022; PTMR/PTP 2019.
+REGUŁA ROZBIEZNOSC_ZRODLOWA: sprzeczne wartości tego samego pola zachowaj
+równolegle z pinami i oznacz ROZBIEZNOSC_ZRODLOWA; nie wybieraj wartości
+domyślnej. Dotyczy też sprzeczności wewnątrz jednego dokumentu ChPL.
+
+POLA DODATKOWE (tylko tam, gdzie mają treść; brak pola = nie dotyczy):
+STEZENIE_TERAPEUTYCZNE — zakres i okna oznaczania (lit).
+PROGRAM_ZAPOBIEGANIA_CIAZY — wymóg regulatora (walproinian).
+WYMOGI_PROGRAMOWE — recepta/program szczególny (metadon, buprenorfina).
+POSTAC — postać i interwał iniekcji dla preparatów o przedł. uwalnianiu.
+ODSTAWIANIE — schemat odstawiania, gdy nagłe niesie własne ryzyko.
+OSTRZEŻENIE_GENETYCZNE — allel warunkujący ciężkie ryzyko w danej populacji.
+OWNERSHIP: twardy warunek dopuszczenia albo włączenia leku (morfologia
+przed klozapiną, litemia, EKG przed ziprasidonem, PPZ przy walproinianie)
+należy do 18 jako BLOK albo WARUNEK_WLACZENIA. DRUG_DB przechowuje
+szczegóły i wartości źródłowe; nie przenosi decyzji do karty.
+
+REGUŁA POLA ZRODLO_KARTY: karta zbudowana z ChPL ma jawne pole
+ZRODLO_KARTY: ChPL <produkt/produkty> <data pobrania>. Brak tego pola =
+karta utrzymywana ręcznie ze źródeł z nagłówka. Nie mieszaj tych dwóch
+rodzajów w jednej karcie bez oznaczenia, z którego pochodzi dana liczba.
+
+REGUŁA POLA PRZECIWWSKAZANIA: pole jest OBOWIĄZKOWE w każdej karcie.
+Treść źródłowa z ChPL pkt 4.3; nie jest decyzją — decyzję (BLOK) trzyma 18.
+Brak treści zapisuj jawnie: PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie
+interpretować jako brak przeciwwskazań. Pusty wiersz albo brak pola to błąd
+karty, nie informacja o leku.
+
+REGUŁA ZGODNOŚCI MIĘDZYPRODUKTOWEJ: żadnej wartości pochodzącej z ChPL wielu
+produktów nie wolno scalić do poziomu substancji bez testu zgodności między
+produktami. Scalać wolno WYŁĄCZNIE po deterministycznym kluczu kanonicznym
+(równość po kanonizacji). Dopasowanie przybliżone, podobieństwo i progi NIE SĄ
+dopuszczalnym źródłem danych w karcie. Brak jednoznacznego klucza -> pozycje
+zostają osobno, per produkt. Wartości zgodne można podać jako wartość substancji. Wartości
+rozbieżne zostają PRODUKTOWE, z nazwą produktu przy każdej. Gdy produkt
+pacjenta nie jest znany — NIEJEDNOZNACZNOSC_PRODUKTOWA: podaj, że zakres
+zależy od produktu, i poproś o ustalenie produktu. Nie wybieraj listy
+dłuższej ani krótszej jako „bezpieczniejszej".
+W wielu testowanych metodach porównania wykazano CZĘSTE rozbieżności
+międzyproduktowe punktu 4.3. Liczby nie podajemy: zależy od definicji
+równości pozycji, więc jest wynikiem heurystyki, nie pomiarem (§3B).
+Metryka NIE jest używana przez runtime. Szczegóły: AUDIT/repozytorium.
+Skrajny przypadek, sprawdzony ręcznie: metadon — żadna pozycja 4.3
+nie występuje we wszystkich trzech produktach w cache.
+To nie jest wyjątek — to stan typowy.
+
+REGUŁA POLA UZALEŻNIENIE: brak tego pola w karcie = UZALEŻNIENIE: NIE.
+Pole występuje jawnie wyłącznie tam, gdzie odpowiedź brzmi TAK
+albo wymaga zastrzeżenia. Próg 4 tyg. z 18B dotyczy wyłącznie
+substancji z jawnym UZALEŻNIENIE: TAK.
+
+
+INDEKS KART — LEK -> PLIK
+
+AGOMELATYNA        DRUG_DB_AD.txt
+ALPRAZOLAM         DRUG_DB_BZD.txt
+AMITRYPTYLINA      DRUG_DB_AD.txt
+ARYPIPRAZOL        DRUG_DB_AP.txt
+ATOMOKSETYNA       DRUG_DB_ADHD_UZAL.txt
+BROMAZEPAM         DRUG_DB_BZD.txt
+BUPROPION          DRUG_DB_AD.txt
+BUSPIRON           DRUG_DB_BZD.txt
+CHLORDIAZEPOKSYD   DRUG_DB_BZD.txt
+DIAZEPAM           DRUG_DB_BZD.txt
+DOKSEPINA          DRUG_DB_AD.txt
+DULOKSETYNA        DRUG_DB_AD.txt
+ESCYTALOPRAM       DRUG_DB_AD.txt
+ESTAZOLAM          DRUG_DB_BZD.txt
+FLUOKSETYNA        DRUG_DB_AD.txt
+FLUPENTYKSOL       DRUG_DB_AP.txt
+HALOPERIDOL        DRUG_DB_AP.txt
+HYDROKSYZYNA       DRUG_DB_BZD.txt
+IMIPRAMINA         DRUG_DB_AD.txt
+INNE PRZECIWDEPRESYJNE DRUG_DB_AD.txt
+KARBAMAZEPINA      DRUG_DB_STAB.txt
+KLOMIPRAMINA       DRUG_DB_AD.txt
+KLONAZEPAM         DRUG_DB_BZD.txt
+KLORAZEPAT         DRUG_DB_BZD.txt
+KLOZAPINA          DRUG_DB_AP.txt
+KWETIAPINA         DRUG_DB_AP.txt
+LAMOTRYGINA        DRUG_DB_STAB.txt
+LORAZEPAM          DRUG_DB_BZD.txt
+METADON            DRUG_DB_ADHD_UZAL.txt
+METYLOFENIDAT      DRUG_DB_ADHD_UZAL.txt
+MIRTAZAPINA        DRUG_DB_AD.txt
+NITRAZEPAM         DRUG_DB_BZD.txt
+OKSAZEPAM          DRUG_DB_BZD.txt
+OLANZAPINA         DRUG_DB_AP.txt
+PALIPERYDON        DRUG_DB_AP.txt
+PAROKSETYNA        DRUG_DB_AD.txt
+PREGABALINA        DRUG_DB_STAB.txt
+PROMETAZYNA        DRUG_DB_AP.txt
+PRZECIWPSYCHOTYCZNE DRUG_DB_AP.txt
+RISPERIDON         DRUG_DB_AP.txt
+SERTRALINA         DRUG_DB_AD.txt
+SNRI               DRUG_DB_AD.txt
+SSRI               DRUG_DB_AD.txt
+SULPIRYD           DRUG_DB_AP.txt
+TEMAZEPAM          DRUG_DB_BZD.txt
+TIAPRYD            DRUG_DB_AP.txt
+TRAZODON           DRUG_DB_AD.txt
+WENLAFAKSYNA       DRUG_DB_AD.txt
+ZOLPIDEM           DRUG_DB_BZD.txt
+ZOPIKLON           DRUG_DB_BZD.txt
+
+SEKCJE KLASOWE:
+
+DRUG_DB_AD.txt           PRZECIWDEPRESYJNE
+DRUG_DB_AP.txt           PRZECIWPSYCHOTYCZNE
+DRUG_DB_BZD.txt          BENZODIAZEPINY, Z-LEKI I POZOSTALE NASENNE/ANKSJOLITYCZNE
+DRUG_DB_STAB.txt         STABILIZATORY I PRZECIWPADACZKOWE
+DRUG_DB_ADHD_UZAL.txt    ADHD I UZALEZNIENIA
+
+
+===== PLIK: DRUG_DB_AP.txt =====
+PSYCH-AI — DRUG DB: PRZECIWPSYCHOTYCZNE
+VERSION: v3.6
+DATE: 2026-09-24
+TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
+to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
+i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
+Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
+CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
+Kart w tym pliku: 11.
+
+PRZECIWPSYCHOTYCZNE
+
+KWETIAPINA
+POSTAC: wyłącznie doustna — tabletki o natychmiastowym (IR) i o przedłużonym (XR) uwalnianiu. Brak postaci iniekcyjnej w rejestrze PL. IR i XR nie są wymienne dawka za dawkę bez sprawdzenia wskazania.
+DAWKA: silnie zależna od wskazania i IR/XR; schizofrenia/mania zwykle titracja do 300–800 mg/d; bipolar depression zwykle cel 300 mg/d; augmentacja MDD XR zwykle 150–300 mg/d.
+WSKAZANIA: schizophrenia, bipolar mania/depression, prevention; XR adjunct MDD w wybranych ChPL.
+ONSET: sedacja 1 d; efekt 7-14 d; pełny 28 d.
+T1_2: 6-7 h.
+METABOLIZM: CYP3A4.
+DN: sedacja, ortostaza, przyrost masy/metaboliczne, tachykardia, suchość w ustach; QT ostrożność.
+INTERAKCJE: CYP3A4 — induktory (karbamazepina, fenytoina, ryfampicyna) obniżają ekspozycję; depresanty OUN; QT.
+  ⚠ INHIBITORY CYP3A4 NIE SĄ „ostrożnością" — są PRZECIWWSKAZANIEM. Patrz PRZECIWWSKAZANIA.
+CIĄŻA: tylko gdy korzyść uzasadnia potencjalne ryzyko; ekspozycja III trymestr — możliwe objawy EPS/odstawienne u noworodka.
+KP: decyzja indywidualna; zwykle ostrożność.
+MONITORING: masa/BMI, BP, glikemia/HbA1c, lipidy, EPS, QT wg ryzyka.
+OTĘPIENIE: ChPL 4.4: „Kwetiapina nie została zatwierdzona do leczenia psychozy związanej z otępieniem." U osób w podeszłym wieku z psychozą w otępieniu zwiększone ryzyko zgonu vs placebo (2 badania 10-tyg., n=710, śr. wiek 83 l.: 5,5% vs 3,2%); ok. 3-krotnie więcej zdarzeń naczyniowo-mózgowych przy niektórych atypowych LPP. [ChPL Kventiax, Krka, pkt 4.4, data niepodana w pliku; zgodnie ChPL Ketrel, Celon, leki.urpl.gov.pl]
+PRZECIWWSKAZANIA [ChPL 4.3, 3 produkty (ApoTiapina, ApoTiapina PR, Bonogren) zgodne, 2026-09-22]:
+  - nadwrażliwość na kwetiapinę lub substancję pomocniczą
+  - JEDNOCZESNE STOSOWANIE INHIBITORÓW CYP3A4: inhibitory proteazy HIV, leki
+    przeciwgrzybicze z grupy azoli, ERYTROMYCYNA, KLARYTROMYCYNA, nefazodon
+  ⚠ SCENARIUSZ CODZIENNY: pacjent na kwetiapinie dostaje klarytromycynę albo
+  azol od innego lekarza. To nie jest „ostrożność" — ChPL to zakazuje.
+  Pytaj o nowe antybiotyki i leki przeciwgrzybicze przy każdej kontroli.
+
+OLANZAPINA
+POSTAC: DAWKA PONIŻEJ DOTYCZY WYŁĄCZNIE POSTACI DOUSTNEJ. Ten sam ATC obejmuje Zyprexa 10 mg proszek do wstrzykiwań (doraźnie) i Zypadhera 210/300/405 mg (depot). Dawek obu postaci iniekcyjnych NIE MA w paczce — bez ustalonej postaci nie podawaj dawki. Patrz 18, POSTAĆ DEPOT.
+DAWKA: zwykle 5–10 mg/d start; typowo 5–20 mg/d; MAX 20 mg/d.
+WSKAZANIA: schizophrenia, mania, prevention bipolar relapse.
+ONSET: sedacja 1 d; efekt 7-14 d; pełny 28 d.
+T1_2: 21-54 h; metabolity nieczynne.
+METABOLIZM: CYP1A2 — enzym DECYZYJNY (palenie tytoniu i fluwoksamina zmieniają ekspozycję)
+  [ChPL 5.2 2026-09-22]. CYP2D6 szlak poboczny — nie jest podstawą korekty dawki przy SSRI.
+DN: bardzo istotny przyrost masy, dyslipidemia/hiperglikemia, sedacja, antycholinergiczne, ortostaza.
+INTERAKCJE: CYP1A2 — palenie tytoniu/induktory obniżają ekspozycję, fluvoxamine/ciprofloxacin zwiększają; depresanty OUN; QT ostrożność.
+CIĄŻA: stosować, gdy korzyść przewyższa ryzyko; III trymestr — możliwe objawy noworodkowe.
+KP: przenika do mleka; w polskich ChPL często odradza się karmienie podczas leczenia.
+MONITORING: masa/BMI/obwód pasa, BP, glikemia/HbA1c, lipidy.
+OTĘPIENIE: ChPL 4.4: niezalecana w psychozie i/lub zaburzeniach zachowania w otępieniu — wzrost śmiertelności i ryzyka udaru; badania 6-12 tyg., śr. wiek 78 l.: zgony 3,5% vs 1,5% placebo. [SmPC ZYPREXA, pkt 4.4, rew. 09.04.2026]
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+ARYPIPRAZOL
+POSTAC: DAWKA PONIŻEJ DOTYCZY WYŁĄCZNIE POSTACI DOUSTNEJ. Ten sam ATC obejmuje Abilify 7,5 mg/ml roztwór do wstrzykiwań (doraźnie) oraz Abilify Maintena 300/400/720/960 mg (depot). Dawek postaci iniekcyjnych NIE MA w paczce. Patrz 18, POSTAĆ DEPOT.
+DAWKA: schizofrenia zwykle 10–15 mg/d; mania 15 mg/d; augmentacja MDD często 2–5 mg/d start, typowo 2–15 mg/d zależnie od produktu/wskazania.
+WSKAZANIA: schizophrenia, mania; inne zależnie od rejestracji.
+ONSET: efekt 14-28 d; pełny 42-56 d.
+T1_2: 75 h; dehydroarypiprazol 94 h.
+METABOLIZM: CYP2D6 i CYP3A4.
+DN: akatyzja, bezsenność, nudności; mniej metaboliczny niż olanzapina, ale nie zero; impulsywność/pathological gambling rzadziej.
+INTERAKCJE: CYP2D6/3A4 — inhibitory zwiększają, induktory zmniejszają stężenie.
+CIĄŻA: tylko po ocenie korzyści/ryzyka; III trymestr — ryzyko objawów noworodkowych.
+KP: może obniżać prolaktynę i laktację; przenika do mleka — ostrożność.
+MONITORING: akatyzja/EPS, impulsywność, metabolika.
+OTĘPIENIE: ChPL 4.4: nie jest wskazany w psychozie związanej z otępieniem; psychoza w chorobie Alzheimera, 3 badania, n=938, śr. wiek 82,4 l.: zgony 3,5% vs 1,7% placebo. [SmPC arypiprazol 1 mg/ml roztwór doustny, pkt 4.4, rew. 23.06.2026]
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+RISPERIDON
+POSTAC: DAWKA PONIŻEJ DOTYCZY WYŁĄCZNIE POSTACI DOUSTNEJ. Ten sam ATC obejmuje Rispolept Consta i Risperidone Teva 25/37,5/50 mg oraz Okedi 75/100 mg (depot). Dawek depot NIE MA w paczce. Patrz 18, POSTAĆ DEPOT.
+DAWKA: zwykle 1–2 mg/d start; typowo 2–6 mg/d w psychozach; wyższe dawki zwiększają EPS bez proporcjonalnego zysku.
+WSKAZANIA: schizophrenia, mania; wybrane zachowania/agresja zależnie od ChPL.
+ONSET: efekt 7-14 d; pełny 28 d.
+T1_2: 20-24 h p.o.; metabolity czynne.
+METABOLIZM: CYP2D6.
+DN: hiperprolaktynemia, EPS zależne od dawki, przyrost masy, ortostaza, dysfunkcje seksualne.
+INTERAKCJE: CYP2D6/3A4; leki hipotensyjne; QT.
+CIĄŻA: risk-benefit; III trymestr — objawy EPS/odstawienne możliwe.
+KP: przenika do mleka; ostrożność.
+MONITORING: prolaktyna przy objawach, EPS, metabolika.
+OTĘPIENIE: ChPL 4.4: zwiększona śmiertelność u osób starszych z otępieniem (risperidon doustnie: 4,0% vs 3,1% placebo). WSKAZANIE w 4.1: krótkotrwałe (do 6 tyg.) leczenie uporczywej agresji w umiarkowanej do ciężkiej chorobie Alzheimera, gdy metody niefarmakologiczne zawiodły i istnieje ryzyko szkody; nie dłużej niż 6 tyg. (4.2). [ChPL Rispolept, Janssen, pkt 4.1/4.4, data 04.02.2026]
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+HALOPERIDOL
+POSTAC: DAWKA PONIŻEJ DOTYCZY WYŁĄCZNIE POSTACI DOUSTNEJ i pochodzi ze źródeł z nagłówka, nie z ChPL — ta karta nie ma pola ZRODLO_KARTY. Ten sam kod N05AD01 obejmuje także Haloperidol WZF 5 mg/ml roztwór do wstrzykiwań (doraźnie) — JEGO ChPL NIE MA W PACZCE, więc bez dawki. DEKANIAN (Decaldol 50 mg/ml) MA WŁASNE DAWKOWANIE, WŁASNY INTERWAŁ I SZERSZE PRZECIWWSKAZANIA — w tym chorobę Parkinsona, otępienie z ciałami Lewy'ego i uczulenie na olej arachidowy. Patrz 18, POSTAĆ DEPOT oraz BLOK_PRZECIWWSKAZANIE dekanianu. Bez ustalonej postaci nie podawaj dawki.
+DAWKA: silnie zależna od wskazania; zaczynać nisko, często 0,5–2 mg 1–2x/d w ambulatoryjnych wskazaniach; w psychozie dawki większe wg ChPL.
+WSKAZANIA: psychosis, acute agitation/delirium w odpowiednich wskazaniach, mania.
+ONSET: efekt 7-14 d; pełny 21-28 d.
+T1_2: p.o. 12-38 h; dekanian ok. 3 tyg..
+METABOLIZM: CYP2D6/3A4.
+DN: EPS, akatyzja, dystonie, hiperprolaktynemia, QT/TdP, NMS.
+INTERAKCJE: leki wydłużające QT, hipokaliemia, CYP3A4/2D6.
+CIĄŻA: stosowanie tylko przy uzasadnieniu; duże doświadczenie historyczne, ale decyzja indywidualna.
+KP: ostrożność i obserwacja dziecka.
+MONITORING: EKG/QT i elektrolity przy ryzyku, EPS.
+OTĘPIENIE: ChPL 4.4: zwiększona śmiertelność u osób starszych z psychozą w otępieniu (LPP ok. 4,5% vs 2,6% placebo); w badaniach obserwacyjnych związek może być silniejszy dla haloperidolu, najwyraźniejszy w pierwszych 30 dniach, utrzymuje się ≥6 mies. WSKAZANIA w 4.1 m.in.: majaczenie po niepowodzeniu leczenia niefarmakologicznego; „leczenie utrzymującej się agresji oraz objawów psychotycznych u pacjentów z umiarkowaną do ciężkiej demencją w chorobie Alzheimera i demencją pochodzenia naczyniowego, gdy leczenie niefarmakologiczne się nie powiodło"; ocena ponowna najpóźniej po 6 tyg., u starszych start 0,5 mg/d. PRZECIWWSKAZANY (4.3): otępienie z ciałami Lewy'ego, choroba Parkinsona — to BLOK, nie brak wskazania. [SmPC HALDOL, pkt 4.1-4.4, rew. 22.09.2023; ChPL Haloperidol WZF, Polpharma, pkt 4.1, 07.12.2017]
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+KLOZAPINA
+POSTAC: wyłącznie doustna. Brak postaci iniekcyjnej i depot w rejestrze PL.
+DAWKA: doba 1 — 12,5 mg 1–2×/d; doba 2 — 25 mg 1–2×/d; następnie wzrost o 25–50 mg/d do 300 mg/d w ciągu 2–3 tyg.; dalej o 50–100 mg co 3–4 dni, najlepiej co tydzień. Zakres terapeutyczny 200–450 mg/d w dawkach podzielonych, większa dawka wieczorem. MAX 900 mg/d, wzrost nie więcej niż o 100 mg jednorazowo; powyżej 450 mg/d rośnie ryzyko napadów drgawkowych.
+PRZECIWWSKAZANIA [ChPL 4.3, 3 produkty (Ayupil, Clopizam, Clozapine Hasco), pobrano 2026-09-22]
+  WSPOLNE dla wszystkich ChPL (10) — obowiazuja niezaleznie od produktu:
+    - Nadwrażliwość na klozapinę
+    - Stosowanie u pacjentów, u których nie ma możliwości wykonywania regularnych badań krwi
+    - Wywołana przez czynniki toksyczne lub przez reakcję idiosynkrazji granulocytopenia/ agranulocytoza w wywiadzie (z wyjątkiem granulocytopenii/agranulocytozy związanej z wcześniej prowadzoną chemioterapią)
+    - Agranulocytoza wywołana stosowaniem klozapiny w wywiadzie
+    - Niekontrolowana padaczka
+    - Psychozy alkoholowe lub inne psychozy wywołane przez czynniki toksyczne, zatrucie lekami, stany śpiączki
+    - Zapaść krążeniowa i (lub) zahamowanie czynności OUN niezależnie od przyczyny
+    - Ciężkie zaburzenia czynności nerek lub serca (np. zapalenie mięśnia sercowego)
+    - Czynna choroba wątroby, związana z występowaniem nudności, jadłowstrętu lub żółtaczki; postępująca choroba wątroby, niewydolność wątroby
+    - Porażenna niedrożność jelit
+  NIEJEDNOZNACZNOSC_PRODUKTOWA — pozycje o brzmieniu roznym miedzy ChPL;
+  moga opisywac to samo. Nie scalono. Ustal produkt, gdy ktoras wazy na decyzji:
+    [Ayupil] tylko tu: Leczenia klozapiny nie należy rozpoczynać u pacjentów przyjmujących jednocześnie substancje, o których wiadomo, że wiążą się ze znacznym ryzykiem agranulocytozy; należy unikać jednoczesnego podawania leków przeciwpsychotycznych w postaci depot; Upośledzenie czynności szpiku kostnego
+    [Clopizam] tylko tu: Leczenia klozapiną nie należy rozpoczynać u pacjentów przyjmujących jednocześnie substancje, o których wiadomo, że wiążą się ze znacznym ryzykiem agranulocytozy; należy unikać jednoczesnego podawania leków przeciwpsychotycznych w postaci o przedłużonym uwalnianiu (depot); Zaburzenia czynności szpiku kostnego
+    [Clozapine Hasco] tylko tu: Leczenia klozapiny nie należy rozpoczynać u pacjentów przyjmujących jednocześnie substancje, o których wiadomo, że wiążą się ze znacznym ryzykiem agranulocytozy; należy unikać jednoczesnego podawania leków przeciwpsychotycznych w postaci depot; Zaburzenie czynności szpiku kostnego
+MONITORING: WBC i ANC co tydzień przez pierwsze 18 tygodni, potem co najmniej raz na 4 tygodnie, przez cały czas leczenia ORAZ przez 4 tygodnie po całkowitym odstawieniu. Przed startem badanie krwi, wywiad i badanie przedmiotowe. Próg rozpoczęcia: WBC ≥3500/mm³ i ANC ≥2000/mm³. PRÓG PRZERWANIA: WBC <3000/mm³ albo ANC <1500/mm³ w jakimkolwiek momencie leczenia — natychmiastowe przerwanie, a pacjent po takim przerwaniu NIE MOŻE ponownie przyjmować leku. Recepty nie wystawiać na okres dłuższy niż odstęp między badaniami krwi.
+  EOZYNOFILIA: >3000/mm³ — przerwać; wznowić dopiero gdy <1000/mm³.
+  MAŁOPŁYTKOWOŚĆ: <50 000/mm³ — przerwać.
+  PO PRZERWIE: kontrola WBC i ANC przez kolejne 18 tygodni, dawkę ustalić ponownie stopniowym zwiększaniem, nie wracać do dawki sprzed przerwy.
+  SERCE: zapalenie mięśnia sercowego — podwyższone ryzyko w pierwszych dwóch miesiącach leczenia, ale nieograniczone do tego okresu; opisano przypadki śmiertelne, a także zapalenie osierdzia z wysiękiem i kardiomiopatię. Podejrzewać przy utrzymującym się częstoskurczu spoczynkowym, zwłaszcza w pierwszych 2 miesiącach.
+T1_2: średnio 12 h, zakres 6–26 h; po dawce jednorazowej 7,9 h, w stanie stacjonarnym 14,2 h.
+METABOLIZM: CYP1A2 istotny — inhibitory (fluwoksamina, kofeina, cyprofloksacyna, perazyna, doustne środki antykoncepcyjne) podnoszą stężenie; ostrożność także PO ODSTAWIENIU takiego leku, bo stężenie klozapiny spada.
+INTERAKCJE — ZMIANY STYLU ŻYCIA, NIE TYLKO LEKI:
+  PALENIE: „W razie nagłego przerwania palenia papierosów, stężenie klozapiny w osoczu może zwiększyć się, co prowadzi do nasilenia jej działań niepożądanych" [pkt 4.5]. Rzucenie palenia traktuj jak skok stężenia — ryzyko sedacji i drgawek.
+  KOFEINA: stężenie rośnie pod wpływem kofeiny i spada o blisko 50% po 5-dniowej przerwie w jej spożyciu; zmiana ilości kawy może wymagać modyfikacji dawki [pkt 4.5].
+  CYTALOPRAM: zgłaszano interakcję zwiększającą ryzyko zdarzeń niepożądanych klozapiny; mechanizm niewyjaśniony [pkt 4.5].
+  KWAS WALPROINOWY: rzadkie, ale ciężkie napady drgawkowe, także u osób bez padaczki, i pojedyncze przypadki majaczenia; możliwy wzrost ryzyka neutropenii i zapalenia mięśnia sercowego. Przy jednoczesnym stosowaniu dokładna obserwacja [pkt 4.5]. Fluoksetyna, paroksetyna i słabiej sertralina to inhibitory CYP2D6, więc istotne interakcje z klozapiną mniej prawdopodobne; podobnie inhibitory CYP3A4. Ok. 50% dawki wydalane z moczem jako metabolity, 30% z kałem.
+DN — JELITA: działanie przeciwcholinergiczne — od zaparcia po niedrożność jelit, kamienie kałowe, porażenną niedrożność, ostre rozdęcie okrężnicy i zawał lub niedokrwienie jelita; rzadkie przypadki śmiertelne. Szczególna ostrożność przy jednoczesnych lekach zapierających.
+ZRODLO_KARTY: ChPL Ayupil 100 mg, pobrano 2026-09-22 (zgodne z Clopizam 100 mg).
+
+TIAPRYD
+POSTAC: karta obejmuje wyłącznie tabletki doustne 100 mg. Dawki postaci iniekcyjnej nie ma w paczce — bez ustalonej postaci nie podawaj dawki.
+WSKAZANIA: krótkotrwałe leczenie pobudzenia i agresji u pacjentów uzależnionych od alkoholu; ciężka postać pląsawicy w chorobie Huntingtona; krótkotrwałe leczenie pobudzenia i agresji u osób w podeszłym wieku.
+DAWKA: pobudzenie/agresja w uzależnieniu alkoholowym 300–400 mg/d przez 1–2 miesiące. Pląsawica Huntingtona: start do 1200 mg/d w co najmniej 3 dawkach podzielonych, następnie stopniowa redukcja do dawki podtrzymującej; zakres 300–1200 mg/d. Podeszły wiek: start 100 mg/d, w razie potrzeby stopniowo do max 300 mg/d; leczenie nie dłużej niż 28 dni. Dzieci i młodzież 100–150 mg/d, max 300 mg/d.
+ROZBIEZNOSC_ZRODLOWA: Tiapridal 100 mg podaje jedno dawkowanie bez podziału na wskazania — start 100 mg/d, max 300 mg/d, do 28 dni. Tiaprid PMCS rozbija dawkowanie wg wskazania jak wyżej. Obie wartości zachowane.
+NERKI: CrCl 30–60 ml/min — 75% zwykłej dawki; 10–30 ml/min — 50%; poniżej 10 ml/min — 25%.
+WATROBA: bez redukcji dawki; lek słabo metabolizowany.
+PRZECIWWSKAZANIA: nadwrażliwość; nowotwór zależny od prolaktyny (gruczolak przysadki typu prolactinoma, rak piersi); guz chromochłonny nadnerczy; jednoczesne stosowanie lewodopy lub innych leków dopaminergicznych.
+INTERAKCJE: przeciwwskazane skojarzenie z agonistami dopaminergicznymi poza chorobą Parkinsona (kabergolina, chinagolid). Leki wydłużające QT i wywołujące torsades de pointes: antyarytmiczne klasy Ia i III, neuroleptyki, lit, imipramina i inne leki przeciwdepresyjne, erytromycyna i spiramycyna iv, moksyfloksacyna, sparfloksacyna, pentamidyna, halofantryna, cyzapryd — przy konieczności skojarzenia monitorować QT i EKG. Alkohol nasila sedację i sprzyja zaburzeniom elektrolitowym. Inne neuroleptyki — ryzyko NMS.
+ONSET: Tmax ok. 1 h; biodostępność doustna 75–78%.
+T1_2: 3–5 h; w ciężkiej niewydolności nerek do 21,6 h.
+METABOLIZM: metabolizowane do 15%, metabolity w większości nieczynne; ok. 75% dawki wydalane z moczem w postaci niezmienionej w ciągu 24 h. Bez udziału CYP.
+CIĄŻA: brak lub ograniczone dane kliniczne; przenika przez łożysko; badania na zwierzętach wykazały szkodliwy wpływ na reprodukcję. Narażenie w III trymestrze — ryzyko zaburzeń pozapiramidowych i objawów odstawiennych u noworodka (pobudzenie, wzmożone napięcie, drżenie, senność, zaburzenia oddechowe, zaburzenia karmienia); noworodek wymaga monitorowania.
+MONITORING: QT i EKG przy jednoczesnym stosowaniu leków wydłużających QT; czynność nerek; czas leczenia (28 dni u osób starszych).
+ZRODLO_KARTY: ChPL Tiaprid PMCS 100 mg i Tiapridal 100 mg, pobrano 2026-09-23.
+SULPIRYD
+POSTAC: karta obejmuje wyłącznie tabletki doustne 100 mg. Dawki postaci iniekcyjnej nie ma w paczce — bez ustalonej postaci nie podawaj dawki.
+WSKAZANIA: ostre i przewlekłe psychozy w schizofrenii, zwłaszcza z objawami upośledzonej aktywności; zaburzenia depresyjne, gdy leczenie innymi lekami przeciwdepresyjnymi jest nieskuteczne lub niemożliwe do zastosowania.
+DAWKA: schizofrenia — start 400–800 mg/d w dwóch dawkach podzielonych (rano i wczesnym wieczorem). Przewaga objawów pozytywnych: co najmniej 400 mg 2 razy na dobę, w razie potrzeby więcej. Przewaga objawów negatywnych: start 400 mg 2 razy na dobę; zmniejszenie do 200 mg 2 razy na dobę zwiększa działanie pobudzające. Objawy mieszane: 400–600 mg 2 razy na dobę. MAX 1200 mg/d; wyłącznie w przypadkach opornych psychiatra może zwiększyć do 1600 mg/d w dawkach podzielonych. Zaburzenia depresyjne: start 50–150 mg/d, następnie 150–300 mg/d. Dzieci i młodzież poniżej 14 lat — nie zaleca się.
+NERKI: CrCl 30–60 ml/min — 70% dawki i 1,5-krotnie dłuższy odstęp; 10–30 ml/min — 50% i odstęp 2-krotny; poniżej 10 ml/min — 34% i odstęp 3-krotny.
+PODAWANIE: co najmniej godzinę przed posiłkiem albo dwie godziny po. Nie jednocześnie ani wcześniej niż 2 h od leków zobojętniających lub sukralfatu. Nie podawać po godzinie 16:00 — ryzyko zaburzeń snu.
+PRZECIWWSKAZANIA: nadwrażliwość na sulpiryd lub inne benzamidy; guz chromochłonny rozpoznany lub podejrzewany; ostra porfiria; guzy związane z nadmiernym wydzielaniem prolaktyny (gruczolak przysadki, rak piersi); jednoczesne stosowanie lewodopy; okres karmienia piersią; dzieci i młodzież poniżej 14 lat.
+INTERAKCJE: lewodopa — przeciwwskazana (wzajemny antagonizm). Unikać leków mogących wywołać torsade de pointes: wywołujących bradykardię (beta-blokery, diltiazem, werapamil, klonidyna, guanfacyna, glikozydy naparstnicy), wywołujących zaburzenia elektrolitowe (diuretyki hipokaliemiczne, leki przeczyszczające, amfoterycyna B iv, glikokortykoidy), antyarytmicznych klasy Ia i III, oraz pimozydu, sultoprydu, haloperidolu, metadonu, TLPD, litu, cyzaprydu, tiorydazyny, pentamidyny, erytromycyny iv, sparfloksacyny. Alkohol i inne depresanty OUN — nasilenie sedacji. Leki zobojętniające i sukralfat zmniejszają wchłanianie.
+ONSET: Tmax 3–6 h; biodostępność 27–34%, pokarm zmniejsza wchłanianie o ok. 30%.
+T1_2: 8–9 h; w ciężkiej niewydolności nerek wydłużony do 20–26 h.
+METABOLIZM: zaledwie 5% dawki podlega przemianom; ok. 95% wydalane w postaci niezmienionej przez nerki. Bez udziału CYP.
+CIĄŻA: nie stosować. Przenika przez łożysko; dane niewystarczające. Narażenie w III trymestrze — ryzyko zaburzeń pozapiramidowych i objawów odstawiennych u noworodka.
+KP: PRZECIWWSKAZANY w okresie karmienia piersią (punkt 4.3). Sulpiryd przechodzi do mleka.
+MONITORING: stan wątroby rutynowymi badaniami laboratoryjnymi; czynność nerek; QT przy skojarzeniach jak wyżej.
+ZRODLO_KARTY: ChPL Sulpiryd Hasco 100 mg i Sulpiryd Teva 100 mg, pobrano 2026-09-23.
+
+FLUPENTYKSOL
+POSTAC: DWIE POSTACIE O ZUPEŁNIE INNYM DAWKOWANIU, ten sam kod N05AF01. Doustna (Fluanxol, dobowo) i dekanian we wstrzyknięciu domięśniowym (Fluanxol Depot 20 mg/ml, co 2–4 tygodnie). Rejestr opisuje depot jako „Roztwór do wstrzykiwań", bez słowa o przedłużonym uwalnianiu — postaci nie da się rozpoznać po polu postać. Bez ustalonej postaci nie podawaj dawki.
+WSKAZANIA doustnie [Fluanxol 0,5 mg]: zaburzenia psychotyczne bez zaburzeń depresyjnych; doraźnie w zaburzeniach depresyjnych innych niż w przebiegu psychozy.
+BRAK DAWKI W PSYCHOZIE. Doustny flupentyksol ma w rejestrze dwie moce: Fluanxol 0,5 mg i Fluanxol 3 mg. W paczce jest wyłącznie ChPL mocy 0,5 mg, a jej punkt 4.2 podaje dawkowanie TYLKO dla depresji, nerwic depresyjnych i zaburzeń psychosomatycznych — max 3 mg/d. Dawki przeciwpsychotycznej NIE MA w paczce; nie przenoś na nią max 3 mg/d. ROZBIEZNOSC_ZRODLOWA wewnątrz ChPL 0,5 mg: punkt 4.1 wymienia zaburzenia psychotyczne, punkt 4.2 nie podaje dla nich schematu.
+WSKAZANIA depot: leczenie podtrzymujące schizofrenii i innych psychoz, zwłaszcza z omamami, urojeniami i zaburzeniami myślenia, którym towarzyszy apatia, utrata energii, depresja i wycofanie.
+DAWKA doustnie [wyłącznie depresja, nerwice depresyjne, zaburzenia psychosomatyczne; Fluanxol 0,5 mg]: start 1 mg/d rano albo 0,5 mg 2 razy na dobę; po tygodniu można zwiększyć do 2 mg/d; dawkę powyżej 2 mg podawać w dwóch dawkach podzielonych, MAX 3 mg/d. Podeszły wiek: połowa dawki, 0,5–1,5 mg/d. Odpowiedź zwykle w 2–3 dni; brak efektu po tygodniu dawki maksymalnej — odstawić. Dzieci: nie zalecany.
+DAWKA depot: leczenie podtrzymujące 20–40 mg (1–2 ml) co dwa albo cztery tygodnie, zależnie od odpowiedzi. Objętość powyżej 2 ml podzielić na dwa miejsca wstrzyknięcia. Podeszły wiek: dolna granica zakresu. Wstrzyknięcie domięśniowe w górny zewnętrzny kwadrant pośladka. Dekanianu 20 mg/ml NIE podawać pacjentom, którzy wymagają uspokojenia polekowego.
+PRZELICZNIK doustny na depot oraz między depotami: patrz 18, POSTAĆ DEPOT.
+PRZECIWWSKAZANIA: nadwrażliwość; zapaść krążeniowa; zmniejszony poziom świadomości bez względu na etiologię (zatrucie alkoholem, barbituranami lub opiatami); śpiączka.
+ONSET: doustnie Tmax 4–5 h, biodostępność ok. 40%; depot Cmax zwykle w 3–7 dni.
+T1_2: doustnie ok. 35 h. Depot ok. 3 tygodnie (odzwierciedla uwalnianie z postaci depot); stan stacjonarny po ok. 3 miesiącach wielokrotnego podawania — WAŻNE przy ocenie skuteczności.
+METABOLIZM: sulfoksydacja, N-dealkilacja łańcucha bocznego, sprzęganie z kwasem glukuronowym; metabolity bez działania psychofarmakologicznego. Wiązanie z białkami ok. 99%. Wydalany głównie z kałem.
+NERKI: zwykle stosowane dawki, bez redukcji.
+WATROBA: ostrożność przy doborze dawki; jeśli możliwe, oznaczanie stężenia w surowicy.
+ZRODLO_KARTY: ChPL Fluanxol 0,5 mg i Fluanxol Depot 20 mg/ml, pobrano 2026-09-23.
+
+PALIPERYDON
+POSTAC: KARTA OBEJMUJE WYŁĄCZNIE PALMITYNIAN WE WSTRZYKNIĘCIACH O PRZEDŁUŻONYM UWALNIANIU, PODAWANY CO MIESIĄC (Denepra, Egoropal i odpowiedniki 25–150 mg). Ten sam kod N05AX13 obejmuje także Invegę doustną (tabletki o przedłużonym uwalnianiu, dobowo), Trevictę (175–525 mg) i Byannli (700 i 1000 mg) o dłuższych interwałach — ICH ChPL NIE MA W PACZCE, więc bez dawki. Bez ustalonej postaci i produktu nie podawaj dawki.
+UWAGA REJESTROWA: Invega 12 mg figuruje w RPL pod nazwą powszechną „Paraperidonum" — wyszukiwanie po nazwie substancji ją gubi. Klucz to kod ATC.
+WSKAZANIA: leczenie podtrzymujące schizofrenii u stabilnych dorosłych leczonych paliperydonem lub rysperydonem. U wybranych dorosłych, którzy wcześniej reagowali na doustny paliperydon lub rysperydon, można rozpocząć bez uprzedniej stabilizacji doustnej, gdy objawy psychotyczne są łagodne do umiarkowanych.
+DAWKA: inicjacja 150 mg w 1. dniu i 100 mg w 8. dniu, oba wstrzyknięcia DO MIĘŚNIA NARAMIENNEGO. Trzecia dawka miesiąc po drugiej. Podtrzymanie 75 mg co miesiąc; zakres 25–150 mg zależnie od tolerancji i skuteczności. Pacjenci z nadwagą lub otyli mogą wymagać dawek z górnego zakresu. Po drugiej dawce inicjującej można wstrzykiwać do mięśnia naramiennego albo pośladkowego. Dostosowanie dawki podtrzymującej nie częściej niż co miesiąc; pełny efekt może być niewidoczny przez kilka miesięcy.
+ZAMIANA z doustnego paliperydonu o przedłużonym uwalnianiu: 3 mg/d -> 25–50 mg co miesiąc; 6 mg/d -> 75 mg; 9 mg/d -> 100 mg; 12 mg/d -> 150 mg.
+ZAMIANA z rysperydonu w postaci wstrzyknięć o przedłużonym działaniu: 25 mg co 2 tygodnie -> 50 mg co miesiąc; 37,5 mg co 2 tygodnie -> 75 mg; 50 mg co 2 tygodnie -> 100 mg. Zastąpić następne zaplanowane wstrzyknięcie; schemat inicjujący nie jest wtedy wymagany.
+POMINIĘTA DAWKA: drugą dawkę można podać 4 dni przed albo po 8. dniu; kolejne miesięczne do 7 dni przed albo po terminie.
+PRZECIWWSKAZANIA: nadwrażliwość na paliperydon, na rysperydon albo na substancję pomocniczą.
+ONSET: mediana Tmax 13 dni po dawce domięśniowej. Uwalnianie zaczyna się w 1. dniu i trwa co najmniej 4 miesiące. Wstrzyknięcie naramienne daje Cmax o ok. 28% większe niż pośladkowe — stąd inicjacja naramienna.
+ODSTAWIENIE: przerywając leczenie, uwzględnij przedłużone uwalnianie — lek działa jeszcze miesiącami. Okresowo oceniaj potrzebę dalszego stosowania leku na objawy pozapiramidowe.
+ZRODLO_KARTY: ChPL Denepra 100 mg, pobrano 2026-09-23 (zgodne z Egoropal 100 mg).
+
+STABILIZATORY / PRZECIWDRGAWKOWE
+
+LIT
+DAWKA: profilaktyka 0,5–1,25 g/d w dawkach podzielonych, min. 3 części; stan maniakalny 1,5–2,0 g/d, po ustąpieniu ostrej fazy natychmiast zmniejszyć. Nie zaleca się poniżej 12 r.ż.
+STEZENIE_TERAPEUTYCZNE: profilaktyka 0,5–0,8 mmol/l. Mania: ROZBIEZNOSC_ZRODLOWA — pkt 4.2 podaje 0,6–1,2 mmol/l, pkt 5.2 tego samego dokumentu 0,8–1,2 mmol/l; obie równolegle, bez wartości domyślnej. Pomiar 12 h po ostatniej dawce. Kontrola: początkowo min. 1×/tydz.; po ustaleniu co 1–2 mies.; w remisji co 2–3 mies.
+WSKAZANIA: epizod maniakalny w ChAD; zapobieganie nawrotom ChAD; zapobieganie epizodom depresji w zaburzeniach depresyjnych nawracających.
+PRZECIWWSKAZANIA [ChPL 4.3 Lithium Carbonicum GSK, pobrano 2026-09-22] — 7 poz.:
+  - nadwrażliwość (uczulenie) na substancję czynną lub pozostałe składniki produktu
+  - ciężka niewydolność nerek
+  - świeżo przebyty zawał mięśnia sercowego
+  - organiczne uszkodzenia mózgu
+  - białaczka
+  - ciąża (działanie teratogenne w I trymestrze)
+  - okres karmienia piersią (lit przenika do mleka matki)
+  UWAGA_PRODUKTOWA: w cache tylko ten produkt; inny moze miec inna liste 4.3.
+ONSET: działanie lecznicze po 1–3 tyg.
+T1_2: ok. 19 h, zakres 13–33 h; wydłużony u osób starszych i przy upośledzeniu nerek.
+METABOLIZM: bez metabolizmu wątrobowego; ok. 95% wydalane przez nerki. Niedobór sodu i wody nasila wchłanianie zwrotne → wzrost stężenia.
+DN: początkowo drżenia, dolegliwości żołądkowo-jelitowe, wielomocz, wzmożone pragnienie, osłabienie siły mięśniowej, znużenie; nasilenie zależy od stężenia.
+  TOKSYCZNOŚĆ — PROG_LICZBOWY: BRAK W ChPL, decyzja oparta na objawach. Pierwsze objawy = NATYCHMIASTOWE przerwanie: wydłużenie QT/QTc w EKG; biegunka, wymioty, odwodnienie; ataksja, drżenie, hipertonia, mimowolne skurcze, neuropatia obwodowa, osłabione lub nieobecne odruchy głębokie, hiperrefleksja, zaburzenia mowy, splątanie, senność, oczopląs. Następstwa neurologiczne bywają nieodwracalne mimo odstawienia.
+INTERAKCJE: wzrost stężenia — NLPZ (w tym koksyby), ACE-I, sartany, diuretyki tiazydowe, amiloryd, metronidazol. Spadek — ksantyny (teofilina, kofeina), mocznik, związki alkalizujące, inhibitory SGLT2, inhibitory anhydrazy węglanowej. Topiramat do 600 mg/d: AUC litu +26%, zgłaszane przypadki toksyczności.
+CIĄŻA: nie stosować, zwłaszcza I trymestr — zwiększona częstość wad wrodzonych, szczególnie sercowo-naczyniowych.
+KP: karmienie piersią przeciwwskazane w trakcie terapii.
+MONITORING: przed leczeniem — tarczyca, nerki, EKG, sód, glukoza ORAZ WAPŃ; wapń kontrolować okresowo, w razie potrzeby PTH (lit może powodować hiperkalcemię z nadczynnością przytarczyc lub bez). Dalej stężenie litu wg pola STEZENIE_TERAPEUTYCZNE.
+  CZYNNIKI RYZYKA: niewydolność nerek, choroba sercowo-naczyniowa, nieleczona niedoczynność tarczycy, niewyrównany sód wskutek odwodnienia, choroba Addisona, zmniejszona podaż soli. Ostrożnie: choroba Parkinsona, zaburzenia węzła zatokowego i przewodnictwa, padaczka, łuszczyca, miastenia wrodzona, cukrzyca, schizofrenia.
+ODSTAWIANIE: stopniowo, przez min. 2 tygodnie — nagłe może przyspieszyć nawrót. Objawy toksyczności: przerwanie natychmiast, bez stopniowania.
+ZRODLO_KARTY: ChPL Lithium Carbonicum GSK 250 mg, pobrano 2026-09-22.
+
+PROMETAZYNA
+DAWKA: nasennie 12,5-25 mg na noc; nie stosowac przewlekle.
+WSKAZANIA: alergia, nudnosci; off-label sedacja i bezsennosc.
+ONSET: doraźny 0,5-1 h.
+T1_2: lookup ChPL.
+METABOLIZM: wątroba.
+DN: silna sedacja, efekty antycholinergiczne, hipotonia ortostatyczna, wydluzenie QT, objawy pozapiramidowe.
+INTERAKCJE: leki antycholinergiczne, wydluzajace QT, depresanty OUN.
+CIAZA: ograniczone dane.
+KP: ostroznie; sedacja niemowlecia.
+PRZECIWWSKAZANE u dzieci ponizej 2 lat.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+
+===== PYTANIE LEKARZA =====
+Mezczyzna 41 lat, zaburzenia lekowe uogolnione. Alkohol okazjonalnie, kilka razy w roku, bez ciagow. Prosi o cos na uspokojenie.

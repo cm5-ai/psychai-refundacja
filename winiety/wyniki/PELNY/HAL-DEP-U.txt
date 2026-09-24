@@ -1,0 +1,5 @@
+Sertralina, T1_2: nie podaję — karty nie ma w kontekście.
+Sprawdzone: INDEKS KART w CORE → SERTRALINA leży w DRUG_DB_AD.txt; tego pliku klasowego przy tej wizycie nie ma. Reguły kart są w CORE, wartości w pliku klasowym — bez niego odczyt pola jest odmową, nie odczytem z pamięci.
+Fallback ChPL: CHPL_WYCIAG należy do 19 — moduł 19 też poza kontekstem, nie uruchomię.
+To brak danej u mnie, nie informacja, że karta wartości nie ma.
+? Wgrać DRUG_DB_AD.txt (albo 19) — podam T1_2 z karty?

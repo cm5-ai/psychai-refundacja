@@ -1,0 +1,7 @@
+Doksepina: TAK — wejście TCA spełnione (lekarz podał TCA), żaden BLOK TCA nie jest spełniony.
+Uzależnienie od alkoholu w remisji 2 lata i OSAS na CPAP: nie blokują TCA — inny mechanizm.
+Warunkowo: wydłużone QT, blok przewodzenia albo zawał <6 mies. -> BLOK; zawał wcześniej -> EKG przed włączeniem. Tych danych nie podano.
+Jako leczenie podstawowe, nie doraźnie. Przegląd 2-4 tyg. albo wcześniejsza nietolerancja.
+Dawka: karta DOKSEPINA leży w DRUG_DB_AD (indeks CORE) — pliku nie ma w tym kontekście, bez liczby.
+Znana nietolerancja albo ciężkie DN doksepiny lub innego TCA?
+? Kardiologicznie: QT, blok przewodzenia, przebyty zawał?

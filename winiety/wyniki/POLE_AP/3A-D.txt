@@ -1,0 +1,4 @@
+Klorazepat, MAX: nie podaję — karty nie ma w kontekście.
+Sprawdziłem INDEKS KART w CORE: KLORAZEPAT -> DRUG_DB_BZD.txt; wczytany jest wyłącznie DRUG_DB_AP.txt.
+Brak karty to nie informacja, że dawki maksymalnej nie ma.
+? Wczytać DRUG_DB_BZD.txt?

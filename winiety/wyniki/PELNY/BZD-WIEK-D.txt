@@ -1,0 +1,7 @@
+⚠ BZD: NIE — BLOK, wiek ≥65 + upadki + chód niepewny.
+⚠ Zolpidem, zopiklon: NIE — BLOK Z, ta sama przesłanka.
+⚠ Doksepina, amitryptylina: NIE — BLOK TCA, wiek ≥65 + upadki + antycholinergik.
+Trazodon: TAK → 25 mg na noc, czyli 1/3 tabl. Trittico CR 75 mg [OPINIA KLINICZNA] — karta trazodonu leży w DRUG_DB_AD.txt, w tej turze nieodczytana.
+Melatonina: druga opcja — gdy trazodon nietolerowany.
+Przegląd: najbliższa wizyta.
+? Ortostatyzm albo hipotonia w danych? Tak → trazodon NIE, zostaje melatonina.

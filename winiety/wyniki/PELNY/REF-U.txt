@@ -1,0 +1,4 @@
+Kwetiapina, dawka maksymalna w schizofrenii: karta nie ma pola MAX — liczby nie podaję.
+DAWKA, gałąź schizofrenia/mania: zwykle titracja do 300–800 mg/d — zakres zwykły, nie maksimum.
+Zastrzeżenie pola: dawka silnie zależna od wskazania i od IR/XR; IR i XR nie są wymienne dawka za dawkę bez sprawdzenia wskazania.
+? Uruchomić CHPL_WYCIAG po dawkę maksymalną z ChPL (wynik z nazwą produktu)?

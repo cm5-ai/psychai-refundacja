@@ -1,0 +1,7 @@
+⚠ Dekanian haloperidolu: BLOK — choroba Parkinsona. Przeciwwskazanie bezwzględne dekanianu (Decaldol), nie całej substancji — postać doustna tego zakazu nie ma.
+
+T1_2 dekanianu: nie podaję liczby. Sprawdziłem indeks kart w DRUG_DB_PSYCHIATRIA_CORE — karta HALOPERIDOL leży w DRUG_DB_AP.txt, tego pliku nie ma w paczce; pola T1_2 nie odczytałem. Sprawdziłem też 18 (sekcja postaci depot): są dawki, interwały i przeliczniki dekanianu, okresu półtrwania nie ma.
+Brak danych lokalnych to nie informacja, że wartości nie ma.
+Fallback ChPL: CHPL_WYCIAG (19) niedostępny — bez uruchomienia bez liczby.
+
+? Udostępnić DRUG_DB_AP.txt czy uruchomić CHPL_WYCIAG dla Decaldol 50 mg/ml?
