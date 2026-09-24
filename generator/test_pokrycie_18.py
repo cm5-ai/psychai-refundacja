@@ -28,9 +28,16 @@ import inn
 PROJEKT = os.path.expanduser("~/mnt/psychai-paczka/projekt")
 KLASOWE = ["DRUG_DB_AD.txt", "DRUG_DB_AP.txt", "DRUG_DB_BZD.txt",
            "DRUG_DB_STAB.txt", "DRUG_DB_ADHD_UZAL.txt"]
-BAZA = 31          # stan 2026-09-24, zweryfikowany recznie
+BAZA = 21          # stan 2026-09-24 po 9 nowych kartach i dwoch synonimach pisowni
 MIN_NAZWA = 6
 RDZEN = 8
+
+# PISOWNIA. 18 uzywa nazw miedzynarodowych, karty - polskich. Rdzen osmioznakowy
+# ich nie skleja (citalopr / cytalopr), wiec lek Z KARTA wychodzil jako "bez karty".
+# Tabela jest JAWNA I DETERMINISTYCZNA (rownosc rdzeni po podstawieniu), nie
+# podobienstwo - par przyblizonych tu nie wolno dopisywac. Kazde uzycie jest
+# raportowane ponizej, zeby scalenie nie bylo ciche.
+SYNONIMY = {"citalopr": "cytalopr", "escitalo": "escytalo"}
 
 
 def plaski(s):
@@ -55,8 +62,12 @@ def main():
 
     t18 = open(os.path.join(PROJEKT, "18_PSYCH_PHARMA_FORMULARY_PL.txt"), encoding="utf-8").read()
     leki = {}
+    uzyte_synonimy = []
     for w in {x for x in re.findall(r'\b[a-ząćęłńóśźż]{7,}\b', t18)}:
         r = rdzen(w)
+        if r in SYNONIMY and SYNONIMY[r] in karty:
+            uzyte_synonimy.append("%s -> %s (karta)" % (r, SYNONIMY[r]))
+            r = SYNONIMY[r]
         if r in cache or r in karty:
             leki.setdefault(r, set()).add(w)
 
@@ -64,6 +75,8 @@ def main():
     maja = len(leki) - len(bez)
     print("N_WEJSCIE %d rdzeni lekowych w 18 = z karta %d + BEZ KARTY %d -> %s"
           % (len(leki), maja, len(bez), "BILANS OK" if len(leki) == maja + len(bez) else "FAIL"))
+    if uzyte_synonimy:
+        print("SYNONIMY UZYTE (%d): %s" % (len(uzyte_synonimy), "; ".join(sorted(uzyte_synonimy))))
     print()
     for r in bez:
         print("   %-28s %s" % ("/".join(sorted(leki[r]))[:28], "ChPL w cache: " + cache.get(r, "BRAK")))

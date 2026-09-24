@@ -53,7 +53,8 @@ WYJATKI = {
 # Karty, dla ktorych ATC nie da sie ustalic — brak mostu do rejestru.
 # To NIE jest zgoda na dowolne przypisanie; to jawny stan "nie sprawdzone".
 BEZ_ATC_ZNANE = {"IMIPRAMINA"}
-ALIAS_CACHE = {"escytalopram": "escitalopram", "flupentyksol": "flupentiksol"}
+ALIAS_CACHE = {"escytalopram": "escitalopram", "flupentyksol": "flupentiksol",
+               "cytalopram": "citalopram"}
 
 bledy, uwagi = [], []
 

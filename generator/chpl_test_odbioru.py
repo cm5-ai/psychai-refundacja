@@ -5,6 +5,11 @@ Kazdy test jest niezalezny od funkcji uzytych do budowy cache'u -
 inaczej test powtarzalby ten sam blad co generator."""
 import json, os, re, sys, glob, unicodedata, datetime, functools, collections
 
+# INDEX.json trzyma sciezki wzgledne ("chpl/x.json"), wiec test MUSI stac
+# w korzeniu repo. Ustawiamy to sami, zamiast wymagac tego od uruchamiajacego:
+# odpalony z innego katalogu konczyl sie "brak katalogu chpl", czyli awaria
+# wygladajaca jak wynik testu.
+os.chdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 KATALOG = "chpl"
 MAX_WIEK_DNI = 45
 bledy, ostrzezenia = [], []
