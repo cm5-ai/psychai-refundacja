@@ -7333,44 +7333,6 @@
 "sha": "307901d89114bacf",
 "sub": "FLUOKSETYNA"
 },
-"100286246": {
-"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28624/characteristic",
-"moc": "5 mg",
-"nazwa": "Symescital",
-"podmiot": "Symphar Sp. z o.o.",
-"sekcje": {
-"4.1": "1edb88fcb46ee5f9",
-"4.2": "79bcd0f25fa559ab",
-"4.3": "10d34edda4d76f6b",
-"4.4": "6c94074ed84034aa",
-"4.5": "6b72edfef965dd1b",
-"4.6": "67b4b159459be6f7",
-"4.7": "7153217adaebc67c",
-"4.8": "2b8b9a552c64fd8f",
-"4.9": "6fd6c0510d2443ab"
-},
-"sha": "ebec80596473e667",
-"sub": "ESCYTALOPRAM"
-},
-"100286252": {
-"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28625/characteristic",
-"moc": "10 mg",
-"nazwa": "Symescital",
-"podmiot": "Symphar Sp. z o.o.",
-"sekcje": {
-"4.1": "1edb88fcb46ee5f9",
-"4.2": "79bcd0f25fa559ab",
-"4.3": "10d34edda4d76f6b",
-"4.4": "6c94074ed84034aa",
-"4.5": "6b72edfef965dd1b",
-"4.6": "67b4b159459be6f7",
-"4.7": "7153217adaebc67c",
-"4.8": "2b8b9a552c64fd8f",
-"4.9": "6fd6c0510d2443ab"
-},
-"sha": "ebec80596473e667",
-"sub": "ESCYTALOPRAM"
-},
 "100298083": {
 "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29808/characteristic",
 "moc": "20 mg/ml",

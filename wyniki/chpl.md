@@ -1,6 +1,6 @@
-# Strażnik ChPL — 2026-09-21
+# Strażnik ChPL — 2026-09-24
 
-Produkty sprawdzane: 815; błędy pobrania: 0; porównanie z poprzednim
+Produkty sprawdzane: 813; błędy pobrania: 0; porównanie z poprzednim
 
 ## Zmienione ChPL (0 substancji)
 
