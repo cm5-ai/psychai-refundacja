@@ -1,0 +1,21 @@
+# STRAZ L4 x RPL — KANARKI.
+# Leki, o ktorych PACZKA WIE, ze sa w rejestrze PL. Sprawdzane PRZED kazdym
+# pytaniem o nieobecnosc. Zero przy ktorymkolwiek = zapytanie albo eksport
+# zepsuty, i wtedy narzedzie nie orzeka niczego.
+#
+# PO CO. Przy pierwszej probie dwa zapytania zwrocily "0 produktow kwetiapiny".
+# Wygladalo to jak odpowiedz, a bylo bledem pola: rejestr trzyma nazwy po
+# lacinie, a atc jest lista. Bez kanarka automat uznalby, ze kwetiapiny nie ma
+# w Polsce — i zaczalby kasowac prawdziwe ostrzezenia z kart.
+#
+# PROGI sa NISKIE celowo. Pilnuja, czy zapytanie w ogole dziala, a nie tego,
+# ile produktow jest na rynku. Producent wycofujacy polowe opakowan nie ma
+# oblewac strazy.
+#
+# Kolumny TABULATOREM, trzy:  ATC  MIN_PRODUKTOW  OPIS
+N05AH04	20	kwetiapina
+N05AH03	20	olanzapina
+N05AX08	10	rysperydon
+N05AD01	3	haloperidol
+N06AB06	20	sertralina
+N03AX09	10	lamotrygina

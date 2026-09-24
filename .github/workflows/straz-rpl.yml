@@ -1,0 +1,99 @@
+# STRAZ L4 x RPL — rama, warstwa 4, polowa mieszkajaca przy danych.
+#
+# SZEW. Twierdzenia o rejestrze zyja w repozytorium psychai-paczka (modul 18,
+# karty DRUG_DB) i tam pilnuje ich narzedzia/straz_czasu.py: czy zdanie nadal
+# stoi w pliku i od ilu dni nikt na nie nie patrzyl. Tutaj pilnowana jest ich
+# TRESC, bo tutaj leza dane. Oba repozytoria sa prywatne, wiec czytanie miedzy
+# nimi wymagaloby tokenu — dlatego sprawdzenie stoi przy danych, a nie przy
+# zdaniu. Plik pytan odsyla do wpisow strazy po ID.
+#
+# WYZWALACZ. Po zakonczeniu "Spis RPL", bo wtedy pojawia sie nowe dane.
+# NIE przez push: commit bota z domyslnym tokenem nie odpala workflow,
+# wiec wyzwalacz push milczalby i wygladalo by to na zielone.
+name: Straz L4 x RPL
+
+on:
+  workflow_run:
+    workflows: ["Spis RPL (leki psychiatryczne)"]
+    types: [completed]
+  schedule:
+    - cron: "41 6 * * 1"
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - ".github/straz_rpl_pytania.tsv"
+      - ".github/straz_rpl_kanarki.tsv"
+      - "generator/straz_rpl.py"
+      - ".github/workflows/straz-rpl.yml"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  straz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Konfrontacja z rejestrem
+        id: straz
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          python3 generator/straz_rpl.py 2>&1 | tee raport_straz_rpl.txt
+
+      - name: Raport do podsumowania przebiegu
+        run: |
+          echo '## Straz L4 x RPL' >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          cat raport_straz_rpl.txt >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: raport-straz-rpl
+          path: raport_straz_rpl.txt
+
+      - name: Issue przy rozbieznosci
+        if: steps.straz.outcome == 'failure' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TYT="STRAZ RPL: rejestr przeczy zdaniu w paczce"
+          if gh issue list --search "in:title \"$TYT\"" --state open --json title \
+               --jq '.[].title' | grep -qxF "$TYT"; then
+            echo "Issue juz otwarte — tytul jest kluczem, duplikatu nie zakladam."
+            exit 0
+          fi
+          {
+            echo "Straz L4 skonfrontowala zdania paczki z oficjalnym eksportem RPL"
+            echo "i znalazla rozbieznosc albo nie mogla orzekac."
+            echo
+            echo "UWAGA: to moze byc rowniez padniety kanarek, czyli zepsute"
+            echo "zapytanie lub eksport. Wtedy zadne zdanie w paczce NIE JEST"
+            echo "falszywe — narzedzie po prostu nie wie. Przeczytaj raport."
+            echo
+            echo '```'
+            cat raport_straz_rpl.txt
+            echo '```'
+          } > tresc_issue.md
+          gh label create straz-rpl --color ededed --force >/dev/null 2>&1 || true
+          gh issue create --title "$TYT" --body-file tresc_issue.md --label straz-rpl
+
+      - name: Wynik przebiegu
+        run: |
+          if grep -q "^FAIL" raport_straz_rpl.txt; then
+            echo "Straz RPL: FAIL — nie dalo sie orzekac."
+            exit 1
+          fi
+          if grep -q "^KANARKI PADLY" raport_straz_rpl.txt; then
+            echo "Straz RPL: kanarki padly — zadnych wnioskow."
+            exit 1
+          fi
+          if grep -q "^ROZBIEZNOSCI" raport_straz_rpl.txt; then
+            echo "Straz RPL: rejestr przeczy paczce."
+            exit 1
+          fi
+          echo "Straz RPL: zdania paczki zgodne ze stanem rejestru."

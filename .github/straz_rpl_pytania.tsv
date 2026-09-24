@@ -1,0 +1,24 @@
+# STRAZ L4 x RPL — PYTANIA.
+# Zdania paczki o rejestrze PL, przelozone na pytanie do oficjalnego eksportu.
+#
+# ID_STRAZY odsyla do .github/straz_czasowe.tsv w repozytorium psychai-paczka.
+# To jest SZEW miedzy repozytoriami: tam pilnowane jest, czy zdanie nadal stoi
+# w pliku, tutaj — czy jest prawdziwe. Zadna strona nie zastepuje drugiej.
+#
+# KLUCZ TO ATC. Rejestr mowi po lacinie, paczka po polsku; dopasowanie po
+# nazwie byloby przyblizone, a 3B zabrania przyblizonego klucza dla danych
+# podawanych przy pacjencie.
+#
+# TYPY:
+#   BRAK_PRODUKTU     oczekiwane 0 produktow o tym ATC
+#   BRAK_POSTACI      zaden produkt o tym ATC nie ma postaci pasujacej do
+#                     wyrazenia w PARAMETR
+#   NAZWA_POWSZECHNA  produkt o nazwie N ma nazwa_powszechna rowna X
+#                     (PARAMETR: N=X)
+#
+# Kolumny TABULATOREM, szesc:
+#   ID_STRAZY  ATC  TYP  PARAMETR  ZRODLO_W_PACZCE  CO_ZNACZY_ROZBIEZNOSC
+R01	N05AB02	BRAK_PRODUKTU	-	18 tabela rownowaznosci depotow: flufenazyny nie ma w rejestrze PL	Flufenazyna wrocila do obrotu. Wiersz tabeli przestaje byc samym punktem odniesienia ChPL i staje sie lekiem do przepisania — z dawka, ktorej karta nie ma.
+R03	N05AH04	BRAK_POSTACI	wstrzyk|iniek|infuz|implant	DRUG_DB_AP / KWETIAPINA, pole POSTAC: brak postaci iniekcyjnej w rejestrze PL	Pojawila sie postac do wstrzykiwan. Karta mowi 'wylacznie doustna', wiec lekarz dostalby falszywy brak przy leku, ktory JEST.
+R04	N05AH02	BRAK_POSTACI	wstrzyk|iniek|infuz|implant	DRUG_DB_AP / KLOZAPINA, pole POSTAC: brak iniekcyjnej i depot w rejestrze PL	Jak wyzej. Przy klozapinie falszywy brak jest cieszy: alternatyw w lekoopornosci nie ma wiele.
+R05	N05AX13	NAZWA_POWSZECHNA	Invega|12 mg=Paraperidonum	DRUG_DB_AP / PALIPERYDON, UWAGA REJESTROWA: Invega 12 mg figuruje jako Paraperidonum	Rejestr poprawil nazwe. Ostrzezenie w karcie staje sie falszywe i odeslaloby lekarza do szukania po ATC tam, gdzie nazwa juz dziala.
