@@ -67,7 +67,10 @@ print("     sygnaly: %s" % (syg or "BRAK"))
 print("     WNIOSEK: bez ChPL taki produkt przechodzi jako KROTKA i nic go nie lapie.")
 print("     To granica metody, nie blad. Musi byc nazwana w dokumentacji.")
 # a teraz z ChPL
-e2 = sprawdz("ten sam produkt, ale z ChPL 4.2", cichy, "DEPOT",
+# Po poprawce z 2026-09-24 kadencja NIE klasyfikuje - jest alarmem. Produkt zostaje
+# KROTKA, ale wchodzi na liste do przegladu. Dowod, ze tak musi byc: ChPL
+# Clopixol-Acuphase pasuje do wzorca kadencji, bo opisuje przejscie na dekanian.
+e2 = sprawdz("ten sam produkt, ale z ChPL 4.2 (kadencja = ALARM)", cichy, "KROTKA",
              chpl="Dawke podtrzymujaca podaje sie co cztery tygodnie do miesnia posladkowego.")
 syg2 = PO.kandydat_lai(cichy, chpl_42="Dawke podtrzymujaca podaje sie co cztery tygodnie.")
 print("     sygnaly z ChPL: %s" % syg2)
