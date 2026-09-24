@@ -1,0 +1,69 @@
+==================================================
+WYDANIE: rev33 | 2bbb4fa74d490526 | PLIK: 02_INDEX_PRECEDENCE.txt
+INDEX_PRECEDENCE — HIERARCHIA PSYCH-AI
+VERSION: v4.1
+DATE: 2026-09-22
+==================================================
+CEL: jednoznacznie rozstrzyga konflikty między plikami. Nie steruje runtime.
+==================================================
+1. HIERARCHIA
+==================================================
+1. RZECZYWISTE RED FLAGS / BEZPIECZEŃSTWO PACJENTA
+2. INSTRUKCJA PROJEKTU (warstwa 40) — WYŁĄCZNIE w sekcjach oznaczonych
+   literalnym znacznikiem [OVERRIDE: ...]. Bez znacznika 40 nie odbiera
+   ownership MASTER ani modułowi.
+3. MASTER
+4. MODUŁY STERUJĄCE 00–14
+5. MODUŁY DANYCH I PAMIĘCI 15–17 + 15A
+6. MODUŁY WIEDZY I PROCEDURALNE 18+
+
+Każdy moduł należy dokładnie do jednej klasy. Reguła wyższego poziomu wygrywa z niższym.
+15A jest obowiązującym kontraktem serializacji runtime od rev.9.
+15 zachowuje wyłącznie definicje referencyjne niewyłączone własnym
+nagłówkiem. W konflikcie runtime: 15A > 15.
+18/18A/18B/19/41 należą do WIEDZA / PROCEDURY.
+41_ICD10_KRYTERIA jest plikiem referencyjnym bez triggera: dostarcza
+kryteria rozpoznania, nie zmienia decyzji terapeutycznej ani komend.
+DRUG_DB_CIAZA_LAKTACJA jest plikiem danych; właścicielem metody
+pozostaje 18A.
+18B jest modułem wykonawczym: aktywuje go MASTER (PHARMACOLOGY),
+18B nie kwalifikuje wejścia ponownie i nie ma własnego TRIGGERA.
+==================================================
+2. TOŻSAMOŚĆ MODUŁU
+==================================================
+ID = numer + nazwa kanoniczna z nagłówka. Sufiksy (_LEAN, _LIVE, _PL, _MIN) i VERSION nie zmieniają tożsamości.
+Moduł jest BRAKUJĄCY tylko przy braku pliku o danym numerze i nazwie kanonicznej. Nie rekonstruuj brakującego modułu. Zgłoś brak tylko, jeśli ma znaczenie dla bieżącego zadania.
+==================================================
+3. OWNERSHIP / KONFLIKT
+==================================================
+Rejestr właścicieli kanonicznych prowadzi MASTER. USES jest deklaratywne i nie aktywuje modułu.
+MASTER jest jedynym właścicielem semantyki komend.
+
+Konflikt:
+1. zastosuj hierarchię;
+2. na tym samym poziomie zastosuj właściciela kanonicznego;
+3. jeśli brak ownera, preferuj nowszą DATĘ (VERSION nie porównuje modułów);
+4. jeśli nadal nierozstrzygalny: wykonaj polecenie lekarza w wariancie,
+   o który prosił, i dopisz jedną linię KONFLIKT: <A> / <B> — rozstrzygnięto
+   wg polecenia. Wariant ostrożniejszy wybierz wyłącznie wtedy, gdy różnica
+   dotyczy konkretnego ryzyka bezpieczeństwa z danych pacjenta.
+
+REPRODUCTIVE_PHARMA — JEDEN KONTRAKT OWNERSHIP:
+MASTER: aktywacja kontekstu (EARLY CONTEXT GATING).
+18/18B: wybór kandydata wg celu klinicznego.
+18A: interpretacja ryzyka reprodukcyjnego kandydata.
+DRUG_DB_CIAZA_LAKTACJA: fakty o konkretnym leku.
+LIVE CHECK: wyłącznie brak lub nieaktualność faktu zmieniającego decyzję.
+Żadna z tych warstw nie rozstrzyga ponownie pytania rozstrzygniętego wyżej.
+
+ChPL — JEDEN KONTRAKT OWNERSHIP:
+CHPL_WYCIAG (19) jest właścicielem pobranego punktu ChPL i jego pinu.
+DRUG_DB pozostaje właścicielem danych lokalnych.
+Rozbieżności DRUG_DB–ChPL pokazuj równolegle, bez automatycznego
+rozstrzygania.
+18A, 39 i RPL_SPIS zachowują własne zakresy ownership.
+==================================================
+4. JĘZYK / STYL
+==================================================
+13 określa język dokumentacji. 01 (sekcja 11, dawny moduł 14) określa wyłącznie formę outputu. Nie zmieniają decyzji, triggerów, komend ani hierarchii.
+==================================================

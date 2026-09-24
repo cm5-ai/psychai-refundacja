@@ -1,0 +1,246 @@
+PSYCH-AI — DRUG DB: BENZODIAZEPINY, Z-LEKI I POZOSTALE NASENNE/ANKSJOLITYCZNE
+WYDANIE: rev33 | 2bbb4fa74d490526 | PLIK: DRUG_DB_BZD.txt
+VERSION: v3.6
+DATE: 2026-09-24
+TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
+to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
+i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
+Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
+CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
+Kart w tym pliku: 15.
+
+ALPRAZOLAM
+DAWKA_ROWNOWAZNA: 1–1,5 mg = 10 mg diazepamu.
+DAWKA: początkowo 0,25–0,5 mg 3x/d; MAX 4 mg/d w dawkach podzielonych; podeszły wiek lub osłabieni 0,25 mg 2–3x/d. Najkrócej jak to możliwe, do 2–4 tyg. Odstawiać stopniowo.
+WSKAZANIA: krótkotrwałe leczenie ciężkiego lęku/panic zależnie od ChPL.
+ONSET: doraźny 0,5-1,5 h.
+T1_2: 12-15 h; metabolity NIECZYNNE [Stahl 2024].
+METABOLIZM: CYP3A4.
+UZALEŻNIENIE: TAK.
+DN: sedacja, zaburzenia pamięci, upadki, zależność/tolerancja, objawy odstawienne, depresja oddechowa z opioidami.
+INTERAKCJE: opioidy/alkohol/depresanty OUN; CYP3A4 inhibitory/inducers.
+CIĄŻA: unikać rutynowego stosowania; ryzyko sedacji/withdrawal/floppy infant przy późnej ekspozycji.
+KP: ostrożność; możliwość sedacji dziecka.
+MONITORING: czas stosowania, zależność, stopniowe odstawianie.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+LORAZEPAM
+DAWKA_ROWNOWAZNA: 1–2 mg = 10 mg diazepamu.
+DAWKA: zwykle 0,5–2 mg 1–3x/d zależnie od wskazania; możliwie krótko.
+WSKAZANIA: anxiety, acute agitation/catatonia w praktyce specjalistycznej.
+ONSET: doraźny 0,5-1 h; Tmax 2,4 h, pokarm opóźnia.
+T1_2: 10-20 h; BEZ czynnych metabolitów.
+METABOLIZM: wyłącznie glukuronizacja, bez CYP.
+UZALEŻNIENIE: TAK.
+DN: sedacja, amnezja, upadki, zależność, depresja oddechowa.
+INTERAKCJE: opioidy, alkohol, depresanty OUN.
+CIĄŻA: unikać rutynowo; tylko gdy korzyść przewyższa ryzyko.
+KP: krótszy T1/2 i brak aktywnych metabolitów czyni go jedną z częściej preferowanych BZD przy konieczności, ale nadal obserwacja dziecka.
+MONITORING: sedacja, zależność, odstawianie.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+KLONAZEPAM
+DAWKA: przeciwlekowo off-label zwykle 0,25-2 mg/d w dawkach podzielonych; padaczka wg wskazan.
+WSKAZANIA: padaczka; off-label lek napadowy, katatonia, akatyzja.
+ONSET: doraźny 1-2 h.
+T1_2: 30-40 h.
+METABOLIZM: CYP3A4.
+UZALEŻNIENIE: TAK.
+DN: sedacja, ataksja, tolerancja, uzaleznienie, objawy odstawienne, dlugi T1/2.
+INTERAKCJE: alkohol, opioidy (ryzyko depresji oddechowej), depresanty OUN.
+CIAZA: unikac; III trymestr - floppy infant.
+KP: przenika do mleka.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+TEMAZEPAM
+DAWKA_ROWNOWAZNA: 20 mg = 10 mg diazepamu.
+DAWKA: 10–20 mg 30 min przed snem; przy braku odpowiedzi max 40 mg/d; podeszły wiek maks. 1/2 zwykłej dawki. Łącznie z odstawianiem nie dłużej niż 4 tyg.
+WSKAZANIA: bezsenność; krótkotrwałe leczenie silnego lęku uniemożliwiającego funkcjonowanie; ciężkie zaburzenia snu z wyczerpaniem.
+ONSET: doraźny <1 h; Tmax ok. 2,5 h.
+T1_2: 8–15 h; BEZ czynnych metabolitów.
+METABOLIZM: wyłącznie glukuronizacja, bez udziału CYP.
+UZALEŻNIENIE: TAK — potencjał uzależnienia i tolerancji; ryzyko rośnie z dawką.
+DN: sedacja rezydualna, ataksja, niepamięć następcza, tolerancja, zależność.
+INTERAKCJE: alkohol, opioidy, depresanty OUN. Mały potencjał interakcji farmakokinetycznych — brak CYP.
+CIĄŻA: unikać.
+KP: sedacja u dziecka; wymieniany wśród BZD preferowanych w laktacji, ale bez własnej karty LactMed.
+MONITORING: czas stosowania, skuteczność, plan odstawienia.
+POMOST: wskazany do pokrycia bezsenności w okresie oczekiwania na efekt leku przeciwdepresyjnego; odstawić po zadziałaniu leku docelowego. Glukuronizacja czyni go możliwym u seniorów w mniejszej dawce.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+BROMAZEPAM
+DAWKA_ROWNOWAZNA: 5–6 mg = 10 mg diazepamu.
+DAWKA: początkowo 3 mg 1 h przed snem, w razie potrzeby do 6 mg; w ciągu dnia 1,5–3 mg; w uzasadnionych przypadkach do 12 mg/d. Podeszły wiek połowa dawki. Nie dłużej niż 8–12 tyg.
+WSKAZANIA: zaburzenia lękowe uogólnione; dysfunkcje autonomiczne pod postacią somatyczną; stany lękowe w przewlekłych chorobach OUN; zaburzenia adaptacyjne.
+WSKAZANIE REJESTRACYJNE obejmuje też zaburzenia stresowe pourazowe z lękiem, ALE moduł 28 jest właścicielem decyzji w PTSD/cPTSD i stanowi, że BZD nie są standardowym leczeniem PTSD. Przy PTSD stosuj 28, nie to pole.
+ONSET: doraźny; Tmax 0,5–4 h.
+T1_2: 10–20 h.
+METABOLIZM: CYP i glukuronizacja.
+UZALEŻNIENIE: TAK.
+DN: sedacja, ataksja, zaburzenia poznawcze, tolerancja, zależność.
+INTERAKCJE: alkohol, opioidy, depresanty OUN; inhibitory i induktory CYP.
+CIĄŻA: unikać. KP: sedacja u dziecka. Brak karty w bazie reprodukcyjnej.
+MONITORING: czas stosowania, dawka, plan odstawienia.
+POMOST: przy skargach somatyzacyjnych bez podłoża organicznego podanie bromazepamu bywa jednocześnie leczeniem i informacją o emocjonalnym podłożu dolegliwości.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+DIAZEPAM
+DAWKA: wg wskazania; pełne dawkowanie zweryfikować w aktualnej ChPL.
+WSKAZANIA: anxiolyticum, antiepilepticum, sedativum.
+ONSET: doraźny; Tmax 1–2 h.
+T1_2: 20–50 h; CZYNNE metabolity 36–200 h.
+METABOLIZM: CYP2C19 i CYP3A4, glukuronizacja.
+UZALEŻNIENIE: TAK.
+DN: silna kumulacja przy powtarzanym dawkowaniu, sedacja rezydualna, upadki, zaburzenia poznawcze.
+CIĄŻA: unikać. KP: sedacja u dziecka; w laktacji unikać — ryzyko kumulacji u niemowlęcia.
+MONITORING: kumulacja, szczególnie podeszły wiek i niewydolność wątroby.
+POMOST: NIE jest kandydatem pomostowym — t1/2 metabolitów do 200 h wyklucza krótkie pokrycie objawów.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+ESTAZOLAM
+WPIS NIEPEŁNY: pól oznaczonych BRAK DANYCH LOKALNYCH nie używaj jako faktu.
+Lek nazwany przez lekarza wykonaj wg 18A, sekcja BRAK KARTY — nie z tego wpisu.
+DAWKA: BRAK DANYCH LOKALNYCH — ChPL.
+WSKAZANIA: bezsenność.
+ONSET: doraźny <1 h [Stahl 2024].
+T1_2: 10–24 h; metabolity nieczynne [Stahl 2024].
+METABOLIZM: BRAK DANYCH LOKALNYCH.
+UZALEŻNIENIE: TAK.
+CIĄŻA/KP: BRAK DANYCH LOKALNYCH — LIVE CHECK.
+MONITORING: czas stosowania, plan odstawienia.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+NITRAZEPAM
+POSTAC: tabletki doustne 5 mg.
+WSKAZANIA: krótkotrwałe leczenie bezsenności, gdy jest ciężka, upośledza funkcjonowanie lub naraża pacjenta na nieakceptowalne cierpienie, a możliwa jest sedacja w ciągu dnia. Przed decyzją szukać przyczyny bezsenności. Benzodiazepiny nie są zalecane w leczeniu podstawowym zaburzeń psychotycznych.
+DAWKA: dorośli 5 mg przed snem, w razie potrzeby do 10 mg. Powyżej 65 lat: start 2,5 mg przed snem, w razie konieczności do 5 mg. Osoby osłabione oraz z zaburzeniami czynności nerek lub wątroby: nie przekraczać połowy zwykłej dawki. Przy organicznych zmianach w mózgu nie przekraczać 5 mg. Czas leczenia zwykle od kilku dni do 2 tygodni, maksymalnie 4 tygodnie łącznie z okresem zmniejszania dawki. Nie odstawiać nagle. Dzieci — przeciwwskazane.
+PRZECIWWSKAZANIA: nadwrażliwość na benzodiazepiny lub nitrazepam; ostra niewydolność oddechowa; depresja oddechowa; ZESPÓŁ BEZDECHU SENNEGO; fobie lub natręctwa; przewlekłe psychozy; myasthenia gravis; ciężka niewydolność wątroby; dzieci.
+ONSET: Tmax do 2 h; stan stacjonarny w ciągu 5 dni.
+T1_2: średnio 24 h; u osób w podeszłym wieku do 40 h.
+METABOLIZM: metabolity bez istotnego klinicznie działania; ok. 5% wydalane w postaci niezmienionej.
+UZALEŻNIENIE: TAK — tolerancja, zależność, zjawisko odbicia po odstawieniu.
+INTERAKCJE: opioidy — sedacja, depresja oddechowa, śpiączka i zgon; ograniczyć dawkę i czas skojarzenia. Alkohol i depresanty OUN. Leki przeciwpadaczkowe, zwłaszcza hydantoina i barbiturany — nasilenie działań niepożądanych i toksycznych. Inhibitory CYP zmniejszają klirens i nasilają działanie; ryfampicyna zwiększa klirens.
+CIĄŻA: nie stosować, zwłaszcza w I i III trymestrze, jeśli nie jest to bezwzględnie konieczne. W ostatnim trymestrze lub podczas porodu — zaburzenia tętna płodu, obniżone napięcie mięśniowe, trudności w ssaniu, hipotermia, umiarkowana depresja oddechowa u noworodka. Długotrwałe przyjmowanie przez matkę — uzależnienie fizyczne i objawy odstawienne u noworodka.
+KP: benzodiazepiny przenikają do mleka — unikać.
+MONITORING: czas stosowania, dawka, plan odstawienia; u długodziałających benzodiazepin na początku leczenia regularna ocena w celu uniknięcia kumulacji.
+ZRODLO_KARTY: ChPL Nomefren 5 mg i Nitrazepam GSK 5 mg, pobrano 2026-09-23.
+KLORAZEPAT
+POSTAC: DWIE RÓŻNE POSTACIE POD TYM SAMYM KODEM ATC. Doustna (Cloranxen 10 mg) — max 30 mg/d. Iniekcyjna im/iv (Tranxene 20, 20 mg/2 ml) — 20–2000 mg/d zależnie od wskazania. BEZ USTALONEJ POSTACI NIE PODAWAJ DAWKI.
+WSKAZANIA doustnie: stany lękowe. Iniekcyjnie: neurologiczno-psychiatryczne stany nagłe — napady lęku i niepokoju, napady pobudzenia ruchowego i agresji; zapobieganie i leczenie delirium tremens oraz innych objawów zespołu abstynencyjnego w uzależnieniu alkoholowym; wspomagająco w skurczach tonicznych w tężcu.
+DAWKA doustnie (Cloranxen): start 5 mg/d, zakres terapeutyczny 5–30 mg/d, MAX 30 mg/d; dawkę dobową można przyjmować raz na dobę wieczorem. Podeszły wiek — zmniejszyć o 50%. Zaburzenia czynności nerek — zmniejszyć o 50%. Czas leczenia nie dłużej niż 4 tygodnie łącznie z okresem zmniejszania dawki.
+DAWKA parenteralnie (Tranxene 20): ostre napady lęku, pobudzenia psychoruchowego lub agresji 20–200 mg/d im lub iv, następnie w razie potrzeby kontynuacja doustnie. Objawy zespołu abstynencyjnego 50–100 mg/d parenteralnie; przy dalszym stosowaniu po 2–3 dniach dawkę obniżyć o połowę, potem przejść na postać doustną. Tężec bez tracheotomii 120–500 mg/d we wlewie iv; ciężki tężec z oddychaniem wspomaganym 500–2000 mg/d we wlewie iv. Podeszły wiek oraz zaburzenia czynności nerek lub wątroby — dawkę zmniejszyć, niekiedy o połowę.
+OSTRZEŻENIE_PODANIA: ryzyko bezdechu przy szybkim wstrzyknięciu dożylnym — podawać powoli do dużej żyły; domięśniowo głęboko. Placówka musi dysponować wyposażeniem do intensywnej terapii oddechowej. Nie mieszać w jednej strzykawce z innymi lekami; stosować wyłącznie dołączony rozpuszczalnik.
+PRZECIWWSKAZANIA: nadwrażliwość; ciężka niewydolność oddechowa; ZESPÓŁ BEZDECHU SENNEGO; ciężkie, ostre lub przewlekłe zaburzenie czynności wątroby (ryzyko encefalopatii); myasthenia gravis; dzieci.
+T1_2: czynny metabolit desmetylodiazepam 30–150 h, dłuższy niż substancji macierzystej; kolejny czynny metabolit to oksazepam. SILNA KUMULACJA przy powtarzanym dawkowaniu.
+METABOLIZM: do desmetylodiazepamu, następnie hydroksylacja do oksazepamu, inaktywacja przez sprzęganie z kwasem glukuronowym. Wiązanie z białkami ponad 97%.
+UZALEŻNIENIE: TAK. Ryzyko objawów odstawienia rośnie przy jednoczesnym stosowaniu innych benzodiazepin.
+INTERAKCJE: opioidy i pochodne morfiny, w tym buprenorfina — sedacja, depresja oddechowa, śpiączka i zgon. KLOZAPINA — zwiększone ryzyko zapaści z zatrzymaniem oddechu i (lub) serca. Alkohol, neuroleptyki, barbiturany, anksjolityki, leki przeciwhistaminowe sedatywne, klonidyna. Cyzapryd nasila sedację. Leki zwiotczające — działanie addytywne.
+CIĄŻA: nie zalecany w ciąży ani u kobiet w wieku rozrodczym niestosujących antykoncepcji. Duże dawki w ostatnich trzech miesiącach lub podczas porodu — sedacja, depresja oddechowa, hipotonia, hipotermia i trudności z karmieniem u noworodka (zespół wiotkiego dziecka).
+KP: benzodiazepiny są wydzielane z mlekiem kobiecym.
+STARSI: zmniejszony metabolizm wątrobowy i klirens całkowity, zwiększone stężenie w stanie równowagi i wydłużony T1_2 — zmniejszyć dawkę przynajmniej w pierwszej fazie leczenia.
+ZRODLO_KARTY: ChPL Cloranxen 10 mg, Tranxene 10 mg i Tranxene 20 (20 mg/2 ml), pobrano 2026-09-23.
+CHLORDIAZEPOKSYD
+POSTAC: tabletki doustne 10 mg.
+WSKAZANIA: doraźne, krótkotrwałe leczenie objawowe przez 2 do 4 tygodni — stany lękowe różnego pochodzenia (w tym towarzyszące zespołom psychoorganicznym i objawom psychotycznym); stany lękowe związane z bezsennością; ostry zespół odstawienia alkoholu; stany zwiększonego napięcia mięśniowego. ChPL zastrzega: stany napięcia i niepokoju związane z problemami dnia codziennego nie są wskazaniem.
+DAWKA: stany lękowe zwykle do 30 mg/d w dawkach podzielonych co 6–8 h; MAX 100 mg/d. Lęk z bezsennością 10–30 mg jednorazowo przed snem. Ostry zespół odstawienia alkoholu 25–100 mg; w razie potrzeby powtarzać co 2–4 h, nie przekraczając 200 mg/d, następnie redukcja do najniższej dawki opanowującej pobudzenie. Wzmożone napięcie mięśniowe 10–30 mg/d w dawkach podzielonych. Podeszły wiek: nie przekraczać połowy dawki dla dorosłych. Dzieci — nie zaleca się. Leczenie nie dłużej niż 4 tygodnie łącznie z odstawianiem; nie odstawiać nagle.
+PRZECIWWSKAZANIA: nadwrażliwość na chlordiazepoksyd lub inne benzodiazepiny; ostra niewydolność oddechowa lub depresja ośrodka oddechowego; ZESPÓŁ BEZDECHU SENNEGO; ciężka niewydolność wątroby; zespoły natręctw lub fobie; przewlekłe psychozy; miastenia.
+ONSET: Tmax 1–2 h.
+T1_2: 6–30 h; czynne metabolity (dimetylochlordiazepoksyd, demoksepam) przedłużają czas działania.
+METABOLIZM: CYP450. Inhibitory (cymetydyna, disulfiram, fluwoksamina, fluoksetyna, omeprazol, erytromycyna, ketokonazol) zwalniają biotransformację i nasilają działanie. Induktory (ryfampicyna, fenytoina, karbamazepina) przyspieszają biotransformację i osłabiają działanie.
+UZALEŻNIENIE: TAK. Opioidowe leki przeciwbólowe nasilają euforię i przyspieszają uzależnienie psychiczne.
+INTERAKCJE: opioidy — sedacja, depresja oddechowa, śpiączka i zgon; ograniczyć dawkę i czas skojarzenia. Alkohol. Neuroleptyki, leki przeciwdepresyjne, nasenne, przeciwpadaczkowe, znieczulające, przeciwhistaminowe sedatywne, zwiotczające mięśnie, leki stosowane w chorobie Parkinsona.
+CIĄŻA: dane przedkliniczne i epidemiologiczne wskazują na teratogenny wpływ chlordiazepoksydu. Stosowanie dopuszczalne wyłącznie gdy bezwzględnie konieczne, a bezpieczniejszy odpowiednik jest niemożliwy lub przeciwwskazany. W III trymestrze lub okołoporodowo — hipotermia, spadek ciśnienia, zaburzenia rytmu serca, zaburzenia oddychania, osłabienie odruchu ssania, zespół wiotkiego dziecka, ryzyko rozszczepu wargi i podniebienia. Przewlekłe przyjmowanie w późnej ciąży — uzależnienie fizyczne i zespół odstawienny u noworodka.
+KP: przenika do mleka kobiecego; nie podawać kobietom karmiącym piersią.
+ZRODLO_KARTY: ChPL Elenium 10 mg, pobrano 2026-09-23.
+OKSAZEPAM
+POSTAC: tabletki doustne 10 mg.
+DAWKA_ROWNOWAZNA: powstaje jako czynny metabolit klorazepatu i diazepamu.
+WSKAZANIA: stany lękowe; niepokój związany z depresją; podniecenie związane z ostrym alkoholowym zespołem abstynencyjnym.
+DAWKA: niepokój łagodny do umiarkowanego 10–20 mg 3–4 razy na dobę. Niepokój o znacznym nasileniu 20–30 mg 3–4 razy na dobę, większa dawka w porze spoczynku. Ostry alkoholowy zespół abstynencyjny 20–30 mg 3–4 razy na dobę. Pacjenci w podeszłym wieku, osłabieni, ze zmniejszoną masą ciała, obniżonym ciśnieniem, niewydolnością krążenia lub oddechową, osłabieniem mięśniowym: zwykle 10 mg 3 razy na dobę. Nie przyjmować wieczorem bezpośrednio po posiłku — opóźnienie działania i zmęczenie następnego ranka. Dzieci poniżej 6 lat — nie stosować; 6–18 lat — nie zaleca się.
+ROZBIEZNOSC_ZRODLOWA: czas leczenia — Oxazepam Espefa: zwykle kilka dni do 2 tygodni, łącznie z odstawianiem nie dłużej niż 4 tygodnie. Oxazepam GSK: całkowity czas terapii nie więcej niż 8–12 tygodni łącznie z odstawianiem. Obie wartości zachowane.
+PRZECIWWSKAZANIA: nadwrażliwość na oksazepam lub inne benzodiazepiny; ciężka niewydolność oddechowa; ZESPÓŁ BEZDECHU SENNEGO; ciężka niewydolność wątroby; UZALEŻNIENIE OD LEKÓW, NARKOTYKÓW LUB ALKOHOLU; ostre zatrucie alkoholem, środkami nasennymi, opiatami, neuroleptykami, lekami przeciwdepresyjnymi lub solami litu; myasthenia gravis; ciąża i karmienie piersią; dzieci poniżej 6 lat.
+WYJATEK_WSKAZANIOWY: uzależnienie od alkoholu jest w punkcie 4.3 przeciwwskazaniem, a podniecenie w ostrym alkoholowym zespole abstynencyjnym jest w punkcie 4.1 wskazaniem. To nie jest sprzeczność do rozstrzygnięcia, tylko warunek. Czynne picie i kurs przewlekły -> przeciwwskazanie. Ostry zespół abstynencyjny pod nadzorem -> wskazanie; patrz 18, BLOK BZD, WYJĄTEK OBOWIĄZKOWY — ALKOHOLOWY ZESPÓŁ ABSTYNENCYJNY. Ostre zatrucie alkoholem teraz -> przeciwwskazanie.
+ONSET: Tmax 2,5 h; biodostępność 90–95%.
+T1_2: ok. 8 h. BEZ czynnych metabolitów.
+METABOLIZM: wyłącznie sprzęganie z kwasem glukuronowym w wątrobie, bez udziału CYP. Ponad 95% dawki wydalane z moczem w postaci metabolitów.
+UZALEŻNIENIE: TAK — tolerancja i objawy odstawienne; nagłe odstawienie może dać zaburzenia snu, koncentracji i uwagi, wzmożoną drażliwość, a nawet zaburzenia psychotyczne. Szczególnie niebezpieczne po długim leczeniu większymi dawkami.
+INTERAKCJE: depresanty OUN (znieczulające, przeciwdepresyjne, przeciwhistaminowe, przeciwnadciśnieniowe, przeciwpsychotyczne) — nasilenie sedacji. Opioidowe leki przeciwbólowe — nasilona euforia i szybsze uzależnienie psychiczne. Leki miorelaksacyjne. Alkohol — zgłaszano reakcje paradoksalne. Teofilina i kofeina osłabiają działanie nasenne. Osłabia działanie lewodopy.
+CIĄŻA: PRZECIWWSKAZANY. Przypuszcza się, że może wywoływać ciężkie wady wrodzone. Długotrwałe stosowanie — zespół abstynencyjny u noworodka; podanie w ostatniej fazie ciąży lub podczas porodu — hipotermia, hipotonia, zaburzenia oddychania, bezdech, osłabienie odruchu ssania.
+KP: przenika do mleka; nie karmić piersią podczas przyjmowania.
+WATROBA: stosować ostrożnie, może być konieczne zmniejszenie dawki. Glukuronizacja bez CYP czyni go stosunkowo bezpiecznym przy wielolekowości.
+ZRODLO_KARTY: ChPL Oxazepam Espefa 10 mg, Oksazepam TZF 10 mg i Oxazepam GSK 10 mg, pobrano 2026-09-23.
+
+UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE
+
+ZOPIKLON
+DAWKA: 7,5 mg na noc; podeszły wiek lub niewydolność wątroby 3,75 mg. Najkrócej jak to możliwe, ≤14 dni w pomoście.
+WSKAZANIA: bezsenność, krótkotrwale.
+ONSET: doraźny <1 h.
+T1_2: 3,5–6,5 h.
+METABOLIZM: CYP3A4.
+UZALEŻNIENIE: TAK — tolerancja i zależność, ryzyko rośnie z dawką i czasem.
+DN: metaliczny posmak, sedacja rezydualna, zaburzenia pamięci, parasomnie złożone.
+INTERAKCJE: alkohol, opioidy, depresanty OUN; inhibitory i induktory CYP3A4.
+CIĄŻA: karta w DRUG_DB_CIAZA_LAKTACJA — prawdopodobnie bezpieczny, dane dobre.
+KP: karta w DRUG_DB_CIAZA_LAKTACJA — OSTROZNOSC, RID 1,2–3,2%.
+MONITORING: czas stosowania, plan odstawienia, parasomnie.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+BENZODIAZEPINY / NASENNE
+
+ZOLPIDEM
+DAWKA: 10 mg na noc; osoby starsze i niewydolnosc watroby 5 mg. Krotko, do 4 tyg. z odstawianiem.
+WSKAZANIA: bezsennosc krotkotrwala.
+ONSET: doraźny 0,25-0,5 h.
+T1_2: ok. 2,5 h.
+METABOLIZM: CYP3A4.
+UZALEŻNIENIE: TAK.
+DN: sennosc rezydualna, zaburzenia pamieci, parasomnie zlozone (jazda, jedzenie we snie), upadki u starszych, tolerancja i uzaleznienie.
+INTERAKCJE: alkohol i depresanty OUN; CYP3A4.
+CIAZA: unikac, zwlaszcza III trymestr.
+KP: przenika do mleka, unikac.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+HYDROKSYZYNA
+DAWKA: lęk u dorosłych zwykle 50 mg/d w dawkach podzielonych, do 100 mg/d MAX u dorosłych zgodnie z europejskimi ograniczeniami QT (osoby starsze: pole STARSI; nerki: pole NERKI); stosować najmniejszą skuteczną dawkę jak najkrócej.
+STARSI: stosowanie u osób w podeszłym wieku niezalecane; jeśli podjęte — start od połowy zalecanej dawki, MAX 50 mg/d. [ChPL Atarax, pkt 4.2; referral EMA art. 31, CMDh 25.03.2015]
+NERKI: umiarkowana lub ciężka niewydolność — zmniejszyć dawkę (kumulacja metabolitu cetyryzyny; nie jest to mechanizm QT). GFR 60-<90: 100%; 30-<60: 50%; <30 bez dializy: 25%; <15 z dializą: 25%. [SmPC Atarax, UCB CY, pkt 4.2, 2023; tabela PL RPL nr 802 widziana we fragmencie — do weryfikacji w RPL]
+WSKAZANIA: anxiety/pruritus zależnie od produktu.
+ONSET: doraźny 15-20 min (p.o.).
+T1_2: ok. 20 h.
+METABOLIZM: wątroba.
+UZALEŻNIENIE: NIE.
+DN: sedacja, antycholinergiczne, QT/TdP.
+INTERAKCJE: leki wydłużające QT, bradykardia/hipokaliemia, depresanty OUN.
+CIĄŻA: przeciwwskazana [ChPL 4.3 Comfortin, Hydroxyzine Orion, 2026-09-22].
+KP: przeciwwskazana [ChPL 4.3 Comfortin, Hydroxyzine Orion, 2026-09-22].
+MONITORING: EKG przed włączeniem przy jakimkolwiek czynniku ryzyka QT; sedacja.
+PRZECIWWSKAZANIA [ChPL 4.3, 3 produkty (Atarax, Comfortin, Hydroxyzine Orion) zgodne, 2026-09-22]:
+  - nadwrażliwość na hydroksyzynę, cetyryzynę, inne pochodne piperazyny, aminofilinę, etylenodiaminę
+  - PORFIRIA
+  - znane nabyte lub wrodzone WYDŁUŻENIE ODSTĘPU QT
+  - ZNANE CZYNNIKI RYZYKA WYDŁUŻENIA QT, w tym: stwierdzona choroba układu krążenia,
+    znaczące zaburzenia elektrolitowe (hipokaliemia, hipomagnezemia), nagła śmierć sercowa
+    w rodzinie, znacząca bradykardia, ORAZ JEDNOCZESNE STOSOWANIE LEKÓW WYDŁUŻAJĄCYCH QT
+  - ciąża i karmienie piersią
+  ⚠ ROZBIEŻNOŚĆ ChPL KONTRA PRAKTYKA — DECYZJA LEKARZA, NIE SYSTEMU:
+  Litera ChPL czyni przeciwwskazaniem każde jednoczesne stosowanie leku wydłużającego QT.
+  Obejmuje to rutynową parę hydroksyzyna + SSRI (escytalopram, citalopram) w lęku z depresją.
+  Rozstrzygnięcie kliniczne 2026-09-23: NIE blokujemy tej pary; warunek to EKG oraz
+  MAX 100 mg/d u dorosłych i 50 mg/d u osób starszych. [18, WARUNEK]
+  Lekarz stosujący tę parę działa POZA literą ChPL i powinien to wiedzieć.
+
+BUSPIRON
+DAWKA: zwykle 5 mg 2–3x/d lub 7,5 mg 2x/d start; typowo 20–30 mg/d; MAX 60 mg/d.
+WSKAZANIA: anxiety/GAD zależnie od produktu.
+ONSET: efekt 14-21 d; pełny 28 d.
+T1_2: 2-3 h.
+METABOLIZM: CYP3A4; pokarm wpływa na wchłanianie.
+UZALEŻNIENIE: NIE.
+DN: zawroty, nudności, ból głowy, niepokój.
+INTERAKCJE: MAOI; CYP3A4 inhibitors/inducers; serotonergiczne.
+CIĄŻA: ograniczone dane — tylko po ocenie risk-benefit.
+KP: ograniczone dane — ostrożność.
+MONITORING: interakcje CYP3A4.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.

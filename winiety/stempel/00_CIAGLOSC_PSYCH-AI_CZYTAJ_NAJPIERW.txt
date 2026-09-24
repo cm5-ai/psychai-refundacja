@@ -1,0 +1,463 @@
+=====================================================================
+WYDANIE: rev33 | 2bbb4fa74d490526 | PLIK: 00_CIAGLOSC_PSYCH-AI_CZYTAJ_NAJPIERW.txt
+00_CIAGLOSC_PSYCH-AI — CZYTAJ NAJPIERW
+STAN PRZEKAZANIA MIĘDZY WĄTKAMI. Aktualizacja: 2026-09-22, rev.21
++ warstwa 40 wersja 19.
+=====================================================================
+
+CO CZYTAĆ
+Ten plik — i nic więcej na start.
+WYJĄTEK: pytanie o jedno pole karty leku bez decyzji o pacjencie
+(klasa ODCZYT POLA KARTY, warstwa 40 §3A) — czytasz wyłącznie kartę
+tego leku; tego pliku też nie.
+REJESTR_ZNALEZISK i REGULAMIN_WSPOLPRACY_AI od rev.20 NIE SĄ w projekcie
+(dokumentacja rozwoju, prywatne repozytorium psychai-paczka). Nie szukaj
+ich — ani przy wizycie, ani przy zapisie rekordu.
+Przy prostym pytaniu klinicznym nie czytaj nic — odpowiedz.
+
+=====================================================================
+STAN PACZKI
+=====================================================================
+WERSJA OBOWIĄZUJĄCA: v20 rev.33.
+44 pliki. SUMA TRESCI: 2bbb4fa74d490526.
+MASTER: MASTER_v20_2026-09-20.txt, linia VERSION: v20.10.
+Warstwa 40: INSTRUKCJA PROJEKTU wersja 19, wklejona w ustawieniach
+projektu. Nie jest plikiem i nie ma jej w dokumentach.
+
+USUNIĘTY W rev.10: 40_INSTRUKCJA_PROJEKTU_v2.txt. Przez cały dzień
+leżał w paczce, mimo że warstwa 40 i ten plik kazały go nie używać.
+Niósł nieaktualną procedurę zapisu, w tym wyłączony folder
+1sPBuI6nelNhfRNaN6CJlrHdt1JOHeaNH. Jeżeli kiedykolwiek pojawi się
+znowu — NIE CZYTAJ GO I USUŃ.
+
+WERSJA_SYSTEMU w rekordzie bierze się z linii VERSION w MASTER, nie z 15A
+(15A od rev.19 ma własną wersję v2.1).
+
+TOŻSAMOŚĆ PACZKI TO SUMA TRESCI, NIE HASH ZIPA.
+Hash zipa zależy od czasu pakowania i kolejności plików, nie od
+treści — sprawdzone eksperymentalnie (Z20). Historyczny hash zipa
+rev.8 (14d69ddbad9960fa) nie służy już do niczego.
+SUMA TRESCI = sha256 z listy sha256 każdego pliku, posortowanej
+po nazwie, pierwsze 16 znaków. Pełny wykaz: MANIFEST_TRESCI_rev33.
+
+KARTY LEKÓW LEŻĄ W PIĘCIU PLIKACH KLASOWYCH (rev.32).
+DRUG_DB_PSYCHIATRIA_CORE trzyma reguły kart i INDEKS lek -> plik;
+sama karta jest w DRUG_DB_AD, _AP, _BZD, _STAB albo _ADHD_UZAL.
+Adres [CORE/<LEK>/<POLE>] działa bez zmian — rozwiązuje go indeks.
+Przy odczycie jednego pola czytaj CORE i JEDEN plik klasowy, nie wszystkie.
+Treść kart nie zmieniona; podział był przenosinami, sprawdzonymi linia
+w linię wobec wersji sprzed podziału.
+REGUŁY KART SĄ WYŁĄCZNIE W CORE. Plik klasowy to dane. Bez CORE
+w kontekście odczyt pola jest ODMOWĄ, nie odczytem na wyczucie.
+
+PLIKI SPOZA PACZKI, dozwolone w projekcie:
+  00_CIAGLOSC_...CZYTAJ_NAJPIERW   ten plik
+  MANIFEST_TRESCI_rev33            wykaz hashy
+Stan od rev.33: w projekcie ma być 46 plików — 44 paczki plus te dwa.
+Ten plik NIE należy do paczki i nie wchodzi do SUMY TRESCI.
+REFUNDACJA_ENGINE.py i REFUNDACJA_DATA.json od rev.20 NIE SĄ w projekcie:
+39 pobiera je wyłącznie z repozytorium (sekcja 0 KROK 3, piny sha256).
+
+MATERIAŁ DOWODOWY BENZODIAZEPINOWY — NIE MA GO W PROJEKCIE.
+Pliki 42_BENZODIAZEPINY_EVIDENCE, 42A_BENZODIAZEPINY_PISMIENNICTWO
+i DO_rev9_BZD_WSKAZANIE_WIODACE nie zostały wgrane. Nie zakładaj,
+że są. Jeżeli lekarz je wgra, nie są źródłem liczb ani oracle'em
+przy testach — to materiał do przyszłej rewizji.
+To była rozbieżność wykryta przez system w Bloku B, przypadek 5,
+i potwierdzona ręcznie przez lekarza. Stara wersja tego pliku
+podawała te pliki jako obecne, co było nieprawdą.
+
+CZEGO W PROJEKCIE BYĆ NIE POWINNO:
+  40_INSTRUKCJA_PROJEKTU_v2   archiwalny, druga warstwa 40
+  REJESTR_ZNALEZISK (każda wersja), REGULAMIN_WSPOLPRACY_AI
+  REFUNDACJA_ENGINE.py, REFUNDACJA_DATA.json (kopie — runtime z repo)
+  moduł 14 (styl odpowiedzi) — od rev.20 sekcja 11 w 01
+  jakakolwiek instrukcja projektu jako PLIK
+  jakikolwiek runner, plan testów albo polecenie dla Groka lub GPT
+Jeżeli znajdziesz którykolwiek — nie czytaj i zgłoś lekarzowi.
+
+=====================================================================
+WARSTWA 40 wersja 16 — ODCZYT POLA KARTY (Z35)
+=====================================================================
+Pytanie „Ile maksymalnie escitalopramu?" dawało 3-4 narzędzia i do
+liczby dokładało QT, EKG i monitoring z innych pól karty. Przyczyna:
+trzy reguły naraz (MASTER OUTPUT „dawka = 18 aktywny", 40 §0 „czytaj
+00", 40 §3 „ostrzeżenie w całości") przy braku klasy „odczyt jednego
+pola". Naprawa: 40 §3A (OVERRIDE, doprecyzowanie bramki nr 5, bez
+nowej bramki) + zawężenie zdania o ostrzeżeniach w 40 §3.
+Paczka NIE zmieniona. Przy rev.16 przenieść treść §3A do MASTER.
+NIEZMIERZONE. Testy regresyjne — REJESTR, Z35.
+
+=====================================================================
+rev.21 — PRZECIWWSKAZANIA I KODY ICD (2026-09-22)
+=====================================================================
+Praca w trzech modelach (Claude, GPT, Grok). Zmiana kliniczna, nie
+kosmetyczna — czytaj, zanim uznasz kartę za kompletną.
+
+CO SIĘ ZMIENIŁO
+- DRUG_DB_PSYCHIATRIA_CORE v3.3: pole PRZECIWWSKAZANIA jest OBOWIĄZKOWE
+  w każdej karcie. Kart 40 (było 37): podmieniona LIT, nowe KARBAMAZEPINA,
+  KLOZAPINA, METADON. 36 kart ma jawne PRZECIWWSKAZANIA: BRAK DANYCH
+  LOKALNYCH — to DŁUG, nie informacja, że lek przeciwwskazań nie ma.
+- 18 v1.2: BLOK_PRZECIWWSKAZANIE — sześć bloków egzekwowalnych. Pokazują
+  się ZAWSZE, gdy lek jest rozważany, także przy odczycie jednego pola.
+  Osobno wypisane przeciwwskazania świadomie NIE zrobione BLOKIEM, bo
+  jako blok odcięłyby leczenie pacjentowi, któremu się należy.
+- 41 v1.2: 30 wpisów, 34 kody, wstawione wg numeracji ICD. Wpisów 55.
+- warstwa 40 v19: §3B bramka anty-cichej-utraty-danych.
+
+ZNALEZISKO, KTÓRE ZMIENIA SPOSÓB CZYTANIA KART
+ChPL należy do PRODUKTU, nie do substancji, a produkty RÓŻNIĄ SIĘ
+treścią punktu 4.3 — często, w wielu testowanych metodach porównania.
+LICZBY NIE PODAJEMY: zależy od definicji równości pozycji, więc jest
+wynikiem heurystyki, nie pomiarem (warstwa 40 §3B). Runtime jej nie używa.
+METADON, sprawdzony ręcznie: ŻADNA pozycja 4.3 nie występuje
+we wszystkich trzech produktach — ChPL Molteni nie wymienia ani braku
+uzależnienia od opioidów, ani wydłużonego QT, które wymieniają dwa
+pozostałe. Dlatego karta metadonu podaje listy PER PRODUKT, a nie jedną
+listę substancji, i dlatego istnieje BLOK_PRODUKTOWY oraz stan
+NIEJEDNOZNACZNOSC_PRODUKTOWA. Nie uśredniaj tych list i nie wybieraj
+dłuższej jako „bezpieczniejszej".
+
+SKAŻENIE CACHE — ZNALEZIONE I ZATRZYMANE (2026-09-22)
+Cztery produkty w CHPL_CACHE były podpięte pod niewłaściwą substancję:
+pod PROMETAZYNĘ ChPL escitalopramu (Pramatis), pod CHLORDIAZEPOKSYD ChPL
+walproinianu (Convulex), a CHLORPROMAZYNA i CHLORPROTIKSEN miały zamienione
+produkty. Przyczyna: dopasowanie po szkielecie spółgłoskowym — „Pramatis"
+i „prometazyna" dają ten sam szkielet, a „chlorpro..." jest wspólne dla pary.
+Test odbioru tego nie łapał, bo wymagał marki ALBO rdzenia substancji,
+a produkt pod cudzą substancją nadal ma własną markę.
+NAPRAWIONE: wpisy usunięte, dodane testy T8b i T16, test odbioru 0 błędów.
+WYPCHNIĘTE I ZWERYFIKOWANE 2026-09-23 na żywym cache — czyste.
+Karantanna w module 19 odwołana; zostaje warunek jej ponownego włączenia.
+DRUGIE ZNALEZISKO, GROŹNIEJSZE OD PIERWSZEGO: comiesięczna przebudowa
+cache (GitHub Actions) NIE uruchamiała testu odbioru — budowała i wypychała
+bez sprawdzenia. Dlatego skażenie mogło tam siedzieć niezauważone i wróciłoby
+przy najbliższej przebudowie. Test wstawiony jako BRAMKA przed commitem.
+
+CZEGO NIE ZROBIONO — DŁUG JAWNY
+- 36 kart bez treści 4.3 (oznaczone BRAK DANYCH LOKALNYCH).
+- Pozostałe pola kart zbudowanych z jednego ChPL nie zostały sprawdzone
+  pod kątem zgodności międzyproduktowej. ZRODLO_KARTY wskazuje produkt,
+  z którego pochodzą; dla innego produktu mogą nie obowiązywać.
+- Treść istniejących kart (np. dawka sertraliny) nie była porównana
+  z ChPL — sprawdzono obecność pól, nie ich wartości.
+- Wpisy ICD sprzed rev.21 nie mają pól GRANICA_Z ani opisu operacyjnego.
+- Generator chpl_cache.py NIE ma jeszcze warunku z testów T8b/T16; przebudowa
+  mogłaby wprowadzić skażenie ponownie. Bramka odbioru ją wtedy zatrzyma
+  (kod 1), ale to zatrzymanie, nie zapobieganie.
+- SERTRALINA miała w polu METABOLIZM CYP2D6 jako szlak rozpadu (jest
+  inhibicja); poprawione 2026-09-22. Pozostałe pola pozostałych kart NIE
+  były porównane z ChPL — sprawdzono jedno pole w 13 kartach z 40.
+
+=====================================================================
+rev.20 — ODCHUDZENIE, KROK 1 (2026-09-22)
+=====================================================================
+Plan uzgodniony w trzech modelach (Claude, GPT, Grok), zatwierdzony
+przez lekarza. Bez zmiany żadnej reguły klinicznej.
+- Z projektu usunięte: REFUNDACJA_DATA.json i REFUNDACJA_ENGINE.py
+  (nieużywane kopie; 39 v2.13: spis sekcji, §14 przy STATUS ≠ TAK), REJESTR i REGULAMIN (do repozytorium).
+- 14 włączony do 01 jako sekcja 11 (01 v2.2; 02 v4.1 — odwołanie).
+- Historia wersji z nagłówków plików przeniesiona do repozytorium
+  (dokumentacja/CHANGELOG_HISTORIA.md); treść reguł bez zmian.
+- Naprawiony rozjazd: warstwa 40 była tu opisana jako wersja 16.
+
+=====================================================================
+rev.19 — AUDYT AI (2026-09-22)
+=====================================================================
+Audyt całej paczki (Claude API, 3 przebiegi): 34 znaleziska; lekarz
+zatwierdził 22 poprawki, odrzucono 2 (nazwa ESCYTALOPRAM — audytor
+się mylił; duplikat reguły ciąży przy nieznanym wieku), 4 w warstwie 40
+przekazano lekarzowi. Najważniejsze:
+- MASTER v20.10: hydroksyzyna na zamkniętej liście wyzwalacza wieku;
+  usunięte odwołanie do modułu 08 i do nieistniejącego MANIFEST.txt.
+- 15A v2.1: „nigdy NEG z milczenia" dla SI/SH/psychozy/manii w COMMIT.
+- 15 v5.2: bez generowania identyfikatora; format PSY-XXXX-XXXX-XXXX;
+  PESEL i nazwisko nie trafiają do SUROWKI; ZLA LACZNIE_DNI/PROG_182
+  = NIE PODANO bez potwierdzonego pełnego łańcucha.
+- 05, 16, 17, 18B, 33, 34, 35: źródłem ciągłości jest rozmowa albo
+  dokumentacja udostępniona na wizycie; treści rekordów sejfu się nie
+  odtwarza (Z30). 34 nie czyta już z Dysku.
+- CORE v3.2: karta METYLOFENIDAT (była METHYLPHENIDATE).
+
+=====================================================================
+rev.18 — RECEPTA I KALENDARZ (2026-09-22)
+=====================================================================
+  39 v2.10  sekcja 14 RECEPTA: najtańszy odpowiednik i liczba opakowań;
+            lista braków MZ (BRAKI.json) jako ostrzeżenie w wyniku recepty
+            z wyniku silnika (recepta.py, przypięty sumą). Liczby opakowań
+            i koszt kuracji = WYLICZONE. Postacie osobno.
+  13 v8.4   KALENDARZ DLA PACJENTA: wydruk HTML schematu (kalendarz.py,
+            przypięty sumą); tylko decyzja lekarza albo 19 SWITCH.
+Egzamin: 3/3 (recepta wykryła warunek wieku przy kwetiapinie w F32;
+kalendarz zapytał o brakującą długość etapu zamiast zgadywać).
+
+=====================================================================
+rev.17 — SKRÓT DO RPL_SPIS (2026-09-22)
+=====================================================================
+Wykryte przez EGZAMIN (repozytorium psychai-paczka, testy przez API):
+pytanie „jakie moce kwetiapiny w PL" raz trafiało do RPL_SPIS, raz
+kończyło się na portfolio i pytaniem do lekarza. Naprawa:
+  19 v6.2   SKRÓT na początku: moce/postacie/opakowania/marki -> od razu
+            RPL_SPIS, bez pytania; portfolio i CORE nie są katalogiem mocy.
+  PORTFOLIO v3.2  reguła 8: lookup RPL = 19 RPL_SPIS, wykonaj od razu.
+Egzamin po naprawie: 8/8 (w tym kwetiapina 3 razy z rzędu).
+
+=====================================================================
+rev.16 — ŹRÓDŁA Z GITHUB (2026-09-22)
+=====================================================================
+Pięć plików zmienionych, skład paczki bez zmian (42):
+  13 v8.3   kod z 41 = propozycja; do dokumentacji po potwierdzeniu lekarza.
+  18A v2.1  sekcja LACTMED: przy laktacji ZAWSZE wyszukiwarka LactMed
+            z GitHub; liczby dosłownie z pinem [LACTMED ...].
+  19 v6.1   sekcja RPL_SPIS: cotygodniowy spis RPL z GitHub (moce,
+            postacie, opakowania, ChPL); bez refundacji i dawkowania.
+  39 v2.8   sloty 83W/84W (przełączenie 2026-10-01), §9A uzasadnienie
+            refundacji do EDM, pytania kryterialne.
+  41 v1.1   ROZSTRZYGANIE KODU (SUFFICIENT / MISSING / AMBIGUOUS / OUT).
+Repozytorium publiczne cm5-ai/psychai-refundacja: silnik refundacji,
+spis RPL, LactMed, strażnik Psychiatrienet. Bez danych pacjentów.
+Kopia paczki z historią: prywatne repozytorium cm5-ai/psychai-paczka.
+NIEZMIERZONE w wątku wizyty: LACTMED (18A) i RPL_SPIS (19).
+
+=====================================================================
+rev.15 — BEZPIECZEŃSTWO U OSÓB STARSZYCH
+=====================================================================
+Z1 zamknięte: bramka POBUDZENIE U OSOBY STARSZEJ w 18 (nr 20 w MASTER,
+budżet bramek WYCZERPANY). Pytanie o majaczenie także, gdy lek podał
+lekarz. Pięć kart LPP ma pole OTĘPIENIE z pinem ChPL.
+Z34 (zgłoszone pierwotnie jako Z33 — numer zajęty przez ucięty
+szyfrogram) NOWE i zamknięte: hydroksyzyna u starszych MAX 50 mg/d
+(EMA 2015); paczka miała ją jako lek bez progu wiekowego i MAX 100.
+Z28 zamknięte z korektą: nerki przy hydroksyzynie = redukcja dawki
+(cetyryzyna), nie QT.
+PSYCHIATRIENET — TEST ZALICZONY 2026-09-21: PSYCH-AI otwiera
+switchdetail przez WebFetch; olanzapina->risperidon i sertralina->
+moklobemid zgodne ze stroną co do liczby. Wiki nie otwiera — nieużywana.
+NIETESTOWANE: bramka Z1 na żywo.
+
+=====================================================================
+rev.14 — FAKTY TEJ WIZYTY MAJĄ PIERWSZEŃSTWO
+=====================================================================
+BŁĄD rev.9-13: MASTER nadal kazał budować START VISIT BRIEF z sześciu
+sekcji „z NAJNOWSZEGO rekordu", choć od rev.9 rekordu nie da się
+przeczytać. Skutek w teście: „FARMAKOTERAPIA: nieznana z rekordu"
+w odpowiedzi na wiadomość, w której lekarz podał sertralinę 50 mg,
+oraz pytanie o datę urodzenia mimo podanego wieku.
+NIEZMIENNIK: fakty podane w tej rozmowie > wszystko inne. Niedostępny
+rekord = najwyżej jedno zdanie wg 16, nigdy „stan nieznany".
+ZMIANY: START VISIT BRIEF wycofany; lookup tylko na jawne pytanie
+o historię; krok 1 — wiek ALBO data urodzenia, NIGDY PESEL; forma
+wizyty tylko gdy wymaga jej ZLA lub dokument; DELTA-FIRST i PERSONAL
+THREADS w 16 liczą zmianę od stanu podanego w rozmowie.
+rev.14.1-14.2 (audyt GPT + Grok): usunięta KOTWICA AUTOMATYCZNEGO
+LOOKUP; forma wizyty wyjęta z WYŁĄCZENIA tożsamości; 15 dostał nagłówek
+zakresu (carry-forward martwy, bez NAZWISKO/IMIE/PESEL), 02: 15A > 15.
+NOWA REGUŁA 18: przy włączeniu lub zmianie substancji jedna linia
+o nietolerancji/ciężkim DN — bo nietolerancja nie przenosi się już
+sama z rekordu. Przy kontroli bez zmiany leku — zero pytań.
+TEST rev.14.2 ZALICZONY 2026-09-21: odpowiedź 20 s (było 2:00), zapis
+1:40, zero „nieznane z rekordu", zero pytań o PESEL/DU/formę.
+CIĄGŁOŚĆ ZAMROŻONA — nie otwierać bez nowego błędu z gabinetu.
+
+=====================================================================
+rev.13 — ZAMIANA LEKU NA LEK
+=====================================================================
+Do rev.12 MASTER L625 KAZAŁ pisać cross-taper krok po kroku, a w paczce
+nie było żadnego źródła harmonogramów. Wymóg bez źródła.
+rev.13: moduł 19, sekcja SWITCH_GATEWAY, jedyny właściciel. Źródło
+Psychiatrienet (De Tijdstroom). Lokalnie wyłącznie mapa węzłów,
+metoda, dni washoutu dla par krytycznych i adres. Harmonogramów NIE
+kopiujemy — licencja niejasna, wydawca komercyjny.
+PUŁAPKI: arypiprazol, brekspiprazol, kariprazyna -> węzeł GRUPOWY
+partial-agonist; zyprazydon -> rest-ap. Holenderska pisownia
+fenelzine, dosulepine, doxepine. Adresu nie układać z INN.
+ŹRÓDŁO PRZECZY SAMO SOBIE: norfluoksetyna 2 tyg. na jednej stronie,
+1 tydz. na dwóch innych. Rozstrzyga karta CORE (2 tyg.).
+ZMIERZONE 2026-09-21: PSYCH-AI otwiera switchdetail (stan A działa).
+Przy awarii strony — stan B i C: metoda plus link.
+
+=====================================================================
+OTWARTE LUKI KLINICZNE — TE MUSISZ ZNAĆ PRZY WIZYCIE
+=====================================================================
+Rejestru znalezisk NIE czytasz przy pacjencie. Poniżej jest wszystko
+z niego, co może dotknąć bieżącej decyzji. Reszta rejestru to
+dokumentacja projektu.
+
+L1 [Z1]  18B dopuszcza kwetiapinę 25-50 przy pobudzeniu i NIE MA
+         reguły nakazującej wykluczyć majaczenie u osoby starszej.
+         Reguły nie ma — nie udawaj, że jest. Jeżeli lekarz włącza
+         lek na pobudzenie u seniora, przyczyna organiczna jest
+         daną, której brak może zmienić decyzję.
+L2 [Z28] Żaden plik nie łączy eGFR z ryzykiem QT przy hydroksyzynie.
+         18 blokuje ją przy QT, jaskrze i retencji, nie przy nerkach.
+         Karta ma QT/TdP w DN i hipokaliemię w INTERAKCJACH.
+L3 [Z3]  Status antydopingowy leków psychotropowych — BRAK DANYCH
+         w paczce. Nie orzekaj o nim.
+L4 [Z4]  Stan po poronieniu — brak reguły odrębnej od ciąży
+         i połogu. Nie wnioskuj przez analogię.
+L5 [Z7]  Wybór benzodiazepiny wg osi celu (sen, lęk, napad,
+         odstawienie) nie jest opisany w paczce jako reguła.
+L6 [Z14] Walproinian dotyka DWÓCH domen reprodukcyjnych naraz —
+         teratogenności i płodności. Nie zamykaj sprawy jedną.
+
+Braki danych, których paczka nie ma i nie udawaj, że ma:
+interakcja klopidogrel x TCA, częstość drgawek przy odstawieniu
+benzodiazepin, status rejestracyjny medazepamu w Polsce, wytyczna
+PTP dla bezsenności u osób starszych.
+
+=====================================================================
+CO ZMIENIŁA rev.9
+=====================================================================
+Cała procedura zapisu przeszła z warstwy 40 do MASTER i 15A.
+Warstwa 40 przestała być drugą procedurą i skurczyła się do reguły
+zakresowej. Usunięte z paczki: trzeci folder zapisu, nazwisko jako
+zastępczy identyfikator, żądanie PESEL przed zapisem, listowanie
+katalogu z ponowieniami, zapis do pamięci systemowej, generowanie
+pseudonimu w 15A, jawny plik pośredni przed szyfrowaniem.
+
+SEJF JEST JEDNOKIERUNKOWY. System zapisuje rekordy zaszyfrowane
+kluczem publicznym jednego odbiorcy i NIE MA klucza prywatnego.
+Treść wcześniejszych rekordów jest nieczytelna. Moduł 16 mówi to
+wprost. Lookup po kodzie PSY daje obecność wizyt i ich daty — to
+działa i nie wymaga deszyfrowania. Ciągłość kliniczną niesie EDM
+lekarza. To jest decyzja, nie awaria (Z30).
+
+BRAMKI PŁCI I WIEKU SĄ W ROZMOWIE, NIE W REKORDZIE.
+MASTER, EARLY CONTEXT GATING, sekcja MINIMALNY KONTEKST PŁEĆ / WIEK
+PRZY ZMIANIE LEKU. Przy nieznanym wieku obowiązuje wariant dla osób
+starszych, a nie dawka dorosła. Przy nieznanej płci albo wieku
+domena ciąża/laktacja POZOSTAJE ACTIVE (Z31).
+
+=====================================================================
+CO ZMIERZONO
+=====================================================================
+BLOK A, 25 przypadków, rev.8 + instrukcja v7: 23 ZAL, 2 NZAL,
+0 krytycznych, 0 liczb bez pinu.
+BLOK B, 26 odpowiedzi, rev.8 + v8: 4 NZAL (odmowy zapisu) plus
+jeden defekt zakresu. 0 krytycznych, 0 zmyślonych pinów.
+BLOK C, 5 realnych zapisów, rev.8 + v8: wszystkie do właściwego
+folderu, poprawne nazwy, zero zapisów do folderu wyłączonego,
+nazwisko nie wyciekło.
+Odsetka nie podawaj. Bloki są heterogeniczne, pojedyncze przebiegi,
+wsadowe. To mierzy zgodność z paczką, nie bezpieczeństwo (Z15).
+
+BLOK D, 10 tur pojedynczych, rev.9: 6 czystych (D3, D4, D6, D7, D8
+oraz zapis w D9), 1 defekt zakresu (D10 — dopisał pytanie o płeć przy
+gołym poleceniu podania dawki), 3 tury odsłoniły za wąski wyzwalacz
+reguły płci i wieku (D1, D2, D5 — „włączam lek" bez prośby o liczbę
+nie uruchamiało bramki).
+rev.9.5 naprawia jedno i drugie: wyzwalaczem jest włączenie leku
+z progiem, a gołe polecenie podania dawki wyzwalaczem nie jest.
+NIEZMIERZONE PO POPRAWCE: D1, D2, D5 i D10 trzeba powtórzyć.
+
+Z33 — UCIĘTY SZYFROGRAM. Zmierzone 2026-09-20: jeden zapis na
+trzynaście trafił na Dysk ucięty (420 znaków zamiast 4760). Plik miał
+poprawną nazwę i leżał we właściwym folderze, a nie dawał się
+odszyfrować. Szyfrogram przechodzi do create_file przez wypowiedź
+modelu, znak po znaku — tej awarii NIE DA SIĘ usunąć regułą.
+rev.11 ma trzy warstwy: dwie wykrywania i jedną ratunkową:
+  4A — koperta transportowa. Pierwsza linia pliku niesie WYŁĄCZNIE
+       długość szyfrogramu: B64_LEN. Dzięki niej niepełny rekord da
+       się rozpoznać Z SAMEGO PLIKU, po latach, przed deszyfrowaniem.
+  5A — kontrola długości zaraz po create_file; niezgodność albo brak
+       możliwości sprawdzenia = zapis nieudany, bez słowa „Zapisano".
+  5B — po POTWIERDZONYM ucięciu jedna próba ponowna, plik z R1
+       w nazwie. Pierwszy, ucięty plik zostaje nietknięty. Para
+       plik bazowy + R1 o tym samym kodzie i czasie to JEDNA wizyta
+       i dwie próby transportu; wersją do użycia jest R1.
+       5B NIE JEST GWARANCJĄ. Druga próba idzie w tej samej turze,
+       zaraz po pierwszej, i nie wiadomo, czy jej powodzenie jest
+       niezależne od pierwszej. Do czasu pomiaru traktuj 5B jako
+       próbę ratunku.
+rev.12 DOKŁADA GZIP PRZED SZYFROWANIEM. Zmierzone na odtworzonym
+rekordzie złożonym: 15 524 B -> 5 470 B, redukcja 64,8%. Powód nie
+jest kosmetyczny: szyfrogram przechodzi przez wypowiedź modelu DWA
+razy — raz wypisany z narzędzia kodowego w porcjach, raz jako
+textContent w create_file — więc każdy znak kosztuje podwójnie.
+Zapis złożonej wizyty trwał 9 min 48 s. Wcześniejsza liczba 32%
+pochodziła z krótkiego rekordu kontrolnego i była dla niego
+prawdziwa; zysk rośnie z rozmiarem rekordu.
+
+DLACZEGO W KOPERCIE NIE MA SHA256. age jest szyfrem uwierzytelnionym
+i każdą zmianę treści wykrywa sam przy deszyfracji. Jedyne, czego nie
+wie, to ILE MIAŁO BYĆ — i to daje sama długość. Suma kontrolna
+dokładałaby 64 znaki przechodzące przez wypowiedź modelu, czyli nową
+szansę na fałszywy alarm na zdrowym rekordzie. Decyzja lekarza
+z 2026-09-20, po rozbieżnych werdyktach Groka i GPT.
+JAK CZYTAĆ REKORD — TRZY WARIANTY W TEJ SAMEJ BAZIE:
+  1. brak linii PSYCHAI_RECORD_V2 -> LEGACY:
+     całe body = base64 -> AGE -> UTF-8.
+  2. PSYCHAI_RECORD_V2 z COMP=NONE -> rekord z rev.10 albo rev.11:
+     odetnij pierwszą linię z LF, sprawdź B64_LEN,
+     base64 -> AGE -> UTF-8.
+  3. PSYCHAI_RECORD_V2 z COMP=GZIP -> rekord od rev.12:
+     odetnij pierwszą linię z LF, sprawdź B64_LEN,
+     base64 -> AGE -> GUNZIP -> UTF-8.
+  Nie uruchamiaj gunzip przy LEGACY ani przy COMP=NONE.
+  Nie pomijaj gunzip przy COMP=GZIP.
+Rekordy tego samego pacjenta mogą być w obu formatach. To nie jest
+błąd i nie zmienia treści medycznej.
+UWAGA NA PRZYSZŁOŚĆ: „nie otwiera się" przy złym założeniu formatu
+wygląda po latach identycznie jak brak dokumentacji. Sprawdź format,
+zanim uznasz, że wizyty nie ma.
+NAZWA, FOLDER I ROZSZERZENIE NIE SĄ DOWODEM POPRAWNEGO ZAPISU.
+
+POMIAR Z33 z 2026-09-20 — SIEDEM REALNYCH ZAPISÓW, OSOBNE WĄTKI:
+  6 900 / 7 116 / 7 236 / 7 652 / 8 996 / 19 556 / 30 796 znaków.
+  ZERO ucięć. Wszystkie zweryfikowane na Dysku co do bajta.
+HIPOTEZA, ŻE DŁUŻSZY REKORD CZĘŚCIEJ SIĘ UCINA — UPADŁA. Trzy zapisy
+powyżej 8 000 i dwa powyżej 19 000 przeszły, a jedyne znane ucięcie
+zdarzyło się przy 4 760 znakach, czyli przy NAJKRÓTSZYM z mierzonych
+rozmiarów. Z33 zaobserwowano raz i nie daje się wywołać na żądanie.
+Nie oznacza to, że nie istnieje — oznacza, że nie znamy sterownika.
+5B zostaje jako tania polisa; tym, co chroni lekarza, jest reguła
+głośnej awarii.
+
+=====================================================================
+REGUŁA OPERACYJNA — OBOWIĄZUJE OD RAZU
+=====================================================================
+Brak słowa „Zapisano" z nazwą pliku = rekordu nie ma. Nie sprawdzaj,
+nie powtarzaj — wpis idzie do EDM.
+Do czasu pomiaru z punktu 1 poniżej sejf jest KOPIĄ, nie dokumentacją.
+EDM dostaje komplet, zawsze.
+
+=====================================================================
+PIERWSZE POZYCJE PO rev.15
+=====================================================================
+1. SKRÓCIĆ TO, CO MODEL MUSI NAPISAĆ. Zmierzone 2026-09-20:
+         czas ~ ilość generowanego tekstu, nie rozmiar payloadu
+         i nie start wątku.
+           zimny wątek + krótka odpowiedź kliniczna   1 min 20 s
+           zimny wątek + pełna analiza pierwszorazowa ~3 min
+           sama tura zapisu, wątek gorący             6 min 20 s
+         Dlatego gzip nic nie dał: ściska to, co już napisane.
+         Pierwszy kandydat: rekord niesie tę samą wizytę DWA razy —
+         dosłowna SUROWKA i proza EDM. Warunek musi podawać lekarz
+         (np. TYP_WIZYTY), nigdy własna ocena bezpieczeństwa systemu.
+2. [ZAMKNIĘTE rev.14] PESEL usunięty z danych technicznych.
+3. ROZDZIELIĆ MASTER na część zawsze aktywną i część zapisową.
+         Zysk mniejszy, niż sądziliśmy — start wątku nie jest
+         dominujący. PUŁAPKA: kontrakt ładowania Groka stawia MASTER
+         na TRIGGER, ale EARLY CONTEXT GATING i bramka płci/wieku
+         siedzą W MASTER. Bez podziału leniwe ładowanie ZGASIŁOBY
+         tę bramkę. Najpierw podział, potem kontrakt ładowania.
+4. ZMIERZYĆ rev.12: te same bloki co 2026-09-20, osobne wątki,
+         czas tury i weryfikacja pliku na Dysku. Szacunek do
+         potwierdzenia: złożona wizyta z 9 min 48 s do 3,5-4 min.
+5. [ZAMKNIĘTE rev.15] Z1.
+6. [ZAMKNIĘTE rev.15] Z28.
+7. Z25 — powtórzyć Bloki A i B na rev.9 POJEDYNCZYMI turami.
+         System potrafi rozpoznać materiał jako test i zmienić
+         zachowanie; seria wsadowa tego nie wykryje.
+8. Kontrola szyfrogramu przez system, w tym samym wątku co zapis.
+9. [ZAMKNIĘTE rev.14] Lookup tylko na jawne pytanie o historię.
+10. Zmierzyć skuteczność kontroli 5A: czy wykrywa ucięcie i czy
+   nie wywołuje ponowień.
+11. Z35 — zmierzyć warstwę 40 v16 czterema testami regresyjnymi
+   z REJESTR (escitalopram, 72 lata + escitalopram, hydroksyzyna,
+   diazepam->lorazepam). Przy rev.16 przenieść §3A do MASTER.
+12. Z36 — ROZPOCZĘCIE WIZYTY krok 1 vs EARLY CONTEXT GATING
+   (pytanie o wiek na starcie). Zachowanie dziś poprawne; poprawić
+   tekst przy rev.16, osobno od Z35.
+=====================================================================

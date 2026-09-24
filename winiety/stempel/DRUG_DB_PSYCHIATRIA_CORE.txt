@@ -1,0 +1,180 @@
+PSYCH-AI — DRUG DB: PSYCHIATRIA CORE
+WYDANIE: rev33 | 2bbb4fa74d490526 | PLIK: DRUG_DB_PSYCHIATRIA_CORE.txt
+VERSION: v3.6
+DATE: 2026-09-24
+ZMIANA v3.6: karty rozdzielone na piec plikow klasowych. Tresc kart bez
+zmian co do bajtu — podzial jest przenosinami, nie redakcja. Powod: przy
+wizycie plik wchodzi CALY, a odczyt jednego pola ciagnal 86 KB, zeby dac
+15 linii. Ten plik trzyma reguly kart i INDEKS; karta lezy w pliku klasy.
+REGULY KART SA WYLACZNIE TUTAJ. Pliki klasowe niosą same karty.
+
+PSYCH-AI — DRUG DB: PSYCHIATRIA CORE
+VERSION: v3.5
+DATE: 2026-09-24
+ZMIANA v3.5: przeglad calej grupy N05A pod katem postaci. Pole POSTAC
+w kartach KWETIAPINA, OLANZAPINA, ARYPIPRAZOL, RISPERIDON, HALOPERIDOL,
+KLOZAPINA. Nowe karty FLUPENTYKSOL i PALIPERYDON, obie z dawkowaniem depot.
+ZMIANA v3.4: szesc nowych kart zbudowanych z ChPL — TIAPRYD, SULPIRYD,
+NITRAZEPAM, KLORAZEPAT, CHLORDIAZEPOKSYD, OKSAZEPAM. Wprowadzone pole POSTAC
+w kazdej z nich. REGULA POSTACI: dawka, czestosc, dawka maksymalna i sposob
+podania wymagaja rozstrzygnietego produktu, postaci i drogi podania; sama
+zgodnosc substancji i kodu ATC nie wystarcza. Brak rozstrzygnietej postaci =
+brak dawki. Karty umieszczone w sekcjach klasowych (neuroleptyki, BZD),
+bo przynaleznosc do sekcji jest tym, co wiaze lek z BLOKIEM klasy w 18.
+ZMIANA v3.3: pole PRZECIWWSKAZANIA obowiązkowe we wszystkich kartach;
+podmiana karty LIT na wersję z ChPL; nowe karty KARBAMAZEPINA, KLOZAPINA,
+METADON; reguła zgodności międzyproduktowej.
+ZMIANA v3.2: ONSET/T1_2/METABOLIZM/UZALEŻNIENIE dla 28 wpisów CORE;
+nowe wpisy TEMAZEPAM, BROMAZEPAM, DIAZEPAM, ESTAZOLAM.
+ŹRÓDŁA: Stahl Prescriber's Guide 2024; Jarema (red.) 2022; PTMR/PTP 2019.
+REGUŁA ROZBIEZNOSC_ZRODLOWA: sprzeczne wartości tego samego pola zachowaj
+równolegle z pinami i oznacz ROZBIEZNOSC_ZRODLOWA; nie wybieraj wartości
+domyślnej. Dotyczy też sprzeczności wewnątrz jednego dokumentu ChPL.
+
+POLA DODATKOWE (tylko tam, gdzie mają treść; brak pola = nie dotyczy):
+STEZENIE_TERAPEUTYCZNE — zakres i okna oznaczania (lit).
+PROGRAM_ZAPOBIEGANIA_CIAZY — wymóg regulatora (walproinian).
+WYMOGI_PROGRAMOWE — recepta/program szczególny (metadon, buprenorfina).
+POSTAC — postać i interwał iniekcji dla preparatów o przedł. uwalnianiu.
+ODSTAWIANIE — schemat odstawiania, gdy nagłe niesie własne ryzyko.
+OSTRZEŻENIE_GENETYCZNE — allel warunkujący ciężkie ryzyko w danej populacji.
+OWNERSHIP: twardy warunek dopuszczenia albo włączenia leku (morfologia
+przed klozapiną, litemia, EKG przed ziprasidonem, PPZ przy walproinianie)
+należy do 18 jako BLOK albo WARUNEK_WLACZENIA. DRUG_DB przechowuje
+szczegóły i wartości źródłowe; nie przenosi decyzji do karty.
+
+REGUŁA POLA ZRODLO_KARTY: karta zbudowana z ChPL ma jawne pole
+ZRODLO_KARTY: ChPL <produkt/produkty> <data pobrania>. Brak tego pola =
+karta utrzymywana ręcznie ze źródeł z nagłówka. Nie mieszaj tych dwóch
+rodzajów w jednej karcie bez oznaczenia, z którego pochodzi dana liczba.
+
+REGUŁA POLA PRZECIWWSKAZANIA: pole jest OBOWIĄZKOWE w każdej karcie.
+Treść źródłowa z ChPL pkt 4.3; nie jest decyzją — decyzję (BLOK) trzyma 18.
+Brak treści zapisuj jawnie: PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie
+interpretować jako brak przeciwwskazań. Pusty wiersz albo brak pola to błąd
+karty, nie informacja o leku.
+
+REGUŁA ZGODNOŚCI MIĘDZYPRODUKTOWEJ: żadnej wartości pochodzącej z ChPL wielu
+produktów nie wolno scalić do poziomu substancji bez testu zgodności między
+produktami. Scalać wolno WYŁĄCZNIE po deterministycznym kluczu kanonicznym
+(równość po kanonizacji). Dopasowanie przybliżone, podobieństwo i progi NIE SĄ
+dopuszczalnym źródłem danych w karcie. Brak jednoznacznego klucza -> pozycje
+zostają osobno, per produkt. Wartości zgodne można podać jako wartość substancji. Wartości
+rozbieżne zostają PRODUKTOWE, z nazwą produktu przy każdej. Gdy produkt
+pacjenta nie jest znany — NIEJEDNOZNACZNOSC_PRODUKTOWA: podaj, że zakres
+zależy od produktu, i poproś o ustalenie produktu. Nie wybieraj listy
+dłuższej ani krótszej jako „bezpieczniejszej".
+W wielu testowanych metodach porównania wykazano CZĘSTE rozbieżności
+międzyproduktowe punktu 4.3. Liczby nie podajemy: zależy od definicji
+równości pozycji, więc jest wynikiem heurystyki, nie pomiarem (§3B).
+Metryka NIE jest używana przez runtime. Szczegóły: AUDIT/repozytorium.
+Skrajny przypadek, sprawdzony ręcznie: metadon — żadna pozycja 4.3
+nie występuje we wszystkich trzech produktach w cache.
+To nie jest wyjątek — to stan typowy.
+
+REGUŁA POLA UZALEŻNIENIE: brak tego pola w karcie = UZALEŻNIENIE: NIE.
+Pole występuje jawnie wyłącznie tam, gdzie odpowiedź brzmi TAK
+albo wymaga zastrzeżenia. Próg 4 tyg. z 18B dotyczy wyłącznie
+substancji z jawnym UZALEŻNIENIE: TAK.
+
+
+=====================================================================
+KONTROLA WYDANIA — PRZED PIERWSZA ODPOWIEDZIA MERYTORYCZNA
+=====================================================================
+Kazdy plik paczki ma w drugiej linii: WYDANIE: <rev> | <suma> | PLIK: <nazwa>.
+SKLAD WYDANIA ponizej mowi, ile kart ma miec kazdy plik klasowy.
+
+ZANIM odpowiesz merytorycznie PIERWSZY RAZ w rozmowie, sprawdz trzy rzeczy:
+  1. czy kazdy wczytany plik paczki ma linie WYDANIE i czy wszystkie podaja
+     TO SAMO wydanie i te sama sume,
+  2. czy nie brakuje pliku ze SKLADU WYDANIA,
+  3. czy liczba kart, ktore WIDZISZ w kazdym pliku klasowym, zgadza sie
+     z liczba ze SKLADU.
+Niezgodnosc ktorejkolwiek: PIERWSZA LINIA odpowiedzi to
+  ⚠ WYDANIE: <co sie nie zgadza>
+i dopiero potem odpowiadasz — albo odmawiasz, jesli niezgodnosc dotyczy
+pliku potrzebnego do tej odpowiedzi.
+Zgodnosc: NIE PISZ NIC. Stempel milczy, gdy wszystko sie zgadza; inaczej
+lekarz nauczy sie go pomijac.
+
+To NIE jest suma kontrolna. Nie liczysz skrotow ani kart. Czytasz
+zadeklarowane wydanie i sprawdzasz, czy wymienione karty sa na miejscu.
+SKLAD podaje NAZWY, nie liczby, bo liczba wymaga zgody co do tego, co jest
+karta: naglowek sekcji SSRI kartą nie jest, a przy liczeniu wpadal do puli
+i dawal falszywy alarm w paczce, ktora byla w porzadku. Falszywy alarm uczy
+ignorowania alarmow, wiec jest gorszy niz brak alarmu. Granica metody: podmiana JEDNEJ
+KARTY w pliku z poprawnym naglowkiem nie zostanie wykryta.
+
+SKLAD WYDANIA rev33 (2bbb4fa74d490526)
+
+  00_CIAGLOSC_PSYCH-AI_CZYTAJ_NAJPIERW.txt rev33
+  MASTER_v20_2026-09-20.txt      rev33
+  02_INDEX_PRECEDENCE.txt        rev33
+  18_PSYCH_PHARMA_FORMULARY_PL.txt rev33
+  DRUG_DB_PSYCHIATRIA_CORE.txt   rev33
+  DRUG_DB_AD.txt                 rev33  karty: SERTRALINA, ESCYTALOPRAM, FLUOKSETYNA, PAROKSETYNA, WENLAFAKSYNA, DULOKSETYNA, MIRTAZAPINA, TRAZODON, BUPROPION, AGOMELATYNA, AMITRYPTYLINA, KLOMIPRAMINA, DOKSEPINA, IMIPRAMINA
+  DRUG_DB_AP.txt                 rev33  karty: KWETIAPINA, OLANZAPINA, ARYPIPRAZOL, RISPERIDON, HALOPERIDOL, KLOZAPINA, TIAPRYD, SULPIRYD, FLUPENTYKSOL, PALIPERYDON, PROMETAZYNA
+  DRUG_DB_BZD.txt                rev33  karty: ALPRAZOLAM, LORAZEPAM, KLONAZEPAM, TEMAZEPAM, BROMAZEPAM, DIAZEPAM, ESTAZOLAM, NITRAZEPAM, KLORAZEPAT, CHLORDIAZEPOKSYD, OKSAZEPAM, ZOPIKLON, ZOLPIDEM, HYDROKSYZYNA, BUSPIRON
+  DRUG_DB_STAB.txt               rev33  karty: KARBAMAZEPINA, LAMOTRYGINA, PREGABALINA
+  DRUG_DB_ADHD_UZAL.txt          rev33  karty: ATOMOKSETYNA, METYLOFENIDAT, METADON
+
+INDEKS KART — LEK -> PLIK
+
+AGOMELATYNA        DRUG_DB_AD.txt
+ALPRAZOLAM         DRUG_DB_BZD.txt
+AMITRYPTYLINA      DRUG_DB_AD.txt
+ARYPIPRAZOL        DRUG_DB_AP.txt
+ATOMOKSETYNA       DRUG_DB_ADHD_UZAL.txt
+BROMAZEPAM         DRUG_DB_BZD.txt
+BUPROPION          DRUG_DB_AD.txt
+BUSPIRON           DRUG_DB_BZD.txt
+CHLORDIAZEPOKSYD   DRUG_DB_BZD.txt
+DIAZEPAM           DRUG_DB_BZD.txt
+DOKSEPINA          DRUG_DB_AD.txt
+DULOKSETYNA        DRUG_DB_AD.txt
+ESCYTALOPRAM       DRUG_DB_AD.txt
+ESTAZOLAM          DRUG_DB_BZD.txt
+FLUOKSETYNA        DRUG_DB_AD.txt
+FLUPENTYKSOL       DRUG_DB_AP.txt
+HALOPERIDOL        DRUG_DB_AP.txt
+HYDROKSYZYNA       DRUG_DB_BZD.txt
+IMIPRAMINA         DRUG_DB_AD.txt
+INNE PRZECIWDEPRESYJNE DRUG_DB_AD.txt
+KARBAMAZEPINA      DRUG_DB_STAB.txt
+KLOMIPRAMINA       DRUG_DB_AD.txt
+KLONAZEPAM         DRUG_DB_BZD.txt
+KLORAZEPAT         DRUG_DB_BZD.txt
+KLOZAPINA          DRUG_DB_AP.txt
+KWETIAPINA         DRUG_DB_AP.txt
+LAMOTRYGINA        DRUG_DB_STAB.txt
+LORAZEPAM          DRUG_DB_BZD.txt
+METADON            DRUG_DB_ADHD_UZAL.txt
+METYLOFENIDAT      DRUG_DB_ADHD_UZAL.txt
+MIRTAZAPINA        DRUG_DB_AD.txt
+NITRAZEPAM         DRUG_DB_BZD.txt
+OKSAZEPAM          DRUG_DB_BZD.txt
+OLANZAPINA         DRUG_DB_AP.txt
+PALIPERYDON        DRUG_DB_AP.txt
+PAROKSETYNA        DRUG_DB_AD.txt
+PREGABALINA        DRUG_DB_STAB.txt
+PROMETAZYNA        DRUG_DB_AP.txt
+PRZECIWPSYCHOTYCZNE DRUG_DB_AP.txt
+RISPERIDON         DRUG_DB_AP.txt
+SERTRALINA         DRUG_DB_AD.txt
+SNRI               DRUG_DB_AD.txt
+SSRI               DRUG_DB_AD.txt
+SULPIRYD           DRUG_DB_AP.txt
+TEMAZEPAM          DRUG_DB_BZD.txt
+TIAPRYD            DRUG_DB_AP.txt
+TRAZODON           DRUG_DB_AD.txt
+WENLAFAKSYNA       DRUG_DB_AD.txt
+ZOLPIDEM           DRUG_DB_BZD.txt
+ZOPIKLON           DRUG_DB_BZD.txt
+
+SEKCJE KLASOWE:
+
+DRUG_DB_AD.txt           PRZECIWDEPRESYJNE
+DRUG_DB_AP.txt           PRZECIWPSYCHOTYCZNE
+DRUG_DB_BZD.txt          BENZODIAZEPINY, Z-LEKI I POZOSTALE NASENNE/ANKSJOLITYCZNE
+DRUG_DB_STAB.txt         STABILIZATORY I PRZECIWPADACZKOWE
+DRUG_DB_ADHD_UZAL.txt    ADHD I UZALEZNIENIA

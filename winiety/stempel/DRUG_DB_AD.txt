@@ -1,0 +1,226 @@
+PSYCH-AI — DRUG DB: PRZECIWDEPRESYJNE
+WYDANIE: rev33 | 2bbb4fa74d490526 | PLIK: DRUG_DB_AD.txt
+VERSION: v3.6
+DATE: 2026-09-24
+TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
+to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
+i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
+Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
+CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
+Kart w tym pliku: 14.
+
+SSRI
+
+SERTRALINA
+DAWKA: depresja/OCD zwykle start 50 mg/d; lęk napadowy/PTSD/social anxiety 25 mg/d przez ok. 1 tydz., potem 50 mg/d; typowo 50–200 mg/d; MAX 200 mg/d.
+WSKAZANIA: MDD, OCD, panic disorder, PTSD, social anxiety.
+ONSET: ChPL — początek działania terapeutycznego może nastąpić w ciągu 7 DNI; pełny efekt
+  zwykle później [ChPL 4.2 ApoSerta 2026-09-22].
+  [POZA_ChPL:Stahl2024/Jarema2022] 14–28 d to czas OCENY ODPOWIEDZI, nie start działania;
+  decyzja o nieskuteczności zwykle po 14–28 d, pełny efekt 28–42 d.
+T1_2: 22-36 h (średnio ok. 26 h); metabolit 62-104 h [ChPL 5.2 ApoSerta 2026-09-22].
+METABOLIZM: CYP3A4, CYP2C19, CYP2B6 [ChPL 5.2 ApoSerta 2026-09-22].
+  CYP2D6: sertralina HAMUJE substraty; sama nie idzie głównie 2D6.
+  ROZWINIĘCIE (tylko na „dlaczego?"): ryzyko idzie OD sertraliny DO substratów 2D6 —
+  metoprolol, risperidon, atomoksetyna. Paroksetyna ani fluoksetyna sertraliny nie „blokują”.
+  TAMOKSYFEN: sertralina jest SŁABSZYM inhibitorem 2D6 niż paroksetyna i fluoksetyna —
+  nie stawiaj tych trzech na równi. [POZA_ChPL: rozstrzygnięcie kliniczne 2026-09-23]
+DN: nudności/biegunka, bezsenność lub senność, drżenie, potliwość, dysfunkcje seksualne, hiponatremia/SIADH, krwawienia, aktywacja/akatyzja; rzadko zespół serotoninowy.
+INTERAKCJE: MAOI/linezolid/methylene blue — ryzyko serotoninowe; inne serotonergiczne; NLPZ/ASA/antykoagulanty — krwawienie; leki wydłużające QT — ostrożność; CYP2D6 umiarkowane znaczenie przy wyższych dawkach.
+CIĄŻA: jedna z najlepiej przebadanych opcji SSRI; decyzja risk-benefit, nie odstawiać automatycznie.
+KP: zwykle preferowana/zgodna z karmieniem przy wskazaniu; obserwacja niemowlęcia.
+MONITORING: Na+ przy ryzyku, objawy krwawień, SI/aktywacja na początku, funkcje seksualne.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+ESCYTALOPRAM
+DAWKA: depresja i fobia społeczna zwykle 10 mg/d; lęk napadowy start 5 mg/d przez 1 tydz., potem 10 mg/d. MAX 20 mg/d — nie wykazano bezpieczeństwa dawki dobowej większej niż 20 mg [ChPL 4.2, 3 produkty zgodne, 2026-09-22].
+  STARSI: powyżej 65 r.ż. start 5 mg/d, MAX 10 mg/d — NIE 20 [ChPL 4.2, wszystkie 3 produkty zgodne].
+  WĄTROBA łagodna/umiarkowana: start 5 mg/d przez 2 tyg., MAX 10 mg/d [ChPL 4.2, 3 produkty zgodne].
+  WOLNO METABOLIZUJĄCY CYP2C19: start 5 mg/d przez 2 tyg., MAX 10 mg/d [ChPL 4.2, 3 produkty zgodne].
+  NERKI: łagodne/umiarkowane bez modyfikacji; ciężkie (CrCl <30 ml/min) — ostrożność [ChPL 4.2].
+WSKAZANIA: MDD, panic disorder, social anxiety, GAD, OCD.
+ONSET: działanie przeciwdepresyjne zwykle po 2–4 tyg. [ChPL 4.2]. W lęku napadowym maksymalna skuteczność po ok. 3 mies. [ChPL 4.2].
+T1_2: ok. 30 h [ChPL 5.2]; karta wcześniej podawała 27–32 h — zakres zgodny.
+METABOLIZM: CYP2C19 i 3A4; ChPL 5.2 wymienia także CYP2D6. Escytalopram bez istotnego hamowania CYP.
+DN: nudności, ból głowy, bezsenność/senność, dysfunkcje seksualne, hiponatremia; wydłużenie QT zależne od dawki.
+INTERAKCJE: MAOI i serotonergiczne; NLPZ/ASA/antykoagulanty; inhibitory CYP2C19 zwiększają ekspozycję.
+  LEKI WYDŁUŻAJĄCE QT — to NIE jest ostrożność, to przeciwwskazanie: patrz PRZECIWWSKAZANIA.
+CIĄŻA: możliwe użycie po ocenie korzyści/ryzyka; nie odstawiać automatycznie.
+KP: często akceptowalny z obserwacją niemowlęcia.
+MONITORING: Na+ u pacjentów z ryzykiem. EKG przed włączeniem przy czynnikach ryzyka QT — wynik rozstrzyga o dopuszczalności, nie tylko o obserwacji.
+PRZECIWWSKAZANIA [ChPL 4.3, 3 produkty (Aciprex, ApoEscitaxin ORO, Betesda) zgodne, 2026-09-22]:
+  - nadwrażliwość na escytalopram lub substancję pomocniczą
+  - jednoczesne leczenie nieselektywnymi, nieodwracalnymi inhibitorami MAO — ryzyko zespołu serotoninowego
+  - jednoczesne stosowanie z odwracalnymi inhibitorami MAO-A (np. moklobemid) lub linezolidem
+  - ROZPOZNANE WYDŁUŻENIE ODSTĘPU QT albo wrodzony zespół wydłużonego QT
+  - JEDNOCZESNE STOSOWANIE Z INNYMI LEKAMI WYDŁUŻAJĄCYMI QT
+  UWAGA: dwie ostatnie pozycje karta wcześniej opisywała jako „ostrożność" i „monitorowanie".
+  W ChPL są przeciwwskazaniem bezwzględnym. Poprawione 2026-09-22.
+
+FLUOKSETYNA
+DAWKA: zwykle 20 mg/d; zakres 20–60 mg/d; w OCD/bulimii często 60 mg/d; MAX zależny od wskazania, do 60–80 mg/d wg ChPL produktu.
+WSKAZANIA: MDD, OCD, bulimia; wybrane wskazania pediatryczne.
+ONSET: efekt 14-28 d; pełny 28-56 d.
+T1_2: 2-3 d; norfluoksetyna ok. 2 tyg..
+METABOLIZM: CYP2D6 (inhibitor), CYP3A4.
+DN: aktywacja, bezsenność, nudności, dysfunkcje seksualne, hiponatremia; długi T1/2.
+INTERAKCJE: silny CYP2D6 inhibitor; MAOI; tamoksyfen; flekainid/propafenon/metoprolol i inne CYP2D6; serotonergiczne.
+CIĄŻA: duże doświadczenie; decyzja indywidualna.
+KP: długi T1/2 i aktywny metabolit — częściej ostrożność niż przy sertralinie.
+MONITORING: interakcje CYP2D6, aktywacja, Na+.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+PAROKSETYNA
+DAWKA: zwykle 10–20 mg/d start; 20–50 mg/d zależnie od wskazania.
+WSKAZANIA: MDD, OCD, panic, social anxiety, GAD, PTSD.
+ONSET: efekt 14-21 d; pełny 28-42 d.
+T1_2: ok. 24 h; metabolity nieczynne.
+METABOLIZM: CYP2D6 (silny inhibitor).
+DN: sedacja, przyrost masy, dysfunkcje seksualne, antycholinergiczne, wyraźne objawy odstawienne.
+INTERAKCJE: silny CYP2D6 inhibitor; tamoksyfen; metoprolol; MAOI/serotonergiczne.
+CIĄŻA: zwykle nie jest wyborem pierwszym przy rozpoczynaniu leczenia w ciąży; gdy skuteczna przed ciążą decyzja indywidualna.
+KP: bywa akceptowalna przy monitorowaniu.
+MONITORING: odstawianie powolne, interakcje CYP2D6.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+SNRI
+
+WENLAFAKSYNA
+DAWKA: XR zwykle 37,5–75 mg/d start; typowo 75–225 mg/d; MAX zwykle 225 mg/d ambulatoryjnie, wyżej w niektórych ChPL/wskazaniach.
+WSKAZANIA: MDD, GAD, social anxiety, panic.
+ONSET: efekt 14-28 d; pełny 28-56 d.
+T1_2: 3-7 h; czynny metabolit 9-13 h.
+METABOLIZM: CYP2D6/3A4.
+DN: nudności, potliwość, dysfunkcje seksualne, bezsenność, wzrost BP/HR zależny od dawki, silne objawy odstawienne.
+INTERAKCJE: MAOI/serotonergiczne; CYP2D6; leki podnoszące ciśnienie/HR.
+CIĄŻA: możliwe użycie po ocenie risk-benefit.
+KP: przenika do mleka; decyzja indywidualna, obserwacja dziecka.
+MONITORING: BP/HR, odstawianie stopniowe.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+DULOKSETYNA
+DAWKA: zwykle 30 mg/d start, następnie 60 mg/d; typowo 60 mg/d; MAX 120 mg/d zależnie od wskazania.
+WSKAZANIA: MDD, GAD, neuropathic pain.
+ONSET: efekt 14-28 d; pełny 28-56 d.
+T1_2: ok. 12 h.
+METABOLIZM: CYP2D6 i CYP1A2.
+DN: nudności, suchość w ustach, potliwość, dysfunkcje seksualne, wzrost BP, hepatotoksyczność rzadko.
+INTERAKCJE: MAOI; silne inhibitory CYP1A2; CYP2D6; alkohol/choroba wątroby zwiększa ryzyko hepatyczne.
+CIĄŻA: ograniczone dane; risk-benefit.
+KP: zwykle ostrożność; ocena indywidualna.
+MONITORING: BP, wątroba gdy ryzyko.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+INNE PRZECIWDEPRESYJNE
+
+MIRTAZAPINA
+DAWKA: 15 mg na noc start; typowo 15–45 mg/d; MAX 45 mg/d.
+WSKAZANIA: MDD; klinicznie używana przy bezsenności/utracie apetytu w przebiegu depresji.
+ONSET: sen 1-3 d; nastrój 14-28 d; pełny 28-42 d.
+T1_2: 20-40 h.
+METABOLIZM: CYP2D6, 3A4, 1A2.
+DN: senność, wzrost apetytu/masy, suchość w ustach, zaparcia; rzadko neutropenia/agranulocytoza.
+INTERAKCJE: MAOI; depresanty OUN/alkohol; serotonergiczne — ostrożność.
+CIĄŻA: można rozważyć, jeśli korzyść przewyższa ryzyko.
+KP: niewielkie ilości w mleku; decyzja risk-benefit.
+MONITORING: masa/BMI, lipidy/glikemia wg ryzyka; morfologia przy objawach infekcji.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+TRAZODON
+DAWKA: na bezsenność off-label często 25–100 mg na noc; depresja zwykle 150 mg/d i titracja; MAX zależny od postaci i trybu leczenia.
+WSKAZANIA: depresja; częste zastosowanie kliniczne przy bezsenności.
+ONSET: sen 1 d; nastrój 14-28 d.
+T1_2: faza I 3-6 h; faza II 5-9 h.
+METABOLIZM: CYP3A4.
+UZALEŻNIENIE: NIE.
+DN: sedacja, hipotonia ortostatyczna, zawroty, priapizm rzadko, QT prolongation.
+INTERAKCJE: serotonergiczne/MAOI; CYP3A4 inhibitory/inducers; depresanty OUN; leki wydłużające QT.
+CIĄŻA: ograniczone dane; risk-benefit.
+KP: ostrożność, szczególnie noworodek/wcześniak.
+MONITORING: BP ortostatyczne, QT przy ryzyku.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+BUPROPION
+DAWKA: zależna od postaci; zwykle 150 mg/d start, potem 300 mg/d; MAX wg produktu/wskazania.
+WSKAZANIA: MDD; zaprzestanie palenia dla odpowiednich produktów.
+ONSET: efekt 14-28 d; pełny 28-42 d.
+T1_2: 10-14 h; metabolit 20-27 h.
+METABOLIZM: CYP2B6; inhibitor CYP2D6.
+DN: bezsenność, lęk/aktywacja, suchość w ustach, wzrost BP; drgawki zależne od dawki.
+INTERAKCJE: silny CYP2D6 inhibitor; MAOI; leki obniżające próg drgawkowy; metoprolol i inne CYP2D6.
+CIĄŻA: nie pierwsza opcja do rozpoczynania bez szczególnej przesłanki; indywidualna ocena.
+KP: małe ilości, ale opisy drgawek u niemowląt — ostrożność.
+MONITORING: BP; przeciwwskazania drgawkowe/eating disorders wg ChPL.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+AGOMELATYNA
+DAWKA: 25 mg na noc; przy braku odpowiedzi po 2 tyg. 50 mg na noc.
+WSKAZANIA: depresja u dorosłych.
+ONSET: sen 3-7 d; nastrój 14-28 d.
+T1_2: 1-2 h.
+METABOLIZM: CYP1A2.
+DN: wzrost aminotransferaz (kontrola ALT/AST przed startem, po 3, 6, 12, 24 tyg. i przy zwiekszeniu dawki), bole glowy, zawroty, nudnosci.
+INTERAKCJE: CYP1A2 - fluwoksamina i cyprofloksacyna PRZECIWWSKAZANE; palenie tytoniu obniza stezenie.
+CIAZA: ograniczone dane.
+KP: brak danych, odradzane.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+AMITRYPTYLINA
+DAWKA: start 10–25 mg na noc; zakres 50–150 mg/d; w bólu zwykle niższe dawki. Podeszły wiek: ostrożnie, niższy start.
+WSKAZANIA: depresja; ból neuropatyczny i profilaktyka migreny (cel pozarejestracyjny zależnie od ChPL).
+ONSET: efekt leczniczy 14–28 d (depresja, ból). Sedacja od pierwszej dawki NIE jest efektem leczniczym.
+T1_2: 10–28 h; CZYNNY METABOLIT nortryptylina.
+METABOLIZM: CYP2D6 i CYP1A2 (demetylacja do nortryptyliny).
+UZALEŻNIENIE: NIE.
+DN: sedacja, antycholinergiczne, hipotonia ortostatyczna, przyrost masy, wydłużenie QT, toksyczność w przedawkowaniu.
+INTERAKCJE: inhibitory CYP2D6, MAOI, leki wydłużające QT, leki antycholinergiczne.
+CIĄŻA: unikać rutynowego rozpoczynania; brak karty w bazie reprodukcyjnej.
+KP: brak karty w bazie reprodukcyjnej.
+MONITORING: EKG przy czynnikach ryzyka, ciśnienie, funkcje poznawcze u seniorów.
+BLOK: wiek ≥65 + upadki -> BLOK (18, BLOK TCA).
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+KLOMIPRAMINA
+DAWKA: start 25 mg; zakres 100–200 mg/d; MAX wg ChPL.
+WSKAZANIA: OCD, depresja, lęk napadowy.
+ONSET: efekt leczniczy 14–28 d (depresja, lęk napadowy); OCD pełny efekt dłużej. Sedacja od pierwszej dawki NIE jest efektem leczniczym.
+T1_2: 17–28 h; CZYNNY METABOLIT dezmetyloklomipramina.
+METABOLIZM: CYP2D6 i CYP1A2; hamuje CYP2D6.
+UZALEŻNIENIE: NIE.
+DN: antycholinergiczne, sedacja, przyrost masy, dysfunkcje seksualne, obniżenie progu drgawkowego, QT.
+INTERAKCJE: MAOI i serotonergiczne, inhibitory CYP2D6, leki wydłużające QT.
+CIĄŻA: brak karty w bazie reprodukcyjnej.
+KP: brak karty w bazie reprodukcyjnej.
+MONITORING: EKG przy czynnikach ryzyka, drgawki przy wyższych dawkach.
+UWAGA: klomipramina przy OCD NIE jest blokowana samym wiekiem (18, BLOK TCA).
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+DOKSEPINA
+DAWKA: depresja 75–150 mg/d; bezsenność dawki bardzo niskie, 3–6 mg na noc.
+WSKAZANIA: depresja; bezsenność w dawkach niskich.
+ONSET: efekt leczniczy w depresji 14–28 d. W bezsenności, w dawkach niskich, efekt tej samej nocy.
+T1_2: 8–24 h.
+METABOLIZM: CYP2D6.
+UZALEŻNIENIE: NIE.
+DN: sedacja, antycholinergiczne, przyrost masy, ortostatyka.
+INTERAKCJE: inhibitory CYP2D6, MAOI, leki antycholinergiczne.
+CIĄŻA: brak karty w bazie reprodukcyjnej.
+KP: brak karty w bazie reprodukcyjnej.
+MONITORING: sedacja rezydualna, funkcje poznawcze u seniorów.
+BLOK: wiek ≥65 + upadki -> BLOK (18, BLOK TCA).
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+IMIPRAMINA
+DAWKA: start 25 mg; zakres 50–150 mg/d.
+WSKAZANIA: depresja; lęk napadowy; moczenie nocne u dzieci (poza zakresem tego modułu).
+ONSET: efekt leczniczy 14–28 d (depresja, lęk napadowy). Sedacja od pierwszej dawki NIE jest efektem leczniczym.
+T1_2: BRAK DANYCH LOKALNYCH — lookup ChPL.
+METABOLIZM: CYP2D6 i CYP1A2; CZYNNY METABOLIT dezypramina.
+UZALEŻNIENIE: NIE.
+DN: antycholinergiczne, ortostatyka, sedacja, QT.
+INTERAKCJE: MAOI, inhibitory CYP2D6, leki wydłużające QT.
+CIĄŻA: brak karty w bazie reprodukcyjnej.
+KP: brak karty w bazie reprodukcyjnej.
+MONITORING: EKG przy czynnikach ryzyka, ciśnienie.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.

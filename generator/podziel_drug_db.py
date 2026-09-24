@@ -36,6 +36,7 @@ DATA = "2026-09-24"
 # wiec nie moze zalezec od zgadywania po koncowce nazwy.
 PLAN = [
     ("DRUG_DB_AD.txt", "PRZECIWDEPRESYJNE", [
+        "TCA / STARSZE",
         "SSRI", "SERTRALINA", "ESCYTALOPRAM", "FLUOKSETYNA", "PAROKSETYNA",
         "SNRI", "WENLAFAKSYNA", "DULOKSETYNA",
         "INNE PRZECIWDEPRESYJNE", "MIRTAZAPINA", "TRAZODON", "BUPROPION",
@@ -45,13 +46,17 @@ PLAN = [
         "RISPERIDON", "HALOPERIDOL", "KLOZAPINA", "TIAPRYD", "SULPIRYD",
         "FLUPENTYKSOL", "PALIPERYDON", "PROMETAZYNA"]),
     ("DRUG_DB_BZD.txt", "BENZODIAZEPINY, Z-LEKI I POZOSTALE NASENNE/ANKSJOLITYCZNE", [
+        "BENZODIAZEPINY / NASENNE",
         "ALPRAZOLAM", "LORAZEPAM", "KLONAZEPAM", "TEMAZEPAM", "BROMAZEPAM",
         "DIAZEPAM", "ESTAZOLAM", "NITRAZEPAM", "KLORAZEPAT", "CHLORDIAZEPOKSYD",
         "OKSAZEPAM", "ZOPIKLON", "ZOLPIDEM", "HYDROKSYZYNA", "BUSPIRON"]),
     ("DRUG_DB_STAB.txt", "STABILIZATORY I PRZECIWPADACZKOWE", [
-        "KARBAMAZEPINA", "LAMOTRYGINA", "PREGABALINA"]),
+        "STABILIZATORY / PRZECIWDRGAWKOWE",
+        "KARBAMAZEPINA", "KWAS WALPROINOWY / WALPROINIAN",
+        "LAMOTRYGINA", "PREGABALINA"]),
     ("DRUG_DB_ADHD_UZAL.txt", "ADHD I UZALEZNIENIA", [
-        "ATOMOKSETYNA", "METYLOFENIDAT", "METADON"]),
+        "ATOMOKSETYNA", "METYLOFENIDAT",
+        "UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE", "METADON"]),
 ]
 # PROMETAZYNA stoi w AP swiadomie: to fenotiazyna, ma wspolne z klasa DN
 # (antycholinergia, sedacja, QT) i 18 traktuje ja przez klase, nie przez
@@ -60,7 +65,18 @@ PLAN = [
 
 
 def naglowek_karty(l):
-    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _\-]{3,}$', l))
+    """ZNALEZISKO 2026-09-24, wieczor. Pierwsza wersja nie dopuszczala UKOSNIKA
+    ani KROPKI, wiec NIE WIDZIALA pieciu naglowkow oryginalu:
+      STABILIZATORY / PRZECIWDRGAWKOWE, TCA / STARSZE,
+      BENZODIAZEPINY / NASENNE, UZALEZNIENIA / LECZENIE SUBSTYTUCYJNE
+      oraz KARTE LEKU: KWAS WALPROINOWY / WALPROINIAN.
+    Skutek: karta walproinianu wjechala W SRODEK karty KARBAMAZEPINA, bo bez
+    naglowka nie byla osobnym blokiem. Tresc nie zginela - i wlasnie dlatego
+    test bajtowy przeszedl - ale karta przestala byc ADRESOWALNA: nie ma jej
+    w indeksie, wiec pytanie o walproinian dostaje 'nie znalazlem'.
+    Testy tego nie zlapaly, bo test powtarzal TEN SAM regex co generator.
+    Identyczny blad po obu stronach jest niewidzialny."""
+    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{3,}$', l))
 
 
 def czytaj():
@@ -90,7 +106,11 @@ def czytaj():
     return L, preambula, karty
 
 
-WIAZANIE = "TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE."
+# Linia wiazania musi WYGLADAC INACZEJ NIZ NAGLOWEK KARTY. Pierwsza wersja
+# byla pisana wersalikami w kolumnie zero i po rozszerzeniu regexa o kropke
+# sama zaczela byc wykrywana jako karta - w piecu plikach naraz. Format
+# "POLE: tresc" jest odsiewany przez oba detektory.
+WIAZANIE = "WIAZANIE: REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE"
 
 
 def naglowek_pliku(klasa, ile):
@@ -123,7 +143,7 @@ def main():
         if dubel:
             print("FAIL: karta przypisana dwa razy: %s" % dubel); return 1
         rozdane |= set(lista)
-        tresc = naglowek_pliku(klasa, sum(1 for x in lista if x not in
+        tresc = naglowek_pliku(klasa, sum(1 for x in lista if "/" not in x and x not in
                                           ("SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "PRZECIWPSYCHOTYCZNE")))
         for x in lista:
             tresc += karty[x]

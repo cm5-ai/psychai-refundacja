@@ -28,7 +28,38 @@ bledy = []
 
 
 def naglowek_karty(l):
-    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _\-]{3,}$', l))
+    """UWAGA. Ta funkcja jest KOPIA regexa z generatora i wlasnie dlatego nie
+    wykryla bledu z 2026-09-24: generator nie dopuszczal ukosnika, test tez
+    nie, wiec obaj zgodnie nie widzieli karty KWAS WALPROINOWY / WALPROINIAN.
+    Identyczny blad po obu stronach jest niewidzialny. Zostaje do dzielenia
+    blokow, ale T0 ponizej sprawdza ja METODA NIEZALEZNA."""
+    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{3,}$', l))
+
+
+def naglowki_niezaleznie(linie):
+    """T0. Inna metoda, celowo nie regex na ksztalt naglowka: naglowek to
+    linia BEZ MALYCH LITER, poprzedzona pusta linia, po ktorej w ciagu czterech
+    linii pojawia sie linia pola (NAZWA_POLA:). Opiera sie na STRUKTURZE karty,
+    nie na tym, jakie znaki wolno miec w nazwie - wiec nie powtorzy bledu
+    w doborze znakow."""
+    pole = re.compile(r'^[A-ZĄĆĘŁŃÓŚŹŻ_0-9/]+:')
+    out = []
+    for i, l in enumerate(linie):
+        t = l.strip()
+        # Warunek "poprzedzona pusta linia" BYL TU I BYL ZLY: SULPIRYD,
+        # KLORAZEPAT, CHLORDIAZEPOKSYD i OKSAZEPAM stoja bezposrednio po linii
+        # ZRODLO_KARTY poprzedniej karty, bez odstepu. Zdjety.
+        # Dwukropek odsiewa tytul pliku ("PSYCH-AI — DRUG DB: ...") - nazwa
+        # karty nigdy go nie ma.
+        # Naglowek stoi w kolumnie zero. Wciete wypunktowanie pisane wersalikami
+        # wewnatrz karty ("  - JEDNOCZESNE STOSOWANIE...") naglowkiem nie jest.
+        if l[:1].isspace() or t.startswith("-"):
+            continue
+        if not t or len(t) < 4 or ":" in t or any(c.islower() for c in t):
+            continue
+        if any(pole.match(x.strip()) for x in linie[i + 1:i + 5]):
+            out.append(l)
+    return out
 
 
 def karty_z(linie):
@@ -53,7 +84,20 @@ def main():
     zr = zrodlo_z_gita(rev)
     if zr is None:
         print("FAIL: nie moge wyjac wersji sprzed podzialu z gita (%s)" % rev); return 1
+    # T0 — DWIE METODY WYKRYWANIA NAGLOWKOW MUSZA SIE ZGADZAC NA ZRODLE.
+    # Bez tego testu regex generatora i regex testu moga miec ten sam blad
+    # i zgodnie przeoczyc karte. Tak wlasnie zginela KWAS WALPROINOWY.
     karty_zr, _ = karty_z(zr)
+    niez = naglowki_niezaleznie(zr)
+    tylko_regex = [x for x in karty_zr if x not in niez]
+    tylko_struktura = [x for x in niez if x not in karty_zr]
+    print("T0 DWIE METODY na zrodle: regex %d, struktura %d, rozbieznosc %d+%d -> %s"
+          % (len(karty_zr), len(niez), len(tylko_regex), len(tylko_struktura),
+             "OK" if not tylko_regex and not tylko_struktura else "FAIL"))
+    for x in tylko_regex:
+        bledy.append("T0 '%s': widzi tylko regex - struktura karty tego nie potwierdza" % x[:40])
+    for x in tylko_struktura:
+        bledy.append("T0 '%s': widzi tylko struktura - regex naglowka to przeoczyl" % x[:40])
     if len(karty_zr) < 40:
         print("FAIL: wersja %s ma tylko %d kart — to chyba juz plik po podziale, "
               "podaj rewizje sprzed podzialu jako argument" % (rev, len(karty_zr)))
@@ -112,7 +156,7 @@ def main():
     #   (a) plik klasowy NIE ma wlasnej kopii regul - zadnej do rozjechania,
     #   (b) plik klasowy JAWNIE wiaze sie z CORE, wiec odczyt samej karty bez
     #       regul jest odmowa, a nie czytaniem na wyczucie.
-    WIAZANIE = "REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE"
+    WIAZANIE = "WIAZANIE: REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE"
     SLADY_REGUL = ("REGUŁA POLA PRZECIWWSKAZANIA", "REGUŁA POLA ZRODLO_KARTY",
                    "REGUŁA ROZBIEZNOSC_ZRODLOWA", "POLA DODATKOWE")
     for f in pliki:

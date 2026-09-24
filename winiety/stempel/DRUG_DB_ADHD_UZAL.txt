@@ -1,0 +1,60 @@
+PSYCH-AI — DRUG DB: ADHD I UZALEZNIENIA
+WYDANIE: rev33 | 2bbb4fa74d490526 | PLIK: DRUG_DB_ADHD_UZAL.txt
+VERSION: v3.6
+DATE: 2026-09-24
+TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
+to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
+i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
+Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
+CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
+Kart w tym pliku: 3.
+
+ATOMOKSETYNA
+DAWKA: dorośli zwykle 40 mg/d start, po min. 7 dniach 80 mg/d; MAX 100 mg/d.
+WSKAZANIA: ADHD.
+ONSET: efekt 14-28 d; pełny 42-56 d.
+T1_2: ok. 5 h.
+METABOLIZM: CYP2D6.
+DN: wzrost HR/BP, zmniejszenie apetytu, nudności, dysfunkcje seksualne; rzadko hepatotoksyczność.
+INTERAKCJE: silne CYP2D6 inhibitory zwiększają ekspozycję; MAOI przeciwwskazane; leki zwiększające BP/HR.
+CIĄŻA: ograniczone dane — zwykle rozważyć odstawienie, jeśli klinicznie możliwe.
+KP: ograniczone dane — ostrożność.
+MONITORING: BP/HR, masa, wątroba przy objawach.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+METYLOFENIDAT
+DAWKA: zależna od postaci IR/MR; titracja od niskich dawek; maksymalna dawka zależy od produktu.
+WSKAZANIA: ADHD.
+ONSET: doraźny 0,5-1 h; efekt kliniczny 7 d.
+T1_2: 2,5-3,5 h.
+METABOLIZM: bez hamowania CYP.
+UZALEŻNIENIE: TAK — substancja kontrolowana, potencjał nadużywania i przekierowania.
+DN: spadek apetytu/masy, bezsenność, wzrost HR/BP, lęk, tiki; misuse.
+INTERAKCJE: MAOI przeciwwskazane; sympatykomimetyki; leki wpływające na BP.
+CIĄŻA: ograniczone dane; tylko gdy korzyść przewyższa ryzyko.
+KP: małe ilości w mleku; decyzja indywidualna i obserwacja dziecka.
+MONITORING: BP/HR, masa/BMI, sleep, misuse.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+METADON
+DAWKA: start 10–30 mg. Pacjent bez niedawnej ekspozycji na opioidy — pierwsza dawka nie więcej niż 10–20 mg. Wysoka tolerancja opioidów — 25–40 mg. Obserwacja 3–4 h po pierwszej dawce; objawy przedawkowania → kontrola co 15 min. Zwiększanie maksymalnie o 10 mg jednorazowo i nie więcej niż 20 mg/tydz. Podtrzymująca zwykle 60–120 mg/d. Podawanie zwykle RAZ NA DOBĘ — częstsze niesie ryzyko kumulacji i przedawkowania. MAX 150 mg/d, stosowana rzadko — ograniczenie wynika ze zwiększonej częstości wydłużenia QT, torsade de pointes i zatrzymania krążenia przy wyższych dawkach.
+PRZECIWWSKAZANIA [ChPL 4.3, 3 produkty (Methadone hydrochloride INN-FARM, Methadone Hydrochloride Molteni, Misyo), pobrano 2026-09-22]
+  NIEJEDNOZNACZNOSC_PRODUKTOWA — nie ustalono ANI JEDNEJ pozycji wspolnej
+  wszystkim ChPL. Pozycje porownywane po kluczu kanonicznym; rozne brzmienie
+  = osobna pozycja, bez dopasowania przyblizonego. USTAL PRODUKT.
+  NIE czytaj zadnej z list ponizej jako listy przeciwwskazan substancji.
+  ⚠ NIEZALEZNIE OD PRODUKTU: BRAK UZALEZNIENIA OD OPIOIDOW = BLOK calej
+  substancji [18, BLOK_PRZECIWWSKAZANIE]. ChPL Molteni tej pozycji nie
+  wymienia — to nie znaczy, ze jej nie ma. Przy dawkach z pola DAWKA osoba
+  bez tolerancji opioidowej moze umrzec po pierwszej dawce.
+  Wydluzony QT: ostroznosc i EKG, NIE jest automatycznym BLOKIEM.
+    [Methadone hydrochloride INN-FARM] tylko tu: Nadwrażliwość na substancję czynną; Stosowanie podczas ostrego napadu astmy oskrzelowej; Depresja oddechowa, szczególnie w obecności sinicy i nadmiernej ilości wydzieliny oskrzelowej; Ostra postać alkoholizmu; Uraz głowy i zwiększone ciśnienie śródczaszkowe; Jednoczesne podawanie z inhibitorami monoaminooksydazy (MAO) lub podawanie metadonu w czasie krótszym, niż 2 tygodnie od odstawienia inhibitorów monoaminooksydazy; Brak uzależnienia od opioidów; Osoby z wydłużonym odstępem QT, w tym z wrodzonym zespołem wydłużonego odstępu QT; Tak jak wszystkie opioidowe leki przeciwbólowe, ten produkt nie powinien być stosowany u pacjentów z ciężką niewydolnością wątroby, ponieważ może to prowadzić do wystąpienia encefalopatii wrotno-układowej u pacjentów z ciężkim uszkodzeniem wątroby; Wrzodziejące zapalenie jelita grubego, ponieważ podanie produktu może wywołać toksyczne rozszerzenie lub skurcz jelita grubego; Skurcz dróg żółciowych i moczowych; Stosowanie w czasie porodu nie jest zalecane, ponieważ przedłużone działanie metadonu zwiększa ryzyko depresji oddechowej u noworodków
+    [Methadone Hydrochloride Molteni] tylko tu: Nadwrażliwość na metadonu chlorowodorek; Organiczne choroby serca; Ciężkie zaburzenia czynności wątroby i nerek; Niewyrównana cukrzyca; Porfiria; Niedociśnienie tętnicze; Uszkodzenie OUN i wzrost ciśnienia wewnątrzczaszkowego; Nasilone napady astmy oskrzelowej; Niewydolność oddechowa i przewlekła obturacyjna choroba płuc; Serce płucne; Oligemia; Metadon nie jest wskazany do znieczulenia w położnictwie; Ze względu na długi okres półtrwania może powodować hamowanie czynności ośrodka oddechowego u noworodka; Nie zaleca się stosowania metadonu jako środka przeciwbólowego u dzieci, ponieważ dotychczasowe badania kliniczne nie są wystarczające do ustalenia właściwego sposobu dawkowania
+    [Misyo] tylko tu: Nadwrażliwość na substancję czynną, benzoesany; Stosowanie podczas ostrego napadu astmy oskrzelowej; Ostra postać alkoholizmu; Jednoczesne podawanie z inhibitorami monoaminooksydazy (MAO) lub podawanie metadonu w czasie krótszym, niż 2 tygodnie od odstawienia inhibitorów monoaminooksydazy; Brak uzależnienia od opioidów; Osoby z wydłużonym odstępem QT, w tym z wrodzonym zespołem wydłużonego odstępu QT; Tak jak wszystkie opioidowe leki przeciwbólowe, ten produkt nie powinien być stosowany u pacjentów z ciężką niewydolnością wątroby, ponieważ może to prowadzić do wystąpienia encefalopatii wrotno- układowej u pacjentów z ciężkim uszkodzeniem wątroby. Stosowanie w czasie porodu nie jest zalecane, ponieważ przedłużone działanie metadonu zwiększa ryzyko depresji oddechowej u noworodków
+T1_2: dawka pojedyncza 12–18 h (średnio 15); przy regularnym stosowaniu 13–47 h (średnio 25) — stąd kumulacja przez pierwsze dni; nie oceniać dawki jako „za słabej" po pierwszej dobie.
+METABOLIZM: co najmniej osiem metabolitów; ok. 30% dawki z kałem; wydalanie rośnie przy zakwaszeniu moczu.
+MONITORING: ryzyko QT rośnie z dawką, ale próg 100 mg/d NIE oznacza, że niżej jest bezpiecznie. Czynniki ryzyka: zaburzenia przewodnictwa w wywiadzie, zaawansowana choroba serca lub niedokrwienna, choroba wątroby, nagły zgon w wywiadzie rodzinnym, hipokaliemia, hipomagnezemia, leki wydłużające QT, leki powodujące zaburzenia elektrolitowe, inhibitory CYP3A4. Przegląd jednocześnie stosowanych opioidów i leków psychoaktywnych, w tym benzodiazepin.
+ODSTAWIANIE: nagłe przerwanie daje objawy odstawienne podobne do morfinowych — słabsze, ale dłuższe. Odstawiać stopniowo.
+WYMOGI_PROGRAMOWE: leczenie substytucyjne przepisywane przez lekarza doświadczonego w terapii uzależnień od opioidów, najlepiej w ośrodku specjalistycznym. Dawka podawana wyłącznie przez lekarza lub osobę wyznaczoną. Obowiązują krajowe wytyczne, które mogą się różnić od dawkowania w ChPL. Wyłącznie doustnie; nie podawać we wstrzyknięciach.
+ZRODLO_KARTY: ChPL Methadone hydrochloride INN-FARM 1 mg/ml, pobrano 2026-09-22.

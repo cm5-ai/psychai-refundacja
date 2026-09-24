@@ -1,0 +1,83 @@
+PSYCH-AI — DRUG DB: STABILIZATORY I PRZECIWPADACZKOWE
+WYDANIE: rev33 | 2bbb4fa74d490526 | PLIK: DRUG_DB_STAB.txt
+VERSION: v3.6
+DATE: 2026-09-24
+TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE.
+NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty
+to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY
+i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.
+Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.
+CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.
+Kart w tym pliku: 3.
+
+KARBAMAZEPINA
+DAWKA: profilaktyka ChAD u pacjentów bez odpowiedzi na lit — start 400 mg/d w dawkach podzielonych, zwykle 400–600 mg/d, MAX 1600 mg/d. Padaczka: start 100–200 mg 1–2×/d, zwykle 800–1200 mg/d; część dorosłych 1600–2000 mg/d. Dzieci 10–20 mg/kg/d w dawkach podzielonych.
+STEZENIE_TERAPEUTYCZNE: w padaczce 4–12 µg/ml (17–50 µmol/l).
+WSKAZANIA: padaczka — napady uogólnione toniczno-kloniczne i częściowe (nieskuteczna w napadach nieświadomości i mioklonicznych; w atypowych napadach nieświadomości możliwe zaostrzenie); neuralgia nerwu trójdzielnego; profilaktyka ChAD u pacjentów bez odpowiedzi na lit.
+PRZECIWWSKAZANIA [ChPL 4.3, 3 produkty (Amizepin, Finlepsin, Finlepsin 200 retard), pobrano 2026-09-22]
+  NIEJEDNOZNACZNOSC_PRODUKTOWA — nie ustalono ANI JEDNEJ pozycji wspolnej
+  wszystkim ChPL. Pozycje porownywane po kluczu kanonicznym; rozne brzmienie
+  = osobna pozycja, bez dopasowania przyblizonego. USTAL PRODUKT.
+  NIE czytaj zadnej z list ponizej jako listy przeciwwskazan substancji.
+    [Amizepin] tylko tu: Nadwrażliwość na substancję czynną, leki o podobnej strukturze (np. trójpierścieniowe leki przeciwdepresyjne); Leczenie inhibitorami MAO (patrz punkt 4.5); Zaburzenia czynności szpiku kostnego w wywiadzie; Blok przedsionkowo-komorowy; Porfiria wątrobowa w wywiadzie (np. porfiria ostra przerywana, porfiria mieszana, porfiria skórna późna)
+    [Finlepsin] tylko tu: nadwrażliwość na karbamazepinę lub inne leki o podobnej budowie chemicznej (np. trójpierścieniowe leki przeciwdepresyjne); u pacjentów z zaburzeniem czynności szpiku kostnego, supresją szpiku kostnego w wywiadzie; u pacjentów z blokiem przedsionkowo-komorowym; u pacjentów z ostrą porfirią przerywaną; jednocześnie z inhibitorami MAO, ani przed upływem 14 dni od zakończenia ich podawania; jednocześnie z worykonazolem, gdyż zaburza działanie karbamazepiny
+    [Finlepsin 200 retard] tylko tu: Nadwrażliwość na karbamazepinę lub leki o podobnej budowie chemicznej (np. trójpierścieniowe leki przeciwdepresyjne); Stosowanie u pacjentów z blokiem przedsionkowo-komorowym; Stosowanie u pacjentów z zahamowaniem czynności szpiku kostnego w wywiadzie; Stosowanie u pacjentów z porfirią wątrobową w wywiadzie (np. porfiria ostra przerywana, porfiria mieszana, porfiria skórna późna); Stosowanie w połączeniu z inhibitorami monoaminooksydazy (MAO) (patrz punkt 4.5)
+T1_2: dawka jednorazowa ok. 36 h; dawkowanie wielokrotne średnio 16–24 h (autoindukcja); z induktorami (fenytoina, fenobarbital) 9–10 h. Epoksyd ok. 6 h.
+METABOLIZM: silny induktor enzymatyczny, autoindukcja; metabolit 10,11-epoksyd; N-glukuronid przez UGT2B7.
+MONITORING: morfologia z liczbą płytek i retikulocytów oraz żelazo — wyjściowo i okresowo. Mocz i BUN przed leczeniem i okresowo.
+  SÓD: hiponatremia może wynikać ze stosowania karbamazepiny. U pacjentów z chorobą nerek, z niskim sodem albo leczonych jednocześnie lekami obniżającymi sód (diuretyki, leki zaburzające wydzielanie ADH) — oznaczyć sód w surowicy PRZED startem, potem kontrolować. [pkt 4.8] Pacjent i bliscy poinstruowani: gorączka, ból gardła, wysypka, owrzodzenia jamy ustnej, łatwe siniaczenie, wybroczyny, plamica → natychmiastowy kontakt.
+OSTRZEŻENIE_GENETYCZNE: HLA-B*1502 — silny związek z SJS u osób pochodzenia chińskiego Han i tajskiego; allel występuje u ok. 10% TYCH POPULACJI (to częstość allelu, nie częstość SJS). U osób pochodzenia europejskiego, afrykańskiego, hiszpańskiego, japońskiego i koreańskiego <1%, więc nieistotny. HLA-A*3101 — u osób pochodzenia EUROPEJSKIEGO i u Japończyków związek ze zwiększonym ryzykiem SJS, TEN, DRESS, AGEP i wysypki grudkowo-plamistej. W polskim gabinecie istotny jest A*3101, nie B*1502.
+INTERAKCJE — ANTYKONCEPCJA: indukcja enzymatyczna może znieść skuteczność antykoncepcji hormonalnej. Kobieta w wieku rozrodczym — skuteczna metoda w trakcie leczenia i przez 2 tygodnie po jego zakończeniu; rozważyć test ciążowy przed startem.
+ZRODLO_KARTY: ChPL Amizepin 200 mg, pobrano 2026-09-22.
+
+KWAS WALPROINOWY / WALPROINIAN
+DAWKA: zależna od wskazania i preparatu; często 500–1000 mg/d start/titracja, następnie wg odpowiedzi/stężenia; zakresy szersze w padaczce/manii.
+WSKAZANIA: mania/bipolar w odpowiednich produktach; padaczka.
+ONSET: efekt 7-14 d; pełny 21-28 d.
+T1_2: 9-16 h.
+METABOLIZM: wątroba; ok. 25% CYP2C9/2C19; inhibitor CYP2C9.
+DN: przyrost masy, drżenie, sedacja, trombocytopenia, hepatotoksyczność, hiperamonemia, pancreatitis, PCOS/teratogenność.
+INTERAKCJE: zwiększa stężenie lamotryginy i ryzyko SJS/TEN; aspiryna i inne białkowo związane; enzymatyczne interakcje z AED.
+CIĄŻA: silnie teratogenny i neurotoksyczny dla płodu; w psychiatrii zasadniczo unikać/ograniczenia programu zapobiegania ciąży zgodnie z aktualnymi regulacjami.
+KP: przenika w niewielkim stopniu; decyzja indywidualna, monitorowanie dziecka.
+MONITORING: morfologia/płytki, ALT/AST, masa; amoniak przy objawach.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+LAMOTRYGINA
+DAWKA: titracja powolna; bez walproinianu często 25 mg/d 2 tyg., 50 mg/d 2 tyg., potem wzrost; typowy cel bipolar 200 mg/d. Induktory enzymów wymagają innych schematów.
+  Z WALPROINIANEM — LICZBY Z ChPL, nie „o połowę mniej": 12,5 mg/d przez pierwsze 2 tyg.
+  (podawane jako 25 mg CO DRUGI DZIEŃ), następnie 25 mg/d, dawka podtrzymująca
+  100–200 mg/d. [ChPL 4.2 Epitrigine, 2026-09-22]
+  ⚠ RESTART PO PRZERWIE — tego karta wcześniej nie miała wcale:
+  jeżeli od odstawienia minęło więcej niż 5 okresów półtrwania, dawkę trzeba
+  zwiększać OD NOWA wg schematu titracji. Im dłuższa przerwa, tym staranniej.
+  Powrót do poprzedniej dawki po przerwie = ryzyko ciężkiej wysypki. [ChPL 4.2]
+  NIE wprowadzać ponownie u pacjenta, który odstawił z powodu wysypki po lamotryginie,
+  chyba że korzyść wyraźnie przeważa nad ryzykiem. [ChPL 4.2]
+WSKAZANIA: prevention bipolar depression/maintenance; epilepsy.
+ONSET: efekt 42-56 d; pełny po tytracji.
+T1_2: ok. 33 h; z walproinianem ok. 59 h; z induktorami ok. 14 h.
+METABOLIZM: glukuronizacja, bez CYP; metabolit nieczynny.
+DN: rash; SJS/TEN/DRESS — ryzyko przy zbyt szybkiej titracji i z walproinianem; zawroty, diplopia, headache.
+INTERAKCJE: walproinian zwiększa lamotryginę; estrogenowe antykoncepcyjne obniżają stężenie; induktory enzymów obniżają.
+CIĄŻA: jedna z częściej rozważanych opcji stabilizujących przy konieczności leczenia; klirens rośnie w ciąży — możliwa potrzeba monitorowania dawki/stężenia.
+KP: przenika do mleka; możliwe karmienie w wybranych sytuacjach z obserwacją.
+MONITORING: rash, adherence; rozważyć poziom przed/ w ciąży.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+PREGABALINA
+DAWKA_NERKI: redukcja wg klirensu kreatyniny — wartości BRAK DANYCH LOKALNYCH, lookup ChPL przed podaniem mg przy eGFR <60.
+DAWKA: 150 mg/d w 2–3 dawkach start; 150–600 mg/d; MAX 600 mg/d; redukcja w niewydolności nerek.
+WSKAZANIA: GAD, neuropathic pain, adjunct epilepsy.
+ONSET: doraźny 2-6 h; lęk 7 d.
+T1_2: 5-7 h.
+METABOLIZM: bez metabolizmu; wydalanie nerkowe.
+UZALEŻNIENIE: TAK — udokumentowany potencjał nadużywania.
+DN: zawroty, senność, obrzęki, przyrost masy, zaburzenia widzenia; potencjał nadużywania/uzależnienia; depresja oddechowa z opioidami/depresantami OUN.
+INTERAKCJE: głównie farmakodynamiczne z opioidami, benzodiazepinami, alkoholem; mało CYP.
+CIĄŻA: stosować tylko gdy wyraźnie konieczna po ocenie ryzyka; sygnał możliwego niewielkiego wzrostu wad wrodzonych w danych obserwacyjnych.
+KP: przenika do mleka; zwykle ostrożność/indywidualna decyzja.
+MONITORING: eGFR, sedacja, obrzęki, misuse.
+PRZECIWWSKAZANIA: BRAK DANYCH LOKALNYCH — nie interpretować jako brak przeciwwskazań; lookup ChPL 4.3 przed decyzją.
+
+TCA / STARSZE
