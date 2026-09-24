@@ -88,6 +88,27 @@ def main():
     OPCJONALNE = {"komentarz", "rola"}
     TYPY_WARTOSCI = {"CYTAT", "WYLICZONA"}
 
+    # LEGENDA JEST DEKLARACJA, NIE OZDOBA [2026-09-25, petla 2 harnessu].
+    # Plik opisuje krotke dwa razy: slownikiem JAK_CZYTAC_KROTKE dla
+    # czytajacego i zbiorem WYMAGANE dla kodu. Nic nie pilnowalo, zeby oba
+    # mowily to samo — harness przemianowal klucz w legendzie i przeszlo,
+    # bo kod legendy nie czyta. Dwa opisy jednej rzeczy rozjezdzaja sie
+    # zawsze; pilnowany jest tylko ten, ktory oblewa.
+    legenda = set(d.get("JAK_CZYTAC_KROTKE") or {})
+    if not legenda:
+        print("FAIL: brak JAK_CZYTAC_KROTKE. Zestaw bez legendy czyta sie"
+              " tylko przez kod, a kod nie tlumaczy, co znaczy slot.")
+        return 1
+    if legenda != WYMAGANE:
+        print("FAIL: legenda rozjechana ze schematem.")
+        print("   w legendzie, nie w schemacie: %s" % sorted(legenda - WYMAGANE))
+        print("   w schemacie, nie w legendzie: %s" % sorted(WYMAGANE - legenda))
+        print("   Czytajacy i kod opisuja inna krotke.")
+        return 1
+
+    ZAKAZANE_WYMAGANE = {"wartosc"}
+    ZAKAZANE_OPCJONALNE = {"chyba_ze", "powod"}
+
     bledy, uwagi = [], []
     for v in w:
         ident = v.get("id", "<BEZ ID>")
@@ -118,6 +139,20 @@ def main():
             if not jest(m):
                 bledy.append("V3 %s: 'wymaga_z_paczki' -> '%s' NIE WYSTEPUJE w paczce" % (ident, m))
         for z in k.get("zakazane_wartosci") or []:
+            # Zagniezdzony obiekt tez ma schemat. Bez tego literowka w kluczu
+            # dawala pusty napis jako "zakazana wartosc" — zakaz, ktory nigdy
+            # nie pasuje, czyli kontrola wylaczona po cichu.
+            if isinstance(z, dict):
+                brak_z = ZAKAZANE_WYMAGANE - set(z)
+                obce_z = set(z) - ZAKAZANE_WYMAGANE - ZAKAZANE_OPCJONALNE
+                if brak_z or obce_z:
+                    bledy.append("V0 %s: zakazana wartosc ma zly schemat "
+                                 "(brak %s, obce %s) — zakaz bez wartosci nigdy "
+                                 "nie zapali" % (ident, sorted(brak_z), sorted(obce_z)))
+                    continue
+                if not str(z.get("wartosc") or "").strip():
+                    bledy.append("V0 %s: zakazana wartosc pusta" % ident)
+                    continue
             wart = z.get("wartosc", "") if isinstance(z, dict) else z
             wyj = (z.get("chyba_ze") or []) if isinstance(z, dict) else []
             uwagi.append((ident, wart, jest(wart), len(wyj)))
