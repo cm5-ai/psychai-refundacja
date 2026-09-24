@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AA05"
@@ -18,6 +22,7 @@
    "moc": "50 mg",
    "nazwa": "Apropol",
    "podmiot": "Polfarmex S.A.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia lękowe i uogólnione zaburzenia występujące pod postacią somatyczną.",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie musi zawsze przebiegać pod nadzorem lekarza. Dawkowanie Dorośli Zwykle u dorosłych dawka wynosi 50 mg opipramolu dichlorowodorku rano i w południe oraz 100 mg opipramolu dichlorowodorku wieczorem. W zależności od skuteczności i tolerancji leku przez pacjenta, dawkę można zmniejszyć do 50 mg lub 100 mg opipramolu dichlorowodorku i podawać raz na dobę, na noc lub dawkę można zwiększyć do 100 mg opipramolu dichlorowodorku i podawać do trzech razy na dobę. Dzieci i młodzież APROPOL nie jest zalecany do stosowania u dzieci i młodzieży w wieku do 18 lat z powodu braku danych dotyczących bezpieczeństwa stosowania i skuteczności (patrz punkt 4.4). Sposób podawania Tabletki APROPOL należy przyjmować podczas posiłku lub bezpośrednio po posiłkach, popijając wodą. Ponieważ działanie opipramolu nie pojawia się natychmiast, a zmiany nastroju występują stopniowo, produkt leczniczy należy stosować systematycznie przez co najmniej 2 tygodnie. Zalecany średni czas leczenia wynosi od 1 do 2 miesięcy.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-42593-2023-10-26-14414_N-2023-11-10.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AA05"
@@ -51,6 +60,7 @@
    "moc": "50 mg",
    "nazwa": "Pramolan",
    "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia lękowe uogólnione i zaburzenia występujące pod postacią somatyczną.",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie musi zawsze przebiegać pod nadzorem lekarza. Dawkowanie Dorośli Zwykle u dorosłych dawka wynosi 50 mg opipramolu dichlorowodorku rano i w południe oraz 100 mg opipramolu dichlorowodorku wieczorem. W zależności od skuteczności i tolerancji leku przez pacjenta, dawkę można zmniejszyć do 50 mg lub 100 mg opipramolu dichlorowodorku i podawać raz na dobę, na noc lub dawkę można zwiększyć do 100 mg opipramolu dichlorowodorku i podawać do trzech razy na dobę. Dzieci w wieku powyżej 6 lat Dzieciom w wieku powyżej 6 lat podaje się 3 mg opipramolu dichlorowodorku na kilogram masy ciała. Maksymalnie 100 mg na dobę. Ponieważ doświadczenie w stosowaniu opipramolu u dzieci jest niewielkie, to zalecenie dotyczące dawkowania należy traktować tylko jako wskazówkę. Sposób podawania Tabletki powlekane należy przyjmować podczas posiłku lub bezpośrednio po posiłkach, popijając wodą. Ponieważ działanie opipramolu nie pojawia się natychmiast, a zmiany nastroju występują stopniowo, produkt leczniczy należy stosować systematycznie przez co najmniej 2 tygodnie. Zalecany średni czas leczenia wynosi od 1 do 2 miesięcy.",
@@ -69,6 +79,10 @@
    "zrodlo_pliku": "Charakterystyka-5470-20190605000000-6933_A-20190626001643.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AA05"
@@ -84,6 +98,7 @@
    "moc": "50 mg",
    "nazwa": "Sympramol",
    "podmiot": "Farmak International Sp. z o.o.",
+   "postac": "Tabletki drażowane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia lękowe uogólnione i zaburzenia występujące pod postacią somatyczną.",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie musi zawsze przebiegać pod nadzorem lekarza. Zwykle u dorosłych dawka wynosi 50 mg dichlorowodorku opipramolu rano i w południe oraz 100 mg dichlorowodorku opipramolu wieczorem. W zależności od skuteczności i tolerancji leku przez pacjenta, dawkę można zmniejszyć do 50-100 mg dichlorowodorku opipramolu i podawać raz na dobę, najlepiej na noc, lub dawkę można zwiększyć do 100 mg dichlorowodorku opipramolu i podawać do trzech razy na dobę. Dzieciom powyżej 6 lat podaje się 3 mg dichlorowodorku opipramolu na kilogram masy ciała. Ponieważ doświadczenie w stosowaniu opipramolu u dzieci jest niewielkie, to zalecenie dotyczące dawkowania należy traktować tylko jako wskazówkę. Sympramol 50 mg tabletki drażowane należy przyjmować z płynem (wodą, sokiem owocowym). Efekt działania opipramolu nie pojawia się natychmiast, a zmiany nastroju postępują stopniowo, dlatego produkt leczniczy powinien być stosowany regularnie przez co najmniej 2 tygodnie. Zalecany średni czas leczenia wynosi od 1 do 2 miesięcy.",

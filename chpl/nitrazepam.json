@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CD02"
@@ -18,6 +22,7 @@
    "moc": "5 mg",
    "nazwa": "Nitrazepam GSK",
    "podmiot": "GSK PSC Poland Sp. z o.o.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Krótkotrwałe leczenie ciężkiej bezsenności charakteryzującej się trudnością w zasypianiu i częstymi nocnymi przebudzeniami, pogarszającej w znacznym stopniu jakość życia pacjenta oraz narażającej pacjenta na ciężki stres, gdy możliwa jest sedacja w ciągu dnia.",
     "4.2": "4.2. Dawkowanie i sposób podawania Leczenie należy rozpoczynać od najmniejszej zalecanej dawki. Czas trwania leczenia nie powinien być dłuższy niż 4 tygodnie. Tabletki do podawania doustnego. Dawkowanie: Dorośli 5 do 10 mg przed snem. Osoby powyżej 65 lat Początkowo 2,5 mg przed snem, w razie konieczności dawkę można zwiększyć do 5 mg przed snem. (patrz punkt 4.4). Dzieci Stosowanie leku u dzieci jest przeciwwskazane (patrz punkt 4.3). Zaburzenia czynności wątroby lub nerek Nie należy przekraczać połowy dawki stosowanej u pacjentów z prawidłową funkcją wątroby lub nerek (patrz punkty 4.3 i 4.4).",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-4753-2025-03-28-20562_N-2025-04-11.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CD02"
@@ -51,6 +60,7 @@
    "moc": "5 mg",
    "nazwa": "Nomefren",
    "podmiot": "Accord Healthcare Polska Sp. z o.o.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Krótkotrwałe leczenie bezsenności, kiedy jest ona ciężka, upośledza funkcjonowanie lub naraża pacjenta na nieakceptowalne cierpienie, a możliwa jest sedacja w ciągu dnia. Należy poszukać przyczyny bezsenności przed podjęciem decyzji o stosowaniu benzodiazepin w leczeniu objawowym. Benzodiazepiny nie są zalecane w leczeniu podstawowym zaburzeń psychotycznych.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie: Dorośli 5 mg przed spoczynkiem. Dawkę można w razie potrzeby zwiększyć do 10 mg. Osoby w podeszłym wieku Pacjenci w podeszłym wieku lub osoby osłabione: Osoby w podeszłym wieku lub pacjenci z zaburzeniami czynności nerek i (lub) wątroby są szczególnie podatni na działania niepożądane produktu leczniczego Nomefren. Dawka nie powinna przekraczać połowy zazwyczaj zalecanej dawki. Jeśli obecne są organiczne zmiany w mózgu, u takich pacjentów dawka produktu Nomefren nie powinna przekraczać 5 mg. Inne grupy pacjentów U pacjentów z przewlekłą niewydolnością oddechową oraz u pacjentów z przewlekłą chorobą nerek lub wątroby, może być konieczne zmniejszenie dawki. Dzieci i młodzież Nomefren jest przeciwwskazany do stosowania u dzieci. Dawkowanie należy dostosować indywidualnie. Jeśli to możliwe, leczenie powinno być prowadzone w sposób przerywany. Leczenie powinno być jak najkrótsze i należy je rozpocząć od najmniejszej zalecanej dawki. Nie należy przekraczać dawki maksymalnej. Czas trwania leczenia zazwyczaj wynosi od kilku dni do dwóch tygodni, maksymalnie do czterech tygodni, włączając okres zmniejszania dawki. Pacjenci stosujący benzodiazepiny przez dłuższy czas mogą wymagać dłuższego okresu zmniejszania dawki. Może być wskazana pomoc specjalisty. Niewiele wiadomo na temat skuteczności i bezpieczeństwa długoterminowego stosowania benzodiazepin. W niektórych przypadkach może być konieczne wydłużenie czasu trwania leczenia poza maksymalny okres, jednak nie powinno to odbywać się bez ponownej oceny stanu pacjenta. Długoterminowe, przewlekłe stosowanie nie jest zalecane. Pomocne może być poinformowanie pacjenta na początku leczenia, że będzie ono miało ograniczony czas trwania i dokładnie wyjaśnić sposób zmniejszania dawki. Ponadto ważne, aby pacjent był świadomy możliwości wystąpienia zjawiska odbicia (patrz: Działania niepożądane), co zminimalizuje niepokój w razie wystąpienia takich objawów po odstawieniu produktu leczniczego. Leczenia produktem Nomefren nie należy nagle przerywać, a dawka powinna być zmniejszana stopniowo. Produkt należy przyjmować bezpośrednio przed udaniem się na spoczynek. Ponadto, w przypadku długodziałających benzodiazepin, na początku leczenia pacjent powinien być regularnie badany w celu zmniejszenia, w razie potrzeby, dawki lub częstości podawania, aby zapobiec przedawkowaniu na skutek akumulacji leku. Sposób podawania: Produkt leczniczy Nomefren jest przeznaczony do podawania doustnego.",

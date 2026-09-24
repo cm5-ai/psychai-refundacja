@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AA12"
@@ -18,6 +22,7 @@
    "moc": "10 mg",
    "nazwa": "Doxepin Teva",
    "podmiot": "Teva Pharmaceuticals Polska Sp. z o.o.",
+   "postac": "Kapsułki twarde",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania - stany depresyjne z lękiem i niepokojem w przebiegu psychoz, w tym depresja inwolucyjna i faza depresyjna w chorobie afektywnej dwubiegunowej; - depresje i stany lękowe w przebiegu zaburzeń somatycznych oraz chorób organicznych; - zespoły depresyjno-lękowe w przebiegu choroby alkoholowej; - zaburzenia nerwicowe z objawami depresji lub lęku.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie zależy od nasilenia choroby, stanu klinicznego pacjenta i reakcji pacjenta na lek. Dawka doksepiny wynosi od 30 mg do 300 mg na dobę. Dawki do 100 mg na dobę mogą być podawane jednorazowo, albo w dawkach podzielonych. Dawki większe niż 100 mg na dobę należy podawać w 3 dawkach podzielonych. Maksymalna dawka jednorazowa wynosi 100 mg i podawana jest zwykle przed snem. W przypadkach o umiarkowanym i ciężkim nasileniu leczenie rozpoczyna się zwykle od dawki 75 mg na dobę. Reakcja większości pacjentów na tę dawkę jest zadowalająca. Jeżeli reakcja nie jest właściwa, dawkę należy dostosować indywidualnie; w cięższych przypadkach można zwiększyć ją maksymalnie do dawki 300 mg na dobę, podawanej w dawkach podzielonych. U pacjentów cierpiących na bezsenność zaleca się tak podzielić całkowitą dawkę dobową, aby jej największa część podawana była wieczorem. Podobnie w przypadkach, gdy senność odbierana jest jako działanie niepożądane, można stosować ten schemat podania albo zmniejszyć dawkę. Po uzyskaniu oczekiwanego efektu klinicznego dawkowanie należy odpowiednio zmniejszyć. Optymalne działanie przeciwdepresyjne może nie być widoczne przez 2 do 3 tygodni stosowania leku. Stosowanie u dzieci Nie zaleca się stosowania doksepiny u dzieci w wieku poniżej 12 lat, ponieważ nie ustalono bezpieczeństwa stosowania w tej grupie wiekowej. Stosowanie u pacjentów w podeszłym wieku Na ogół zaleca się stosowanie mniejszych dawek. W przypadkach, gdy objawy są łagodne, zaleca się rozpoczynanie leczenia od dawki 10 mg do 50 mg na dobę. U znacznej części pacjentów zadowalającą reakcję kliniczną uzyskiwano po zastosowaniu doksepiny w dawce od 30 mg do 50 mg na dobę. Dawkę należy dostosować w zależności od indywidualnej reakcji pacjenta. Stosowanie u pacjentów z zaburzeniami czynności wątroby W przypadkach niewydolności wątroby może być konieczne zmniejszenie dawki. Stosowanie u pacjentów z zaburzeniami czynności nerek Patrz punkt 4.4.",

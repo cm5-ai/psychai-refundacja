@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CF01"
@@ -18,6 +22,7 @@
    "moc": "7,5 mg",
    "nazwa": "ApoDream",
    "podmiot": "Aurovitas Pharma Polska Sp. z o.o.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Krótkotrwałe leczenie bezsenności u osób dorosłych, w tym trudności w zasypianiu, nocne i wczesne budzenie się, przejściowa, sytuacyjna lub chroniczna bezsenność i bezsenność w następstwie zaburzeń psychicznych, w sytuacjach, w których bezsenność osłabia lub powoduje u pacjenta poważne cierpienie. Długotrwałe ciągłe używanie nie jest zalecane. Podczas leczenia powinna być stosowana najmniejsza skuteczna dawka.",
     "4.2": "4.2 Dawkowanie i sposób podawania Należy zastosować najniższą skuteczną dawkę. Należy przyjąć jedną dawkę zopiklonu i nie stosować go ponownie podczas tej samej nocy. Dawkowanie Dorośli Zalecana dawka dla dorosłych wynosi 7,5 mg (dwie tabletki po 3,75 mg lub jedna tabletka 7,5 mg) doustnie na krótko przed udaniem się na spoczynek. Osoby w podeszłym wieku Aby rozpocząć leczenie osób w podeszłym wieku, należy zastosować mniejszą dawkę zopiklonu wynoszącą 3,75 mg. W zależności od skuteczności i stopnia akceptowalności, dawka może być później zwiększona, jeśli jest to klinicznie uzasadnione. Pacjenci z niewydolnością wątroby Ponieważ wydalanie zopiklonu może być zmniejszone u pacjentów z zaburzeniami czynności wątroby, zalecana jest mniejsza dawka zopiklonu wynosząca 3,75 mg/dobę. W niektórych przypadkach, w zależności od skuteczności i stopnia akceptowalności, można z ostrożnością zastosować standardową dawkę 7,5 mg zopiklonu. Niewydolność nerek Chociaż u pacjentów z niewydolnością nerek nie stwierdzono gromadzenia się zopiklonu ani jego metabolitów, zaleca się rozpoczynanie leczenia takich pacjentów od dawki 3,75 mg. Przewlekła niewydolność oddechowa U pacjentów z przewlekłą niewydolnością oddechową zaleca się jako dawkę początkową 3,75 mg zopiklonu. Dawkę można następnie zwiększyć do 7,5 mg. Dzieci i młodzież: Zopiklonu nie należy stosować u dzieci i młodzieży w wieku poniżej 18 lat. Nie ustalono bezpieczeństwa stosowania ani skuteczności zopiklonu u dzieci i młodzieży w wieku poniżej 18 lat. Czas trwania leczenia Przejściowa bezsenność 2 - 5 dni. Bezsenność krótkoterminowa 2 - 3 tygodnie. Leczenie nie powinno trwać dłużej niż 4 tygodnie włącznie z okresem stopniowego zmniejszania dawki. Nie wolno przedłużać okresu leczenia poza maksymalny czas bez ponownej oceny stanu pacjenta, ponieważ ryzyko nadużywania i uzależnienia się wzrasta wraz z czasem trwania leczenia (patrz punkt 4.4). Produkt leczniczy należy przyjmować tuż przed udaniem się na nocny spoczynek. Sposób podawania Podanie doustne. Tabletkę należy połknąć bez jej uprzedniego ssania, żucia lub łamania.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-39016-2022-11-30-12939_B-2023-03-21.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CF01"
@@ -51,6 +60,7 @@
    "moc": "7,5 mg",
    "nazwa": "Dobroson",
    "podmiot": "STADA Arzneimittel AG",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Krótkotrwałe leczenie bezsenności. Stosowanie benzodiazepin i substancji podobnych do benzodiazepin jest wskazane wyłącznie w przypadku ciężkich zaburzeń, niezdolności do normalnego funkcjonowania lub stanu powodującego silne wyczerpanie pacjenta.",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie produktem Dobroson powinno trwać najkrócej, jak to możliwe. Okres leczenia powinien zwykle wynosić kilka dni do 2 tygodni, maksymalnie 4 tygodnie, włącznie z okresem zmniejszania dawki. W określonych przypadkach może okazać się konieczne wydłużenie okresu leczenia poza maksymalny okres. Jeśli występuje taka konieczność, decyzję o wydłużeniu okresu leczenia należy poprzedzić ponowną oceną stanu pacjenta. Zalecana dawka dla dorosłych wynosi 7,5 mg (jedna tabletka). Nie należy przekraczać tej dawki. Produkt należy przyjąć bezpośrednio przed snem. U osób w podeszłym wieku, pacjentów z niewydolnością wątroby lub przewlekłą niewydolnością oddechową, leczenie należy rozpocząć od dawki 3,75 mg, tj. połowy tabletki. Chociaż nie stwierdzono kumulacji zopiklonu ani jego metabolitów u pacjentów z niewydolnością nerek, zaleca się rozpoczęcie leczenia pacjentów z niewydolnością nerek od dawki 3,75 mg. Tabletki można dzielić w następujący sposób: - położyć tabletkę na stole, - lewym i prawym kciukiem lub palcem wskazującym nacisnąć tabletkę po obu stronach rowka dzielącego. Dzieci i młodzież: Dobroson jest przeciwwskazany u dzieci i młodzieży w wieku poniżej 18 lat (patrz punkt 4.3).",
@@ -69,6 +79,10 @@
    "zrodlo_pliku": "Charakterystyka-14083-2025-10-30-24728_B-2026-01-01.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CF01"
@@ -84,6 +98,7 @@
    "moc": "7,5 mg",
    "nazwa": "Imovane",
    "podmiot": "Sanofi Winthrop Industrie",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Krótkotrwałe leczenie bezsenności u dorosłych - przejściowej, krótkotrwałej lub przewlekłej (w tym trudności w zasypianiu, spłycony sen, wczesne ranne budzenie się).",
     "4.2": "4.2. Dawkowanie i sposób podawania Informacje ogólne: Należy stosować najmniejszą skuteczną dawkę. Imovane powinien być przyjmowany w pojedynczej dawce, leku nie należy podawać ponownie w ciągu tej samej nocy. Leczenie powinno trwać możliwie jak najkrócej. Czas stosowania produktu leczniczego nie powinien przekraczać 4 tygodni, włącznie z okresem stopniowego zmniejszania dawki leku. W niektórych przypadkach może być konieczne wydłużenie okresu leczenia ponad maksymalny zalecany czas, jednak nie może to nastąpić bez ponownej oceny stanu klinicznego pacjenta ze względu na wzrost ryzyka nadużywania produktu i rozwoju uzależnienia wraz z długością leczenia (patrz punkt 4.4). Lek należy przyjmować tuż przed wieczornym spoczynkiem. Czas trwania leczenia: Bezsenność przejściowa: 2 - 5 dni. Bezsenność krótkotrwała: 2 - 3 tygodnie. Dorośli: Zalecana dawka leku wynosi 7,5 mg, podana doustnie przed wieczornym spoczynkiem. Dawki tej nie należy przekraczać. Pacjenci w podeszłym wieku: U pacjentów w podeszłym wieku leczenie należy rozpoczynać od dawki 3,75 mg (1/2 tabletki). Dawkę można zwiększyć do 7,5 mg (1 tabletka) jedynie w razie potrzeby i dobrej tolerancji produktu przez pacjenta. Pacjenci z niewydolnością wątroby: U pacjentów z niewydolnością wątroby leczenie należy rozpoczynać od dawki 3,75 mg (1/2 tabletki). Dawkę można zwiększyć do 7,5 mg (1 tabletka). Pacjenci z niewydolnością nerek: Mimo iż w przebiegu niewydolności nerek nie dochodzi do kumulacji zopiklonu w ustroju, zaleca się rozpoczynanie leczenia od dawki 3,75 mg (1/2 tabletki) na dobę. Pacjenci z przewlekłą niewydolnością oddechową: U pacjentów z przewlekłą niewydolnością oddechową leczenie należy rozpoczynać od dawki 3,75 mg (1/2 tabletki). Dawkę można zwiększyć do 7,5 mg (1 tabletka). Dzieci i młodzież: Zopiklonu nie należy stosować u dzieci i młodzieży w wieku poniżej 18 lat. Nie określono bezpieczeństwa ani skuteczności stosowania zopiklonu u dzieci i młodzieży w wieku poniżej 18 lat.",

@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CF03"
@@ -18,6 +22,7 @@
    "moc": "10 mg",
    "nazwa": "Morfeo",
    "podmiot": "Adamed Pharma S.A.",
+   "postac": "Kapsułki twarde",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Morfeo wskazany jest w leczeniu pacjentów z bezsennością, mających trudności z zasypianiem. Lek zalecany jest tylko w przypadku ciężkich zaburzeń, uniemożliwiających prowadzenie normalnego trybu życia lub będących przyczyną poważnego dyskomfortu dla chorego.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka produktu wynosi 10 mg. Leczenie powinno trwać tak krótko, jak to możliwe, maksymalnie 2 tygodnie. Produkt leczniczy Morfeo może być przyjmowany bezpośrednio przed położeniem się do łóżka lub po położeniu się do łóżka, jeśli pacjent ma trudności z zaśnięciem. Przyjęcie leku po posiłku opóźnia czas osiągnięcia maksymalnego stężenia w osoczu o około 2 godziny, dlatego nie zaleca się przyjmowania produktu leczniczego Morfeo podczas lub bezpośrednio po spożyciu posiłku. U żadnego pacjenta całkowita dawka dobowa produktu leczniczego Morfeo nie powinna być większa niż 10 mg. Pacjentom należy poradzić, aby nie przyjmowali drugiej dawki produktu w ciągu tej samej nocy. Dzieci i młodzież Produkt leczniczy Morfeo jest przeciwwskazany do stosowania u dzieci i młodzieży (patrz punkt 4.3). Pacjenci z zaburzeniami czynności nerek Nie jest konieczne dostosowanie dawkowania produktu w przypadku łagodnych do umiarkowanych zaburzeń czynności nerek, ponieważ farmakokinetyka produktu leczniczego Morfeo u tych pacjentów nie ulega zmianie. U pacjentów z ciężkimi zaburzeniami czynności nerek produkt jest przeciwwskazany (patrz punkt 4.3).",

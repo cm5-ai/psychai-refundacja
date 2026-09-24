@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CD04"
@@ -18,6 +22,7 @@
    "moc": "2 mg",
    "nazwa": "Estazolam Espefa",
    "podmiot": "Chemiczno-Farmaceutyczna Spółdzielnia Pracy ESPEFA",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Doraźne i krótkotrwałe leczenie zaburzeń snu (trudności z zasypianiem, częste przebudzenia nocne, wczesne przebudzenia poranne).",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dawkę leku lekarz dobiera indywidualnie w zależności od wieku i reakcji pacjenta na lek. W leczeniu zaburzeń snu: zalecana dawka początkowa od 1 mg do 2 mg (½ - 1 tabletka) 30 minut przed snem. Pacjenci w podeszłym wieku (powyżej 65 lat): dawkę leku należy zmniejszyć o połowę. Pacjenci z niewydolnością wątroby i (lub) nerek: zalecane jest zmniejszenie dawki leku. Leczenie należy rozpocząć od najmniejszej zalecanej dawki. Nie należy przekraczać zalecanej dawki leku. Estazolam Espefa nie jest zalecany do stosowania u dzieci w wieku poniżej 18 lat ze względu na brak danych dotyczących skuteczności i bezpieczeństwa stosowania. Produktu leczniczego nie należy odstawiać nagle, konieczna jest zawsze stopniowa redukcja dawki. Sposób podawania: podanie doustne",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-22511-2023-04-19-14423_A-2023-07-20 (1).pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CD04"
@@ -51,6 +60,7 @@
    "moc": "2 mg",
    "nazwa": "Estazolam Polfarmex",
    "podmiot": "Polfarmex S.A.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Doraźne i krótkotrwałe leczenie zaburzeń snu (trudności z zasypianiem, częste przebudzenia nocne, wczesne przebudzenia poranne).",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkę produktu należy dostosować indywidualnie w zależności od wieku i reakcji pacjenta na produkt. W leczeniu zaburzeń snu: zalecana dawka początkowa 1 do 2 mg (pół – 1 tabletka) 30 minut przed snem. Pacjenci w podeszłym wieku (powyżej 65 lat): dawkę produktu należy zmniejszyć o połowę. Pacjenci z niewydolnością wątroby i (lub) nerek: zalecane jest zmniejszenie dawki produktu. Leczenie należy zacząć od najmniejszej zalecanej dawki. Nie należy przekraczać zalecanej dawki produktu. Dzieci: skuteczność i bezpieczeństwo stosowania estazolamu u pacjentów w wieku poniżej 18 lat nie zostały ustalone. Produktu nie należy odstawiać nagle, konieczna jest zawsze stopniowa redukcja dawki.",
@@ -69,6 +79,10 @@
    "zrodlo_pliku": "Charakterystyka-12929-2025-07-14-22937_A-2025-07-18 (1).pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CD04"
@@ -84,6 +98,7 @@
    "moc": "2 mg",
    "nazwa": "Estazolam TZF",
    "podmiot": "Tarchomińskie Zakłady Farmaceutyczne \"Polfa\" S.A.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Doraźnie i krótkotrwale w leczeniu zaburzeń snu: trudności w zasypaniu, częste przebudzenia nocne, wczesne przebudzenia poranne.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas leczenia należy określić dla każdego pacjenta indywidualnie. Dorośli Zwykle podaje się 1 mg do 2 mg (1/2 do 1 tabletki) pół godziny przed snem. Dzieci Bezpieczeństwo i skuteczność stosowania estazolamu u dzieci poniżej 18 lat nie została ustalona. Dawkowanie u pacjentów w podeszłym wieku (powyżej 65 lat): zaleca się zmniejszenie dawki o połowę (patrz punkt 4.4). Dawkowanie u pacjentów z niewydolnością nerek i (lub) wątroby Należy zachować ostrożność przy stosowaniu estazolamu u pacjentów z zaburzeniami czynności wątroby i (lub) nerek. Może być konieczne zmniejszenie dawki leku. Czas leczenia Estazolam należy stosować jak najkrócej (7 do 10 dni). W indywidualnych przypadkach, leczenie może trwać dłużej. Nie należy wydłużać czasu leczenia bez ponownej oceny stanu pacjenta. Produktu nie należy odstawiać nagle, konieczne jest zawsze stopniowe zmniejszanie dawki. Sposób podawania Tabletki należy przyjmować doustnie, popijając niewielką ilością wody, 30 minut przed snem. Ztw_12.01.2024 zmOpak_28_25.02.206 v1 Zaleca się stosowanie możliwie najniższych, skutecznych dawek do opanowania objawów choroby. Dawki leku należy zwiększać stopniowo.",

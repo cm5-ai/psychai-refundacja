@@ -1,8 +1,13 @@
 {
  "STATUS": "PRZEBUDOWANY_Z_PDF",
  "pobrano": "2026-09-23",
+ "pobrano_iniekcje": "2026-09-24",
  "produkty": [
   {
+   "DROGA": [
+    "INIEKCJA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AF05"
@@ -18,6 +23,7 @@
    "moc": "50 mg",
    "nazwa": "Clopixol-Acuphase",
    "podmiot": "H. Lundbeck A/S",
+   "postac": "Roztwór do wstrzykiwań",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Początkowe leczenie ostrych psychoz, w tym manii oraz zaostrzenia przewlekłych psychoz.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Dawkowanie należy ustalać indywidualnie, w zależności od stanu pacjenta. Dawka zwykle wynosi od 50 mg do 150 mg (1 do 3 ml) podana domięśniowo, w razie potrzeby dawkę można powtarzać, najlepiej w odstępie 2 do 3 dni. U niektórych pacjentów wymagane może być dodatkowe wstrzyknięcie po 24 lub 48 godzinach po pierwszym podaniu. Octan zuklopentyksolu nie jest przeznaczony do długoterminowego podawania i leczenie nie może trwać dłużej niż dwa tygodnie. Maksymalna skumulowana dawka podczas jednego kursu leczenia nie może być większa niż 400 mg, a liczba wstrzyknięć – większa niż cztery. W leczeniu podtrzymującym należy kontynuować terapię podając zuklopentyksol doustnie lub dekanonian zuklopentyksolu domięśniowo, zgodnie z poniższymi zaleceniami. 1) Zmiana na postać doustną dichlorowodorku zuklopentyksolu Dwa do trzech dni po ostatnim wstrzyknięciu octanu zuklopentyksolu pacjentowi, którego leczono octanem zuklopentyksolu w dawce 100 mg, należy rozpocząć podawanie dichlorowodorku zuklopentyksolu doustnie w dawce wynoszącej około 40 mg na dobę, jeśli to możliwe w dawkach podzielonych. W razie potrzeby dawkę można zwiększać o 10-20 mg co 2 do 3 dni do dawki 75 mg na dobę lub większej. 2) Zmiana z octanu zuklopentyksolu na dekanonian zuklopentyksolu Równocześnie z (ostatnim) wstrzyknięciem octanu zuklopentyksolu (100 mg) należy podać domięśniowo 200-400 mg (1 do 2 ml) dekanonianu zuklopentyksolu w roztworze o stężeniu 200 mg/ml. Następnie należy powtarzać wstrzyknięcie dekanonianu zuklopentyksolu co dwa tygodnie. Wymagane mogą być większe dawki lub krótsze odstępy czasu między wstrzyknięciami. Octan zuklopentyksolu i dekanonian zuklopentyksolu można mieszać w strzykawce i podawać w jednym wstrzyknięciu. Kolejne dawki dekanonianu zuklopentyksolu i odstępy czasu między wstrzyknięciami należy ustalać zgodnie z odpowiedzią pacjenta na leczenie. Pacjenci w podeszłym wieku U osób w podeszłym wieku może być konieczne zmniejszenie dawki. Maksymalna dawka podana w jednym wstrzyknięciu powinna wynosić 100 mg. Dzieci Nie zaleca się stosowania leku Clopixol Acuphase u dzieci ze względu na brak doświadczenia klinicznego. Zaburzenie czynnosci nerek Pacjentom z zaburzeniem czynności nerek można podawać Clopixol Acuphase w zwykle stosowanych dawkach. Zaburzenie czynności wąroby Pacjenci z zaburzeniami czynności wątroby powinni otrzymywać połowę zalecanej dawki i, jeśli to możliwe, wskazane jest oznaczanie stężenia leku w surowicy. Sposób podawania Clopixol Acuphase podaje się we wstrzyknięciu domięśniowym do górnego zewnętrznego kwadrantu pośladka. Jeśli objętość wstrzykiwanego leku jest większa niż 2 ml, podzieloną dawkę należy wstrzyknąć w dwa różne miejsca. Miejscowa tolerancja jest dobra.",
@@ -36,6 +42,10 @@
    "zrodlo_pliku": "Charakterystyka-1504-2026-01-15-24912_N-2026-05-16.pdf"
   },
   {
+   "DROGA": [
+    "INIEKCJA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AF05"
@@ -51,6 +61,7 @@
    "moc": "200 mg",
    "nazwa": "Clopixol-Depot",
    "podmiot": "H. Lundbeck A/S",
+   "postac": "Roztwór do wstrzykiwań",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Leczenie podtrzymujące schizofrenii oraz w innych psychozach, szczególnie z objawami, takimi jak: omamy, urojenia, zaburzenia myślenia, pobudzenie ruchowe, niepokój, wrogość i agresywność.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli W celu osiągnięcia maksymalnego zahamowania objawów psychotycznych przy minimalnych działaniach niepożądanych, dawkowanie i odstępy czasu między wstrzyknięciami należy ustalać indywidualnie dla poszczególnych pacjentów. W leczeniu podtrzymującym dawka zwykle wynosi od 200 mg do 400 mg (1 do 2 ml) co dwa lub co cztery tygodnie. U niektórych pacjentów może być konieczne podawanie większych dawek lub krótsze odstępy czasu między kolejnymi dawkami. Jeśli wstrzykiwana objętość leku jest większa niż 2 ml, podzieloną dawkę należy wstrzykiwać w dwa różne miejsca. W przypadku zmiany leczenia z podawanego doustnie zuklopentyksolu lub domięśniowo octanu zuklopentyksolu na leczenie podtrzymujące dekanonianem zuklopentyksolu należy postępować zgodnie z poniższymi zaleceniami. 1) Zmiana z postaci doustnej zuklopentyksolu na dekanonian zuklopentyksolu x mg dichlorowodorku zuklopentyksolu podawane doustnie na dobę odpowiada 8 x mg dekanonianu zuklopentyksolu co dwa tygodnie (na przykład 1 mg dichlorowodorku zuklopentyksolu podawane doustnie na dobę odpowiada 8 mg dekanonianu zuklopentyksolu co dwa tygodnie); x mg dichlorowodorku zuklopentyksolu podawane doustnie na dobę odpowiada 16 x mg dekanonianu zuklopentyksolu co cztery tygodnie (na przykład 1 mg dichlorowodorku zuklopentyksolu podawane doustnie na dobę odpowiada 16 mg dekanonianu zuklopentyksolu co dwa tygodnie); Przez tydzień po pierwszym wstrzyknięciu należy kontynuować stosowanie dichlorowodorku zuklopentyksolu doustnie, ale w zmniejszanych dawkach. 2) Zmiana z octanu zuklopentyksolu na dekanonian zuklopentyksolu Równocześnie z (ostatnim) wstrzyknięciem octanu zuklopentyksolu (100 mg) należy podać domięśniowo 200-400 mg (1 do 2 ml) dekanonianu zuklopentyksolu w roztworze o stężeniu 200 mg/ml. Następnie należy powtarzać wstrzyknięcie dekanonianu zuklopentyksolu co dwa tygodnie. Wymagane mogą być większe dawki lub krótsze odstępy czasu między wstrzyknięciami. Octan zuklopentyksolu i dekanonian zuklopentyksolu można mieszać w strzykawce i podawać w jednym wstrzyknięciu. Pacjenci, którym podawano uprzednio inne produkty w postaci o przedłużonym uwalnianiu (depot), powinni otrzymywać dawki obliczane wg następującego schematu: 200 mg dekanonianu zuklopentyksolu odpowiada 25 mg dekanonianu flufenazyny lub 40 mg dekanonianu cis(Z)-flupentyksolu, lub 50 mg dekanonianu haloperydolu. Kolejne dawki dekanonianu zuklopentyksolu i odstępy czasu między wstrzyknięciami należy ustalać zgodnie z odpowiedzią pacjenta na leczenie. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku na ogół powinni otrzymywać dawki w dolnej granicy zakresu dawkowania. Dzieci Nie zaleca się stosowania u dzieci ze względu na brak doświadczenia klinicznego. Zaburzenia czynności nerek Pacjentom z zaburzeniem czynności nerek można podawać Clopixol Depot w zwykle stosowanych dawkach. Zaburzenia czynności wątroby Zalecane jest zachowanie ostrożności podczas doboru dawki i, jeśli to możliwe, oznaczanie stężenia leku w surowicy. Sposób podawania Dekanonian zuklopentyksolu podaje się we wstrzyknięciu domięśniowym do górnego zewnętrznego kwadrantu pośladka. Jeśli wstrzykiwana objętość leku jest większa niż 2 ml, podzieloną dawkę należy wstrzykiwać w dwa różne miejsca. Miejscowa tolerancja jest dobra.",
@@ -69,6 +80,10 @@
    "zrodlo_pliku": "Charakterystyka-1505-2026-01-15-24912_N-2026-05-16.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AF05"
@@ -84,6 +99,7 @@
    "moc": "10 mg",
    "nazwa": "Clopixol",
    "podmiot": "H. Lundbeck A/S",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Ostra i przewlekła schizofrenia oraz inne psychozy, szczególnie z takimi objawami, jak: omamy, urojenia, zaburzenia myślenia, pobudzenie ruchowe, niepokój, wrogość i agresywność. Faza maniakalna zaburzenia afektywnego dwubiegunowego.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Dawkowanie należy ustalać indywidualnie, w zależności od stanu pacjenta. Na ogół, na początku należy podawać małe dawki, a następnie jak najszybciej zwiększać je do optymalnego skutecznego poziomu w zależności od odpowiedzi na leczenie. Dawka podtrzymująca jest zazwyczaj podawana jako pojedyncza dawka wieczorem, przed snem. Ostra schizofrenia i inne ostre psychozy. Ciężkie ostre stany pobudzenia. Mania. Zazwyczaj stosuje się 10-50 mg na dobę. W przypadkach o umiarkowanym i ciężkim nasileniu początkowo dawka wynosi 20 mg na dobę, zwiększana, w razie potrzeby, o 10-20 mg co 2 do 3 dni do 75 mg lub więcej na dobę. Maksymalna dawka pojedyncza wynosi 40 mg, całkowita dawka wynosi 150 mg na dobę. Przewlekła schizofrenia i inne przewlekłe psychozy Dawka podtrzymująca wynosi zazwyczaj 20-40 mg na dobę. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku powinni otrzymywać dawki w dolnej granicy zakresu dawkowania. Dzieci Nie zaleca się stosowania u dzieci ze względu na brak doświadczenia klinicznego. Zaburzenia czynności nerek Pacjentom z zaburzeniami czynności nerek można podawać Clopixol w zwykle stosowanych dawkach. Zaburzenia czynności wątroby Zalecane jest zachowanie ostrożności podczas dobierania dawki i, jeśli to możliwe, oznaczanie stężenia leku w surowicy. Sposób podawania Tabletki należy połykać popijając wodą.",
@@ -113,5 +129,6 @@
   "5.2"
  ],
  "substancja": "zuklopentiksol",
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
+ "uwaga_iniekcje": "Produkty iniekcyjne dolaczone 2026-09-24 z etykiet pobranych przez przegladarke. Limit 3 produktow na substancje ich NIE obejmuje - byly poza cache'em."
 }

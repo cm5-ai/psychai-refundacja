@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06DA02"
@@ -18,6 +22,7 @@
    "moc": "10 mg",
    "nazwa": "Aricept",
    "podmiot": "Pfizer Europe MA EEIG",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Aricept jest wskazany w leczeniu objawowym łagodnej do średnio ciężkiej postaci otępienia w chorobie Alzheimera.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli / pacjenci w podeszłym wieku Dawka początkowa wynosi 5 mg na dobę (podawana raz na dobę). Podawanie dawki 5 mg na dobę należy kontynuować przez co najmniej jeden miesiąc, co pozwoli na kliniczną ocenę skuteczności leczenia i osiągnięcie stacjonarnego stężenia donepezylu chlorowodorku. Po ocenie klinicznej leczenia przez miesiąc dawką 5 mg na dobę, dawkę produktu można zwiększyć do 10 mg na dobę (podawaną raz na dobę). Maksymalna zalecana dawka dobowa wynosi 10 mg. Dawki powyżej 10 mg na dobę nie były oceniane w badaniach klinicznych. Leczenie powinno być rozpoczęte i prowadzone przez lekarza mającego doświadczenie w rozpoznawaniu i leczeniu otępienia w chorobie Alzheimera. Rozpoznanie powinno być dokonane zgodnie z zatwierdzonymi wytycznymi (np. kryteria rozpoznawania otępienia wg DSM V, ICD 10). Leczenie donepezylem należy podejmować tylko wówczas, gdy możliwa jest regularna kontrola przyjmowania produktu przez pacjenta. Leczenie podtrzymujące można kontynuować tak długo, jak długo utrzymuje się korzystne dla pacjenta działanie produktu. Dlatego wymagana jest regularna ocena korzyści klinicznej ze stosowania donepezylu. Gdy nie ma oznak działania terapeutycznego, należy rozważyć zaprzestanie podawania produktu. Nie można przewidzieć indywidualnej reakcji na donepezyl. Po przerwaniu leczenia obserwowano stopniowe zmniejszanie się korzystnych skutków leczenia produktem Aricept. Dzieci i młodzież Nie zaleca się stosowania donepezylu u dzieci i młodzieży poniżej 18 lat. Stosowanie u pacjentów z niewydolnością nerek i wątroby Ponieważ niewydolność nerek nie wpływa na klirens donepezylu chlorowodorku, u pacjentów z niewydolnością nerek można stosować podobny schemat dawkowania, jak u pacjentów z prawidłową czynnością nerek. Z uwagi na możliwą zwiększoną ekspozycję na produkt u pacjentów z łagodną i umiarkowaną niewydolnością wątroby (patrz punkt 5.2), zwiększanie dawki powinno odbywać się zgodnie z indywidualną tolerancją pacjenta. Brak danych dotyczących stosowania produktu u pacjentów z ciężką niewydolnością wątroby. Sposób podawania Podanie doustne, wieczorem, tuż przed snem. Jeśli u pacjenta występują zaburzenia snu, w tym nietypowe sny, koszmary senne lub bezsenność (patrz punkt 4.8), można rozważyć przyjmowanie produktu Aricept rano.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-7924-2022-10-30-11073_A-2022-11-16 (1).pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06DA02"
@@ -51,6 +60,7 @@
    "moc": "10 mg",
    "nazwa": "Cogiton 10",
    "podmiot": "Biofarm Sp. z o.o.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Produkt leczniczy Cogiton stosuje się w objawowym leczeniu łagodnej i średnio ciężkiej postaci otępienia w chorobie Alzheimera.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dorośli/pacjenci w podeszłym wieku Dawka początkowa wynosi 5 mg na dobę (podawana raz na dobę). Podawanie dawki 5 mg na dobę należy kontynuować przez co najmniej jeden miesiąc, co pozwoli na kliniczną ocenę skuteczności leczenia i osiągnięcie stanu stacjonarnego stężenia chlorowodorku donepezylu. Po ocenie klinicznej leczenia przez miesiąc dawką 5 mg na dobę, dawkę leku można zwiększyć do 10 mg na dobę (podawaną raz na dobę). Maksymalna zalecana dawka dobowa wynosi 10 mg. Dawki powyżej 10 mg na dobę nie były oceniane w badaniach klinicznych. Po przerwaniu leczenia obserwowano stopniowe zmniejszanie się korzystnych skutków leczenia donepezylem. Nie stwierdzono efektu odbicia po nagłym odstawieniu leczenia. Dzieci i młodzież Produkt Cogiton nie jest zalecany do stosowania u dzieci. Pacjenci z niewydolnością nerek Niewydolność nerek nie wpływa na klirens chlorowodorku donepezylu. Dlatego też u pacjentów z niewydolnością nerek można stosować podobny schemat dawkowania, jak u pacjentów z prawidłową czynnością nerek. Pacjenci z niewydolnością wątroby Ze względu na możliwą zwiększoną ekspozycję na lek u pacjentów z łagodnym i umiarkowanym zaburzeniem czynności wątroby (patrz punkt 5.2), dawkę należy zwiększać zgodnie z indywidualną tolerancją pacjenta. Brak danych dotyczących stosowania leku u pacjentów z ciężką niewydolnością wątroby. Sposób podawania Tabletki Cogiton należy przyjmować doustnie, wieczorem, bezpośrednio przed snem. W przypadku zaburzeń snu, w tym nietypowych snów, koszmarów sennych lub bezsenności (patrz punkt 4.8), można rozważyć przyjmowanie produktu Cogiton rano. Czas stosowania O czasie leczenia decyduje lekarz prowadzący, który powinien dokonywać okresowego przeglądu stanu klinicznego pacjenta i oceny nasilenia objawów.",
@@ -69,6 +79,10 @@
    "zrodlo_pliku": "Charakterystyka-11956-2023-11-07-15800_A-2023-11-14 (1).pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06DA02"
@@ -84,6 +98,7 @@
    "moc": "5 mg",
    "nazwa": "Cogiton 5",
    "podmiot": "Biofarm Sp. z o.o.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Produkt leczniczy Cogiton stosuje się w objawowym leczeniu łagodnej i średnio ciężkiej postaci otępienia w chorobie Alzheimera.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dorośli/pacjenci w podeszłym wieku Dawka początkowa wynosi 5 mg na dobę (podawana raz na dobę). Podawanie dawki 5 mg na dobę należy kontynuować przez co najmniej jeden miesiąc, co pozwoli na kliniczną ocenę skuteczności leczenia i osiągnięcie stanu stacjonarnego stężenia chlorowodorku donepezylu. Po ocenie klinicznej leczenia przez miesiąc dawką 5 mg na dobę, dawkę leku można zwiększyć do 10 mg na dobę (podawaną raz na dobę). Maksymalna zalecana dawka dobowa wynosi 10 mg. Dawki powyżej 10 mg na dobę nie były oceniane w badaniach klinicznych. Po przerwaniu leczenia obserwowano stopniowe zmniejszanie się korzystnych skutków leczenia donepezylem. Nie stwierdzono efektu odbicia po nagłym odstawieniu leczenia. Dzieci i młodzież Produkt Cogiton nie jest zalecany do stosowania u dzieci. Pacjenci z niewydolnością nerek Niewydolność nerek nie wpływa na klirens chlorowodorku donepezylu. Dlatego też u pacjentów z niewydolnością nerek można stosować podobny schemat dawkowania, jak u pacjentów z prawidłową czynnością nerek. Pacjenci z niewydolnością wątroby Ze względu na możliwą zwiększoną ekspozycję na lek u pacjentów z łagodnym i umiarkowanym zaburzeniem czynności wątroby (patrz punkt 5.2), dawkę należy zwiększać zgodnie z indywidualną tolerancją pacjenta. Brak danych dotyczących stosowania leku u pacjentów z ciężką niewydolnością wątroby. Sposób podawania Tabletki Cogiton należy przyjmować doustnie, wieczorem, bezpośrednio przed snem. W przypadku zaburzeń snu, w tym nietypowych snów, koszmarów sennych lub bezsenności (patrz punkt 4.8), można rozważyć przyjmowanie produktu Cogiton rano. Czas stosowania O czasie leczenia decyduje lekarz prowadzący, który powinien dokonywać okresowego przeglądu stanu klinicznego pacjenta i oceny nasilenia objawów.",

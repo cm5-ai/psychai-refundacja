@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "R06AD02"
@@ -19,6 +23,7 @@
    "moc": "10 mg",
    "nazwa": "Diphergan",
    "podmiot": "Bausch Health Ireland Ltd.",
+   "postac": "Tabletki drażowane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Diphergan stosuje się: - w leczeniu objawowym stanów alergicznych górnych dróg oddechowych i skóry włącznie z alergicznym zapaleniem błony śluzowej nosa, pokrzywką oraz reakcjami anafilaktycznymi na leki i obce białka; - jako lek wspomagający do przedoperacyjnego uspokojenia chorych w chirurgii i położnictwie; - jako środek przeciwwymiotny, np. w kinetozie.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie W odczynach alergicznych: - dorośli, w tym osoby w podeszłym wieku i dzieci w wieku od 10 lat: początkowo 10 mg 2 razy na dobę. W razie potrzeby dawkę zwiększa się stopniowo do dawki optymalnej dla pacjenta, maksymalnie do 20 mg 3 razy na dobę; - dzieci w wieku od 5 do 10 lat: 10 do 25 mg jednorazowo lub 5 do 10 mg 2 razy na dobę; maksymalnie 25 mg na dobę. W zapobieganiu objawom choroby lokomocyjnej: - dorośli, w tym osoby w podeszłym wieku i dzieci w wieku od 10 lat: 20 do 25 mg na noc przed podróżą. W razie potrzeby dawkę powtórzyć po 6 – 8 godzinach; - dzieci w wieku od 5 do 10 lat: 10 mg na noc przed podróżą. W razie potrzeby dawkę powtórzyć po 6 – 8 godzinach. W premedykacji: - dorośli i dzieci w wieku od 10 lat: 25 do 50 mg na godzinę przed zabiegiem; - dzieci w wieku od 5 do 10 lat: 20 do 25 mg na godzinę przed zabiegiem. Nie należy stosować produktu leczniczego u dzieci poniżej 5 lat ze względu na moc i postać - tabletka drażowana 10 mg. Dla tej grupy wiekowej prometazyna dostępna jest w postaci syropu Diphergan.",
@@ -37,6 +42,10 @@
    "zrodlo_pliku": "Charakterystyka-1930-2025-03-17-21912_A-2025-04-25.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "R06AD02"
@@ -52,6 +61,7 @@
    "moc": "5 mg/5 ml",
    "nazwa": "Polfergan",
    "podmiot": "Polfarmex S.A.",
+   "postac": "Syrop",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania - Leczenie objawowe w ostrych odczynach alergicznych skóry z dużym świądem. - W reakcjach poprzetoczeniowych, nudności, wymioty i zawroty głowy. - W przebiegu choroby lokomocyjnej. - Ponadto stosowany w krótkotrwałym leczeniu bezsenności i niepokoju, po zabiegach chirurgicznych.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli w reakcjach alergicznych – doustnie, jednorazowo 25 ml przed snem, maksymalnie 50 ml w ciągu doby w 2 lub 3 dawkach podzielonych, w razie konieczności; przeciwwymiotnie – doustnie, 12 do 25 ml co 6 do 8 godzin, w razie konieczności; uspokajająco – doustnie, 25 ml wieczorem, przed snem. Dzieci w wieku powyżej 2 lat w reakcjach alergicznych – doustnie, 0,125 mg/kg mc. co 6 do 8 godzin lub 0,5 mg/kg mc. przed snem, w razie konieczności; przeciwwymiotnie – doustnie, 0,25 do 0,5 mg/kg mc. co 6 do 8 godzin, w razie konieczności; nudności i zawroty głowy – doustnie, 0,5 mg/kg mc. co 12 godzin, w razie konieczności. Nie przekraczać dawki dla dorosłych. Produktu leczniczego nie należy stosować u dzieci w wieku poniżej 2 lat (patrz punkt 4.3). Sposób podawania Podanie doustne. 1 łyżeczka = 5 ml",

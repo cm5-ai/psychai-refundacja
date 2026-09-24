@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AG02"
@@ -18,6 +22,7 @@
    "moc": "150 mg",
    "nazwa": "Aurorix",
    "podmiot": "Viatris Healthcare Sp. z o.o.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia depresyjne. Fobia społeczna.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Zaburzenia depresyjne: Zalecana dawka produktu Aurorix wynosi od 300 mg do 600 mg na dobę, zwykle w 2 lub 3 dawkach podzielonych. Dawka początkowa wynosi 300 mg na dobę i w przypadku ciężkiej depresji może być zwiększona do 600 mg na dobę. Nie należy zwiększać dawki leku przed upływem pierwszego tygodnia leczenia, ponieważ w tym okresie zwiększa się dostępność biologiczna moklobemidu. Dawkę leku można zmniejszyć w zależności od indywidualnej reakcji pacjenta na leczenie. Aby w pełni ocenić skuteczność leczenia, produkt Aurorix należy podawać nie krócej niż 4-6 tygodni. Fobia społeczna: Zaleca się podawanie 600 mg produktu Aurorix na dobę, w 2 dawkach podzielonych. Aby móc ocenić skuteczność leczenia u danego pacjenta, dawkowanie takie należy stosować przynajmniej przez 8-12 tygodni. Jeżeli okaże się, że leczenie jest skuteczne, powinno się rozważyć możliwość jego kontynuowania, gdyż fobia społeczna jest schorzeniem przewlekłym, a badania kliniczne potwierdzają skuteczność produktu Aurorix podawanego długotrwale. Pacjenci powinni być okresowo badani w celu ustalenia konieczności dalszego leczenia. Osoby w podeszłym wieku Nie jest wymagane specjalne dawkowanie w tej grupie chorych. Dzieci Z powodu braku badań klinicznych dotyczących tej grupy pacjentów, nie należy stosować produktu Aurorix u dzieci. Chorzy z niewydolnością nerek i (lub) wątroby Pacjenci ze zmniejszoną wydolnością nerek nie wymagają dostosowania dawki produktu Aurorix. Jeżeli metabolizm wątrobowy jest zaburzony przez chorobę wątroby lub leki hamujące aktywność mikrosomalnej monooksygenazy (np. cymetydynę), normalne stężenie w osoczu jest uzyskiwane przez redukcję dawki leku o połowę lub do jednej trzeciej (patrz punkt 4.5 i 5.2). Sposób podawania Tabletki powlekane przeznaczone do stosowania doustnego. Produkt Aurorix należy przyjmować po zakończeniu posiłku.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-832-2024-08-12-12723_N-2024-08-26.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AG02"
@@ -51,6 +60,7 @@
    "moc": "150 mg",
    "nazwa": "Mobemid",
    "podmiot": "Bausch Health Ireland Ltd.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Leczenie zespołów depresyjnych oraz fobii społecznej.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie W zespołach depresyjnych zalecana dawka początkowa wynosi 300 mg na dobę, podawana w dawkach podzielonych. W zależności od nasilenia objawów depresji dawkę można zwiększyć do 600 mg na dobę, podawać w dawkach podzielonych. W celu osiągnięcia pełnego efektu leczniczego, produkt leczniczy należy podawać przez okres 4-6 tygodni. W leczeniu fobii społecznej początkowa dawka dobowa moklobemidu wynosi 300 mg. Po 3 dniach dawkę zwiększa się do 600 mg na dobę i podaje w dwóch dawkach podzielonych. Leczenie dawką 600 mg należy kontynuować przez 8–12 tygodni, aby ocenić skuteczność leczenia. Maksymalna dawka dobowa nie może przekraczać 600 mg. Należy okresowo oceniać stan pacjentów i zasadność dalszej terapii. Dzieci i młodzież Produktu leczniczego nie stosuje się u dzieci i młodzieży w wieku do 18 lat, ze względu na brak badań klinicznych. Sposób podawania Podanie doustne. Produkt leczniczy przyjmuje się bezpośrednio po posiłku. Należy pamiętać, by ostatnia dawka produktu leczniczego nie została przyjęta w zbyt późnych godzinach wieczornych. Jeśli dawka podtrzymująca wynosi 150 mg, produkt leczniczy należy przyjmować 1 raz na dobę w godzinach porannych. Nie ma konieczności zmiany dawkowania u pacjentów w podeszłym wieku i u pacjentów z niewydolnością nerek. W chorobach wątroby powodujących zaburzenia metabolizmu wątrobowego lub w przypadku jednoczesnego podawania leków zaburzających aktywność monooksydazy mikrosomalnej (np. cymetydyny), dobową dawkę produktu leczniczego Mobemid należy zmniejszyć do połowy lub nawet do jednej trzeciej zalecanej dawki.",
@@ -69,6 +79,10 @@
    "zrodlo_pliku": "Charakterystyka-24559-2021-10-22-7374_N-2021-11-05.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AG02"
@@ -84,6 +98,7 @@
    "moc": "150 mg",
    "nazwa": "Moklar",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia depresyjne Fobia społeczna",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Zaburzenia depresyjne Zalecana dawka moklobemidu to od 300 mg do 600 mg na dobę, zwykle w 2 lub 3 dawkach podzielonych. Dawka początkowa wynosi 300 mg na dobę i w przypadku ciężkiej depresji może być zwiększona maksymalnie do 600 mg na dobę. Nie należy zwiększać dawki leku przed upływem pierwszego tygodnia leczenia, ponieważ w tym okresie zwiększa się dostępność biologiczna moklobemidu. Dawkę można zmniejszyć do 150 mg w zależności od indywidualnej reakcji pacjenta na leczenie. Aby w pełni ocenić skuteczność leczenia, produkt Moklar należy podawać nie krócej niż przez 4-6 tygodni. Fobia społeczna Zaleca się podawanie 600 mg moklobemidu na dobę, w 2 dawkach podzielonych. Aby móc ocenić skuteczność leczenia u danego pacjenta, dawkę 600 mg należy stosować przez 8-12 tygodni,. Jeżeli okaże się, że leczenie jest skuteczne, należy rozważyć możliwość jego kontynuowania, gdyż fobia społeczna jest chorobą przewlekłą, a badania kliniczne potwierdzają skuteczność moklobemidu podawanego długotrwale. Stan pacjentów należy okresowo badać w celu ustalenia konieczności dalszego leczenia. Pacjenci w podeszłym wieku Nie ma konieczności dostosowania dawkowania w tej grupie pacjentów. Dzieci i młodzież Z powodu braku badań klinicznych dotyczących tej grupy pacjentów, nie należy stosować produktu Moklar u dzieci. Zaburzenia czynności nerek i (lub) wątroby U pacjentów z zaburzeniami czynności nerek nie ma konieczności dostosowania dawkowania (patrz punkt 5.2). Jeżeli metabolizm wątrobowy jest zaburzony przez chorobę wątroby lub leki hamujące aktywność mikrosomalnej monooksygenazy (np. cymetydynę), wymagane stężenie w osoczu uzyskuje się po zmniejszeniu dawki leku o połowę lub do jednej trzeciej (patrz punkt 4.5 i 5.2). Sposób podawania Tabletki powlekane przeznaczone do stosowania doustnego. Produktu Moklar należy przyjmować po posiłku.",

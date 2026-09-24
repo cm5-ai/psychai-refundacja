@@ -22,6 +22,10 @@
    "zrodlo": ""
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05CH01"
@@ -37,6 +41,7 @@
    "moc": "5 mg",
    "nazwa": "Melabiorytm",
    "podmiot": "Aflofarm Farmacja Polska Sp. z o.o.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Melabiorytm jest wskazany jako środek pomocniczy w zaburzeniach snu związanych ze zmianą stref czasowych lub w związku z pracą zmianową oraz ułatwiający regulację rytmu dobowego snu i czuwania u pacjentów niewidomych.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli: W zaburzeniach snu związanych ze zmianą stref czasowych: 2 mg do 3 mg melatoniny raz na dobę, po zapadnięciu zmroku, rozpoczynając od pierwszego dnia podróży. Kontynuować leczenie przez 2 do 3 kolejnych dni po zakończeniu podróży. W zaburzeniach rytmu dobowego snu i czuwania związanych np. z pracą zmianową: 1 mg do 5 mg na dobę na godzinę przed snem. W zaburzeniach rytmu dobowego snu i czuwania u osób niewidomych należy przyjmować od 0,5 mg do 5 mg raz na dobę, około godziny 21:00-22:00. Dawkowanie to dotyczy też długotrwałego przyjmowania leku. Działanie leku w leczeniu długotrwałym zaburzeń rytmu dobowego snu i czuwania obserwuje się czasami dopiero po upływie 2 tygodni przyjmowania leku. Ugruntowane zastosowanie medyczne melatoniny obejmuje dawki od 0,5 mg, należy stosować najmniejszą skuteczną dawkę melatoniny. Produkt leczniczy Melabiorytm należy stosować tylko w sytuacji, gdy nie wykazano skuteczności innych, mniejszych dawek melatoniny dostępnych na rynku. Dzieci i młodzież Nie określono dotychczas bezpieczeństwa stosowania ani skuteczności produktu leczniczego Melabiorytm u dzieci w wieku od 0 do 18 lat. Pacjenci z zaburzeniami czynności wątroby Nie należy stosować produktu leczniczego u pacjentów z zaburzeniami czynności wątroby. Pacjenci z zaburzeniami czynności nerek Nie należy stosować produktu leczniczego u pacjentów z zaburzeniami czynności nerek. Osoby w podeszłym wieku Dostosowanie dawki nie jest konieczne u osób w podeszłym wieku. Sposób podawania Podanie doustne. Tabletkę należy połknąć, popijając wodą.",
@@ -55,6 +60,10 @@
    "zrodlo_pliku": "Charakterystyka-34688-2025-09-23-26220_A-2026-05-22.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "PRZEDLUZONE",
    "klucz_rpl": {
     "atc": [
      "N05CH01"
@@ -70,6 +79,7 @@
    "moc": "2 mg",
    "nazwa": "Melanoc PR",
    "podmiot": "Przedsiębiorstwo Farmaceutyczne LEK-AM Sp. z o.o.",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Melanoc PR jest wskazany jako monoterapia w krótkotrwałym leczeniu pierwotnej bezsenności, charakteryzującej się niską jakością snu, u pacjentów w wieku 55 lat lub starszych.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka to 2 mg raz na dobę, 1 – 2 godziny przed snem, po posiłku. Dawkę tę można stosować przez okres do trzynastu tygodni. Dzieci i młodzież Nie określono dotychczas bezpieczeństwa stosowania ani skuteczności produktu leczniczego Melanoc PR u dzieci w wieku od 0 do 18 lat. Do stosowania w tej grupie pacjentów bardziej odpowiednie mogą być inne postacie farmaceutyczne i (lub) moce. Obecnie dostępne dane przedstawiono w punkcie 5.1. Zaburzenia czynności nerek Nie zbadano wpływu żadnego ze stadiów zaburzenia czynności nerek na farmakokinetykę melatoniny. Podczas podawania melatoniny w tej grupie pacjentów należy zachować ostrożność. Zaburzenia czynności wątroby Nie ma doświadczenia dotyczącego stosowania produktu Melanoc PR u pacjentów z zaburzeniami czynności wątroby. Opublikowane dane wskazują na znacznie podwyższone stężenia endogennej melatoniny w ciągu dnia, z powodu zmniejszonego klirensu, u pacjentów z zaburzeniami czynności wątroby. Z tego względu nie zaleca się stosowania produktu leczniczego Melanoc PR u pacjentów z zaburzeniami czynności wątroby. Sposób podawania Podanie doustne. Tabletki należy połykać w całości, aby zachować ich właściwości przedłużonego uwalniania. Nie należy kruszyć ani ssać tabletek w celu łatwiejszego połknięcia.",

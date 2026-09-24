@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AE04"
@@ -18,6 +22,7 @@
    "moc": "20 mg",
    "nazwa": "Zypsila",
    "podmiot": "Krka, d.d., Novo mesto",
+   "postac": "Kapsułki twarde",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zyprazydon stosowany jest w leczeniu schizofrenii u dorosłych. Zyprazydon stosowany jest w leczeniu maniakalnych i mieszanych epizodów o umiarkowanej ciężkości w zaburzeniu afektywnym dwubiegunowym u dorosłych oraz dzieci i młodzieży w wieku 10-17 lat (skuteczność produktu leczniczego w zapobieganiu nawrotom epizodów choroby dwubiegunowej nie została ustalona, patrz punkt 5.1).",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli W leczeniu fazy zaostrzenia schizofrenii i epizodu manii w zaburzeniu dwubiegunowym zalecana dawka wynosi 40 mg dwa razy na dobę w trakcie posiłku. Dawka ta może być zwiększona zależnie od stanu klinicznego pacjenta, maksymalnie do 80 mg dwa razy na dobę. Jeżeli jest to wskazane, maksymalną zalecaną dawkę można stosować już od 3. dnia leczenia. Bardzo ważne, by nie przekraczać maksymalnej dawki, gdyż profil bezpieczeństwa powyżej 160 mg/dobę nie został potwierdzony, a przyjmowanie zyprazydonu wiąże się z proporcjonalnym do dawki wydłużeniem odstępu QT (patrz punkty 4.3 i 4.4). W leczeniu podtrzymującym pacjentów ze schizofrenią należy stosować najmniejsze skuteczne dawki zyprazydonu; w wielu przypadkach dawka 20 mg dwa razy na dobę może okazać się wystarczająca. Pacjenci w podeszłym wieku Mniejsza dawka początkowa nie jest zwykle wskazana, ale należy ją jednak rozważyć u pacjentów w wieku powyżej 65 lat, jeśli istnieje uzasadnienie kliniczne. Zaburzenia czynności nerek U pacjentów z zaburzeniami czynności nerek nie jest konieczne dostosowanie dawki (patrz punkt 5.2). Zaburzenia czynności wątroby U pacjentów z niewydolnością wątroby należy rozważyć zmniejszenie dawki (patrz punkty 4.3 i 5.2). Dzieci i młodzież Choroba afektywna dwubiegunowa Zalecana dawka w leczeniu stanów ostrych w przebiegu choroby afektywnej dwubiegunowej u dzieci i młodzieży (w wieku od 10 do 17 lat) to 20 mg przyjęte w pojedynczej dawce dobowej podczas posiłku w pierwszym dniu leczenia. W kolejnych dniach zypryzodon powinien być podawany podczas posiłków w dwóch dawkach podzielonych, przy czym dawkę dobową należy stopniowo zwiększać przez okres 1-2 tygodni, aż do osiągnięcia docelowych wartości w granicach 120-160 mg/dobę u pacjentów o masie ciała ≥45 kg lub 60-80 mg/dobę u pacjentów o masie ciała <45 kg. W późniejszym okresie dawki powinny być dobierane na podstawie indywidualnego stanu klinicznego w zakresie 80-160 mg/dobę u pacjentów o masie ciała ≥45 kg lub 40-80 mg/dobę u pacjentów o masie ciała <45 kg. W badaniu klinicznym dopuszczono nierówne rozłożenie wielkości dawek podzielnych, przy czym poranna dawka leku była o 20 mg lub 40 mg mniejsza od dawki wieczornej (patrz punkty 4.4, 4.5 i 5.2). Szczególnie istotne jest, aby nie przekraczać maksymalnej dawki ustalonej na podstawie masy ciała, ponieważ nie potwierdzono profilu bezpieczeństwa zyprazydonu w dawkach większych od dawki maksymalnej (160 mg/dobę dla dzieci o masie ciała ≥45 kg i 80 mg/dobę dla dzieci o masie ciała <45 kg), a zypryzodon wykazuje związek z zależnym od dawki wydłużeniem QT (patrz punkty 4.3 i 4.4). Schizofrenia Nie przeprowadzono badań oceniających bezpieczeństwo i skuteczność stosowania zyprazydonu u dzieci i młodzieży ze schizofrenią (patrz punkty 4.4 i 5.1). Sposób podawania Podanie doustne. Kapsułki należy przyjmować z posiłkiem i połykać w całości, bez uprzedniego żucia, kruszenia lub otwierania, ponieważ może to wpływać na wchłanianie leku.",

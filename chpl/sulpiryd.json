@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AL01"
@@ -18,6 +22,7 @@
    "moc": "100 mg",
    "nazwa": "Sulpiryd Hasco",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Sulpiryd Hasco jest przeznaczony do leczenia: • ostrych i przewlekłych psychoz występujących w schizofrenii, zwłaszcza przebiegających z objawami upośledzonej aktywności; • zaburzeń depresyjnych, jeżeli leczenie innymi lekami przeciwdepresyjnymi jest nieskuteczne lub niemożliwe do zastosowania.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Schizofrenia Dawka początkowa wynosi od 400 mg do 800 mg na dobę i podawana jest w dwóch dawkach podzielonych (rano i wczesnym wieczorem), w zależności od objawów. Pacjentom, u których przeważają objawy pozytywne (zaburzenia myślenia, omamy, urojenia, bezsensowne działania) zaleca się większe dawki: początkowo wynoszące co najmniej 400 mg dwa razy na dobę, a w razie potrzeby - większe. Maksymalna dawka dobowa wynosi 1200 mg. Tylko w przypadkach zaburzeń opornych na leczenie lekarz psychiatra może zwiększyć dawkę dobową do 1600 mg, podawaną w dawkach podzielonych. U pacjentów, u których przeważają objawy negatywne (przygnębienie, zubożenie mowy - małomówność, brak reaktywności, apatia, a także depresja) zaleca się mniejsze dawki. Dawka początkowa wynosi 400 mg 2 razy na dobę, a zmniejszenie dawki do 200 mg 2 razy na dobę zwiększa działanie pobudzające sulpirydu. Pacjenci z objawami mieszanymi (pozytywnymi i negatywnymi, bez dominacji jednych z nich) reagują zwykle właściwie na dawki od 400 mg do 600 mg podane 2 razy na dobę. Zaburzenia depresyjne Zwykle zaleca się stosowanie dawki początkowej od 50 mg do 150 mg na dobę. Następnie dawkę zwiększa się do 150 mg - 300 mg na dobę. Pacjenci w podeszłym wieku U osób w wieku podeszłym zazwyczaj stosowane są zwykle zalecane dawki sulpirydu. W przypadku zaburzenia czynność nerek dawkę sulpirydu należy zmniejszyć (patrz poniżej). Pacjenci z zaburzeniami czynności nerek W przypadkach zaburzenia czynności wydalniczej nerek, dawkowanie sulpirydu należy odpowiednio dostosować do stopnia wydolności nerek zmniejszając dawkę dobową lub wydłużając odstęp czasu między poszczególnymi podaniami. Proponowane szczegółowe zalecenia korekty dawkowania w niewydolności nerek podano poniżej: Klirens kreatyniny Dawka sulpirydu Proponowane zwiększenie w porównaniu do odstępów pomiędzy kolejnymi standardowo zalecanej podaniami zalecanych dawek sulpirydu 30 do 60 mL/min. 70 % 1,5 krotne 10 do 30 mL/min. 50 % 2 krotne mniej niż 10 mL/min. 34 % 3 krotne Pacjenci z zaburzeniami czynności wątroby Sulpiryd jest wydalany z organizmu głównie przez nerki, ale nie można absolutnie wykluczyć, że w przypadkach zaburzenia czynności wątroby dawkowanie sulpirydu może również wymagać dostosowania do stopnia wydolności wątroby. Podczas podawania sulpirydu należy monitorować stan wątroby wykonując rutynowe badania laboratoryjne. Dzieci i młodzież Ze względu na brak wystarczających danych klinicznych nie zaleca się stosowania sulpirydu u dzieci i młodzieży poniżej 14. roku życia. Sposób podawania Podanie doustne. Sulpiryd należy podawać w dawkach podzielonych. Tabletki należy przyjmować co najmniej na godzinę przed posiłkiem lub dwie godziny po posiłku. Nie stosować sulpirydu jednocześnie ani przed upływem 2 godzin od podania leków zobojętniających lub zawierających sukralfat. Sulpirydu nie należy podawać w późnych godzinach wieczornych (po godzinie 1600), ze względu na możliwość wystąpienia zaburzeń snu.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-40697-2024-01-26-14561_N-2024-02-10.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AL01"
@@ -52,6 +61,7 @@
    "moc": "100 mg",
    "nazwa": "Sulpiryd Teva",
    "podmiot": "Teva Pharmaceuticals Polska Sp. z o.o.",
+   "postac": "Kapsułki twarde",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania  Ostre i przewlekłe psychozy w schizofrenii, zwłaszcza z objawami upośledzonej aktywności.  Przewlekłe psychozy alkoholowe, zaburzenia psychosomatyczne.  Zaburzenia depresyjne, gdy leczenie innymi lekami przeciwdepresyjnymi jest nieskuteczne lub niemożliwe do zastosowania.  Migrena i zawroty głowy o różnej etiologii (m.in. w chorobie Meniere’a).  Wspomagająco w terapii uzależnienia alkoholowego.",
     "4.2": "4.2 Dawkowanie i sposób podawania Lek jest przeznaczony do stosowania doustnego. Schizofrenia Dorośli Dawka początkowa wynosi od 400 do 800 mg na dobę i podawana jest w dwóch dawkach podzielonych (rano i wczesnym wieczorem), w zależności od objawów. Pacjentom, u których przeważają objawy pozytywne (zaburzenia myślenia, omamy, urojenia, bezsensowne działania) zaleca się większe dawki: początkowo wynoszące co najmniej 400 mg dwa razy na dobę, a w razie potrzeby - większe. Maksymalna dawka dobowa wynosi 1200 mg. Tylko w przypadkach zaburzeń opornych na leczenie lekarz psychiatra może zwiększyć dawkę dobową do 1600 mg, podawaną w dawkach podzielonych. U pacjentów, u których przeważają objawy negatywne (przygnębienie, zubożenie mowy - małomówność, brak reaktywności, apatia, a także depresja) zaleca się mniejsze dawki. Dawka początkowa wynosi 400 mg 2 razy na dobę, a zmniejszenie dawki do 200 mg 2 razy na dobę zwiększa działanie pobudzające sulpirydu. Pacjenci z objawami mieszanymi (pozytywnymi i negatywnymi, bez dominacji jednych z nich) reagują zwykle właściwie na dawki od 400 mg do 600 mg podane 2 razy na dobę. Zaburzenia depresyjne Dawka początkowa wynosi od 50 mg do 150 mg na dobę. Następnie dawkę zwiększa się ją do 150 - 300 mg na dobę. Zaburzenia psychosomatyczne, nerwice Zwykle od 150 do 300 mg na dobę. Migrena i zawroty głowy (np. w chorobie Meniere’a) Zwykle od 50 do 200 mg na dobę. Dzieci Nie ma doświadczenia klinicznego dotyczącego stosowania u dzieci poniżej 14 r. ż. Pacjenci w podeszłym wieku Zwykle stosowane są dawki jak u dorosłych. U pacjentów w podeszłym wieku, u których zaburzona jest czynność nerek, dawkę leku należy zmniejszyć. Pacjenci z zaburzeniami czynności nerek Dawkę sulpirydu należy odpowiednio dostosować; w zależności od stopnia wydolności nerek dawkę należy zmniejszyć lub wydłużyć odstęp czasu między dawkami. Sposób podawania Sulpiryd należy podawać w dawkach podzielonych. Lek należy zażywać co najmniej na godzinę przed posiłkiem lub dwie godziny po posiłku. Nie należy stosować sulpirydu jednocześnie i przed upływem 2 godzin od podania leków zobojętniających lub sukralfatu.",

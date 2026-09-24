@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05BA08"
@@ -18,6 +22,7 @@
    "moc": "3 mg",
    "nazwa": "Bromox",
    "podmiot": "Orion Corporation",
+   "postac": "Kapsułki twarde",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Bromazepam wskazany jest w leczeniu: - stanów lękowych; - leczeniu wspomagającym objawów lęku, towarzyszących zaburzeniom psychicznym, takim jak zmiany nastroju lub schizofrenia. Benzodiazepiny są wskazane do stosowania tylko wtedy, gdy zaburzenie jest ciężkie, uniemożliwia lub skrajnie utrudnia funkcjonowanie pacjenta lub naraża go na silny lęk.",
     "4.2": "4.2 Dawkowanie i sposób podawania Czas trwania leczenia powinien być jak najkrótszy. Całkowity czas leczenia nie powinien być dłuższy niż 8 - 12 tygodni, wliczając w to okres stopniowego odstawiania produktu leczniczego. Podane dawkowanie należy traktować jako ogólne wytyczne i dobierać dawkę indywidualnie dla danego pacjenta. Ambulatoryjne leczenie pacjentów należy rozpoczynać od podawania małych dawek, dawki należy stopniowo zwiększać do optymalnej wielkości. Pacjent powinien zgłaszać się do lekarza regularnie, w celu oceny konieczności dalszego podawania produktu leczniczego, szczególnie w sytuacjach, w których nie obserwuje się objawów choroby. W niektórych przypadkach leczenie może trwać dłużej, pod warunkiem przeprowadzenia specjalistycznej oceny stanu pacjenta. Dawkowanie Dorośli Należy stosować najmniejszą dawkę, zapewniającą kontrolę objawów. Optymalne dawkowanie i częstość podawania produktu leczniczego Bromox należy ustalać na podstawie indywidualnej reakcji pacjenta na leczenie, nasilenia objawów i wywiadu, dotyczącego wcześniejszego stosowania leków psychotropowych. Zwykle stosowane dawki dla pacjentów leczonych ambulatoryjnie wynoszą od 1,5 mg do 3 mg do trzech razy na dobę (4,5 mg – 9 mg na dobę). W szczególnych przypadkach, u pacjentów hospitalizowanych, można zastosować dawki od 6 mg do 12 mg dwa lub trzy razy na dobę. Dawkę leku należy zmniejszać stopniowo. Pacjenci stosujący benzodiazepiny przez dłuższy czas mogą wymagać dłuższego okresu zmniejszania dawki. Może być wskazana pomoc specjalisty. Osoby w podeszłym wieku lub osłabione Pacjenci w podeszłym wieku wymagają mniejszych dawek ze względu na indywidualne różnice we wrażliwości na produkt leczniczy i w jego farmakokinetyce; dawka nie powinna być większa niż połowa dawki zwykle zalecanej (patrz punkt 5.2). Pacjenci z zaburzeniami czynności wątroby Pacjenci z zaburzeniami czynności wątroby i (lub) nerek wymagają mniejszych dawek ze względu na indywidualne różnice we wrażliwości na produkt leczniczy i w jego farmakokinetyce. U osób w podeszłym wieku i (lub) pacjentów z zaburzeniami czynności wątroby i (lub) nerek zaleca się regularną kontrolę i zakończenie leczenia tak szybko, jak jest to możliwe. Dzieci i młodzież Nie zaleca się stosowania produktu Bromox u dzieci w wieku poniżej 12 lat.",
@@ -55,6 +60,10 @@
    "zrodlo": ""
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05BA08"
@@ -70,6 +79,7 @@
    "moc": "3 mg",
    "nazwa": "Sedam 3",
    "podmiot": "Sandoz GmbH",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Wymagające leczenia farmakologicznego:  zaburzenie lękowe uogólnione,  dysfunkcje autonomiczne występujące pod postacią somatyczną m.in. z objawami skórnymi, ze strony układu pokarmowego, ze strony układu krążenia i układu moczowo-płciowego,  stany lękowe występujące w przebiegu przewlekłych chorób organicznych ośrodkowego układu nerwowego,  zaburzenie stresowe pourazowe z objawami lęku,  zaburzenia adaptacyjne. Uwaga: Nie wszystkie stany lękowe wymagają podawania leków i często są objawem choroby somatycznej lub psychicznej. W takich przypadkach należy im przeciwdziałać w inny sposób lub leczyć chorobę podstawową.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkę produktu leczniczego i czas leczenia należy ustalić w zależności od wskazania, ciężkości choroby oraz odpowiedzi klinicznej pacjenta. Z zasady należy stosować najmniejszą dawkę skuteczną 1 CDSv06 + subst. pom. przez możliwie krótki czas. Leczenie stanów lękowych nie powinno trwać dłużej niż 8 do 12 tygodni. Leczenie ambulatoryjne Leczenie należy rozpocząć od 3 mg bromazepamu przyjmowanych jedną godzinę przed udaniem się na spoczynek. W razie potrzeby dawkę można zwiększyć do 6 mg bromazepamu na dobę. Działanie bromazepamu podanego wieczorem trwa zwykle do następnego wieczora i nie wymaga przyjmowania dodatkowej dawki w ciągu dnia. Jednak w rzadkich przypadkach może być konieczne podanie w ciągu dnia 1,5 mg albo 3 mg bromazepamu. W pojedynczych przypadkach dawkę można zwiększyć do 12 mg bromazepamu na dobę. Leczenie szpitalne W ciężkich przypadkach dawkę można stopniowo zwiększać do 18 mg bromazepamu na dobę. Na początku leczenia lekarz prowadzący powinien uważnie obserwować reakcję pacjenta, aby możliwie szybko rozpoznać ewentualne objawy przedawkowania. Dotyczy to zwłaszcza pacjentów w podeszłym wieku, osłabionych, z organicznym uszkodzeniem mózgu, niewydolnością krążenia, niewydolnością oddechową oraz zaburzoną czynnością wątroby. Pacjenci powinni otrzymać wskazówki dotyczące zachowania w codziennym życiu, uwzględniające w szczególności sytuację życiową, aktywność zawodową itd. Specjalne wskazówki dotyczące dawkowania U pacjentów w podeszłym wieku, z organicznym uszkodzeniem mózgu, niewydolnością krążenia, niewydolnością oddechową, zaburzeniami czynności wątroby lub nerek leczenie należy rozpoczynać od połowy wyżej opisanych dawek, tzn. od 1,5 mg bromazepamu na noc. Dawka nie powinna być większa niż połowa zwykle zalecanej dawki, a maksymalna dawka dobowa wynosi 6 mg bromazepamu. Sposób i czas podawania Tabletki należy połykać, popijając odpowiednią ilością płynu. Czas leczenia określany jest indywidualnie dla każdego pacjenta. W razie ostrych objawów klinicznych stosowanie bromazepamu należy ograniczyć do pojedynczych dawek lub kilkudniowego leczenia. Jeśli objawy utrzymują się długo, czas podawania zależy od stadium choroby. Po 2 tygodniach leczenia należy stopniowo zmniejszyć dawkę produktu leczniczego i zweryfikować jego dalsze stosowanie. Produktu nie powinno się podawać dłużej niż 8 do 12 tygodni. Długie stosowanie (trwające ponad 1 tydzień) oraz nagłe przerwanie leczenia może spowodować przejściowe zaburzenia snu, stany niepokoju i napięcia, uczucie zmęczenia i pobudzenia. Produkt leczniczy należy odstawiać stopniowo, poprzez zmniejszanie dawki.",

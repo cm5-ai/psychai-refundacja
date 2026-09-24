@@ -161,6 +161,43 @@ Dlatego kanonizacja nazwy sluzy WYLACZNIE do lookupu w tabeli wyjatkow i do nicz
 innego. Pilnuje tego assercja w kodzie: kanonizacja nie moze skleic dwoch roznych
 wpisow tabeli wyjatkow.
 
+## Domkniecie dziury — 2026-09-24, tego samego dnia
+
+**Pobrane 91 etykiet iniekcyjnych** przez przegladarke lekarza (runtime ma 403
+z obu maszyn). Droga: fetch w karcie rejestru -> blob -> pobranie do Downloads ->
+przeniesienie shellem. Bilans: 91 zadanych = 91 pobranych, 0 brakow.
+
+**Dolaczone do cache 77 nowych produktow** (`generator/dolacz_iniekcje.py`).
+Mapowanie substancji po KODZIE ATC, nie po nazwie powszechnej — nazwa gubila
+buprenorfine, bo rejestr ma raz `Buprenorphinum`, raz `Buprenorphini
+hydrochloridum`. Ten sam wniosek co w slowniku postaci.
+Skrypt wylacznie DOKLADA; istniejacych produktow nie rusza.
+Cache: 208 -> 285 produktow, 1496 -> 2112 punktow.
+
+**Uzupelnione pole `postac` w 187 starych wpisach cache.** Nie mialy go wcale,
+wiec klucz `(nazwa, drogi)` nie trafial i cztery depoty, ktorych ChPL mamy
+(Fluanxol Depot, Decaldol, Clopixol-Depot, Clopixol-Acuphase), wychodzily jako
+niepokryte. Uzupelnione z rejestru po adresie zrodla.
+
+**POKRYCIE INIEKCJI: bylo 6 na 140, jest 96 na 140.**
+
+**Detektor odezwal sie od razu na nowych etykietach — i mial racje, ze pytal.**
+Jedyna sierota: Nivalin (galantamina, iniekcja), sygnal KADENCJA_CHPL_4.2 z frazy
+„Co 3-4 dni dawke stopniowo zwieksza sie". To tempo zwiekszania dawki, nie odstep
+wstrzykniec — drugi taki przypadek po Clonazepamum TZF.
+**Wzorzec „co N dni" usuniety z sygnalu kadencji: dwa trafienia, dwa falszywe,
+zero prawdziwych.** Jedyny lek o realnym interwale dobowym, Clopixol-Acuphase
+(co 2-3 dni), jest rozstrzygniety wpisem w tabeli wyjatkow. Alarm, ktory myli sie
+zawsze, uczy ignorowania alarmow.
+
+**Co zostaje i dlaczego nie da sie tego wziac z rejestru.**
+44 iniekcje bez pokrycia, z czego **39 nie ma w rejestrze zadnego linku do ChPL**:
+Abilify Maintena, Zypadhera, Zyprexa, Xeplion, Trevicta, BYANNLI, Okedi, Buvidal,
+Briviact, Byfavo, Niapelf, Abilify. To rejestracja centralna EMA — ich ChPL nie
+lezy w rejestrze krajowym. Droga do nich prowadzi przez EMA, nie przez RPL,
+i jest osobnym zadaniem. Pozostale 5 to substancje spoza listy cache
+(fenytoina, piracetam, biperiden, remimazolam, brivaracetam).
+
 ## Zrodla decyzji
 Konsultacja GPT i Grok, 2026-09-24. Od GPT: rozdzielenie `release_form`
 (z rejestru) od `exposure` (z ChPL), napis spoza slownika jako twardy FAIL,

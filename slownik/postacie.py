@@ -32,8 +32,14 @@ KADENCJA = re.compile(
     r"co\s+(dwa|trzy|cztery|sześć|osiem|dwanaście|\d{1,2})\s*(tygodni\w*|miesi\w+)"
     r"|w\s+odstęp\w+\s+(\d{1,2}|dwóch|trzech|czterech)\s*(tygodni\w*|miesi\w+)"
     r"|raz\s+na\s+(\d{1,2}\s*)?(tygodni\w*|miesi\w+)"
-    r"|co\s+miesi\w+|comiesi\w+"
-    r"|co\s+\d{1,2}(\s*[-–—]\s*\d{1,2})?\s*(dni|dob\w+)", re.I)
+    r"|co\s+miesi\w+|comiesi\w+", re.I)
+# Wzorzec "co N dni" USUNIETY 2026-09-24. Trafil dwa razy i dwa razy falszywie:
+# ChPL Clonazepamum TZF ("zwiekszac o 0,5 mg co 3 dni") i ChPL Nivalin
+# ("Co 3-4 dni dawke stopniowo zwieksza sie") - oba razy to TEMPO ZWIEKSZANIA
+# DAWKI, nie odstep miedzy wstrzyknieciami. Zero trafien prawdziwych.
+# Jedyny lek o realnym interwale dobowym, Clopixol-Acuphase (co 2-3 dni),
+# jest rozstrzygniety wpisem w tabeli wyjatkow, nie tym sygnalem.
+# Alarm, ktory myli sie zawsze, uczy ignorowania alarmow.
 NOSNIK_OLEISTY = re.compile(r"olej\w*\s+(arachidow|sezamow|rycynow)|triglicerydy|viscoleo", re.I)
 
 

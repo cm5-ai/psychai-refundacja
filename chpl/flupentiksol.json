@@ -1,8 +1,13 @@
 {
  "STATUS": "PRZEBUDOWANY_Z_PDF",
  "pobrano": "2026-09-23",
+ "pobrano_iniekcje": "2026-09-24",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AF01"
@@ -18,6 +23,7 @@
    "moc": "0,5 mg",
    "nazwa": "Fluanxol",
    "podmiot": "H. Lundbeck A/S",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Zaburzenia psychotyczne bez zaburzeń depresyjnych. Doraźnie w zaburzeniach depresyjnych innych, niż w przebiegu psychozy.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Depresja. Nerwice depresyjne. Zaburzenia psychosomatyczne Początkowo 1 mg na dobę w pojedynczej dawce rano lub 0,5 mg dwa razy na dobę. Po tygodniu dawkę można zwiększyć do 2 mg na dobę, jeśli odpowiedź kliniczna jest niewystarczająca. Dawkę dobową powyżej 2 mg należy podawać w dwóch dawkach podzielonych i nie może ona przekraczać 3 mg. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku powinni otrzymywać połowę zalecanej dawki, tzn. 0,5 do 1,5 mg na dobę. Pacjenci często odpowiadają na leczenie flupentyksolem w ciągu dwóch lub trzech dni. Jeśli po tygodniu podawania maksymalnej dawki nie będzie widocznego efektu terapeutycznego, produkt należy odstawić. Zaburzenia czynności nerek Pacjentom z zaburzeniami czynności nerek można podawać flupentyksol w zwykle stosowanych dawkach. Zaburzenia czynności wątroby Wskazane jest zachowanie ostrożności podczas doboru dawki i jeśli to możliwe oznaczanie stężenia produktu leczniczego w surowicy. Dzieci Flupentyksol jest nie zalecany do stosowania u dzieci ze względu na brak danych klinicznych. Sposób podawania Tabletki należy połykać popijając wodą.",
@@ -36,6 +42,10 @@
    "zrodlo_pliku": "Charakterystyka-30119-20201222000000-6796_N-20210105000721 (1).pdf"
   },
   {
+   "DROGA": [
+    "INIEKCJA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AF01"
@@ -51,6 +61,7 @@
    "moc": "20 mg/ml",
    "nazwa": "Fluanxol Depot",
    "podmiot": "H. Lundbeck A/S",
+   "postac": "Roztwór do wstrzykiwań",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Leczenie podtrzymujące schizofrenii i innych psychoz, zwłaszcza z takimi objawami, jak omamy, urojenia i zaburzenia myślenia, którym towarzyszy apatia, utrata energii, depresja i wycofanie.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli W celu maksymalnego zahamowania objawów psychotycznych przy minimalnych działaniach niepożądanych, dawkowanie i odstępy czasu między wstrzyknięciami należy ustalać indywidualnie dla poszczególnych pacjentów. Dekanonian flupentyksolu 20 mg/ml W leczeniu podtrzymującym zakres dawkowania zwykle wynosi 20-40 mg (1-2 ml) co dwa lub cztery tygodnie, w zależności od odpowiedzi na leczenie. Niektórzy pacjenci mogą potrzebować większych dawek lub krótszych odstępów czasu między kolejnymi dawkami. Dekanonianu flupentyksolu w dawce 20 mg/ml nie należy podawać pacjentom, którzy wymagają uspokojenia polekowego. Jeśli wstrzykiwana objętość leku jest większa niż 2 ml, podzieloną dawkę należy wstrzykiwać w dwa różne miejsca. W przypadku zmiany leczenia z podawanego doustnie flupentyksolu na leczenie podtrzymujące dekanonianem flupentyksolu należy postępować zgodnie z poniższymi zaleceniami: x mg dichlorowodorku flupentyksolu podawane doustnie na dobę odpowiada 4x mg dekanonianu flupentyksolu co dwa tygodnie (na przykład 1 mg dichlorowodorku flupentyksolu podawane doustnie na dobę odpowiada 4 mg dekanonianu flupentyksolu co dwa tygodnie). x mg dichlorowodorku flupentyksolu podawane doustnie na dobę odpowiada 8x mg dekanonianu flupentyksolu co cztery tygodnie (na przykład 1 mg dichlorowodorku flupentyksolu podawane doustnie na dobę odpowiada 8 mg dekanonianu flupentyksolu co cztery tygodnie). Przez tydzień po pierwszym wstrzyknięciu należy kontynuować stosowanie doustne dichlorowodorku flupentyksolu, ale w zmniejszanych dawkach. Pacjenci, którym podawano uprzednio inne produkty w postaci o przedłużonym uwalnianiu (depot) powinni otrzymywać dawki obliczane wg następującego schematu: 40 mg dekanonianu flupentyksolu odpowiada 25 mg dekanonianu flufenazyny lub 200 mg dekanonianu zuklopentyksolu lub 50 mg dekanonianu haloperydolu. Kolejne dawki dekanonianu flupentyksolu i odstępy czasu między wstrzyknięciami należy ustalać zgodnie z odpowiedzią pacjenta na leczenie. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku powinni otrzymywać dawki w dolnej granicy zakresu dawkowania. Zaburzenie czynności nerek Pacjentom z zaburzeniem czynności nerek można podawać dekanonian flupentyksolu w zwykle stosowanych dawkach. Zaburzenie czynności wątroby Zalecane jest zachowanie ostrożności podczas doboru dawki i, jeśli to możliwe, oznaczanie stężenia produktu w surowicy. Dzieci Nie zaleca się stosowania dekanonianu flupentyksolu u dzieci ze względu na brak doświadczenia klinicznego. Sposób podawania Dekanonian flupentyksolu podaje się we wstrzyknięciu domięśniowym do górnego zewnętrznego kwadrantu pośladka. Jeśli wstrzykiwana objętość leku jest większa niż 2 ml, podzieloną dawkę należy wstrzykiwać w dwa różne miejsca. Miejscowa tolerancja jest dobra.",
@@ -80,5 +91,6 @@
   "5.2"
  ],
  "substancja": "flupentiksol",
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
+ "uwaga_iniekcje": "Produkty iniekcyjne dolaczone 2026-09-24 z etykiet pobranych przez przegladarke. Limit 3 produktow na substancje ich NIE obejmuje - byly poza cache'em."
 }

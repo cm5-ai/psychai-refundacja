@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AL03"
@@ -18,6 +22,7 @@
    "moc": "100 mg",
    "nazwa": "Tiaprid PMCS",
    "podmiot": "PRO.MED.CS Praha a.s.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Dorośli Produkt leczniczy Tiaprid PMCS wskazany jest: - w krótkotrwałym leczeniu stanów pobudzenia i agresji u pacjentów uzależnionych od alkoholu. - w przypadku ciężkiej postaci pląsawicy w chorobie Huntingtona. Osoby w podeszłym wieku Produkt leczniczy Tiaprid PMCS wskazany jest w krótkotrwałym leczeniu stanów pobudzenia i agresji u pacjentów w podeszłym wieku.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Krótkotrwałe leczenie stanów pobudzenia i agresji u pacjentów uzależnionych od alkoholu: 300–400 mg/dobę (tj. 3-4 tabletki na dobę) przez 1-2 miesiące. Ciężka postać pląsawicy w chorobie Huntingtona: 300–1200 mg/dobę. Dawka początkowa: do 1200 mg/dobę (tj. 12 tabletek), podawane w co najmniej trzech dawkach podzielonych. Następnie, dawka jest zmniejszana stopniowo do dawki podtrzymującej, w zależności od odpowiedzi pacjenta. Krótkotrwałe leczenie stanów pobudzenia i agresji u pacjentów w podeszłym wieku: Dawka początkowa wynosi 100 mg (tj. 1 tabletka) na dobę. W razie potrzeby, dawkę można stopniowo zwiększać do maksymalnie 300 mg (tj. 3 tabletki) na dobę. Czas trwania leczenia nie powinien przekraczać 28 dni. Dzieci i młodzież Zwykle stosowana dawka wynosi 100–150 mg/dobę, do maksymalnie 300 mg/dobę. Zaburzenia czynności nerek U pacjentów, u których klirens kreatyniny mieści się w zakresie 30-60 ml/minutę, dawkę produktu leczniczego należy zmniejszyć do 75 % zwykle stosowanej dawki, do 50 % u pacjentów, u których klirens kreatyniny mieści się w zakresie 10–30 ml/minutę oraz do 25 % u pacjentów, u których klirens kreatyniny jest mniejszy niż 10 ml/minutę. Zaburzenia czynności wątroby Produkt leczniczy jest słabo metabolizowany, w związku z tym nie ma konieczności zmniejszania dawki. Sposób podawania Tabletki do stosowania doustnego.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-27945-2025-11-05-24469_M-2026-05-07.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AL03"
@@ -51,6 +60,7 @@
    "moc": "100 mg",
    "nazwa": "Tiapridal",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Tiapridal jest wskazany do krótkotrwałego leczenia stanów pobudzenia i agresji u pacjentów w podeszłym wieku.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dawka początkowa wynosi 100 mg na dobę. W razie potrzeby dawkę można stopniowo zwiększać do maksymalnie 300 mg na dobę. Czas trwania leczenia nie powinien przekraczać 28 dni. Niewydolność wątroby Produkt leczniczy jest metabolizowany w niewielkim stopniu, dlatego zmniejszenie dawkowania nie jest konieczne. Niewydolność nerek Dawkę należy zmniejszyć do 75% standardowej dawki u pacjentów z klirensem kreatyniny 30-60 mL/min, do 50% standardowej dawki u pacjentów z klirensem kreatyniny 10-30 mL/min i do 25% standardowej dawki u pacjentów z klirensem kreatyniny poniżej 10 mL/min.",

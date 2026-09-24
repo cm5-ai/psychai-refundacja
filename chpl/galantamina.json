@@ -1,6 +1,114 @@
 {
- "substancja": "galantamina",
  "pobrano": "2026-09-22",
+ "pobrano_iniekcje": "2026-09-24",
+ "produkty": [
+  {
+   "klucz_rpl": {
+    "atc": [
+     "N06DA04"
+    ],
+    "nazwa_powszechna": [
+     "Galantamini hydrobromidum",
+     "Galantaminum"
+    ],
+    "postac": [
+     "Roztwór do wstrzykiwań"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
+   },
+   "moc": "5 mg/ml",
+   "nazwa": "Nivalin",
+   "punkty": {},
+   "stan": "BRAK URL ChPL W SPISIE",
+   "zrodlo": ""
+  },
+  {
+   "DROGA": [
+    "INIEKCJA"
+   ],
+   "EKSPOZYCJA": {
+    "alarm": "KADENCJA_CHPL_4.2",
+    "ekspozycja": "KROTKA",
+    "zrodlo": "DOMYSLNIE_KROTKA_ALARM_KADENCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06DA04"
+    ],
+    "nazwa_powszechna": [
+     "Galantaminum"
+    ],
+    "postac": [
+     "Roztwór do wstrzykiwań"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "2,5 mg/ml",
+   "nazwa": "Nivalin",
+   "podmiot": "Sopharma Warszawa Sp. z o.o.",
+   "postac": "Roztwór do wstrzykiwań",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Objawowe wspomagające leczenie chorób nerwowo-mięśniowych i rdzenia.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas trwania leczenia galantaminą powinien zależeć od ciężkości objawów i indywidualnej reakcji chorego na leczenie. Nivalin, roztwór do wstrzykiwań stosuje się podskórnie, domięśniowo i dożylnie. Neurologia Dorośli Zalecaną dawką początkową jest 2,5 mg. Co 3-4 dni dawkę stopniowo zwiększa się o 2,5 mg w 2 lub 3 dawkach podzielonych. Maksymalna dawka jednorazowa u dorosłych wynosi 10 mg podskórnie, a maksymalna dawka dobowa - 20 mg. Dzieci i młodzież Lek podaje się podskórnie w następujących dawkach dobowych: od 1 do 2 lat 0,25 - 1,0 mg od 3 do 5 lat 0,50 - 5,0 mg od 6 do 8 lat 0,75 - 7,5 mg od 9 do 11 lat 1,0 - 10,0 mg od 12 do 15 lat 1,25-12,5 mg powyżej 15 lat 1,25 - 15,0 mg Czas trwania leczenia zależy od charakteru i ciężkości leczonej choroby. Najczęściej 40 do 60 dni. Cykle leczenia można powtarzać 2-3 razy w odstępie 1-2 miesięcy.",
+    "4.3": "4.3 Przeciwwskazania • Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1 • Astma oskrzelowa • Bradykardia • Blok przedsionkowo-komorowy • Niedokrwienna choroba serca • Ciężka niewydolność serca • Padaczka • Hiperkinezja • Ciężka niewydolność nerek (klirens kreatyniny poniżej 10 ml/min) lub wątroby.",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Parasympatykomimetyki ze względu na mechanizm działania mogą mieć wagotoniczny wpływ na czynność serca (bradykardia, blok przedsionkowo-komorowy). Dlatego konieczne jest zachowanie ostrożności przy podawaniu galantaminy pacjentom z zespołem chorego węzła zatokowego lub innymi nadkomorowymi zaburzeniami przewodnictwa w sercu, a także pacjentom, u których jednocześnie stosuje się produkty istotnie zwalniające rytm serca, jak digoksyna bądź leki blokujące receptor β-adrenergiczny, lub pacjentom z niewyrównanymi zaburzeniami elektrolitowymi (hiperkaliemia lub hipokaliemia). Galantaminę należy ostrożnie stosować u chorych na zastoinową niewydolność serca. Donoszono o wydłużeniu odstępu QTc u pacjentów stosujących lecznicze dawki galantaminy i o wystąpieniu torsade de pointes w związku z przedawkowaniem (patrz punkt 4.9). Dlatego należy zachować ostrożność podczas stosowania galantaminy u pacjentów z wydłużeniem odstępu QTc, u pacjentów leczonych lekami wpływającymi na odstęp QTc lub u pacjentów z istotną wcześniejszą chorobą serca lub zaburzeniami elektrolitowymi. Uważa się, że parasympatykomimetyki mogą wywoływać uogólnione drgawki. W rzadkich przypadkach wzrost napięcia układu cholinergicznego może nasilać objawy choroby Parkinsona. Galantaminę należy ostrożnie i w mniejszych dawkach stosować u pacjentów z łagodną niewydolnością nerek, w zależności od klirensu kreatyniny. W przypadku utraty masy ciała związanej z leczeniem inhibitorami esterazy cholinowej, także galantaminą, należy monitorować masę ciała pacjenta. Produkt należy ostrożnie stosować u pacjentów z niedrożnością dróg moczowych lub niedawnym chirurgicznym wycięciu gruczołu krokowego lub pęcherza moczowego, a także podczas operacji chirurgicznych w znieczuleniu ogólnym. Nivalin zawiera sód Ten produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu na 1 ml roztworu to znaczy, że produkt uznaje się za „wolny od sodu”.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji • Galantamina antagonizuje hamujące działanie morfiny i jej analogów na ośrodek oddechowy. • Przy jednoczesnym stosowaniu galantaminy z innymi cholinomimetykami poza ich działaniem cholinergicznym może wystąpić działanie addycyjne. • Jednoczesne stosowanie galantaminy z digoksyną lub lekami blokującymi receptor (β - adrenergiczny może prowadzić do istotnego spowolnienia czynności serca. • Galantamina antagonizuje działanie M-cholinolityków (atropina lub podobne związki), heksametonium i innych leków blokujących sploty nerwowe oraz niedepolaryzujących środków zwiotczających mięśnie (tubokuraryna). • Aminoglikozydy (gentamycyna, amikacyna) mogą osłabiać działanie galantaminy. • Środki depolaryzujące płytkę motoryczną (suksametonium) mogą wydłużać działanie jednocześnie zastosowanej galantaminy. • Inhibitory CYP2D6 (chinidyna, paroksetyna, fluoksetyna) lub CYP3A4 (ketokonazol, rytonawir, erytromycyna) mogą wpływać na przemianę galantaminy i zwiększać jej stężenie w osoczu krwi.",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Produkt nie jest zalecany do stosowania podczas ciąży oraz karmienia piersią, gdyż jego bezpieczeństwo w takich przypadkach nie zostało określone.",
+    "4.8": "4.8 Działania niepożądane Mogą objawiać się jako nasilone działania nikotynowe lub muskarynowe (w mniejszym stopniu), charakterystyczne dla klasy farmakologicznej lub jako reakcje nadwrażliwości. Zaburzenia serca: bradykardia, blok przedsionkowo-komorowy, stenokardia, kołatanie serca. Zaburzenia układu nerwowego: zawroty i bóle głowy, bezsenność. Zaburzenia oka: zwężenie źrenicy, nadmierne łzawienie. Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia: przyspieszony oddech, skurcz oskrzeli, nadmierne wydalanie wydzieliny z nosa i oskrzeli. Zaburzenia żołądka i jelit: nudności, wymioty, biegunka, zwiększone wydzielanie śliny, nasilona perystaltyka, bóle brzucha. Zaburzenia naczyniowe: obniżone ciśnienie krwi (hipotensja) lub nadciśnienie. Zaburzenia ogólne: utrata łaknienia, utrata masy ciała, wzmożone wydzielanie potu, skurcze mięśni. Zaburzenia układu immunologicznego: świąd, wysypka skórna, pokrzywka, nieżyt nosa. W pojedynczych przypadkach obserwowano ciężkie reakcje z nadwrażliwości, łącznie z anafilaksją i utratą świadomości. Jeśli podczas stosowania galantaminy będą dominować działania parasympatykomimetyczne, należy zmniejszyć jej dawkę dobową lub przerwać leczenie na 2-3 dni, a następnie wznowić je mniejszymi dawkami. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po wstrzyknięciu podskórnym galantamina dobrze się wchłania. Badania farmakokinetyki galantaminy nie wykazały różnicy statystycznie istotnej w średniej wartości AUC (pole pod krzywą) po podaniu takiej samej dawki (10 mg) doustnie lub pozajelitowo. Maksymalne stężenie w osoczu krwi po podskórnym wstrzyknięciu dawki 10 mg lek osiąga w ciągu 2 godzin. Dystrybucja Galantamina słabo wiąże się z białkami osocza krwi. Łatwo przenika przez barierę krew-mózg i występuje w tkance mózgowej. Metabolizm Galantamina jest metabolizowana w wątrobie z udziałem cytochromu P450 (CYP3A4 i CYP2D6). Jej biotransformacja jest powolna, a nieistotna demetylacja wynosi 5-6%. W osoczu krwi i w moczu występują metabolity galantaminy - epigalantamina, galantaminon oraz norgalantamina. Eliminacja Okres półtrwania eliminacji wynosi ok. 5 godzin. Eliminacja z kompartmentu centralnego jest szybsza niż z kompartmentu obwodowego. Galantamina jest wydalana głównie przez przesączanie kłębuszkowe. Klirens nerkowy galantaminy wynosi 1,40 ml/min/kg. Po podaniu podskórnym galantamina w niezmienionej postaci i jej metabolity są wydalane z moczem. Galantamina nie jest sprzęgana w wątrobie, a jej wydalanie z żółcią jest małe - 0,2 ± 0,1 % na 24 godziny."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "67ec622453a2bd72636b6ea18e40bacc124d5bd965790ee2a158cccf2c667fc3",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4776/characteristic",
+   "zrodlo_pliku": "chpl_4776.pdf"
+  },
+  {
+   "DROGA": [
+    "INIEKCJA"
+   ],
+   "EKSPOZYCJA": {
+    "alarm": "KADENCJA_CHPL_4.2",
+    "ekspozycja": "KROTKA",
+    "zrodlo": "DOMYSLNIE_KROTKA_ALARM_KADENCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06DA04"
+    ],
+    "nazwa_powszechna": [
+     "Galantaminum"
+    ],
+    "postac": [
+     "Roztwór do wstrzykiwań"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "5 mg/ml",
+   "nazwa": "Nivalin",
+   "podmiot": "Sopharma Warszawa Sp. z o.o.",
+   "postac": "Roztwór do wstrzykiwań",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Objawowe wspomagające leczenie chorób nerwowo-mięśniowych i rdzenia.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas trwania leczenia galantaminą powinien zależeć od ciężkości objawów i indywidualnej reakcji chorego na leczenie. Nivalin, roztwór do wstrzykiwań stosuje się podskórnie, domięśniowo i dożylnie. Neurologia Dorośli Zalecaną dawką początkową jest 2,5 mg. Co 3-4 dni dawkę stopniowo zwiększa się o 2,5 mg w 2 lub 3 dawkach podzielonych. Maksymalna dawka jednorazowa u dorosłych wynosi 10 mg podskórnie, a maksymalna dawka dobowa - 20 mg. Dzieci i młodzież Lek podaje się podskórnie w następujących dawkach dobowych: od 1 do 2 lat 0,25 - 1,0 mg od 3 do 5 lat 0,50 - 5,0 mg od 6 do 8 lat 0,75 - 7,5 mg od 9 do 11 lat 1,0 - 10,0 mg od 12 do 15 lat 1,25-12,5 mg powyżej 15 lat 1,25 - 15,0 mg Czas trwania leczenia zależy od charakteru i ciężkości leczonej choroby. Najczęściej 40 do 60 dni. Cykle leczenia można powtarzać 2-3 razy w odstępie 1-2 miesięcy.",
+    "4.3": "4.3 Przeciwwskazania • Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1 • Astma oskrzelowa • Bradykardia • Blok przedsionkowo-komorowy • Niedokrwienna choroba serca • Ciężka niewydolność serca • Padaczka • Hiperkinezja • Ciężka niewydolność nerek (klirens kreatyniny poniżej 10 ml/min) lub wątroby.",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Parasympatykomimetyki ze względu na mechanizm działania mogą mieć wagotoniczny wpływ na czynność serca (bradykardia, blok przedsionkowo-komorowy). Dlatego konieczne jest zachowanie ostrożności przy podawaniu galantaminy pacjentom z zespołem chorego węzła zatokowego lub innymi nadkomorowymi zaburzeniami przewodnictwa w sercu, a także pacjentom, u których jednocześnie stosuje się produkty istotnie zwalniające rytm serca, jak digoksyna bądź leki blokujące receptor β-adrenergiczny, lub pacjentom z niewyrównanymi zaburzeniami elektrolitowymi (hiperkaliemia lub hipokaliemia). Galantaminę należy ostrożnie stosować u chorych na zastoinową niewydolność serca. Donoszono o wydłużeniu odstępu QTc u pacjentów stosujących lecznicze dawki galantaminy i o wystąpieniu torsade de pointes w związku z przedawkowaniem (patrz punkt 4.9). Dlatego należy zachować ostrożność podczas stosowania galantaminy u pacjentów z wydłużeniem odstępu QTc, u pacjentów leczonych lekami wpływającymi na odstęp QTc lub u pacjentów z istotną wcześniejszą chorobą serca lub zaburzeniami elektrolitowymi. Uważa się, że parasympatykomimetyki mogą wywoływać uogólnione drgawki. W rzadkich przypadkach wzrost napięcia układu cholinergicznego może nasilać objawy choroby Parkinsona. Galantaminę należy ostrożnie i w mniejszych dawkach stosować u pacjentów z łagodną niewydolnością nerek, w zależności od klirensu kreatyniny. W przypadku utraty masy ciała związanej z leczeniem inhibitorami esterazy cholinowej, także galantaminą, należy monitorować masę ciała pacjenta. Produkt należy ostrożnie stosować u pacjentów z niedrożnością dróg moczowych lub niedawnym chirurgicznym wycięciu gruczołu krokowego lub pęcherza moczowego, a także podczas operacji chirurgicznych w znieczuleniu ogólnym. Nivalin zawiera sód Ten produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu na 1 ml roztworu to znaczy, że produkt uznaje się za „wolny od sodu”.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji • Galantamina antagonizuje hamujące działanie morfiny i jej analogów na ośrodek oddechowy. • Przy jednoczesnym stosowaniu galantaminy z innymi cholinomimetykami poza ich działaniem cholinergicznym może wystąpić działanie addycyjne. • Jednoczesne stosowanie galantaminy z digoksyną lub lekami blokującymi receptor (β - adrenergiczny może prowadzić do istotnego spowolnienia czynności serca. • Galantamina antagonizuje działanie M-cholinolityków (atropina lub podobne związki), heksametonium i innych leków blokujących sploty nerwowe oraz niedepolaryzujących środków zwiotczających mięśnie (tubokuraryna). • Aminoglikozydy (gentamycyna, amikacyna) mogą osłabiać działanie galantaminy. • Środki depolaryzujące płytkę motoryczną (suksametonium) mogą wydłużać działanie jednocześnie zastosowanej galantaminy. • Inhibitory CYP2D6 (chinidyna, paroksetyna, fluoksetyna) lub CYP3A4 (ketokonazol, rytonawir, erytromycyna) mogą wpływać na przemianę galantaminy i zwiększać jej stężenie w osoczu krwi.",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Produkt nie jest zalecany do stosowania podczas ciąży oraz karmienia piersią, gdyż jego bezpieczeństwo w takich przypadkach nie zostało określone.",
+    "4.8": "4.8 Działania niepożądane Mogą objawiać się jako nasilone działania nikotynowe lub muskarynowe (w mniejszym stopniu), charakterystyczne dla klasy farmakologicznej lub jako reakcje nadwrażliwości. Zaburzenia serca: bradykardia, blok przedsionkowo-komorowy, stenokardia, kołatanie serca. Zaburzenia układu nerwowego: zawroty i bóle głowy, bezsenność. Zaburzenia oka: zwężenie źrenicy, nadmierne łzawienie. Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia: przyspieszony oddech, skurcz oskrzeli, nadmierne wydalanie wydzieliny z nosa i oskrzeli. Zaburzenia żołądka i jelit: nudności, wymioty, biegunka, zwiększone wydzielanie śliny, nasilona perystaltyka, bóle brzucha. Zaburzenia naczyniowe: obniżone ciśnienie krwi (hipotensja) lub nadciśnienie. Zaburzenia ogólne: utrata łaknienia, utrata masy ciała, wzmożone wydzielanie potu, skurcze mięśni. Zaburzenia układu immunologicznego: świąd, wysypka skórna, pokrzywka, nieżyt nosa. W pojedynczych przypadkach obserwowano ciężkie reakcje z nadwrażliwości, łącznie z anafilaksją i utratą świadomości. Jeśli podczas stosowania galantaminy będą dominować działania parasympatykomimetyczne, należy zmniejszyć jej dawkę dobową lub przerwać leczenie na 2-3 dni, a następnie wznowić je mniejszymi dawkami. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49 21 301, faks: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Po wstrzyknięciu podskórnym galantamina dobrze się wchłania. Badania farmakokinetyki galantaminy nie wykazały różnicy statystycznie istotnej w średniej wartości AUC (pole pod krzywą) po podaniu takiej samej dawki (10 mg) doustnie lub pozajelitowo. Maksymalne stężenie w osoczu krwi po podskórnym wstrzyknięciu dawki 10 mg lek osiąga w ciągu 2 godzin. Dystrybucja Galantamina słabo wiąże się z białkami osocza krwi. Łatwo przenika przez barierę krew-mózg i występuje w tkance mózgowej. Metabolizm Galantamina jest metabolizowana w wątrobie z udziałem cytochromu P450 (CYP3A4 i CYP2D6). Jej biotransformacja jest powolna, a nieistotna demetylacja wynosi 5-6%. W osoczu krwi i w moczu występują metabolity galantaminy - epigalantamina, galantaminon oraz norgalantamina. Eliminacja Okres półtrwania eliminacji wynosi ok. 5 godzin. Eliminacja z kompartmentu centralnego jest szybsza niż z kompartmentu obwodowego. Galantamina jest wydalana głównie przez przesączanie kłębuszkowe. Klirens nerkowy galantaminy wynosi 1,40 ml/min/kg. Po podaniu podskórnym galantamina w niezmienionej postaci i jej metabolity są wydalane z moczem. Galantamina nie jest sprzęgana w wątrobie, a jej wydalanie z żółcią jest małe - 0,2 ± 0,1 % na 24 godziny."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "67ec622453a2bd72636b6ea18e40bacc124d5bd965790ee2a158cccf2c667fc3",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4775/characteristic",
+   "zrodlo_pliku": "chpl_4775.pdf"
+  }
+ ],
  "punkty_zadane": [
   "4.1",
   "4.2",
@@ -11,27 +119,7 @@
   "4.8",
   "5.2"
  ],
+ "substancja": "galantamina",
  "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
- "produkty": [
-  {
-   "nazwa": "Nivalin",
-   "moc": "5 mg/ml",
-   "zrodlo": "",
-   "stan": "BRAK URL ChPL W SPISIE",
-   "punkty": {},
-   "klucz_rpl": {
-    "postac": [
-     "Roztwór do wstrzykiwań"
-    ],
-    "nazwa_powszechna": [
-     "Galantamini hydrobromidum",
-     "Galantaminum"
-    ],
-    "atc": [
-     "N06DA04"
-    ],
-    "zrodlo": "RPL_PSYCH.json, rownosc nazwy handlowej"
-   }
-  }
- ]
+ "uwaga_iniekcje": "Produkty iniekcyjne dolaczone 2026-09-24 z etykiet pobranych przez przegladarke. Limit 3 produktow na substancje ich NIE obejmuje - byly poza cache'em."
 }

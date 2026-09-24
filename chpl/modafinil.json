@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06BA07"
@@ -18,6 +22,7 @@
    "moc": "100 mg",
    "nazwa": "Actimodan",
    "podmiot": "Aflofarm Farmacja Polska Sp. z o.o.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Actimodan wskazany jest do stosowania u dorosłych, w leczeniu nadmiernej senności związanej z narkolepsją z katapleksją lub bez katapleksji. Nadmierna senność zdefiniowana jest jako trudność w utrzymaniu stanu czuwania i zwiększone ryzyko zaśnięcia w nieodpowiednich sytuacjach.",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie powinno być rozpoczęte przez lekarza lub pod nadzorem lekarza z odpowiednią wiedzą na temat wyżej wymienionych zaburzeń (patrz punkt 4.1). Rozpoznanie narkolepsji należy postawić zgodnie z wytycznymi Międzynarodowej Klasyfikacji Zaburzeń Snu (ang. International Classification of Sleep Disorders - ICSD2). Okresowo należy kontrolować stan pacjenta i dokonywać klinicznej oceny konieczności dalszego leczenia. Dawkowanie Zalecana początkowa dawka dobowa wynosi 200 mg. Całkowitą dawkę dobową można przyjmować w pojedynczej dawce rano lub w dwóch dawkach podzielonych, rano i w południe, w zależności od oceny stanu pacjenta przez lekarza oraz odpowiedzi pacjenta na leczenie. U pacjentów z niewystarczającą reakcją na dawkę początkową 200 mg modafinilu można stosować dawki do 400 mg w jednej lub dwóch dawkach podzielonych. Stosowanie przewlekłe Lekarze przepisujący modafinil na czas dłuższy powinni okresowo dokonywać ponownej oceny przewlekłego stosowania produktu leczniczego u poszczególnych pacjentów, ponieważ długotrwała skuteczność modafinilu nie była oceniana (> 9 tygodni). Pacjenci z zaburzeniami czynności nerek Brak wystarczających informacji umożliwiających określenie bezpieczeństwa i skuteczności stosowania u pacjentów z zaburzeniami czynności nerek (patrz punkt 5.2). Pacjenci z zaburzeniami czynności wątroby U pacjentów z ciężkim zaburzeniami czynności wątroby należy zmniejszyć dawkę modafinilu o połowę (patrz punkt 5.2). Pacjenci w podeszłym wieku Dostępne są tylko ograniczone dane dotyczące stosowania modafinilu u pacjentów w podeszłym wieku. Biorąc pod uwagę możliwość zmniejszenia klirensu i zwiększenia ekspozycji ogólnoustrojowej, zaleca się, aby u pacjentów w wieku powyżej 65 lat rozpoczynać leczenie od dawki 100 mg na dobę. Dzieci i młodzież Z powodów związanych z bezpieczeństwem i skutecznością modafinilu, ten produkt leczniczy nie powinien być stosowany u dzieci i młodzieży w wieku poniżej 18 lat (patrz punkt 4.4). Sposób podawania Do podawania doustnego. Tabletki należy połykać w całości.",

@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "ZMODYFIKOWANE",
    "klucz_rpl": {
     "atc": [
      "N07BB03"
@@ -18,6 +22,7 @@
    "moc": "333 mg",
    "nazwa": "Campral",
    "podmiot": "Merck Sante s.a.s.",
+   "postac": "Tabletki powlekane dojelitowe",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Campral jest wskazany w leczeniu podtrzymującym abstynencję alkoholową u osób uzależnionych od alkoholu z jednocześnie prowadzoną psychoterapią.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dorośli w wieku 18 - 65 lat Pacjentom o masie ciała 60 kg lub większej podaje się po 2 tabletki akamprozatu wapnia trzy razy na dobę (rano, w południe i przed snem). Pacjentom o masie ciała poniżej 60 kg podaje się 4 tabletki w trzech podzielonych dawkach (dwie tabletki rano, jedną w południe i jedną przed snem). Sposób podawania W przypadku prawidłowo działającego układu pokarmowego zaleca się podawanie produktu leczniczego pomiędzy posiłkami. Podawanie produktu Campral jednocześnie z posiłkiem zmniejsza biodostępność produktu leczniczego (patrz punkt 5.2.). Zalecany czas trwania leczenia wynosi 1 rok. Leczenie akamprozatem należy rozpoczynać jak najwcześniej po odstawieniu alkoholu. Sporadyczny epizod wypicia alkoholu nie jest przeciwwskazaniem do kontynuowania leczenia.",

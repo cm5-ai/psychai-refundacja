@@ -1,8 +1,13 @@
 {
  "STATUS": "PRZEBUDOWANY_Z_PDF",
  "pobrano": "2026-09-23",
+ "pobrano_iniekcje": "2026-09-24",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05BA05"
@@ -18,6 +23,7 @@
    "moc": "10 mg",
    "nazwa": "Cloranxen",
    "podmiot": "Teva Pharmaceuticals Polska Sp. z o.o.",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania • Krótkotrwałe stany lęku i niepokoju, zwłaszcza doraźnie wspomagająco w przebiegu nerwicy • Zespół abstynencji w uzależnieniu alkoholowym (majaczenie alkoholowe, stany predeliryjne). Leczenie farmakologiczne jest wskazane tylko w sytuacjach, w których objawy są nasilone, zaburzają prawidłowe funkcjonowanie lub są uciążliwe dla pacjenta.",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie należy rozpoczynać od dawki początkowej, stopniowo zwiększając dawkę, w celu uniknięcia wystąpienia działań niepożądanych. Nie należy przekraczać dawki maksymalnej 30 mg na dobę. Czas leczenia powinien być możliwie najkrótszy i nie powinien przekraczać 4 tygodni włączając w to okres zmniejszania dawki. Podczas leczenia należy regularnie monitorować pacjenta w celu ewentualnego zmniejszenia dawki lub częstości podawania leku. Ze względu na możliwość wystąpienia objawów odstawienia, lek należy odstawiać ostrożnie, stopniowo zmniejszając dawkę dobową. Dawkowanie Dorośli dawka terapeutyczna: od 5 mg do 30 mg na dobę. Leczenie zaleca się rozpoczynać od dawki 5 mg na dobę. Dawkę dobową można przyjmować jeden raz na dobę, wieczorem. Dzieci i młodzież Produkt leczniczy Cloranxen w dawce 10 mg jest przeznaczony do stosowania u osób dorosłych. Produkt leczniczy w dawce 5 mg: Dane dotyczące stosowania u dzieci i młodzieży w leczeniu lęku są ograniczone, dlatego nie zaleca się stosowania w tej grupie wiekowej. Tylko w wyjątkowych przypadkach, uzasadnionych przez lekarza specjalistę, stosowanie u dzieci w wieku powyżej 12 lat: w dawce 0,5 mg/kg mc. na dobę w dawkach podzielonych. Pacjenci w podeszłym wieku U pacjentów w wieku podeszłym należy zmniejszyć dawkę o 50 %; leczenie powinno trwać jak najkrócej. Pacjenci z zaburzeniami czynności nerek U pacjentów z zaburzeniami czynności nerek dawkę leku należy zmniejszyć o 50 %. Pacjenci z zaburzeniami czynności wątroby U pacjentów z zaburzeniami czynności wątroby produkt leczniczy Cloranxen należy stosować bardzo ostrożnie; u pacjentów z niewydolnością wątroby może wystąpić encefalopatia.",
@@ -36,6 +42,10 @@
    "zrodlo_pliku": "Charakterystyka-8002-2025-08-20-18642_N-2025-09-03.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05BA05"
@@ -52,6 +62,7 @@
    "moc": "10 mg",
    "nazwa": "Tranxene",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
+   "postac": "Kapsułki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania - Krótkotrwałe stany lęku i niepokoju, zwłaszcza doraźnie wspomagająco w przebiegu nerwicy, - Zespół abstynencji w uzależnieniu alkoholowym (majaczenie alkoholowe, stany predeliryjne). Leczenie farmakologiczne jest wskazane tylko w sytuacjach, w których objawy są nasilone, zaburzają prawidłowe funkcjonowanie lub są uciążliwe dla pacjenta.",
     "4.2": "4.2 Dawkowanie i sposób podawania Leczenie należy rozpoczynać od dawki początkowej, stopniowo zwiększając dawkę, w celu uniknięcia wystąpienia działań niepożądanych. Nie należy przekraczać dawki maksymalnej 30 mg na dobę. Czas leczenia powinien być możliwie najkrótszy i nie powinien przekraczać 8 do 12 tygodni, włączając w to okres zmniejszania dawki. Podczas leczenia należy regularnie monitorować pacjenta w celu ewentualnego zmniejszenia dawki lub częstości podawania leku. Ze względu na możliwość wystąpienia objawów odstawienia, lek należy odstawiać ostrożnie, stopniowo zmniejszając dawkę dobową. Dawkowanie Dorośli dawka terapeutyczna: od 5 do 30 mg na dobę. Leczenie zaleca się rozpoczynać od dawki 5 mg na dobę. Dawkę dobową można przyjmować jeden raz na dobę, wieczorem. Dzieci i młodzież Produkt leczniczy Tranxene w dawce 10 mg jest przeznaczony do stosowania u osób dorosłych. Produkt leczniczy Tranxene w dawce 5 mg: Dane dotyczące stosowania u dzieci i młodzieży w leczeniu lęku są ograniczone, dlatego nie zaleca się stosowania w tej grupie wiekowej. Tylko w wyjątkowych przypadkach, uzasadnionych przez lekarza specjalistę, stosowanie u dzieci w wieku powyżej 9 lat: w dawce 0,5 mg/kg mc. na dobę w dawkach podzielonych. Pacjenci w wieku podeszłym U pacjentów w wieku podeszłym należy zmniejszyć dawkę o 50%; leczenie powinno trwać jak najkrócej. Pacjenci z zaburzeniami czynności nerek U pacjentów z zaburzeniami czynności nerek dawkę leku należy zmniejszyć o 50%. Pacjenci z zaburzeniami czynności wątroby U pacjentów z zaburzeniami czynności wątroby produkt leczniczy Tranxene należy stosować bardzo ostrożnie; u pacjentów z niewydolnością wątroby może wystąpić encefalopatia.",
@@ -70,6 +81,10 @@
    "zrodlo_pliku": "Charakterystyka-6754-2024-01-24-15167_N-2024-02-07.pdf"
   },
   {
+   "DROGA": [
+    "INIEKCJA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05BA05"
@@ -85,6 +100,7 @@
    "moc": "20 mg/2 ml",
    "nazwa": "Tranxene 20",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
+   "postac": "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Neurologiczno-psychiatryczne stany nagłe, takie jak: - napady lęku i niepokoju; - napady pobudzenia ruchowego i agresji. Zapobieganie i (lub) leczenie delirium tremens i innych objawów zespołu abstynencji w uzależnieniu alkoholowym. Jako lek wspomagający w skurczach tonicznych w tężcu.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Ostre napady lęku i stany pobudzenia psychoruchowego lub agresji 20 - 200 mg na dobę domięśniowo lub dożylnie, po czym w razie potrzeby należy kontynuować podawanie produktu w postaci doustnej. Objawy zespołu abstynencji w uzależnieniu alkoholowym Od 50 do 100 mg na dobę, parenteralnie. Jeśli zachodzi potrzeba dalszego stosowania we wstrzyknięciach, po 2 - 3 dniach dawka powinna być obniżona o połowę; ewentualne dalsze stosowanie produktu można kontynuować w postaci doustnej. Tężec W przypadkach nie wymagających tracheotomii - 120 do 500 mg na dobę we wlewach dożylnych; w ciężkim tężcu, z oddychaniem wspomaganym - 500 do 2000 mg na dobę we wlewie dożylnym. Stosowanie u osób w podeszłym wieku oraz u pacjentów z zaburzeniem czynności nerek lub wątroby Dawkę należy zmniejszyć. Niekiedy wystarczy dawka o połowę mniejsza od średniej dawki. Dzieci i młodzież Stosowanie u dzieci jest przeciwwskazane. Sposób podawania Lek można podawać domięśniowo albo w powolnym wstrzyknięciu dożylnym lub w powolnym wlewie dożylnym. Ze względu na ryzyko wystąpienia bezdechu przy szybkim wstrzyknięciu dożylnym, lek należy podawać w powolnym wstrzyknięciu dożylnym, do dużej żyły (patrz punkt 4.8). Przy podawaniu domięśniowym należy produkt leczniczy wstrzykiwać głęboko domięśniowo. Placówka, w której podaje się lek, powinna dysponować wyposażeniem do prowadzenia intensywnej terapii oddechowej. Należy unikać mieszania leków w tej samej strzykawce. Należy stosować wyłącznie rozpuszczalnik dołączony w opakowaniu produktu leczniczego. Czas trwania leczenia Leczenie powinno trwać tak krótko, jak to możliwe. W razie zmiany produktu leczniczego na postać doustną, należy regularnie weryfikować obecność wskazań do jego stosowania.",
@@ -114,5 +130,6 @@
   "5.2"
  ],
  "substancja": "klorazepat",
- "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
+ "uwaga_iniekcje": "Produkty iniekcyjne dolaczone 2026-09-24 z etykiet pobranych przez przegladarke. Limit 3 produktow na substancje ich NIE obejmuje - byly poza cache'em."
 }

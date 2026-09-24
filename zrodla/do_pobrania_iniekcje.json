@@ -1,0 +1,821 @@
+[
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/338/characteristic",
+  "id": "100003389",
+  "nazwa": "Akineton",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Biperideni hydrochloridum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1194/characteristic",
+  "id": "100011940",
+  "nazwa": "Bunondol",
+  "moc": "0,3 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Buprenorphinum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1496/characteristic",
+  "id": "100014967",
+  "nazwa": "Clonazepamum TZF",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Clonazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1504/characteristic",
+  "id": "100015040",
+  "nazwa": "Clopixol-Acuphase",
+  "moc": "50 mg",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Zuclopenthixoli acetas",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1505/characteristic",
+  "id": "100015056",
+  "nazwa": "Clopixol-Depot",
+  "moc": "200 mg",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Zuclopenthixoli decanoas",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1727/characteristic",
+  "id": "100017279",
+  "nazwa": "Decaldol",
+  "moc": "50 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Haloperidoli decanoas",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48000/characteristic",
+  "id": "100480003",
+  "nazwa": "Denepra",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48002/characteristic",
+  "id": "100480028",
+  "nazwa": "Denepra",
+  "moc": "100 mg/150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48001/characteristic",
+  "id": "100480010",
+  "nazwa": "Denepra",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47997/characteristic",
+  "id": "100479971",
+  "nazwa": "Denepra",
+  "moc": "25 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47998/characteristic",
+  "id": "100479989",
+  "nazwa": "Denepra",
+  "moc": "50 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47999/characteristic",
+  "id": "100479996",
+  "nazwa": "Denepra",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7506/characteristic",
+  "id": "100075064",
+  "nazwa": "Depakine",
+  "moc": "400 mg (400 mg/4 ml)",
+  "postac": "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań",
+  "sub": "Natrii valproas",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36875/characteristic",
+  "id": "100368754",
+  "nazwa": "Diazepam Grindeks",
+  "moc": "10 mg/2 ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Diazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43495/characteristic",
+  "id": "100434959",
+  "nazwa": "Egoropal",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43496/characteristic",
+  "id": "100434965",
+  "nazwa": "Egoropal",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43492/characteristic",
+  "id": "100434920",
+  "nazwa": "Egoropal",
+  "moc": "25 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43493/characteristic",
+  "id": "100434936",
+  "nazwa": "Egoropal",
+  "moc": "50 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43494/characteristic",
+  "id": "100434942",
+  "nazwa": "Egoropal",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2240/characteristic",
+  "id": "100022406",
+  "nazwa": "Epanutin Parenteral",
+  "moc": "50 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Phenytoinum natricum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2465/characteristic",
+  "id": "100024658",
+  "nazwa": "Fluanxol Depot",
+  "moc": "20 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Flupentixolum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2818/characteristic",
+  "id": "100028188",
+  "nazwa": "Haloperidol WZF",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Haloperidolum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3002/characteristic",
+  "id": "100030021",
+  "nazwa": "Hydroxyzinum Teva",
+  "moc": "50 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Hydroxyzini hydrochloridum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48474/characteristic",
+  "id": "100484747",
+  "nazwa": "Lorabex",
+  "moc": "2 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Lorazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43159/characteristic",
+  "id": "100431599",
+  "nazwa": "Lorabex",
+  "moc": "4 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Lorazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47084/characteristic",
+  "id": "100470845",
+  "nazwa": "Lorazepam TZF",
+  "moc": "2 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Lorazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47085/characteristic",
+  "id": "100470852",
+  "nazwa": "Lorazepam TZF",
+  "moc": "4 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Lorazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22079/characteristic",
+  "id": "100220796",
+  "nazwa": "Memotropil 20%",
+  "moc": "200 mg/ml (1g/5 ml)",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Piracetamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22080/characteristic",
+  "id": "100220804",
+  "nazwa": "Memotropil 20%",
+  "moc": "200 mg/ml (3 g/15 ml)",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Piracetamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8752/characteristic",
+  "id": "100087529",
+  "nazwa": "Midanium",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9380/characteristic",
+  "id": "100093808",
+  "nazwa": "Midanium",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21340/characteristic",
+  "id": "100213402",
+  "nazwa": "Midazolam Accord",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań lub infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42031/characteristic",
+  "id": "100420319",
+  "nazwa": "Midazolam Accord",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21342/characteristic",
+  "id": "100213425",
+  "nazwa": "Midazolam Accord",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań lub infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43762/characteristic",
+  "id": "100437627",
+  "nazwa": "Midazolam B. Braun",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43764/characteristic",
+  "id": "100437640",
+  "nazwa": "Midazolam B. Braun",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49665/characteristic",
+  "id": "100496652",
+  "nazwa": "Midazolam Eignapharma",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42947/characteristic",
+  "id": "100429473",
+  "nazwa": "Midazolam Kalceks",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39378/characteristic",
+  "id": "100393781",
+  "nazwa": "Midazolam Kalceks",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40411/characteristic",
+  "id": "100404119",
+  "nazwa": "Midazolam SUN",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40412/characteristic",
+  "id": "100404125",
+  "nazwa": "Midazolam SUN",
+  "moc": "2mg/ml",
+  "postac": "Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29441/characteristic",
+  "id": "100294412",
+  "nazwa": "Midazolam Sandoz",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań lub infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29443/characteristic",
+  "id": "100294435",
+  "nazwa": "Midazolam Sandoz",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań lub infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44522/characteristic",
+  "id": "100445220",
+  "nazwa": "Midazolam hameln",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44523/characteristic",
+  "id": "100445236",
+  "nazwa": "Midazolam hameln",
+  "moc": "2 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44524/characteristic",
+  "id": "100445242",
+  "nazwa": "Midazolam hameln",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań / do infuzji",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48082/characteristic",
+  "id": "100480823",
+  "nazwa": "Midazolamum Aguettant",
+  "moc": "1 mg/ml",
+  "postac": "Roztwór do wstrzykiwań w ampułko-strzykawce",
+  "sub": "Midazolamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30230/characteristic",
+  "id": "100302301",
+  "nazwa": "Mizormic",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Midazolami hydrochloridum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5775/characteristic",
+  "id": "100057758",
+  "nazwa": "Neorelium",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Diazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4776/characteristic",
+  "id": "100047760",
+  "nazwa": "Nivalin",
+  "moc": "2,5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Galantaminum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4775/characteristic",
+  "id": "100047754",
+  "nazwa": "Nivalin",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Galantaminum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43506/characteristic",
+  "id": "100435060",
+  "nazwa": "Palifren Long",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43509/characteristic",
+  "id": "100435090",
+  "nazwa": "Palifren Long",
+  "moc": "100 mg / 150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43508/characteristic",
+  "id": "100435083",
+  "nazwa": "Palifren Long",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43502/characteristic",
+  "id": "100435025",
+  "nazwa": "Palifren Long",
+  "moc": "25 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43503/characteristic",
+  "id": "100435031",
+  "nazwa": "Palifren Long",
+  "moc": "50 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43504/characteristic",
+  "id": "100435048",
+  "nazwa": "Palifren Long",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50583/characteristic",
+  "id": "100505831",
+  "nazwa": "Paliperidone +pharma",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50585/characteristic",
+  "id": "100505856",
+  "nazwa": "Paliperidone +pharma",
+  "moc": "100 mg/150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50584/characteristic",
+  "id": "100505849",
+  "nazwa": "Paliperidone +pharma",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50581/characteristic",
+  "id": "100505817",
+  "nazwa": "Paliperidone +pharma",
+  "moc": "25 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50614/characteristic",
+  "id": "100506143",
+  "nazwa": "Paliperidone +pharma",
+  "moc": "50 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50582/characteristic",
+  "id": "100505824",
+  "nazwa": "Paliperidone +pharma",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44520/characteristic",
+  "id": "100445207",
+  "nazwa": "Paliperidone Teva",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44521/characteristic",
+  "id": "100445213",
+  "nazwa": "Paliperidone Teva",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44519/characteristic",
+  "id": "100445199",
+  "nazwa": "Paliperidone Teva",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20277/characteristic",
+  "id": "100202775",
+  "nazwa": "Phenytoin Hikma",
+  "moc": "50 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Phenytoinum natricum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47584/characteristic",
+  "id": "100475844",
+  "nazwa": "Poltraxin",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52095/characteristic",
+  "id": "100520950",
+  "nazwa": "Poltraxin",
+  "moc": "100 mg/150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47585/characteristic",
+  "id": "100475851",
+  "nazwa": "Poltraxin",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47581/characteristic",
+  "id": "100475812",
+  "nazwa": "Poltraxin",
+  "moc": "25 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47582/characteristic",
+  "id": "100475820",
+  "nazwa": "Poltraxin",
+  "moc": "50 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47583/characteristic",
+  "id": "100475837",
+  "nazwa": "Poltraxin",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47856/characteristic",
+  "id": "100478560",
+  "nazwa": "Pratyria",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47858/characteristic",
+  "id": "100478584",
+  "nazwa": "Pratyria",
+  "moc": "100 mg + 150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47857/characteristic",
+  "id": "100478577",
+  "nazwa": "Pratyria",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47854/characteristic",
+  "id": "100478545",
+  "nazwa": "Pratyria",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47579/characteristic",
+  "id": "100475792",
+  "nazwa": "Psylipax",
+  "moc": "100 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51996/characteristic",
+  "id": "100519961",
+  "nazwa": "Psylipax",
+  "moc": "100 mg/150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47580/characteristic",
+  "id": "100475805",
+  "nazwa": "Psylipax",
+  "moc": "150 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47576/characteristic",
+  "id": "100475760",
+  "nazwa": "Psylipax",
+  "moc": "25 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47577/characteristic",
+  "id": "100475778",
+  "nazwa": "Psylipax",
+  "moc": "50 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47578/characteristic",
+  "id": "100475785",
+  "nazwa": "Psylipax",
+  "moc": "75 mg",
+  "postac": "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce",
+  "sub": "Paliperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5776/characteristic",
+  "id": "100057764",
+  "nazwa": "Relanium",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Diazepamum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41851/characteristic",
+  "id": "100418512",
+  "nazwa": "Risperidone Teva",
+  "moc": "25 mg",
+  "postac": "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Risperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41852/characteristic",
+  "id": "100418529",
+  "nazwa": "Risperidone Teva",
+  "moc": "37,5 mg",
+  "postac": "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Risperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41853/characteristic",
+  "id": "100418535",
+  "nazwa": "Risperidone Teva",
+  "moc": "50 mg",
+  "postac": "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Risperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12303/characteristic",
+  "id": "100123030",
+  "nazwa": "Rispolept Consta",
+  "moc": "25 mg",
+  "postac": "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Risperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19815/characteristic",
+  "id": "100198157",
+  "nazwa": "Rispolept Consta",
+  "moc": "37,5 mg",
+  "postac": "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Risperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12300/characteristic",
+  "id": "100123001",
+  "nazwa": "Rispolept Consta",
+  "moc": "50 mg",
+  "postac": "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu",
+  "sub": "Risperidonum",
+  "n_mocy": 1
+ },
+ {
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6755/characteristic",
+  "id": "100067550",
+  "nazwa": "Tranxene 20",
+  "moc": "20 mg/2 ml",
+  "postac": "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań",
+  "sub": "Dikalii clorazepas",
+  "n_mocy": 1
+ }
+]

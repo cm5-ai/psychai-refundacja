@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AA02"
@@ -18,6 +22,7 @@
    "moc": "25 mg",
    "nazwa": "Levomentis",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Levomentis jest wskazany do stosowania:  w leczeniu schizofrenii;  w leczeniu innych chorób psychicznych przebiegających z pobudzeniem ruchowym lub psychoruchowym, jako leczenie wspomagające w upośledzeniu umysłowym;  w leczeniu zespołów lękowych - w małych dawkach, w pojedynczej wieczornej dawce w zaburzeniach snu;  w leczeniu bólu przewlekłego w monoterapii lub w skojarzeniu z innymi lekami przeciwbólowymi.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Leczenie należy zaczynać od małych dawek, które później można stopniowo zwiększać w zależności od tolerancji pacjenta na lek. Po osiągnięciu poprawy dawkę należy zmniejszyć do ustalanej indywidualnie dawki podtrzymującej. Odstawienie leku należy przeprowadzić stopniowo zmniejszając dawkę.  W schizofrenii i innych psychozach dawka początkowa wynosi 25 do 50 mg (1 do 2 tabletek powlekanych) na dobę w dwóch dawkach podzielonych. W razie potrzeby dawkę można zwiększyć podając od 150 do 250 mg na dobę (stosowanych w 2 lub 3 dawkach podzielonych), a następnie po uzyskaniu efektów leczenia dawkę można zmniejszyć do dawki podtrzymującej.  W przypadku zwalczania bólu dawka powinna być również zwiększana stopniowo, poczynając od 25 do 75 mg na dobę. Maksymalna zalecana dawka dobowa wynosi 150 mg dla pacjentów ambulatoryjnych i 300 mg dla pacjentów hospitalizowanych. W razie zamieniania produktu Levomentis na inny produkt leczniczy zawierający lewomepromazynę, należy upewnić się, że dawki są równoważne. Pacjenci w podeszłym wieku Zaleca się stosowanie najniższej skutecznej dawki oraz stopniowe jej zwiększanie, ponieważ osoby w podeszłym wieku są znacznie bardziej podatne na działania niepożądane lewomepromazyny (patrz punkt 4.4). Niewydolność wątroby lub nerek Zaleca się stosowanie najniższej skutecznej dawki oraz stopniowe jej zwiększanie (patrz punkt 4.4). Dzieci i młodzież Biorąc pod uwagę pozapiramidowe działania niepożądane i późną dyskinezę po leczeniu klasycznymi lekami przeciwpsychotycznymi, lewomepromazyna nie jest zalecana u pacjentów w wieku poniżej 18 lat. Sposób podawania Podanie doustne. Tabletki powlekane najłatwiej przyjmować popijając szklanką wody, podczas jedzenia lub niezależnie od posiłku.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-45964-2022-04-22-8668_N-2022-05-16.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AA02"
@@ -51,6 +60,7 @@
    "moc": "25 mg",
    "nazwa": "Tisercin",
    "podmiot": "Proterapia Sp. z o.o.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Choroby psychiczne przebiegające z pobudzeniem ruchowym i psychoruchowym, zespoły paranoidalne (schizofrenia). Jako lek wspomagający w niektórych towarzyszących objawach padaczki, niedorozwoju umysłowego, w depresji z niepokojem. Nasilenie działania przeciwbólowego innych leków. Przygotowanie i pogłębienie znieczulenia ogólnego.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dorośli Leczenie należy zaczynać od małych dawek, które później można stopniowo zwiększać w zależności od tolerancji pacjenta na lek. Po osiągnięciu poprawy dawkę należy zmniejszyć do ustalanej indywidualnie dawki podtrzymującej. W psychozach dawka początkowa wynosi 25-50 mg (1-2 tabletki powlekane) na dobę w dwóch dawkach podzielonych. W razie potrzeby dawkę można zwiększyć do dawki dobowej 150-250 mg na dobę (stosowanej w 2-3 dawkach podzielonych) a następnie po uzyskaniu efektów leczenia dawkę można zredukować do dawki podtrzymującej. Dzieci i młodzież Ten lek jest przeciwwskazany u dzieci w wieku poniżej 12 lat (patrz punkt 4.3). Sposób podawania Podanie doustne.",

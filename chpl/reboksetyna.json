@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AX18"
@@ -18,6 +22,7 @@
    "moc": "4 mg",
    "nazwa": "Edronax",
    "podmiot": "Pfizer Europe MA EEIG",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Reboksetyna jest wskazana w intensywnym leczeniu depresji (w tym ciężkiej postaci) oraz w leczeniu podtrzymującym u pacjentów, którzy dobrze zareagowali na leczenie początkowe.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli Zalecana dawka terapeutyczna podawana doustnie wynosi 4 mg dwa razy na dobę (8 mg/dobę). Pełną dawkę terapeutyczną można zastosować już od początku leczenia. W przypadku niepełnej odpowiedzi klinicznej po 3-4 tygodniach dawka ta może być zwiększona do 10 mg na dobę. Maksymalna dawka dobowa nie powinna być większa niż 12 mg. Jak dotąd, nie ustalono minimalnej skutecznej dawki produktu. Pacjenci w podeszłym wieku (powyżej 65 lat) W badaniach klinicznych, w których brali udział pacjenci w podeszłym wieku, stosowano dawkę 2 mg dwa razy na dobę (4 mg/dobę). Jednak bezpieczeństwo i skuteczność produktu nie były oceniane w warunkach próby kontrolowanej z użyciem placebo. Dlatego, tak jak w przypadku innych leków przeciwdepresyjnych, których nie badano w warunkach kontrolowanych z użyciem placebo, nie należy stosować reboksetyny w tej grupie wiekowej. Dzieci i młodzież Stosowanie reboksetyny u dzieci i młodzieży poniżej 18 lat nie jest zalecane. Nie określono bezpieczeństwa stosowania ani skuteczności produktu leczniczego w tej populacji pacjentów (patrz punkt 4.4). Pacjenci z niewydolnością nerek lub wątroby Dawka początkowa u pacjentów z niewydolnością nerek lub wątroby powinna wynosić 2 mg dwa razy na dobę. Dawkę tę można następnie zwiększać w zależności od reakcji pacjenta na produkt. Sposób podawania Podanie doustne.",

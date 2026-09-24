@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AX14"
@@ -18,6 +22,7 @@
    "moc": "12,5 mg",
    "nazwa": "Atinepte",
    "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Leczenie epizodów depresyjnych. Tianeptynę można stosować w lekkiej, umiarkowanej i ciężkiej depresji.",
     "4.2": "4.2 Dawkowanie i sposób podawania Zalecana dawka to 1 tabletka (12,5 mg) 3 razy na dobę (rano, w południe i wieczorem), przed głównymi posiłkami. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania tianeptyny u pacjentów z depresją w podeszłym wieku (≥65 lat) (patrz punkt 5.1). Nie jest konieczne dostosowanie dawki w zależności od wieku. U wątłych, szczupłych pacjentów w podeszłym wieku (o masie ciała <55 kg) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 ml/min) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności wątroby U pacjentów z ciężką marskością wątroby (klasa C wg Childa-Pugha) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Nie jest konieczna modyfikacja dawkowania u pacjentów z uzależnieniem alkoholowym, z łagodną lub umiarkowaną marskością albo bez marskości wątroby (patrz punkt 5.2). Dzieci i młodzież Nie określono dotychczas bezpieczeństwa stosowania ani skuteczności tianeptyny u dzieci i młodzieży w wieku poniżej 18 lat. Dane nie są dostępne (patrz punkt 4.4). Sposób podawania Tabletki można przyjmować na czczo. Tabletkę należy połykać w całości, popijając szklanką wody. Przerwanie leczenia Należy unikać nagłego przerwania leczenia. Dawkowanie należy stopniowo zmniejszać w ciągu 7 do 14 dni w celu zmniejszenia ryzyka reakcji z odstawienia (patrz punkt 4.4).",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-28267-2021-11-21-10682_B-2021-12-10.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AX14"
@@ -52,6 +61,7 @@
    "moc": "12,5 mg",
    "nazwa": "Coaxil",
    "podmiot": "Les Laboratoires Servier",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Tianeptyna jest wskazana w leczeniu zespołów depresyjnych.",
     "4.2": "4.2 Dawkowanie i sposób podawania Zalecaną dawką jest 1 tabletka (12,5 mg) 3 razy na dobę (rano, w środku dnia i wieczorem), przed posiłkami. Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania tianeptyny u pacjentów z depresją w podeszłym wieku (≥65 lat), patrz punkt 5.1. Nie wymaga się dostosowania dawki w zależności od wieku. U wątłych, szczupłych pacjentów w podeszłym wieku (o masie ciała <55 kg) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 ml/min) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności wątroby U pacjentów z ciężką marskością wątroby (klasa C wg Childa-Pugha) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Nie jest konieczna modyfikacja dawkowania u pacjentów z uzależnieniem alkoholowym, z łagodną lub umiarkowaną marskością albo bez marskości wątroby (patrz punkt 5.2). Dzieci i młodzież Nie określono dotychczas bezpieczeństwa stosowania ani skuteczności tianeptyny u dzieci i młodzieży w wieku poniżej 18 lat. Dane nie są dostępne (patrz punkt 4.4). Przerwanie leczenia Należy unikać nagłego przerwania leczenia. Dawkowanie należy stopniowo zmniejszać w ciągu 7 do 14 dni w celu zmniejszenia ryzyka reakcji z odstawienia (patrz punkt 4.4).",
@@ -70,6 +80,10 @@
    "zrodlo_pliku": "Charakterystyka-1516-20190528000000-7013_A-20190713000051.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AX14"
@@ -85,6 +99,7 @@
    "moc": "12,5 mg",
    "nazwa": "Tialera",
    "podmiot": "Zentiva, k.s.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Produkt leczniczy Tialera jest wskazany w leczeniu zespołów depresyjnych.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka to jedna tabletka (12,5 mg) 3 razy na dobę (rano, w południe i wieczorem), przed posiłkami. Należy unikać nagłego przerwania leczenia. Dawkę należy stopniowo zmniejszać przez 7 do 14 dni, aby ograniczyć reakcję odstawienia (patrz punkt 4.4). Szczególne grupy pacjentów Pacjenci w podeszłym wieku Ustalono skuteczność i bezpieczeństwo stosowania tianeptyny u pacjentów z depresją w podeszłym wieku (≥65 lat). Nie wymaga się dostosowania dawki w zależności od wieku. U wątłych, szczupłych pacjentów w podeszłym wieku (o masie ciała <55 kg) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności nerek U pacjentów z ciężkim zaburzeniem czynności nerek (klirens kreatyniny <19 mL/min) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Zaburzenie czynności wątroby U pacjentów z ciężką marskością wątroby (klasa C wg Childa-Pugha) dawka powinna wynosić 2 tabletki na dobę (patrz punkt 5.2). Nie jest konieczna modyfikacja dawkowania u pacjentów z uzależnieniem alkoholowym, z łagodną lub umiarkowaną marskością albo bez marskości wątroby (patrz punkt 5.2). Dzieci i młodzież Nie określono bezpieczeństwa i skuteczności produktu leczniczego Tialera u dzieci i młodzieży w wieku poniżej 18 lat. Dlatego nie zaleca się jego stosowania u dzieci i młodzieży (patrz punkt 4.4). Sposób podawania Do stosowania doustnego.",

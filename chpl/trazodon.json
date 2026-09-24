@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "ZMODYFIKOWANE",
    "klucz_rpl": {
     "atc": [
      "N06AX05"
@@ -18,6 +22,7 @@
    "moc": "150 mg",
    "nazwa": "Azoneurax",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
+   "postac": "Tabletki o zmodyfikowanym uwalnianiu",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Leczenie depresji o różnej etiologii, w tym rodzajów depresji związanych z: • lękiem • zaburzeniami snu • zaburzeniami seksualnymi pochodzenia nieorganicznego.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Produkt leczniczy należy stosować wyłącznie u pacjentów dorosłych. Dorośli 75–150 mg na dobę w dawce pojedynczej wieczorem przed snem. Dawkę można zwiększyć do 300 mg na dobę w dwóch dawkach podzielonych. U pacjentów hospitalizowanych dawkę można zwiększyć do 600 mg na dobę w dawkach podzielonych. Dawka 150 – 200 mg na dobę jest stosowana w leczeniu zaburzeń seksualnych. Pacjenci w podeszłym wieku i wyniszczeni Zalecana dawka początkowa u pacjentów w bardzo podeszłym wieku lub u pacjentów wyniszczonych wynosi 100 mg na dobę w kilku dawkach podzielonych lub w dawce pojedynczej, podanej wieczorem przed snem (patrz punkt 4.4). Dawkę można stopniowo zwiększać pod kontrolą lekarza w zależności od tolerancji i skuteczności, tak jak opisano w dawkowaniu dla dorosłych, jednak zasadniczo nie należy u tych pacjentów stosować dawek pojedynczych większych niż 100 mg. Mało prawdopodobne, aby zaszła konieczność zwiększenia dawki dobowej powyżej 300 mg. Dzieci i młodzież Nie należy stosować trazodonu u dzieci i młodzieży w wieku poniżej 18 lat ze względu na brak danych dotyczących bezpieczeństwa stosowania u pacjentów w tej grupie wiekowej. Zaburzenia czynności wątroby Trazodon podlega intensywnemu metabolizmowi wątrobowemu (patrz punkt 5.2), jego stosowanie może się także wiązać z działaniem hepatotoksycznym (patrz punkty 4.4 i 4.8). Z tych powodów należy zachować ostrożność, przepisując go pacjentom z zaburzeniami czynności wątroby, zwłaszcza w przypadkach ciężkiej niewydolności. Należy rozważyć okresowe kontrolowanie czynności wątroby. Zaburzenia czynności nerek Zazwyczaj nie ma konieczności dostosowania dawki, jednak należy zachować ostrożność, przepisując lek pacjentom z ciężką niewydolnością nerek (patrz też punkty 4.4 i 5.2). Sposób podawania Do stosowania doustnego. Leczenie należy rozpocząć od podawania dawki wieczornej, zwiększając stopniowo dawkę dobową. Produkt leczniczy Azoneurax może być przyjmowany z posiłkiem lub bez posiłku. Leczenie powinno trwać co najmniej miesiąc. Tabletki z zaznaczoną linią podziału można dzielić na trzy części, co umożliwia stopniowe zwiększanie dawki w zależności od nasilenia choroby, masy ciała, wieku i ogólnego stanu zdrowia pacjenta. Należy unikać nagłego odstawienia. Podczas odstawiania leczenia dawkę należy stopniowo zmniejszać.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-41589-2023-05-08-13834_B-2023-05-30.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N06AX05"
@@ -51,6 +60,7 @@
    "moc": "100 mg",
    "nazwa": "Trazodone Neuraxpharm",
    "podmiot": "neuraxpharm Arzneimittel GmbH",
+   "postac": "Tabletki",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Epizod ciężkiej depresji u dorosłych.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli: Początkowo 150 mg na dobę w dawkach podzielonych po posiłku lub jako dawka pojedyncza przed snem. Dawkę można zwiększać stopniowo, np. co 3-4 dni o 50 mg, do maksymalnej dawki 300 mg na dobę podawanej jaka dawka pojedyncza lub w dawkach podzielonych. Większą część dawki podzielonej należy podać przed snem. U pacjentów hospitalizowanych dawkę można dalej zwiększać do 600 mg na dobę, podawanych w dawkach podzielonych. Po osiągnięciu skutecznej dawki, odpowiedź kliniczną uzyskuje się zwykle w ciągu dwóch do czterech tygodni. U pacjentów, u których nie uzyskano odpowiedzi terapeutycznej, dawkę można zwiększać do maksymalnej zalecanej dawki. Jeśli po zastosowaniu tych zaleceń brak jest odpowiedzi klinicznej po dwóch do czterech tygodni, to należy przerwać leczenie. Po osiągnięciu satysfakcjonującej odpowiedzi klinicznej dawkę należy utrzymywać przez minimum cztery tygodnie. Po tym okresie, zwykle dawkę można stopniowo zmniejszać w zależności od odpowiedzi terapeutycznej. Pacjentom należy podawać najniższą skuteczną dawkę oraz należy oceniać okresowo konieczność kontynuowania leczenia podtrzymującego. Zasadniczo, terapię przeciwdepresyjną najlepiej kontynuować do czasu, aż u pacjenta objawy nie wystąpią przez cztery do sześciu miesięcy. W celu ograniczenia objawów odstawienia nie należy gwałtownie przerywać leczenia. Przed zakończeniem leczenia dawkę należy stopniowo zmniejszać. Szczególne grupy pacjentów Pacjenci w podeszłym wieku: Zalecana dawka początkowa u pacjentów w podeszłym wieku lub u pacjentów wyniszczonych wynosi 100 mg na dobę w dawkach podzielonych lub w dawce pojedynczej, podanej wieczorem przed snem (patrz punkt 4.4). Dawkę można stopniowo zwiększać, jak opisano w sekcji ,,Dorośli’’, pod kontrolą lekarza, w zależności od tolerancji i skuteczności. Zasadniczo nie należy u tych pacjentów stosować dawek pojedynczych większych niż 100 mg. Jest mało prawdopodobne stosowanie dawki dobowej wyższej niż 300 mg. Niewydolność wątroby: Produkt leczniczy Trazodone Neuraxpharm jest w znacznym stopniu metabolizowany w wątrobie (patrz punkt 5.2), a jego stosowanie może się także wiązać z działaniem hepatotoksycznym (patrz punkty 4.4 i 4.8). Dlatego należy zachować ostrożność, przepisując lek pacjentom z niewydolnością wątroby, szczególnie w przypadkach ciężkiej niewydolności. Należy rozważyć okresowe kontrolowanie czynności wątroby. Niewydolność nerek: Zazwyczaj nie ma konieczności dostosowania dawki, ale należy zachować ostrożność przepisując lek pacjentom z ciężką niewydolnością nerek (patrz też punkty 4.4 i 5.2). Dzieci i młodzież Nie należy stosować produktu leczniczego Trazodone Neuraxpharm u dzieci i młodzieży w wieku poniżej 18 lat, ponieważ nie określono bezpieczeństwa stosowania ani skuteczność w tej grupie pacjentów (patrz punkt 4.4). Sposób podawania Podanie doustne. Ograniczenie działań niepożądanych można osiągnąć stosując produkt leczniczy Trazodone Neuraxpharm po posiłku. Tabletki produktu leczniczego Trazodone Neuraxpharm należy połykać popijając szklanką wody.",
@@ -69,6 +79,10 @@
    "zrodlo_pliku": "Charakterystyka-37573-2022-04-11-3595_M-2022-04-12.pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "PRZEDLUZONE",
    "klucz_rpl": {
     "atc": [
      "N06AX05"
@@ -84,6 +98,7 @@
    "moc": "150 mg",
    "nazwa": "Trittico CR",
    "podmiot": "Aziende Chimiche Riunite Angelini Francesco A.C.R.A.F. S.p.A.",
+   "postac": "Tabletki o przedłużonym uwalnianiu",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Zaburzenia depresyjne o różnej etiologii, w tym depresja przebiegająca z lękiem.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dzieci i młodzież Nie należy stosować trazodonu u dzieci i młodzieży w wieku poniżej 18 lat ze względu na brak danych dotyczących bezpieczeństwa stosowania. Dorośli 75–150 mg na dobę w dawce pojedynczej wieczorem przed snem. Dawkę można zwiększyć do 300 mg na dobę w dwóch dawkach podzielonych. U pacjentów hospitalizowanych dawkę można zwiększyć do 600 mg na dobę w dawkach podzielonych. Pacjenci w podeszłym wieku Zalecana dawka początkowa u pacjentów w bardzo podeszłym wieku lub u pacjentów wyniszczonych wynosi 100 mg na dobę w kilku dawkach podzielonych lub w dawce pojedynczej, podanej wieczorem przed snem (patrz punkt 4.4). Dawkę można stopniowo zwiększać pod kontrolą lekarza w zależności od tolerancji i skuteczności, tak jak opisano w dawkowaniu dla dorosłych, jednak zasadniczo nie należy u tych pacjentów stosować dawek pojedynczych większych niż 100 mg. Mało prawdopodobne jest, aby zaszła konieczność zwiększenia dawki dobowej powyżej 300 mg. Niewydolność wątroby Trazodon podlega intensywnemu metabolizmowi wątrobowemu (patrz punkt 5.2), jego stosowanie może się także wiązać z działaniem hepatotoksycznym (patrz punkty 4.4 i 4.8). Z tych powodów należy zachować ostrożność, przepisując go pacjentom z niewydolnością wątroby, zwłaszcza w przypadkach ciężkiej niewydolności. Należy rozważyć okresowe kontrolowanie czynności wątroby. Niewydolność nerek Zazwyczaj nie ma konieczności dostosowania dawki, jednak należy zachować ostrożność, przepisując lek pacjentom z ciężką niewydolnością nerek (patrz też punkty 4.4 i 5.2). Sposób podawania Produkt leczniczy TRITTICO CR należy stosować wyłącznie u pacjentów dorosłych. Leczenie należy rozpocząć od podawania dawki wieczornej, zwiększając stopniowo dawkę dobową. Produkt leczniczy Trittico CR może być przyjmowany z posiłkiem lub bez posiłku. Leczenie powinno trwać co najmniej miesiąc. Tabletki z zaznaczonymi liniami podziału można dzielić na 3 równe dawki, co umożliwia stopniowe zwiększanie dawki w zależności od nasilenia choroby, masy ciała, wieku i ogólnego stanu zdrowia pacjenta.",

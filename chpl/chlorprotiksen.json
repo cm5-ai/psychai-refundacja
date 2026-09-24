@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AF03"
@@ -18,6 +22,7 @@
    "moc": "15 mg",
    "nazwa": "Chlorprothixen Hasco",
    "podmiot": "Przedsiębiorstwo Produkcji Farmaceutycznej HASCO-LEK S.A.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Leczenie psychoz endogennych i organicznych ze stanami pobudzenia ruchowego i agresywnością, niepokoju i bezsenności w nerwicach i zaburzeniach psychosomatycznych, psychoz alkoholowych. W chirurgii - premedykacja dla uspokojenia pacjenta i zmniejszenia reakcji neurowegetatywnych oraz w celu zapobiegania wymiotom pooperacyjnym.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dawkowanie należy dostosować indywidualnie w zależności od wskazań i tolerancji pacjenta. Nerwice: zazwyczaj 15 mg jeden do trzech razy na dobę. Zaburzenia psychotyczne: zazwyczaj 50 mg do 100 mg dwa do czterech razy na dobę. Dawkę dobową należy podzielić tak, aby większą dawkę podawać przed snem. Premedykacja: dawkowanie ustala lekarz indywidualnie dla każdego pacjenta. Dzieci i młodzież Nie zaleca się stosowania chloroprotyksenu u dzieci i młodzieży ze względu na brak dobrze kontrolowanych badań. Sposób podawania Tabletki powlekane należy przyjmować z posiłkiem i połykać w całości, popijając szklanką wody lub mleka, aby uniknąć podrażnienia żołądka.",
@@ -36,6 +41,10 @@
    "zrodlo_pliku": "Charakterystyka-42763-2022-01-21-8597_N-2022-02-14 (1).pdf"
   },
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05AF03"
@@ -51,6 +60,7 @@
    "moc": "15 mg",
    "nazwa": "Chlorprothixen Zentiva",
    "podmiot": "Zentiva, k.s.",
+   "postac": "Tabletki powlekane",
    "punkty": {
     "4.1": "4.1. Wskazania do stosowania Leczenie psychoz endogennych i organicznych ze stanami pobudzenia ruchowego i agresywnością, niepokoju i bezsenności w nerwicach i zaburzeniach psychosomatycznych, psychoz alkoholowych. W chirurgii - premedykacja w celu uspokojenia pacjenta i zmniejszenia reakcji neurowegetatywnych, oraz w celu zapobiegania wymiotom pooperacyjnym.",
     "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Dawkowanie należy dostosować indywidualnie w zależności od wskazań i tolerancji pacjenta. Nerwice: zazwyczaj 15 mg od 1 do 3 razy na dobę. Zaburzenia psychotyczne: zazwyczaj 50 mg do 100 mg od 2 do 4 razy na dobę. Dawkę dobową należy podzielić tak, aby większą dawkę podawać przed snem. Dzieci i młodzież Nie zaleca się stosowania chloroprotyksenu u dzieci i młodzieży w wieku poniżej 18 lat ze względu na brak dobrze kontrolowanych badań. Sposób podawania Tabletki powlekane należy przyjmować z posiłkiem i połykać w całości, popijając szklanką wody lub mleka, aby uniknąć podrażnienia żołądka.",

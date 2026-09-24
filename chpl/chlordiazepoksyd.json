@@ -3,6 +3,10 @@
  "pobrano": "2026-09-23",
  "produkty": [
   {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
      "N05BA02"
@@ -18,6 +22,7 @@
    "moc": "10 mg",
    "nazwa": "Elenium",
    "podmiot": "Tarchomińskie Zakłady Farmaceutyczne \"Polfa\" S.A.",
+   "postac": "Tabletki drażowane",
    "punkty": {
     "4.1": "4.1 Wskazania do stosowania Doraźne, krótkotrwałe leczenie objawowe (przez 2 do 4 tygodni): • stanów lękowych różnego pochodzenia (towarzyszących zespołom psychoorganicznym, objawom psychotycznym); • stanów lękowych związanych z bezsennością; • ostrego zespołu odstawienia alkoholu; • stanów zwiększonego napięcia mięśniowego o różnej etiologii. Uwaga! Stany napięcia i niepokoju związane z problemami dnia codziennego nie są wskazaniem do stosowania leku.",
     "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie i czas leczenia należy określić dla każdego pacjenta indywidualnie. Dorośli Stany lękowe: zwykle stosuje się do 30 mg na dobę w dawkach podzielonych, co 6 do 8 godzin. W szczególnych sytuacjach można stosować dawki większe, zależnie od indywidualnego zapotrzebowania. Nie należy przekraczać maksymalnej dawki dobowej 100 mg. Stany lękowe z towarzyszącą bezsennością – 10 mg do 30 mg w jednorazowej dawce przed snem. Stany pobudzenia w ostrym zespole odstawienia alkoholu – 25 mg do 100 mg. W razie potrzeby dawkę można powtarzać, co 2 do 4 godzin, nie przekraczając 200 mg na dobę. Następnie zmniejsza się dawkę do podtrzymującej, najniższej dawki wystarczającej do opanowania objawów pobudzenia. Stany zwiększonego napięcia mięśniowego – 10 mg do 30 mg na dobę w dawkach podzielonych. Dzieci Nie zaleca się stosowania chlordiazepoksydu u dzieci. Pacjenci w podeszłym wieku Pacjenci w podeszłym wieku są bardziej wrażliwi na leki działające na ośrodkowy układ nerwowy. U pacjentów tych zaleca się podawanie chlordiazepoksydu w możliwie najmniejszej efektywnej dawce. Stosowane dawki nie powinny przekraczać połowy dawki zalecanej dla pacjentów dorosłych. Sposób podawania Tabletki należy przyjmować doustnie, przed lub wraz z posiłkiem, popijając wodą. Czas leczenia Chlordiazepoksyd stosuje się doraźnie. Leczenie nie powinno być dłuższe niż 4 tygodnie, wliczając w to czas stopniowego odstawiania produktu leczniczego. W indywidualnych przypadkach, po ponownej ocenie stanu pacjenta, lekarz może zdecydować o przedłużeniu maksymalnego czasu leczenia. Produktu nie należy odstawiać nagle, konieczne jest zawsze stopniowe zmniejszanie dawki.",
