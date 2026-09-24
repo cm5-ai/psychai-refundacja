@@ -57,9 +57,10 @@ KLASOWE = ["DRUG_DB_AD.txt", "DRUG_DB_AP.txt", "DRUG_DB_BZD.txt",
            "DRUG_DB_STAB.txt", "DRUG_DB_ADHD_UZAL.txt"]
 CORE = "DRUG_DB_PSYCHIATRIA_CORE.txt"
 POLE = re.compile(r'^[A-ZĄĆĘŁŃÓŚŹŻ_0-9/]+:')
-# 31 lekow, o ktorych 18 decyduje bez karty — stan znany i opisany 2026-09-24.
-# Lista jest JAWNA, zeby brak karty byl zatwierdzony, a nie przeoczony.
-BRAK_KARTY_ZATWIERDZONY = 31
+# CELOWO BEZ STALEJ "ile lekow z 18 nie ma karty". Stala BRAK_KARTY_ZATWIERDZONY
+# = 31 stala tu, nikt jej nie czytal, a stan dawno byl inny (dzis 2). Liczba
+# zapisana w kodzie i nieweryfikowana to ten sam blad, ktory audyt ma lapac.
+# Zrodlem tej liczby jest test_pokrycie_18, ktory ja WYLICZA.
 
 wyniki = []
 
@@ -262,6 +263,70 @@ def main():
     zglos("R10 INDEKS CACHE -> plik albo opisany brak", len(idx), z,
           "wpis bez pliku i bez opisu stanu; %d nieobecnosci udokumentowanych: %s"
           % (len(udokumentowane), ", ".join(x.split(":")[0] for x in udokumentowane)))
+
+    # ------------------------------------------------- R11: wskazniki z 18
+    # 2026-09-24. Sekcja POSTAC DEPOT w 18 mowila "DAWKI DEPOT BRAK W PACZCE"
+    # dla arypiprazolu, olanzapiny i rysperydonu, a karty te dawki mialy od
+    # trzech rewizji. Twierdzenie o NIEOBECNOSCI zestarzalo sie w ciszy i
+    # WYGASZALO liczbe, ktora w paczce jest. Zadna z dziesieciu regul tego nie
+    # widziala, bo wszystkie sprawdzaja OBECNOSC danych.
+    # Naprawa: 18 nie orzeka o nieobecnosci, tylko WSKAZUJE pole karty
+    # (ZRODLO_DAWKI: <plik> / <karta>, pola A, B, C). To przenosi ryzyko ze
+    # starzejacego sie twierdzenia na starzejacy sie WSKAZNIK — i wlasnie
+    # dlatego wskaznik musi miec swoja regule.
+    m18 = os.path.join(PROJEKT, "18_PSYCH_PHARMA_FORMULARY_PL.txt")
+    tresc18 = open(m18, encoding="utf-8").read()
+    # wskaznik moze byc zawiniety na kilka linii — sklejamy akapit
+    akapity = re.split(r"\n(?=\S)", tresc18)
+    pary, z = [], []
+    for a in akapity:
+        for m in re.finditer(r"ŹRÓDŁO_DAWKI:\s*(DRUG_DB_[A-Z_]+)\s*/\s*([^,]+?),\s*pola?\s+(.+?)(?:\.|$)",
+                             " ".join(a.split()), re.S):
+            plik, karta, pola = m.group(1) + ".txt", m.group(2).strip(), m.group(3)
+            for pole in [x.strip() for x in re.split(r",|;", pola) if x.strip()]:
+                pary.append((plik, karta, pole))
+    for plik, karta, pole in pary:
+        sc = os.path.join(PROJEKT, plik)
+        if not os.path.exists(sc):
+            z.append("18 wskazuje nieistniejacy plik %s" % plik); continue
+        L = open(sc, encoding="utf-8").read().split("\n")
+        naglowki_pliku = [h for _, h in naglowki(L)]
+        if karta not in naglowki_pliku:
+            z.append("18 -> %s / %s: karty o tej nazwie w pliku NIE MA" % (plik, karta)); continue
+        i = naglowki_pliku.index(karta)
+        poz = [k for k, h in naglowki(L)]
+        a, b = poz[i], (poz[i + 1] if i + 1 < len(poz) else len(L))
+        if not any(l.startswith(pole) for l in L[a:b]):
+            z.append("18 -> %s / %s: pola '%s' w karcie NIE MA — wskaznik wisi w prozni"
+                     % (plik, karta, pole))
+    zglos("R11 WSKAZNIK Z 18 -> istniejace pole karty", len(pary), z,
+          "wskaznik prowadzacy donikad; N_WEJSCIE liczy pary (karta, pole)")
+
+    # ------------------------------------------- R12: 18 nie orzeka o braku
+    # WYROCZNIA JAWNA, nie green-on-empty: oczekiwana liczba recznych twierdzen
+    # o nieobecnosci w tej sekcji wynosi DOKLADNIE 0, a N_WEJSCIE to liczba
+    # linii sekcji — wiec zero znalezisk przy niezerowym wejsciu cos znaczy.
+    # UCZCIWE OGRANICZENIE: ta regula lapie WYLACZNIE sformulowania z listy
+    # ponizej. Jej zielony wynik NIE JEST dowodem, ze w sekcji nie ma innego
+    # zdania o nieobecnosci — jest dowodem, ze nie ma TYCH. Nowe sformulowanie
+    # trzeba tu dopisac. "Nie znalazlem" nie znaczy "nie ma".
+    FRAZY_BRAKU = ["BRAK W PACZCE", "BRAK ChPL", "bez dawki", "NIE MA W PACZCE",
+                   "DAWKI NIE MA", "BRAK DANYCH LOKALNYCH"]
+    sek = re.search(r"^POSTAĆ DEPOT KONTRA.*?(?=^PRZELICZNIKI DOUSTNY)",
+                    tresc18, re.S | re.M)
+    z2, linie_sek = [], []
+    if not sek:
+        z2.append("sekcji POSTAĆ DEPOT nie znaleziono — granice sie zmienily, regula slepa")
+    else:
+        linie_sek = sek.group(0).split("\n")
+        for nr, l in enumerate(linie_sek, 1):
+            if "ŹRÓDŁO_DAWKI" in l or l.strip().startswith("ZASADA TEJ SEKCJI"):
+                continue
+            for fr in FRAZY_BRAKU:
+                if fr in l:
+                    z2.append("linia %d orzeka o nieobecnosci ('%s'): %s" % (nr, fr, l.strip()[:70]))
+    zglos("R12 18 NIE ORZEKA O NIEOBECNOSCI (oczekiwane 0)", len(linie_sek), z2,
+          "zdanie o braku w sekcji POSTAĆ DEPOT; wyrocznia jawna: oczekiwane 0")
 
     # ---------------------------------------------------------- raport
     print("=" * 78)
