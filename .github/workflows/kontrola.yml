@@ -1,0 +1,91 @@
+# L1 BRAMKA MERGE — rama, warstwa 1.
+# Wchodza WYLACZNIE testy deterministyczne, darmowe, szybkie, PASS/FAIL.
+# NIE wchodza: audyt i egzamin z kluczem Anthropic, winiety modelowe,
+# kontrole starzenia danych (te sa warstwa 4, STRAZ) i raporty informacyjne.
+#
+# pull_request, nie push: bramka ma dzialac PRZED merge. push zostaje, zeby
+# galaz glowna tez byla mierzona, ale prawo zatrzymania daje dopiero
+# wymagany check przy PR (ustawienie repozytorium — patrz RAMA_GITHUB, D1).
+name: Kontrola L1
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  kontrola:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Repozytorium refundacji
+        uses: actions/checkout@v4
+        with:
+          path: psychai-refundacja
+
+      # Audyt i trzy z czterech testow CZYTAJA paczke. Bez niej nie maja
+      # wejscia — a regula bez wejscia jest znaleziskiem, nie zielonym
+      # swiatlem. Dlatego brak paczki OBLEWA prace, nie pomija jej po cichu.
+      - name: Repozytorium paczki
+        id: paczka
+        uses: actions/checkout@v4
+        with:
+          repository: cm5-ai/psychai-paczka
+          path: psychai-paczka
+          fetch-depth: 0
+          token: ${{ secrets.PSYCHAI_RO_TOKEN || github.token }}
+
+      - name: Czy paczka jest
+        run: |
+          test -d psychai-paczka/projekt || {
+            echo "FAIL: nie ma psychai-paczka/projekt."
+            echo "Jesli repozytorium paczki jest prywatne, potrzebny jest"
+            echo "sekret PSYCHAI_RO_TOKEN z prawem odczytu tamtego repo."
+            exit 1; }
+
+      - name: Testy strukturalne
+        working-directory: psychai-refundacja
+        env:
+          PSYCHAI_PACZKA: ${{ github.workspace }}/psychai-paczka
+        run: |
+          set -e
+          python3 generator/test_drug_db_podzial.py
+          python3 generator/test_przypisanie_klas.py
+          python3 generator/test_pokrycie_18.py
+          python3 generator/chpl_test_odbioru.py
+
+      - name: Audyt kompletnosci
+        working-directory: psychai-refundacja
+        env:
+          PSYCHAI_PACZKA: ${{ github.workspace }}/psychai-paczka
+        run: python3 generator/audyt_kompletnosci.py | tee audyt.txt
+
+      # Zielony wynik reguly bez wejscia nic nie znaczy. Audyt sam to
+      # drukuje; tu zamieniamy to w OBLANIE, zeby green-on-empty nie
+      # przeszlo przez bramke.
+      - name: Green-on-empty oblewa
+        working-directory: psychai-refundacja
+        run: |
+          if grep -q "BEZ WEJSCIA [1-9]" audyt.txt; then
+            echo "FAIL: regula bez wejscia. Zielony kolor takiej reguly nic nie znaczy."
+            grep "BRAK WEJSCIA" audyt.txt || true
+            exit 1
+          fi
+
+      - name: Podsumowanie
+        if: always()
+        working-directory: psychai-refundacja
+        run: |
+          { echo '## Kontrola L1'; echo '```'; tail -25 audyt.txt 2>/dev/null; echo '```'; } >> $GITHUB_STEP_SUMMARY
+
+      - name: Raport jako artefakt, nie commit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audyt-${{ github.run_id }}
+          path: psychai-refundacja/audyt.txt
+          if-no-files-found: ignore

@@ -21,7 +21,27 @@ T7  Liczba linii pol (NAZWA_POLA:) jest taka sama jak w zrodle — lapie
 """
 import os, re, subprocess, sys
 
-PACZKA = os.path.expanduser("~/mnt/psychai-paczka")
+# SCIEZKA DO PACZKI — trzy proby, w tej kolejnosci, bez zgadywania.
+# 1. PSYCHAI_PACZKA z otoczenia (CI podaje ja jawnie),
+# 2. ~/mnt/psychai-paczka (ta maszyna),
+# 3. katalog siostrzany obok tego repo (uklad checkoutu w CI).
+# Powod: zaszyta sciezka tej maszyny sprawiala, ze audyt i testy NIE DALY SIE
+# uruchomic nigdzie indziej. Narzedzie, ktorego nie da sie odpalic w CI, jest
+# narzedziem, ktore chodzi tylko wtedy, gdy ktos pamieta.
+def _paczka():
+    k = os.environ.get("PSYCHAI_PACZKA")
+    if k and os.path.isdir(k):
+        return k
+    for p in (os.path.expanduser("~/mnt/psychai-paczka"),
+              os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                           "..", "psychai-paczka")):
+        if os.path.isdir(p):
+            return os.path.normpath(p)
+    raise SystemExit("FAIL: nie znajduje paczki. Ustaw PSYCHAI_PACZKA "
+                     "albo umiesc psychai-paczka obok tego repo.")
+
+
+PACZKA = _paczka()
 PROJEKT = os.path.join(PACZKA, "projekt")
 CORE = "DRUG_DB_PSYCHIATRIA_CORE.txt"
 bledy = []

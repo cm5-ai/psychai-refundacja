@@ -25,7 +25,27 @@ REPO = os.path.dirname(KAT)
 sys.path.insert(0, os.path.join(REPO, "slownik"))
 import inn
 
-PROJEKT = os.path.expanduser("~/mnt/psychai-paczka/projekt")
+# SCIEZKA DO PACZKI — trzy proby, w tej kolejnosci, bez zgadywania.
+# 1. PSYCHAI_PACZKA z otoczenia (CI podaje ja jawnie),
+# 2. ~/mnt/psychai-paczka (ta maszyna),
+# 3. katalog siostrzany obok tego repo (uklad checkoutu w CI).
+# Powod: zaszyta sciezka tej maszyny sprawiala, ze audyt i testy NIE DALY SIE
+# uruchomic nigdzie indziej. Narzedzie, ktorego nie da sie odpalic w CI, jest
+# narzedziem, ktore chodzi tylko wtedy, gdy ktos pamieta.
+def _paczka():
+    k = os.environ.get("PSYCHAI_PACZKA")
+    if k and os.path.isdir(k):
+        return k
+    for p in (os.path.expanduser("~/mnt/psychai-paczka"),
+              os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                           "..", "psychai-paczka")):
+        if os.path.isdir(p):
+            return os.path.normpath(p)
+    raise SystemExit("FAIL: nie znajduje paczki. Ustaw PSYCHAI_PACZKA "
+                     "albo umiesc psychai-paczka obok tego repo.")
+
+
+PROJEKT = os.path.join(_paczka(), "projekt")
 KLASOWE = ["DRUG_DB_AD.txt", "DRUG_DB_AP.txt", "DRUG_DB_BZD.txt",
            "DRUG_DB_STAB.txt", "DRUG_DB_ADHD_UZAL.txt"]
 BAZA = 2           # stan 2026-09-24, rev.45: zostaja tylko flufenazyna i milnacipran,
