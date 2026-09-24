@@ -30,12 +30,16 @@ WYNIK JEDNEGO PYTANIA:
   ROZBIEZNE  rejestr mu przeczy -> zdanie w paczce jest DZIS FALSZYWE
   NIE_WIEM   nie da sie rozstrzygnac (brak produktu w spisie, zly typ)
 """
-import json, os, re, sys
+import datetime, json, os, re, sys
 
 KORZEN  = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SPIS    = os.environ.get("RPL_SPIS",    os.path.join(KORZEN, "rpl", "RPL_PSYCH.json"))
 PYTANIA = os.environ.get("RPL_PYTANIA", os.path.join(KORZEN, ".github", "straz_rpl_pytania.tsv"))
 KANARKI = os.environ.get("RPL_KANARKI", os.path.join(KORZEN, ".github", "straz_rpl_kanarki.tsv"))
+
+# Spis jest sciagany co poniedzialek. Dwa tygodnie to dwa nieudane przebiegi
+# z rzedu — wtedy problem jest po stronie pobierania, nie rejestru.
+MAX_WIEK_SPISU = int(os.environ.get("RPL_MAX_WIEK", "14"))
 
 def wczytaj_tsv(sciezka, kolumn):
     if not os.path.isfile(sciezka):
@@ -74,6 +78,32 @@ def main():
     if not produkty:
         print("FAIL: spis pusty. Pusty wynik NIE JEST informacja, ze czegos nie ma.")
         sys.exit(1)
+
+    # WIEK SPISU. Ta straz czyta plik z repozytorium, nie rejestr na zywo.
+    # Gdyby spis-rpl przestal dzialac — zmieniony URL eksportu, padniete API,
+    # wygasly workflow — straz dostawalaby w kolko ten sam stary plik i byla
+    # ZIELONA OD NIESWIEZYCH DANYCH. To jest dokladnie to, przed czym warstwa
+    # L4 ma bronic, wiec musi pilnowac rowniez wieku wlasnego wejscia.
+    dzis = datetime.date.today()
+    if os.environ.get("RPL_DZIS"):
+        dzis = datetime.date.fromisoformat(os.environ["RPL_DZIS"])
+    try:
+        d_spisu = datetime.date.fromisoformat(stan)
+    except ValueError:
+        print("FAIL: spis nie podaje daty w formacie RRRR-MM-DD (stan_na_dzien=%s)." % stan)
+        print("Bez daty wejscia nie wiem, czy odpowiadam o dzisiaj, czy o zeszlym roku.")
+        sys.exit(1)
+    wiek = (dzis - d_spisu).days
+    print("WIEK SPISU: %d dni (limit %d)" % (wiek, MAX_WIEK_SPISU))
+    if wiek > MAX_WIEK_SPISU:
+        print()
+        print("FAIL: SPIS SIE ZESTARZAL — nie orzekam niczego.")
+        print("Spis jest sciagany co poniedzialek; %d dni znaczy, ze pobieranie" % wiek)
+        print("przestalo dzialac. Odpowiedzi z tego pliku opisywalyby rejestr")
+        print("sprzed %d dni, a wygladalyby jak odpowiedzi o dzisiaj." % wiek)
+        print("Sprawdz workflow 'Spis RPL (leki psychiatryczne)'.")
+        sys.exit(1)
+    print()
 
     kanarki = wczytaj_tsv(KANARKI, 3)
     if not kanarki:
