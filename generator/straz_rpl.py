@@ -36,6 +36,7 @@ KORZEN  = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SPIS    = os.environ.get("RPL_SPIS",    os.path.join(KORZEN, "rpl", "RPL_PSYCH.json"))
 PYTANIA = os.environ.get("RPL_PYTANIA", os.path.join(KORZEN, ".github", "straz_rpl_pytania.tsv"))
 KANARKI = os.environ.get("RPL_KANARKI", os.path.join(KORZEN, ".github", "straz_rpl_kanarki.tsv"))
+POSTACIE = os.environ.get("RPL_POSTACIE", os.path.join(KORZEN, ".github", "straz_rpl_postacie.tsv"))
 
 # Spis jest sciagany co poniedzialek. Dwa tygodnie to dwa nieudane przebiegi
 # z rzedu — wtedy problem jest po stronie pobierania, nie rejestru.
@@ -161,6 +162,16 @@ def main():
         print("najgorszym mozliwym bledem: skasowalby prawdziwe ostrzezenie z karty.")
         sys.exit(1)
 
+    slownik = {}
+    for napis, droga, _n in wczytaj_tsv(POSTACIE, 3):
+        slownik[napis] = droga
+    if not slownik:
+        print("FAIL: slownik postaci pusty — bez niego klasyfikacja bylaby zgadywaniem.")
+        sys.exit(1)
+    print("SLOWNIK POSTACI: %d napisow (%d pozajelitowych)"
+          % (len(slownik), sum(1 for v in slownik.values() if v == "POZAJELITOWA")))
+    print()
+
     pytania = wczytaj_tsv(PYTANIA, 6)
     if not pytania:
         print("FAIL: zero pytan. Regula bez wejscia nie jest zielona.")
@@ -168,7 +179,8 @@ def main():
 
     n_zgodne = n_rozbiezne = n_niewiem = 0
     rozbiezne = []
-    print("PYTANIA (%d):" % len(pytania))
+    print("PYTANIA (%d). NIE_ZNALEZIONO to nie to samo co NIE MA —" % len(pytania))
+    print("znaczy: nie ma tego w TYM zrodle, na TEN dzien, wg TEGO slownika.")
     print("-" * 70)
     for ident, kod, typ, param, zrodlo, skutek in pytania:
         trafienia = po_atc(kod) if kod != "-" else produkty
@@ -179,13 +191,24 @@ def main():
             szczegol = "%d produktow" % n
             dowod = ["%s | %s | %s" % (r.get("nazwa"), r.get("moc"), r.get("postac"))
                      for r in trafienia[:4]]
-        elif typ == "BRAK_POSTACI":
-            rx = re.compile(param, re.I)
-            maj = [r for r in trafienia if rx.search(r.get("postac") or "")]
-            wynik = "ZGODNE" if not maj else "ROZBIEZNE"
-            szczegol = "%d produktow, %d roznych postaci, pasujacych: %d" % (
-                len(trafienia), len(set((r.get("postac") or "") for r in trafienia)), len(maj))
-            dowod = ["%s | %s" % (r.get("nazwa"), r.get("postac")) for r in maj[:4]]
+        elif typ == "BRAK_DROGI":
+            # [R7] Klucz deterministyczny: slownik napisow postaci, nie wzorzec.
+            # Napis spoza slownika NIE JEST "nie ta droga" — jest NIEZNANY
+            # i konczy pytanie wynikiem NIE_WIEM. Cicha klasyfikacja nowego
+            # napisu jako doustnego kazalaby odstawic potrzebny depot.
+            napisy = sorted(set((r.get("postac") or "").strip() for r in trafienia))
+            nieznane = [x for x in napisy if x not in slownik]
+            if nieznane:
+                wynik = "NIE_WIEM"
+                szczegol = "napis postaci spoza slownika (%d z %d): %s" % (
+                    len(nieznane), len(napisy), nieznane[:2])
+            else:
+                maj = [r for r in trafienia
+                       if slownik.get((r.get("postac") or "").strip()) in (param, "MIESZANA")]
+                wynik = "NIE_ZNALEZIONO" if not maj else "ROZBIEZNE"
+                szczegol = "%d produktow, %d napisow postaci, wszystkie w slowniku, droga %s: %d" % (
+                    len(trafienia), len(napisy), param, len(maj))
+                dowod = ["%s | %s" % (r.get("nazwa"), r.get("postac")) for r in maj[:4]]
         elif typ == "NAZWA_POWSZECHNA":
             # PARAMETR: "Nazwa=Oczekiwana" albo "Nazwa|moc=Oczekiwana".
             # Moc jest czescia klucza, bo pulapka nazewnicza potrafi dotyczyc
@@ -210,7 +233,7 @@ def main():
         else:
             wynik, szczegol = "NIE_WIEM", "nieznany typ pytania: %s" % typ
 
-        if wynik == "ZGODNE":
+        if wynik in ("ZGODNE", "NIE_ZNALEZIONO"):
             n_zgodne += 1
         elif wynik == "ROZBIEZNE":
             n_rozbiezne += 1
@@ -224,6 +247,19 @@ def main():
     if len(pytania) != n_zgodne + n_rozbiezne + n_niewiem:
         print("FAIL: bilans sie nie zgadza."); sys.exit(1)
     print()
+
+    if n_niewiem:
+        print("NIE ORZEKAM O %d PYTANIACH — wynik NIE_WIEM." % n_niewiem)
+        print()
+        print("Najczestsza przyczyna: w rejestrze pojawil sie napis postaci")
+        print("spoza slownika .github/straz_rpl_postacie.tsv. To zdarzenie")
+        print("wymaga czlowieka: ktos musi powiedziec, jaka to droga podania.")
+        print("Do tego czasu pytanie zostaje bez odpowiedzi.")
+        print()
+        print("ZIELONE PRZY NIE_WIEM byloby zielonym od niewiedzy — ta sama")
+        print("choroba co zielone od pustego wejscia. Dlatego oblewa.")
+        granica()
+        return 1
 
     if not rozbiezne:
         print("ZGODNE ZE STANEM REJESTRU NA %s." % stan)

@@ -1,0 +1,80 @@
+# SLOWNIK POSTACI RPL -> DROGA PODANIA.
+# [R7, rozstrzygniecie] Wczesniej klasyfikacje robilo wyrazenie regularne nad
+# polem tekstowym. To jest ZGADYWANIE PARSERA, zakazane przez niezmiennik I6
+# ramy i przez 3B: heurystyka mowi GDZIE patrzec, nie CO znaleziono.
+# Zbior napisow w eksporcie jest SKONCZONY (63 na 2026-09-23), wiec klucz
+# moze byc deterministyczny.
+#
+# NAPIS SPOZA TEGO SLOWNIKA NIE JEST "nie-iniekcyjny". Jest NIEZNANY i konczy
+# pytanie wynikiem NIE_WIEM. Cicha klasyfikacja nowego napisu jako doustnego
+# kazalaby odstawic potrzebny depot — Grok wskazal to jako szkode CIEZSZA niz
+# falszywy parasol rejestru.
+#
+# DO PRZEGLADU PRZEZ LEKARZA. Klasyfikacje zaproponowal Claude z brzmienia
+# napisow. Kolumna DROGA jest DANA, nie wnioskiem — poprawka to zmiana wiersza.
+#
+# Kolumny TABULATOREM, trzy:  NAPIS_POSTACI  DROGA  LICZBA_PRODUKTOW_2026-09-23
+# DROGA: POZAJELITOWA | DOUSTNA_LUB_INNA | MIESZANA
+Aerozol do nosa, roztwór	DOUSTNA_LUB_INNA	1
+Granulat do sporządzania roztworu doustnego	DOUSTNA_LUB_INNA	1
+Granulat do sporządzania roztworu doustnego, w saszetce	DOUSTNA_LUB_INNA	2
+Granulat o przedłużonym uwalnianiu	DOUSTNA_LUB_INNA	5
+Implant	POZAJELITOWA	1
+Kapsułki	DOUSTNA_LUB_INNA	11
+Kapsułki dojelitowe miękkie	DOUSTNA_LUB_INNA	1
+Kapsułki dojelitowe, twarde	DOUSTNA_LUB_INNA	44
+Kapsułki miękkie	DOUSTNA_LUB_INNA	3
+Kapsułki o przedłużonym uwalnianiu	DOUSTNA_LUB_INNA	3
+Kapsułki o przedłużonym uwalnianiu, twarde	DOUSTNA_LUB_INNA	47
+Kapsułki o zmodyfikowanym uwalnianiu, twarde	DOUSTNA_LUB_INNA	23
+Kapsułki twarde	DOUSTNA_LUB_INNA	291
+Koncentrat do przygotowania koncentratu do sporządzania roztworu do infuzji	POZAJELITOWA	1
+Koncentrat do sporządzania roztworu do infuzji	POZAJELITOWA	22
+Koncentrat do sporządzania roztworu doustnego	DOUSTNA_LUB_INNA	2
+Krople doustne, roztwór	DOUSTNA_LUB_INNA	7
+Lamelki podjęzykowe	DOUSTNA_LUB_INNA	8
+Mikrowlewka doodbytnicza, roztwór	DOUSTNA_LUB_INNA	2
+Proszek do inhalacji w kapsułkach twardych	DOUSTNA_LUB_INNA	1
+Proszek do inhalacji, podzielony	DOUSTNA_LUB_INNA	2
+Proszek do sporządzania koncentratu roztworu do wstrzykiwań lub infuzji	POZAJELITOWA	1
+Proszek do sporządzania roztworu do wstrzykiwań	POZAJELITOWA	2
+Proszek do sporządzania zawiesiny doustnej	DOUSTNA_LUB_INNA	2
+Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	POZAJELITOWA	8
+Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu	POZAJELITOWA	13
+Płyn doustny	DOUSTNA_LUB_INNA	5
+Roztwór do infuzji	POZAJELITOWA	13
+Roztwór do infuzji i roztwór doustny	MIESZANA	3
+Roztwór do stosowania w jamie ustnej	DOUSTNA_LUB_INNA	12
+Roztwór do wstrzykiwań	POZAJELITOWA	30
+Roztwór do wstrzykiwań / do infuzji	POZAJELITOWA	9
+Roztwór do wstrzykiwań lub infuzji	POZAJELITOWA	4
+Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce	POZAJELITOWA	3
+Roztwór do wstrzykiwań o przedłużonym uwalnianiu	POZAJELITOWA	8
+Roztwór do wstrzykiwań w ampułko-strzykawce	POZAJELITOWA	1
+Roztwór do wstrzykiwań we wkładzie	POZAJELITOWA	1
+Roztwór doustny	DOUSTNA_LUB_INNA	41
+Roztwór doustny w pojemniku jednodawkowym	DOUSTNA_LUB_INNA	1
+Syrop	DOUSTNA_LUB_INNA	19
+System transdermalny	DOUSTNA_LUB_INNA	7
+System transdermalny, plaster	DOUSTNA_LUB_INNA	24
+Tabletki	DOUSTNA_LUB_INNA	558
+Tabletki do implantacji	POZAJELITOWA	1
+Tabletki do rozgryzania i żucia	DOUSTNA_LUB_INNA	3
+Tabletki do rozgryzania i żucia / do sporządzania zawiesiny	DOUSTNA_LUB_INNA	6
+Tabletki do sporządzania zawiesiny doustnej	DOUSTNA_LUB_INNA	3
+Tabletki dojelitowe	DOUSTNA_LUB_INNA	2
+Tabletki drażowane	DOUSTNA_LUB_INNA	19
+Tabletki o przedłużonym uwalnianiu	DOUSTNA_LUB_INNA	174
+Tabletki o zmodyfikowanym uwalnianiu	DOUSTNA_LUB_INNA	71
+Tabletki podjęzykowe	DOUSTNA_LUB_INNA	15
+Tabletki powlekane	DOUSTNA_LUB_INNA	927
+Tabletki powlekane + tabletki	DOUSTNA_LUB_INNA	1
+Tabletki powlekane dojelitowe	DOUSTNA_LUB_INNA	1
+Tabletki powlekane o przedłużonym uwalnianiu	DOUSTNA_LUB_INNA	9
+Tabletki rozpuszczalne	DOUSTNA_LUB_INNA	2
+Tabletki ulegające rozpadowi w jamie ustnej	DOUSTNA_LUB_INNA	148
+Zawiesina do wstrzykiwań o przedłużonym uwalnianiu	POZAJELITOWA	20
+Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce	POZAJELITOWA	41
+Zawiesina doustna	DOUSTNA_LUB_INNA	8
+Żel do podania dojelitowego	DOUSTNA_LUB_INNA	1
+Żel dojelitowy	DOUSTNA_LUB_INNA	1

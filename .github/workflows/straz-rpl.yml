@@ -96,4 +96,8 @@ jobs:
             echo "Straz RPL: rejestr przeczy paczce."
             exit 1
           fi
+          if grep -q "^NIE ORZEKAM" raport_straz_rpl.txt; then
+            echo "Straz RPL: nowy napis postaci — pytanie bez odpowiedzi."
+            exit 1
+          fi
           echo "Straz RPL: zdania paczki zgodne ze stanem rejestru."
