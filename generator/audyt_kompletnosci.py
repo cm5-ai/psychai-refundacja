@@ -328,6 +328,99 @@ def main():
     zglos("R12 18 NIE ORZEKA O NIEOBECNOSCI (oczekiwane 0)", len(linie_sek), z2,
           "zdanie o braku w sekcji POSTAĆ DEPOT; wyrocznia jawna: oczekiwane 0")
 
+    # --------------------------------------- R13: przelicznik w dwoch miejscach
+    # 2026-09-24. Piec przelicznikow doustny->depot / miedzy depotami zyje
+    # w 18. Trzy stoja ROWNIEZ w kartach, dwa tylko w 18, bo karty
+    # haloperidolu i flupentyksolu jawnie odsylaja "patrz 18". Dzis liczby
+    # sa zgodne — ale zgodne sa przypadkiem: nic tego nie sprawdza, a przy
+    # wizycie w razie rozjazdu wygrywa 18, bo jest zawsze w oknie.
+    #
+    # PIERWSZA WERSJA TEJ REGULY PORZEBNAWALA WORKI LICZB z akapitu 18 i
+    # z jednej linii karty. Dala TRZY FALSZYWE ALARMY, bo porownywala rozny
+    # ZAKRES, nie rozne liczby. Falszywy alarm uczy ignorowania alarmow,
+    # wiec regula porownuje teraz KLUCZ DETERMINISTYCZNY: uporzadkowane PARY
+    # przeliczenia wyluskane osobnym, jawnym wzorcem dla kazdego przelicznika.
+    # Nie podobienstwo tekstu i nie zbior liczb z okolicy.
+    def _para_paliperydon(t):
+        return sorted(set((m.group(1), m.group(2)) for m in
+                          re.finditer(r"(\d+)\s*mg/d\s*->\s*(\d+(?:[-–]\d+)?)\s*mg", t.replace(",", "."))))
+    def _para_zuklo(t):
+        # KANONIZACJA JAWNA: 18 pisze "CO DWA TYGODNIE" wielkimi, karta malymi.
+        # Bez tego klucz rozni sie wielkoscia liter i regula daje falszywy alarm.
+        return sorted(set((m.group(1), m.group(2).lower()) for m in
+                          re.finditer(r"(\d+)x\s*mg\s*(?:dekano?n?ianu\s*)?(?:co\s*)?(dwa|cztery)", t, re.I)))
+    def _para_depoty(t):
+        par = []
+        for lek, wzor in (("flupentyksol", r"(\d+)\s*mg\s*dekanianu\s*(?:cis\(Z\)-)?flupentyksolu"),
+                          ("flufenazyna", r"(\d+)\s*mg\s*dekanianu\s*flufenazyny"),
+                          ("zuklopentyksol", r"(\d+)\s*mg\s*dekano?n?ianu\s*zuklopentyksolu"),
+                          ("haloperidol", r"(\d+)\s*mg\s*dekanianu\s*halopery?i?dolu")):
+            m = re.search(wzor, t, re.I)
+            if m: par.append((lek, m.group(1)))
+        return sorted(par)
+
+    PRZELICZNIKI = [
+        ("zuklopentyksol doustny -> dekanonian", "zuklopentyksol:", _para_zuklo,
+         "DRUG_DB_AP.txt", "ZUKLOPENTYKSOL", "ODSTEPY_ZMIANA_LECZENIA: doustnie -> dekanonian"),
+        ("paliperydon doustny -> miesieczny", "paliperydon palmitynian:", _para_paliperydon,
+         "DRUG_DB_AP.txt", "PALIPERYDON", "ZAMIANA z doustnego"),
+        ("miedzy depotami", "MIĘDZY DEPOTAMI:", _para_depoty,
+         "DRUG_DB_AP.txt", "ZUKLOPENTYKSOL", "DAWKA_ROWNOWAZNA:"),
+    ]
+    TYLKO_W_18 = [("haloperidol", "DRUG_DB_AP.txt", "HALOPERIDOL"),
+                  ("flupentyksol", "DRUG_DB_AP.txt", "FLUPENTYKSOL")]
+
+    def _akapit(linie, start_frazy):
+        for i, l in enumerate(linie):
+            if l.strip().startswith(start_frazy):
+                blok = [l]
+                for j in range(i + 1, len(linie)):
+                    if linie[j].startswith("    "):
+                        blok.append(linie[j])
+                    else:
+                        break
+                return " ".join(x.strip() for x in blok)
+        return None
+
+    def _karta_pole(plik, karta, polek):
+        Lk = open(os.path.join(PROJEKT, plik), encoding="utf-8").read().split("\n")
+        npl = [(k, h) for k, h in naglowki(Lk)]
+        idx = [k for k, h in npl if h == karta]
+        if not idx: return None, "karty %s nie ma w %s" % (karta, plik)
+        poz = [k for k, _ in npl]
+        a0 = idx[0]; b0 = min([x for x in poz if x > a0] + [len(Lk)])
+        linia = next((l for l in Lk[a0:b0] if l.startswith(polek)), None)
+        if linia is None: return None, "w karcie %s nie ma pola '%s'" % (karta, polek)
+        return linia, None
+
+    L18r = tresc18.split("\n")
+    z3, n3 = [], 0
+    for nazwa, fraza18, klucz, plik, karta, polek in PRZELICZNIKI:
+        n3 += 1
+        ak = _akapit(L18r, fraza18)
+        if ak is None:
+            z3.append("%s: w 18 nie ma juz akapitu '%s' — regula oslepla" % (nazwa, fraza18)); continue
+        linia, blad = _karta_pole(plik, karta, polek)
+        if blad:
+            z3.append("%s: %s" % (nazwa, blad)); continue
+        ka, kb = klucz(ak), klucz(linia)
+        if not ka:
+            z3.append("%s: wzorzec nie wylowil zadnej pary z 18 — zapis sie zmienil, regula oslepla" % nazwa)
+        elif not kb:
+            z3.append("%s: wzorzec nie wylowil zadnej pary z karty %s — regula oslepla" % (nazwa, karta))
+        elif ka != kb:
+            z3.append("%s: ROZJAZD — 18 %s, karta %s %s" % (nazwa, ka, karta, kb))
+    for nazwa, plik, karta in TYLKO_W_18:
+        n3 += 1
+        linia, blad = _karta_pole(plik, karta, "PRZELICZNIK")
+        if blad:
+            linia, blad = _karta_pole(plik, karta, "POSTAC")
+        if blad or "18" not in (linia or ""):
+            z3.append("%s: 18 jest JEDYNYM zrodlem przelicznika, a karta %s nie odsyla do 18"
+                      % (nazwa, karta))
+    zglos("R13 PRZELICZNIK 18 vs KARTA — te same pary", n3, z3,
+          "rozjazd par przeliczenia albo karta, ktora nie odsyla tam, gdzie liczba mieszka")
+
     # ---------------------------------------------------------- raport
     print("=" * 78)
     print("AUDYT KOMPLETNOSCI — predykat GREEN-ON-EMPTY")
