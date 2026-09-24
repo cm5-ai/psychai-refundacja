@@ -28,7 +28,7 @@ import inn
 PROJEKT = os.path.expanduser("~/mnt/psychai-paczka/projekt")
 KLASOWE = ["DRUG_DB_AD.txt", "DRUG_DB_AP.txt", "DRUG_DB_BZD.txt",
            "DRUG_DB_STAB.txt", "DRUG_DB_ADHD_UZAL.txt"]
-BAZA = 21          # stan 2026-09-24 po 9 nowych kartach i dwoch synonimach pisowni
+BAZA = 18          # stan 2026-09-24 po 12 nowych kartach i dwoch synonimach pisowni
 MIN_NAZWA = 6
 RDZEN = 8
 
@@ -53,7 +53,7 @@ def main():
     for f in KLASOWE:
         for l in open(os.path.join(PROJEKT, f), encoding="utf-8"):
             l = l.rstrip("\n")
-            if re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{3,}$', l):
+            if re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{1,}$', l):
                 for czesc in l.split("/"):      # KWAS WALPROINOWY / WALPROINIAN -> obie czesci
                     if len(plaski(czesc)) >= MIN_NAZWA:
                         karty.add(rdzen(czesc))

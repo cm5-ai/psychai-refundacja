@@ -74,12 +74,13 @@ def plaski(s):
 
 def naglowki(linie):
     """STRUKTURALNIE, nie regexem dozwolonych znakow."""
+    # Prog 2 znaki, nie 4: karta LIT byla niewidoczna dla obu detektorow.
     out = []
     for i, l in enumerate(linie):
         t = l.strip()
         if l[:1].isspace() or t.startswith("-"):
             continue
-        if not t or len(t) < 4 or ":" in t or any(c.islower() for c in t):
+        if not t or len(t) < 2 or ":" in t or any(c.islower() for c in t):
             continue
         if any(POLE.match(x.strip()) for x in linie[i + 1:i + 5]):
             out.append((i, l))

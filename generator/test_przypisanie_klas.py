@@ -46,6 +46,9 @@ WYJATKI = {
                     "R06AD02 to lek przeciwhistaminowy, ale to fenotiazyna: dzieli z klasa "
                     "antycholinergie, sedacje i wydluzenie QT, a 18 traktuje ja przez klase, "
                     "nie przez wskazanie nasenne."),
+    "LIT": ("DRUG_DB_STAB.txt",
+            "N05AN01 stoi w grupie przeciwpsychotycznej ATC, ale lit jest stabilizatorem "
+            "nastroju: 18 prowadzi go przez profilaktyke nawrotow i litemie, nie przez klase AP."),
     "KLONAZEPAM": ("DRUG_DB_BZD.txt",
                    "N03AE01 to kod przeciwpadaczkowy, ale to benzodiazepina: BLOK BZD "
                    "(SUD, opioid, OSAS, wiek z upadkami) obowiazuje ja tak samo jak reszte klasy."),
@@ -65,7 +68,7 @@ def plaski(s):
 
 def naglowki(tekst):
     return [l for l in tekst.split("\n")
-            if re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{3,}$', l)]
+            if re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{1,}$', l)]
 
 
 def main():

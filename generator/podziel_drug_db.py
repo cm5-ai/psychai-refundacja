@@ -81,7 +81,7 @@ def naglowek_karty(l):
     w indeksie, wiec pytanie o walproinian dostaje 'nie znalazlem'.
     Testy tego nie zlapaly, bo test powtarzal TEN SAM regex co generator.
     Identyczny blad po obu stronach jest niewidzialny."""
-    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{3,}$', l))
+    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{1,}$', l))
 
 
 def czytaj():

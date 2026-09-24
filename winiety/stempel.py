@@ -50,7 +50,7 @@ SEKCJE = {"SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "PRZECIWPSYCHOTYCZNE"}
 
 def karty(tekst):
     return [l for l in tekst.split("\n")
-            if re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _\-]{3,}$', l)]
+            if re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _\-]{1,}$', l)]
 
 
 def naglowek(nazwa, wydanie=WYDANIE, suma=SUMA):

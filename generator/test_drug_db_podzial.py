@@ -33,7 +33,7 @@ def naglowek_karty(l):
     nie, wiec obaj zgodnie nie widzieli karty KWAS WALPROINOWY / WALPROINIAN.
     Identyczny blad po obu stronach jest niewidzialny. Zostaje do dzielenia
     blokow, ale T0 ponizej sprawdza ja METODA NIEZALEZNA."""
-    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{3,}$', l))
+    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _/.\-]{1,}$', l))
 
 
 def naglowki_niezaleznie(linie):
@@ -55,7 +55,7 @@ def naglowki_niezaleznie(linie):
         # wewnatrz karty ("  - JEDNOCZESNE STOSOWANIE...") naglowkiem nie jest.
         if l[:1].isspace() or t.startswith("-"):
             continue
-        if not t or len(t) < 4 or ":" in t or any(c.islower() for c in t):
+        if not t or len(t) < 2 or ":" in t or any(c.islower() for c in t):
             continue
         if any(pole.match(x.strip()) for x in linie[i + 1:i + 5]):
             out.append(l)
