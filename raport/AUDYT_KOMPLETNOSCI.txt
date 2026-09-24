@@ -1,0 +1,17 @@
+==============================================================================
+AUDYT KOMPLETNOSCI — predykat GREEN-ON-EMPTY
+==============================================================================
+R1 KARTA -> wpis w indeksie                  N_WE    47  OK           0
+R2 INDEKS -> karta w tym pliku               N_WE    55  OK           0
+R3 KARTA -> sekcja-wlasciciel                N_WE    47  ZNALEZISKA   2
+      - ATOMOKSETYNA (DRUG_DB_ADHD_UZAL.txt): brak sekcji nad karta
+      - METYLOFENIDAT (DRUG_DB_ADHD_UZAL.txt): brak sekcji nad karta
+R4 SEKCJA -> ma karty                        N_WE     8  OK           0
+R5 KARTA -> pole dawki                       N_WE    47  OK           0
+R6 WPIS CACHE OK -> tresc + postac + ekspozy N_WE   371  OK           0
+R7 DEPOT -> interwal podawania               N_WE    61  OK           0
+R8 MANIFEST -> zbior + hashe                 N_WE    44  OK           0
+R9 WYDANIE -> zgodne z projekt               N_WE     8  OK           0
+R10 INDEKS CACHE -> plik albo opisany brak   N_WE   138  OK           0
+
+REGUL 10 = OK 9 + ZE ZNALEZISKAMI 1 + BEZ WEJSCIA 0 -> BILANS OK
