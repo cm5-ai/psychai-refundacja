@@ -1,7 +1,6 @@
-N_WEJSCIE 73 rdzeni lekowych w 18 = z karta 42 + BEZ KARTY 31 -> BILANS OK
+N_WEJSCIE 73 rdzeni lekowych w 18 = z karta 46 + BEZ KARTY 27 -> BILANS OK
 
    akamprozat                   ChPL w cache: akamprozat
-   amisulpryd                   ChPL w cache: amisulpryd
    buprenorfina                 ChPL w cache: buprenorfina_nalokson
    citalopram                   ChPL w cache: citalopram
    deksamfetamina               ChPL w cache: deksamfetamina
@@ -16,7 +15,6 @@ N_WEJSCIE 73 rdzeni lekowych w 18 = z karta 42 + BEZ KARTY 31 -> BILANS OK
    gabapentynoid                ChPL w cache: gabapentyna
    kariprazyna                  ChPL w cache: kariprazyna
    lisdeksamfetamina/lisdeksamf ChPL w cache: lisdeksamfetamina
-   lurazydon                    ChPL w cache: lurazydon
    melatonina                   ChPL w cache: melatonina
    mianseryna                   ChPL w cache: mianseryna
    midazolam                    ChPL w cache: midazolam
@@ -26,11 +24,10 @@ N_WEJSCIE 73 rdzeni lekowych w 18 = z karta 42 + BEZ KARTY 31 -> BILANS OK
    naltrekson                   ChPL w cache: naltrekson
    okskarbazepina               ChPL w cache: okskarbazepina
    propranolol                  ChPL w cache: propranolol
-   sertindol                    ChPL w cache: sertindol
    topiramat                    ChPL w cache: topiramat
    wortioksetyna                ChPL w cache: wortioksetyna
-   ziprasidon                   ChPL w cache: ziprasidon
    zuklopentiksol/zuklopentykso ChPL w cache: zuklopentiksol
 
-Wszystkie 31 maja ChPL w cache, wiec karty DA SIE zbudowac.
+Lekow bez karty 27, baza 31 — spadlo. Zaktualizuj BAZE w tym pliku.
+Wszystkie 27 maja ChPL w cache, wiec karty DA SIE zbudowac.
 TEST POKRYCIA 18: PRZESZEDL

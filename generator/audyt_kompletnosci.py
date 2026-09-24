@@ -42,7 +42,17 @@ import inn
 
 PACZKA = os.path.expanduser("~/mnt/psychai-paczka")
 PROJEKT = os.path.join(PACZKA, "projekt")
-WYDANIE = os.path.join(PACZKA, "wydanie", "rev34")
+def _wydanie():
+    """Najnowszy katalog wydania, NIE zaszyty numer. Pierwsza wersja miala
+    wpisane 'rev34'; po przejsciu na rev35 regula R9 dostala ZERO WEJSCIA
+    i swiecila na zielono, nie sprawdzajac niczego. Audyt zlapal sam siebie -
+    dokladnie po to kazda regula raportuje N_WEJSCIE."""
+    k = os.path.join(PACZKA, "wydanie")
+    kat = sorted(d for d in os.listdir(k) if d.startswith("rev")) if os.path.isdir(k) else []
+    return os.path.join(k, kat[-1]) if kat else os.path.join(k, "BRAK")
+
+
+WYDANIE = _wydanie()
 KLASOWE = ["DRUG_DB_AD.txt", "DRUG_DB_AP.txt", "DRUG_DB_BZD.txt",
            "DRUG_DB_STAB.txt", "DRUG_DB_ADHD_UZAL.txt"]
 CORE = "DRUG_DB_PSYCHIATRIA_CORE.txt"
@@ -222,7 +232,8 @@ def main():
                 z.append("%s: w wydaniu, nie ma w projekt/" % f)
             elif sha(p1) != sha(p2):
                 z.append("%s: wydanie rozni sie od projekt/" % f)
-    zglos("R9 WYDANIE -> zgodne z projekt", n, z, "lekarz wgrywa nie to, co przetestowane")
+    zglos("R9 WYDANIE (%s) -> zgodne z projekt" % os.path.basename(WYDANIE), n, z,
+          "lekarz wgrywa nie to, co przetestowane")
 
     # R10 SUBSTANCJA W INDEKSIE CACHE -> plik istnieje i deklaruje te substancje
     idx = json.load(open(os.path.join(REPO, "chpl", "INDEX.json"), encoding="utf-8"))["substancje"]
