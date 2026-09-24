@@ -141,6 +141,7 @@ def main():
              "OK" if not brakujace and not nadmiarowe else "FAIL"))
 
     # T2
+    UZUPELNIONE = {"PALIPERYDON"}   # patrz DOPISANE w T7
     rozne = 0
     for n, tresc_zr in karty_zr.items():
         if n not in gdzie:
@@ -148,6 +149,16 @@ def main():
         if gdzie[n][1] != tresc_zr:
             rozne += 1
             a, b = tresc_zr, gdzie[n][1]
+            # Karta z jawnej listy uzupelnien moze miec linie DOPISANE, ale zadnej
+            # zmienionej ani usunietej: zrodlo musi byc PODCIAGIEM pliku. To wciaz
+            # lapie ciche skrocenie karty, a nie blokuje swiadomego uzupelnienia.
+            if n in UZUPELNIONE:
+                it = iter(b)
+                if all(any(x == y for y in it) for x in a):
+                    continue
+                bledy.append("T2 %s: karta z listy uzupelnien, ale zrodlo NIE JEST "
+                             "podciagiem pliku — linie zmieniono albo usunieto" % n)
+                continue
             for i in range(max(len(a), len(b))):
                 x = a[i] if i < len(a) else "<brak linii>"
                 y = b[i] if i < len(b) else "<brak linii>"
@@ -231,10 +242,21 @@ def main():
                 n_po_migracyjne += sum(1 for l in t if pole.match(l))
     n_po = n_po_migracyjne
     n_zr_karty = sum(1 for t in karty_zr.values() for l in t if pole.match(l))
-    if n_zr_karty != n_po:
-        bledy.append("T7: linii pol w kartach zrodla %d, po podziale %d" % (n_zr_karty, n_po))
-    print("T7 LINIE POL w kartach: zrodlo %d, po podziale %d -> %s"
-          % (n_zr_karty, n_po, "OK" if n_zr_karty == n_po else "FAIL"))
+    # CELOWE UZUPELNIENIA kart migracyjnych. T7 ma lapac ZGUBIONA linie, a nie
+    # swiadome dopisanie pola. Kazda pozycja to jawny dlug: ile linii dopisano
+    # i dlaczego. Bez tej tabeli jedyne wyjscie to wylaczenie T7 dla calej karty,
+    # co skasowaloby ochrone reszty jej pol.
+    DOPISANE = {"PALIPERYDON": (5, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
+                                   "w karcie depot — audyt kart z 2026-09-24")}
+    delta = sum(n for n, _ in DOPISANE.values())
+    if n_zr_karty + delta != n_po:
+        bledy.append("T7: linii pol w kartach zrodla %d (+%d celowo), po podziale %d"
+                     % (n_zr_karty, delta, n_po))
+    print("T7 LINIE POL w kartach: zrodlo %d + celowo %d = %d, po podziale %d -> %s"
+          % (n_zr_karty, delta, n_zr_karty + delta, n_po,
+             "OK" if n_zr_karty + delta == n_po else "FAIL"))
+    for k, (n_, po) in sorted(DOPISANE.items()):
+        print("   CELOWO %s +%d: %s" % (k, n_, po))
     print("   (w calym zrodle z preambula: %d)" % n_zr)
 
     print()
