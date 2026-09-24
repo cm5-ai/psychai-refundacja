@@ -58,6 +58,39 @@ def wczytaj_tsv(sciezka, kolumn):
         print("\n".join(zle)); sys.exit(1)
     return out
 
+def granica():
+    """Drukowane przy KAZDYM wyniku, zielonym i czerwonym.
+    [Grok, runda R6] Granica tego narzedzia: wolno mu pytac, czy NOSNIK
+    w swiecie nadal istnieje i czy tekst zrodla sie ruszyl. Nie wolno mu
+    pytac, czy ZDANIE KLINICZNE na karcie jest prawdziwe. Drugie pytanie,
+    obsluzone pierwszym zrodlem, produkuje falszywa pewnosc: zielone
+    zlaczenie wyglada jak walidacja dawki."""
+    print()
+    print("-" * 70)
+    print("CZEGO TO SPRAWDZENIE NIE DOWODZI — czytaj, zanim uznasz to za zgode.")
+    print("-" * 70)
+    print("Rejestr NIE NIESIE EKSPOZYCJI. Zweryfikowane na eksporcie 2026-09-23:")
+    print("   Clopixol-Acuphase   50 mg   Roztwor do wstrzykiwan")
+    print("   Clopixol-Depot     200 mg   Roztwor do wstrzykiwan")
+    print("Krotko dzialajacy i depot maja IDENTYCZNY napis w polu postac.")
+    print("Tak samo Okedi (28 dni) i Rispolept Consta (2 tygodnie).")
+    print()
+    print("Dlatego ta straz NIGDY nie mowi 'dawka potwierdzona rejestrem' ani")
+    print("'mozna podac'. Mowi wylacznie, czy pozycja w rejestrze jest albo")
+    print("jej nie ma. Para dawka-interwal, rownowaznosc depotow i zasadnosc")
+    print("zamiany zostaja po stronie karty, modulu 18 i lekarza.")
+    print()
+    print("Z TEGO POWODU NIE MA TU PYTANIA TYPU 'OBECNOSC_POSTACI'. Pytanie")
+    print("'czy iniekcja tej substancji jest w RPL' wyglada na uzyteczne,")
+    print("a rozpina falszywy parasol rejestru nad zla para dawka-interwal.")
+    print("Jego brak jest decyzja, nie przeoczeniem.")
+    print()
+    print("Pole waznosc_pozwolenia nie jest tu uzywane jako sygnal wycofania.")
+    print("Na 2696 pozycji 519 ma je puste, 1110 to 'Bezterminowe', a 124 nosi")
+    print("daty z przeszlosci — pole zostaje po wygasnieciu, wiec 'wygaslo'")
+    print("z tego eksportu bylby wnioskiem z danej, ktora milczy.")
+
+
 def main():
     if not os.path.isfile(SPIS):
         print("FAIL: brak spisu RPL (%s). Bez niego nie orzekam niczego." % SPIS)
@@ -198,6 +231,7 @@ def main():
         print("CO TO ZNACZY: te zdania paczki sa na ten dzien PRAWDZIWE — nie")
         print("tylko 'nikt nie sprawdzal'. Ta data jest data sprawdzenia")
         print("MASZYNOWEGO i moze zastapic reczna date w rejestrze strazy.")
+        granica()
         return 0
 
     print("ROZBIEZNOSCI — PACZKA MOWI CO INNEGO NIZ REJESTR:")
@@ -210,6 +244,7 @@ def main():
         print()
     print("Te zdania sa DZIS FALSZYWE. Zmiana tresci karty nalezy do lekarza —")
     print("narzedzie nie dotyka kart.")
+    granica()
     return 1
 
 if __name__ == "__main__":

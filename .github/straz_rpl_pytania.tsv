@@ -9,6 +9,16 @@
 # nazwie byloby przyblizone, a 3B zabrania przyblizonego klucza dla danych
 # podawanych przy pacjencie.
 #
+# TYPU 'OBECNOSC_POSTACI' TU NIE MA I NIE BEDZIE — decyzja, nie przeoczenie.
+# [Grok, runda R6, potwierdzone na eksporcie 2026-09-23] Pytanie "czy iniekcja
+# tej substancji jest w RPL" wyglada na uzyteczne, a rozpina falszywy parasol
+# rejestru nad zla para dawka-interwal. Clopixol-Acuphase 50 mg i
+# Clopixol-Depot 200 mg maja w rejestrze IDENTYCZNY napis "Roztwor do
+# wstrzykiwan"; Okedi (28 dni) i Rispolept Consta (2 tygodnie) tak samo.
+# Rejestr nie niesie EKSPOZYCJI, wiec zielone od niego nie moze dotyczyc
+# pary dawka-interwal. Pytanie o NIEOBECNOSC postaci jest bezpieczne
+# (mowi, ze nosnika nie ma); pytanie o OBECNOSC nie jest.
+#
 # TYPY:
 #   BRAK_PRODUKTU     oczekiwane 0 produktow o tym ATC
 #   BRAK_POSTACI      zaden produkt o tym ATC nie ma postaci pasujacej do
