@@ -71,6 +71,14 @@ def karty_z(linie):
     return out, (linie[:idx[0]] if idx else linie)
 
 
+# Rewizja paczki SPRZED podzialu DRUG_DB na pliki klasowe — jedyne zrodlo prawdy
+# dla tego testu. Podzial zrobil commit 683d132; 458b5ab to jego rodzic.
+# Domyslne "HEAD" bylo pulapka: na dzisiejszym HEAD plik jest juz PO podziale,
+# wiec test konczyl sie FAILEM, ktory znaczyl "zle uruchomiles", a wygladal
+# jak "paczka zepsuta". Argument nadal nadpisuje stala.
+REV_PRZED_PODZIALEM = "458b5ab"
+
+
 def zrodlo_z_gita(rev):
     r = subprocess.run(["git", "-C", PACZKA, "show", "%s:projekt/%s" % (rev, CORE)],
                        capture_output=True, text=True)
@@ -80,28 +88,33 @@ def zrodlo_z_gita(rev):
 
 
 def main():
-    rev = sys.argv[1] if len(sys.argv) > 1 else "HEAD"
+    rev = sys.argv[1] if len(sys.argv) > 1 else REV_PRZED_PODZIALEM
     zr = zrodlo_z_gita(rev)
     if zr is None:
         print("FAIL: nie moge wyjac wersji sprzed podzialu z gita (%s)" % rev); return 1
-    # T0 — DWIE METODY WYKRYWANIA NAGLOWKOW MUSZA SIE ZGADZAC NA ZRODLE.
-    # Bez tego testu regex generatora i regex testu moga miec ten sam blad
-    # i zgodnie przeoczyc karte. Tak wlasnie zginela KWAS WALPROINOWY.
+    # Bez T0 regex generatora i regex testu moga miec ten sam blad i zgodnie
+    # przeoczyc karte. Tak wlasnie zginela KWAS WALPROINOWY.
     karty_zr, _ = karty_z(zr)
     niez = naglowki_niezaleznie(zr)
+    # BRAMKA WEJSCIA PRZED T0. Zgodnie z 3B regula bez wejscia jest znaleziskiem,
+    # a nie wynikiem OK: na pliku PO podziale obie metody widza zero naglowkow,
+    # zgadzaja sie ze soba i T0 drukowal "OK" na pustym zbiorze. Dlatego liczbe
+    # kart sprawdzamy PRZED T0, a nie po nim.
+    if len(karty_zr) < 40 or len(niez) < 40:
+        print("FAIL: wersja %s ma %d kart (regex) i %d naglowkow (struktura) — to nie jest "
+              "wersja sprzed podzialu; T0 nie zostal uruchomiony na pustym wejsciu"
+              % (rev, len(karty_zr), len(niez)))
+        return 1
+    # T0 — DWIE METODY WYKRYWANIA NAGLOWKOW MUSZA SIE ZGADZAC NA ZRODLE.
     tylko_regex = [x for x in karty_zr if x not in niez]
     tylko_struktura = [x for x in niez if x not in karty_zr]
-    print("T0 DWIE METODY na zrodle: regex %d, struktura %d, rozbieznosc %d+%d -> %s"
+    print("T0 DWIE METODY na zrodle: N_WEJSCIE regex %d, struktura %d, rozbieznosc %d+%d -> %s"
           % (len(karty_zr), len(niez), len(tylko_regex), len(tylko_struktura),
              "OK" if not tylko_regex and not tylko_struktura else "FAIL"))
     for x in tylko_regex:
         bledy.append("T0 '%s': widzi tylko regex - struktura karty tego nie potwierdza" % x[:40])
     for x in tylko_struktura:
         bledy.append("T0 '%s': widzi tylko struktura - regex naglowka to przeoczyl" % x[:40])
-    if len(karty_zr) < 40:
-        print("FAIL: wersja %s ma tylko %d kart — to chyba juz plik po podziale, "
-              "podaj rewizje sprzed podzialu jako argument" % (rev, len(karty_zr)))
-        return 1
 
     pliki = sorted(f for f in os.listdir(PROJEKT) if f.startswith("DRUG_DB_") and f.endswith(".txt")
                    and f not in (CORE, "DRUG_DB_KARDIOLOGIA_CORE.txt", "DRUG_DB_CIAZA_LAKTACJA.txt"))
