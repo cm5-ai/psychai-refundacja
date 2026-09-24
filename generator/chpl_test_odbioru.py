@@ -101,8 +101,23 @@ for nazwa, v in subs.items():
         # T7. Sygnatura zrodla.
         if not p.get("sha256_pdf"):
             bledy.append(f"T7 {etykieta}: brak sha256_pdf")
-        if not (p.get("zrodlo") or "").startswith("https://rejestrymedyczne.ezdrowie.gov.pl/"):
-            bledy.append(f"T7 {etykieta}: zrodlo spoza RPL: {p.get('zrodlo')}")
+        # DWA dopuszczalne zrodla, kazde o WLASNYM wzorcu adresu:
+        #  1. rejestr krajowy (RPL),
+        #  2. charakterystyka EMA w wersji polskiej - WYLACZNIE dla wpisow
+        #     jawnie oznaczonych ZRODLO_REJESTRACJI = EMA_PRODUCT_INFORMATION_PL.
+        # Powod rozszerzenia (2026-09-24): 39 produktow iniekcyjnych rejestracji
+        # centralnej nie ma w RPL zadnego linku do ChPL. Bez tego zrodla Zypadhera,
+        # Xeplion, Trevicta, Byannli, Okedi i Abilify Maintena nie istnialy w cache.
+        # Warunek pozostaje waski: dowolny inny adres to nadal BLAD.
+        src = (p.get("zrodlo") or "")
+        z_rpl = src.startswith("https://rejestrymedyczne.ezdrowie.gov.pl/")
+        z_ema = (src.startswith("https://www.ema.europa.eu/pl/documents/product-information/")
+                 and src.endswith("-epar-product-information_pl.pdf")
+                 and p.get("ZRODLO_REJESTRACJI") == "EMA_PRODUCT_INFORMATION_PL")
+        if not (z_rpl or z_ema):
+            bledy.append(f"T7 {etykieta}: zrodlo spoza RPL i spoza EMA: {p.get('zrodlo')}")
+        if z_ema and not p.get("ZRODLO_REJESTRACJI"):
+            bledy.append(f"T7 {etykieta}: adres EMA bez jawnego oznaczenia ZRODLO_REJESTRACJI")
         # T8. KRZYZOWE PODPIECIE: tekst ChPL musi zawierac nazwe produktu
         # ALBO rdzen substancji. To lapie imipramina->Anafranil.
         tekst = " ".join(p.get("punkty", {}).values()).lower()

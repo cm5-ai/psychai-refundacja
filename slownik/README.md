@@ -198,6 +198,37 @@ lezy w rejestrze krajowym. Droga do nich prowadzi przez EMA, nie przez RPL,
 i jest osobnym zadaniem. Pozostale 5 to substancje spoza listy cache
 (fenytoina, piracetam, biperiden, remimazolam, brivaracetam).
 
+## Depoty rejestracji centralnej — 2026-09-24
+
+Rejestr krajowy nie ma dla nich ZADNEGO linku do ChPL, bo to rejestracja EMA.
+Wzorzec, ktory dziala: `https://www.ema.europa.eu/pl/documents/product-information/<slug>-epar-product-information_pl.pdf`
+Polski plik zawiera ANEKS I, czyli ChPL. **Ekstraktor czyta go BEZ ZMIAN** —
+wszystkie 11 pobranych etykiet dalo komplet 8 punktow.
+
+Dolaczone 15 pozycji z 10 etykiet EMA (jedna etykieta obejmuje wszystkie moce
+i czasem kilka postaci tego samego produktu): Abilify, Abilify Maintena,
+Zypadhera, Zyprexa, Xeplion, Trevicta, BYANNLI, Niapelf, Okedi, Buvidal.
+Briviact i Byfavo pobrane, ale NIE dolaczone — brywaracetamu i remimazolamu
+nie ma na liscie cache. To decyzja o zakresie listy, nie o dostepnosci etykiety.
+
+**POKRYCIE INIEKCJI: 6 -> 96 -> 132 na 140.**
+Osiem pozostalych to substancje spoza listy psychiatrycznej: biperiden,
+fenytoina, piracetam, brywaracetam, remimazolam.
+
+**Test odbioru sie wywalil i mial racje.** T7 pilnowal, zeby kazde zrodlo
+pochodzilo z rejestru krajowego — 15 wpisow EMA zlamalo ten warunek. Warunek
+zostal ROZSZERZONY, nie wylaczony: dopuszczalne sa dwa zrodla, kazde o wlasnym
+wzorcu adresu, a adres EMA liczy sie tylko dla wpisow jawnie oznaczonych
+`ZRODLO_REJESTRACJI: EMA_PRODUCT_INFORMATION_PL`. Dowolny inny adres to nadal blad.
+
+**Pulapka odczytu PDF, ktora kosztowalaby 4.6 we wszystkich dziesieciu lekach.**
+Przy czytaniu przez pdf.js w przegladarce naglowek wychodzi jako
+„Wpływ na płodność, ciążę i laktacj ę" — ze spacja w srodku ostatniego slowa.
+To artefakt lamania glifow, nie inny naglowek. Porownanie naglowkow idzie po
+napisie z usunietymi wszystkimi spacjami. `pdftotext` tego artefaktu nie ma,
+wiec docelowy potok (Python) go nie widzi — ale gdyby kiedys czytac PDF
+w przegladarce, 4.6 wypadloby po cichu, bo reszta punktow by sie znalazla.
+
 ## Zrodla decyzji
 Konsultacja GPT i Grok, 2026-09-24. Od GPT: rozdzielenie `release_form`
 (z rejestru) od `exposure` (z ChPL), napis spoza slownika jako twardy FAIL,
