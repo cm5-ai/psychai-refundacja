@@ -288,8 +288,8 @@ def main():
                 "METADON": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "ESTAZOLAM": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "BROMAZEPAM": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
-                "ARYPIPRAZOL": (1, "dawka depot Abilify Maintena + NIEPEWNY_ODCZYT_ZRODLA dla 720/960 mg"),
-                "OLANZAPINA": (2, "dawka depot Zypadhera, zespol poiniekcyjny, dwa NIEPEWNY_ODCZYT_ZRODLA"),
+                "ARYPIPRAZOL": (1, "dawki depot Abilify Maintena miesieczne i dwumiesieczne; ROZBIEZNOSC_ZRODLOWA: wpis w cache jest starsza wersja dokumentu"),
+                "OLANZAPINA": (2, "dawka depot Zypadhera z zespolem poiniekcyjnym, dawka iniekcji doraznej; NIEPEWNY_ODCZYT_ZRODLA dla Tabeli 1 i ROZBIEZNOSC_ZRODLOWA dla wpisow Zyprexy"),
                 "RISPERIDON": (0, "dawki depot Rispolept Consta i Okedi — linie bez naglowka pola"),
                 "PALIPERYDON_LAI": (1, "Trevicta i BYANNLI: ODSTEPY_ZMIANA_LECZENIA; liczone w pozycji PALIPERYDON")}
     delta = sum(n for n, _ in DOPISANE.values())
