@@ -23,8 +23,17 @@ SOLE_POSREDNIE = ("acetas",)
 TOKENY_LAI = ("depot", "depo", "maintena", "consta", "acuphase", "trevicta", "byannli", "xeplion")
 # Porownanie na malych literach: rejestr zapisuje BYANNLI wielkimi, a token "Byannli"
 # go nie lapal. Wykryte 2026-09-24 przy pierwszym uruchomieniu detektora.
-KADENCJA = re.compile(r"co\s+(dwa|trzy|cztery|sześć|6|2|3|4|12|24)\s+(tygodni|tygodnie|miesiac|miesiące|miesięcy)"
-                      r"|raz\s+na\s+(miesiąc|\d+\s*tygodni)|co\s+miesiąc|comiesięczn", re.I)
+# UWAGA. Kadencja w punkcie 4.2 bywa zdaniem o INNYM produkcie: ChPL
+# Clopixol-Acuphase opisuje przejscie na dekanian "co dwa tygodnie", wiec wzorzec
+# trafia, choc Acuphase depotem NIE JEST. Dlatego kadencja jest WYLACZNIE ALARMEM
+# kierujacym do przegladu, nigdy regula klasyfikujaca. Rozstrzyga tabela wyjatkow
+# albo pole postac. Sprawdzone 2026-09-24 na tekscie ChPL.
+KADENCJA = re.compile(
+    r"co\s+(dwa|trzy|cztery|sześć|osiem|dwanaście|\d{1,2})\s*(tygodni\w*|miesi\w+)"
+    r"|w\s+odstęp\w+\s+(\d{1,2}|dwóch|trzech|czterech)\s*(tygodni\w*|miesi\w+)"
+    r"|raz\s+na\s+(\d{1,2}\s*)?(tygodni\w*|miesi\w+)"
+    r"|co\s+miesi\w+|comiesi\w+"
+    r"|co\s+\d{1,2}(\s*[-–—]\s*\d{1,2})?\s*(dni|dob\w+)", re.I)
 NOSNIK_OLEISTY = re.compile(r"olej\w*\s+(arachidow|sezamow|rycynow)|triglicerydy|viscoleo", re.I)
 
 
@@ -82,7 +91,11 @@ def ekspozycja(produkt, chpl_42=None):
     if kl["uwalnianie"] == "PRZEDLUZONE":
         return {"ekspozycja": "DEPOT", "zrodlo": "POLE_POSTAC"}
     if chpl_42 and KADENCJA.search(chpl_42):
-        return {"ekspozycja": "DEPOT", "zrodlo": "CHPL_4.2_KADENCJA"}
+        # ALARM, nie werdykt: zdanie o kadencji moze dotyczyc innego produktu.
+        # Klasa zostaje KROTKA, ale produkt trafia na liste do przegladu przez
+        # kandydat_lai(); build ma zazadac wpisu do tabeli wyjatkow.
+        return {"ekspozycja": "KROTKA", "zrodlo": "DOMYSLNIE_KROTKA_ALARM_KADENCJA",
+                "alarm": "KADENCJA_CHPL_4.2"}
     return {"ekspozycja": "KROTKA", "zrodlo": "DOMYSLNIE_KROTKA"}
 
 

@@ -119,6 +119,48 @@ produkt wpada od razu przez kadencje. Wniosek operacyjny: **dla kazdej substancj
 z choc jednym produktem iniekcyjnym ChPL musi byc pobrana**, inaczej detektor
 sierot dziala z jedna reka za plecami.
 
+## Druga tura prob (2026-09-24, po uwagach GPT)
+
+**Kadencja z ChPL 4.2 to ALARM, nie werdykt — udowodnione na tekscie.**
+ChPL Clopixol-Acuphase pasuje do wzorca kadencji ("co dwa tygodnie"), bo punkt 4.2
+opisuje PRZEJSCIE NA DEKANIAN. Zdanie o kadencji dotyczy tam innego produktu.
+Gdyby kadencja klasyfikowala, Acuphase zostalby depotem — czyli dokladnie ten blad,
+przed ktorym cala ta robota ma chronic. Kod zwraca teraz przy trafieniu kadencji
+klase KROTKA z polem `alarm`, a rozstrzyga tabela wyjatkow albo pole postac.
+
+**Wzorzec kadencji byl za waski.** Lapal "co 4 tygodnie", ale nie "w odstepie
+4 tygodni" ani "raz na 4 tygodnie" — obie frazy wystepuja w ChPL Decaldolu.
+Rozszerzony; przy okazji odrzuca "raz na dobe", "dwa razy na dobe", "przez 14 dni"
+i "co 24 godziny", ktore kadencja depotu nie sa.
+
+**ChPL nalezy do PRODUKTU I POSTACI, nie do nazwy.** Klucz po samej nazwie doklejal
+ChPL tabletek do iniekcji o tej samej nazwie i dawal falszywe alarmy przy
+Haloperidolu WZF i Clonazepamum TZF. Klucz to teraz `(kanoniczna nazwa, drogi)`.
+
+**Alarm sprawdzony i odrzucony ma wlasny wpis.** Clonazepamum TZF: fraza "co 3 dni"
+w 4.2 to tempo zwiekszania dawki, nie odstep wstrzykniec. Wpisany do tabeli wyjatkow
+jako KROTKA z powodem i pinem — inaczej ten sam alarm wracalby przy kazdym buildzie.
+
+**POKRYCIE INIEKCJI — najwazniejsza liczba tej tury.**
+Na 140 produktow iniekcyjnych w rejestrze **134 nie ma wlasnej ChPL w cache'u**.
+Cache trzyma ChPL doustne tych substancji, nie iniekcyjne. Najwieksze dziury:
+paliperydon 59, midazolam 18, buprenorfina 9, rysperydon 8, walproinian 7,
+arypiprazol 5, lorazepam 4, olanzapina 4, diazepam 3.
+Dla tych produktow detektor sierot dziala wylacznie na nazwie i soli — kadencji
+nie ma z czego przeczytac. To jest zadanie numer jeden dla generatora, przed
+dokladaniem kolejnych substancji.
+
+**Czego NIE da sie tu sprawdzic: tozsamosci produktu.**
+GPT zaproponowal assercje "kolizja nazwy kanonicznej przy wiecej niz jednym
+produkcie logicznym = FAIL". Sprawdzilem i nie ma na czym jej oprzec:
+`pozwolenie` jest na MOC, wiec jeden produkt ma ich kilka (Xanax ma cztery);
+`podmiot` bywa rozny dla tego samego produktu (Frisium 10 ma trzy, Remirta ORO trzy,
+ZolpiGen cztery) — prawdopodobnie przez zmiany podmiotu w czasie.
+W tym eksporcie nie ma pola bedacego stabilna tozsamoscia produktu.
+Dlatego kanonizacja nazwy sluzy WYLACZNIE do lookupu w tabeli wyjatkow i do niczego
+innego. Pilnuje tego assercja w kodzie: kanonizacja nie moze skleic dwoch roznych
+wpisow tabeli wyjatkow.
+
 ## Zrodla decyzji
 Konsultacja GPT i Grok, 2026-09-24. Od GPT: rozdzielenie `release_form`
 (z rejestru) od `exposure` (z ChPL), napis spoza slownika jako twardy FAIL,
