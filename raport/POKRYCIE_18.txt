@@ -1,0 +1,36 @@
+N_WEJSCIE 73 rdzeni lekowych w 18 = z karta 42 + BEZ KARTY 31 -> BILANS OK
+
+   akamprozat                   ChPL w cache: akamprozat
+   amisulpryd                   ChPL w cache: amisulpryd
+   buprenorfina                 ChPL w cache: buprenorfina_nalokson
+   citalopram                   ChPL w cache: citalopram
+   deksamfetamina               ChPL w cache: deksamfetamina
+   disulfiram                   ChPL w cache: disulfiram
+   dziurawiec                   ChPL w cache: dziurawiec
+   escitalopram                 ChPL w cache: escitalopram
+   esketamina                   ChPL w cache: esketamina
+   fenobarbital                 ChPL w cache: fenobarbital
+   fenytoina                    ChPL w cache: fenytoina
+   flufenazyny                  ChPL w cache: flufenazyna
+   fluwoksamina                 ChPL w cache: fluwoksamina
+   gabapentynoid                ChPL w cache: gabapentyna
+   kariprazyna                  ChPL w cache: kariprazyna
+   lisdeksamfetamina/lisdeksamf ChPL w cache: lisdeksamfetamina
+   lurazydon                    ChPL w cache: lurazydon
+   melatonina                   ChPL w cache: melatonina
+   mianseryna                   ChPL w cache: mianseryna
+   midazolam                    ChPL w cache: midazolam
+   milnacipran                  ChPL w cache: milnacipran
+   moklobemid                   ChPL w cache: moklobemid
+   nalmefen                     ChPL w cache: nalmefen
+   naltrekson                   ChPL w cache: naltrekson
+   okskarbazepina               ChPL w cache: okskarbazepina
+   propranolol                  ChPL w cache: propranolol
+   sertindol                    ChPL w cache: sertindol
+   topiramat                    ChPL w cache: topiramat
+   wortioksetyna                ChPL w cache: wortioksetyna
+   ziprasidon                   ChPL w cache: ziprasidon
+   zuklopentiksol/zuklopentykso ChPL w cache: zuklopentiksol
+
+Wszystkie 31 maja ChPL w cache, wiec karty DA SIE zbudowac.
+TEST POKRYCIA 18: PRZESZEDL
