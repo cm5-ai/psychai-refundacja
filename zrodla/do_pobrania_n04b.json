@@ -1,0 +1,92 @@
+[
+ {
+  "plik": "amantadyna",
+  "klasa": "DOUSTNA_IR",
+  "id": "100070658",
+  "nazwa": "Viregyt-K",
+  "moc": "100 mg",
+  "postac": "Kapsułki",
+  "sub": "Amantadini hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7065/characteristic"
+ },
+ {
+  "plik": "amantadyna",
+  "klasa": "DOUSTNA_IR",
+  "id": "100218629",
+  "nazwa": "Amantix",
+  "moc": "100 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Amantadini sulfas",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21862/characteristic"
+ },
+ {
+  "plik": "amantadyna",
+  "klasa": "INFUZJA_IR",
+  "id": "100246637",
+  "nazwa": "Amantix",
+  "moc": "200 mg/500 ml",
+  "postac": "Roztwór do infuzji",
+  "sub": "Amantadini sulfas",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24663/characteristic"
+ },
+ {
+  "plik": "biperyden",
+  "klasa": "DOUSTNA_IR",
+  "id": "100003395",
+  "nazwa": "Akineton",
+  "moc": "2 mg",
+  "postac": "Tabletki",
+  "sub": "Biperideni hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/339/characteristic"
+ },
+ {
+  "plik": "biperyden",
+  "klasa": "DOUSTNA_MR",
+  "id": "100102660",
+  "nazwa": "Akineton SR 4 mg",
+  "moc": "4 mg",
+  "postac": "Tabletki o przedłużonym uwalnianiu",
+  "sub": "Biperideni hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10266/characteristic"
+ },
+ {
+  "plik": "biperyden",
+  "klasa": "INIEKCJA_KROTKA",
+  "id": "100003389",
+  "nazwa": "Akineton",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Biperideni hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/338/characteristic"
+ },
+ {
+  "plik": "propranolol",
+  "klasa": "DOUSTNA_IR",
+  "id": "100141393",
+  "nazwa": "Propranolol Accord",
+  "moc": "10 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Propranololi hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14139/characteristic"
+ },
+ {
+  "plik": "propranolol",
+  "klasa": "DOUSTNA_IR",
+  "id": "100407483",
+  "nazwa": "Propranolol Aurovitas",
+  "moc": "10 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Propranololi hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40748/characteristic"
+ },
+ {
+  "plik": "propranolol",
+  "klasa": "DOUSTNA_IR",
+  "id": "100055831",
+  "nazwa": "Propranolol WZF",
+  "moc": "10 mg",
+  "postac": "Tabletki",
+  "sub": "Propranololi hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5583/characteristic"
+ }
+]

@@ -116,3 +116,21 @@ pipamperon
 deksamfetamina
 nalmefen
 esketamina
+
+# --- przeciwparkinsonowskie (N04), dopisane 2026-09-24
+# Powod: filtr spisu przepuszczal 23 z 208 produktow N04. Odciete byly wszystkie
+# inhibitory MAO-B (zespol serotoninowy z SSRI/SNRI/TLPD/tramadolem), wszyscy
+# agonisci dopaminy (zaburzenia kontroli impulsow, RLS) i cala lewodopa, ktora
+# figurowala w kartach tiaprydu i sulpirydu jako PRZECIWWSKAZANIE.
+lewodopa
+pramipeksol
+ropinirol
+rotygotyna
+pirybedyl
+apomorfina
+selegilina
+razagilina
+safinamid
+entakapon
+opikapon
+tolkapon

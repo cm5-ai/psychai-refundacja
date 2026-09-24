@@ -1,0 +1,212 @@
+[
+ {
+  "plik": "apomorfina",
+  "klasa": "INFUZJA_IR",
+  "id": "100357851",
+  "nazwa": "Dacepton",
+  "moc": "5 mg/ml",
+  "postac": "Roztwór do infuzji",
+  "sub": "Apomorphini hydrochloridum hemihydricum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35785/characteristic"
+ },
+ {
+  "plik": "apomorfina",
+  "klasa": "INIEKCJA_KROTKA",
+  "id": "100329932",
+  "nazwa": "Dacepton",
+  "moc": "10 mg/ml",
+  "postac": "Roztwór do wstrzykiwań we wkładzie",
+  "sub": "Apomorphini hydrochloridum hemihydricum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/32993/characteristic"
+ },
+ {
+  "plik": "lewodopa",
+  "klasa": "DOJELITOWA_IR",
+  "id": "100150430",
+  "nazwa": "Duodopa",
+  "moc": "20 mg/ml + 5 mg/ml",
+  "postac": "Żel dojelitowy",
+  "sub": "Levodopum + Carbidopum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15043/characteristic"
+ },
+ {
+  "plik": "lewodopa",
+  "klasa": "DOJELITOWA_IR",
+  "id": "100445130",
+  "nazwa": "Lecigon",
+  "moc": "(20 mg + 5 mg + 20 mg)/ml",
+  "postac": "Żel do podania dojelitowego",
+  "sub": "Levodopum + Carbidopum + Entacaponum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44513/characteristic"
+ },
+ {
+  "plik": "lewodopa",
+  "klasa": "DOUSTNA_IR",
+  "id": "100430364",
+  "nazwa": "Bascar",
+  "moc": "25 mg + 100 mg",
+  "postac": "Tabletki",
+  "sub": "Carbidopum + Levodopum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43036/characteristic"
+ },
+ {
+  "plik": "lewodopa",
+  "klasa": "DOUSTNA_IR",
+  "id": "100460621",
+  "nazwa": "Parkador",
+  "moc": "12,5 mg + 50 mg",
+  "postac": "Tabletki",
+  "sub": "Carbidopum + Levodopum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46062/characteristic"
+ },
+ {
+  "plik": "lewodopa",
+  "klasa": "DOUSTNA_IR",
+  "id": "100193800",
+  "nazwa": "Madopar",
+  "moc": "200 mg + 50 mg",
+  "postac": "Kapsułki",
+  "sub": "Levodopum + Benserazidum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19380/characteristic"
+ },
+ {
+  "plik": "lewodopa",
+  "klasa": "DOUSTNA_MR",
+  "id": "100469699",
+  "nazwa": "Xevoben XR",
+  "moc": "100 mg + 25 mg",
+  "postac": "Kapsułki o przedłużonym uwalnianiu, twarde",
+  "sub": "Levodopum + Benserazidum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46969/characteristic"
+ },
+ {
+  "plik": "lewodopa",
+  "klasa": "INFUZJA_IR",
+  "id": "100456389",
+  "nazwa": "Produodopa",
+  "moc": "(240 mg + 12 mg)/ml",
+  "postac": "Roztwór do infuzji",
+  "sub": "Foslevodopum + Foscarbidopum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45638/characteristic"
+ },
+ {
+  "plik": "pirybedyl",
+  "klasa": "DOUSTNA_MR",
+  "id": "100098770",
+  "nazwa": "Pronoran",
+  "moc": "50 mg",
+  "postac": "Tabletki powlekane o przedłużonym uwalnianiu",
+  "sub": "Piribedilum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9877/characteristic"
+ },
+ {
+  "plik": "razagilina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100339698",
+  "nazwa": "Asanix PPH",
+  "moc": "1 mg",
+  "postac": "Tabletki",
+  "sub": "Rasagilinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33969/characteristic"
+ },
+ {
+  "plik": "razagilina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100339050",
+  "nazwa": "Ralago",
+  "moc": "1 mg",
+  "postac": "Tabletki",
+  "sub": "Rasagilinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33905/characteristic"
+ },
+ {
+  "plik": "razagilina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100393798",
+  "nazwa": "Rasagilina Synthon",
+  "moc": "1 mg",
+  "postac": "Tabletki",
+  "sub": "Rasagilinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39379/characteristic"
+ },
+ {
+  "plik": "ropinirol",
+  "klasa": "DOUSTNA_IR",
+  "id": "100163756",
+  "nazwa": "Adartrel",
+  "moc": "0,25 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Ropinirolum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16375/characteristic"
+ },
+ {
+  "plik": "ropinirol",
+  "klasa": "DOUSTNA_IR",
+  "id": "100216501",
+  "nazwa": "Aropilo",
+  "moc": "0,25 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Ropinirolum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21650/characteristic"
+ },
+ {
+  "plik": "ropinirol",
+  "klasa": "DOUSTNA_IR",
+  "id": "100193007",
+  "nazwa": "Requip",
+  "moc": "0,25 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Ropinirolum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19300/characteristic"
+ },
+ {
+  "plik": "ropinirol",
+  "klasa": "DOUSTNA_MR",
+  "id": "100250337",
+  "nazwa": "Aparxon PR",
+  "moc": "2 mg",
+  "postac": "Tabletki o przedłużonym uwalnianiu",
+  "sub": "Ropinirolum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/25033/characteristic"
+ },
+ {
+  "plik": "ropinirol",
+  "klasa": "DOUSTNA_MR",
+  "id": "100282099",
+  "nazwa": "ApoRopin",
+  "moc": "2 mg",
+  "postac": "Tabletki o przedłużonym uwalnianiu",
+  "sub": "Ropinirolum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28209/characteristic"
+ },
+ {
+  "plik": "ropinirol",
+  "klasa": "DOUSTNA_MR",
+  "id": "100282930",
+  "nazwa": "Aropilo SR",
+  "moc": "2 mg",
+  "postac": "Tabletki o przedłużonym uwalnianiu",
+  "sub": "Ropinirolum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28293/characteristic"
+ },
+ {
+  "plik": "selegilina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100201907",
+  "nazwa": "Segan",
+  "moc": "5 mg",
+  "postac": "Tabletki",
+  "sub": "Selegilini hydrochloridum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20190/characteristic"
+ },
+ {
+  "plik": "selegilina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100084896",
+  "nazwa": "Selgres",
+  "moc": "5 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Selegilinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8489/characteristic"
+ }
+]

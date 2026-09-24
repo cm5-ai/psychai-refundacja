@@ -1,7 +1,14 @@
 """Spis leków psychiatrycznych z eksportu RPL (CSV) + zestawienie z danymi refundacji.
 Wejście: RPL CSV, REFUNDACJA_DATA.json. Wyjście: rpl/RPL_PSYCH.json, rpl/RAPORT.md, rpl/KOMUNIKATY.md."""
 import csv, io, json, re, sys, os, hashlib, collections, datetime
-ATC_PREFIX = ("N03", "N05", "N06", "N07BB", "N07BC", "N02BF", "N02AE01", "C02AC02", "R06AD02", "N04AA", "N04BB", "C07AA05")   # przeciwpadaczkowe, psycholeptyki, psychoanaleptyki, uzależnienia, gabapentyna/pregabalina, buprenorfina
+ATC_PREFIX = ("N03", "N05", "N06", "N07BB", "N07BC", "N02BF", "N02AE01", "C02AC02", "R06AD02", "N04", "C07AA05")
+# 2026-09-24: "N04AA","N04BB" -> "N04". Powod: filtr przepuszczal 23 z 208 lekow
+# przeciwparkinsonowskich. Odciete byly M.IN. WSZYSTKIE inhibitory MAO-B
+# (selegilina, razagilina, safinamid, 12 produktow) - to one daja zespol
+# serotoninowy z SSRI, SNRI, TLPD i tramadolem - oraz wszyscy agonisci dopaminy
+# (111 produktow), ktorzy wywoluja zaburzenia kontroli impulsow i sa uzywani
+# w RLS. Lewodopa figurowala w naszych kartach jako PRZECIWWSKAZANIE do tiaprydu
+# i sulpirydu, a spis jej nie widzial wcale.   # przeciwpadaczkowe, psycholeptyki, psychoanaleptyki, uzależnienia, gabapentyna/pregabalina, buprenorfina
 START = re.compile(r'(?:\b(\d{8,14})\s*¦\s*)?\b(Rpw|Rpz|Rp|OTC|Lz)\s*¦')
 OLD = re.compile(r'(\d{8,14})\s*¦\s*([^¦]*?)\s*¦\s*(\d+)\s+(.*?)(?=\s+\d{8,14}\s*¦|$)', re.S)   # parser kontrolny (poprzednia wersja)
 

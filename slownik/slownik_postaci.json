@@ -1,6 +1,6 @@
 {
  "NAZWA": "SLOWNIK_POSTACI",
- "WERSJA": "1.0",
+ "WERSJA": "1.1",
  "DATA": "2026-09-24",
  "ZRODLO_NAPISOW": "Rejestr Produktow Leczniczych, eksport CSV, stan 2026-09-23, 2493 produkty psychiatryczne.",
  "ZASADA": "Dwie osie odczytywane DETERMINISTYCZNIE z pola postac: DROGA i UWALNIANIE. Trzecie pole, EKSPOZYCJA (DEPOT / POSREDNIA), NIE pochodzi z pola postac - pole postac tego nie koduje. Zrodlem EKSPOZYCJI jest ChPL albo jawna tabela wyjatkow po DOKLADNEJ nazwie produktu. Nie mieszaj tych zrodel.",
@@ -386,6 +386,62 @@
     "DOUSTNA"
    ],
    "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Proszek do inhalacji w kapsułkach twardych": {
+   "droga": [
+    "WZIEWNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Lewodopa wziewna (Inbrija) - podanie ratunkowe w epizodzie OFF. Kapsulka jest wkladem do inhalatora, NIE polyka sie jej."
+  },
+  "Roztwór do wstrzykiwań we wkładzie": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Wklad do wstrzykiwacza albo pompy (apomorfina). Podanie podskorne, dzialanie krotkie. To NIE jest depot mimo slowa 'wklad'."
+  },
+  "Tabletki do sporządzania zawiesiny doustnej": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Tabletka rozpuszczana przed podaniem (Madopar). Dzialanie szybsze niz postaci zwyklej - inna pora podania, nie inna dawka."
+  },
+  "Żel do podania dojelitowego": {
+   "droga": [
+    "DOJELITOWA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Zel podawany POMPA przez przetoke do jelita czczego (Duodopa, Lecigon). DAWKA NIE JEST LICZBA NA DOBE, tylko dawka poranna plus SZYBKOSC WLEWU w ml/h przez okolo 16 godzin. Wziecie tej wartosci za dawke doustna to ten sam typ bledu co wziecie dekanianu za dawke dobowa."
+  },
+  "Żel dojelitowy": {
+   "droga": [
+    "DOJELITOWA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Zel podawany POMPA przez przetoke do jelita czczego (Duodopa, Lecigon). DAWKA NIE JEST LICZBA NA DOBE, tylko dawka poranna plus SZYBKOSC WLEWU w ml/h przez okolo 16 godzin. Wziecie tej wartosci za dawke doustna to ten sam typ bledu co wziecie dekanianu za dawke dobowa."
   }
- }
+ },
+ "OSIE": {
+  "DROGA": [
+   "DOUSTNA",
+   "INIEKCJA",
+   "INFUZJA",
+   "TRANSDERMALNA",
+   "PODJEZYKOWA",
+   "OROMUKOZALNA",
+   "DOODBYTNICZA",
+   "WZIEWNA",
+   "DONOSOWA",
+   "IMPLANT",
+   "DOJELITOWA"
+  ],
+  "UWALNIANIE": [
+   "NATYCHMIASTOWE",
+   "PRZEDLUZONE",
+   "ZMODYFIKOWANE"
+  ]
+ },
+ "ZMIANA_1_1": "2026-09-24: piec napisow dolozonych po rozszerzeniu spisu o cala grupe N04 (leki przeciwparkinsonowskie). Nowa droga: DOJELITOWA - zel podawany pompa. Bramka kompletnosci zadzialala: odmowila klasyfikacji i wskazala napisy, zamiast zgadnac."
 }
