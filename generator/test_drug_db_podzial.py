@@ -1,0 +1,190 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""TEST PODZIALU DRUG_DB. Zwraca 1, gdy cokolwiek nie przejdzie.
+
+Podzial pliku, ktorego lekarz uzywa przy pacjencie, wolno zrobic tylko wtedy,
+gdy da sie UDOWODNIC, ze nic nie zginelo. Test nie wierzy skryptowi dzielacemu
+i nie uzywa jego funkcji — zrodlem prawdy jest wersja sprzed podzialu wyjeta
+z gita, a nie kopia zostawiona przez generator.
+
+T1  Kazda karta ze zrodla jest w DOKLADNIE JEDNYM pliku klasowym.
+T2  Tresc kazdej karty jest identyczna LINIA W LINIE ze zrodlem.
+T3  Bilans: N_WEJSCIE = N_ZACHOWANE + N_ODRZUCONE, odrzuconych zero.
+T4  Preambula (reguly kart) jest identyczna co do bajtu we wszystkich plikach.
+T5  Indeks w CORE i karty w plikach zgadzaja sie W OBIE STRONY:
+    zadnej karty bez wpisu w indeksie, zadnego wpisu bez karty.
+T6  Kazdy plik z indeksu istnieje.
+T7  Liczba linii pol (NAZWA_POLA:) jest taka sama jak w zrodle — lapie
+    zgubienie pojedynczej linii wewnatrz karty, ktorego T2 by nie zlapal,
+    gdyby karta zostala pominieta w calosci razem z naglowkiem.
+"""
+import os, re, subprocess, sys
+
+PACZKA = os.path.expanduser("~/mnt/psychai-paczka")
+PROJEKT = os.path.join(PACZKA, "projekt")
+CORE = "DRUG_DB_PSYCHIATRIA_CORE.txt"
+bledy = []
+
+
+def naglowek_karty(l):
+    return bool(re.match(r'^[A-ZĄĆĘŁŃÓŚŹŻ][A-ZĄĆĘŁŃÓŚŹŻ0-9 _\-]{3,}$', l))
+
+
+def karty_z(linie):
+    idx = [i for i, l in enumerate(linie) if naglowek_karty(l)]
+    out = {}
+    for n, i in enumerate(idx):
+        j = idx[n + 1] if n + 1 < len(idx) else len(linie)
+        out[linie[i]] = linie[i:j]
+    return out, (linie[:idx[0]] if idx else linie)
+
+
+def zrodlo_z_gita(rev):
+    r = subprocess.run(["git", "-C", PACZKA, "show", "%s:projekt/%s" % (rev, CORE)],
+                       capture_output=True, text=True)
+    if r.returncode != 0:
+        return None
+    return r.stdout.split("\n")
+
+
+def main():
+    rev = sys.argv[1] if len(sys.argv) > 1 else "HEAD"
+    zr = zrodlo_z_gita(rev)
+    if zr is None:
+        print("FAIL: nie moge wyjac wersji sprzed podzialu z gita (%s)" % rev); return 1
+    karty_zr, _ = karty_z(zr)
+    if len(karty_zr) < 40:
+        print("FAIL: wersja %s ma tylko %d kart — to chyba juz plik po podziale, "
+              "podaj rewizje sprzed podzialu jako argument" % (rev, len(karty_zr)))
+        return 1
+
+    pliki = sorted(f for f in os.listdir(PROJEKT) if f.startswith("DRUG_DB_") and f.endswith(".txt")
+                   and f not in (CORE, "DRUG_DB_KARDIOLOGIA_CORE.txt", "DRUG_DB_CIAZA_LAKTACJA.txt"))
+    if not pliki:
+        print("FAIL: brak plikow klasowych"); return 1
+
+    # T1-T3
+    gdzie, preambuly = {}, {}
+    for f in pliki:
+        L = open(os.path.join(PROJEKT, f), encoding="utf-8").read().split("\n")
+        k, pre = karty_z(L)
+        preambuly[f] = pre
+        for nazwa, tresc in k.items():
+            if nazwa in gdzie:
+                bledy.append("T1 %s: karta w dwoch plikach (%s i %s)" % (nazwa, gdzie[nazwa][0], f))
+            gdzie[nazwa] = (f, tresc)
+
+    brakujace = [n for n in karty_zr if n not in gdzie]
+    nadmiarowe = [n for n in gdzie if n not in karty_zr]
+    for n in brakujace:
+        bledy.append("T3 %s: karta ze zrodla nie trafila do zadnego pliku" % n)
+    for n in nadmiarowe:
+        bledy.append("T3 %s: karta, ktorej nie ma w zrodle" % n)
+    print("T3 BILANS: N_WEJSCIE %d = N_ZACHOWANE %d + N_ODRZUCONE %d -> %s"
+          % (len(karty_zr), len(karty_zr) - len(brakujace), len(brakujace),
+             "OK" if not brakujace and not nadmiarowe else "FAIL"))
+
+    # T2
+    rozne = 0
+    for n, tresc_zr in karty_zr.items():
+        if n not in gdzie:
+            continue
+        if gdzie[n][1] != tresc_zr:
+            rozne += 1
+            a, b = tresc_zr, gdzie[n][1]
+            for i in range(max(len(a), len(b))):
+                x = a[i] if i < len(a) else "<brak linii>"
+                y = b[i] if i < len(b) else "<brak linii>"
+                if x != y:
+                    bledy.append("T2 %s linia %d: zrodlo %r != plik %r" % (n, i, x[:60], y[:60]))
+                    break
+    print("T2 TRESC KART: %d roznych z %d" % (rozne, len(karty_zr)))
+
+    # T4
+    core_L = open(os.path.join(PROJEKT, CORE), encoding="utf-8").read().split("\n")
+    _, pre_core = karty_z(core_L)
+    # Naglowek pliku JEST rozny z zalozenia (inna nazwa klasy) i nie jest
+    # regula karty. Porownujemy dopiero od znacznika - inaczej test krzyczy
+    # na roznice, ktora ma byc.
+    ZNACZNIK = "REGULY KART PONIZEJ SA IDENTYCZNE"
+
+    def reguly(linie):
+        for i, l in enumerate(linie):
+            if ZNACZNIK in l:
+                return [x for x in linie[i + 1:] if x.strip()]
+        return None
+
+    wzor = None
+    for f in pliki:
+        p = reguly(preambuly[f])
+        if p is None:
+            bledy.append("T4 %s: brak znacznika '%s' - nie wiadomo, gdzie zaczynaja sie reguly kart"
+                         % (f, ZNACZNIK))
+            continue
+        if wzor is None:
+            wzor, wzor_f = p, f
+        elif p != wzor:
+            for i in range(max(len(p), len(wzor))):
+                x = wzor[i] if i < len(wzor) else "<brak>"
+                y = p[i] if i < len(p) else "<brak>"
+                if x != y:
+                    bledy.append("T4 %s vs %s: reguly kart rozjechaly sie w linii %d: %r != %r"
+                                 % (wzor_f, f, i, x[:60], y[:60]))
+                    break
+    print("T4 REGULY KART identyczne w %d plikach klasowych: %s"
+          % (len(pliki), "OK" if not any(b.startswith("T4") for b in bledy) else "FAIL"))
+
+    # T5, T6
+    ind = {}
+    w_indeksie = False
+    for l in core_L:
+        if l.strip().startswith("INDEKS KART"):
+            w_indeksie = True; continue
+        if l.strip().startswith("SEKCJE KLASOWE"):
+            w_indeksie = False; continue
+        if w_indeksie and l.strip():
+            czesci = l.rsplit(None, 1)
+            if len(czesci) == 2:
+                ind[czesci[0].strip()] = czesci[1].strip()
+    for n in gdzie:
+        if n not in ind:
+            bledy.append("T5 %s: karta w pliku %s, ale nie ma jej w indeksie CORE" % (n, gdzie[n][0]))
+    for n, f in ind.items():
+        if n not in gdzie:
+            bledy.append("T5 %s: wpis w indeksie bez karty" % n)
+        elif gdzie[n][0] != f:
+            bledy.append("T5 %s: indeks wskazuje %s, karta lezy w %s" % (n, f, gdzie[n][0]))
+        if not os.path.exists(os.path.join(PROJEKT, f)):
+            bledy.append("T6 %s: indeks wskazuje nieistniejacy plik %s" % (n, f))
+    print("T5 INDEKS <-> KARTY w obie strony: %d wpisow, %d kart -> %s"
+          % (len(ind), len(gdzie), "OK" if not any(b.startswith(("T5", "T6")) for b in bledy) else "FAIL"))
+
+    # T7
+    pole = re.compile(r'^[A-ZĄĆĘŁŃÓŚŹŻ_0-9/]+:')
+    n_zr = sum(1 for l in zr if pole.match(l))
+    n_po = 0
+    for f in pliki:
+        L = open(os.path.join(PROJEKT, f), encoding="utf-8").read().split("\n")
+        k, _ = karty_z(L)
+        for t in k.values():
+            n_po += sum(1 for l in t if pole.match(l))
+    n_zr_karty = sum(1 for t in karty_zr.values() for l in t if pole.match(l))
+    if n_zr_karty != n_po:
+        bledy.append("T7: linii pol w kartach zrodla %d, po podziale %d" % (n_zr_karty, n_po))
+    print("T7 LINIE POL w kartach: zrodlo %d, po podziale %d -> %s"
+          % (n_zr_karty, n_po, "OK" if n_zr_karty == n_po else "FAIL"))
+    print("   (w calym zrodle z preambula: %d)" % n_zr)
+
+    print()
+    if bledy:
+        print("BLEDOW: %d" % len(bledy))
+        for b in bledy[:40]:
+            print("  ", b)
+        print("TEST PODZIALU: NIE PRZESZEDL")
+        return 1
+    print("TEST PODZIALU: PRZESZEDL")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
