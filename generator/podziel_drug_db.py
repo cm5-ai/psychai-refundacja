@@ -194,6 +194,30 @@ def main():
           % (len("\n".join(core)) + min(len("\n".join(wynik[p])) for p, _, _ in PLAN),
              len("\n".join(core)) + naj))
 
+    # STRAZNIK. Podzial byl JEDNORAZOWA MIGRACJA. Od kiedy do plikow klasowych
+    # dopisuje sie nowe karty, ponowne uruchomienie z --zapisz NADPISALOBY je
+    # wersja odtworzona ze zrodla migracyjnego - czyli po cichu skasowalo
+    # prace kliniczna. Generator, ktory moze niezauwazenie skasowac karte,
+    # jest gorszy niz brak generatora.
+    obce = []
+    for plik, _, lista in PLAN:
+        sc = os.path.join(PROJEKT, plik)
+        if not os.path.exists(sc):
+            continue
+        for l in open(sc, encoding="utf-8"):
+            l = l.rstrip("\n")
+            if naglowek_karty(l) and l not in lista:
+                obce.append("%s/%s" % (plik, l))
+    if obce and "--nadpisz-mimo-nowych-kart" not in sys.argv:
+        print("\nSTOP. W plikach klasowych sa karty, ktorych nie ma w tabeli PLAN:")
+        for o in obce:
+            print("   " + o)
+        print("Zapis nadpisalby je wersja ze zrodla migracyjnego, czyli SKASOWAL.")
+        print("Migracja jest zakonczona - karty dodaje sie teraz wprost do plikow")
+        print("klasowych. Jesli naprawde chcesz odtworzyc podzial, dopisz")
+        print("--nadpisz-mimo-nowych-kart i wiedz, co robisz.")
+        return 1
+
     if sucho:
         print("\nTRYB SUCHY. Dopisz --zapisz, zeby zapisac do projekt/.")
         return 0

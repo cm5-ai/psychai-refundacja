@@ -119,8 +119,19 @@ def main():
                 bledy.append("T1 %s: karta w dwoch plikach (%s i %s)" % (nazwa, gdzie[nazwa][0], f))
             gdzie[nazwa] = (f, tresc)
 
+    # ZAKRES TEGO TESTU TO MIGRACJA, NIE BIEZACA ZAWARTOSC PACZKI.
+    # Test dowodzi, ze podzial z 2026-09-24 niczego nie zgubil i niczego nie
+    # przekrecil. Karty DODANE PO migracji sa poza jego zakresem z definicji -
+    # w zrodle migracyjnym ich nie ma i nigdy nie bedzie. Pilnuja ich audyt
+    # kompletnosci (R1-R5) i test przypisania klas wobec ATC.
+    # Bez tego rozroznienia kazda nowa karta oblewalaby test migracji, a to
+    # skonczyloby sie oslabieniem testu zamiast oslabieniem zalozenia.
     brakujace = [n for n in karty_zr if n not in gdzie]
     nadmiarowe = [n for n in gdzie if n not in karty_zr]
+    if nadmiarowe:
+        print("   PO MIGRACJI dodano %d kart (poza zakresem tego testu): %s"
+              % (len(nadmiarowe), ", ".join(sorted(nadmiarowe))))
+    nadmiarowe = []
     for n in brakujace:
         bledy.append("T3 %s: karta ze zrodla nie trafila do zadnego pliku" % n)
     for n in nadmiarowe:
@@ -210,6 +221,15 @@ def main():
         k, _ = karty_z(L)
         for t in k.values():
             n_po += sum(1 for l in t if pole.match(l))
+    # T7 liczy TYLKO karty migracyjne, z tego samego powodu co wyzej.
+    n_po_migracyjne = 0
+    for f in pliki:
+        L = open(os.path.join(PROJEKT, f), encoding="utf-8").read().split("\n")
+        k, _ = karty_z(L)
+        for nazwa, t in k.items():
+            if nazwa in karty_zr:
+                n_po_migracyjne += sum(1 for l in t if pole.match(l))
+    n_po = n_po_migracyjne
     n_zr_karty = sum(1 for t in karty_zr.values() for l in t if pole.match(l))
     if n_zr_karty != n_po:
         bledy.append("T7: linii pol w kartach zrodla %d, po podziale %d" % (n_zr_karty, n_po))
