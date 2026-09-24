@@ -177,10 +177,14 @@ def main():
     # przeczylaby sama sobie. Kazda pozycja = ile linii zrodla znika i dlaczego.
     PRZEPISANE = {"ARYPIPRAZOL": (1, "POSTAC: 'dawek NIE MA' -> wskazanie na dawke depot w karcie"),
                   "OLANZAPINA": (1, "POSTAC: jw., plus odeslanie do NIEPEWNY_ODCZYT_ZRODLA"),
-                  "RISPERIDON": (1, "POSTAC: jw., dla obu postaci depot")}
+                  "RISPERIDON": (1, "POSTAC: jw., dla obu postaci depot"),
+                  # rev.47: przeliczniki intra-lek przeniesione z 18 do kart,
+                  # tabela rownowaznosci depotow zostawiona w 18 jako JEDEN byt
+                  "FLUPENTYKSOL": (1, "'PRZELICZNIK ... patrz 18' -> wlasciwy przelicznik w karcie plus odeslanie do tabeli rownowaznosci"),
+                  "ZUKLOPENTYKSOL": (1, "DAWKA_ROWNOWAZNA: kopia tabeli rownowaznosci usunieta, zostaje odeslanie i czesc wlasna zuklopentyksolu")}
     UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
                        "ESTAZOLAM", "BROMAZEPAM", "ARYPIPRAZOL", "OLANZAPINA",
-                       "RISPERIDON"])   # patrz DOPISANE w T7
+                       "RISPERIDON", "HALOPERIDOL", "ZUKLOPENTYKSOL"])   # patrz DOPISANE w T7
     rozne = 0
     for n, tresc_zr in karty_zr.items():
         if n not in gdzie:
@@ -304,7 +308,9 @@ def main():
                 "ARYPIPRAZOL": (1, "dawki depot Abilify Maintena miesieczne i dwumiesieczne; ROZBIEZNOSC_ZRODLOWA: wpis w cache jest starsza wersja dokumentu"),
                 "OLANZAPINA": (2, "dawka depot Zypadhera z zespolem poiniekcyjnym, dawka iniekcji doraznej; NIEPEWNY_ODCZYT_ZRODLA dla Tabeli 1 i ROZBIEZNOSC_ZRODLOWA dla wpisow Zyprexy"),
                 "RISPERIDON": (0, "dawki depot Rispolept Consta i Okedi — linie bez naglowka pola"),
-                "PALIPERYDON_LAI": (1, "Trevicta i BYANNLI: ODSTEPY_ZMIANA_LECZENIA; liczone w pozycji PALIPERYDON")}
+                "PALIPERYDON_LAI": (1, "Trevicta i BYANNLI: ODSTEPY_ZMIANA_LECZENIA; liczone w pozycji PALIPERYDON"),
+                "HALOPERIDOL": (1, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; DAWKA depot przeniesiona z 18 nie jest linia pola"),
+                "FLUPENTYKSOL_ROWNOWAZNA": (1, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; liczone osobno od CIĄŻA i KP")}
     delta = sum(n for n, _ in DOPISANE.values())
     if n_zr_karty + delta != n_po:
         bledy.append("T7: linii pol w kartach zrodla %d (+%d celowo), po podziale %d"
