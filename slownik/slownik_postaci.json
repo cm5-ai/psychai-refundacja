@@ -1,0 +1,391 @@
+{
+ "NAZWA": "SLOWNIK_POSTACI",
+ "WERSJA": "1.0",
+ "DATA": "2026-09-24",
+ "ZRODLO_NAPISOW": "Rejestr Produktow Leczniczych, eksport CSV, stan 2026-09-23, 2493 produkty psychiatryczne.",
+ "ZASADA": "Dwie osie odczytywane DETERMINISTYCZNIE z pola postac: DROGA i UWALNIANIE. Trzecie pole, EKSPOZYCJA (DEPOT / POSREDNIA), NIE pochodzi z pola postac - pole postac tego nie koduje. Zrodlem EKSPOZYCJI jest ChPL albo jawna tabela wyjatkow po DOKLADNEJ nazwie produktu. Nie mieszaj tych zrodel.",
+ "ZAKAZ": "Dopasowanie przyblizone jest zakazane (warstwa 40 par. 3B). Klucz to rownosc napisu po przycieciu bialych znakow. Napis spoza slownika = FAIL builda, nigdy UNKNOWN w produkcji.",
+ "KONTRPRZYKLADY": [
+  {
+   "regula": "acetas = depot",
+   "dlaczego_zla": "Slowo acetas wystepuje 12 razy w zbiorze, z czego 9 to Eslicarbazepini acetas - Zebinix i Eslibon, zwykle tabletki doustne. Ta regula zrobilaby z nich depoty."
+  },
+  {
+   "regula": "'o przedluzonym uwalnianiu' = depot",
+   "dlaczego_zla": "112 pozycji to doustne tabletki XR. Przedluzone uwalnianie doustne to nie depot."
+  },
+  {
+   "regula": "depot poznam po polu postac",
+   "dlaczego_zla": "Fluanxol Depot i Clopixol-Depot maja w rejestrze postac 'Roztwor do wstrzykiwan'. Pole milczy."
+  },
+  {
+   "regula": "depot poznam po soli w nazwie powszechnej",
+   "dlaczego_zla": "Slowo palmitas nie wystepuje ani razu - wszystkie 59 depotow paliperydonu ma nazwe powszechna 'Paliperidonum'."
+  }
+ ],
+ "POSTACIE": {
+  "Aerozol do nosa, roztwór": {
+   "droga": [
+    "DONOSOWA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Granulat do sporządzania roztworu doustnego": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Granulat do sporządzania roztworu doustnego, w saszetce": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Granulat o przedłużonym uwalnianiu": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Implant": {
+   "droga": [
+    "IMPLANT"
+   ],
+   "uwalnianie": "PRZEDLUZONE",
+   "uwaga": "Implantacja; uwalnianie z definicji wielotygodniowe."
+  },
+  "Kapsułki": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Kapsułki dojelitowe miękkie": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "ZMODYFIKOWANE"
+  },
+  "Kapsułki dojelitowe, twarde": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "ZMODYFIKOWANE"
+  },
+  "Kapsułki miękkie": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Kapsułki o przedłużonym uwalnianiu": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Kapsułki o przedłużonym uwalnianiu, twarde": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Kapsułki o zmodyfikowanym uwalnianiu, twarde": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "ZMODYFIKOWANE"
+  },
+  "Kapsułki twarde": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Koncentrat do przygotowania koncentratu do sporządzania roztworu do infuzji": {
+   "droga": [
+    "INFUZJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Koncentrat do sporządzania roztworu do infuzji": {
+   "droga": [
+    "INFUZJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Koncentrat do sporządzania roztworu doustnego": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Krople doustne, roztwór": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Lamelki podjęzykowe": {
+   "droga": [
+    "PODJEZYKOWA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Mikrowlewka doodbytnicza, roztwór": {
+   "droga": [
+    "DOODBYTNICZA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Proszek do inhalacji, podzielony": {
+   "droga": [
+    "WZIEWNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Proszek do sporządzania koncentratu roztworu do wstrzykiwań lub infuzji": {
+   "droga": [
+    "INIEKCJA",
+    "INFUZJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Postac wielodrogowa; jeden produkt, dwa koszyki."
+  },
+  "Proszek do sporządzania roztworu do wstrzykiwań": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Proszek do sporządzania zawiesiny doustnej": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Płyn doustny": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Roztwór do infuzji": {
+   "droga": [
+    "INFUZJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Roztwór do infuzji i roztwór doustny": {
+   "droga": [
+    "INFUZJA",
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Postac wielodrogowa; jeden produkt, dwa koszyki."
+  },
+  "Roztwór do stosowania w jamie ustnej": {
+   "droga": [
+    "OROMUKOZALNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Podanie na blone sluzowa jamy ustnej, nie polykane."
+  },
+  "Roztwór do wstrzykiwań": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Roztwór do wstrzykiwań / do infuzji": {
+   "droga": [
+    "INIEKCJA",
+    "INFUZJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Postac wielodrogowa; jeden produkt, dwa koszyki."
+  },
+  "Roztwór do wstrzykiwań lub infuzji": {
+   "droga": [
+    "INIEKCJA",
+    "INFUZJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Postac wielodrogowa; jeden produkt, dwa koszyki."
+  },
+  "Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce": {
+   "droga": [
+    "INIEKCJA",
+    "INFUZJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE",
+   "uwaga": "Postac wielodrogowa; jeden produkt, dwa koszyki."
+  },
+  "Roztwór do wstrzykiwań o przedłużonym uwalnianiu": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Roztwór do wstrzykiwań w ampułko-strzykawce": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Roztwór doustny": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Roztwór doustny w pojemniku jednodawkowym": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Syrop": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "System transdermalny": {
+   "droga": [
+    "TRANSDERMALNA"
+   ],
+   "uwalnianie": "PRZEDLUZONE",
+   "uwaga": "Plaster; uwalnianie z definicji przedluzone."
+  },
+  "System transdermalny, plaster": {
+   "droga": [
+    "TRANSDERMALNA"
+   ],
+   "uwalnianie": "PRZEDLUZONE",
+   "uwaga": "Plaster; uwalnianie z definicji przedluzone."
+  },
+  "Tabletki": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki do implantacji": {
+   "droga": [
+    "IMPLANT"
+   ],
+   "uwalnianie": "PRZEDLUZONE",
+   "uwaga": "Implantacja; uwalnianie z definicji wielotygodniowe."
+  },
+  "Tabletki do rozgryzania i żucia": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki do rozgryzania i żucia / do sporządzania zawiesiny": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki dojelitowe": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "ZMODYFIKOWANE"
+  },
+  "Tabletki drażowane": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki o przedłużonym uwalnianiu": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Tabletki o zmodyfikowanym uwalnianiu": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "ZMODYFIKOWANE"
+  },
+  "Tabletki podjęzykowe": {
+   "droga": [
+    "PODJEZYKOWA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki powlekane": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki powlekane + tabletki": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki powlekane dojelitowe": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "ZMODYFIKOWANE"
+  },
+  "Tabletki powlekane o przedłużonym uwalnianiu": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Tabletki rozpuszczalne": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Tabletki ulegające rozpadowi w jamie ustnej": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  },
+  "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce": {
+   "droga": [
+    "INIEKCJA"
+   ],
+   "uwalnianie": "PRZEDLUZONE"
+  },
+  "Zawiesina doustna": {
+   "droga": [
+    "DOUSTNA"
+   ],
+   "uwalnianie": "NATYCHMIASTOWE"
+  }
+ }
+}

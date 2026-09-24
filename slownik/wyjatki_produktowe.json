@@ -1,0 +1,39 @@
+{
+ "NAZWA": "WYJATKI_PRODUKTOWE_EKSPOZYCJA",
+ "WERSJA": "1.0",
+ "DATA": "2026-09-24",
+ "ZASADA": "Pole EKSPOZYCJA nie pochodzi z pola postac w rejestrze. Klucz to DOKLADNA nazwa produktu, rownosc napisu. Zero dopasowania przyblizonego. Kazda pozycja ma pin do ChPL.",
+ "WARTOSCI": {
+  "DEPOT": "Iniekcja podtrzymujaca, interwal co najmniej 7 dni.",
+  "POSREDNIA": "Iniekcja o dzialaniu 2-3 dob, nieprzeznaczona do podtrzymania. Pomylenie z DEPOT w jedna strone daje dziure terapeutyczna, w druga przedawkowanie.",
+  "KROTKA": "Iniekcja o dzialaniu godzinowym."
+ },
+ "PRODUKTY": {
+  "Fluanxol Depot": {
+   "ekspozycja": "DEPOT", "interwal_kubel": "P2W_P4W",
+   "powod": "Pole postac w rejestrze brzmi 'Roztwor do wstrzykiwan' i nie koduje przedluzonego dzialania.",
+   "pin": "ChPL Fluanxol Depot 20 mg/ml 4.2 — 20-40 mg co dwa lub cztery tygodnie"
+  },
+  "Clopixol-Depot": {
+   "ekspozycja": "DEPOT", "interwal_kubel": "P2W_P4W",
+   "powod": "Jak wyzej; sol decanoas w nazwie powszechnej, ale pole postac milczy.",
+   "pin": "ChPL Clopixol-Depot 200 mg 4.2 — 200-400 mg co dwa lub cztery tygodnie"
+  },
+  "Clopixol-Acuphase": {
+   "ekspozycja": "POSREDNIA", "interwal_kubel": "P2D_P3D",
+   "powod": "Octan, nie dekanian. Dziala 2-3 doby, nieprzeznaczony do podtrzymania.",
+   "pin": "ChPL Clopixol-Acuphase 50 mg 4.2 — 50-150 mg im, powtarzac najlepiej co 2-3 dni; leczenie nie dluzej niz dwa tygodnie; maksymalna dawka skumulowana 400 mg na kurs; nie wiecej niz cztery wstrzykniecia"
+  },
+  "Decaldol": {
+   "ekspozycja": "DEPOT", "interwal_kubel": "P4W",
+   "powod": "Dekanian haloperidolu; pole postac brzmi 'Roztwor do wstrzykiwan'.",
+   "pin": "ChPL Decaldol 50 mg/ml 4.2 — wstrzykniecia zwykle co 4 tygodnie, max 300 mg raz na 4 tygodnie"
+  },
+  "Haloperidol WZF": {
+   "ekspozycja": "KROTKA", "interwal_kubel": "P0",
+   "powod": "Postac doustna oraz roztwor 5 mg/ml do wstrzykiwan doraznych. NIE mylic z Decaldolem.",
+   "pin": "BRAK ChPL W PACZCE dla postaci 5 mg/ml — ekspozycja przypisana, dawki brak"
+  }
+ },
+ "NIEKOMPLETNE": "Ta tabela obejmuje wylacznie produkty, przy ktorych pole postac milczy albo ktore juz raz wprowadzily w blad. Nie jest lista wszystkich depotow. Depoty z jawna postac klasyfikuje slownik postaci."
+}
