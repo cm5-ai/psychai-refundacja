@@ -36,11 +36,16 @@ DATA = "2026-09-24"
 # wiec nie moze zalezec od zgadywania po koncowce nazwy.
 PLAN = [
     ("DRUG_DB_AD.txt", "PRZECIWDEPRESYJNE", [
-        "TCA / STARSZE",
         "SSRI", "SERTRALINA", "ESCYTALOPRAM", "FLUOKSETYNA", "PAROKSETYNA",
         "SNRI", "WENLAFAKSYNA", "DULOKSETYNA",
         "INNE PRZECIWDEPRESYJNE", "MIRTAZAPINA", "TRAZODON", "BUPROPION",
-        "AGOMELATYNA", "AMITRYPTYLINA", "KLOMIPRAMINA", "DOKSEPINA", "IMIPRAMINA"]),
+        "AGOMELATYNA",
+        # KOLEJNOSC MA ZNACZENIE. Naglowek sekcji wiaze karty, ktore po nim
+        # ida, z klasa - a klasa wiaze lek z BLOKIEM klasy w 18. Pierwsza
+        # wersja stawiala TCA / STARSZE na POCZATKU pliku, czyli nad kartami
+        # SSRI. Karty TLPD stoja na koncu, wiec naglowek zostal oderwany od
+        # swoich kart i zawieszony nad cudzymi.
+        "TCA / STARSZE", "AMITRYPTYLINA", "KLOMIPRAMINA", "DOKSEPINA", "IMIPRAMINA"]),
     ("DRUG_DB_AP.txt", "PRZECIWPSYCHOTYCZNE", [
         "PRZECIWPSYCHOTYCZNE", "KWETIAPINA", "OLANZAPINA", "ARYPIPRAZOL",
         "RISPERIDON", "HALOPERIDOL", "KLOZAPINA", "TIAPRYD", "SULPIRYD",
