@@ -2,40 +2,124 @@
 # HAK PRE-PUSH — ostatnie miejsce, w ktorym da sie jeszcze cofnac.
 #
 # DLACZEGO TU, A NIE W GITHUBIE [2026-09-25]. Branch protection nie jest
-# dostepna dla prywatnego repozytorium na darmowym planie: gh zwraca 403
-# "Upgrade to GitHub Pro or make this repository public". Publicznego zrobic
-# nie mozna — to paczka kliniczna.
+# dostepna dla prywatnego repozytorium na darmowym planie (403 "Upgrade to
+# GitHub Pro or make this repository public"), a publicznego zrobic nie
+# mozna — to paczka kliniczna.
 #
-# ALE NAWET GDYBY BYLA, BYLABY SPOZNIONA. Check po stronie serwera odpala sie
-# PO pchnieciu. Dla bledu ODWRACALNEGO to wystarcza: czerwone pole, poprawka
-# nastepnym commitem. Dla NIEODWRACALNEGO nie wystarcza wcale — kod pacjenta
-# jest juz w historii na GitHubie, zanim check zdazy cokolwiek powiedziec.
-# Dokladnie to stalo sie 2026-09-24 z kodem PSY w znaleziska.tsv.
-# Bramka przeciwko nieodwracalnemu musi stac PRZED pchnieciem.
+# ALE NAWET GDYBY BYLA, BYLABY SPOZNIONA WOBEC BLEDU NIEODWRACALNEGO. Check
+# serwerowy odpala sie PO pchnieciu: kod pacjenta jest juz w historii, zanim
+# cokolwiek powie. Dokladnie to stalo sie 2026-09-24 z kodem PSY
+# w znaleziska.tsv.
 #
-# NIE UDAJE NIEPRZEKRACZALNEJ. `git push --no-verify` ja omija i tak ma byc:
-# lekarz musi moc pchnac w nocy, gdy cos stanie przy pacjencie. Zadaniem tego
+# CO SIE ZMIENILO [R8, argument GPT, ktory zostal po odrzuceniu platnego
+# planu]. Hak sprawdzal dotad WYLACZNIE bramke tozsamosci. Linter, manifest
+# i straz odpalaly sie dopiero w Actions, czyli po pchnieciu. Ta luka byla
+# prawdziwa i zamyka sie ja tutaj, za darmo.
+#
+# NIE UDAJE NIEPRZEKRACZALNEJ. `git push --no-verify` omija i tak ma byc:
+# lekarz musi moc pchnac w nocy, gdy cos stanie przy pacjencie. Zadaniem
 # haka jest zatrzymac ODRUCH, nie zwiazac rece.
+#
+# BILANS ZAMIAST CISZY. Kontrola, ktorej nie dalo sie uruchomic, jest
+# POMINIETA Z POWODEM i policzona — nigdy nie znika po cichu. "Nie
+# uruchomiono" to nie to samo co "przeszlo".
 set -u
 KORZEN="$(git rev-parse --show-toplevel)"
-SKANER="$KORZEN/narzedzia/bramka_tozsamosci.py"
-[ -f "$SKANER" ] || { echo "pre-push: brak $SKANER — nie blokuje, ale to jest bledem."; exit 0; }
+NAZWA="$(basename "$KORZEN")"
+PY=/usr/bin/python3
+LOG="$(mktemp)"
+trap 'rm -f "$LOG"' EXIT
 
-echo "pre-push: bramka tozsamosci..."
-if /usr/bin/python3 "$SKANER" > /tmp/bramka_pre_push.txt 2>&1; then
-  echo "pre-push: czysto."
+N_WE=0; N_OK=0; N_ZLE=0; N_POM=0
+ZLE=""; POMINIETE=""
+
+# NIE KAZDE NARZEDZIE MOWI PRAWDE KODEM WYJSCIA. manifest.py raportuje
+# rozjazd ("zmienione 1"), ale KONCZY SIE ZEREM — bo jego zadaniem jest
+# raportowac, nie bramkowac. Poleganie na samym kodzie wyjscia dawalo tu
+# "zgodnosc manifestu ok" przy rozjechanym manifescie: zielone bez
+# znaczenia. Workflow kontrola.yml robi to poprawnie, sprawdzajac TRESC
+# wyniku; hak musi umiec to samo.
+sprawdz_wzorzec() {   # sprawdz_wzorzec <etykieta> <sciezka.py> <wymagany_wzorzec>
+  local etyk="$1" plik="$2" wzor="$3"
+  N_WE=$((N_WE+1))
+  if [ ! -f "$plik" ]; then
+    N_POM=$((N_POM+1)); POMINIETE="${POMINIETE}  ${etyk}: narzedzia nie ma"$'\n'
+    return 0
+  fi
+  "$PY" "$plik" > "$LOG" 2>&1
+  if grep -q "$wzor" "$LOG"; then
+    N_OK=$((N_OK+1)); printf '  %-26s ok\n' "$etyk"
+  else
+    N_ZLE=$((N_ZLE+1)); printf '  %-26s OBLANE\n' "$etyk"
+    ZLE="${ZLE}=== ${etyk} (brak w wyniku: ${wzor}) ===
+$(tail -n 25 "$LOG")
+
+"
+  fi
+}
+
+sprawdz() {   # sprawdz <etykieta> <sciezka.py> [powod_gdy_brak]
+  local etyk="$1" plik="$2" powod="${3:-narzedzia nie ma w tym repozytorium}"
+  N_WE=$((N_WE+1))
+  if [ ! -f "$plik" ]; then
+    N_POM=$((N_POM+1)); POMINIETE="${POMINIETE}  ${etyk}: ${powod}"$'\n'
+    return 0
+  fi
+  if "$PY" "$plik" > "$LOG" 2>&1; then
+    N_OK=$((N_OK+1)); printf '  %-26s ok\n' "$etyk"
+  else
+    N_ZLE=$((N_ZLE+1)); printf '  %-26s OBLANE\n' "$etyk"
+    ZLE="${ZLE}=== ${etyk} ===
+$(tail -n 25 "$LOG")
+
+"
+  fi
+}
+
+echo "pre-push [$NAZWA]: kontrola przed wyslaniem"
+
+if [ "$NAZWA" = "psychai-paczka" ]; then
+  sprawdz "bramka tozsamosci" "$KORZEN/narzedzia/bramka_tozsamosci.py"
+  sprawdz "linter paczki"     "$KORZEN/narzedzia/linter.py"
+  sprawdz_wzorzec "zgodnosc manifestu" "$KORZEN/narzedzia/manifest.py" \
+                  "zmienione 0 | nowe 0 | usuniete 0"
+  sprawdz "straz twierdzen"   "$KORZEN/narzedzia/straz_czasu.py"
+  # Audyt kompletnosci mieszka w drugim repozytorium, bo tam sa generatory.
+  # Jesli go nie ma obok — POMINIETY Z POWODEM, nie przemilczany.
+  sprawdz "audyt kompletnosci" "$KORZEN/../psychai-refundacja/generator/audyt_kompletnosci.py" \
+          "brak psychai-refundacja obok — audyt NIE zostal wykonany"
+else
+  sprawdz "bramka tozsamosci" "$KORZEN/narzedzia/bramka_tozsamosci.py"
+  sprawdz "straz L4 x RPL"    "$KORZEN/generator/straz_rpl.py"
+  sprawdz "zestaw blokujacy"  "$KORZEN/winiety/sprawdz_zestaw.py"
+  sprawdz "audyt kompletnosci" "$KORZEN/generator/audyt_kompletnosci.py"
+fi
+
+echo
+echo "BILANS: N_WEJSCIE $N_WE = ok $N_OK + oblane $N_ZLE + pominiete $N_POM"
+if [ "$N_WE" -ne $((N_OK + N_ZLE + N_POM)) ]; then
+  echo "STOP: bilans haka sie nie zgadza — nie ufam wlasnemu wynikowi."
+  exit 1
+fi
+if [ -n "$POMINIETE" ]; then
+  echo
+  echo "POMINIETE — to NIE znaczy, ze przeszly:"
+  printf '%s' "$POMINIETE"
+fi
+if [ "$N_ZLE" -eq 0 ]; then
+  echo
+  echo "pre-push: nic nie stoi na przeszkodzie."
   exit 0
 fi
+
 echo
-cat /tmp/bramka_pre_push.txt
-echo
+printf '%s' "$ZLE"
 echo "=================================================================="
 echo "PCHNIECIE ZATRZYMANE. Nic nie poszlo na GitHub."
 echo "=================================================================="
-echo "Po wypchnieciu tego juz nie da sie cofnac zwyklym commitem."
-echo "Popraw tresc i sprobuj ponownie."
+echo "Popraw i sprobuj ponownie."
 echo
-echo "Jesli WIESZ, ze to falszywy alarm, sa dwie drogi:"
-echo "  - dopisz wyjatek z powodem do .github/bramka_wyjatki.tsv (zostaje slad),"
+echo "Jesli WIESZ, ze to falszywy alarm:"
+echo "  - dopisz wyjatek z powodem do wlasciwego pliku (zostaje slad),"
 echo "  - albo pchnij mimo wszystko: git push --no-verify (slad nie zostaje)."
 exit 1

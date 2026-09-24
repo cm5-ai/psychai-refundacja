@@ -58,7 +58,11 @@ def jest(x):
     return kanon(x) in TEKST_K
 
 def main():
-    d = json.load(open("zestaw_blokujacy.json", encoding="utf-8"))
+    # Sciezka wzgledem TEGO PLIKU, nie wzgledem katalogu wywolania. Hak
+    # pre-push startuje z korzenia repozytorium i wersja wzgledna oblewala
+    # bez powodu — czyli falszywy alarm, ktory uczy obchodzenia haka.
+    tu = os.path.dirname(os.path.abspath(__file__))
+    d = json.load(open(os.path.join(tu, "zestaw_blokujacy.json"), encoding="utf-8"))
     w = d["WINIETY"]
     print("=" * 70)
     print("SPRAWDZENIE ZESTAWU BLOKUJACEGO WOBEC PACZKI")
