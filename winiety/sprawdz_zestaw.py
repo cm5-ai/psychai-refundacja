@@ -85,13 +85,17 @@ def main():
             if not jest(m):
                 bledy.append("V3 %s: 'wymaga_z_paczki' -> '%s' NIE WYSTEPUJE w paczce" % (ident, m))
         for z in k.get("zakazane_wartosci") or []:
-            uwagi.append((ident, z, jest(z)))
+            wart = z.get("wartosc", "") if isinstance(z, dict) else z
+            wyj = (z.get("chyba_ze") or []) if isinstance(z, dict) else []
+            uwagi.append((ident, wart, jest(wart), len(wyj)))
 
     print("V4 — ZAKAZANE WARTOSCI: czy to realne pomylki, czy wymyslone")
     print("     JEST w paczce = realne ryzyko pomylki (siostrzany produkt, inna tabela)")
     print("     NIE MA        = zwrot falszywej nieobecnosci, ma nigdy nie pasc")
-    for ident, z, obecne in uwagi:
-        print("   %-16s %-34s %s" % (ident, z[:34], "JEST" if obecne else "nie ma"))
+    print("     wyjatkow: N   = dozwolona, gdy zacytowana PO TO, BY JA WYKLUCZYC")
+    for ident, z, obecne, n_wyj in uwagi:
+        print("   %-16s %-30s %-6s %s" % (ident, z[:30], "JEST" if obecne else "nie ma",
+              ("wyjatkow: %d" % n_wyj) if n_wyj else ""))
     print()
     print("BILANS: krotek %d, sprawdzen V1-V3 wykonanych %d, zakazanych %d"
           % (len(w), sum(1 + len(v["krotka"].get("evidence_key") or [])
