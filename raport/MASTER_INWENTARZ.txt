@@ -1,0 +1,89 @@
+MASTER: 2246 linii, 91310 znakow
+Sekcji rozpoznanych: 94, pokrywaja 91310 zn (100%). Reszta to naglowek i tekst miedzy sekcjami - ZOSTAJE w runtime bez pytania.
+
+==============================================================================
+COMMIT — 10 sekcji, 13359 znakow
+==============================================================================
+    4376 zn  linie 1743-1852  2. BRAK JAWNEGO PLIKU POŚREDNIEGO              slowa zapisu: zapis, rekord, szyfr
+    3800 zn  linie 1865-1948  ZAKAZ DZIELENIA REKORDU                        slowa zapisu: zapis, commit, rekord
+    1191 zn  linie 1949-1973  TO JEST JEDYNY DOZWOLONY ODCZYT Z DYSKU PODCZA slowa zapisu: zapis, commit, rekord
+     986 zn  linie 2218-2232  WERSJONOWANIE MODULOW - AUTOMAT                slowa zapisu: zapis
+     882 zn  linie 2134-2157  ODPOWIEDŹ PO ZAPISIE                           slowa zapisu: zapis, szyfr, ponown
+     760 zn  linie  973- 987  LONGITUDINAL PATIENT MEMORY                    slowa zapisu: rekord, ponown
+     547 zn  linie 1853-1864  PORCJOWANIE TRANSPORTOWE NIE JEST DZIELENIEM R slowa zapisu: zapis, rekord, szyfr
+     334 zn  linie 1098-1104  TREŚĆ REKORDÓW JEST NIEDOSTĘPNA.               slowa zapisu: rekord, szyfr
+     247 zn  linie  233- 238  KOMPLETNOŚĆ REKORDU NIE JEST CELEM WIZYTY.     slowa zapisu: zapis, rekord
+     236 zn  linie 1544-1549  MEMORY / ZAPIS WIZYTY DO BAZY                  slowa zapisu: zapis, rekord
+
+==============================================================================
+DO_DECYZJI — 42 sekcji, 62129 znakow
+==============================================================================
+    6572 zn  linie  320- 450  EARLY CONTEXT GATING                           zapis (rekord, pesel) ORAZ wizyta (bramk
+    4465 zn  linie  491- 591  PHARMACOLOGY                                   zapis (rekord) ORAZ wizyta (blok, dawk, 
+    3045 zn  linie 1290-1391  ZLA / L4                                       zapis (zapis) ORAZ wizyta (objaw, qtc)
+    2649 zn  linie  112- 183  ZERO HALUCYNACJI / ŹRÓDŁA                      zapis (zapis, commit) ORAZ wizyta (blok,
+    2551 zn  linie 1669-1727  NAZWA PLIKU / ZAPIS SZYFROWANY                 zapis (zapis, commit) ORAZ wizyta (pacje
+    2406 zn  linie  901- 954  EDYCJA I UWSPÓLNIANIE DOKUMENTACJI MIĘDZY WIZY zapis (zapis, ponown) ORAZ wizyta (pacje
+    2318 zn  linie  187- 232  RUNTIME ACTIVATION / LAZY MODULE LOADING       zapis (zapis, rekord) ORAZ wizyta (decyz
+    2280 zn  linie 1448-1504  CHECKPOINT - PERSPEKTYWA WYPOWIEDZI            zapis (zapis, checkpoint) ORAZ wizyta (p
+    2158 zn  linie 1974-2021  5B. JEDNORAZOWA PRÓBA PONOWNA PO POTWIERDZONYM zapis (commit, rekord) ORAZ wizyta (pacj
+    2107 zn  linie 1399-1447  38_DEPRESJA_MASKOWANA_LEAN - DOMAIN ON DEMAND  zapis (rekord) ORAZ wizyta (refundac, pa
+    2048 zn  linie 1105-1159  JEDNOZNACZNOŚĆ KODU PSY                        zapis (zapis, rekord) ORAZ wizyta (dawk,
+    1845 zn  linie 1569-1609  SAM BRAK POLA NIGDY NIE JEST PRZESŁANKĄ DO ODC zapis (zapis, commit) ORAZ wizyta (przec
+    1802 zn  linie 2048-2093  8. REKORDY WCZEŚNIEJSZE / _ARCHIWUM            zapis (zapis, commit) ORAZ wizyta (pacje
+    1735 zn  linie 1014-1045  1. DANE TECHNICZNE                             zapis (rekord, pesel) ORAZ wizyta (bramk
+    1711 zn  linie 1212-1251  SCALE DATA CAPTURE                             zapis (zapis, rekord) ORAZ wizyta (objaw
+    1473 zn  linie 2158-2190  PRECEDENCE                                     zapis (rekord) ORAZ wizyta (bramk, blok,
+    1446 zn  linie   67- 111  SNAPSHOT                                       zapis (ponown) ORAZ wizyta (blok, red fl
+    1341 zn  linie  280- 319  NIESPÓJNOŚCI - PRÓG ISTOTNOŚCI                 zapis (commit, rekord) ORAZ wizyta (dawk
+    1321 zn  linie 1187-1211  SOURCE-BASED CONTINUITY QUESTIONS              zapis (zapis) ORAZ wizyta (decyzj)
+    1318 zn  linie 1505-1531  KOMENDY NIEJEDNOZNACZNE I PRZEŁĄCZENIE PACJENT zapis (zapis, rekord) ORAZ wizyta (blok,
+    1288 zn  linie   11-  34  CORE / OUTPUT                                  zapis (rekord, ponown) ORAZ wizyta (dawk
+    1108 zn  linie 1160-1186  NOWY DOKUMENT NIE JEST AUTOMATYCZNIE WAŻNIEJSZ zapis (zapis, rekord) ORAZ wizyta (pacje
+    1070 zn  linie  608- 639  ZALECENIA                                      zapis (zapis) ORAZ wizyta (leku, pacjent
+    1027 zn  linie 1610-1643  15_PATIENT_RECORD_FORMAT.                      zapis (zapis, commit) ORAZ wizyta (pacje
+     968 zn  linie  239- 260  1. AKTYWNY PROTOKÓŁ BADAWCZY                   zapis (zapis, rekord) ORAZ wizyta (pacje
+     946 zn  linie 2094-2115  10. WARUNEK SYMETRYCZNY                        zapis (zapis, commit) ORAZ wizyta (pacje
+     917 zn  linie 1079-1097  LOOKUP NIGDY NIE DZIAŁA PODCZAS COMMIT.        zapis (zapis, commit) ORAZ wizyta (pacje
+     894 zn  linie 1550-1568  FAST COMMIT PATH                               zapis (zapis, commit) ORAZ wizyta (pacje
+     873 zn  linie  675- 704  DOCUMENTATION                                  zapis (zapis, rekord) ORAZ wizyta (decyz
+     767 zn  linie 1644-1668  ZASADA ŹRÓDŁOWA REKORDU                        zapis (zapis, rekord) ORAZ wizyta (objaw
+     656 zn  linie 2028-2047  7. ID PACJENTA                                 zapis (zapis, commit) ORAZ wizyta (pacje
+     585 zn  linie 2116-2133  NAZWY DOKUMENTÓW EDM I ZALECEŃ                 zapis (zapis, rekord) ORAZ wizyta (pacje
+     580 zn  linie 1066-1078  ODCZYT HISTORII NIE JEST COMMIT.               zapis (zapis, commit) ORAZ wizyta (leku,
+     574 zn  linie 1728-1742  1. TREŚĆ REKORDU                               zapis (zapis, commit) ORAZ wizyta (pacje
+     513 zn  linie 1046-1056  3. PRACA KLINICZNA                             zapis (rekord) ORAZ wizyta (blok)
+     498 zn  linie  592- 607  PREFERENCJE PRAKTYCZNE LEKÓW                   zapis (zapis) ORAZ wizyta (dawk)
+     493 zn  linie 2233-2243  FINAL CHECK                                    zapis (rekord) ORAZ wizyta (decyzj)
+     460 zn  linie  747- 761  2. RELACJA PACJENTA                            zapis (zapis) ORAZ wizyta (pacjent, obja
+     437 zn  linie 1532-1543  CHECKPOINT - IMIĘ PACJENTA                     zapis (checkpoint) ORAZ wizyta (pacjent)
+     366 zn  linie 2209-2217  19. FINAL CHECK                                zapis (rekord) ORAZ wizyta (bramk)
+     307 zn  linie 1057-1065  PATIENT DATABASE / SOURCE RECONSTRUCTION       zapis (rekord) ORAZ wizyta (pacjent)
+     211 zn  linie 2022-2027  6. PAMIĘĆ SYSTEMOWA                            zapis (zapis, commit) ORAZ wizyta (pacje
+
+==============================================================================
+RUNTIME — 42 sekcji, 15822 znakow
+==============================================================================
+    2042 zn  linie  451- 490  LEK Z GAŁĘZI (2) BEZ WŁASNEJ DAWKI DLA STARSZY brak slow zapisu
+     874 zn  linie  705- 735  DOCUMENTATION - BRAKI DANYCH                   brak slow zapisu
+     822 zn  linie   42-  53  GHOST / NON-OBSTRUCTION                        brak slow zapisu
+     740 zn  linie  771- 786  4. DAWKI / RELACJA O PRZYJMOWANIU LEKU         brak slow zapisu
+     664 zn  linie  801- 816  6. CO RZECZYWIŚCIE ZGŁASZAĆ                    brak slow zapisu
+     618 zn  linie  787- 800  5. DANE ZE ŹRÓDEŁ ZEWNĘTRZNYCH                 brak slow zapisu
+     610 zn  linie 1252-1267  ZUS / OL-9 - LONGITUDINAL RECORD               brak slow zapisu
+     587 zn  linie  997-1013  ROZPOCZĘCIE WIZYTY                             brak slow zapisu
+     528 zn  linie  883- 900  6. CHRONOLOGIA                                 brak slow zapisu
+     517 zn  linie  656- 667  4. PROSPEKTYWNA DOKUMENTACJA ORZECZNICZA (34)  brak slow zapisu
+     491 zn  linie  833- 849  8. FORMA AUDYTU                                brak slow zapisu
+     456 zn  linie  261- 279  IZOLACJA PACJENTA                              brak slow zapisu
+     449 zn  linie  988- 996  START KONTEKSTU                                brak slow zapisu
+     419 zn  linie   54-  66  DEFAULT OUTPUT / MODES                         brak slow zapisu
+  (sekcje ponizej 400 zn pominiete w wydruku: 28, razem 6005 zn)
+
+ILE DA SIE ZDJAC Z WIZYTY
+  pewne COMMIT:            13359 zn  (~3 tys. tokenow)
+  DO_DECYZJI lekarza:      62129 zn  (~17 tys. tokenow)
+  gorna granica razem:     75488 zn  (~21 tys. tokenow)
+
+NIC NIE ZOSTALO PODZIELONE. To jest lista do decyzji, nie zmiana.
+Domyslna odpowiedz dla DO_DECYZJI brzmi ZOSTAJE - az lekarz powie inaczej.
