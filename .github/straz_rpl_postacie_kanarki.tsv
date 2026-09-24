@@ -1,0 +1,27 @@
+# KANARKI SLOWNIKA POSTACI — czy slownik nadal mowi to, co ma mowic.
+#
+# PO CO [2026-09-25, harness mutacyjny, mutacja F02].
+# Slownik postaci jest DANA i to jest dobrze: klasyfikacja drogi podania
+# nie ma byc zgadywana regexem. Ale dana bez kontroli wlasnej ma wade,
+# ktorej nie ma regex: DA SIE JA PO CICHU PRZESTAWIC. Harness zmienil
+# jeden wiersz z POZAJELITOWA na DOUSTNA_LUB_INNA i straz zrobila sie
+# JESZCZE BARDZIEJ ZIELONA — bo teraz "nie znalazla" postaci iniekcyjnych,
+# co ZGADZA SIE ze zdaniem paczki "brak postaci iniekcyjnej w rejestrze".
+#
+# To najgorszy mozliwy ksztalt bledu: zepsucie, ktore POTWIERDZA teze.
+# Regula "nie znalazlem != nie ma" broni przed pustym wynikiem z rejestru.
+# Nie broni przed pustym wynikiem z WLASNEJ TABLICY TLUMACZEN.
+#
+# Dlatego kilka napisow ma przypisana klase NA SZTYWNO. Jesli slownik
+# przestanie je tak klasyfikowac, straz oblewa, zanim cokolwiek orzeknie
+# o nieobecnosci.
+#
+# Kolumny rozdzielone TABULATOREM, dwie:  NAPIS_POSTACI  KLASA_WYMAGANA
+Roztwór do wstrzykiwań	POZAJELITOWA
+Zawiesina do wstrzykiwań o przedłużonym uwalnianiu	POZAJELITOWA
+Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań	POZAJELITOWA
+Implant	POZAJELITOWA
+Roztwór do infuzji	POZAJELITOWA
+Tabletki powlekane	DOUSTNA_LUB_INNA
+Kapsułki twarde	DOUSTNA_LUB_INNA
+Tabletki o przedłużonym uwalnianiu	DOUSTNA_LUB_INNA

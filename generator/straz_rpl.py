@@ -37,6 +37,8 @@ SPIS    = os.environ.get("RPL_SPIS",    os.path.join(KORZEN, "rpl", "RPL_PSYCH.j
 PYTANIA = os.environ.get("RPL_PYTANIA", os.path.join(KORZEN, ".github", "straz_rpl_pytania.tsv"))
 KANARKI = os.environ.get("RPL_KANARKI", os.path.join(KORZEN, ".github", "straz_rpl_kanarki.tsv"))
 POSTACIE = os.environ.get("RPL_POSTACIE", os.path.join(KORZEN, ".github", "straz_rpl_postacie.tsv"))
+POSTACIE_KANARKI = os.environ.get("RPL_POSTACIE_KANARKI",
+                   os.path.join(KORZEN, ".github", "straz_rpl_postacie_kanarki.tsv"))
 
 # Spis jest sciagany co poniedzialek. Dwa tygodnie to dwa nieudane przebiegi
 # z rzedu — wtedy problem jest po stronie pobierania, nie rejestru.
@@ -170,6 +172,38 @@ def main():
         sys.exit(1)
     print("SLOWNIK POSTACI: %d napisow (%d pozajelitowych)"
           % (len(slownik), sum(1 for v in slownik.values() if v == "POZAJELITOWA")))
+
+    # KANARKI SLOWNIKA [2026-09-25, harness mutacyjny, mutacja F02].
+    # Slownik jest DANA i to jest dobrze. Ale dana bez kontroli wlasnej ma
+    # wade, ktorej nie ma regex: da sie ja po cichu PRZESTAWIC. Harness
+    # zmienil jeden wiersz z POZAJELITOWA na DOUSTNA_LUB_INNA i straz zrobila
+    # sie JESZCZE BARDZIEJ ZIELONA, bo "nie znalazla" postaci iniekcyjnych —
+    # co potwierdza zdanie paczki "brak postaci iniekcyjnej w rejestrze".
+    # Zepsucie, ktore POTWIERDZA TEZE, jest najgorszym ksztaltem bledu.
+    # Regula "nie znalazlem != nie ma" broni przed pustym wynikiem z rejestru;
+    # nie broni przed pustym wynikiem z wlasnej tablicy tlumaczen.
+    kanarki = wczytaj_tsv(POSTACIE_KANARKI, 2)
+    if not kanarki:
+        print("FAIL: brak kanarkow slownika postaci. Slownik bez kontroli")
+        print("wlasnej da sie przestawic tak, by potwierdzal kazda teze.")
+        sys.exit(1)
+    zle_kan = []
+    for napis, wymagana in kanarki:
+        maja = slownik.get(napis)
+        if maja != wymagana:
+            zle_kan.append((napis, wymagana, maja))
+    print("KANARKI SLOWNIKA: %d sprawdzonych, %d niezgodnych"
+          % (len(kanarki), len(zle_kan)))
+    if zle_kan:
+        print()
+        for napis, wym, maja in zle_kan:
+            print("FAIL: \"%s\" ma byc %s, slownik mowi %s"
+                  % (napis, wym, maja if maja is not None else "NIE MA GO W SLOWNIKU"))
+        print()
+        print("Slownik przestal klasyfikowac to, co mial klasyfikowac. Kazdy")
+        print("wniosek o NIEOBECNOSCI postaci bylby teraz artefaktem tablicy,")
+        print("nie faktem z rejestru. Nie orzekam nic, dopoki to nie wroci.")
+        sys.exit(1)
     print()
 
     pytania = wczytaj_tsv(PYTANIA, 6)
