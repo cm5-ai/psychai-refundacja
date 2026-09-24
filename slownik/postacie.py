@@ -28,8 +28,36 @@ KADENCJA = re.compile(r"co\s+(dwa|trzy|cztery|sześć|6|2|3|4|12|24)\s+(tygodni|
 NOSNIK_OLEISTY = re.compile(r"olej\w*\s+(arachidow|sezamow|rycynow)|triglicerydy|viscoleo", re.I)
 
 
+# Kanonizacja klucza. Par. 3B dopuszcza rownosc PO JAWNEJ KANONIZACJI i tylko
+# taka. Ponizsze przeksztalcenia sa cala kanonizacja - nie ma zadnego dopasowania
+# przyblizonego, progu ani podobienstwa.
+MYSLNIKI = "\u2010\u2011\u2012\u2013\u2014\u2015\u2212"   # dywiz, mylniki, minus
+SPACJE = "\u00a0\u2007\u202f\u2009\u200a"                   # twarda spacja i cienkie
+
+
 def kanon(s):
-    return unicodedata.normalize("NFC", (s or "").strip())
+    """NFC, mylniki na lacznik, spacje nietypowe na zwykla, zwezenie bialych znakow."""
+    s = unicodedata.normalize("NFC", s or "")
+    for z in MYSLNIKI:
+        s = s.replace(z, "-")
+    for z in SPACJE:
+        s = s.replace(z, " ")
+    s = " ".join(s.split())
+    s = re.sub(r"\s*-\s*", "-", s)     # "Clopixol - Depot" == "Clopixol-Depot"
+    return s
+
+
+def kanon_nazwy(s):
+    """Jak kanon, dodatkowo bez wielkosci liter. Tylko do nazw produktow:
+    rejestr zapisuje ten sam produkt raz jako Abilium, raz jako ABILIUM."""
+    return kanon(s).casefold()
+
+
+_WYJATKI_KANON = {kanon_nazwy(k): v for k, v in WYJATKI["PRODUKTY"].items()}
+# Bilans scalania (par. 3B): kanonizacja NIE MOZE skleic dwoch roznych wyjatkow.
+assert len(_WYJATKI_KANON) == len(WYJATKI["PRODUKTY"]), (
+    "Kanonizacja nazw skleila dwa rozne wyjatki produktowe: %d -> %d"
+    % (len(WYJATKI["PRODUKTY"]), len(_WYJATKI_KANON)))
 
 
 def postac_klasa(postac):
@@ -43,8 +71,8 @@ def postac_klasa(postac):
 
 def ekspozycja(produkt, chpl_42=None):
     """DEPOT / POSREDNIA / KROTKA / None. Zrodlo jawne w polu 'zrodlo'."""
-    nazwa = kanon(produkt.get("nazwa"))
-    w = WYJATKI["PRODUKTY"].get(nazwa)
+    nazwa = kanon_nazwy(produkt.get("nazwa"))
+    w = _WYJATKI_KANON.get(nazwa)
     if w:
         return {"ekspozycja": w["ekspozycja"], "interwal_kubel": w.get("interwal_kubel"),
                 "zrodlo": "WYJATEK_PRODUKTOWY", "pin": w.get("pin")}

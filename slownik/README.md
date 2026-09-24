@@ -84,6 +84,41 @@ Stan 2026-09-24: 58 napisow, 0 brakujacych.
    Dobor dwuprzebiegowy: pierwszy przebieg po klasie, drugi po ujawnieniu
    interwalu z pobranej ChPL.
 
+## Proba zlosliwa (`proba_zlosliwa.py`, 2026-09-24)
+
+Nie potwierdza slownika — probuje go zlamac. Siedem grup przypadkow.
+
+| grupa | co sprawdza | wynik |
+|---|---|---|
+| A | napisy spoza slownika (inna kolejnosc slow, brak lacznika, pusty, None) | wszystkie WYBUCHAJA, zadnego cichego przejscia |
+| B | slowo `Depot` w nazwie leku DOUSTNEGO | nie staje sie depotem — warunek drogi trzyma |
+| C | `acetas` w iniekcji, ktora nie jest depotem | zglaszany jako sierota, build pyta |
+| D | depot bez tokenu, bez soli, bez ChPL | **przechodzi jako KROTKA. Granica metody.** Z ChPL 4.2 lapany od razu |
+| E | postac wielodrogowa | jeden produkt, dwie drogi |
+| F | kanonizacja klucza (male litery, twarda spacja, mylnik, spacje wokol lacznika) | 4 ZNALEZISKA, poprawione |
+| G | nazwa podobna do wyjatku (Fluanxol Depot Forte, Decaldol Mini) | NIE dziedziczy DEPOT |
+
+**Znalezisko F.** Tabela wyjatkow porownywala nazwy zbyt doslownie: `fluanxol depot`,
+`Fluanxol\u00a0Depot`, `Clopixol–Depot` (mylnik) i `Clopixol - Depot` nie trafialy we wpis
+i schodzily do KROTKA. Wazne: **detektor sierot zlapal wszystkie cztery** — build
+stanalby, nie przepuscil. Dwuwarstwowosc zadzialala.
+Poprawka: jawna kanonizacja klucza — NFC, mylniki na lacznik, spacje nietypowe na
+zwykla, zwezenie bialych znakow, spacje wokol lacznika, bez wielkosci liter.
+To rownosc po jawnej kanonizacji, nie dopasowanie przyblizone.
+Bilans scalania po kanonizacji nazw: 801 nazw surowych -> 797. Sklejone 4 pary,
+wszystkie to ten sam produkt zapisany dwa razy: `ABILIUM`/`Abilium`,
+`Frisium  10`/`Frisium 10`, `Remirta ORO`/`Remirta Oro`, `ZolpiGen`/`Zolpigen`.
+Zaden inny produkt nie zostal sklejony. Assercja w kodzie pilnuje, zeby kanonizacja
+nie skleila dwoch roznych wyjatkow.
+
+**Znalezisko D — granica metody, nazwana wprost.** Depot zarejestrowany jako
+`Roztwor do wstrzykiwan`, bez soli LAI w nazwie powszechnej, bez tokenu w nazwie
+produktu i bez pobranej ChPL nie zostawia zadnego sygnalu. Przechodzi jako
+INIEKCJA_KROTKA i nic go nie lapie. Jedyne zabezpieczenie to ChPL 4.2 — z nia
+produkt wpada od razu przez kadencje. Wniosek operacyjny: **dla kazdej substancji
+z choc jednym produktem iniekcyjnym ChPL musi byc pobrana**, inaczej detektor
+sierot dziala z jedna reka za plecami.
+
 ## Zrodla decyzji
 Konsultacja GPT i Grok, 2026-09-24. Od GPT: rozdzielenie `release_form`
 (z rejestru) od `exposure` (z ChPL), napis spoza slownika jako twardy FAIL,
