@@ -1,10 +1,10 @@
 # Spis RPL — leki psychiatryczne
 
 Stan RPL: 2026-09-23  
-Produkty: 2670, opakowania: 9799 (bez GTIN: 1242), błędy odczytu: 0, odczyt kontrolny: 0  
-Statusy opakowań: {'Skasowane': 393}  
+Produkty: 2696, opakowania: 9847 (bez GTIN: 1242), błędy odczytu: 0, odczyt kontrolny: 0  
+Statusy opakowań: {'Skasowane': 394}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `46a0016f80c7a375db52c013e285d0d99b52f7f4d31f503be8b702b84a29408a`
+sha256 spisu: `faf31cb0e9fcbc2cfaa78b19796db288b3b7b6c7eb26b59f9db9b63dab6ac6ae`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
@@ -17,6 +17,7 @@ sha256 spisu: `46a0016f80c7a375db52c013e285d0d99b52f7f4d31f503be8b702b84a29408a`
 
 - **Acamprosatum calcium**: Tabletki powlekane dojelitowe: 333 mg
 - **Acidum valproicum**: Kapsułki dojelitowe miękkie: 500 mg; Kapsułki miękkie: 150 mg, 300 mg, 500 mg
+- **Agni casti fructus extractum siccum**: Tabletki: 45 mg; Tabletki powlekane: 20 mg
 - **Agomelatinum**: Tabletki powlekane: 25 mg
 - **Alprazolamum**: Tabletki: 0,25 mg, 0,5 mg, 1 mg, 2 mg, 250 mcg, 500 mcg; Tabletki o przedłużonym uwalnianiu: 0,5 mg, 1 mg, 2 mg; Tabletki o zmodyfikowanym uwalnianiu: 0,5 mg, 1 mg
 - **Amantadini hydrochloridum**: Kapsułki: 100 mg; Kapsułki twarde: 100 mg
@@ -31,12 +32,15 @@ sha256 spisu: `46a0016f80c7a375db52c013e285d0d99b52f7f4d31f503be8b702b84a29408a`
 - **Brexpiprazolum**: Tabletki powlekane: 0,25 mg, 0,5 mg, 1 mg, 2 mg, 3 mg, 4 mg
 - **Brivaracetamum**: Roztwór do wstrzykiwań / do infuzji: 10 mg/ml; Roztwór doustny: 10 mg/ml; Tabletki powlekane: 10 mg, 100 mg, 25 mg, 50 mg, 75 mg
 - **Bromazepamum**: Kapsułki twarde: 3 mg, 6 mg; Tabletki: 3 mg, 6 mg
+- **Bromocriptini mesylas**: Tabletki: 2,5 mg
+- **Bromocriptinum**: Tabletki: 2,5 mg
 - **Buprenorphini hydrochloridum**: Implant: 74,2 mg; Lamelki podjęzykowe: 0,4 mg, 4 mg, 6 mg, 8 mg; Tabletki podjęzykowe: 2 mg, 8 mg
 - **Buprenorphini hydrochloridum + Naloxoni hydrochloridum**: Tabletki podjęzykowe: 0,7 mg + 0,18 mg, 1,4 mg + 0,36 mg, 11,4 mg + 2,9 mg, 2,9 mg + 0,71 mg, 5,7 mg + 1,4 mg, 8,6 mg + 2,1 mg
 - **Buprenorphini hydrochloridum + Naloxoni hydrochloridum dihydricum**: Lamelki podjęzykowe: 12 mg + 3 mg, 2 mg + 0,5 mg, 4 mg + 1 mg, 8 mg + 2 mg; Tabletki podjęzykowe: 16 mg + 4 mg, 2 mg + 0,5 mg, 8 mg + 2 mg
 - **Buprenorphinum**: Roztwór do wstrzykiwań: 0,3 mg/ml; Roztwór do wstrzykiwań o przedłużonym uwalnianiu: 128 mg, 16 mg, 160 mg, 24 mg, 32 mg, 64 mg, 8 mg, 96 mg; System transdermalny: 35 mcg/h, 52,5 mcg/h, 70 mcg/h; System transdermalny, plaster: 35 mcg/h, 35 mcg/h (20 mg), 40 mg, 52,5 mcg/h, 52,5 mcg/h (30 mg); Tabletki podjęzykowe: 0,2 mg, 0,4 mg
 - **Bupropioni hydrochloridum**: Tabletki o zmodyfikowanym uwalnianiu: 150 mg, 300 mg; Tabletki powlekane o przedłużonym uwalnianiu: 150 mg
 - **Buspironi hydrochloridum**: Tabletki: 10 mg, 5 mg
+- **Cabergolinum**: Tabletki: 0,5 mg, 0.5 mg
 - **Cannabidiolum**: Roztwór doustny: 100 mg/ml
 - **Carbamazepinum**: Tabletki: 200 mg; Tabletki o przedłużonym uwalnianiu: 200 mg, 300 mg, 400 mg, 600 mg; Tabletki o zmodyfikowanym uwalnianiu: 200 mg, 400 mg; Zawiesina doustna: 20 mg/ml
 - **Carbidopum + Levodopum**: Tabletki: 12,5 mg + 50 mg, 25 mg + 100 mg, 25 mg + 250 mg
@@ -160,6 +164,7 @@ sha256 spisu: `46a0016f80c7a375db52c013e285d0d99b52f7f4d31f503be8b702b84a29408a`
 - **Propranololi hydrochloridum**: Tabletki: 10 mg, 40 mg; Tabletki powlekane: 10 mg, 40 mg
 - **Propranololum**: Roztwór doustny: 3,75 mg/ml
 - **Quetiapinum**: Tabletki o przedłużonym uwalnianiu: 150 mg, 200 mg, 300 mg, 400 mg, 50 mg, 600 mg; Tabletki powlekane: 100 mg, 150 mg, 200 mg, 25 mg, 300 mg; Zawiesina doustna: 25 mg/ml
+- **Quinagolidum**: Tabletki: 25 mcg; 50 mcg, 75 mcg
 - **Rasagilinum**: Tabletki: 1 mg
 - **Reboxetinum**: Tabletki: 4 mg
 - **Remimazolamum**: Proszek do sporządzania koncentratu roztworu do wstrzykiwań lub infuzji: 50 mg; Proszek do sporządzania roztworu do wstrzykiwań: 20 mg

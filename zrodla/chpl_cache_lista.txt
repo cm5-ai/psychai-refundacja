@@ -134,3 +134,33 @@ safinamid
 entakapon
 opikapon
 tolkapon
+
+# --- dopisane 2026-09-24 po przegladzie Stahla, Jaremy i Wciorki
+# Metoda: rdzenie nazw powszechnych z rejestru ludzkiego zestawione z tekstem
+# trzech ksiazek. 117 ze 197 rdzeni wystepuje w co najmniej jednej ksiazce.
+asenapina
+brexpiprazol
+bromokryptyna
+chinagolid
+darydoreksant
+deksmedetomidyna
+dziurawiec
+eszopiklon
+etosuksymid
+fenfluramina
+fenobarbital
+fenytoina
+ginkgo
+kabergolina
+klometiazol
+lewetyracetam
+loksapina
+lormetazepam
+medazepam
+piracetam
+prymidon
+solriamfetol
+sultiam
+tasymelteon
+tiagabina
+zonisamid

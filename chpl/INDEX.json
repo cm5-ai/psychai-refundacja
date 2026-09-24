@@ -89,6 +89,14 @@
    ],
    "stan": "OK"
   },
+  "asenapina": {
+   "plik": "chpl/asenapina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Sycrest"
+   ],
+   "stan": "OK"
+  },
   "atomoksetyna": {
    "plik": "chpl/atomoksetyna.json",
    "pobrano": "2026-09-23",
@@ -109,6 +117,14 @@
    ],
    "stan": "OK"
   },
+  "brexpiprazol": {
+   "plik": "chpl/brexpiprazol.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "RXULTI"
+   ],
+   "stan": "OK"
+  },
   "bromazepam": {
    "plik": "chpl/bromazepam.json",
    "pobrano": "2026-09-23",
@@ -116,6 +132,14 @@
     "Bromox",
     "Lexotan",
     "Sedam 3"
+   ],
+   "stan": "OK"
+  },
+  "bromokryptyna": {
+   "plik": "chpl/bromokryptyna.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Bromocorn"
    ],
    "stan": "OK"
   },
@@ -146,6 +170,14 @@
    "pobrano": "2026-09-23",
    "produkty": [
     "Spamilan"
+   ],
+   "stan": "OK"
+  },
+  "chinagolid": {
+   "plik": "chpl/chinagolid.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Norprolac"
    ],
    "stan": "OK"
   },
@@ -184,11 +216,29 @@
    ],
    "stan": "OK"
   },
+  "darydoreksant": {
+   "plik": "chpl/darydoreksant.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "QUVIVIQ"
+   ],
+   "stan": "OK"
+  },
   "deksamfetamina": {
    "plik": "chpl/deksamfetamina.json",
    "pobrano": "2026-09-23",
    "produkty": [
     "Tentin"
+   ],
+   "stan": "OK"
+  },
+  "deksmedetomidyna": {
+   "plik": "chpl/deksmedetomidyna.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Dexmedetomidine Altan",
+    "Dexmedetomidine EVER Pharma",
+    "Dexmedetomidine Farmak"
    ],
    "stan": "OK"
   },
@@ -241,6 +291,16 @@
    ],
    "stan": "OK"
   },
+  "dziurawiec": {
+   "plik": "chpl/dziurawiec.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Depremin 612 mg",
+    "HYPERIS",
+    "Tinctura Hyperici Herbpol w Krakowie SA"
+   ],
+   "stan": "OK"
+  },
   "entakapon": {
    "plik": "chpl/entakapon.json",
    "pobrano": "2026-09-24",
@@ -275,6 +335,49 @@
     "Estazolam Espefa",
     "Estazolam Polfarmex",
     "Estazolam TZF"
+   ],
+   "stan": "OK"
+  },
+  "eszopiklon": {
+   "plik": "chpl/eszopiklon.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Esogno"
+   ],
+   "stan": "OK"
+  },
+  "etosuksymid": {
+   "plik": "chpl/etosuksymid.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Petinimid"
+   ],
+   "stan": "OK"
+  },
+  "fenfluramina": {
+   "plik": "chpl/fenfluramina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Fintepla"
+   ],
+   "stan": "OK"
+  },
+  "fenobarbital": {
+   "plik": "chpl/fenobarbital.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Luminalum",
+    "Luminalum Unia"
+   ],
+   "stan": "OK"
+  },
+  "fenytoina": {
+   "plik": "chpl/fenytoina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Phenytoinum WZF",
+    "Epanutin Parenteral",
+    "Phenytoin Hikma"
    ],
    "stan": "OK"
   },
@@ -330,6 +433,16 @@
    ],
    "stan": "OK"
   },
+  "ginkgo": {
+   "plik": "chpl/ginkgo.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Bilobil Forte",
+    "Ginkgofol",
+    "Ginkofar"
+   ],
+   "stan": "OK"
+  },
   "guanfacyna": {
    "plik": "chpl/guanfacyna.json",
    "pobrano": "2026-09-22",
@@ -366,6 +479,14 @@
    "sprawdzono": "2026-09-22",
    "stan": "NIE_ZNALEZIONO_W_SPISIE"
   },
+  "kabergolina": {
+   "plik": "chpl/kabergolina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Dostinex"
+   ],
+   "stan": "OK"
+  },
   "karbamazepina": {
    "plik": "chpl/karbamazepina.json",
    "pobrano": "2026-09-23",
@@ -381,6 +502,14 @@
    "pobrano": "2026-09-22",
    "produkty": [
     "Reagila"
+   ],
+   "stan": "OK"
+  },
+  "klometiazol": {
+   "plik": "chpl/klometiazol.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Heminevrin"
    ],
    "stan": "OK"
   },
@@ -443,6 +572,19 @@
    ],
    "stan": "OK"
   },
+  "lewetyracetam": {
+   "plik": "chpl/lewetyracetam.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Cezarius",
+    "Lepsitam",
+    "Levebon",
+    "Levetiracetam Eugia",
+    "Levetiracetam Kalceks",
+    "Vetira"
+   ],
+   "stan": "OK"
+  },
   "lewodopa": {
    "plik": "chpl/lewodopa.json",
    "pobrano": "2026-09-24",
@@ -483,6 +625,14 @@
    ],
    "stan": "OK"
   },
+  "loksapina": {
+   "plik": "chpl/loksapina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Adasuve"
+   ],
+   "stan": "OK"
+  },
   "lorazepam": {
    "plik": "chpl/lorazepam.json",
    "pobrano": "2026-09-24",
@@ -496,6 +646,14 @@
    ],
    "stan": "OK"
   },
+  "lormetazepam": {
+   "plik": "chpl/lormetazepam.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Noctofer"
+   ],
+   "stan": "OK"
+  },
   "lurazydon": {
    "plik": "chpl/lurazydon.json",
    "pobrano": "2026-09-23",
@@ -503,6 +661,14 @@
     "Lurasidone Teva",
     "Alurazen",
     "Asil"
+   ],
+   "stan": "OK"
+  },
+  "medazepam": {
+   "plik": "chpl/medazepam.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Medazepam TZF"
    ],
    "stan": "OK"
   },
@@ -727,6 +893,18 @@
    "sprawdzono": "2026-09-22",
    "stan": "NIE_ZNALEZIONO_W_SPISIE"
   },
+  "piracetam": {
+   "plik": "chpl/piracetam.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Biotropil 1200",
+    "Biotropil 800",
+    "Lucetam",
+    "Memotropil 20%",
+    "Memotropil 20%"
+   ],
+   "stan": "OK"
+  },
   "pirybedyl": {
    "plik": "chpl/pirybedyl.json",
    "pobrano": "2026-09-24",
@@ -781,6 +959,14 @@
     "Propranolol Accord",
     "Propranolol Aurovitas",
     "Propranolol WZF"
+   ],
+   "stan": "OK"
+  },
+  "prymidon": {
+   "plik": "chpl/prymidon.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Mizodin"
    ],
    "stan": "OK"
   },
@@ -882,6 +1068,14 @@
    ],
    "stan": "OK"
   },
+  "solriamfetol": {
+   "plik": "chpl/solriamfetol.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Sunosi"
+   ],
+   "stan": "OK"
+  },
   "sulpiryd": {
    "plik": "chpl/sulpiryd.json",
    "pobrano": "2026-09-23",
@@ -891,12 +1085,36 @@
    ],
    "stan": "OK"
   },
+  "sultiam": {
+   "plik": "chpl/sultiam.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Sultiame Desitin"
+   ],
+   "stan": "OK"
+  },
+  "tasymelteon": {
+   "plik": "chpl/tasymelteon.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Hetlioz"
+   ],
+   "stan": "OK"
+  },
   "temazepam": {
    "plik": "chpl/temazepam.json",
    "pobrano": "2026-09-23",
    "produkty": [
     "Signopam",
     "Teseda"
+   ],
+   "stan": "OK"
+  },
+  "tiagabina": {
+   "plik": "chpl/tiagabina.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Gabitril"
    ],
    "stan": "OK"
   },
@@ -1006,6 +1224,15 @@
     "Apo-Zolpin",
     "ApoZolpin",
     "Hypnogen"
+   ],
+   "stan": "OK"
+  },
+  "zonisamid": {
+   "plik": "chpl/zonisamid.json",
+   "pobrano": "2026-09-24",
+   "produkty": [
+    "Zonisamidum Neuraxpharm",
+    "Zonegran"
    ],
    "stan": "OK"
   },

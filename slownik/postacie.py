@@ -84,6 +84,26 @@ def postac_klasa(postac):
     return SLOWNIK["POSTACIE"][k]
 
 
+# Kadencja MONITOROWANIA to nie kadencja PODAWANIA. Fraza "monitorowac co miesiac",
+# "co szesc miesiecy podejmowac probe zmniejszenia dawki" albo "oznaczac stezenie
+# co 3 miesiace" trafiala we wzorzec i dawala falszywe alarmy przy Phenytoin Hikma
+# i Memotropil. Odrzucamy trafienie, gdy w jego otoczeniu stoi slowo o kontroli,
+# a nie o podaniu. Sprawdzone na tekscie 2026-09-24.
+KONTEKST_KONTROLI = re.compile(
+    r"monitorow|kontrolow|kontroli|oznacza|stęż|badani|wizyt|ocen[iy]|"
+    r"prób\w*\s+zmniejsz|zmniejsz\w*\s+dawk|odstawi", re.I)
+
+
+def kadencja_podania(tekst, okno=90):
+    """Trafienie wzorca kadencji, ktore NIE stoi w zdaniu o monitorowaniu."""
+    for m in KADENCJA.finditer(tekst or ""):
+        otocz = tekst[max(0, m.start() - okno): m.end() + okno]
+        if KONTEKST_KONTROLI.search(otocz):
+            continue
+        return m
+    return None
+
+
 def ekspozycja(produkt, chpl_42=None):
     """DEPOT / POSREDNIA / KROTKA / None. Zrodlo jawne w polu 'zrodlo'."""
     nazwa = kanon_nazwy(produkt.get("nazwa"))
@@ -96,7 +116,7 @@ def ekspozycja(produkt, chpl_42=None):
         return {"ekspozycja": None, "zrodlo": "NIE_INIEKCJA"}
     if kl["uwalnianie"] == "PRZEDLUZONE":
         return {"ekspozycja": "DEPOT", "zrodlo": "POLE_POSTAC"}
-    if chpl_42 and KADENCJA.search(chpl_42):
+    if chpl_42 and kadencja_podania(chpl_42):
         # ALARM, nie werdykt: zdanie o kadencji moze dotyczyc innego produktu.
         # Klasa zostaje KROTKA, ale produkt trafia na liste do przegladu przez
         # kandydat_lai(); build ma zazadac wpisu do tabeli wyjatkow.
@@ -125,7 +145,7 @@ def kandydat_lai(produkt, chpl_42=None, chpl_61=None):
     nz = (produkt.get("nazwa") or "").lower()
     if any(t in nz for t in TOKENY_LAI):
         syg.append("TOKEN_W_NAZWIE")
-    if chpl_42 and KADENCJA.search(chpl_42):
+    if chpl_42 and kadencja_podania(chpl_42):
         syg.append("KADENCJA_CHPL_4.2")
     if chpl_61 and NOSNIK_OLEISTY.search(chpl_61):
         syg.append("NOSNIK_OLEISTY")

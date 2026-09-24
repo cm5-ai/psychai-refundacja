@@ -22,23 +22,17 @@ import postacie as PO
 
 CHPL = os.path.join(KAT, "..", "chpl")
 RPL = os.path.join(KAT, "..", "rpl", "RPL_PSYCH.json")
-LISTA = os.path.join(KAT, "..", "zrodla", "do_pobrania_n04b.json")
+LISTA = os.path.join(KAT, "..", "zrodla", "do_pobrania_ksiazki.json")
 POBRANE = os.path.expanduser("~/mnt/Downloads")
 DZIS = "2026-09-24"
 
 # slug EMA -> (nazwa produktu w RPL, plik cache)
 EMA = {} if "--bez-ema" in sys.argv else {
-    "xadago":    ("Xadago",   "safinamid"),
-    "ongentys":  ("Ongentys", "opikapon"),
-    "neupro":    ("Neupro",   "rotygotyna"),
-    "comtess":   ("Comtess",  "entakapon"),
-    "comtan":    ("Comtan",   "entakapon"),
-    "tasmar":    ("Tasmar",   "tolkapon"),
-    "sifrol":    ("Sifrol",   "pramipeksol"),
-    "mirapexin": ("Mirapexin", "pramipeksol"),
-    "azilect":   ("Azilect",  "razagilina"),
-    "inbrija":   ("Inbrija",  "lewodopa"),
-    "numient":   ("Numient",  "lewodopa"),
+    "sycrest":("Sycrest","asenapina"), "rxulti":("Rxulti","brexpiprazol"),
+    "adasuve":("Adasuve","loksapina"), "quviviq":("Quviviq","darydoreksant"),
+    "sunosi":("Sunosi","solriamfetol"), "hetlioz":("Hetlioz","tasymelteon"),
+    "fintepla":("Fintepla","fenfluramina"), "keppra":("Keppra","lewetyracetam"),
+    "zonegran":("Zonegran","zonisamid"),
 }
 # Clevor NIE jest dolaczany: to apomorfina WETERYNARYJNA. Ekstraktor zwrocil
 # zero punktow, bo w tym dokumencie nie ma polskich naglowkow ChPL ludzkiej.

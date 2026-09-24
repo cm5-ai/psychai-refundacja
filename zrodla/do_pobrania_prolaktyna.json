@@ -1,0 +1,32 @@
+[
+ {
+  "plik": "bromokryptyna",
+  "klasa": "DOUSTNA_IR",
+  "id": "100002042",
+  "nazwa": "Bromocorn",
+  "moc": "2,5 mg",
+  "postac": "Tabletki",
+  "sub": "Bromocriptinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/204/characteristic"
+ },
+ {
+  "plik": "chinagolid",
+  "klasa": "DOUSTNA_IR",
+  "id": "100048305",
+  "nazwa": "Norprolac",
+  "moc": "25 mcg; 50 mcg",
+  "postac": "Tabletki",
+  "sub": "Quinagolidum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4830/characteristic"
+ },
+ {
+  "plik": "kabergolina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100094067",
+  "nazwa": "Dostinex",
+  "moc": "0,5 mg",
+  "postac": "Tabletki",
+  "sub": "Cabergolinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9406/characteristic"
+ }
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "plik": "bromokryptyna",
+  "klasa": "DOUSTNA_IR",
+  "id": "100002042",
+  "nazwa": "Bromocorn",
+  "moc": "2,5 mg",
+  "postac": "Tabletki",
+  "sub": "Bromocriptinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/204/characteristic"
+ },
+ {
+  "plik": "chinagolid",
+  "klasa": "DOUSTNA_IR",
+  "id": "100048305",
+  "nazwa": "Norprolac",
+  "moc": "25 mcg; 50 mcg",
+  "postac": "Tabletki",
+  "sub": "Quinagolidum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4830/characteristic"
+ },
+ {
+  "plik": "deksmedetomidyna",
+  "klasa": "INFUZJA_IR",
+  "id": "100402149",
+  "nazwa": "Dexmedetomidine Altan",
+  "moc": "100 mcg/ml",
+  "postac": "Koncentrat do sporządzania roztworu do infuzji",
+  "sub": "Dexmedetomidinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40214/characteristic"
+ },
+ {
+  "plik": "deksmedetomidyna",
+  "klasa": "INFUZJA_IR",
+  "id": "100368659",
+  "nazwa": "Dexmedetomidine EVER Pharma",
+  "moc": "",
+  "postac": "Koncentrat do sporządzania roztworu do infuzji",
+  "sub": "Dexmedetomidinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36865/characteristic"
+ },
+ {
+  "plik": "deksmedetomidyna",
+  "klasa": "INFUZJA_IR",
+  "id": "100483875",
+  "nazwa": "Dexmedetomidine Farmak",
+  "moc": "100 mcg/ml",
+  "postac": "Koncentrat do sporządzania roztworu do infuzji",
+  "sub": "Dexmedetomidinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48387/characteristic"
+ },
+ {
+  "plik": "dziurawiec",
+  "klasa": "DOUSTNA_IR",
+  "id": "100397649",
+  "nazwa": "Depremin 612 mg",
+  "moc": "612 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Hyperici herbae extractum siccum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39764/characteristic"
+ },
+ {
+  "plik": "dziurawiec",
+  "klasa": "DOUSTNA_IR",
+  "id": "100400558",
+  "nazwa": "HYPERIS",
+  "moc": "612 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Hyperici herbae extractum siccum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40055/characteristic"
+ },
+ {
+  "plik": "dziurawiec",
+  "klasa": "DOUSTNA_IR",
+  "id": "100045376",
+  "nazwa": "Tinctura Hyperici Herbpol w Krakowie SA",
+  "moc": "-",
+  "postac": "Płyn doustny",
+  "sub": "Hyperici herbae tinctura",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4537/characteristic"
+ },
+ {
+  "plik": "eszopiklon",
+  "klasa": "DOUSTNA_IR",
+  "id": "100409909",
+  "nazwa": "Esogno",
+  "moc": "1 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Eszopiclonum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40990/characteristic"
+ },
+ {
+  "plik": "etosuksymid",
+  "klasa": "DOUSTNA_IR",
+  "id": "100052695",
+  "nazwa": "Petinimid",
+  "moc": "250 mg",
+  "postac": "Kapsułki",
+  "sub": "Ethosuximidum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5269/characteristic"
+ },
+ {
+  "plik": "fenobarbital",
+  "klasa": "DOUSTNA_IR",
+  "id": "100039996",
+  "nazwa": "Luminalum",
+  "moc": "100 mg",
+  "postac": "Tabletki",
+  "sub": "Phenobarbitalum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3999/characteristic"
+ },
+ {
+  "plik": "fenobarbital",
+  "klasa": "DOUSTNA_IR",
+  "id": "100085720",
+  "nazwa": "Luminalum Unia",
+  "moc": "100 mg",
+  "postac": "Tabletki",
+  "sub": "Phenobarbitalum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8572/characteristic"
+ },
+ {
+  "plik": "fenytoina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100052904",
+  "nazwa": "Phenytoinum WZF",
+  "moc": "100 mg",
+  "postac": "Tabletki",
+  "sub": "Phenytoinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5290/characteristic"
+ },
+ {
+  "plik": "fenytoina",
+  "klasa": "INIEKCJA_KROTKA",
+  "id": "100022406",
+  "nazwa": "Epanutin Parenteral",
+  "moc": "50 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Phenytoinum natricum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2240/characteristic"
+ },
+ {
+  "plik": "fenytoina",
+  "klasa": "INIEKCJA_KROTKA",
+  "id": "100202775",
+  "nazwa": "Phenytoin Hikma",
+  "moc": "50 mg/ml",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Phenytoinum natricum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20277/characteristic"
+ },
+ {
+  "plik": "ginkgo",
+  "klasa": "DOUSTNA_IR",
+  "id": "100204946",
+  "nazwa": "Bilobil Forte",
+  "moc": "19,2-23,2 mg glikozydów flawonowych i 4,8-7,2 mg terpentów laktonowych/kapsułkę",
+  "postac": "Kapsułki twarde",
+  "sub": "Ginkgo bilobae folii extractum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20494/characteristic"
+ },
+ {
+  "plik": "ginkgo",
+  "klasa": "DOUSTNA_IR",
+  "id": "100205472",
+  "nazwa": "Ginkgofol",
+  "moc": "nie mniej niż 6,0 mg ginkgoflawonoglikozydów i 2,0-2,8 mg laktonów terpenowych/tabl.",
+  "postac": "Tabletki",
+  "sub": "Ginkgo bilobae folii extractum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20547/characteristic"
+ },
+ {
+  "plik": "ginkgo",
+  "klasa": "DOUSTNA_IR",
+  "id": "100026752",
+  "nazwa": "Ginkofar",
+  "moc": "40 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Ginkgo bilobae folii extractum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2675/characteristic"
+ },
+ {
+  "plik": "kabergolina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100094067",
+  "nazwa": "Dostinex",
+  "moc": "0,5 mg",
+  "postac": "Tabletki",
+  "sub": "Cabergolinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9406/characteristic"
+ },
+ {
+  "plik": "klometiazol",
+  "klasa": "DOUSTNA_IR",
+  "id": "100028372",
+  "nazwa": "Heminevrin",
+  "moc": "300 mg",
+  "postac": "Kapsułki",
+  "sub": "Clomethiazolum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2837/characteristic"
+ },
+ {
+  "plik": "lewetyracetam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100264664",
+  "nazwa": "Cezarius",
+  "moc": "100 mg/ml",
+  "postac": "Roztwór doustny",
+  "sub": "Levetiracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26466/characteristic"
+ },
+ {
+  "plik": "lewetyracetam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100362786",
+  "nazwa": "Lepsitam",
+  "moc": "1000 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Levetiracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36278/characteristic"
+ },
+ {
+  "plik": "lewetyracetam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100281734",
+  "nazwa": "Levebon",
+  "moc": "1000 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Levetiracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28173/characteristic"
+ },
+ {
+  "plik": "lewetyracetam",
+  "klasa": "INFUZJA_IR",
+  "id": "100507113",
+  "nazwa": "Levetiracetam Eugia",
+  "moc": "100 mg/ml",
+  "postac": "Koncentrat do sporządzania roztworu do infuzji",
+  "sub": "Levetiracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50711/characteristic"
+ },
+ {
+  "plik": "lewetyracetam",
+  "klasa": "INFUZJA_IR",
+  "id": "100514051",
+  "nazwa": "Levetiracetam Kalceks",
+  "moc": "100 mg/ml",
+  "postac": "Koncentrat do sporządzania roztworu do infuzji",
+  "sub": "Levetiracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51405/characteristic"
+ },
+ {
+  "plik": "lewetyracetam",
+  "klasa": "INFUZJA_IR",
+  "id": "100268389",
+  "nazwa": "Vetira",
+  "moc": "100 mg/ml",
+  "postac": "Koncentrat do sporządzania roztworu do infuzji",
+  "sub": "Levetiracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26838/characteristic"
+ },
+ {
+  "plik": "lormetazepam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100047910",
+  "nazwa": "Noctofer",
+  "moc": "0,5 mg",
+  "postac": "Tabletki",
+  "sub": "Lormetazepamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4791/characteristic"
+ },
+ {
+  "plik": "medazepam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100042260",
+  "nazwa": "Medazepam TZF",
+  "moc": "10 mg",
+  "postac": "Kapsułki twarde",
+  "sub": "Medazepamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4226/characteristic"
+ },
+ {
+  "plik": "piracetam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100190718",
+  "nazwa": "Biotropil 1200",
+  "moc": "1200 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Piracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19071/characteristic"
+ },
+ {
+  "plik": "piracetam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100190753",
+  "nazwa": "Biotropil 800",
+  "moc": "800 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Piracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19075/characteristic"
+ },
+ {
+  "plik": "piracetam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100102890",
+  "nazwa": "Lucetam",
+  "moc": "1200 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Piracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10289/characteristic"
+ },
+ {
+  "plik": "piracetam",
+  "klasa": "INFUZJA_IR",
+  "id": "100103903",
+  "nazwa": "Memotropil 20%",
+  "moc": "12 g/60 ml",
+  "postac": "Roztwór do infuzji",
+  "sub": "Piracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10390/characteristic"
+ },
+ {
+  "plik": "piracetam",
+  "klasa": "INIEKCJA_KROTKA",
+  "id": "100220796",
+  "nazwa": "Memotropil 20%",
+  "moc": "200 mg/ml (1g/5 ml)",
+  "postac": "Roztwór do wstrzykiwań",
+  "sub": "Piracetamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22079/characteristic"
+ },
+ {
+  "plik": "prymidon",
+  "klasa": "DOUSTNA_IR",
+  "id": "100044336",
+  "nazwa": "Mizodin",
+  "moc": "250 mg",
+  "postac": "Tabletki",
+  "sub": "Primidonum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4433/characteristic"
+ },
+ {
+  "plik": "sultiam",
+  "klasa": "DOUSTNA_IR",
+  "id": "100484852",
+  "nazwa": "Sultiame Desitin",
+  "moc": "20 mg/ml",
+  "postac": "Zawiesina doustna",
+  "sub": "Sultiamum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48485/characteristic"
+ },
+ {
+  "plik": "tiagabina",
+  "klasa": "DOUSTNA_IR",
+  "id": "100247298",
+  "nazwa": "Gabitril",
+  "moc": "10 mg",
+  "postac": "Tabletki powlekane",
+  "sub": "Tiagabinum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24729/characteristic"
+ },
+ {
+  "plik": "zonisamid",
+  "klasa": "DOUSTNA_IR",
+  "id": "100391368",
+  "nazwa": "Zonisamidum Neuraxpharm",
+  "moc": "100 mg",
+  "postac": "Kapsułki twarde",
+  "sub": "Zonisamidum",
+  "url": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39136/characteristic"
+ }
+]

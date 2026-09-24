@@ -1,0 +1,146 @@
+{
+ "STATUS": "UTWORZONY_2026-09-24",
+ "pobrano": "2026-09-24",
+ "pobrano_n04": "2026-09-24",
+ "produkty": [
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06DX02"
+    ],
+    "nazwa_powszechna": [
+     "Ginkgo bilobae folii extractum"
+    ],
+    "postac": [
+     "Kapsułki twarde"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "19,2-23,2 mg glikozydów flawonowych i 4,8-7,2 mg terpentów laktonowych/kapsułkę",
+   "nazwa": "Bilobil Forte",
+   "podmiot": "Krka, d.d., Novo mesto",
+   "postac": "Kapsułki twarde",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Bilobil forte jest produktem leczniczym roślinnym stosowanym w celu poprawy zdolności poznawczych (związanych z wiekiem) i poprawy jakości życia w łagodnej demencji.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Zalecana dawka u dorosłych i osób w podeszłym wieku to 1 kapsułka od 2 do 3 razy na dobę. Maksymalna dawka dobowa wynosi 240 mg, co odpowiada 3 kapsułkom. Czas stosowania: Leczenie powinno trwać, co najmniej 8 tygodni. Jeżeli po 3 miesiącach stosowania produktu leczniczego nie następuje poprawa lub jeżeli nastąpiło pogorszenie objawów, należy zwrócić się do lekarza w celu ustalenia czy kontynuacja leczenia jest uzasadniona. Dzieci i młodzież Brak wskazań do stosowania u dzieci i młodzieży. Sposób podawania Podanie doustne. Kapsułkę należy połknąć, popijając wodą, można przyjmować niezależnie od posiłków.",
+    "4.3": "4.3 Przeciwwskazania Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Ciąża (patrz punkt 4.6).",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania W przypadku braku poprawy lub nasilenia objawów chorobowych podczas stosowania produktu, należy skontaktować się z lekarzem lub farmaceutą. Osoby z patologicznie zwiększoną tendencją do krwawień (skaza krwotoczna) oraz osoby będące w trakcie terapii przeciwpłytkowej i przeciwzakrzepowej powinny skonsultować się z lekarzem przed zastosowaniem produktu leczniczego Bilobil forte. Preparaty zawierające wyciąg z miłorzębu japońskiego mogą zwiększyć skłonność do krwawienia. W przypadku planowanego zabiegu chirurgicznego zaleca się przerwać stosowanie produktu przynajmniej 3 – 4 dni przed planowanym zabiegiem. U pacjentów z padaczką nie można wykluczyć pojawienia się kolejnych napadów, spowodowanych przez przyjmowanie preparatów zawierających wyciąg z miłorzębu. Nie zaleca się jednoczesnego stosowania przetworów zawierających wyciąg z miłorzębu z efawirenzem (patrz punkt 4.5). Ostrzeżenia dotyczące substancji pomocniczych Produkt Bilobil forte zawiera laktozę jednowodną i glukozę. Lek nie powinien być stosowany u pacjentów z rzadko występującą dziedziczną nietolerancją galaktozy, brakiem laktazy lub zespołem złego wchłaniania glukozy-galaktozy. Bilobil forte zawiera azorubinę (E122), która może powodować reakcje alergiczne. Jedna kapsułka zawiera 132 mg laktozy jednowodnej, 4 mg glukozy i 0,03 mg azorubiny. Jeśli pacjent zażywa lek zgodnie z zaleceniami, przyjmuje każdorazowo 132 mg laktozy jednowodnej, 4 mg glukozy i 0,03 mg azorubiny.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Nie zaleca się jednoczesnego stosowania produktu leczniczego z lekami przeciwzakrzepowymi (fenprokumon, warfaryna) oraz lekami przeciwpłytkowymi (klopidogrel, kwas acetylosalicylowy i inne niesteroidowe leki przeciwzapalne). Dostępne badania dotyczące warfaryny nie wskazują na występowanie interakcji pomiędzy warfaryną a produktami zawierającymi przetwory z miłorzębu (Ginkgo biloba). Jednak zaleca się odpowiednie monitorowanie kiedy rozpoczyna się leczenie, zmienia dawkowanie, kończy przyjmowanie lub zmienia produkty zawierające przetwory z miłorzębu (Ginkgo biloba). Badania interakcji z talinololem wskazują, że wyciąg z miłorzębu hamuje aktywność glikoproteiny P w ścianie jelit. Może to spowodować zwiększone narażenie na leki, w których eliminacji znaczny udział bierze glikoproteina P w ścianie jelit, jak np. dabigatranu eteksylan. Zalecana jest ostrożność w przypadku jednoczesnego stosowania wyciągu z miłorzębu i dabigatranu. Jedno z badań wykazało, że wartość Cmax nifedypiny może być zwiększona podczas jednoczesnego stosowania wyciągu z miłorzębu. U niektórych osób obserwowano wzrost wartości Cmax o prawie 100%, co powodowało występowanie zawrotów głowy i nasilenie uderzeń gorąca. Nie zaleca się jednoczesnego stosowania wyciągu z miłorzębu z efawirenzem, gdyż stężenie efawirenzu w osoczu może być zmniejszone w wyniku indukcji izoenzymu CYP3A4 (patrz punkt 4.4).",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Ciąża Wyciągi z miłorzębu mogą upośledzać zdolność płytek krwi do agregacji. Skłonność do krwawień może być zwiększona. Badania na zwierzętach dotyczące toksycznego wpływu na reprodukcję są niewystarczające (patrz punkt 5.3). Stosowanie produktu leczniczego jest przeciwwskazane u kobiet w okresie ciąży (patrz punkt 4.3). Karmienie piersią Nie wiadomo, czy wyciąg z miłorzębu lub jego metabolity przenikają do mleka ludzkiego. Nie można wykluczyć ryzyka dla noworodków i niemowląt. Ze względu na brak wystarczających danych, stosowanie podczas karmienia piersią nie jest zalecane. Płodność Nie przeprowadzono u ludzi badań wyciągu z miłorzębu oceniających wpływ na płodność. Wpływ na płodność był obserwowany w badaniu z udziałem samic myszy (patrz punkt 5.3).",
+    "4.8": "4.8 Działania niepożądane Działania niepożądane zostały pogrupowane według klasyfikacji układów i narządów MedDRA oraz częstości występowania zgodnie z następującą konwencją: - bardzo często (≥1/10), - często (≥1/100 do <1/10), - niezbyt często (≥1/1 000 do <1/100), - rzadko (≥1/10 000 do <1/1 000), - bardzo rzadko (<1/10 000), - częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). Bardzo Często Częstość nieznana często Zaburzenia krwi i krwawienie z poszczególnych narządów układu chłonnego (oczu, nosa, krwotok z przewodu pokarmowego i naczyń mózgowych). Zaburzenia układu reakcje nadwrażliwości (wstrząs immunologicznego alergiczny) Zaburzenia układu ból zawroty głowy nerwowego głowy Zaburzenia żołądka i biegunka, bóle jelit brzucha, nudności, wymioty Zaburzenia skóry i alergiczne reakcje skórne (rumień, tkanki podskórnej obrzęk, świąd i wysypka) Jeśli wystąpią jakiekolwiek objawy niepożądane, w tym wszelkie objawy niepożądane niewymienione w ulotce, należy powiedzieć o tym lekarzowi lub farmaceucie. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych, Al. Jerozolimskie 181C, 02-222 Warszawa, tel: + 48 22 49 21 301, fax: + 48 22 49 21 309, strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne U człowieka resorpcja ginkgoflawonoglikozydów następuje w jelicie cienkim. Biodostępność u człowieka po podaniu doustnym 120 mg wyciągu dla laktonów terpenowych wynosi: dla ginkgolidu A 80%, dla ginkgolidu B 88% i dla bilobalidu ponad 79%. Maksymalne stężenie laktonów terpenowych po doustnym przyjęciu tabletek waha się w przedziale 16-22 ng/ml dla ginkgolidu A, 8-10 ng/ml dla ginkgolidu B oraz 27-54 ng/ml dla bilobalidu. Odpowiadające czasy półtrwania dla ginkgolidu A i B oraz bilobalidu wynoszą kolejno 3-4 godziny, 4-6 godzin oraz 2-3 godziny. Po doustnym podaniu 120 mg wyciągu miłorzębu maksymalne stężenia dla ginkgolidu A, B oraz bilobalidu wynoszą kolejno 25-33 ng/ml, 9-17 ng/ml oraz 19-35 ng/ml. Natomiast okres półtrwania ginkgolidu A wynosi 5 godzin, ginkgolidu B 9-11 godzin oraz 3-4 godziny dla bilobalidu. Po 24 godzinach eliminacja jest całkowicie zakończona."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "b389e3ef90d4f57f2fa621e01bb8a806165829b6ef5c663b3bdc1a626bc3d991",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20494/characteristic",
+   "zrodlo_pliku": "chpl_20494.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06DX02"
+    ],
+    "nazwa_powszechna": [
+     "Ginkgo bilobae folii extractum"
+    ],
+    "postac": [
+     "Tabletki"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "nie mniej niż 6,0 mg ginkgoflawonoglikozydów i 2,0-2,8 mg laktonów terpenowych/tabl.",
+   "nazwa": "Ginkgofol",
+   "podmiot": "Labofarm sp. z o.o.",
+   "postac": "Tabletki",
+   "punkty": {
+    "5.2": "5.2. Właściwości farmakokinetyczne Badano biodostępność ginkgolidów A i B oraz bilobalidu po podaniu szczurom 30, 55, 100 mg/kg stnadaryzowanego ekstraktu z liści miłorzębu japońskiego. Farmakokinetyka tych substancji była liniowo zależna od dawki. Przy najniższej dawce maksymalne stężenie w osoczu było dla ginkgolidu A - 68, ginkgolidu B – 40 ng/ml i bilobalidu – 159 ng/ml a okres półtrwania wynosił odpowiednio 1,7; 2,0 i 2,2 godziny. Badania nad klirensem nerkowym wykazały, ze najszybciej usuwany z osocza był ginkgolid B, Cl=37,6 ml/min/kg"
+   },
+   "punkty_nieznalezione": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.8"
+   ],
+   "punkty_uciete": [],
+   "sha256_pdf": "baad9c7c67c75081d73a413e4678ba8c785dfb63c70580ae59e335b2eaba814a",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20547/characteristic",
+   "zrodlo_pliku": "chpl_20547.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06DX02"
+    ],
+    "nazwa_powszechna": [
+     "Ginkgo bilobae folii extractum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "40 mg",
+   "nazwa": "Ginkofar",
+   "podmiot": "Biofarm Sp. z o.o.",
+   "postac": "Tabletki powlekane",
+   "punkty": {
+    "4.1": "4.1. Wskazania do stosowania Ginkofar stosuje się:  w celu poprawy zdolności poznawczych u osób starszych (osłabienie pamięci i sprawności umysłowej związane z wiekiem),  w celu poprawy jakości życia w łagodnej demencji. Produkt jest wskazany do stosowania u osób dorosłych.",
+    "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Zalecana dawka u dorosłych wynosi 3 razy na dobę po 2 tabletki. Dawka dobowa: 6 tabletek Dzieci i młodzież Produktu leczniczego Ginkofar nie należy stosować u dzieci i młodzieży Czas stosowania: Leczenie powinno trwać co najmniej 8 tygodni. Jeżeli po 3 miesiącach stosowania preparatu nie następuje poprawa lub jeżeli nastąpiło pogorszenie objawów, należy zwrócić się do lekarza w celu ustalenia czy kontynuacja leczenia jest uzasadniona. Sposób podawania Ginkofar przyjmuje się doustnie, po posiłku, popijając tabletkę płynem.",
+    "4.3": "4.3. Przeciwwskazania  Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1.  Ciąża (patrz punkt 4.6).",
+    "4.4": "4.4. Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania W przypadku braku poprawy lub nasilenia objawów chorobowych podczas stosowania produktu, należy skontaktować się z lekarzem lub farmaceutą. Osoby z patologicznie zwiększoną tendencją do krwawień (skaza krwotoczna) oraz osoby będące w trakcie terapii przeciwpłytkowej i przeciwzakrzepowej powinny skonsultować się z lekarzem przed zastosowaniem produktu leczniczego Ginkofar. Preparaty zawierające wyciąg z miłorzębu japońskiego mogą zwiększyć skłonność do krwawienia. W przypadku planowanego zabiegu chirurgicznego lub stomatologicznego zaleca się przerwać stosowanie produktu przynajmniej 3 – 4 dni przed planowanym zabiegiem. U pacjentów z padaczką nie można wykluczyć pojawienia się kolejnych napadów, spowodowanych przez przyjmowanie preparatów zawierających wyciąg z miłorzębu. Nie zaleca się jednoczesnego stosowania wyciągu z miłorzębu z efawirenzem (patrz punkt 4.5). Substancje pomocnicze Produkt leczniczy zawiera glukozę i laktozę jednowodną, dlatego nie powinien być stosowany u pacjentów z rzadko występującą dziedziczną nietolerancją galaktozy, niedoborem laktazy (typu Lapp) lub zespołem złego wchłaniania glukozy-galaktozy.",
+    "4.5": "4.5. Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Nie zaleca się jednoczesnego stosowania produktu leczniczego z lekami przeciwzakrzepowymi (fenprokumon, warfaryna) oraz lekami przeciwpłytkowymi (klopidogrel, kwas acetylosalicylowy i inne niesteroidowe leki przeciwzapalne). Dostępne badania dotyczące warfaryny nie wskazują na występowanie interakcji pomiędzy warfaryną a produktami zawierającymi Ginkgo biloba, jednak zaleca się odpowiednie monitorowanie w czasie rozpoczęcia leczenia, zmiany dawkowania, zakończenia leczenia lub zmiany produktu leczniczego. Badania interakcji z talinololem wskazują, że wyciąg z miłorzębu hamuje aktywność glikoproteiny P w ścianie jelit. Może to spowodować zwiększone narażenie na leki, w których eliminacji znaczny udział bierze glikoproteina P w ścianie jelit, jak np. dabigatranu eteksylan. Zalecana jest ostrożność w przypadku jednoczesnego stosowania wyciągu z miłorzębu i dabigatranu. Jedno z badań wykazało, że wartość Cmax nifedypiny może być zwiększona podczas jednoczesnego stosowania wyciągu z miłorzębu. U niektórych osób obserwowano wzrost wartości Cmax o prawie 100%, co powodowało występowanie zawrotów głowy i nasilenie uderzeń gorąca objawiających się np. zaczerwienieniem twarzy. Nie zaleca się jednoczesnego stosowania wyciągu z miłorzębu z efawirenzem, gdyż stężenie efawirenzu w osoczu może być zmniejszone w wyniku indukcju izoenzymu CYP3A4 (patrz punkt 4.4).",
+    "4.6": "4.6. Wpływ na płodność, ciążę i laktację Ciąża Wyciągi z miłorzębu mogą upośledzać zdolność płytek krwi do agregacji. Skłonność do krwawień może być zwiększona. Badania na zwierzętach dotyczące toksycznego wpływu na reprodukcję są niewystarczające (patrz punkt 5.3). Stosowanie produktu Ginkofar jest przeciwwskazane u kobiet w ciąży (patrz punkt 4.3). Karmienie piersią Nie wiadomo, czy wyciąg z miłorzębu lub jego metabolity przenikają do mleka ludzkiego. Nie można wykluczyć ryzyka dla noworodków i niemowląt. Ze względu na brak wystarczających danych, stosowanie produktu Ginkofar podczas karmienia piersią nie jest zalecane. Płodność Nie przeprowadzono u ludzi badań wyciągu z miłorzębu oceniających wpływ na płodność. Wpływ na płodność był obserwowany w badaniu z udziałem samic myszy (patrz punkt 5.3).",
+    "4.8": "4.8. Działania niepożądane Częstość działań niepożądanych określono zgodnie z następującą konwencją:  bardzo często (≥1/10);  często (≥1/100 do <1/10);  niezbyt często (≥1/1000 do <1/100);  rzadko (≥1/10 000 do <1/1000);  bardzo rzadko (<1/10 000),  częstość nieznana (nie może być określona na podstawie dostępnych danych). Zaburzenia krwi i układu chłonnego Częstość nieznana: krwawienie z poszczególnych narządów (oczu, nosa, krwotok z przewodu pokarmowego i naczyń mózgowych). Zaburzenia układu immunologicznego Częstość nieznana: reakcje nadwrażliwości (wstrząs alergiczny) Zaburzenia układu nerwowego Bardzo często: ból głowy Często: zawroty głowy Zaburzenia żołądka i jelit Często: biegunka, bóle brzucha, nudności, wymioty Zaburzenia skóry i tkanki podskórnej Częstość nieznana: alergiczne reakcje skórne (rumień, obrzęk, świąd i wysypka) Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa tel.: +48 22 49 21 301 faks: +48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2. Właściwości farmakokinetyczne U człowieka resorpcja ginkgoflawonoglikozydów następuje w jelicie cienkim. Biodostępność u człowieka po podaniu doustnym 120 mg wyciągu dla laktonów terpenowych wynosi: dla ginkgolidu A 80%, dla ginkgolidu B 88% i dla bilobalidu ponad 79%. Maksymalne stężenie laktonów terpenowych po doustnym przyjęciu tabletek waha się w przedziale 16-22 ng/ml dla ginkgolidu A, 8-10 ng/ml dla ginkgolidu B oraz 27-54 ng/ml dla bilobalidu. Odpowiadające czasy półtrwania dla ginkgolidu A i B oraz bilobalidu wynoszą kolejno 3-4 godziny, 2-6 godzin oraz 2-3 godziny. Po doustnym podaniu 120 mg wyciągu miłorzębu maksymalne stężenia dla ginkgolidu A, B oraz bilobalidu wynoszą kolejno 25-33 ng/ml, 9-17 ng/ml oraz 19-35 ng/ml. Natomiast okres półtrwania ginkgolidu A wynosi 5 godzin, ginkgolidu B 9-11 godzin oraz 3-4 godziny dla bilobalidu. Po 24 godzinach eliminacja jest całkowicie zakończona."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "a273174d59e269dd1e6cbea31394d3dab4a1b85bbe816d45befde916248f8cc8",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2675/characteristic",
+   "zrodlo_pliku": "chpl_2675.pdf"
+  }
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "ginkgo",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
+}

@@ -1,0 +1,230 @@
+{
+ "STATUS": "UTWORZONY_2026-09-24",
+ "pobrano": "2026-09-24",
+ "pobrano_n04": "2026-09-24",
+ "produkty": [
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06BX03"
+    ],
+    "nazwa_powszechna": [
+     "Piracetamum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "1200 mg",
+   "nazwa": "Biotropil 1200",
+   "podmiot": "Biofarm Sp. z o.o.",
+   "postac": "Tabletki powlekane",
+   "punkty": {},
+   "punkty_nieznalezione": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.8",
+    "5.2"
+   ],
+   "punkty_uciete": [],
+   "sha256_pdf": "64023d450b9504b29aeb65ec1ba1d6f282256d0bdb0110d4f5e383e1cf6f18e6",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19071/characteristic",
+   "zrodlo_pliku": "chpl_19071.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06BX03"
+    ],
+    "nazwa_powszechna": [
+     "Piracetamum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "800 mg",
+   "nazwa": "Biotropil 800",
+   "podmiot": "Biofarm Sp. z o.o.",
+   "postac": "Tabletki powlekane",
+   "punkty": {},
+   "punkty_nieznalezione": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.8",
+    "5.2"
+   ],
+   "punkty_uciete": [],
+   "sha256_pdf": "64023d450b9504b29aeb65ec1ba1d6f282256d0bdb0110d4f5e383e1cf6f18e6",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19075/characteristic",
+   "zrodlo_pliku": "chpl_19075.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06BX03"
+    ],
+    "nazwa_powszechna": [
+     "Piracetamum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "1200 mg",
+   "nazwa": "Lucetam",
+   "podmiot": "Egis Pharmaceuticals PLC",
+   "postac": "Tabletki powlekane",
+   "punkty": {
+    "4.1": "4.1. Wskazania do stosowania Lucetam jest wskazany w leczeniu:  mioklonii pochodzenia korowego;  zaburzeń dyslektycznych u dzieci, w połączeniu z terapią logopedyczną;  zawrotów głowy pochodzenia ośrodkowego i obwodowego.",
+    "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Leczenie mioklonii pochodzenia korowego Dawka dobowa powinna wynosić początkowo 7,2 g i powinna być zwiększana o 4,8 g co 3-4 dni, aż do osiągnięcia maksymalnej dawki 24 g, w 2 lub 3 dawkach podzielonych. Leczenie innymi przeciwmioklonicznymi produktami leczniczymi należy utrzymać w niezmienionej dawce. Później w zależności od uzyskanych korzyści klinicznych, gdy to możliwe dawkowanie innych produktów leczniczych tego rodzaju należy zmniejszyć. Leczenie piracetamem należy kontynuować tak długo, jak długo utrzymuje się podstawowa choroba mózgu. U osób z ostrym epizodem może dojść z czasem do ewolucji objawów, w związku z czym co 6 miesięcy należy podejmować próbę zmniejszenia dawki lub odstawienia leku. Należy to robić redukując dawkę piracetamu o 1,2 g co 2 dni (co 3 lub 4 dni w przypadku zespołu Lance-Adamsa, aby zapobiec ewentualnemu nagłemu nawrotowi lub drgawkom z odstawienia). Leczenie zawrotów głowy Zalecana dawka dobowa waha się od 2,4 do 4,8 g, w 2 lub 3 dawkach podzielonych. Dzieci i młodzież Leczenie zaburzeń dyslektycznych w połączeniu z terapią logopedyczną U młodzieży i dzieci od 8. roku życia zalecana dawka dobowa wynosi około 3,2 g, w 2 dawkach podzielonych. Osoby w podeszłym wieku Zaleca się modyfikację dawki u osób w podeszłym wieku z zaburzoną czynnością nerek (patrz „Pacjenci w niewydolnością nerek”). W czasie długotrwałego leczenia u osób w podeszłym wieku konieczna jest regularna kontrola klirensu kreatyniny, aby w razie potrzeby odpowiednio dostosować dawkowanie. Pacjenci z niewydolnością nerek Dawkę dobową należy ustalić indywidualnie w zależności od stopnia niewydolności nerek. Należy zapoznać się z poniższą tabelą i odpowiednio dostosować dawkę. Aby skorzystać z podanej tabeli dawkowania, należy oszacować klirens kreatyniny (creatinine clearance: LCcr) pacjenta w ml/min. CLcr w ml/min można obliczyć na podstawie stężenia kreatyniny w surowicy korzystając z następującego wzoru: Cl cr= [140 – wiek (lata)] X masa ciała (kg) (X 0,85 dla kobiet) 72 X kreatynina w surowicy (mg/dl) Grupa Klirens kreatyniny (ml/min) Dawka i częstość podawania Prawidłowa czynność nerek > 80 zwykła dawka dobowa, w 2-4 dawkach podzielonych Łagodne za czynności nerek 50-79 2/3 zwykłej dawki dobowej, w 2 lub 3 dawkach podzielonych Umiarkowane zaburzenie 30-49 1/3 zwykłej dawki dobowej, w 2 czynności nerek dawkach podzielonych Ciężkie zaburzenie czynności < 30 1/6 zwykłej dawki dobowej, w nerek pojedynczej dawce Schyłkowa choroba nerek - przeciwwskazany Pacjenci z niewydolnością wątroby U pacjentów z samą niewydolnością wątroby nie ma potrzeby modyfikacji dawki. U pacjentów ze współistniejącą niewydolnością wątroby i nerek zaleca się modyfikację dawkowania (patrz: Pacjenci z niewydolnością nerek” powyżej). Sposób podawania Lucetam należy podawać doustnie. Lek można przyjmować z posiłkiem lub niezależnie od posiłku. Tabletkę(i) powlekaną(e) należy popijać płynem. Zaleca się, aby dawkę dobową przyjmować w 2-4 dawkach podzielonych.",
+    "4.3": "4.3. Przeciwwskazania  Nadwrażliwość na substancję czynną, inne pochodne pirolidonu lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1.  Krwawienie śródmózgowe.  Schyłkowa choroba nerek.  Pląsawica Huntingtona.",
+    "4.4": "4.4. Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Wpływ na agregację płytek Ze względu na wpływ piracetamu na agregację płytek krwi (patrz punkt 5.1) zaleca się ostrożność u pacjentów z silnym krwawieniem, u pacjentów zagrożonych ryzykiem krwawienia, na przykład z wrzodem żołądka lub jelit, u pacjentów z zaburzeniami hemostazy, u pacjentów z incydentem naczyniowo-mózgowym w wywiadzie, u pacjentów poddawanych poważnym zabiegom chirurgicznym, w tym również zabiegom stomatologicznym, oraz u pacjentów stosujących leki przeciwkrzepliwe lub leki hamujące agregację płytek krwi, w tym małe dawki kwasu acetylosalicylowego. Niewydolność nerek Piracetam jest wydalany przez nerki. Należy zachować ostrożność w przypadkach niewydolności nerek (patrz punkt 4.2). Osoby w podeszłym wieku W czasie długotrwałego leczenia u osób w podeszłym wieku konieczna jest regularna kontrola klirensu kreatyniny, aby w razie potrzeby odpowiednio dostosować dawkowanie (patrz punkt 4.2). Przerywanie leczenia Należy unikać nagłego odstawiania leku u chorych leczonych z powodu mioklonii, gdyż może to doprowadzić do nawrotu lub drgawek z odstawienia.",
+    "4.5": "4.5. Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Interakcje farmakokinetyczne Uważa się, że prawdopodobieństwo interakcji lekowych prowadzących do zmian farmakokinetyki piracetamu jest niewielkie, ponieważ około 90% dawki piracetamu wydala się z moczem w postaci niezmienionej. In vitro, w stężeniach 142, 426 i 1422 μg/ml piracetam nie hamuje izoform CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 ani 4A9/11 cytochromu P450 ludzkiej wątroby. Przy stężeniu 1422 μg/ml obserwowano niewielkie działanie hamujące na CYP 2A6 (21%) 3A4/5 (11%). Wartości Ki dla hamowania tych dwóch izoform CYP prawdopodobnie jednak znacznie przekraczają 1422 μg/ml. Metaboliczne interakcje piracetamu z innymi lekami są więc mało prawdopodobne. Hormony tarczycy Podczas jednoczesnego leczenia wyciągiem z tarczycy (T3+T4) opisywano splątanie, rozdrażnienie i zaburzenia snu. Acenokumarol W opublikowanym badaniu w metodologii pojedynczo ślepej próby z udziałem pacjentów z ciężką, nawracającą zakrzepicą żylną, piracetam w dawce 9,6 g/dobę nie miał wpływu na wielkość dawki acenokumarolu potrzebnej do utrzymania wskaźnika INR na poziomie 2,5-3,5, jednak w porównaniu z efektami stosowania samego acenokumarolu, dodanie piracetamu w dawce 9,6 g/dobę prowadziło do istotnego zmniejszenia agregacji płytek, zmniejszenia uwalniania β-tromboglobuliny, zmniejszenia stężeń fibrynogenu i czynników von Willebranda (VIII : C; VIII : vW : Ag; VIII : vW : RCo) oraz zmniejszenia lepkości krwi pełnej i osocza. Leki przeciwpadaczkowe Dobowa dawka piracetamu 20 g stosowana przez okres 4 tygodni nie miała wpływu na wartości największych i najmniejszych stężeń w surowicy leków przeciwpadaczkowych (karbamazepiny, fenytoiny, fenobarbitalu, walproinianu) u chorych na padaczkę otrzymujących stałe dawki tych leków. Alkohol Równoczesne podawanie alkoholu nie miało wpływu na stężenia piracetamu w surowicy, a stężenia alkoholu nie zmieniały się po przyjęciu 1,6 g piracetamu w dawce doustnej.",
+    "4.6": "4.6. Wpływ na płodność, ciążę i laktację Ciąża Nie ma odpowiednich danych dotyczących stosowania piracetamu u kobiet w ciąży. Badania na zwierzętach nie wskazują na bezpośrednie ani pośrednie szkodliwe działanie leku na ciążę, rozwój zarodka/płodu, przebieg porodu i rozwój po urodzeniu (patrz punkt 5.3). Piracetam przenika przez barierę łożyskową. Stężenia leku u noworodka wynoszą około 70-90% stężeń u matki. Nie należy stosować piracetamu w czasie ciąży, chyba że jest to bezwzględnie konieczne, a korzyści ze stosowania leku przewyższają ryzyko i stan kliniczny kobiety ciężarnej wymaga leczenia piracetamem. Karmienie piersią U ludzi piracetam jest wydzielany do mleka matki. W związku z tym w czasie karmienia piersią nie należy stosować piracetamu lub na czas leczenia piracetamem należy przerwać karmienie piersią. Decyzję o tym, czy zaprzestać karmienia piersią, czy przerwać leczenie piracetamem należy podjąć biorąc pod uwagę korzyści z karmienia piersią dla dziecka i korzyści z terapii piracetamem dla kobiety.",
+    "4.8": "4.8. Działania niepożądane Podsumowanie profilu bezpieczeństwa Podwójnie ślepe, kontrolowane placebo badania kliniczne lub farmakokliniczne, z których dostępne są ilościowe dane o bezpieczeństwie (uzyskane z Banku Danych Dokumentacji UCB w czerwcu 1997 roku) objęły ponad 3000 osób przyjmujących piracetam bez względu na wskazanie, postać leku, dawkę dobową czy charakterystykę populacji. Tabelaryczna lista reakcji niepożądanych Działania niepożądane opisywane w badaniach klinicznych i w okresie po wprowadzeniu leku do obrotu zestawiono w poniższej tabeli z uwzględnieniem klasyfikacji układowo-narządowej i częstości występowania. Częstość występowania zdefiniowano następująco: bardzo często (≥ 1/10); często (≥ 1/100 do < 1/10); niezbyt często (≥ 1/1 000 do < 1/100); rzadko (≥ 1/10 000 do < 1/1 000); bardzo rzadko (< 1/10 000). Dane z okresu po wprowadzeniu leku do obrotu są niewystarczające do oszacowania częstości występowania reakcji niepożądanych w populacji docelowej. Klasa układowo-narządowa Niezbyt O nieznanej częstości Częste (MedRA) częste występowania Zaburzenia krwi i układu Zaburzenia krwotoczne limfatycznego Zaburzenia układu Reakcja anafilaktoidalna, immunologicznego nadwrażliwość Pobudzenie, lęk, Zaburzenia psychiczne Nerwowość Depresja splątanie, halucynacje Ataksja, zaburzenia Hiperkinezja równowagi, zaostrzenie Zaburzenia układu nerwowego Senność padaczki, bóle głowy, bezsenność Zaburzenia ucha i błędnika Zawroty głowy Bóle brzucha, bóle w Zaburzenia żołądka i jelit nadbrzuszu, biegunka, nudności, wymioty Obrzęk Zaburzenia skóry i tkanki naczynioruchowy, podskórnej zapalenie skóry, świąd skóry, pokrzywka Zaburzenia ogólne i stany w Osłabienie miejscu podania Badania diagnostyczne Zwiększenie masy ciała Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Po podaniu doustnym piracetam jest szybko wchłaniany w postaci niezmienionej. Biodostępność wynosi niemal 100%. Zażywanie leku podczas posiłku nie wpływa na jego wchłanianie, choć wartości Cmax zmniejszają się, a wartości tmax zwiększają. Dystrybucja Maksymalne stężenie w osoczu osiągane jest w ciągu 30-60 minut po podaniu doustnym, a maksymalne stężenie w płynie mózgowo-rdzeniowym obserwuje się po 2-8 godzinach od przyjęcia leku. Metabolizm Okres półtrwania piracetamu w osoczu wynosi 4-5 godzin, a w płynie mózgowo-rdzeniowym 6-8 godzin. Lek w ok. 15% wiąże się z białkami osocza. Piracetam kumuluje się w korze mózgowej, korze móżdżku, jądrze ogoniastym, hipokampie, ciałach kolankowatych bocznych oraz splocie naczyniówkowym. Eliminacja Piracetam jest wydalany z moczem w postaci niezmienionej. Po podaniu pojedynczej dawki 90-100% leku jest usuwane z organizmu w ciągu 24-30 godzin. Piracetam przenika przez barierę krew-mózg, przez łożysko (u płodu stężenie sięga 70-90% stężenia obserwowanego u matki) i jest wydzielany do mleka matki. Piracetam można usunąć przy użyciu dializy (efektywność procesu wynosi 50-60%). Liniowość/nieliniowość W zakresie dawek od 0,8 do 12 g farmakokinetyka piracetamu jest liniowa."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "9e1b6cb8baccaf2e63e187640f97447b126c30fe2c62b9ec314871c0b3f57a15",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10289/characteristic",
+   "zrodlo_pliku": "chpl_10289.pdf"
+  },
+  {
+   "DROGA": [
+    "INFUZJA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06BX03"
+    ],
+    "nazwa_powszechna": [
+     "Piracetamum"
+    ],
+    "postac": [
+     "Roztwór do infuzji"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "12 g/60 ml",
+   "nazwa": "Memotropil 20%",
+   "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
+   "postac": "Roztwór do infuzji",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Leczenie mioklonii pochodzenia korowego.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Produkt leczniczy należy podawać w zalecanej dawce w infuzji ciągłej przez 24 godziny. Dawkowanie Leczenie mioklonii pochodzenia korowego Początkowo podaje się 7,2 g piracetamu na dobę. W razie potrzeby dawkę zwiększa się co 3-4 dni o 4,8 g piracetamu na dobę, aż do dawki maksymalnej wynoszącej 24 g na dobę. W leczeniu skojarzonym z innymi lekami przeciwdrgawkowymi, dawki innych leków powinny być utrzymywane w zalecanych dawkach terapeutycznych. Jeżeli uzyska się poprawę kliniczną, dawki innych leków powinny być zmniejszone, jeśli to możliwe. Leczenie piracetamem powinno być kontynuowane tak długo, jak długo utrzymuje się pierwotna choroba mózgu. U pacjentów z ostrym epizodem może dojść do spontanicznej zmiany objawów, w związku z czym co 6 miesięcy należy podejmować próbę zmniejszenia dawki lub odstawienia produktu leczniczego. W tym celu dawkę piracetamu należy zmniejszać o 1,2 g co dwa dni (co 3-4 dni w przypadku zespołu Lance i Adamsa, by zapobiec nagłemu nawrotowi choroby). Dawkowanie u pacjentów w podeszłym wieku Zaleca się modyfikację dawkowania u pacjentów w podeszłym wieku z zaburzeniami czynności nerek (patrz „Dawkowanie u pacjentów z zaburzeniami czynności nerek”). U pacjentów w podeszłym wieku leczonych długotrwale piracetamem niezbędne jest regularne oznaczanie klirensu kreatyniny i ewentualna modyfikacja dawki. Dawkowanie u pacjentów z zaburzeniami czynności nerek Dawkę dobową należy dostosować indywidualnie w zależności od czynności nerek. Należy zapoznać się z poniższą tabelą i dostosować dawkę według przedstawionych danych. Aby korzystać z tabeli należy oznaczyć u pacjenta klirens kreatyniny (CLkr) w ml/min. Klirens w ml/min można obliczyć na podstawie stężenia kreatyniny w surowicy (mg/dl) za pomocą poniższego wzoru: [140 - wiek (lata)] x masa ciała (kg) _______________________________________________________ CLkr (ml/min) = (x 0,85 dla kobiet) 72 x stężenie kreatyniny w surowicy (mg/dl) Czynność nerek Klirens kreatyniny Dawkowanie wraz z częstością (ml/min) Norma >80 zazwyczaj stosowana dawka dobowa Łagodne zaburzenie 50-79 2/3 zazwyczaj stosowanej dawki czynności dobowej Umiarkowane 30-49 1/3 zazwyczaj stosowanej dawki zaburzenie czynności dobowej Ciężkie zaburzenie <30 1/6 zazwyczaj stosowanej dawki czynności dobowej Schyłkowa niewydolność -- stosowanie przeciwwskazane nerek Dawkowanie u pacjentów z zaburzeniami czynności wątroby Nie ma konieczności modyfikowania dawkowania u pacjentów wyłącznie z zaburzeniami czynności wątroby. U pacjentów z zaburzeniami czynności wątroby i zaburzeniami czynności nerek zalecane jest dostosowanie dawkowania według tabeli dla pacjentów z zaburzeniami czynności nerek. Podanie pozajelitowe Piracetam należy przyjmować doustnie; jeśli wymagane jest podanie pozajelitowe (np. w przypadku trudności z połykaniem, utraty przytomności) piracetam może być podany dożylnie zgodnie z zalecanym dawkowaniem. Wlew należy podawać w infuzji 24-godzinnej zgodnie z zalecaną dawką dobową. Leczenie można kontynuować przy użyciu piracetamu w postaci tabletek.",
+    "4.3": "4.3 Przeciwwskazania • Nadwrażliwość na substancję czynną, inne pochodne pirolidonu lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1 • Schyłkowa niewydolność nerek (nerkowy klirens kreatyniny mniejszy niż 20 ml/min) • Krwawienie śródmózgowe • Pląsawica Huntingtona",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Produkt leczniczy Memotropil 20% należy stosować ostrożnie: − u pacjentów z zaburzeniami czynności nerek, ponieważ piracetam jest wydalany głównie przez nerki w postaci niezmienionej (patrz punkt 4.2); − u pacjentów z ciężkim krwotokiem, u pacjentów z ryzykiem wystąpienia krwawienia (jak u pacjentów z owrzodzeniem przewodu pokarmowego), u pacjentów z zaburzeniami hemostazy, u pacjentów po krwotoku mózgowo-naczyniowym, u pacjentów poddawanych ciężkim zabiegom chirurgicznym (w tym zabiegom stomatologicznym) oraz u pacjentów przyjmujących antykoagulanty lub leki antyagregacyjne (w tym kwas acetylosalicylowy stosowany w małych dawkach) ze względu na wpływ piracetamu na agregację płytek krwi (patrz punkt 5.1); − u pacjentów w podeszłym wieku w przypadku długotrwałego leczenia wymagana jest regularna ocena klirensu kreatyniny, aby w razie potrzeby umożliwić dostosowanie dawki (patrz punkt 4.2). Przerwanie przyjmowania produktu leczniczego Należy unikać nagłego przerywania leczenia piracetamem u pacjentów z mioklonią, ponieważ może wywołać to nawrót choroby lub napad drgawek. Produkt leczniczy zawiera sód Produkt leczniczy zawiera 0,25 mg sodu w 1 ml roztworu. Pojemnik 60 ml zawiera 15 mg sodu co odpowiada 0,75% zalecanej przez WHO maksymalnej 2 g dobowej dawki sodu u osób dorosłych.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Hormony tarczycy Zanotowano przypadki splątania, drażliwości i bezsenności podczas stosowania leku równocześnie z produktem tarczycy (T3 +T4). Acenokumarol Zgodnie z wynikami opublikowanego badania w metodologii pojedynczo ślepej próby z udziałem pacjentów z ciężką nawracającą zakrzepicą żylną piracetam w dawce 9,6 g na dobę nie miał wpływu na wielkość dawki acenokumarolu potrzebnej do utrzymania wskaźnika INR na poziomie 2,5-3,5, jednak dodanie piracetamu w dawce 9,6 g na dobę (w porównaniu z efektami stosowania samego tylko acenokumarolu) prowadziło do istotnego zmniejszenia agregacji płytek, zmniejszenia uwalniania ß-tromboglobuliny, stężenia fibrynogenu i czynników von Willebranda (VIII : C; VIII : vW : Ag; VIII : vW : RCo) oraz zmniejszenia lepkości krwi pełnej i osocza. Interakcje farmakokinetyczne Nie należy oczekiwać znacznych zmian farmakokinetyki piracetamu pod wpływem innych leków, gdyż około 90% dawki piracetamu wydala się z moczem w postaci niezmienionej. W badaniach in vitro piracetam w stężeniu 142, 426 i 1422 µg/ml nie hamuje izoform CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 i 4A9/11 ludzkiego cytochromu P450. Obserwowano słabe działanie hamujące piracetamu w stężeniu 1422 μg/ml na izoformy CYP 2A6 (21%) i 3A4/5 (11%). Jest jednak prawdopodobne, że wartości Ki hamowania tych dwóch izoform przez piracetam są o wiele większe niż 1422 μg/ml. Z tego względu prawdopodobieństwo wystąpienia zaburzeń metabolizmu innych leków pod wpływem piracetamu jest niewielkie. Leki przeciwpadaczkowe Piracetam w dawce dobowej 20 g podawany przez 4 tygodnie nie zmieniał wartości największego ani najmniejszego stężenia w surowicy leków przeciwpadaczkowych (karbamazepiny, fenytoiny, fenobarbitalu, kwasu walproinowego) u chorych na padaczkę otrzymujących stałe dawki tych leków. Alkohol Równoczesne podawanie alkoholu nie miało wpływu na stężenie piracetamu w surowicy. Podanie dawki 1,6 g piracetamu doustnie nie wpływało na stężenie alkoholu.",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Ciąża Nie ma wystarczających danych dotyczących stosowania piracetamu u kobiet w ciąży. Badania na zwierzętach nie dostarczają dowodów na bezpośrednie lub pośrednie szkodliwe działanie piracetamu na ciążę, rozwój zarodka i płodu, przebieg porodu i rozwój po urodzeniu (patrz punkt 5.3). Piracetam przenika przez barierę łożyskową. Stężenie leku we krwi noworodków jest równe około 70-90% stężenia we krwi matki. Nie należy podawać piracetamu kobietom w ciąży, chyba że jest to konieczne a korzyści przewyższają ryzyko wynikające ze stosowania piracetamu lub stan kliniczny pacjentki wymaga leczenia piracetamem. Karmienie piersią Piracetam przenika do mleka kobiet karmiących. Z tego względu należy unikać stosowania piracetamu w okresie karmienia piersią lub zaprzestać karmienia piersią podczas leczenia piracetamem. Należy podjąć decyzję, czy przerwać karmienie piersią, czy przerwać terapię piracetamem, biorąc pod uwagę korzyści wynikające z karmienia piersią dla dziecka i korzyści wynikające z leczenia piracetamem dla kobiety.",
+    "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa Kliniczne lub farmakokliniczne badania kontrolowane placebo z podwójnie ślepą próbą, których ilościowe dane dotyczące bezpieczeństwa są dostępne (wyodrębnione z dokumentacji UCB Documentation Data Bank na miesiąc czerwiec 1997), obejmowały ponad 3000 pacjentów otrzymujących piracetam, niezależnie od wskazania, postaci, dawki dobowej czy charakterystyki populacji. Lista działań niepożądanych Działania niepożądane zgłaszane w badaniach klinicznych oraz po wprowadzeniu do obrotu są wymienione poniżej zgodnie z obowiązującą klasyfikacją układów i narządów MedDRA oraz częstością ich występowania. Działania niepożądane zostały sklasyfikowane według następującej częstości występowania: bardzo często ( ≥1/10), często (≥1/100 do < 1/10); niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (nie może być określona na podstawie dostępnych danych). Dane uzyskane po wprowadzeniu produktu leczniczego do obrotu są niewystarczające żeby jednoznacznie oszacować częstość występowania działań niepożądanych w leczonej populacji. Klasyfikacja Bardzo Często Niezbyt Rzadko Bardz Częstość układów często (≥1/100 często (≥1/10 000 do o nieznana (nie i narządów (≥1/10) do <1/10) (≥1/1 <1/1 000) rzadko może być 000 do (<1/10 określona na <1/100) 000) podstawie dostępnych danych) Zaburzenia krwi i zaburzenia układu chłonnego krwotoczne Zaburzenia reakcje układu anafilaktoidalne, immunologicznego nadwrażliwość Zaburzenia nerwowoś depresja pobudzenie, lęk, psychiczne ć splątanie, omamy Zaburzenia hiperkine senność ataksja, układu zja zaburzenia nerwowego równowagi, nasilająca się padaczka, bóle głowy, bezsenność Zaburzenia ucha i zawroty głowy błędnika Zaburzenia zakrzepowe naczyniowe zapalenie żył, hipotensja Zaburzenia bóle w obrębie żołądka i jelit jamy brzusznej, bóle w nadbrzuszu, biegunka, nudności, wymioty Zaburzenia skóry obrzęk i tkanki naczynioruchowy, podskórnej zapalenie skóry, świąd, pokrzywka Zaburzenia ogólne astenia ból w miejscu i stany w miejscu wstrzyknięcia, podania gorączka Badania wzrost diagnostyczne masy ciała Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne Dystrybucja Piracetam nie wiąże się z białkami osocza. Objętość dystrybucji wynosi około 0,6 l/kg. Piracetam przenika przez barierę krew-mózg, czego dowodem jest wykrywanie leku w płynie mózgowo-rdzeniowym po podaniu dożylnym. Wskaźnik tmax dla płynu mózgowo-rdzeniowego wynosił około 5 godzin, a okres półtrwania około 8,5 godziny. U zwierząt największe stężenia piracetamu w mózgu stwierdzano w korze mózgu (w płacie czołowym, ciemieniowym i potylicznym), w korze móżdżku i zwojach podstawy mózgu. Piracetam przenika do wszystkich tkanek z wyjątkiem tkanki tłuszczowej, przenika przez barierę łożyskową i przez błony komórkowe izolowanych erytrocytów. Metabolizm Piracetam nie ulega przemianie w ustroju. Dowodami potwierdzającymi brak metabolizmu jest znacznie wydłużony okres półtrwania w osoczu u pacjentów z bezmoczem i fakt wykrywania większości przyjętej dawki piracetamu w moczu. Eliminacja Okres półtrwania t0,5 piracetamu wynosi około 5 godzin. Okres półtrwania zwiększa się u osób w podeszłym wieku (głównie z powodu zmniejszenia klirensu nerkowego) oraz u osób z zaburzeniami czynności nerek. Całkowity klirens ustrojowy wynosi 80-90 ml/min. Lek wydala się głównie z moczem (80-100% dawki). Wydalanie odbywa się w procesie przesączania kłębuszkowego."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "3675289f98ab0cf234a1499b88595762b8cc253827ea73cfa54b9274a6a2c270",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10390/characteristic",
+   "zrodlo_pliku": "chpl_10390.pdf"
+  },
+  {
+   "DROGA": [
+    "INIEKCJA"
+   ],
+   "EKSPOZYCJA": {
+    "alarm": "KADENCJA_CHPL_4.2",
+    "ekspozycja": "KROTKA",
+    "zrodlo": "DOMYSLNIE_KROTKA_ALARM_KADENCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06BX03"
+    ],
+    "nazwa_powszechna": [
+     "Piracetamum"
+    ],
+    "postac": [
+     "Roztwór do wstrzykiwań"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "200 mg/ml (1g/5 ml)",
+   "nazwa": "Memotropil 20%",
+   "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
+   "postac": "Roztwór do wstrzykiwań",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Memotropil 20% jest wskazany w leczeniu mioklonii pochodzenia korowego.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Produkt leczniczy należy podawać dożylnie w zalecanej dawce, we wstrzyknięciu trwającym kilka minut. Dawkowanie W mioklonii pochodzenia korowego Początkowo przyjmuje się 7,2 g piracetamu na dobę. W razie potrzeby dawkę zwiększa się co 3 lub 4 dni o 4,8 g piracetamu na dobę, aż do dawki maksymalnej wynoszącej 24 g na dobę. Produkt leczniczy powinien być podawany w dawkach podzielonych 2 lub 3 razy na dobę. W leczeniu skojarzonym z innymi produktami leczniczymi przeciwdrgawkowymi, dawki innych produktów leczniczych powinny być utrzymywane w zalecanych dawkach terapeutycznych. Jeżeli uzyska się poprawę kliniczną, dawki innych produktów leczniczych powinny być zmniejszone, jeśli to możliwe. Leczenie piracetamem powinno być kontynuowane tak długo, jak długo utrzymuje się pierwotna choroba mózgu. U pacjentów z ostrym epizodem może dojść do spontanicznej zmiany objawów, w związku z czym co 6 miesięcy należy podejmować próbę zmniejszenia dawki lub odstawienia produktu leczniczego. W tym celu dawkę piracetamu należy zmniejszać o 1,2 g co dwa dni (co 3 lub 4 dni w przypadku zespołu Lance i Adamsa, by zapobiec nagłemu nawrotowi choroby lub drgawkom wynikającym z odstawienia). Dawkowanie u pacjentów w podeszłym wieku Zaleca się modyfikację dawkowania u pacjentów w podeszłym wieku z zaburzeniami czynności nerek (patrz „Dawkowanie u pacjentów z zaburzeniami czynności nerek”). U pacjentów w podeszłym wieku leczonych długotrwale piracetamem niezbędne jest regularne oznaczanie klirensu kreatyniny i ewentualna modyfikacja dawki. Dawkowanie u pacjentów z zaburzeniami czynności nerek Dawkę dobową należy dostosować indywidualnie w zależności od czynności nerek. Należy zapoznać się z poniższą tabelą i dostosować dawkę według przedstawionych danych. Aby korzystać z tabeli należy oznaczyć u pacjenta klirens kreatyniny (CLkr) w ml/min. Klirens w ml/min można obliczyć na podstawie stężenia kreatyniny w surowicy (mg/dl) za pomocą poniższego wzoru: [140 - wiek (lata)] x masa ciała (kg) _______________________________________________________ CLkr (ml/min) = (x 0,85 dla kobiet) 72 x stężenie kreatyniny w surowicy (mg/dl) Czynność nerek Klirens kreatyniny Dawkowanie wraz z częstością (ml/min) Norma >80 zazwyczaj stosowana dawka dobowa, w dwóch do czterech dawkach podzielonych Łagodne zaburzenie 50-79 2/3 zazwyczaj stosowanej dawki czynności dobowej, w dwóch lub trzech dawkach podzielonych Umiarkowane 30-49 1/3 zazwyczaj stosowanej dawki zaburzenie czynności dobowej, w dwóch dawkach podzielonych Ciężkie zaburzenie <30 1/6 zazwyczaj stosowanej dawki czynności dobowej, raz dziennie Schyłkowa niewydolność -- stosowanie przeciwwskazane nerek Dawkowanie u pacjentów z zaburzeniami czynności wątroby Nie ma konieczności modyfikowania dawkowania u pacjentów wyłącznie z zaburzeniami czynności wątroby. U pacjentów z zaburzeniami czynności wątroby i zaburzeniami czynności nerek, zalecane jest dostosowanie dawkowania według tabeli dla pacjentów z zaburzeniami czynności nerek. Podanie pozajelitowe Piracetam należy przyjmować doustnie, jeśli wymagane jest podanie pozajelitowe (np. w przypadku trudności z połykaniem, utraty przytomności) piracetam może być podany dożylnie zgodnie z zalecanym dawkowaniem. Objętość ampułki należy podawać w ciągu kilku minut.",
+    "4.3": "4.3 Przeciwwskazania Nadwrażliwość na piracetam, inne pochodne pirolidonu lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1 Schyłkowa niewydolność nerek (nerkowy klirens kreatyniny mniejszy niż 20 ml/min) Krwawienie śródmózgowe Pobudzenie psychoruchowe znacznego stopnia. Pląsawica Huntingtona",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Produkt leczniczy Memotropil 20% należy stosować ostrożnie: − u pacjentów z zaburzeniami czynności nerek, ponieważ produkt leczniczy jest wydalany głównie przez nerki w postaci niezmienionej (patrz punkt 4.2); − u pacjentów z ciężkim krwotokiem, u pacjentów z ryzykiem wystąpienia krwawienia (jak u pacjentów z owrzodzeniem przewodu pokarmowego), u pacjentów z zaburzeniami hemostazy, u pacjentów po krwotoku mózgowo-naczyniowym, u pacjentów poddawanych ciężkim zabiegom chirurgicznym (w tym zabiegom stomatologicznym) oraz u pacjentów przyjmujących antykoagulanty lub produkty lecznicze antyagregacyjne (w tym kwas acetylosalicylowy stosowany w małych dawkach) ze względu na wpływ piracetamu na agregację płytek krwi (patrz punkt 5.1); − u pacjentów w podeszłym wieku w przypadku długotrwałego leczenia, wymagana jest regularna ocena klirensu kreatyniny, aby w razie potrzeby umożliwić dostosowanie dawki (patrz punkt 4.2); − u pacjentów z bardzo niskim ciśnieniem tętniczym krwi. Przerwanie przyjmowania produktu leczniczego Należy unikać nagłego przerywania leczenia piracetamem u pacjentów z mioklonią, ponieważ może wywołać to nawrót choroby lub napad drgawek. Produkt leczniczy zawiera sód Produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu na ampułkę, to znaczy produkt leczniczy uznaje się za „wolny od sodu”.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Piracetam może nasilać działanie leków pobudzających ośrodkowy układ nerwowy. Piracetam może wykazywać nieswoiste interakcje z neuroleptykami. Produkt leczniczy może nasilać działanie hormonów tarczycy; opisano przypadki wystąpienia objawów niepożądanych w postaci dezorientacji, rozdrażnienia i zaburzeń snu podczas stosowania piracetamu i hormonów tarczycy (T3, T4). Acenokumarol Zgodnie z wynikami opublikowanego badania w metodologii pojedynczo ślepej próby z udziałem pacjentów z ciężką nawracającą zakrzepicą żylną piracetam w dawce 9,6 g na dobę nie miał wpływu na wielkość dawki acenokumarolu potrzebnej do utrzymania wskaźnika INR na poziomie 2,5-3,5, jednak dodanie piracetamu w dawce 9,6 g na dobę (w porównaniu z efektami stosowania samego tylko acenokumarolu), prowadziło do istotnego zmniejszenia agregacji płytek, zmniejszenia uwalniania ß-tromboglobuliny, stężenia fibrynogenu i czynników von Willebranda (VIII : C; VIII : vW : Ag; VIII : vW : RCo) oraz zmniejszenia lepkości krwi pełnej i osocza. Interakcje farmakokinetyczne Nie należy oczekiwać znacznych zmian farmakokinetyki piracetamu pod wpływem innych produktów leczniczych, gdyż około 90% dawki piracetamu wydala się z moczem w postaci niezmienionej. W badaniach in vitro piracetam w stężeniu 142, 426 i 1422 µg/ml nie hamuje izoform CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 i 4A9/11 ludzkiego cytochromu P450. Obserwowano słabe działanie hamujące piracetamu w stężeniu 1422 µg/ml na izoformy CYP 2A6 (21%) i 3A4/5 (11%). Jest jednak prawdopodobne, że wartości Ki hamowania tych dwóch izoform przez piracetam są o wiele większe niż 1422 µg/ml. Z tego względu prawdopodobieństwo wystąpienia zaburzeń metabolizmu innych produktów leczniczych pod wpływem piracetamu jest niewielkie. Produkty lecznicze przeciwpadaczkowe Piracetam w dawce dobowej 20 g podawany przez 4 tygodnie nie zmieniał wartości największego ani najmniejszego stężenia w surowicy produktów leczniczych przeciwpadaczkowych (karbamazepiny, fenytoiny, fenobarbitalu, kwasu walproinowego) u chorych na padaczkę otrzymujących stałe dawki tych produktów leczniczych. Alkohol Równoczesne podawanie alkoholu nie miało wpływu na stężenie piracetamu w surowicy. Podanie dawki 1,6 g piracetamu doustnie nie wpływało na stężenie alkoholu.",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Ciąża Nie ma wystarczających danych dotyczących stosowania piracetamu u kobiet w ciąży. Piracetam podawany królikom, szczurom i myszom nie działał teratogennie, ani też nie wpływał na płodność. Badania na zwierzętach nie dostarczają dowodów na bezpośrednie lub pośrednie szkodliwe działanie piracetamu na ciążę, rozwój zarodka i płodu, przebieg porodu i rozwój po urodzeniu (patrz punkt 5.3). Piracetam przenika przez barierę łożyskową. Stężenie produktu leczniczego we krwi noworodków jest równe około 70-90% stężenia we krwi matki. Nie należy podawać piracetamu kobietom w ciąży, chyba że jest to konieczne a korzyści przewyższają ryzyko wynikające ze stosowania piracetamu lub stan kliniczny pacjentki wymaga leczenia piracetamem. Karmienie piersią Piracetam przenika do mleka kobiet karmiących. Z uwagi na ryzyko wystąpienia działań niepożądanych u karmionych niemowląt, należy zaniechać karmienia piersią w czasie przyjmowania produktu leczniczego lub unikać stosowania piracetamu w okresie karmienia piersią. Należy podjąć decyzję, czy przerwać karmienie piersią, czy przerwać terapię piracetamem, biorąc pod uwagę korzyści wynikające z karmienia piersią dla dziecka i korzyści wynikające z leczenia piracetamem dla kobiety.",
+    "4.8": "4.8 Działania niepożądane Podsumowanie profilu bezpieczeństwa Kliniczne lub farmakokliniczne badania kontrolowane placebo z podwójnie ślepą próbą, których ilościowe dane dotyczące bezpieczeństwa są dostępne (wyodrębnione z dokumentacji UCB Documentation Data Bank na miesiąc czerwiec 1997), obejmowały ponad 3000 pacjentów otrzymujących piracetam, niezależnie od wskazania, postaci, dawki dobowej czy charakterystyki populacji. Lista działań niepożądanych Działania niepożądane zgłaszane w badaniach klinicznych oraz po wprowadzeniu do obrotu są wymienione poniżej zgodnie z obowiązującą klasyfikacją układów i narządów MedDRA oraz częstością ich występowania. Działania niepożądane zostały sklasyfikowane według następującej częstości występowania: bardzo często (≥1/10), często (≥1/100 do <1/10), niezbyt często (≥1/1 000 do <1/100), rzadko (≥1/10 000 do <1/1 000), bardzo rzadko (<1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). Dane uzyskane po wprowadzeniu produktu leczniczego do obrotu są niewystarczające żeby jednoznacznie oszacować częstość występowania działań niepożądanych w leczonej populacji. Klasyfikacja Bardzo Często Niezbyt Rzadko Bardzo Częstość układów często (≥1/100 do często (≥1/10 rzadko nieznana (nie i narządów (≥1/10) <1/10) (≥1/1 000 000 do (<1/10 może być do <1/1 000) 000) określona na <1/100) podstawie dostępnych danych) Zaburzenia krwi i zaburzenia układu chłonnego krwotoczne Zaburzenia reakcje układu anafilaktoidalne, immunologicznego nadwrażliwość Zaburzenia nerwowość depresja pobudzenie, lęk, psychiczne splątanie, omamy Zaburzenia hiperkinezja senność ataksja, układu nerwowego zaburzenia równowagi, nasilająca się padaczka, bóle głowy, bezsenność Zaburzenia ucha i zawroty głowy błędnika Zaburzenia zakrzepo naczyniowe we zapalenie żył, hipotensja Zaburzenia bóle w obrębie żołądka i jelit jamy brzusznej, bóle w nadbrzuszu, biegunka, nudności, wymioty Zaburzenia skóry i obrzęk tkanki podskórnej naczynioruchow y, zapalenie skóry, świąd, pokrzywka Zaburzenia ogólne astenia ból w i stany w miejscu miejscu podania wstrzykni ęcia, gorączka Badania wzrost masy diagnostyczne ciała Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych Al. Jerozolimskie 181C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne Dystrybucja Piracetam nie wiąże się z białkami osocza. Objętość dystrybucji wynosi około 0,6 l/kg. Piracetam przenika przez barierę krew-mózg, czego dowodem jest wykrywanie produktu leczniczego w płynie mózgowo-rdzeniowym po podaniu dożylnym. Wskaźnik tmax dla płynu mózgowo-rdzeniowego wynosił około 5 godzin, a okres półtrwania około 8,5 godziny. U zwierząt największe stężenia piracetamu w mózgu stwierdzano w korze mózgu (w płacie czołowym, ciemieniowym i potylicznym), w korze móżdżku i zwojach podstawy mózgu. Piracetam przenika do wszystkich tkanek z wyjątkiem tkanki tłuszczowej, przenika przez barierę łożyskową i przez błony komórkowe izolowanych erytrocytów. Metabolizm Piracetam nie ulega przemianie w ustroju. Dowodami potwierdzającymi brak metabolizmu jest znacznie wydłużony okres półtrwania w osoczu u pacjentów z bezmoczem i fakt wykrywania większości przyjętej dawki piracetamu w moczu. Eliminacja Okres półtrwania t1/2piracetamu wynosi około 5 godzin. Okres półtrwania zwiększa się u osób w podeszłym wieku (głównie z powodu zmniejszenia klirensu nerkowego) oraz u osób z zaburzeniami czynności nerek. Całkowity klirens ustrojowy wynosi 80-90 ml/min. Produkt leczniczy wydala się głównie z moczem (80-100% dawki). Wydalanie odbywa się w procesie przesączania kłębuszkowego."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "743d7ff54583a8810084eb4b5f0a6c575321dc70981c986e8f716fab42d9b455",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22079/characteristic",
+   "zrodlo_pliku": "chpl_22079.pdf"
+  }
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "piracetam",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
+}

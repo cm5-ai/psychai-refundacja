@@ -14,16 +14,17 @@
    "C02AC02",
    "R06AD02",
    "N04",
-   "C07AA05"
+   "C07AA05",
+   "G02CB"
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2670,
-  "opakowania": 9799,
+  "produkty": 2696,
+  "opakowania": 9847,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1242,
   "opakowania_ze_statusem": {
-   "Skasowane": 393
+   "Skasowane": 394
   },
   "odczyt_kontrolny": 0,
   "komunikaty_produkty": 147,
@@ -273,6 +274,84 @@
      "pozwolenie_eu": null,
      "id_opakowania": "73475",
      "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100096540",
+   "nazwa": "Castagnus",
+   "nazwa_powszechna": "Agni casti fructus extractum siccum",
+   "substancja": "Agni casti fructi extractum siccum ethanolicum 45 mg",
+   "moc": "45 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB"
+   ],
+   "podmiot": "Wrocławskie Zakłady Zielarskie \"Herbapol\" S.A.",
+   "pozwolenie": "08269",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9654/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9654/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990826919",
+     "kategoria": "OTC",
+     "status": "Skasowane",
+     "pozwolenie_eu": null,
+     "id_opakowania": "16122",
+     "opis": "30 tabl. (1x30)",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990826926",
+     "kategoria": "OTC",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "16123",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100234953",
+   "nazwa": "Prefemin PMS",
+   "nazwa_powszechna": "Agni casti fructus extractum siccum",
+   "substancja": "Agni casti fructi extractum siccum ethanolicum (60% m/m (6-12:1) 20 mg",
+   "moc": "20 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "G02CB"
+   ],
+   "podmiot": "Sirowa Poland Sp. z o.o.",
+   "pozwolenie": "10640",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23495/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23495/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991064013",
+     "kategoria": "OTC",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "23281",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991064020",
+     "kategoria": "OTC",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "23282",
+     "opis": "90 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -22075,6 +22154,93 @@
    ]
   },
   {
+   "id": "100426196",
+   "nazwa": "Parlodel",
+   "nazwa_powszechna": "Bromocriptini mesylas",
+   "substancja": "Bromocriptini mesylas 2.5 mg",
+   "moc": "2,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB01"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "359/19",
+   "waznosc_pozwolenia": "2024-09-27",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991416003",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "134272",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100002042",
+   "nazwa": "Bromocorn",
+   "nazwa_powszechna": "Bromocriptinum",
+   "substancja": "Bromocriptini mesylas 2.87 mg",
+   "moc": "2,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB01"
+   ],
+   "podmiot": "Farmaceutyczna Spółdzielnia Pracy FILOFARM",
+   "pozwolenie": "02119",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/204/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/204/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990211913",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "2120",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100328884",
+   "nazwa": "Parlodel",
+   "nazwa_powszechna": "Bromocriptinum",
+   "substancja": "",
+   "moc": "2,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB01"
+   ],
+   "podmiot": "Pretium Farm Sp. z o.o.",
+   "pozwolenie": "315/14",
+   "waznosc_pozwolenia": "2024-09-30",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05902023771996",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "105156",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
    "id": "100239502",
    "nazwa": "Bunorfin",
    "nazwa_powszechna": "Buprenorphini hydrochloridum",
@@ -26573,6 +26739,757 @@
      "pozwolenie_eu": null,
      "id_opakowania": "135901",
      "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100094067",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Pfizer Europe MA EEIG",
+   "pozwolenie": "04863",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9406/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9406/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990486311",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "15563",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990486328",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "15564",
+     "opis": "4 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909990486335",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "15565",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100225061",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "49/10",
+   "waznosc_pozwolenia": "2030-03-17",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909997069531",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "71531",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909997069548",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "71532",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100264753",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "361/11",
+   "waznosc_pozwolenia": "2026-09-28",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909997200521",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "71979",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909997200538",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "71980",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100348190",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "397/15",
+   "waznosc_pozwolenia": "2030-07-08",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991228798",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "109320",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991228804",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "109321",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100385959",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "PharmaVitae Sp. z o.o. sp. k.",
+   "pozwolenie": "110/17",
+   "waznosc_pozwolenia": "2027-03-31",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991324728",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "121413",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991324735",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "121414",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100401747",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "67/18",
+   "waznosc_pozwolenia": "2028-02-19",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991363352",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "126861",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991363369",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "126862",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100412308",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "kabergolina 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "316/18",
+   "waznosc_pozwolenia": "2028-11-06",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991386146",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "130051",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991386153",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "130052",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100419486",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Pretium Farm Sp. z o.o.",
+   "pozwolenie": "154/19",
+   "waznosc_pozwolenia": "2024-04-17",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05902023777745",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "132442",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05902023777752",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "132443",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100423430",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Pharmapoint SA",
+   "pozwolenie": "276/19",
+   "waznosc_pozwolenia": "2024-07-26",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991410896",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "133587",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991410902",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "133588",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100456136",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Medezin Sp. z o.o.",
+   "pozwolenie": "302/21",
+   "waznosc_pozwolenia": "2031-08-11",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991462239",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "141432",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991462246",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "141433",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100464552",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "97/22",
+   "waznosc_pozwolenia": "2027-02-21",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991477264",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "143866",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991477271",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "143867",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100468535",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Medezin Sp. z o.o.",
+   "pozwolenie": "203/22",
+   "waznosc_pozwolenia": "2027-05-11",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991483067",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "144967",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991483074",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "144968",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100474086",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "374/22",
+   "waznosc_pozwolenia": "2027-10-11",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991497774",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "147112",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991497781",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "147113",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100484786",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "129/23",
+   "waznosc_pozwolenia": "2028-06-30",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991517076",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "150498",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991517083",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "150499",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100492753",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Medezin Sp. z o.o.",
+   "pozwolenie": "038/24",
+   "waznosc_pozwolenia": "2029-01-25",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991530204",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "153036",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991530211",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "153037",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100495150",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "136/24",
+   "waznosc_pozwolenia": "2029-03-27",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991536695",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "153937",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991536701",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "153938",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100496120",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Medezin Sp. z o.o.",
+   "pozwolenie": "160/24",
+   "waznosc_pozwolenia": "2029-04-22",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991537586",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "154229",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991537593",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "154230",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100510790",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "Allpharm Sp. z o.o. sp.k.",
+   "pozwolenie": "002/25",
+   "waznosc_pozwolenia": "2030-01-09",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991562144",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "159695",
+     "opis": "8 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991562151",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "159696",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100362792",
+   "nazwa": "Dostinex",
+   "nazwa_powszechna": "Cabergolinum",
+   "substancja": "Cabergolinum 0.5 mg",
+   "moc": "0.5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB03"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "38/16",
+   "waznosc_pozwolenia": "2026-01-22",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991258382",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "113809",
+     "opis": "2 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991258399",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "113810",
+     "opis": "8 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -122819,6 +123736,64 @@
      "pozwolenie_eu": null,
      "id_opakowania": "86694",
      "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100048305",
+   "nazwa": "Norprolac",
+   "nazwa_powszechna": "Quinagolidum",
+   "substancja": "Quinagolidum 25 mcg",
+   "moc": "25 mcg; 50 mcg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB04"
+   ],
+   "podmiot": "Ferring GmbH",
+   "pozwolenie": "06809",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4830/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4830/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990680917",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "7212",
+     "opis": "3 tabl. 25 mcg 3 tabl. 50 mcg",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100048334",
+   "nazwa": "Norprolac",
+   "nazwa_powszechna": "Quinagolidum",
+   "substancja": "Quinagolidum 75 mcg",
+   "moc": "75 mcg",
+   "postac": "Tabletki",
+   "atc": [
+    "G02CB04"
+   ],
+   "podmiot": "Ferring GmbH",
+   "pozwolenie": "06811",
+   "waznosc_pozwolenia": "Bezterminowe",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4833/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4833/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909990681112",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "7214",
+     "opis": "30 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }

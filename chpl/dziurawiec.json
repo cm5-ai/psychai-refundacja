@@ -1,0 +1,146 @@
+{
+ "STATUS": "UTWORZONY_2026-09-24",
+ "pobrano": "2026-09-24",
+ "pobrano_n04": "2026-09-24",
+ "produkty": [
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06AX"
+    ],
+    "nazwa_powszechna": [
+     "Hyperici herbae extractum siccum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "612 mg",
+   "nazwa": "Depremin 612 mg",
+   "podmiot": "Zakłady Farmaceutyczne COLFARM S.A.",
+   "postac": "Tabletki powlekane",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Produkt leczniczy roślinny przeznaczony do krótkotrwałego leczenia objawów łagodnych zaburzeń depresyjnych.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Dorośli: jedna tabletka (co odpowiada 612 mg wyciągu) raz na dobę. Dzieci i młodzież Stosowanie u dzieci i młodzieży w wieku poniżej 18 lat nie jest zalecane (patrz punkt 4.4 \"Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania\"). Sposób podawania Podanie doustne. Czas stosowania 6 tygodni. Wystąpienia działania terapeutycznego można oczekiwać w ciągu 4 tygodni leczenia. Jeśli objawy utrzymują się w trakcie stosowania leku, należy poradzić się lekarza.",
+    "4.3": "4.3 Przeciwwskazania Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Jednoczesne stosowanie z lekami przeciwzakrzepowymi z grupy pochodnych kumaryny, cyklosporyną, ewerolimusem, sirolimusem, takrolimusem do użytku ogólnoustrojowego, fosamprenawirem, indynawirem i innymi inhibitorami proteazy, nukleozydowymi inhibitorami odwrotnej transkryptazy, irynotekanem, imatynibem i innymi cytostatykami metabolizowanymi przy udziale enzymów CYP3A4, CYP2B6, CYP2C9, CYP2C19 lub transportowanymi przez glikoproteinę P (patrz punkt 4.5 \"Interakcje z innymi lekami i inne rodzaje interakcji\").",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Podczas leczenia należy unikać intensywnej ekspozycji na promieniowanie UV (ultrafioletowe). Dzieci i młodzież Ponieważ brak dostępnych wystarczających danych, stosowanie u dzieci i młodzieży w wieku poniżej 18 lat nie jest zalecane. Ostrzeżenia dotyczące substancji pomocniczych Produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu na tabletkę, to znaczy lek uznaje się za „wolny od sodu”.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Pacjentom przyjmującym inne leki na receptę zaleca się konsultację z lekarzem lub farmaceutą przed podjęciem leczenia przetworami z ziela dziurawca. Interakcje farmakokinetyczne: Przetwory z ziela dziurawca indukują aktywność enzymów CYP3A4, CYP2B6, CYP2C9, CYP2C19 i glikoproteiny P. Przeciwwskazane jest równoczesne stosowanie leków przeciwzakrzepowych z grupy pochodnych kumaryny, cyklosporyny, ewerolimusu, sirolimusu, takrolimusu do stosowania ogólnego, fosamprenawiru, indynawiru i innych inhibitorów proteaz, nukleozydowych inhibitorów odwrotnej transkryptazy, irynotekanu, imatynibu i innych cytostatyków metabolizowanych przy udziale enzymów CYP3A4, CYP2B6, CYP2C9, CYP2C19 lub transportowanych przez glikoproteinę P (patrz punkt 4.3. \"Przeciwwskazania\"). Szczególną ostrożność należy zachować w przypadku jednoczesnego stosowania wszystkich substancji leczniczych, które metabolizowane są z udziałem enzymów CYP3A4, CYP2B6, CYP2C9, CYP2C19 lub glikoproteiny P (np, amitryptylina, feksofenadyna, alprazolam, diazepam, midazolam, metadon, symwastatyny, digoksyna, finasteryd), ponieważ jest możliwe zmniejszanie ich stężenia w osoczu. Zmniejszenie stężenia w osoczu środków antykoncepcyjnych może prowadzić do wystąpienia krwawienia międzymiesiączkowego oraz osłabić skuteczność antykoncepcji hormonalnej. Kobiety stosujące hormonalne środki antykoncepcyjne powinny zastosować dodatkowe środki antykoncepcyjne. Przed planowaną operacją należy rozważyć możliwość interakcji z produktami leczniczymi stosowanymi do znieczulenia ogólnego i miejscowego. W razie konieczności należy odstawić lek zawierający wyciąg z ziela dziurawca. Zwiększona aktywność enzymów powraca do normy w ciągu 1 tygodnia po zakończeniu stosowania leku zawiewającego wyciąg z ziela dziurawca. Interakcje farmakodynamiczne: Wyciąg z ziela dziurawca może przyczynić się do nasilenia działań serotoninergicznych, jeżeli jest stosowany w połączeniu z lekami przeciwdepresyjnymi, takimi jak inhibitory wychwytu zwrotnego serotoniny (np. sertralina, paroksetyna) lub buspiron. Bardzo rzadko, w przypadku jednoczesnego stosowania z inhibitorami wychwytu zwrotnego serotoniny lub innymi substancjami czynnymi o działaniu serotoninergicznym, mogą wystąpić działania niepożądane (zespół serotoninowy), którym towarzyszą zaburzenia czynności układu autonomicznego (takie jak pocenie się, tachykardia, biegunka, gorączka), zmiany psychiczne (takie jak pobudzenie, dezorientacja) i zmiany motoryczne (takie jak drżenie lub mioklonie).",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Ciąża i (lub) karmienie piersią Bezpieczeństwo stosowania w okresie ciąży i karmienia piersią nie zostało potwierdzone. Badania na zwierzętach wykazały oznaki szkodliwego wpływu na reprodukcję (patrz punkt 5.3 „Przedkliniczne dane o bezpieczeństwie”). Stosowanie w okresie ciąży i karmienia piersią nie jest zalecane. Płodność Brak dostępnych danych.",
+    "4.8": "4.8 Działania niepożądane Mogą wystąpić zaburzenia żołądkowo-jelitowe (takie jak nudności, bóle brzucha i biegunka), alergiczne reakcje skórne, zmęczenie i niepokój. Częstotliwość ich nie jest znana. W trakcie intensywnego nasłonecznienia, u osób o jasnej karnacji mogą wystąpić objawy dyzestezji (np. mrowienie, wrażliwość na zimno lub ból, uczucie pieczenia) oraz nasilone objawy, w tym takie jak dla oparzenia słonecznego. W przypadku wystąpienia innych działań niepożądanych, niewymienionych powyżej, należy skonsultować się z lekarzem lub farmaceutą. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, Tel.: + 48 22 49 21 301, Faks.: +48 22 49 21 309, Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne Czas do osiągnięcia maksymalnego stężenia hiperycyny w osoczu (Tmax) wynosi 4-12 godzin a okres półtrwania w fazie eliminacji (T½) wynosi około 19-36 godzin. Maksymalne stężenie hyperforyny jest osiągane (Tmax) po około 3-4 godzinach od podania, a okres półtrwania w fazie eliminacji (T½) wynosi około 15-63 godzin. Hyperforyna może przenikać barierę krew-mózg. Hyperforyna indukuje aktywność enzymów metabolizujących CYP3A4, CYP2B6, CYP2C9, CYP2C19 i glikoproteiny P w sposób dawko-zależny poprzez aktywację systemu PXR. W związku z tym eliminacja innych substancji leczniczych może być przyspieszona, powodując zmniejszenie ich stężenia w osoczu."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "76dd97ebe621bba9f928bc3f740684d3a52459576d055c221b6378db62e54405",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39764/characteristic",
+   "zrodlo_pliku": "chpl_39764.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06AX"
+    ],
+    "nazwa_powszechna": [
+     "Hyperici herbae extractum siccum"
+    ],
+    "postac": [
+     "Tabletki powlekane"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "612 mg",
+   "nazwa": "HYPERIS",
+   "podmiot": "Zakłady Farmaceutyczne COLFARM S.A.",
+   "postac": "Tabletki powlekane",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Produkt leczniczy roślinny przeznaczony do krótkotrwałego leczenia objawów łagodnych zaburzeń depresyjnych.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie Jedna tabletka (612 mg), raz na dobę. Dzieci i młodzież Stosowanie u dzieci i młodzieży w wieku poniżej 18 lat nie jest zalecane (patrz punkt 4.4 \"Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania\"). Sposób podawania Podanie doustne. Czas stosowania 6 tygodni Wystąpienia działania terapeutycznego można oczekiwać w ciągu 4 tygodni leczenia. Jeśli objawy utrzymują się w trakcie stosowania leku, należy poradzić się lekarza.",
+    "4.3": "4.3 Przeciwwskazania Nadwrażliwość na substancję czynną lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Jednoczesne stosowanie z cyklosporyną, takrolimusem do użytku ogólnoustrojowego, amprenawirem, indynawirem i innymi inhibitorami proteazy, irinotekanem i warfaryną (patrz punkt 4.5 \"Interakcje z innymi lekami i inne rodzaje interakcji\").",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Podczas leczenia należy unikać ekspozycji na intensywne promieniowanie UV (ultrafioletowe). Dzieci i młodzież Ponieważ brak dostępnych wystarczających danych, stosowanie u dzieci i młodzieży w wieku poniżej 18 lat nie jest zalecane.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Wyciąg z dziurawca indukuje aktywność enzymów CYP3A4, CYP2C9, CYP2C19 i P-glikoproteiny. Równoczesne stosowanie cyklosporyny, takrolimusu do stosowania ogólnego, amprenawiru, indynawiru i innych inhibitorów proteaz, irinotekanu i warfaryny jest przeciwwskazane (patrz punkt 4.3. \"Przeciwwskazania\"). Szczególną ostrożność należy zachować w przypadku jednoczesnego stosowania leków, które metabolizowane są z udziałem enzymów CYP3A4, CYP2C9, CYP2C19 lub glikoproteiny P (np, amitryptylina, feksofenadyna, benzodiazepiny, metadon, symwastatyny, digoksyna, finasteryd), ponieważ jest możliwe zmniejszanie ich stężenia w osoczu. Zmniejszenie stężenia w osoczu doustnych środków antykoncepcyjnych może prowadzić do wystąpienia krwawienia międzymiesiączkowego oraz osłabić skuteczność antykoncepcji hormonalnej. Kobiety stosujące doustne hormonalne środki antykoncepcyjne powinny zastosować dodatkowe środki antykoncepcyjne. Przed planowaną operacją należy rozważyć możliwość interakcji z produktami leczniczymi stosowanymi do znieczulenia ogólnego i miejscowego. W razie konieczności należy odstawić lek zawierający wyciąg z ziela dziurawca. Zwiększona aktywność enzymów powraca do normalnego poziomu w ciągu 1 tygodnia po zakończeniu stosowania leku zawiewającego wyciąg z ziela dziurawca. Wyciąg z ziela dziurawca może przyczynić się do nasilenia działań serotoninergicznych, jeżeli jest stosowany w połączeniu z lekami przeciwdepresyjnymi, takimi jak inhibitory wychwytu zwrotnego serotoniny (np. sertralina, paroksetyna, nefazodon) lub tryptanami i buspironem. U pacjentów przyjmujących inne leki na receptę przed podjęciem leczenia wyciągiem z ziela dziurawca zaleca się konsultację z lekarzem lub farmaceutą.",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Ciąża i (lub) karmienie piersią Badania na zwierzętach dały niejednoznaczne wyniki. Potencjalne zagrożenie dla człowieka nie jest znane. W przypadku braku wystarczających danych klinicznych, stosowanie w okresie ciąży i karmienia piersią nie jest zalecane. Płodność Brak dostępnych danych.",
+    "4.8": "4.8 Działania niepożądane Mogą wystąpić zaburzenia żołądkowo-jelitowe, alergiczne reakcje skórne, zmęczenie i niepokój. Częstotliwość ich nie jest znana. W trakcie intensywnego nasłonecznienia, u osób o jasnej karnacji mogą wystąpić nasilone objawy, w tym takie jak dla oparzenia słonecznego. W przypadku wystąpienia innych działań niepożądanych, nie wymienionych powyżej, należy skonsultować się z lekarzem lub farmaceutą. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: + 48 22 49-21-301, fax: +48 22 49-21-309, Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne Absorpcja hiperycyny jest opóźniona i zaczyna się około 2 godzin po podaniu leku. Okres półtrwania hiperycyny wynosi około 20 godzin, a średni okres obecności około 30 godzin. Najwyższe dopuszczalne poziomy hiperforyny osiągane są około 3-4 godzin po podaniu, nie występuje jej akumulacja. Hiperforyna i 3 glukuronian kwercetyny może przenikać barierę krew- mózg. Hiperforyna indukuje aktywność enzymów metabolizujących CYP3A4, CYP2C9, CYP2C19 i PGP w sposób dawko-zależny poprzez aktywację systemu PXR. W związku z tym eliminacja innych substancji leczniczych może być przyspieszona, powodując zmniejszenie ich stężenia w osoczu."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "838774a177d2f781fd5901e6a4e6d6cdfb77ff950de21d49648e23aa80868d80",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40055/characteristic",
+   "zrodlo_pliku": "chpl_40055.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "klucz_rpl": {
+    "atc": [
+     "N06AX25"
+    ],
+    "nazwa_powszechna": [
+     "Hyperici herbae tinctura"
+    ],
+    "postac": [
+     "Płyn doustny"
+    ],
+    "zrodlo": "RPL 2026-09-23"
+   },
+   "moc": "-",
+   "nazwa": "Tinctura Hyperici Herbpol w Krakowie SA",
+   "podmiot": "Krakowskie Zakłady Zielarskie \"Herbapol\" w Krakowie S.A.",
+   "postac": "Płyn doustny",
+   "punkty": {
+    "4.1": "4.1. Wskazania do stosowania Tradycyjnie jako środek łagodzący występujące przejściowo objawy wyczerpania psychicznego.",
+    "4.2": "4.2. Dawkowanie i sposób podawania Tradycyjnie stosuje się podany schemat stosowania: Dorośli: doustnie raz dziennie 5 ml (tj. ok. 1 łyżeczka płynu) w ¼ szklanki wody.",
+    "4.3": "4.3. Przeciwwskazania Nadwrażliwość na dziurawiec lub inne rośliny z rodziny Dziurawcowatych (Guttiferae). Nie zaleca się stosowania wyciągów z dziurawca u osób nadwrażliwych na światło słoneczne, promieniowanie UV oraz po transplantacji narządów. Nie zaleca się stosowania u pacjentów gorączkujących, z chorobami wątroby, padaczką lub cierpiących na alkoholizm.",
+    "4.4": "4.4. Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Nie zaleca się stosowania u dzieci do 12 roku życia, ze względu na brak danych potwierdzających bezpieczeństwa stosowania oraz zawartość alkoholu. Przyjmowanie preparatów dziurawca może powodować uczulenie na światło słoneczne i promieniowanie UV, zwłaszcza u osób o jasnej karnacji skóry, dlatego nie zaleca się bezpośredniej ekspozycji na światło słoneczne w czasie stosowania preparatu. Jeżeli objawy nie ustąpią lub nasilą się po 2 tygodniach terapii, należy zastosować inne leki przeciwdepresyjne. Stosowanie produktu w grupie wiekowej 12-18 lat możliwe jest tylko wtedy, jeśli w opinii lekarza korzyść terapeutyczna przewyższa ryzyko stosowania, należy wtedy wziąć pod uwagę zawartość etanolu w dawce jednorazowej. Lek zawiera 70% obj. etanolu, tzn. do 3,2 g na dawkę, co odpowiada 70 ml piwa lub 29 ml wina na dawkę.",
+    "4.5": "4.5. Interakcje z innymi lekami i inne formy interakcji Substancje zwarte w nalewce z ziela dziurawca mogą powodować indukcję enzymów metabolizujących leki (podjednostki cytochromu P450: 1A2, 3A4 i 2C9), co może prowadzić do obniżenia poziomu w osoczu i osłabienia działania innych leków. Działania takie obserwowano po stosowaniu preparatów dziurawca łącznie z warfaryną, cyklosporyną, teofiliną, digoksyną, preparatami przeciwdrgawkowymi i doustnymi lekami antykoncepcyjnymi. Podczas leczenia skojarzonego zakażeń wirusem HIV środkami przeciwwirusowymi wyciągi z dziurawca powodują obniżanie stężenia inhibitorów proteaz (np. indinaviru) w osoczu. Nie zaleca się stosowania preparatów z dziurawca bez konsultacji z lekarzem, łącznie ze środkami przeciwdepresyjnymi, które hamują wychwyt zwrotny serotoniny. Ze względu na ten mechanizm działania, należy brać pod uwagę możliwość wpływu na działania leków o podobnym mechanizmie działania np. leków przeciwmigrenowych z grupy tryptanów (m. in. imigran). Możliwe jest również wystąpienie interakcji spowodowanych wysoką zawartością alkoholu. 4.6. Stosowanie podczas ciąży i karmienia piersią Ze względu na wysoką zawartość alkoholu w dawce jednorazowej oraz brak wystarczających danych dotyczących bezpieczeństwa, nie zaleca się stosowania produktu u kobiet w ciąży oraz w okresie karmienia.",
+    "4.8": "4.8. Działania niepożądane U osób szczególnie wrażliwych, po kontakcie skóry z surowcem lub po jego spożyciu, może wystąpić uczulenie na światło (fotosensybilizacja), charakteryzujące się wystąpieniem zmian skórnych (wysypka, rumień, stany zapalne skóry pojawiające się do 24 godzin po naświetleniu UV). W przypadku wystąpienia w/w objawów należy przerwać stosowanie preparatu. Możliwe są także inne reakcje alergiczne, zaburzenia żołądkowo-jelitowe, bóle głowy a także uczucie znużenia lub niepokoju. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181C, 02-222 Warszawa, tel.: +48 22 49-21-301, fax: +48 22 49-21-309, e-mail: ndl@urpl.gov.pl. Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2. Właściwości farmakokinetyczne Brak danych, nie wykonano badań farmakokinetycznych."
+   },
+   "punkty_nieznalezione": [
+    "4.6"
+   ],
+   "punkty_uciete": [],
+   "sha256_pdf": "0005d0c85af216458911798ff37eac95ff84889cb0f56fdf9f2807aad300fde9",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4537/characteristic",
+   "zrodlo_pliku": "chpl_4537.pdf"
+  }
+ ],
+ "punkty_zadane": [
+  "4.1",
+  "4.2",
+  "4.3",
+  "4.4",
+  "4.5",
+  "4.6",
+  "4.8",
+  "5.2"
+ ],
+ "substancja": "dziurawiec",
+ "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci."
+}
