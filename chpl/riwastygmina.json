@@ -6,6 +6,10 @@
    "DROGA": [
     "TRANSDERMALNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "PRZEDLUZONE",
    "klucz_rpl": {
     "atc": [
@@ -44,6 +48,10 @@
    "DROGA": [
     "TRANSDERMALNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "PRZEDLUZONE",
    "klucz_rpl": {
     "atc": [

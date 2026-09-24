@@ -69,6 +69,15 @@ for nazwa, v in subs.items():
         # o sobie stanem, nigdy cisza.
         if p.get("zrodlo_pliku") and not (p.get("punkty") or {}) and p.get("stan") == "OK":
             bledy.append(f"T10 {etykieta}: PDF pobrany ({p.get('zrodlo_pliku')}), zero punktow, a stan OK")
+        # T11. WPIS Z POSTACIA I STANEM OK MUSI MIEC EKSPOZYCJE.
+        # Znalezione 2026-09-24: pole EKSPOZYCJA (DEPOT/POSREDNIA/KROTKA) bylo
+        # tylko w 187 z 395 wpisow. Brakowalo go we WSZYSTKICH trzech produktach
+        # zuklopentyksolu - czyli akurat tam, gdzie roznica DEPOT/POSREDNIA
+        # zmienia dawke i interwal, i dla czego powstala tabela wyjatkow.
+        # Nic tego nie sprawdzalo, bo testy patrzyly, czy pole jest POPRAWNE
+        # tam, gdzie jest - nie czy w ogole jest.
+        if p.get("postac") and p.get("stan") == "OK" and p.get("EKSPOZYCJA") is None:
+            bledy.append(f"T11 {etykieta}: postac jest, stan OK, a pola EKSPOZYCJA brak")
         if p.get("stan") != "OK":
             ostrzezenia.append(f"T5 {etykieta}: stan {p.get('stan')}")
             continue

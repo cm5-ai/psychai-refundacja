@@ -7,6 +7,12 @@
    "DROGA": [
     "INIEKCJA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": "POSREDNIA",
+    "interwal_kubel": "P2D_P3D",
+    "pin": "ChPL Clopixol-Acuphase 50 mg 4.2 — 50-150 mg im, powtarzac najlepiej co 2-3 dni; leczenie nie dluzej niz dwa tygodnie; maksymalna dawka skumulowana 400 mg na kurs; nie wiecej niz cztery wstrzykniecia",
+    "zrodlo": "WYJATEK_PRODUKTOWY"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
@@ -45,6 +51,12 @@
    "DROGA": [
     "INIEKCJA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": "DEPOT",
+    "interwal_kubel": "P2W_P4W",
+    "pin": "ChPL Clopixol-Depot 200 mg 4.2 — 200-400 mg co dwa lub cztery tygodnie",
+    "zrodlo": "WYJATEK_PRODUKTOWY"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
@@ -83,6 +95,10 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [

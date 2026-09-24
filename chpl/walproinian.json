@@ -31,6 +31,10 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
@@ -72,6 +76,10 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "PRZEDLUZONE",
    "klucz_rpl": {
     "atc": [
@@ -110,6 +118,10 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "PRZEDLUZONE",
    "klucz_rpl": {
     "atc": [

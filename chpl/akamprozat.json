@@ -6,6 +6,10 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "ZMODYFIKOWANE",
    "klucz_rpl": {
     "atc": [

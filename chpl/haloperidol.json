@@ -7,6 +7,12 @@
    "DROGA": [
     "INIEKCJA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": "DEPOT",
+    "interwal_kubel": "P4W",
+    "pin": "ChPL Decaldol 50 mg/ml 4.2 — wstrzykniecia zwykle co 4 tygodnie, max 300 mg raz na 4 tygodnie",
+    "zrodlo": "WYJATEK_PRODUKTOWY"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
@@ -45,6 +51,10 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
@@ -83,6 +93,12 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": "KROTKA",
+    "interwal_kubel": "P0",
+    "pin": "BRAK ChPL W PACZCE dla postaci 5 mg/ml — ekspozycja przypisana, dawki brak",
+    "zrodlo": "WYJATEK_PRODUKTOWY"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [

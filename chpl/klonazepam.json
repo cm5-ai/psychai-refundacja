@@ -7,6 +7,12 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": "KROTKA",
+    "interwal_kubel": "P0",
+    "pin": "ChPL Clonazepamum TZF 0,5 mg 4.2 — 'zwiekszac stopniowo o 0,5 mg do 1 mg co 3 dni'",
+    "zrodlo": "WYJATEK_PRODUKTOWY"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
@@ -46,6 +52,10 @@
    "DROGA": [
     "DOUSTNA"
    ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
    "UWALNIANIE": "NATYCHMIASTOWE",
    "klucz_rpl": {
     "atc": [
