@@ -1,0 +1,41 @@
+#!/bin/bash
+# HAK PRE-PUSH — ostatnie miejsce, w ktorym da sie jeszcze cofnac.
+#
+# DLACZEGO TU, A NIE W GITHUBIE [2026-09-25]. Branch protection nie jest
+# dostepna dla prywatnego repozytorium na darmowym planie: gh zwraca 403
+# "Upgrade to GitHub Pro or make this repository public". Publicznego zrobic
+# nie mozna — to paczka kliniczna.
+#
+# ALE NAWET GDYBY BYLA, BYLABY SPOZNIONA. Check po stronie serwera odpala sie
+# PO pchnieciu. Dla bledu ODWRACALNEGO to wystarcza: czerwone pole, poprawka
+# nastepnym commitem. Dla NIEODWRACALNEGO nie wystarcza wcale — kod pacjenta
+# jest juz w historii na GitHubie, zanim check zdazy cokolwiek powiedziec.
+# Dokladnie to stalo sie 2026-09-24 z kodem PSY w znaleziska.tsv.
+# Bramka przeciwko nieodwracalnemu musi stac PRZED pchnieciem.
+#
+# NIE UDAJE NIEPRZEKRACZALNEJ. `git push --no-verify` ja omija i tak ma byc:
+# lekarz musi moc pchnac w nocy, gdy cos stanie przy pacjencie. Zadaniem tego
+# haka jest zatrzymac ODRUCH, nie zwiazac rece.
+set -u
+KORZEN="$(git rev-parse --show-toplevel)"
+SKANER="$KORZEN/narzedzia/bramka_tozsamosci.py"
+[ -f "$SKANER" ] || { echo "pre-push: brak $SKANER — nie blokuje, ale to jest bledem."; exit 0; }
+
+echo "pre-push: bramka tozsamosci..."
+if /usr/bin/python3 "$SKANER" > /tmp/bramka_pre_push.txt 2>&1; then
+  echo "pre-push: czysto."
+  exit 0
+fi
+echo
+cat /tmp/bramka_pre_push.txt
+echo
+echo "=================================================================="
+echo "PCHNIECIE ZATRZYMANE. Nic nie poszlo na GitHub."
+echo "=================================================================="
+echo "Po wypchnieciu tego juz nie da sie cofnac zwyklym commitem."
+echo "Popraw tresc i sprobuj ponownie."
+echo
+echo "Jesli WIESZ, ze to falszywy alarm, sa dwie drogi:"
+echo "  - dopisz wyjatek z powodem do .github/bramka_wyjatki.tsv (zostaje slad),"
+echo "  - albo pchnij mimo wszystko: git push --no-verify (slad nie zostaje)."
+exit 1
