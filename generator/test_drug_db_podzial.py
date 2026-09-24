@@ -126,7 +126,21 @@ def main():
     # kompletnosci (R1-R5) i test przypisania klas wobec ATC.
     # Bez tego rozroznienia kazda nowa karta oblewalaby test migracji, a to
     # skonczyloby sie oslabieniem testu zamiast oslabieniem zalozenia.
-    brakujace = [n for n in karty_zr if n not in gdzie]
+    # NAGLOWKI SEKCJI PRZEMIANOWANE PO MIGRACJI. Zmiana nazwy sekcji nie jest
+    # zgubieniem karty, ale T3 nie ma jak tego odroznic — lista jest jawna
+    # i podaje, na co sekcja zostala rozbita, zeby nie dalo sie tu ukryc
+    # zniknietej karty leku.
+    PRZEMIANOWANE = {"BENZODIAZEPINY / NASENNE":
+                     ["BENZODIAZEPINY", "LEKI Z / NASENNE NIEBENZODIAZEPINOWE",
+                      "ANKSJOLITYKI I NASENNE NIE-BZD"]}
+    for stara, nowe in PRZEMIANOWANE.items():
+        brak_nowych = [x for x in nowe if x not in gdzie]
+        if brak_nowych:
+            bledy.append("T3 %s: przemianowana na %s, ale w plikach nie ma: %s"
+                         % (stara, ", ".join(nowe), ", ".join(brak_nowych)))
+        else:
+            print("   PRZEMIANOWANO sekcje %s -> %s" % (stara, ", ".join(nowe)))
+    brakujace = [n for n in karty_zr if n not in gdzie and n not in PRZEMIANOWANE]
     nadmiarowe = [n for n in gdzie if n not in karty_zr]
     if nadmiarowe:
         print("   PO MIGRACJI dodano %d kart (poza zakresem tego testu): %s"

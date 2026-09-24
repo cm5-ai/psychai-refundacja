@@ -103,7 +103,9 @@ def main():
     # wymieniona, nie zgadywana; nowa sekcja ma byc tu dopisana recznie.
     NAZWY_SEKCJI = {"SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "PRZECIWPSYCHOTYCZNE",
                     "TCA / STARSZE", "STABILIZATORY / PRZECIWDRGAWKOWE",
-                    "BENZODIAZEPINY / NASENNE", "UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE"}
+                    "BENZODIAZEPINY", "LEKI Z / NASENNE NIEBENZODIAZEPINOWE",
+                    "ANKSJOLITYKI I NASENNE NIE-BZD",
+                    "UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE"}
     karty = {}          # nazwa karty -> (plik, linia)
     sekcje = {}         # (plik, linia) -> nazwa sekcji
     for f in KLASOWE:

@@ -56,6 +56,14 @@ WYJATKI = {
 # Karty, dla ktorych ATC nie da sie ustalic — brak mostu do rejestru.
 # To NIE jest zgoda na dowolne przypisanie; to jawny stan "nie sprawdzone".
 BEZ_ATC_ZNANE = {"IMIPRAMINA"}
+# SEKCJE WYMIENIONE, NIE ZGADYWANE PO UKOSNIKU. Poprzednia wersja uznawala za
+# sekcje kazdy naglowek z ukosnikiem, wiec KWAS WALPROINOWY / WALPROINIAN —
+# karta leku — nigdy nie byl sprawdzany pod katem przypisania do pliku.
+# Nowa sekcja musi byc dopisana tutaj recznie.
+SEKCJE = {"SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "TCA / STARSZE",
+          "PRZECIWPSYCHOTYCZNE", "BENZODIAZEPINY", "LEKI Z / NASENNE NIEBENZODIAZEPINOWE",
+          "ANKSJOLITYKI I NASENNE NIE-BZD", "STABILIZATORY / PRZECIWDRGAWKOWE",
+          "UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE"}
 ALIAS_CACHE = {"escytalopram": "escitalopram", "flupentyksol": "flupentiksol",
                "cytalopram": "citalopram"}
 
@@ -83,24 +91,29 @@ def main():
     for f in PLIKI:
         t = open(os.path.join(PROJEKT, f), encoding="utf-8").read()
         H = naglowki(t)
-        # 1. KOLEJNOSC: naglowek sekcji (z ukosnikiem) musi miec pod soba karte
+        # 1. KOLEJNOSC: naglowek sekcji musi miec pod soba karte
         for i, h in enumerate(H):
-            if "/" not in h:
+            if h not in SEKCJE:
                 continue
-            dalsze = [x for x in H[i + 1:] if "/" not in x]
-            if not dalsze:
+            if not [x for x in H[i + 1:] if x not in SEKCJE]:
                 bledy.append("KOLEJNOSC %s: sekcja '%s' nie ma pod soba zadnej karty" % (f, h))
         # 2. PRZYPISANIE
         for h in H:
-            if "/" in h or h in ("SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "PRZECIWPSYCHOTYCZNE"):
+            if h in SEKCJE:
                 continue
             n_we += 1
-            klucz = ALIAS_CACHE.get(plaski(h), plaski(h))
-            meta = cache.get(plaski(klucz))
+            # Nazwa karty moze niesc dwa synonimy (KWAS WALPROINOWY / WALPROINIAN).
+            # Probujemy kazdej czesci: wystarczy, ze jedna ma most do rejestru.
             atc = set()
-            if meta:
-                for nz in meta.get("produkty") or []:
-                    atc |= prod2atc.get(plaski(nz), set())
+            for czesc in [h] + h.split("/"):
+                czesc = czesc.strip()
+                if not czesc:
+                    continue
+                klucz = ALIAS_CACHE.get(plaski(czesc), plaski(czesc))
+                meta = cache.get(plaski(klucz))
+                if meta:
+                    for nz in meta.get("produkty") or []:
+                        atc |= prod2atc.get(plaski(nz), set())
             if not atc:
                 n_bez += 1
                 (uwagi if h in BEZ_ATC_ZNANE else bledy).append(
