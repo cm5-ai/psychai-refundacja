@@ -1,0 +1,35 @@
+# BRAMKA TOZSAMOSCI — nic, co identyfikuje pacjenta ani otwiera sejf, nie
+# wchodzi do repozytorium.
+#
+# [R7, punkt 9] Nie jest to najwazniejsza kontrola w projekcie — GPT i Grok
+# zgodnie to odrzucili i mieli racje: nie poprawia liczby na wizycie. Jest
+# PIERWSZA W KOLEJCE NIEODWRACALNYCH. Zle zielone naprawia sie nazajutrz;
+# kod pacjenta w historii gita zostaje tam na zawsze.
+#
+# DZIALA NA push ORAZ pull_request [warunek GPT]: pchniecie prosto na galaz
+# glowna omijaloby kontrole dzialajaca tylko na PR, a wlasnie tak pracuje
+# lekarz miedzy pacjentami.
+name: Bramka tozsamosci
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  bramka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Skan drzewa i tresci dodawanej
+        env:
+          BRAMKA_BAZA: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+          BRAMKA_HEAD: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+        run: python3 narzedzia/bramka_tozsamosci.py

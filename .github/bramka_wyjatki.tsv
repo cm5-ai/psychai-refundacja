@@ -1,0 +1,5 @@
+# BRAMKA TOZSAMOSCI — WYJATKI.
+# Kazdy wyjatek jest WERSJONOWANY i ma powod. Wyjatek bez powodu bylby cicha
+# dziura w kontroli, ktora ma bronic przed cichymi dziurami.
+#
+# Kolumny TABULATOREM, trzy:  SCIEZKA  CZEGO_DOTYCZY  POWOD
