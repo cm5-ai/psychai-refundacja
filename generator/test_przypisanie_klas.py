@@ -46,6 +46,10 @@ WYJATKI = {
                     "R06AD02 to lek przeciwhistaminowy, ale to fenotiazyna: dzieli z klasa "
                     "antycholinergie, sedacje i wydluzenie QT, a 18 traktuje ja przez klase, "
                     "nie przez wskazanie nasenne."),
+    "PROPRANOLOL": ("DRUG_DB_BZD.txt",
+                    "C07AA05 to beta-adrenolityk, ale ChPL wymienia wprost zmniejszenie leku "
+                    "sytuacyjnego i uogolnionego oraz drzenie samoistne; 18 uzywa go przy objawach "
+                    "autonomicznych, wiec karta lezy w sekcji anksjolitykow nie-BZD."),
     "LIT": ("DRUG_DB_STAB.txt",
             "N05AN01 stoi w grupie przeciwpsychotycznej ATC, ale lit jest stabilizatorem "
             "nastroju: 18 prowadzi go przez profilaktyke nawrotow i litemie, nie przez klase AP."),
@@ -61,11 +65,13 @@ BEZ_ATC_ZNANE = {"IMIPRAMINA"}
 # karta leku — nigdy nie byl sprawdzany pod katem przypisania do pliku.
 # Nowa sekcja musi byc dopisana tutaj recznie.
 SEKCJE = {"SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "TCA / STARSZE",
+          "PSYCHOSTYMULANTY I ADHD",
           "PRZECIWPSYCHOTYCZNE", "BENZODIAZEPINY", "LEKI Z / NASENNE NIEBENZODIAZEPINOWE",
           "ANKSJOLITYKI I NASENNE NIE-BZD", "STABILIZATORY / PRZECIWDRGAWKOWE",
           "UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE"}
 ALIAS_CACHE = {"escytalopram": "escitalopram", "flupentyksol": "flupentiksol",
-               "cytalopram": "citalopram"}
+               "cytalopram": "citalopram",
+               "zuklopentyksol": "zuklopentiksol"}
 
 bledy, uwagi = [], []
 

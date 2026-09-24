@@ -28,7 +28,7 @@ import inn
 PROJEKT = os.path.expanduser("~/mnt/psychai-paczka/projekt")
 KLASOWE = ["DRUG_DB_AD.txt", "DRUG_DB_AP.txt", "DRUG_DB_BZD.txt",
            "DRUG_DB_STAB.txt", "DRUG_DB_ADHD_UZAL.txt"]
-BAZA = 14          # stan 2026-09-24, rev.38
+BAZA = 8           # stan 2026-09-24, rev.40
 MIN_NAZWA = 6
 RDZEN = 8
 

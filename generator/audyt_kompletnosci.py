@@ -105,6 +105,7 @@ def main():
                     "TCA / STARSZE", "STABILIZATORY / PRZECIWDRGAWKOWE",
                     "BENZODIAZEPINY", "LEKI Z / NASENNE NIEBENZODIAZEPINOWE",
                     "ANKSJOLITYKI I NASENNE NIE-BZD",
+                    "PSYCHOSTYMULANTY I ADHD",
                     "UZALEŻNIENIA / LECZENIE SUBSTYTUCYJNE"}
     karty = {}          # nazwa karty -> (plik, linia)
     sekcje = {}         # (plik, linia) -> nazwa sekcji
