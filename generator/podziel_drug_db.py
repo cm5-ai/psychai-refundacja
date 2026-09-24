@@ -14,11 +14,15 @@ nadal sie rozwiazuje: CORE mowi, gdzie lezy karta.
 CZEGO NIE ROBI. Nie zmienia ANI JEDNEGO ZNAKU tresci karty. Podzial jest
 przenosinami, nie redakcja. Test to sprawdza bajt w bajt.
 
-DLACZEGO PREAMBULA JEST W KAZDYM PLIKU. Reguly "PRZECIWWSKAZANIA obowiazkowe",
-"ZRODLO_KARTY", "ROZBIEZNOSC_ZRODLOWA" rozstrzygaja o czytaniu karty. Gdyby
-zostaly tylko w CORE, odczyt samego pliku klasowego czytalby karty bez ich
-regul. Cena: ta sama tresc w szesciu miejscach - wiec test wymaga, zeby byla
-IDENTYCZNA co do bajtu we wszystkich. Rozjazd = FAIL, nie cicha rozbieznosc.
+REGULY KART SA TYLKO W CORE. Pierwsza wersja kopiowala je do kazdego pliku
+klasowego, zeby odczyt samego pliku nie czytal kart bez regul. Grok wskazal,
+ze to odkladanie problemu pod plaszczykiem generatora: test identycznosci
+kopii sprawdza generator, a nie to, czy regula jest klinicznie zupelna, i daje
+falszywy spokoj - git sie zgadza, a ostrzezenia moglo nigdy nie byc w zrodle.
+Poprawione: KARTA TO DANE, REGULA MIESZKA W CORE, a plik klasowy niesie
+niezmiennik "bez CORE nie czytaj karty". Czytanie i tak zaczyna sie od CORE,
+bo to indeks mowi, w ktorym pliku lezy karta - wiec kopia nie kupowala nic,
+a kosztowala piec miejsc do rozjechania sie.
 """
 import os, re, sys, json, hashlib
 
@@ -60,8 +64,24 @@ def naglowek_karty(l):
 
 
 def czytaj():
+    """Zrodlem jest plik sprzed podzialu. Po pierwszym uruchomieniu CORE nie ma
+    juz kart, wiec czytanie biezacego pliku dalo IndexError - skrypt nie byl
+    idempotentny. Teraz: jesli biezacy CORE nie ma kart, bierzemy wersje
+    z gita, tak samo jak test. Jedno zrodlo prawdy dla obu."""
     L = open(ZRODLO, encoding="utf-8").read().split("\n")
     idx = [i for i, l in enumerate(L) if naglowek_karty(l)]
+    if len(idx) < 40:
+        rev = os.environ.get("DRUGDB_REV", "458b5ab")
+        import subprocess
+        r = subprocess.run(["git", "-C", os.path.dirname(PROJEKT.rstrip("/")),
+                            "show", "%s:projekt/DRUG_DB_PSYCHIATRIA_CORE.txt" % rev],
+                           capture_output=True, text=True)
+        if r.returncode != 0:
+            raise SystemExit("Biezacy CORE nie ma kart, a wersji %s nie ma w gicie. "
+                             "Podaj rewizje sprzed podzialu w DRUGDB_REV." % rev)
+        L = r.stdout.split("\n")
+        idx = [i for i, l in enumerate(L) if naglowek_karty(l)]
+        print("ZRODLO: wersja z gita %s (biezacy CORE jest juz po podziale)" % rev)
     preambula = L[:idx[0]]
     karty = {}
     for n, i in enumerate(idx):
@@ -70,16 +90,21 @@ def czytaj():
     return L, preambula, karty
 
 
+WIAZANIE = "TEN PLIK TO DANE. REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE."
+
+
 def naglowek_pliku(klasa, ile):
     return [
         "PSYCH-AI — DRUG DB: %s" % klasa,
         "VERSION: %s" % WERSJA,
         "DATE: %s" % DATA,
-        "CZESC PACZKI DRUG_DB. Indeks wszystkich kart i przypisanie lek -> plik:",
-        "DRUG_DB_PSYCHIATRIA_CORE. Adres [CORE/<LEK>/<POLE>] rozwiazuje sie przez",
-        "ten indeks. Kart w tym pliku: %d." % ile,
-        "REGULY KART PONIZEJ SA IDENTYCZNE WE WSZYSTKICH PLIKACH DRUG_DB.",
-        "Rozjazd miedzy plikami jest bledem paczki — sprawdza go test.",
+        WIAZANIE,
+        "NIE ODPOWIADAJ Z TEGO PLIKU BEZ PRZECZYTANIA CORE. Karta bez regul karty",
+        "to liczba bez zastrzezenia — reguly PRZECIWWSKAZANIA, ZRODLO_KARTY",
+        "i ROZBIEZNOSC_ZRODLOWA rozstrzygaja, jak ta karte wolno czytac.",
+        "Brak CORE w kontekscie = ODMOWA odczytu pola, nie odczyt na wyczucie.",
+        "CORE niesie tez indeks lek -> plik, wiec i tak zaczynasz od niego.",
+        "Kart w tym pliku: %d." % ile,
         "",
     ]
 
@@ -100,7 +125,6 @@ def main():
         rozdane |= set(lista)
         tresc = naglowek_pliku(klasa, sum(1 for x in lista if x not in
                                           ("SSRI", "SNRI", "INNE PRZECIWDEPRESYJNE", "PRZECIWPSYCHOTYCZNE")))
-        tresc = tresc + preambula
         for x in lista:
             tresc += karty[x]
         wynik[plik] = tresc
@@ -121,7 +145,7 @@ def main():
             "zmian co do bajtu — podzial jest przenosinami, nie redakcja. Powod: przy",
             "wizycie plik wchodzi CALY, a odczyt jednego pola ciagnal 86 KB, zeby dac",
             "15 linii. Ten plik trzyma reguly kart i INDEKS; karta lezy w pliku klasy.",
-            "REGULY KART PONIZEJ SA IDENTYCZNE WE WSZYSTKICH PLIKACH DRUG_DB.", ""]
+            "REGULY KART SA WYLACZNIE TUTAJ. Pliki klasowe niosą same karty.", ""]
     core += preambula
     core += ["", "INDEKS KART — LEK -> PLIK", ""]
     for x in sorted(k for k in karty if k in gdzie):

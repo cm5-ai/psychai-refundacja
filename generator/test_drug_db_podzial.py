@@ -10,7 +10,8 @@ z gita, a nie kopia zostawiona przez generator.
 T1  Kazda karta ze zrodla jest w DOKLADNIE JEDNYM pliku klasowym.
 T2  Tresc kazdej karty jest identyczna LINIA W LINIE ze zrodlem.
 T3  Bilans: N_WEJSCIE = N_ZACHOWANE + N_ODRZUCONE, odrzuconych zero.
-T4  Preambula (reguly kart) jest identyczna co do bajtu we wszystkich plikach.
+T4  Reguly kart sa WYLACZNIE w CORE, a kazdy plik klasowy jawnie sie z nim
+    wiaze. Nie ma kopii do rozjechania sie.
 T5  Indeks w CORE i karty w plikach zgadzaja sie W OBIE STRONY:
     zadnej karty bez wpisu w indeksie, zadnego wpisu bez karty.
 T6  Kazdy plik z indeksu istnieje.
@@ -103,35 +104,32 @@ def main():
     # T4
     core_L = open(os.path.join(PROJEKT, CORE), encoding="utf-8").read().split("\n")
     _, pre_core = karty_z(core_L)
-    # Naglowek pliku JEST rozny z zalozenia (inna nazwa klasy) i nie jest
-    # regula karty. Porownujemy dopiero od znacznika - inaczej test krzyczy
-    # na roznice, ktora ma byc.
-    ZNACZNIK = "REGULY KART PONIZEJ SA IDENTYCZNE"
-
-    def reguly(linie):
-        for i, l in enumerate(linie):
-            if ZNACZNIK in l:
-                return [x for x in linie[i + 1:] if x.strip()]
-        return None
-
-    wzor = None
+    # T4 — ZMIENIONE 2026-09-24 po uwadze Groka. Wczesniej test pilnowal, zeby
+    # kopia regul kart byla identyczna w kazdym pliku klasowym. To sprawdzalo
+    # generator, a nie to, czy regula jest klinicznie zupelna: git moglby sie
+    # zgadzac, a ostrzezenia nigdy nie bylo w zrodle. Teraz regula mieszka
+    # WYLACZNIE w CORE, a test pilnuje dwoch rzeczy naraz:
+    #   (a) plik klasowy NIE ma wlasnej kopii regul - zadnej do rozjechania,
+    #   (b) plik klasowy JAWNIE wiaze sie z CORE, wiec odczyt samej karty bez
+    #       regul jest odmowa, a nie czytaniem na wyczucie.
+    WIAZANIE = "REGULY KART SA W DRUG_DB_PSYCHIATRIA_CORE"
+    SLADY_REGUL = ("REGUŁA POLA PRZECIWWSKAZANIA", "REGUŁA POLA ZRODLO_KARTY",
+                   "REGUŁA ROZBIEZNOSC_ZRODLOWA", "POLA DODATKOWE")
     for f in pliki:
-        p = reguly(preambuly[f])
-        if p is None:
-            bledy.append("T4 %s: brak znacznika '%s' - nie wiadomo, gdzie zaczynaja sie reguly kart"
-                         % (f, ZNACZNIK))
-            continue
-        if wzor is None:
-            wzor, wzor_f = p, f
-        elif p != wzor:
-            for i in range(max(len(p), len(wzor))):
-                x = wzor[i] if i < len(wzor) else "<brak>"
-                y = p[i] if i < len(p) else "<brak>"
-                if x != y:
-                    bledy.append("T4 %s vs %s: reguly kart rozjechaly sie w linii %d: %r != %r"
-                                 % (wzor_f, f, i, x[:60], y[:60]))
-                    break
-    print("T4 REGULY KART identyczne w %d plikach klasowych: %s"
+        naglowek = "\n".join(preambuly[f])
+        if WIAZANIE not in naglowek:
+            bledy.append("T4 %s: brak jawnego wiazania z CORE - plik klasowy czytany sam "
+                         "dawalby karte bez jej regul" % f)
+        for slad in SLADY_REGUL:
+            if slad in naglowek:
+                bledy.append("T4 %s: kopia reguly '%s' w pliku klasowym - regula ma byc "
+                             "tylko w CORE" % (f, slad))
+    core_naglowek = "\n".join(pre_core)
+    for slad in SLADY_REGUL:
+        if slad not in core_naglowek:
+            bledy.append("T4 CORE: brak reguly '%s' - po usunieciu kopii to jedyne miejsce, "
+                         "gdzie moze byc" % slad)
+    print("T4 REGULY TYLKO W CORE + wiazanie w %d plikach klasowych: %s"
           % (len(pliki), "OK" if not any(b.startswith("T4") for b in bledy) else "FAIL"))
 
     # T5, T6
