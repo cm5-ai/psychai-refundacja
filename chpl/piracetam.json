@@ -41,7 +41,8 @@
    ],
    "punkty_uciete": [],
    "sha256_pdf": "64023d450b9504b29aeb65ec1ba1d6f282256d0bdb0110d4f5e383e1cf6f18e6",
-   "stan": "OK",
+   "stan": "PDF_BEZ_WARSTWY_TEKSTOWEJ",
+   "uwaga_stanu": "ChPL jest skanem bez warstwy tekstowej - zero punktow do odczytania.",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19071/characteristic",
    "zrodlo_pliku": "chpl_19071.pdf"
   },
@@ -83,7 +84,8 @@
    ],
    "punkty_uciete": [],
    "sha256_pdf": "64023d450b9504b29aeb65ec1ba1d6f282256d0bdb0110d4f5e383e1cf6f18e6",
-   "stan": "OK",
+   "stan": "PDF_BEZ_WARSTWY_TEKSTOWEJ",
+   "uwaga_stanu": "ChPL jest skanem bez warstwy tekstowej - zero punktow do odczytania.",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19075/characteristic",
    "zrodlo_pliku": "chpl_19075.pdf"
   },

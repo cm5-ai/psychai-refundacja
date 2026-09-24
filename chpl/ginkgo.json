@@ -84,7 +84,8 @@
    ],
    "punkty_uciete": [],
    "sha256_pdf": "baad9c7c67c75081d73a413e4678ba8c785dfb63c70580ae59e335b2eaba814a",
-   "stan": "OK",
+   "stan": "EKSTRAKCJA_NIEPELNA_1_Z_8",
+   "uwaga_stanu": "Stara, trzystronicowa ChPL ziolowa; ekstraktor rozpoznal tylko punkt 5.2.",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20547/characteristic",
    "zrodlo_pliku": "chpl_20547.pdf"
   },

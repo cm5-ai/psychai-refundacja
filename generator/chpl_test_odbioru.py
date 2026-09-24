@@ -3,7 +3,7 @@
 Sprawdza to, co LEZY W REPO, a nie to, co skrypt budujacy twierdzi.
 Kazdy test jest niezalezny od funkcji uzytych do budowy cache'u -
 inaczej test powtarzalby ten sam blad co generator."""
-import json, os, re, sys, glob, unicodedata, datetime
+import json, os, re, sys, glob, unicodedata, datetime, functools, collections
 
 KATALOG = "chpl"
 MAX_WIEK_DNI = 45
@@ -15,6 +15,7 @@ def bez_ogonkow(s):
     return ''.join(c for c in s if not unicodedata.combining(c))
 
 
+@functools.lru_cache(maxsize=None)
 def rdzen(s, n=5):
     """Niezalezna od generatora: zdejmuje ogonki, zostawia spolgloski."""
     return re.sub(r'[^bcdfghjklmnpqrstvwxz]', '', bez_ogonkow(s)
@@ -34,6 +35,7 @@ for nazwa, v in subs.items():
         bledy.append(f"T1 {nazwa}: INDEX wskazuje {v['plik']}, pliku nie ma")
 
 # T2. Zadnych sierot - plik, ktorego INDEX nie wskazuje.
+RDZ_SUBS = {inna: rdzen(inna) for inna in subs}
 uzywane = {os.path.basename(v["plik"]) for v in subs.values() if v.get("plik")}
 for f in glob.glob(f"{KATALOG}/*.json"):
     b = os.path.basename(f)
@@ -59,6 +61,14 @@ for nazwa, v in subs.items():
     r = rdzen(nazwa)
     for p in d.get("produkty", []):
         etykieta = f"{nazwa}/{p.get('nazwa')}"
+        # T10. PDF POBRANY, PUNKTOW ZERO, STAN "OK" = wpis udaje, ze cos ma.
+        # Znalezione 2026-09-24: dwie ChPL piracetamu (Biotropil 800 i 1200)
+        # to skany bez warstwy tekstowej. Ekstraktor zwrocil zero, a wpis
+        # i tak trafil do cache ze stanem OK - przy wizycie wygladalby na
+        # lek z pelna dokumentacja. Zero punktow przy pobranym PDF MUSI mowic
+        # o sobie stanem, nigdy cisza.
+        if p.get("zrodlo_pliku") and not (p.get("punkty") or {}) and p.get("stan") == "OK":
+            bledy.append(f"T10 {etykieta}: PDF pobrany ({p.get('zrodlo_pliku')}), zero punktow, a stan OK")
         if p.get("stan") != "OK":
             ostrzezenia.append(f"T5 {etykieta}: stan {p.get('stan')}")
             continue
@@ -135,13 +145,18 @@ for nazwa, v in subs.items():
         # szkielet spolgloskowy co "prometazyna" (prmts) i wlasnie dlatego
         # zostala blednie dopasowana. Liczymy tylko slowa spoza marki.
         marka_sl = set(re.findall(r'[a-z]+', bez_ogonkow(p.get("nazwa", ""))))
-        wlasny = sum(1 for w in slowa_txt if rdzen(w) == r and w not in marka_sl)
+        wlasny = sum(1 for w in slowa_txt if w not in marka_sl and rdzen(w) == r)
+        # Zliczenie rdzeni RAZ na produkt. Wczesniej ta petla liczyla rdzen
+        # kazdego slowa tekstu osobno dla kazdej ze 138 substancji: przy 390
+        # produktach test chodzil ponad osiem minut i przestal byc
+        # uruchamiany przed commitem. Wynik co do sztuki ten sam - to samo
+        # liczenie, tylko raz zamiast 138 razy.
+        licznik = collections.Counter(rdzen(w) for w in slowa_txt)
         obce = {}
-        for inna in subs:
-            ri = rdzen(inna)
+        for inna, ri in RDZ_SUBS.items():
             if not ri or ri == r or len(ri) < 5:
                 continue
-            n = sum(1 for w in slowa_txt if rdzen(w) == ri)
+            n = licznik.get(ri, 0)
             if n:
                 obce[inna] = n
         if obce and wlasny == 0:
