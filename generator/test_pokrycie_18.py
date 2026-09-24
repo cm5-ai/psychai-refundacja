@@ -28,7 +28,8 @@ import inn
 PROJEKT = os.path.expanduser("~/mnt/psychai-paczka/projekt")
 KLASOWE = ["DRUG_DB_AD.txt", "DRUG_DB_AP.txt", "DRUG_DB_BZD.txt",
            "DRUG_DB_STAB.txt", "DRUG_DB_ADHD_UZAL.txt"]
-BAZA = 5           # stan 2026-09-24, rev.44
+BAZA = 2           # stan 2026-09-24, rev.45: zostaja tylko flufenazyna i milnacipran,
+                   # ktore NIE MAJA ZADNEGO PRODUKTU W REJESTRZE PL (sprawdzone dwukrotnie)
 MIN_NAZWA = 6
 RDZEN = 8
 
@@ -87,9 +88,27 @@ def main():
         return 1
     if len(bez) < BAZA:
         print("Lekow bez karty %d, baza %d — spadlo. Zaktualizuj BAZE w tym pliku." % (len(bez), BAZA))
-    print("Wszystkie %d maja ChPL w cache, wiec karty DA SIE zbudowac." % len(bez)
-          if all(r in cache for r in bez) else
-          "UWAGA: czesc lekow bez karty nie ma tez ChPL w cache.")
+    # OBECNOSC W INDEKSIE TO NIE TO SAMO CO ZRODLO. Wpis moze istniec, a nie
+    # miec pliku ani punktow ChPL — wtedy zdanie "karty DA SIE zbudowac" jest
+    # falszywa obietnica. Sprawdzamy, czy pod nazwa naprawde cos lezy.
+    ma_zrodlo, bez_zrodla = [], []
+    for r in bez:
+        s_nazwa = cache.get(r)
+        v = idx.get(s_nazwa) if s_nazwa else None
+        plik = (v or {}).get("plik")
+        ok = False
+        if plik and os.path.exists(os.path.join(REPO, plik)):
+            d = json.load(open(os.path.join(REPO, plik), encoding="utf-8"))
+            ok = any((x.get("punkty") or {}) for x in d.get("produkty", []))
+        (ma_zrodlo if ok else bez_zrodla).append(s_nazwa or r)
+    print("ZRODLO: z punktami ChPL %d, BEZ ZRODLA %d -> %s"
+          % (len(ma_zrodlo), len(bez_zrodla),
+             "BILANS OK" if len(ma_zrodlo) + len(bez_zrodla) == len(bez) else "FAIL"))
+    if ma_zrodlo:
+        print("   DA SIE ZBUDOWAC: %s" % ", ".join(sorted(ma_zrodlo)))
+    if bez_zrodla:
+        print("   NIE MA Z CZEGO ZBUDOWAC (wpis w indeksie bez pliku albo bez punktow): %s"
+              % ", ".join(sorted(bez_zrodla)))
     print("TEST POKRYCIA 18: %s" % ("OSTRZEZENIE" if len(bez) > BAZA else "PRZESZEDL"))
     return 0
 
