@@ -158,8 +158,16 @@ def main():
              "OK" if not brakujace and not nadmiarowe else "FAIL"))
 
     # T2
+    # LINIE PRZEPISANE, nie dopisane. Dopisanie jest bezpieczne, przepisanie nie:
+    # stara linia POSTAC w tych trzech kartach mowila "dawek postaci iniekcyjnych
+    # NIE MA w paczce", co po dodaniu dawek depot bylo juz nieprawda i karta
+    # przeczylaby sama sobie. Kazda pozycja = ile linii zrodla znika i dlaczego.
+    PRZEPISANE = {"ARYPIPRAZOL": (1, "POSTAC: 'dawek NIE MA' -> wskazanie na dawke depot w karcie"),
+                  "OLANZAPINA": (1, "POSTAC: jw., plus odeslanie do NIEPEWNY_ODCZYT_ZRODLA"),
+                  "RISPERIDON": (1, "POSTAC: jw., dla obu postaci depot")}
     UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
-                       "ESTAZOLAM", "BROMAZEPAM"])   # patrz DOPISANE w T7
+                       "ESTAZOLAM", "BROMAZEPAM", "ARYPIPRAZOL", "OLANZAPINA",
+                       "RISPERIDON"])   # patrz DOPISANE w T7
     rozne = 0
     for n, tresc_zr in karty_zr.items():
         if n not in gdzie:
@@ -174,8 +182,17 @@ def main():
                 it = iter(b)
                 if all(any(x == y for y in it) for x in a):
                     continue
-                bledy.append("T2 %s: karta z listy uzupelnien, ale zrodlo NIE JEST "
-                             "podciagiem pliku — linie zmieniono albo usunieto" % n)
+                # Karta z listy PRZEPISANE ma jawnie zadeklarowana liczbe linii
+                # ZMIENIONYCH. Sprawdzamy, ile linii zrodla zniknelo z pliku:
+                # wiecej niz zadeklarowano = ciche usuniecie, i to jest blad.
+                zniklo = [x for x in a if x not in b]
+                ile, powod = PRZEPISANE.get(n, (0, ""))
+                if len(zniklo) == ile:
+                    continue
+                bledy.append("T2 %s: zrodlo nie jest podciagiem pliku; zniklo %d linii, "
+                             "zadeklarowano %d (%s)" % (n, len(zniklo), ile, powod))
+                for x in zniklo[:3]:
+                    bledy.append("      ZNIKLO: %s" % x[:90])
                 continue
             for i in range(max(len(a), len(b))):
                 x = a[i] if i < len(a) else "<brak linii>"
@@ -270,7 +287,11 @@ def main():
                 "TIAPRYD": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "METADON": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "ESTAZOLAM": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
-                "BROMAZEPAM": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA")}
+                "BROMAZEPAM": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
+                "ARYPIPRAZOL": (1, "dawka depot Abilify Maintena + NIEPEWNY_ODCZYT_ZRODLA dla 720/960 mg"),
+                "OLANZAPINA": (2, "dawka depot Zypadhera, zespol poiniekcyjny, dwa NIEPEWNY_ODCZYT_ZRODLA"),
+                "RISPERIDON": (0, "dawki depot Rispolept Consta i Okedi — linie bez naglowka pola"),
+                "PALIPERYDON_LAI": (1, "Trevicta i BYANNLI: ODSTEPY_ZMIANA_LECZENIA; liczone w pozycji PALIPERYDON")}
     delta = sum(n for n, _ in DOPISANE.values())
     if n_zr_karty + delta != n_po:
         bledy.append("T7: linii pol w kartach zrodla %d (+%d celowo), po podziale %d"
