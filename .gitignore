@@ -1,2 +1,13 @@
 
 .scratch/
+
+# BAJTKOD NIE JEST TRESCIA REPOZYTORIUM [druciarstwo, 2026-09-25].
+# W repo lezalo 11 plikow .pyc. Skompilowany plik nie jest zrodlem: starzeje
+# sie w ciszy, brudzi kazdy diff binarnym szumem i potrafi przezyc skasowany
+# modul, ktory pozornie dalej sie importuje.
+*.pyc
+__pycache__/
+
+# .DS_Store to zapis tego, jak Finder ustawil ikony. W repozytorium
+# klinicznym nie niesie zadnej informacji, a wchodzi do kazdej kopii.
+.DS_Store

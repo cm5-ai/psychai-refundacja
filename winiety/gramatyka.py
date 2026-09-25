@@ -77,10 +77,29 @@ def _postacie():
         if linia.strip() and not linia.startswith("#"):
             out.append(linia.split("\t")[0].strip())
     return out
-try:
-    POSTACIE = _postacie()
-except Exception:
-    POSTACIE = []
+# BEZ CICHEJ DEGRADACJI [druciarstwo D2, 2026-09-25]. Wczesniej stalo tu
+# "except Exception: POSTACIE = []". Pusty slownik postaci nie psuje sedziego
+# widocznie — on ODWRACA jego werdykty po cichu: kazda dawka staje sie
+# ASSERTED_DOSE_BEZ_POSTACI, wiec wzorowe odpowiedzi z nazwana postacia
+# zaczynaja OBLEWAC, a FOIL-e przechodzic. Sedzia bez slownika nie jest
+# sedzia lagodniejszym ani surowszym — jest sedzia innym, ktory o tym nie
+# mowi. Pusty wynik nie jest tu dopuszczalnym stanem (3B: "nie znalazlem"
+# to nie "nie ma"), dlatego blad odczytu i pusta tabela koncza sie STOP-em.
+def _wczytaj_postacie():
+    try:
+        out = _postacie()
+    except Exception as e:
+        raise RuntimeError(
+            "GRAMATYKA STOP: nie da sie odczytac postacie.tsv (%s: %s). "
+            "Sedzia bez slownika postaci odwraca werdykty po cichu — "
+            "nie uruchamiam go z pusta tabela." % (type(e).__name__, e))
+    if not out:
+        raise RuntimeError(
+            "GRAMATYKA STOP: postacie.tsv odczytane, ale zero wpisow. "
+            "Zero postaci to nie jest stan roboczy sedziego.")
+    return out
+
+POSTACIE = _wczytaj_postacie()
 
 
 RE_PRZYPISANIE = re.compile(r"\bPana\b|\bPan[ai]\s+liczb|\bTwoj\w*\s+liczb|\bpodan\w*\s+przez\s+lekarza")
