@@ -21,3 +21,10 @@ Trevicta	paliperydon 3-miesieczny
 BYANNLI	paliperydon 6-miesieczny
 Xeplion	paliperydon miesieczny
 doustn	postac doustna — ustala rame tak samo jak produkt depot
+Acuphase	skrot lekarski Clopixol-Acuphase; octan, postac dorazna
+Consta	skrot lekarski Rispolept Consta; risperidon co dwa tygodnie
+Maintena	skrot lekarski Abilify Maintena; arypiprazol o przedluzonym uwalnianiu
+# NIE DODAJEMY SWIADOMIE — skroty, ktore NIE ROZSTRZYGAJA, o ktora postac chodzi:
+# NIEDODANE: Depot — wystepuje w Clopixol-Depot i Fluanxol Depot; samo slowo
+#   nie mowi, ktorej substancji dotyczy, wiec nie ustala postaci. Dawka pod
+#   golym "Depot" MA zostac BEZ_POSTACI — to nie luka, to cel.

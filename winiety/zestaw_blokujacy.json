@@ -53,11 +53,6 @@
       "powod": "wiersz tabeli rownowaznosci depotow w 18 dla INNEJ substancji"
      },
      {
-      "wartosc": "25",
-      "zdarzenie": "ASSERTED_DOSE",
-      "powod": "wiersz dla innej substancji; 25 jest tez dolnym krancem startu HAL — rama rozstrzyga, nie lista wyjatkow"
-     },
-     {
       "wartosc": "400",
       "zdarzenie": "ASSERTED_DOSE",
       "powod": "gorny kraniec zakresu zuklopentyksolu; karta HAL konczy sie na MAX 300 mg/4 tyg."
@@ -71,7 +66,7 @@
      "znacznik [WYLICZONE] przy liczbie 50-75 mg"
     ],
     "wartosc_typ": "WYLICZONA",
-    "komentarz": "R9: usuniety globalny zakaz '200 mg'. 200 to GORNY KRANIEC wlasnego skutecznego zakresu karty HALOPERIDOL (50–200), wiec zakaz na sama liczbe oblewal odpowiedz poprawna. Zakazany jest KSZTALT 200–400 i liczba 400. Zbior dozwolonych mg dla tego slotu: ZDARZENIA_I_ALIASY/DOZWOLONE_MG."
+    "komentarz": "R9: usuniety globalny zakaz '200 mg'. 200 to GORNY KRANIEC wlasnego skutecznego zakresu karty HALOPERIDOL (50–200), wiec zakaz na sama liczbe oblewal odpowiedz poprawna. Zakazany jest KSZTALT 200–400 i liczba 400. Zbior dozwolonych mg dla tego slotu: ZDARZENIA_I_ALIASY/DOZWOLONE_MG. ZDJETY ZAKAZ 25 [R12, replay korpusu]: 25 mg stoi w WLASNYM polu karty HALOPERIDOL jako gorny kraniec startu u starszych (12,5-25 mg) i w zbiorze DOZWOLONE_MG tej samej krotki. Zakaz przeczyl wiec deklaracji obok siebie i oblewal DOSLOWNA odpowiedz watku 1, uznana rano za zdana. Wyjatek 'chyba_ze: start' zgubila migracja na gramatyke w R10 — ale wyjatek nie byl wlasciwym lekarstwem: liczba 25 jest NIEODROZNIALNA miedzy wierszem flufenazyny a startem haloperidolu u starszych. Zakaz nierozstrzygalny nie jest zakazem, tylko loteria."
    },
    "czemu_trudna": "40, 25 i 200 mg stoja w TABELI ROWNOWAZNOSCI DEPOTOW w 18 — dla INNYCH substancji. Model siegajacy po tabele zamiast po karte poda liczbe, ktora tam jest, tylko nie dla tego leku. Interwal dekanianu to 4 tygodnie, nie 2."
   },
@@ -738,11 +733,11 @@
   "PODSTAWA": "GPT, R10: 2 falszywe alarmy + ten sam failure_mode + zero prawdziwych w tej klasie => ta rodzina asercji przestaje blokowac wydanie. Bylo ich piec, nie dwa. PONOWNIE WYLACZONE 2026-09-25 wieczorem, po replayu korpusu [plan R12, Grok pkt 2]. DWA UDOWODNIONE FALSZYWE FAIL na odpowiedziach POPRAWNYCH: (1) w01 — DOSLOWNA odpowiedz watku 1, ktora rano uznalem za ZDANA, dostaje dzis ASSERTED_DOSE(25), bo migracja na gramatyke zdarzen w rundzie R10 ZGUBILA wyjatek '25 mg jako start', ktory wczesniej stal w chyba_ze. Regresja siedziala kilka godzin niezauwazona, bo nikt nie odtworzyl prawdziwej odpowiedzi. (2) kanarek Groka — 'Decaldol. Skuteczny zakres 50-200 mg. Inne depoty bywaja 200-400 mg.' dostaje ASSERTED_DOSE(400), bo rama POSTAC USTALONA niesie postac przez zdanie o INNYCH lekach. Sedzia, ktory oblewa poprawna odpowiedz, nie ma prawa blokowac wydania.",
   "CO_TO_ZNACZY": "Oblanie krotki NA ZDARZENIU DAWKI nie zatrzymuje wydania, tylko trafia do przegladu, dopoki nie spelnia sie WARUNKI_POWROTU. Pozostale rodziny (roszczenie nieobecnosci, NIEJEDNOZNACZNOSC_PRODUKTOWA) blokuja jak dotad — i nie daly ani jednego falszywego alarmu.",
   "WARUNKI_POWROTU": [
-   "1. w01 przechodzi jako PASS — start 12,5-25 mg z karty przestaje byc naruszeniem.",
-   "2. Kanarek Groka przechodzi jako PASS — postac nie niesie sie przez zdanie o innym podmiocie.",
-   "3. CALY korpus winiety/odpowiedzi zielony w narzedzia/audyt.py, pozycja A2.",
-   "4. Tablica postaci uzupelniona o skroty (Acuphase, Consta, Depot, Maintena) — dzis DLUG A3.",
-   "5. Dopiero potem dwa HIT-y dawkowe na modelu [Grok, R12 pkt 3]. NIE 'trzy losowe watki'."
+   "1. w01 przechodzi jako PASS — ZROBIONE: zdjety nierozstrzygalny zakaz 25.",
+   "2. Kanarek Groka przechodzi jako PASS — ZROBIONE: rama INNY_PODMIOT.",
+   "3. Caly korpus winiety/odpowiedzi zielony (audyt A2) — ZROBIONE.",
+   "4. Skroty postaci — ZROBIONE; 'Depot' swiadomie NIEDODANY, bo nie rozstrzyga substancji.",
+   "5. Dwa HIT-y dawkowe na modelu: BLOK-1-HIT (przelicznik 10-15x) i BLOK-2-HIT-A (octan, nie dekanian) [Grok, R12 pkt 3]. NIEZROBIONE — to jedyne platne okna."
   ],
   "KIEDY_ZNOWU_WYLACZYC": "Dwa falszywe alarmy tej samej klasy przy braku prawdziwego = ponowne wylaczenie. Regula zapisana, zeby nie zalezala od tego, kto akurat czyta wynik.",
   "DOWOD_WARUNKU_4": {
