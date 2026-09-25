@@ -5,25 +5,34 @@
 # wiec nalezy do gramatyki globalnej, nie do wyjatku przy krotce.
 # Nazwa ustalona w segmencie obowiazuje do nastepnego segmentu, ktory
 # ustala inna postac. Kazdy wpis musi wystepowac w paczce (martwy = FAIL).
-# TOKEN<TAB>POWOD
-Clopixol-Acuphase	octan zuklopentyksolu, postac dorazna
-Clopixol-Depot	dekanonian zuklopentyksolu, postac podtrzymujaca
-octan	postac zuklopentyksolu, uzywana w karcie jako nazwa pola
-dekanonian	postac zuklopentyksolu, uzywana w karcie jako nazwa pola
-dekanian	postac haloperidolu i flupentyksolu
-Decaldol	dekanian haloperidolu
-Fluanxol Depot	dekanian flupentyksolu
-Zypadhera	pamoinian olanzapiny
-Abilify Maintena	arypiprazol o przedluzonym uwalnianiu
-Rispolept Consta	risperidon co dwa tygodnie
-Okedi	risperidon co 28 dni
-Trevicta	paliperydon 3-miesieczny
-BYANNLI	paliperydon 6-miesieczny
-Xeplion	paliperydon miesieczny
-doustn	postac doustna — ustala rame tak samo jak produkt depot
-Acuphase	skrot lekarski Clopixol-Acuphase; octan, postac dorazna
-Consta	skrot lekarski Rispolept Consta; risperidon co dwa tygodnie
-Maintena	skrot lekarski Abilify Maintena; arypiprazol o przedluzonym uwalnianiu
+# TRZECIA KOLUMNA — ROLA [R13, 2026-09-25, znalezisko Groka].
+# LAI     = napis NAZYWA KONKRETNY PRODUKT o przedluzonym uwalnianiu.
+#           Tylko taki napis moze zrodzic zdarzenie PROPOZYCJA_LAI.
+# NIE_LAI = napis ustala POSTAC, ale nie jest propozycja LAI: nazwa formy
+#           bez produktu (dekanian), postac doustna, albo iniekcja, ktora
+#           LAI NIE JEST. Acuphase i octan stoja tu swiadomie — modul 18
+#           mowi wprost, ze octan nie jest postacia LAI podtrzymujaca.
+# Kolumna ROLA nie zmienia dzialania POSTACI: ustalanie ramy dzialalo
+# wczesniej i dziala dalej na obu wartosciach.
+# TOKEN<TAB>POWOD<TAB>ROLA
+Clopixol-Acuphase	octan zuklopentyksolu, postac dorazna	NIE_LAI
+Clopixol-Depot	dekanonian zuklopentyksolu, postac podtrzymujaca	LAI
+octan	postac zuklopentyksolu, uzywana w karcie jako nazwa pola	NIE_LAI
+dekanonian	postac zuklopentyksolu, uzywana w karcie jako nazwa pola	NIE_LAI
+dekanian	postac haloperidolu i flupentyksolu	NIE_LAI
+Decaldol	dekanian haloperidolu	LAI
+Fluanxol Depot	dekanian flupentyksolu	LAI
+Zypadhera	pamoinian olanzapiny	LAI
+Abilify Maintena	arypiprazol o przedluzonym uwalnianiu	LAI
+Rispolept Consta	risperidon co dwa tygodnie	LAI
+Okedi	risperidon co 28 dni	LAI
+Trevicta	paliperydon 3-miesieczny	LAI
+BYANNLI	paliperydon 6-miesieczny	LAI
+Xeplion	paliperydon miesieczny	LAI
+doustn	postac doustna — ustala rame tak samo jak produkt depot	NIE_LAI
+Acuphase	skrot lekarski Clopixol-Acuphase; octan, postac dorazna	NIE_LAI
+Consta	skrot lekarski Rispolept Consta; risperidon co dwa tygodnie	LAI
+Maintena	skrot lekarski Abilify Maintena; arypiprazol o przedluzonym uwalnianiu	LAI
 # NIE DODAJEMY SWIADOMIE — skroty, ktore NIE ROZSTRZYGAJA, o ktora postac chodzi:
 # NIEDODANE: Depot — wystepuje w Clopixol-Depot i Fluanxol Depot; samo slowo
 #   nie mowi, ktorej substancji dotyczy, wiec nie ustala postaci. Dawka pod

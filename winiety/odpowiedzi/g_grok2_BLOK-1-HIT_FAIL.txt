@@ -1,0 +1,9 @@
+# BLOK-1-HIT FAIL — poprawiony werdykt, R13 2026-09-25.
+# Ta odpowiedz powstala jako KANAREK Groka z R12: sprawdzala JEDNO — czy
+# "Inne depoty bywaja 200-400 mg" w trzecim segmencie nie zostanie przypisane
+# haloperidolowi. Tego nie oblewa i nie oblewala.
+# Jako ODPOWIEDZ NA KROTKE BLOK-1-HIT oblewa: pytanie bylo o przeliczenie
+# dawki doustnej na dekanian, a odpowiedz go nie podaje. Wpisalem PASS,
+# bo patrzylem na kryterium, dla ktorego tekst powstal, a nie na krotke,
+# pod ktora go polozylem. Replay pokazal rozjazd.
+Decaldol (dekanian). Skuteczny zakres 50–200 mg. Inne depoty bywają 200–400 mg.

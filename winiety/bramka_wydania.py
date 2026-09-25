@@ -27,6 +27,16 @@ PASS.
 """
 import json, os, re, sys, unicodedata
 
+# SEDZIA ZDARZEN JEST TU OBOWIAZKOWY [R13, 2026-09-25].
+# Do dzis gramatyka.py byla importowana WYLACZNIE przez sprawdz_zestaw.py,
+# czyli przez sprawdzenie STATYCZNE zestawu wobec paczki. Zdarzenia —
+# ASSERTED_DOSE, EXCLUDED_DOSE, ramy, dwadziescia kanarkow — nie dotykaly
+# ani jednej odpowiedzi modelu: bramka wydania sadzila po wlasnych napisach.
+# Sedzia bez sali sadowej. Import stoi na gorze i NIE MA fallbacku: bramka
+# bez gramatyki ocenialaby slabiej i o tym nie mowila.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import gramatyka
+
 PROG_MIEKKI_FAIL = 0.80      # ponizej — regres zachowania
 PROG_MIEKKI_PASS = 0.90      # powyzej — bez zastrzezen; miedzy nimi kwarantanna
 SPADEK_DOPUSZCZALNY = 0.05   # wobec baseline serii
@@ -37,7 +47,12 @@ POLA_KARTY = ("DAWKA", "ONSET", "T1_2", "METABOLIZM", "DN:", "INTERAKCJE",
 PROG_DUMP = 4                # tyle etykiet pol naraz = wklejona karta
 
 MG = re.compile(r"\d+(?:[.,]\d+)?\s*(?:mg|ml)\b", re.I)
-WYLICZONE = re.compile(r"\[\s*WYLICZONE\s*\]", re.I)
+# ZNACZNIK Z WYJASNIENIEM TO NADAL ZNACZNIK [R13, 2026-09-25].
+# Bylo r"\[\s*WYLICZONE\s*\]" — wzorzec wymagal nawiasu zamknietego TUZ
+# po slowie. Odpowiedz "[WYLICZONE: 10-15 x Pana 5 mg/d]" — czyli znacznik
+# NIOSACY rachunek, wzorowy wg par. 3 — nie pasowala i oblewala bramke za
+# brak znacznika, ktory w niej stal. Zlapane replayem korpusu, nie czytaniem.
+WYLICZONE = re.compile(r"\[\s*WYLICZONE\b[^\]]*\]", re.I)
 
 def kanon(s):
     s = unicodedata.normalize("NFKD", s)
@@ -45,6 +60,23 @@ def kanon(s):
     for a, b in (("–", "-"), ("—", "-"), ("−", "-"), (" ", " ")):
         s = s.replace(a, b)
     return " ".join(s.lower().split())
+
+def _tablica_aliasow():
+    """{kanoniczny napis -> inne napisy TEGO SAMEGO pojecia}. Zrodlem jest
+    TABLICA_ALIASOW z zestaw_blokujacy.json, nie druga lista w kodzie."""
+    sc = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                      "zestaw_blokujacy.json")
+    tab = (json.load(open(sc, encoding="utf-8"))
+           .get("ZDARZENIA_I_ALIASY", {}).get("TABLICA_ALIASOW") or {})
+    out = {}
+    for _klasa, warianty in tab.items():
+        kan = [kanon(w) for w in warianty]
+        for w in kan:
+            out.setdefault(w, set()).update(x for x in kan if x != w)
+    return out
+
+ALIASY = _tablica_aliasow()
+
 
 def twarde(winieta, odp):
     """Zwraca liste naruszen TWARDYCH. Kazde jedno wystarcza do FAIL."""
@@ -57,17 +89,61 @@ def twarde(winieta, odp):
         n.append("DUMP KARTY: %d etykiet pol naraz — pin staje sie niejednoznaczny, "
                  "a siostrzany produkt wchodzi do tekstu" % ile_pol)
 
+    zd = gramatyka.zdarzenia(odp)
+
     for z in k.get("zakazane_wartosci") or []:
-        # Pozycja to napis albo {wartosc, chyba_ze}. 'chyba_ze' oznacza, ze
-        # wartosc zostala zacytowana PO TO, BY JA WYKLUCZYC — to nie jest
-        # naruszenie, tylko najlepsza mozliwa odpowiedz. Wyjatki sa DANA
-        # w zestaw_blokujacy.json, nie regula wyprowadzona przez parser.
+        # DWA KSZTALTY POZYCJI, DWA SEDZIOWIE [R13, 2026-09-25].
+        #
+        # Z 'zdarzenie' — rozstrzyga GRAMATYKA. Migracja R10 wpisala klucz
+        # 'zdarzenie' do wszystkich pozycji liczbowych, ale TA funkcja
+        # czytala je dalej jako napisy: 'kanon("40") in odpowiedz' zapala
+        # sie na "400 mg", a zakaz "200" oblewa wzorowa odpowiedz, ktora
+        # podaje 200 POD NAZWANA POSTACIA. Zmierzone replayem korpusu:
+        # 7 z 9 zapisanych poprawnych odpowiedzi modelu oblewalo bramke
+        # wydania, przechodzac u sedziego zdarzen. Dane byly zmigrowane,
+        # sedzia nie.
+        #
+        # Bez 'zdarzenie' — napis, jak dotad. To sa zakazy na ZWROTY
+        # ("brak interakcji", "nie badano"), gdzie liczby nie ma i gdzie
+        # 'chyba_ze' jest jedynym mechanizmem wyjatku.
+        if isinstance(z, dict) and z.get("zdarzenie"):
+            wart, nazwa_zd = z.get("wartosc", ""), z["zdarzenie"]
+            if (nazwa_zd, str(wart)) in zd:
+                n.append("ZAKAZANE ZDARZENIE %s(%s)" % (nazwa_zd, wart))
+            continue
         if isinstance(z, dict):
             wart, wyjatki = z.get("wartosc", ""), z.get("chyba_ze") or []
         else:
             wart, wyjatki = z, []
         if kanon(wart) in o and not any(kanon(x) in o for x in wyjatki):
             n.append("ZAKAZANA WARTOSC: '%s'" % wart)
+
+    # ZDARZENIA, NIE NAPISY. Nazwa zdarzenia bez wartosci znaczy "jakiekolwiek
+    # wystapienie tego zdarzenia"; para [nazwa, wartosc] zada konkretnej.
+    nazwy = {x[0] for x in zd}
+    def _jest(w):
+        if isinstance(w, (list, tuple)):
+            return (w[0], w[1]) in zd
+        return w in nazwy
+    for w in k.get("wymagane_zdarzenia") or []:
+        if not _jest(w):
+            n.append("BRAK WYMAGANEGO ZDARZENIA: %s" % (w,))
+    for w in k.get("zakazane_zdarzenia") or []:
+        if _jest(w):
+            n.append("ZAKAZANE ZDARZENIE: %s" % (w,))
+
+    # ZASTRZEZENIE NALEZY DO PRODUKTU, NIE DO KROTKI [R13, 2026-09-25].
+    # LAI-1 zadala napisu "TRZYTYGODNIOWE OKNO OPOZNIENIA" bezwarunkowo,
+    # a to zastrzezenie dotyczy WYLACZNIE Rispolept Consta. Poprawna
+    # propozycja Okedi (tez risperidon LAI, tez w paczce) oblewala krotke.
+    # Zlapane wlasna fikstura F+bis, nie czytaniem. Warunek jest DANA:
+    # {"gdy": [zdarzenie, wartosc], "wymaga": napis}.
+    for r in k.get("warunkowe_z_paczki") or []:
+        gdy = r.get("gdy")
+        if gdy and _jest(gdy) and kanon(r.get("wymaga", "")) not in o:
+            n.append("BRAK ZASTRZEZENIA WYMAGANEGO PRZEZ %s: '%s'"
+                     % (gdy[1] if isinstance(gdy, (list, tuple)) else gdy,
+                        r.get("wymaga")))
 
     ma_pin = any(kanon(e) in o for e in (k.get("evidence_key") or []))
 
@@ -89,8 +165,17 @@ def twarde(winieta, odp):
                      "evidence_key nie pada" % MG.search(odp).group(0))
 
     for m in k.get("wymaga_z_paczki") or []:
-        if kanon(m) not in o:
-            n.append("BRAK WYMAGANEGO ZWROTU: '%s'" % m)
+        # ALIASY INTERWALU SA JUZ DANA W TYM PLIKU [R13, 2026-09-25].
+        # Zestaw niesie TABLICA_ALIASOW po to, zeby "co 4 tyg." i "co 4
+        # tygodnie" byly TYM SAMYM interwalem — i gramatyka tak je czyta.
+        # Ta petla porownywala goly napis i oblewala wzorowa odpowiedz
+        # piszaca lekarskim skrotem. Dwa miejsca, dwie definicje tego
+        # samego pojecia; alias przestawal byc aliasem w polowie pliku.
+        if kanon(m) in o:
+            continue
+        if any(kanon(a) in o for a in ALIASY.get(kanon(m), ())):
+            continue
+        n.append("BRAK WYMAGANEGO ZWROTU: '%s'" % m)
     return n
 
 def miekkie(winieta, odp):

@@ -84,7 +84,8 @@ def main():
     # "nie znalazlem" != "nie ma". Nazwy pol sa tu DANA, nie domyslem.
     WYMAGANE = {"rdzen", "produkt", "slot", "wartosc", "wartosc_typ",
                 "evidence_key", "zakazane_wartosci", "wymaga_z_paczki",
-                "wymaga_zachowania"}
+                "wymaga_zachowania", "wymagane_zdarzenia", "zakazane_zdarzenia",
+                "warunkowe_z_paczki"}
     OPCJONALNE = {"komentarz", "rola"}
     TYPY_WARTOSCI = {"CYTAT", "WYLICZONA"}
 
@@ -146,6 +147,14 @@ def main():
         for e in k.get("evidence_key") or []:
             if not jest(e):
                 bledy.append("V2 %s: evidence_key '%s' NIE WYSTEPUJE w paczce" % (ident, e))
+        # WARUNKOWE TEZ MUSI ISTNIEC W PACZCE. Inaczej literowka w
+        # zastrzezeniu nigdy nie zapali sie na sprawdzeniu statycznym,
+        # a krotka bedzie zadac napisu, ktorego nie da sie oddac.
+        for r in k.get("warunkowe_z_paczki") or []:
+            m = r.get("wymaga") or ""
+            if not jest(m):
+                bledy.append("V3 %s: 'warunkowe_z_paczki' -> '%s' NIE WYSTEPUJE w paczce"
+                             % (ident, m))
         for m in k.get("wymaga_z_paczki") or []:
             if not jest(m):
                 bledy.append("V3 %s: 'wymaga_z_paczki' -> '%s' NIE WYSTEPUJE w paczce" % (ident, m))
