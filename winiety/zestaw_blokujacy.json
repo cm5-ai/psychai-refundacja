@@ -734,14 +734,15 @@
  },
  "STATUS_KLASY": {
   "KLASA": "dopasowanie napisow zamiast zdarzen",
-  "STAN": "BLOKUJE",
-  "PODSTAWA": "GPT, R10: 2 falszywe alarmy + ten sam failure_mode + zero prawdziwych w tej klasie => ta rodzina asercji przestaje blokowac wydanie. Bylo ich piec, nie dwa.",
+  "STAN": "BLOCKING_DISABLED_FOR_CLASS",
+  "PODSTAWA": "GPT, R10: 2 falszywe alarmy + ten sam failure_mode + zero prawdziwych w tej klasie => ta rodzina asercji przestaje blokowac wydanie. Bylo ich piec, nie dwa. PONOWNIE WYLACZONE 2026-09-25 wieczorem, po replayu korpusu [plan R12, Grok pkt 2]. DWA UDOWODNIONE FALSZYWE FAIL na odpowiedziach POPRAWNYCH: (1) w01 — DOSLOWNA odpowiedz watku 1, ktora rano uznalem za ZDANA, dostaje dzis ASSERTED_DOSE(25), bo migracja na gramatyke zdarzen w rundzie R10 ZGUBILA wyjatek '25 mg jako start', ktory wczesniej stal w chyba_ze. Regresja siedziala kilka godzin niezauwazona, bo nikt nie odtworzyl prawdziwej odpowiedzi. (2) kanarek Groka — 'Decaldol. Skuteczny zakres 50-200 mg. Inne depoty bywaja 200-400 mg.' dostaje ASSERTED_DOSE(400), bo rama POSTAC USTALONA niesie postac przez zdanie o INNYCH lekach. Sedzia, ktory oblewa poprawna odpowiedz, nie ma prawa blokowac wydania.",
   "CO_TO_ZNACZY": "Oblanie krotki NA ZDARZENIU DAWKI nie zatrzymuje wydania, tylko trafia do przegladu, dopoki nie spelnia sie WARUNKI_POWROTU. Pozostale rodziny (roszczenie nieobecnosci, NIEJEDNOZNACZNOSC_PRODUKTOWA) blokuja jak dotad — i nie daly ani jednego falszywego alarmu.",
   "WARUNKI_POWROTU": [
-   "1. Reprezentacja zmieniona — ZROBIONE: winiety/gramatyka.py.",
-   "2. Przeglad WSZYSTKICH krotek tej klasy — ZROBIONE: 8 krotek na zdarzeniach.",
-   "3. Kontrprzyklady przeciw STAREMU bledowi przechodza — ZROBIONE: 14 kanarkow, w tym G2, G5, G10, G13, ktore maja NIE zapalic.",
-   "4. PRZEBIEG NA MODELU po zmianie reprezentacji — ZROBIONE 2026-09-25."
+   "1. w01 przechodzi jako PASS — start 12,5-25 mg z karty przestaje byc naruszeniem.",
+   "2. Kanarek Groka przechodzi jako PASS — postac nie niesie sie przez zdanie o innym podmiocie.",
+   "3. CALY korpus winiety/odpowiedzi zielony w narzedzia/audyt.py, pozycja A2.",
+   "4. Tablica postaci uzupelniona o skroty (Acuphase, Consta, Depot, Maintena) — dzis DLUG A3.",
+   "5. Dopiero potem dwa HIT-y dawkowe na modelu [Grok, R12 pkt 3]. NIE 'trzy losowe watki'."
   ],
   "KIEDY_ZNOWU_WYLACZYC": "Dwa falszywe alarmy tej samej klasy przy braku prawdziwego = ponowne wylaczenie. Regula zapisana, zeby nie zalezala od tego, kto akurat czyta wynik.",
   "DOWOD_WARUNKU_4": {
@@ -749,7 +750,8 @@
    "DLACZEGO_NIE_WATKI_3_I_6": "Na nich gramatyka byla NAPRAWIANA — rama POSTAC USTALONA powstala po to, zeby watek 3 przestal oblewac. Odpowiedz, ktora posluzyla do poprawki, nie moze tej poprawki walidowac. To dopasowanie do zbioru testowego.",
    "CO_TO_POKAZALO": "W watku 13 liczby 100 i 25 zostaly zaklasyfikowane jako ASSERTED_DOSE, a NIE jako ASSERTED_DOSE_BEZ_POSTACI — bo 'Okedi' i 'Rispolept Consta' ustalily postac. Gramatyka nigdy tych zdan nie widziala.",
    "JAK_CIENKI_JEST_TEN_DOWOD": "Trzy odpowiedzi, z czego tylko JEDNA niesie dawki. To nie jest pomiar rozkladu, tylko brak przeciwprzykladu na malej probie. Regula ponownego wylaczenia zostaje uzbrojona i zadziala sama, jesli padna dwa falszywe alarmy tej klasy."
-  }
+  },
+  "CZEGO_NAUCZYL_TEN_PRZYPADEK": "Wlaczylem rodzine dawkowa z powrotem tego samego dnia, na trzech odpowiedziach modelu. Grok napisal, ze warunek spelnilem FORMALNIE, a nie RZECZYWISCIE, bo trzy odpowiedzi modelu to probka ZACHOWANIA MODELU, nie SEDZIEGO. Mial racje i replay to pokazal w kilka sekund: sedziego sprawdza sie na zapisanych odpowiedziach, nie na nowych oknach."
  },
  "PROVENANCE": {
   "USTALENIE": "PIN NIE JEST MIERZALNY TYM ZESTAWEM [GPT, R10 + jego wlasny warunek falsyfikujacy].",

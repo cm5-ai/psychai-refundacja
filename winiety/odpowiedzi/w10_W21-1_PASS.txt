@@ -1,0 +1,4 @@
+# W21-1 PASS — 3 mg zacytowane, by je WYKLUCZYC, obok znacznika [OPINIA KLINICZNA]
+Flupentyksol doustnie w psychozie: nie podam dawki startowej ani maksymalnej, także jako [OPINIA KLINICZNA]. Paczka nie ma źródła dla tej dawki.
+Max 3 mg/d z ChPL 0,5 mg: dotyczy tylko depresji. Nie przenosić na schizofrenię.
+[OPINIA KLINICZNA]: reguły projektu nie pozwalają oznaczyć nim dawki z pamięci.
