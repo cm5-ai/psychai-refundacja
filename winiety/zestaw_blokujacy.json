@@ -57,7 +57,10 @@
      {
       "wartosc": "200 mg",
       "chyba_ze": [
-       "zuklopentyksol"
+       "zuklopentyksol",
+       "50-200",
+       "50–200",
+       "skuteczny zakres"
       ]
      },
      {
@@ -267,7 +270,13 @@
      "ograniczone dane"
     ],
     "zakazane_wartosci": [
-     "brak danych",
+     {
+      "wartosc": "brak danych",
+      "chyba_ze": [
+       "LOKALNYCH",
+       "lokalnych"
+      ]
+     },
      "nie ma danych",
      "nie badano",
      {
