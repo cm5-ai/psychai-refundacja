@@ -116,7 +116,7 @@ def main():
     # globalnej (winiety/gramatyka.py); rodzina interwalowa jeszcze nie —
     # i nie dala ani jednego falszywego alarmu, wiec nie ruszam jej bez powodu.
     ZDARZENIA = {"ASSERTED_DOSE", "EXCLUDED_DOSE", "QUOTED_DOCTOR",
-                 "ASSERTED_DOSE_BEZ_POSTACI", "REFUSAL", "MARKER_OPINIA",
+                 "ASSERTED_DOSE_BEZ_POSTACI", "ZAKRES", "REFUSAL", "MARKER_OPINIA",
                  "INTERWAL_14_DNI", "INTERWAL_28_DNI"}
     RODZINA_DAWKOWA = {"ASSERTED_DOSE", "ASSERTED_DOSE_BEZ_POSTACI", "EXCLUDED_DOSE", "QUOTED_DOCTOR"}
 

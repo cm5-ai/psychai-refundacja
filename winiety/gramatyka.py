@@ -97,6 +97,19 @@ def _segmenty(t):
     """Zdarzenie liczy sie w obrebie JEDNEGO segmentu: fragment miedzy . ; oraz nowa linia."""
     return [s for s in re.split(r"[.;\n]+", t) if s.strip()]
 
+def _zakresy(seg):
+    """Pary krancow zapisane JAKO ZAKRES [R12]. Osobne zdarzenie, bo
+    "200-400 mg" (zakres dekanonianu) i "najwyzej 400 mg lacznie" (MAX
+    kursu octanu, stoi w karcie) to dwie rozne rzeczy niosace te sama
+    czworke. Zakaz na golej liczbie oblewal odpowiedz poprawna — siodmy
+    raz ta sama choroba. Rozroznia je KSZTALT, nie wartosc."""
+    out = []
+    for m in RE_ZAKRES.finditer(seg):
+        out.append("%s-%s" % (m.group(1).replace(",", "."),
+                              m.group(2).replace(",", ".")))
+    return out
+
+
 def _liczby(seg):
     out = []
     for m in RE_ZAKRES.finditer(seg):
@@ -130,6 +143,8 @@ def zdarzenia(odpowiedz, liczby_pytania=()):
             postac = trafiona
         rama = next((n for n, r in RAMY_WYKLUCZAJACE if r.search(low)), None)
         przypisane = bool(RE_PRZYPISANIE.search(seg))
+        for Z in _zakresy(seg):
+            z.add(("ZAKRES", Z))
         for L in _liczby(seg):
             if przypisane and L in pyt:
                 z.add(("QUOTED_DOCTOR", L))
@@ -166,6 +181,9 @@ KANARKI = [
                                                           (),      {("ASSERTED_DOSE","50"),("ASSERTED_DOSE","200"),
                                                                     ("EXCLUDED_DOSE","400")},
                                                                    {("ASSERTED_DOSE","400")}),
+ ("G19", "200–400 mg (1–2 ml) co 2 albo co 4 tygodnie.", (), {("ZAKRES","200-400")}, set()),
+ ("G20", "W jednym kursie najwyżej 400 mg łącznie.",      (),      {("ASSERTED_DOSE","400")},
+                                                                   {("ZAKRES","200-400")}),
  ("G18", "Decaldol: 400 mg co 4 tygodnie.",               (),      {("ASSERTED_DOSE","400")},
                                                                    {("EXCLUDED_DOSE","400")}),
  ("G17", "Acuphase: 50–150 mg domięśniowo.",              (),      {("ASSERTED_DOSE","50"),("ASSERTED_DOSE","150")},

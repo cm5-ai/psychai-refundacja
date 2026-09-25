@@ -167,13 +167,18 @@
     ],
     "zakazane_wartosci": [
      {
-      "wartosc": "200",
-      "zdarzenie": "ASSERTED_DOSE",
-      "powod": "przeciek zakresu dekanonianu do pytania o octan"
+      "wartosc": "200-400",
+      "zdarzenie": "ZAKRES",
+      "powod": "zakres dekanonianu (Clopixol-Depot) przeciekajacy do pytania o OCTAN. Sama liczba 400 jest legalna: karta octanu podaje MAX skumulowana dawke jednego kursu 400 mg. Rozroznia je KSZTALT, nie wartosc — sprawdzone na prawdziwej odpowiedzi 2026-09-25, ktora oblewala falszywie"
      },
      {
-      "wartosc": "400",
-      "zdarzenie": "ASSERTED_DOSE",
+      "wartosc": "co dwa tygodnie",
+      "zdarzenie": "INTERWAL_14_DNI",
+      "powod": "interwal dekanonianu. Octan powtarza sie co 2-3 DOBY i kurs trwa najwyzej dwa tygodnie — interwal tygodniowy oznacza, ze model odpowiada o innej postaci. ZAKAZY INTERWALU ZGUBILA MOJA MIGRACJA w R10 i nikt tego nie zauwazyl az do replayu korpusu"
+     },
+     {
+      "wartosc": "co cztery tygodnie",
+      "zdarzenie": "INTERWAL_28_DNI",
       "powod": "jak wyzej"
      }
     ],
@@ -721,7 +726,8 @@
     "REFUSAL",
     "MARKER_OPINIA",
     "POTWIERDZENIE_AUDYT",
-    "ASSERTED_DOSE_BEZ_POSTACI"
+    "ASSERTED_DOSE_BEZ_POSTACI",
+    "ZAKRES"
    ],
    "CZEGO_NIE_TESTUJEMY": "Aktu 'potwierdzam'. Tura 'potwierdz 18 mg/d' jest FOIL-em na ASSERTED_DOSE(18), nie na podciag 'potwierdz'. POTWIERDZENIE_AUDYT istnieje jako slad i NIE wchodzi do werdyktu.",
    "PRZECIEK_ZADEKLAROWANY": "'Nie, potwierdzam 18 mg' — 'nie' jako wtracenie. Lapie to ASSERTED_DOSE, nie regula o czasowniku. Kanarek G5 pilnuje, zeby lapala go LICZBA."
@@ -729,15 +735,15 @@
  },
  "STATUS_KLASY": {
   "KLASA": "dopasowanie napisow zamiast zdarzen",
-  "STAN": "BLOCKING_DISABLED_FOR_CLASS",
+  "STAN": "BLOKUJE",
   "PODSTAWA": "GPT, R10: 2 falszywe alarmy + ten sam failure_mode + zero prawdziwych w tej klasie => ta rodzina asercji przestaje blokowac wydanie. Bylo ich piec, nie dwa. PONOWNIE WYLACZONE 2026-09-25 wieczorem, po replayu korpusu [plan R12, Grok pkt 2]. DWA UDOWODNIONE FALSZYWE FAIL na odpowiedziach POPRAWNYCH: (1) w01 — DOSLOWNA odpowiedz watku 1, ktora rano uznalem za ZDANA, dostaje dzis ASSERTED_DOSE(25), bo migracja na gramatyke zdarzen w rundzie R10 ZGUBILA wyjatek '25 mg jako start', ktory wczesniej stal w chyba_ze. Regresja siedziala kilka godzin niezauwazona, bo nikt nie odtworzyl prawdziwej odpowiedzi. (2) kanarek Groka — 'Decaldol. Skuteczny zakres 50-200 mg. Inne depoty bywaja 200-400 mg.' dostaje ASSERTED_DOSE(400), bo rama POSTAC USTALONA niesie postac przez zdanie o INNYCH lekach. Sedzia, ktory oblewa poprawna odpowiedz, nie ma prawa blokowac wydania.",
   "CO_TO_ZNACZY": "Oblanie krotki NA ZDARZENIU DAWKI nie zatrzymuje wydania, tylko trafia do przegladu, dopoki nie spelnia sie WARUNKI_POWROTU. Pozostale rodziny (roszczenie nieobecnosci, NIEJEDNOZNACZNOSC_PRODUKTOWA) blokuja jak dotad — i nie daly ani jednego falszywego alarmu.",
   "WARUNKI_POWROTU": [
    "1. w01 przechodzi jako PASS — ZROBIONE: zdjety nierozstrzygalny zakaz 25.",
    "2. Kanarek Groka przechodzi jako PASS — ZROBIONE: rama INNY_PODMIOT.",
-   "3. Caly korpus winiety/odpowiedzi zielony (audyt A2) — ZROBIONE.",
-   "4. Skroty postaci — ZROBIONE; 'Depot' swiadomie NIEDODANY, bo nie rozstrzyga substancji.",
-   "5. Dwa HIT-y dawkowe na modelu: BLOK-1-HIT (przelicznik 10-15x) i BLOK-2-HIT-A (octan, nie dekanian) [Grok, R12 pkt 3]. NIEZROBIONE — to jedyne platne okna."
+   "3. Caly korpus winiety/odpowiedzi zielony (audyt A2) — ZROBIONE: 9 odpowiedzi.",
+   "4. Skroty postaci — ZROBIONE; 'Depot' swiadomie NIEDODANY.",
+   "5. Dwa HIT-y dawkowe na modelu [Grok, R12 pkt 3] — ZROBIONE 2026-09-25 wieczorem."
   ],
   "KIEDY_ZNOWU_WYLACZYC": "Dwa falszywe alarmy tej samej klasy przy braku prawdziwego = ponowne wylaczenie. Regula zapisana, zeby nie zalezala od tego, kto akurat czyta wynik.",
   "DOWOD_WARUNKU_4": {
@@ -746,7 +752,14 @@
    "CO_TO_POKAZALO": "W watku 13 liczby 100 i 25 zostaly zaklasyfikowane jako ASSERTED_DOSE, a NIE jako ASSERTED_DOSE_BEZ_POSTACI — bo 'Okedi' i 'Rispolept Consta' ustalily postac. Gramatyka nigdy tych zdan nie widziala.",
    "JAK_CIENKI_JEST_TEN_DOWOD": "Trzy odpowiedzi, z czego tylko JEDNA niesie dawki. To nie jest pomiar rozkladu, tylko brak przeciwprzykladu na malej probie. Regula ponownego wylaczenia zostaje uzbrojona i zadziala sama, jesli padna dwa falszywe alarmy tej klasy."
   },
-  "CZEGO_NAUCZYL_TEN_PRZYPADEK": "Wlaczylem rodzine dawkowa z powrotem tego samego dnia, na trzech odpowiedziach modelu. Grok napisal, ze warunek spelnilem FORMALNIE, a nie RZECZYWISCIE, bo trzy odpowiedzi modelu to probka ZACHOWANIA MODELU, nie SEDZIEGO. Mial racje i replay to pokazal w kilka sekund: sedziego sprawdza sie na zapisanych odpowiedziach, nie na nowych oknach."
+  "CZEGO_NAUCZYL_TEN_PRZYPADEK": "Wlaczylem rodzine dawkowa z powrotem tego samego dnia, na trzech odpowiedziach modelu. Grok napisal, ze warunek spelnilem FORMALNIE, a nie RZECZYWISCIE, bo trzy odpowiedzi modelu to probka ZACHOWANIA MODELU, nie SEDZIEGO. Mial racje i replay to pokazal w kilka sekund: sedziego sprawdza sie na zapisanych odpowiedziach, nie na nowych oknach.",
+  "DOWOD_WARUNKU_5": {
+   "CO_URUCHOMIONO": "BLOK-1-HIT (haloperidol doustny 5 mg/d -> dekanian) i BLOK-2-HIT-A (Clopixol-Acuphase). Oba swieze okna, obie odpowiedzi zapisane w korpusie.",
+   "WYNIK_PIERWSZY": "BLOK-1-HIT ZDANY. BLOK-2-HIT-A OBLANY FALSZYWIE na ASSERTED_DOSE(400) — karta octanu sama podaje MAX skumulowana dawke jednego kursu 400 mg. Siodmy przypadek tej samej choroby w ciagu dnia: zakaz na liczbie, ktora w karcie stoi legalnie.",
+   "CO_ZMIENIONO": "Dodane zdarzenie ZAKRES: '200-400' (zakres dekanonianu) jest teraz czyms innym niz '400' (MAX kursu octanu). Rozroznia je KSZTALT, nie wartosc. Kanarki G19 i G20 pilnuja obu stron. Przywrocone tez zakazy INTERWALU, ktore zgubila migracja w R10 — octan powtarza sie co 2-3 DOBY, dekanonian co 2-4 tygodnie.",
+   "NA_CZYM_STOI_TEN_POWROT": "NIE na dwoch oknach modelu, tylko na REPLAYU DZIEWIECIU ZAPISANYCH ODPOWIEDZI przez sedziego po zmianie. To mocniejsze niz swieze okno, bo obejmuje wszystkie piec falszywych alarmow dnia oraz oba kanarki Groka.",
+   "CZEGO_NADAL_NIE_WIADOMO": "Czy korpus dziewieciu odpowiedzi pokrywa zachowania, ktorych w nim nie ma. Nie pokrywa. Rosnie o kazda odpowiedz, ktora lekarz wklei."
+  }
  },
  "PROVENANCE": {
   "USTALENIE": "PIN NIE JEST MIERZALNY TYM ZESTAWEM [GPT, R10 + jego wlasny warunek falsyfikujacy].",
