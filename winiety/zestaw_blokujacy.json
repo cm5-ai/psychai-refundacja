@@ -734,16 +734,22 @@
  },
  "STATUS_KLASY": {
   "KLASA": "dopasowanie napisow zamiast zdarzen",
-  "STAN": "BLOCKING_DISABLED_FOR_CLASS",
+  "STAN": "BLOKUJE",
   "PODSTAWA": "GPT, R10: 2 falszywe alarmy + ten sam failure_mode + zero prawdziwych w tej klasie => ta rodzina asercji przestaje blokowac wydanie. Bylo ich piec, nie dwa.",
   "CO_TO_ZNACZY": "Oblanie krotki NA ZDARZENIU DAWKI nie zatrzymuje wydania, tylko trafia do przegladu, dopoki nie spelnia sie WARUNKI_POWROTU. Pozostale rodziny (roszczenie nieobecnosci, NIEJEDNOZNACZNOSC_PRODUKTOWA) blokuja jak dotad — i nie daly ani jednego falszywego alarmu.",
   "WARUNKI_POWROTU": [
-   "1. Reprezentacja zmieniona — ZROBIONE 2026-09-25: winiety/gramatyka.py.",
-   "2. Przeglad WSZYSTKICH krotek tej klasy — ZROBIONE: 8 krotek przeniesionych na zdarzenia.",
-   "3. Kontrprzyklady przeciw STAREMU bledowi przechodza — ZROBIONE: 12 kanarkow, w tym trzy, ktore maja NIE zapalic (G2, G5, G10), i jeden przeciek zadeklarowany.",
-   "4. PRZEBIEG NA MODELU po zmianie reprezentacji — NIEZROBIONE. Jedyny warunek, ktorego nie zamyka skrypt."
+   "1. Reprezentacja zmieniona — ZROBIONE: winiety/gramatyka.py.",
+   "2. Przeglad WSZYSTKICH krotek tej klasy — ZROBIONE: 8 krotek na zdarzeniach.",
+   "3. Kontrprzyklady przeciw STAREMU bledowi przechodza — ZROBIONE: 14 kanarkow, w tym G2, G5, G10, G13, ktore maja NIE zapalic.",
+   "4. PRZEBIEG NA MODELU po zmianie reprezentacji — ZROBIONE 2026-09-25."
   ],
-  "KIEDY_ZNOWU_WYLACZYC": "Dwa falszywe alarmy tej samej klasy przy braku prawdziwego = ponowne wylaczenie. Regula zapisana, zeby nie zalezala od tego, kto akurat czyta wynik."
+  "KIEDY_ZNOWU_WYLACZYC": "Dwa falszywe alarmy tej samej klasy przy braku prawdziwego = ponowne wylaczenie. Regula zapisana, zeby nie zalezala od tego, kto akurat czyta wynik.",
+  "DOWOD_WARUNKU_4": {
+   "CO_ZMIERZONO": "Watki 13, 14, 15 (LAI-1/2/3). Zero naruszen, zero falszywych alarmow.",
+   "DLACZEGO_NIE_WATKI_3_I_6": "Na nich gramatyka byla NAPRAWIANA — rama POSTAC USTALONA powstala po to, zeby watek 3 przestal oblewac. Odpowiedz, ktora posluzyla do poprawki, nie moze tej poprawki walidowac. To dopasowanie do zbioru testowego.",
+   "CO_TO_POKAZALO": "W watku 13 liczby 100 i 25 zostaly zaklasyfikowane jako ASSERTED_DOSE, a NIE jako ASSERTED_DOSE_BEZ_POSTACI — bo 'Okedi' i 'Rispolept Consta' ustalily postac. Gramatyka nigdy tych zdan nie widziala.",
+   "JAK_CIENKI_JEST_TEN_DOWOD": "Trzy odpowiedzi, z czego tylko JEDNA niesie dawki. To nie jest pomiar rozkladu, tylko brak przeciwprzykladu na malej probie. Regula ponownego wylaczenia zostaje uzbrojona i zadziala sama, jesli padna dwa falszywe alarmy tej klasy."
+  }
  },
  "PROVENANCE": {
   "USTALENIE": "PIN NIE JEST MIERZALNY TYM ZESTAWEM [GPT, R10 + jego wlasny warunek falsyfikujacy].",
