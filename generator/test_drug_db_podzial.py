@@ -205,6 +205,26 @@ def main():
     UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
                        "ESTAZOLAM", "BROMAZEPAM", "ARYPIPRAZOL", "OLANZAPINA",
                        "RISPERIDON", "HALOPERIDOL", "ZUKLOPENTYKSOL"])   # patrz DOPISANE w T7
+    # NORMALIZACJE PISOWNI POLA — DANA, NIE DOMYSL PARSERA [2026-09-25].
+    # rev48 ("jedno pole przestaje miec dwie pisownie") celowo ujednolicila
+    # nazwy pol w plikach klasowych. Zrodlo T2 jest ZAMROZONE na commicie
+    # sprzed podzialu, wiec od tamtej pory rozni sie od plikow w kazdej
+    # karcie, ktora te pisownie niosla — i T2 oblewal w CI przez 52 commity
+    # na tych samych czterech kartach. Kontrola czerwona od 52 commitow nie
+    # jest kontrola: uczy kasowania maila.
+    # NIE ROZLUZNIAM T2. Podstawiam WYLACZNIE te pary, ktore rev48 zmieniala,
+    # i licze, ile razy kazda byla potrzebna. Para nieuzyta ani razu jest
+    # martwym wylaczeniem i ma to byc widac.
+    NORMALIZACJE = [("CIAZA:", "CIĄŻA:")]
+    uzyte = dict((a, 0) for a, _ in NORMALIZACJE)
+
+    def znormalizuj(linia):
+        for a, b in NORMALIZACJE:
+            if linia.startswith(a):
+                uzyte[a] += 1
+                return b + linia[len(a):]
+        return linia
+
     rozne = 0
     for n, tresc_zr in karty_zr.items():
         if n not in gdzie:
@@ -234,10 +254,16 @@ def main():
             for i in range(max(len(a), len(b))):
                 x = a[i] if i < len(a) else "<brak linii>"
                 y = b[i] if i < len(b) else "<brak linii>"
-                if x != y:
+                if x != y and znormalizuj(x) != y:
                     bledy.append("T2 %s linia %d: zrodlo %r != plik %r" % (n, i, x[:60], y[:60]))
                     break
     print("T2 TRESC KART: %d roznych z %d" % (rozne, len(karty_zr)))
+    for a, b in NORMALIZACJE:
+        if uzyte[a]:
+            print("   T2 normalizacja %r -> %r uzyta %d razy [rev48]" % (a, b, uzyte[a]))
+        else:
+            bledy.append("T2 normalizacja %r -> %r NIE BYLA POTRZEBNA ani razu — "
+                         "martwe wylaczenie, zapis o swiecie sprzed poprawki" % (a, b))
 
     # T4
     core_L = open(os.path.join(PROJEKT, CORE), encoding="utf-8").read().split("\n")

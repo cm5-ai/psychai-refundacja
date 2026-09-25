@@ -96,6 +96,18 @@ else
   # implementacje; tablica zostaje i ma czym sie nie zgodzic. Zmierzone
   # 2026-09-25: ta sama mutacja z kanarkiem WEWNATRZ gramatyki przechodzila
   # przez wszystkie 25 bramek obu repozytoriow.
+  # TE TRZY CHODZILY WYLACZNIE NA GITHUBIE [2026-09-25].
+  # Kontrola L1 w Actions uruchamiala test_drug_db_podzial,
+  # test_przypisanie_klas i test_pokrycie_18; hak lokalny nie. Skutek:
+  # test podzialu byl CZERWONY przez 52 commity, a lekarz dowiadywal sie
+  # o tym MAILEM PO pchnieciu — czyli wtedy, gdy zmiana byla juz na
+  # origin i nie dalo sie jej zatrzymac. Cztery maile jednego wieczoru
+  # o jednej i tej samej awarii ucza kasowania maili.
+  # To nie jest nowa kontrola. To ta sama kontrola, uruchomiona ZANIM
+  # cokolwiek pojdzie na GitHub.
+  sprawdz "podzial DRUG_DB"   "$KORZEN/generator/test_drug_db_podzial.py"
+  sprawdz "przypisanie klas"  "$KORZEN/generator/test_przypisanie_klas.py"
+  sprawdz "pokrycie 18"       "$KORZEN/generator/test_pokrycie_18.py"
   sprawdz "kanarki sedziego"  "$KORZEN/winiety/kanarki.py"
   sprawdz "zestaw blokujacy"  "$KORZEN/winiety/sprawdz_zestaw.py"
   sprawdz "audyt kompletnosci" "$KORZEN/generator/audyt_kompletnosci.py"
