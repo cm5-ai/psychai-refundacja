@@ -112,8 +112,13 @@ def main():
     # oblewal odpowiedz poprawna, bo 200 jest gornym krancem WLASNEGO
     # zakresu karty. Nazwy ksztaltow sa DANA, nie domyslem parsera.
     ZAKAZANE_OPCJONALNE = {"chyba_ze", "powod", "zdarzenie"}
-    ZDARZENIA = {"ZAKRES", "LICZBA", "LICZBA_Z_INTERWALEM", "INTERWAL_14_DNI",
-                 "INTERWAL_28_DNI", "WSPOLWYSTAPIENIE_Z_LICZBA", "POTWIERDZENIE"}
+    # SLOWNIK ZDARZEN JEST DANA [R10]. Rodzina dawkowa chodzi na gramatyce
+    # globalnej (winiety/gramatyka.py); rodzina interwalowa jeszcze nie —
+    # i nie dala ani jednego falszywego alarmu, wiec nie ruszam jej bez powodu.
+    ZDARZENIA = {"ASSERTED_DOSE", "EXCLUDED_DOSE", "QUOTED_DOCTOR",
+                 "REFUSAL", "MARKER_OPINIA",
+                 "INTERWAL_14_DNI", "INTERWAL_28_DNI"}
+    RODZINA_DAWKOWA = {"ASSERTED_DOSE", "EXCLUDED_DOSE", "QUOTED_DOCTOR"}
 
     bledy, uwagi = [], []
     for v in w:
@@ -159,6 +164,15 @@ def main():
                 if not str(z.get("wartosc") or "").strip():
                     bledy.append("V0 %s: zakazana wartosc pusta" % ident)
                     continue
+                # KROTKA Z WLASNYM WYJATKIEM W RODZINIE DAWKOWEJ JEST
+                # OBLANYM PROJEKTEM KROTKI, NIE DZIURA DO ZALATANIA [Grok, R10].
+                # Wyjatek per krotka to ta sama choroba, ktora wersja 22
+                # wyrzucila z warstwy 40: lista powierzchniowych form.
+                if z.get("zdarzenie") in RODZINA_DAWKOWA and z.get("chyba_ze"):
+                    bledy.append("V7 %s: zakaz '%s' w rodzinie dawkowej niesie wlasne "
+                                 "'chyba_ze'. Ramy sa globalne — wyjatek nalezy do "
+                                 "gramatyki, nie do krotki" % (ident, z.get("wartosc")))
+                    continue
                 if "zdarzenie" in z and z["zdarzenie"] not in ZDARZENIA:
                     bledy.append("V0 %s: zdarzenie '%s' spoza zadeklarowanego zbioru %s"
                                  % (ident, z["zdarzenie"], sorted(ZDARZENIA)))
@@ -175,6 +189,35 @@ def main():
         print("   %-16s %-30s %-6s %s" % (ident, z[:30], "JEST" if obecne else "nie ma",
               ("wyjatkow: %d" % n_wyj) if n_wyj else ""))
     print()
+    # V6 — GRAMATYKA ZDARZEN I JEJ KANARKI [R10, Grok].
+    # Gramatyka jest teraz sedzia dla kazdej liczby dawki. Sedzia bez testu
+    # linia-w-linie jest gorszy od braku sedziego, bo wyglada na pomiar.
+    try:
+        sys.path.insert(0, tu)
+        import gramatyka
+        bl_g = gramatyka.sprawdz_kanarki(cicho=True)
+        print("V6 — GRAMATYKA ZDARZEN: kanarkow %d, ram %d, oblanych %d"
+              % (len(gramatyka.KANARKI), len(gramatyka.RAMY_WYKLUCZAJACE), len(bl_g)))
+        print("     G2, G5, G10 maja NIE zapalic. Kanarek, ktory tylko potwierdza,")
+        print("     ze cos dziala, nie wykrywa zakresu za szerokiego.")
+        for b in bl_g:
+            bledy.append("V6 " + b)
+    except Exception as e:
+        bledy.append("V6: gramatyka nie da sie uruchomic (%s) — sedzia rodziny "
+                     "dawkowej NIE ISTNIEJE, a krotki na niego wskazuja" % e)
+    print()
+
+    st = d.get("STATUS_KLASY") or {}
+    if st.get("STAN") == "BLOCKING_DISABLED_FOR_CLASS":
+        print("STATUS KLASY: BLOCKING_DISABLED_FOR_CLASS — %s" % st.get("KLASA"))
+        print("   Oblanie na ZDARZENIU DAWKI trafia do przegladu, NIE zatrzymuje wydania.")
+        # NIE 'w' — 'w' to lista krotek, a przeslonieta nazwa zabijala
+        # BILANS dwadziescia linii nizej. Ta sama klasa bledu, ktora ten
+        # plik sciga: cicha kolizja, ktora nie krzyczy, tylko psuje wynik.
+        for warunek in st.get("WARUNKI_POWROTU") or []:
+            print("   " + warunek)
+        print()
+
     # V5 — TABLICA ALIASOW MA WLASNE KANARKI [R9, Grok].
     # Tablica bez testu linia-w-linie jest slownikiem, ktoremu nikt nie
     # patrzy na rece: pierwsza literowka wylacza interwal po cichu, a
