@@ -22,7 +22,7 @@ REGULY
       (zwroty falszywej nieobecnosci). Raport pokazuje, ktore sa ktore.
   V5  bilans: N_WEJSCIE = liczba krotek, nie liczba plikow
 """
-import json, os, sys, glob, unicodedata
+import json, os, re, sys, glob, unicodedata
 
 def _paczka():
     k = os.environ.get("PSYCHAI_PACZKA")
@@ -107,7 +107,13 @@ def main():
         return 1
 
     ZAKAZANE_WYMAGANE = {"wartosc"}
-    ZAKAZANE_OPCJONALNE = {"chyba_ze", "powod"}
+    # "zdarzenie" [R9, Grok]: zakaz nie na NAPIS, tylko na KSZTALT — zakres,
+    # liczba z interwalem, wspolwystapienie. Bez tego pola zakaz "200 mg"
+    # oblewal odpowiedz poprawna, bo 200 jest gornym krancem WLASNEGO
+    # zakresu karty. Nazwy ksztaltow sa DANA, nie domyslem parsera.
+    ZAKAZANE_OPCJONALNE = {"chyba_ze", "powod", "zdarzenie"}
+    ZDARZENIA = {"ZAKRES", "LICZBA", "LICZBA_Z_INTERWALEM", "INTERWAL_14_DNI",
+                 "INTERWAL_28_DNI", "WSPOLWYSTAPIENIE_Z_LICZBA", "POTWIERDZENIE"}
 
     bledy, uwagi = [], []
     for v in w:
@@ -153,6 +159,10 @@ def main():
                 if not str(z.get("wartosc") or "").strip():
                     bledy.append("V0 %s: zakazana wartosc pusta" % ident)
                     continue
+                if "zdarzenie" in z and z["zdarzenie"] not in ZDARZENIA:
+                    bledy.append("V0 %s: zdarzenie '%s' spoza zadeklarowanego zbioru %s"
+                                 % (ident, z["zdarzenie"], sorted(ZDARZENIA)))
+                    continue
             wart = z.get("wartosc", "") if isinstance(z, dict) else z
             wyj = (z.get("chyba_ze") or []) if isinstance(z, dict) else []
             uwagi.append((ident, wart, jest(wart), len(wyj)))
@@ -165,6 +175,63 @@ def main():
         print("   %-16s %-30s %-6s %s" % (ident, z[:30], "JEST" if obecne else "nie ma",
               ("wyjatkow: %d" % n_wyj) if n_wyj else ""))
     print()
+    # V5 — TABLICA ALIASOW MA WLASNE KANARKI [R9, Grok].
+    # Tablica bez testu linia-w-linie jest slownikiem, ktoremu nikt nie
+    # patrzy na rece: pierwsza literowka wylacza interwal po cichu, a
+    # zestaw dalej mowi "SPOJNY". Kanarek KAN-3 pilnuje jednego konkretnego
+    # bledu — dopasowania po podciagu ("co 2 tyg" w "co 24 tygodnie").
+    za = d.get("ZDARZENIA_I_ALIASY")
+    if not za:
+        bledy.append("V5: brak ZDARZENIA_I_ALIASY — zakazy na ksztalt nie maja definicji")
+    else:
+        tab = za.get("TABLICA_ALIASOW") or {}
+        kan = za.get("KANARKI") or []
+        if not tab:
+            bledy.append("V5: TABLICA_ALIASOW pusta — kazdy interwal przeciekalby")
+        if not kan:
+            bledy.append("V5: tablica aliasow BEZ KANARKOW — slownik bez testu")
+        wsz = [(k, a) for k, lst in tab.items() for a in lst]
+        dubel = [a for _, a in wsz if [x for _, x in wsz].count(a) > 1]
+        if dubel:
+            bledy.append("V5: alias w dwoch klasach interwalu: %s" % sorted(set(dubel)))
+
+        def interwaly(tekst):
+            """Dopasowanie PO GRANICY SLOWA, nigdy po podciagu."""
+            low = " " + re.sub(r"[^0-9a-ząćęłńóśżź.]+", " ", tekst.lower()) + " "
+            out = set()
+            for klasa, lista in tab.items():
+                for a in lista:
+                    wz = " " + re.sub(r"[^0-9a-ząćęłńóśżź.]+", " ", a.lower()).strip() + " "
+                    if wz in low:
+                        out.add(klasa)
+            return out
+
+        oczek = {"KAN-1": {"28_DNI"}, "KAN-2": {"14_DNI"}, "KAN-3": set(),
+                 "KAN-4": set(), "KAN-5": {"28_DNI"}, "KAN-6": set()}
+        n_kan = 0
+        for c in kan:
+            ident_k = c.get("id")
+            if ident_k not in oczek:
+                bledy.append("V5: kanarek %s bez oczekiwania w kodzie — kanarek, "
+                             "ktorego nikt nie sprawdza, jest komentarzem" % ident_k)
+                continue
+            n_kan += 1
+            mam = interwaly(c.get("tekst", ""))
+            if mam != oczek[ident_k]:
+                bledy.append("V5 %s: tekst %r -> interwaly %s, oczekiwano %s"
+                             % (ident_k, c.get("tekst"), sorted(mam) or "brak",
+                                sorted(oczek[ident_k]) or "brak"))
+        brak_kan = set(oczek) - {c.get("id") for c in kan}
+        if brak_kan:
+            bledy.append("V5: kod oczekuje kanarkow, ktorych w pliku NIE MA: %s"
+                         % sorted(brak_kan))
+        print("V5 — TABLICA ALIASOW: klas %d, aliasow %d, kanarkow odpalonych %d/%d"
+              % (len(tab), len(wsz), n_kan, len(oczek)))
+        print("     KAN-3 i KAN-4 maja NIE zapalic. Kanarek, ktory tylko potwierdza,")
+        print("     ze cos dziala, nie wykrywa zakresu za szerokiego.")
+        print("     KAN-6 przeciek ZNANY I ZADEKLAROWANY: liczebnik slowny.")
+        print()
+
     print("BILANS: krotek %d, sprawdzen V1-V3 wykonanych %d, zakazanych %d"
           % (len(w), sum(1 + len(v["krotka"].get("evidence_key") or [])
                          + len(v["krotka"].get("wymaga_z_paczki") or []) for v in w), len(uwagi)))
