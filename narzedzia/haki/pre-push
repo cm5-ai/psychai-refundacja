@@ -91,6 +91,12 @@ if [ "$NAZWA" = "psychai-paczka" ]; then
 else
   sprawdz "bramka tozsamosci" "$KORZEN/narzedzia/bramka_tozsamosci.py"
   sprawdz "straz L4 x RPL"    "$KORZEN/generator/straz_rpl.py"
+  # KANARKI SEDZIEGO OSOBNO, PRZED ZESTAWEM. Specyfikacja mieszka
+  # w kanarki.tsv, implementacja w gramatyka.py. Mutacja sedziego psuje
+  # implementacje; tablica zostaje i ma czym sie nie zgodzic. Zmierzone
+  # 2026-09-25: ta sama mutacja z kanarkiem WEWNATRZ gramatyki przechodzila
+  # przez wszystkie 25 bramek obu repozytoriow.
+  sprawdz "kanarki sedziego"  "$KORZEN/winiety/kanarki.py"
   sprawdz "zestaw blokujacy"  "$KORZEN/winiety/sprawdz_zestaw.py"
   sprawdz "audyt kompletnosci" "$KORZEN/generator/audyt_kompletnosci.py"
 fi
