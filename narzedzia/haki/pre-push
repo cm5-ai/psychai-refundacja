@@ -108,6 +108,10 @@ else
   sprawdz "podzial DRUG_DB"   "$KORZEN/generator/test_drug_db_podzial.py"
   sprawdz "przypisanie klas"  "$KORZEN/generator/test_przypisanie_klas.py"
   sprawdz "pokrycie 18"       "$KORZEN/generator/test_pokrycie_18.py"
+  # LUSTRO POLITYKI — skrypt mieszka w psychai-paczka, bo kontrola na
+  # duplikat nie moze sama byc duplikatem. Gdy paczki nie ma obok,
+  # zglasza POMINIETE, a nie "ok".
+  sprawdz "lustro polityki"   "$KORZEN/../psychai-paczka/narzedzia/lustro_polityki.py"
   sprawdz "kanarki sedziego"  "$KORZEN/winiety/kanarki.py"
   sprawdz "zestaw blokujacy"  "$KORZEN/winiety/sprawdz_zestaw.py"
   sprawdz "audyt kompletnosci" "$KORZEN/generator/audyt_kompletnosci.py"
