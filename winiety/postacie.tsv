@@ -1,0 +1,23 @@
+# POSTACIE I PRODUKTY — TABLICA ZAMKNIETA [R10, 2026-09-25]
+# Po co: "200-400 mg" podane POD NAZWANA POSTACIA to odpowiedz wzorowa
+# (par. 3A pkt 5: podaj galezie albo zapytaj). Ta sama liczba BEZ ustalonej
+# postaci to dawka nie wiadomo czego. Roznica jest w RAMIE, nie w liczbie —
+# wiec nalezy do gramatyki globalnej, nie do wyjatku przy krotce.
+# Nazwa ustalona w segmencie obowiazuje do nastepnego segmentu, ktory
+# ustala inna postac. Kazdy wpis musi wystepowac w paczce (martwy = FAIL).
+# TOKEN<TAB>POWOD
+Clopixol-Acuphase	octan zuklopentyksolu, postac dorazna
+Clopixol-Depot	dekanonian zuklopentyksolu, postac podtrzymujaca
+octan	postac zuklopentyksolu, uzywana w karcie jako nazwa pola
+dekanonian	postac zuklopentyksolu, uzywana w karcie jako nazwa pola
+dekanian	postac haloperidolu i flupentyksolu
+Decaldol	dekanian haloperidolu
+Fluanxol Depot	dekanian flupentyksolu
+Zypadhera	pamoinian olanzapiny
+Abilify Maintena	arypiprazol o przedluzonym uwalnianiu
+Rispolept Consta	risperidon co dwa tygodnie
+Okedi	risperidon co 28 dni
+Trevicta	paliperydon 3-miesieczny
+BYANNLI	paliperydon 6-miesieczny
+Xeplion	paliperydon miesieczny
+doustn	postac doustna — ustala rame tak samo jak produkt depot
