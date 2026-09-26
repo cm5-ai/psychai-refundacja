@@ -208,10 +208,20 @@ def main():
                   # ktorego lekarz nie wypisze, wiec zeszla na Paliperidone Teva.
                   "PALIPERYDON": (2, "POSTAC: lista produktow zmieniona z Denepry na produkty "
                                      "faktycznie na rynku; ZRODLO_KARTY: ChPL Denepry -> ChPL "
-                                     "Paliperidone Teva 75/100/150 mg (rev68)")}
+                                     "Paliperidone Teva 75/100/150 mg (rev68)"),
+                  # rev72, 2026-09-27: pomiar cache wobec rynku (dokumentacja/
+                  # CACHE_A_RYNEK_2026-09-27.md). Karta klozapiny stoi na ChPL
+                  # Ayupilu, a lekarz w aptece spotyka Klozapol, ktorego ChPL
+                  # w paczce NIE MA. Karty NIE PRZESTAWIAM — nie ma na co.
+                  # ZRODLO_KARTY mowi to wprost, zamiast milczec: milczenie
+                  # czyta sie jak 'to jest dawkowanie tego, co pacjent kupi'.
+                  "KLOZAPINA": (1, "ZRODLO_KARTY: dopisane, ze cache ma trzy produkty "
+                                   "(Ayupil, Clopizam, Clozapine Hasco) i ze ChPL Klozapolu "
+                                   "w paczce nie ma, wiec karta nie orzeka o nim nic (R28/P6)")}
     UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
                        "ESTAZOLAM", "BROMAZEPAM", "ARYPIPRAZOL", "OLANZAPINA",
-                       "RISPERIDON", "HALOPERIDOL", "ZUKLOPENTYKSOL"])   # patrz DOPISANE w T7
+                       "RISPERIDON", "HALOPERIDOL", "ZUKLOPENTYKSOL",
+                       "KLOZAPINA"])   # patrz DOPISANE w T7
     # NORMALIZACJE PISOWNI POLA — DANA, NIE DOMYSL PARSERA [2026-09-25].
     # rev48 ("jedno pole przestaje miec dwie pisownie") celowo ujednolicila
     # nazwy pol w plikach klasowych. Zrodlo T2 jest ZAMROZONE na commicie
