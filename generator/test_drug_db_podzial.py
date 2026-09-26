@@ -201,7 +201,14 @@ def main():
                   # rev.47: przeliczniki intra-lek przeniesione z 18 do kart,
                   # tabela rownowaznosci depotow zostawiona w 18 jako JEDEN byt
                   "FLUPENTYKSOL": (1, "'PRZELICZNIK ... patrz 18' -> wlasciwy przelicznik w karcie plus odeslanie do tabeli rownowaznosci"),
-                  "ZUKLOPENTYKSOL": (1, "DAWKA_ROWNOWAZNA: kopia tabeli rownowaznosci usunieta, zostaje odeslanie i czesc wlasna zuklopentyksolu")}
+                  "ZUKLOPENTYKSOL": (1, "DAWKA_ROWNOWAZNA: kopia tabeli rownowaznosci usunieta, zostaje odeslanie i czesc wlasna zuklopentyksolu"),
+                  # rev68, 2026-09-26: lekarz zglosil, ze Denepry nie ma w Polsce.
+                  # Sprawdzone: w RPL zarejestrowana, ale na liscie preparatow na rynku
+                  # polskim (Medycyna Praktyczna) jej nie ma. Karta stala na ChPL produktu,
+                  # ktorego lekarz nie wypisze, wiec zeszla na Paliperidone Teva.
+                  "PALIPERYDON": (2, "POSTAC: lista produktow zmieniona z Denepry na produkty "
+                                     "faktycznie na rynku; ZRODLO_KARTY: ChPL Denepry -> ChPL "
+                                     "Paliperidone Teva 75/100/150 mg (rev68)")}
     UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
                        "ESTAZOLAM", "BROMAZEPAM", "ARYPIPRAZOL", "OLANZAPINA",
                        "RISPERIDON", "HALOPERIDOL", "ZUKLOPENTYKSOL"])   # patrz DOPISANE w T7
@@ -458,11 +465,14 @@ def main():
     # swiadome dopisanie pola. Kazda pozycja to jawny dlug: ile linii dopisano
     # i dlaczego. Bez tej tabeli jedyne wyjscie to wylaczenie T7 dla calej karty,
     # co skasowaloby ochrone reszty jej pol.
-    DOPISANE = {"PALIPERYDON": (8, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
+    DOPISANE = {"PALIPERYDON": (9, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
                                    "w karcie depot, oraz CIĄŻA i KP — audyt kart z 2026-09-24. "
-                                   "+1 od 2026-09-26: NIEPEWNY_ODCZYT_ZRODLA dla Denepry — szesc "
-                                   "dokumentow ChPL (25/50/75/100/150 mg) pod jedna nazwa, "
-                                   "wycofane DAWKA_STARSI i DAWKA_DZIECI wg R20-2"),
+                                   "+1 od 2026-09-26: PIN_ZBIOROWY_ZRODLA (wczesniej "
+                                   "NIEPEWNY_ODCZYT_ZRODLA) — pod jedna nazwa handlowa lezy kilka "
+                                   "dokumentow ChPL, wiec egzemplarz jest nierozstrzygniety. "
+                                   "+1 od rev68: DOSTEPNOSC — nowe pole, bo REJESTRACJA TO NIE OBROT: "
+                                   "Denepra jest w RPL, a nie ma jej na rynku, i paczka nie miala gdzie "
+                                   "tego zapisac"),
                 "FLUPENTYKSOL": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "TIAPRYD": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "METADON": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
