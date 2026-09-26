@@ -431,8 +431,11 @@ def main():
     # swiadome dopisanie pola. Kazda pozycja to jawny dlug: ile linii dopisano
     # i dlaczego. Bez tej tabeli jedyne wyjscie to wylaczenie T7 dla calej karty,
     # co skasowaloby ochrone reszty jej pol.
-    DOPISANE = {"PALIPERYDON": (7, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
-                                   "w karcie depot, oraz CIĄŻA i KP — audyt kart z 2026-09-24"),
+    DOPISANE = {"PALIPERYDON": (8, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
+                                   "w karcie depot, oraz CIĄŻA i KP — audyt kart z 2026-09-24. "
+                                   "+1 od 2026-09-26: NIEPEWNY_ODCZYT_ZRODLA dla Denepry — szesc "
+                                   "dokumentow ChPL (25/50/75/100/150 mg) pod jedna nazwa, "
+                                   "wycofane DAWKA_STARSI i DAWKA_DZIECI wg R20-2"),
                 "FLUPENTYKSOL": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "TIAPRYD": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "METADON": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
@@ -443,7 +446,10 @@ def main():
                 "BUPRENORFINA": (1, "DAWKA_DEPOT Buvidal: cztery wiersze Tabeli 1 potwierdzone przez lekarza 2026-09-26 wobec annexu z 2018; wiersz 26-32 mg pozostaje zablokowany"),
                 "RISPERIDON": (0, "dawki depot Rispolept Consta i Okedi — linie bez naglowka pola"),
                 "PALIPERYDON_LAI": (1, "Trevicta i BYANNLI: ODSTEPY_ZMIANA_LECZENIA; liczone w pozycji PALIPERYDON"),
-                "HALOPERIDOL": (1, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; DAWKA depot przeniesiona z 18 nie jest linia pola"),
+                "HALOPERIDOL": (2, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; DAWKA depot przeniesiona z 18 nie jest linia pola. +1 od 2026-09-26: NIEPEWNY_ODCZYT_ZRODLA dla Haloperidolu WZF — pod ta nazwa leza dwa dokumenty ChPL (tabletka 1 mg i iniekcja 5 mg/ml), galaz PRZECIWWSKAZANIA wycofana wg R20-2"),
+                "LORAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Lorabexu — trzy dokumenty pod jedna nazwa (0,5 mg tabl., 2 mg/ml i 4 mg/ml inj.); wycofane DAWKA_STARSI, DAWKA_DZIECI, PRZECIWWSKAZANIA wg R20-2"),
+                "KLONAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Clonazepamum TZF — tabletka 0,5 mg i iniekcja 1 mg/ml pod jedna nazwa; wycofane DAWKA_STARSI i PRZECIWWSKAZANIA wg R20-2"),
+                "DIAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Neorelium — tabletka 5 mg i iniekcja 5 mg/ml pod jedna nazwa; to ten przypadek, ktory ujawnil cala klase (R20)"),
                 "FLUPENTYKSOL_ROWNOWAZNA": (1, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; liczone osobno od CIĄŻA i KP")}
     delta = sum(n for n, _ in DOPISANE.values())
     if n_zr_karty + delta != n_po:
