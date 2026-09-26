@@ -225,6 +225,37 @@ def main():
                 return b + linia[len(a):]
         return linia
 
+    # ---------------------------------------------------------------------
+    # LINIE POSTAWIONE PRZEZ NARZEDZIE, NIE RECZNIE [R16, 2026-09-26].
+    #
+    # Do dzis kazde swiadome uzupelnienie karty bylo wpisywane RECZNIE do
+    # UZUPELNIONE i DOPISANE. To dzialalo, dopoki uzupelnien bylo
+    # kilkanascie. narzedzia/przenies_pola_chpl.py dopisal 78 pol i wypelnil
+    # 33 — enumeracja kart urosla by do setek pozycji i przestalaby byc
+    # czytana, czyli przestalaby cokolwiek chronic.
+    #
+    # Dlatego linia narzedziowa jest rozpoznawana PO KSZTALCIE, nie po
+    # nazwie karty. Kazda taka linia niesie stempel [ChPL <punkt> ...,
+    # <data>] postawiony przez przenosnik i nazwe pola z jawnej listy.
+    # CO TO NADAL LAPIE: ciche usuniecie albo skrocenie linii zrodlowej —
+    # zrodlo musi byc PODCIAGIEM pliku po odjeciu linii narzedziowych,
+    # a linia zrodlowa z BRAK DANYCH LOKALNYCH moze zniknac WYLACZNIE
+    # wtedy, gdy w jej miejscu stoi to samo pole ze stemplem ChPL.
+    # CZEGO NIE LAPIE: czy tresc ze stempla jest wlasciwa. To jest zadanie
+    # przenios_pola_chpl.py i jego samotestu, nie tego testu.
+    import re as _re
+    STEMPEL = _re.compile(r"\[ChPL [^\]]*\d{4}-\d{2}-\d{2}\]\s*$")
+    POLE_NAR = _re.compile(r"^([A-ZĄĆĘŁŃÓŚŹŻ_0-9]+):\s")
+
+    def _narzedziowa(linia):
+        return bool(STEMPEL.search(linia) and POLE_NAR.match(linia))
+
+    def _pole(linia):
+        m = POLE_NAR.match(linia)
+        return m.group(1) if m else None
+
+    n_dopisanych = n_wypelnionych = 0
+
     rozne = 0
     for n, tresc_zr in karty_zr.items():
         if n not in gdzie:
@@ -235,6 +266,28 @@ def main():
             # Karta z jawnej listy uzupelnien moze miec linie DOPISANE, ale zadnej
             # zmienionej ani usunietej: zrodlo musi byc PODCIAGIEM pliku. To wciaz
             # lapie ciche skrocenie karty, a nie blokuje swiadomego uzupelnienia.
+            # --- SCIEZKA NARZEDZIOWA
+            b_bez = [x for x in b if not _narzedziowa(x)]
+            dopisane_tu = len(b) - len(b_bez)
+            pola_ze_stemplem = {_pole(x) for x in b if _narzedziowa(x)}
+            # linie zrodla, ktore zniknely, a ich pole stoi teraz ze stemplem
+            # I mowily BRAK DANYCH LOKALNYCH — czyli wypelnione, nie usuniete
+            # NORMALIZACJA REV48 OBOWIAZUJE TAKZE TUTAJ. Pierwsza wersja tej
+            # sciezki jej nie uzyla i AGOMELATYNA oblewala przez jedna linie
+            # "CIAZA:" kontra "CIĄŻA:" — ta sama para, ktora 52 commity temu
+            # trzymala CI na czerwono. Jedna normalizacja, wszystkie sciezki.
+            zniklo_zr = [x for x in tresc_zr
+                         if x not in b_bez and znormalizuj(x) not in b_bez]
+            wypelnione = [x for x in zniklo_zr
+                          if "BRAK DANYCH LOKALNYCH" in x and _pole(x) in pola_ze_stemplem]
+            reszta = [x for x in zniklo_zr if x not in wypelnione]
+            if (dopisane_tu or wypelnione) and not reszta:
+                it = iter(b_bez)
+                a_bez = [x for x in tresc_zr if x not in wypelnione]
+                if all(any(x == y or znormalizuj(x) == y for y in it) for x in a_bez):
+                    n_dopisanych += dopisane_tu
+                    n_wypelnionych += len(wypelnione)
+                    continue
             if n in UZUPELNIONE:
                 it = iter(b)
                 if all(any(x == y for y in it) for x in a):
@@ -242,7 +295,15 @@ def main():
                 # Karta z listy PRZEPISANE ma jawnie zadeklarowana liczbe linii
                 # ZMIENIONYCH. Sprawdzamy, ile linii zrodla zniknelo z pliku:
                 # wiecej niz zadeklarowano = ciche usuniecie, i to jest blad.
-                zniklo = [x for x in a if x not in b]
+                # LINIE WYPELNIONE PRZEZ NARZEDZIE NIE SA "ZNIKNIETE".
+                # ARYPIPRAZOL i RISPERIDON maja zadeklarowana JEDNA linie
+                # przepisana recznie (POSTAC). Po wypelnieniu ich
+                # PRZECIWWSKAZANIA przez przenosnik licznik pokazywal 2
+                # i test oblewal — czyli liczyl razem zmiane reczna
+                # i narzedziowa, ktore maja rozne dowody.
+                zniklo = [x for x in a if x not in b and znormalizuj(x) not in b
+                          and not ("BRAK DANYCH LOKALNYCH" in x
+                                   and _pole(x) in {_pole(y) for y in b if _narzedziowa(y)})]
                 ile, powod = PRZEPISANE.get(n, (0, ""))
                 if len(zniklo) == ile:
                     continue
@@ -258,6 +319,12 @@ def main():
                     bledy.append("T2 %s linia %d: zrodlo %r != plik %r" % (n, i, x[:60], y[:60]))
                     break
     print("T2 TRESC KART: %d roznych z %d" % (rozne, len(karty_zr)))
+    print("   T2 linie narzedziowe ze stemplem ChPL: %d dopisanych, %d wypelnionych "
+          "z BRAK DANYCH LOKALNYCH" % (n_dopisanych, n_wypelnionych))
+    if not (n_dopisanych or n_wypelnionych):
+        bledy.append("T2: regula linii narzedziowej nie objela ANI JEDNEJ linii — "
+                     "martwa regula wycisza cos, czego juz nie ma, albo stempel "
+                     "przestal pasowac; w obu przypadkach nie chroni")
     for a, b in NORMALIZACJE:
         if uzyte[a]:
             print("   T2 normalizacja %r -> %r uzyta %d razy [rev48]" % (a, b, uzyte[a]))
@@ -338,7 +405,27 @@ def main():
         for nazwa, t in k.items():
             if nazwa in karty_zr:
                 n_po_migracyjne += sum(1 for l in t if pole.match(l))
-    n_po = n_po_migracyjne
+    # LINIE NARZEDZIOWE ODEJMUJEMY OD BILANSU T7 I RAPORTUJEMY OSOBNO.
+    # DOPISANE zostaje dla uzupelnien RECZNYCH — kazde z wlasnym powodem.
+    # Zlanie obu w jeden licznik znaczyloby, ze zgubiona linia moze sie
+    # schowac za dopisana przez narzedzie.
+    n_narzedziowych = 0
+    for f in pliki:
+        L = open(os.path.join(PROJEKT, f), encoding="utf-8").read().split("\n")
+        k, _ = karty_z(L)
+        for nazwa, t in k.items():
+            if nazwa not in karty_zr:
+                continue
+            # ODEJMUJEMY WYLACZNIE POLA DOPISANE, NIE PRZEPISANE.
+            # Linia PRZECIWWSKAZANIA istniala w zrodle jako BRAK DANYCH
+            # LOKALNYCH; przenosnik zmienil jej TRESC, nie dolozyl pola.
+            # Pierwsza wersja odejmowala ja tez i bilans spadl o 33 —
+            # test zglaszal ubytek tam, gdzie nic nie ubylo.
+            pola_zr = {_pole(l) for l in karty_zr[nazwa] if pole.match(l)}
+            n_narzedziowych += sum(1 for l in t
+                                   if _narzedziowa(l) and _pole(l) not in pola_zr)
+    n_po = n_po_migracyjne - n_narzedziowych
+    print("T7 linie narzedziowe (stempel ChPL) odjete od bilansu: %d" % n_narzedziowych)
     n_zr_karty = sum(1 for t in karty_zr.values() for l in t if pole.match(l))
     # CELOWE UZUPELNIENIA kart migracyjnych. T7 ma lapac ZGUBIONA linie, a nie
     # swiadome dopisanie pola. Kazda pozycja to jawny dlug: ile linii dopisano
