@@ -465,14 +465,16 @@ def main():
     # swiadome dopisanie pola. Kazda pozycja to jawny dlug: ile linii dopisano
     # i dlaczego. Bez tej tabeli jedyne wyjscie to wylaczenie T7 dla calej karty,
     # co skasowaloby ochrone reszty jej pol.
-    DOPISANE = {"PALIPERYDON": (9, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
+    DOPISANE = {"PALIPERYDON": (8, "brakowalo T1_2, METABOLIZM, INTERAKCJE i MONITORING "
                                    "w karcie depot, oraz CIĄŻA i KP — audyt kart z 2026-09-24. "
                                    "+1 od 2026-09-26: PIN_ZBIOROWY_ZRODLA (wczesniej "
                                    "NIEPEWNY_ODCZYT_ZRODLA) — pod jedna nazwa handlowa lezy kilka "
                                    "dokumentow ChPL, wiec egzemplarz jest nierozstrzygniety. "
-                                   "+1 od rev68: DOSTEPNOSC — nowe pole, bo REJESTRACJA TO NIE OBROT: "
-                                   "Denepra jest w RPL, a nie ma jej na rynku, i paczka nie miala gdzie "
-                                   "tego zapisac"),
+                                   "Pole DOSTEPNOSC, dopisane w rev68, ZNIKNELO w rev70: R27 "
+                                   "rozstrzygnal, ze na karte wchodzi flaga rynkowa tylko wtedy, gdy "
+                                   "produkt karty jest w 0% aptek albo cala substancja jest poza rynkiem. "
+                                   "Karta stoi teraz na Paliperidone Teva, ktory na rynku jest, wiec "
+                                   "flagi jej sie nie nalezy; powod przestawienia zostal w ZRODLO_KARTY"),
                 "FLUPENTYKSOL": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "TIAPRYD": (1, "KP — nie bylo go ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
                 "METADON": (2, "CIĄŻA i KP — nie bylo ich ani w karcie, ani w DRUG_DB_CIAZA_LAKTACJA"),
