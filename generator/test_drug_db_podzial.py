@@ -244,7 +244,15 @@ def main():
     # CZEGO NIE LAPIE: czy tresc ze stempla jest wlasciwa. To jest zadanie
     # przenios_pola_chpl.py i jego samotestu, nie tego testu.
     import re as _re
-    STEMPEL = _re.compile(r"\[ChPL [^\]]*\d{4}-\d{2}-\d{2}\]\s*$")
+    # DWA KSZTALTY LINII NARZEDZIOWEJ [R21, inwariant A, 2026-09-26].
+    # (1) stempel ChPL z data — jak dotad;
+    # (2) znacznik stanu wiazania z produktem na koncu linii: pole, ktore
+    #     NIE MA stempla ChPL, nie moze milczec o tym, ze nie ma pinu.
+    #     Nie wolno dopisac mu daty ani punktu ChPL, bo ich nie znamy —
+    #     zostaje sam znacznik. Bez tej drugiej formy T2 czyta dopisany
+    #     znacznik jak ciche przepisanie karty i oblewa na 43 polach.
+    STEMPEL = _re.compile(
+        r"(?:\[ChPL [^\]]*\d{4}-\d{2}-\d{2}\]|\[BEZ_PINU[^\]]*\])\s*$")
     POLE_NAR = _re.compile(r"^([A-ZĄĆĘŁŃÓŚŹŻ_0-9]+):\s")
 
     def _narzedziowa(linia):
@@ -280,6 +288,17 @@ def main():
                          if x not in b_bez and znormalizuj(x) not in b_bez]
             wypelnione = [x for x in zniklo_zr
                           if "BRAK DANYCH LOKALNYCH" in x and _pole(x) in pola_ze_stemplem]
+            # OZNACZENIE STANU NIE JEST ZMIANA TRESCI [R21, inwariant A].
+            # Linia zrodla, ktora zniknela WYLACZNIE dlatego, ze dopisano jej
+            # na koncu znacznik stanu, jest tu rozliczana osobno. Warunek jest
+            # ostry: linia w pliku musi byc DOKLADNIE linia zrodla plus sam
+            # znacznik. Jedna zmieniona litera w tresci nie przejdzie tedy.
+            _znak = _re.compile(r"\s*\[BEZ_PINU[^\]]*\]\s*$")
+            _goly = {_znak.sub("", y).rstrip(): y for y in b if _znak.search(y)}
+            oznaczone = [x for x in zniklo_zr
+                         if x not in wypelnione
+                         and (x.rstrip() in _goly or znormalizuj(x).rstrip() in _goly)]
+            wypelnione = wypelnione + oznaczone
             reszta = [x for x in zniklo_zr if x not in wypelnione]
             if (dopisane_tu or wypelnione) and not reszta:
                 it = iter(b_bez)
@@ -301,9 +320,17 @@ def main():
                 # PRZECIWWSKAZANIA przez przenosnik licznik pokazywal 2
                 # i test oblewal — czyli liczyl razem zmiane reczna
                 # i narzedziowa, ktore maja rozne dowody.
+                # TA SAMA POPRAWKA CO WYZEJ, DLA KART Z LISTY PRZEPISANE:
+                # linia, ktorej dopisano SAM znacznik stanu, nie jest linia
+                # ZNIKNIETA. Bez tego FLUPENTYKSOL liczyl dwie zmiany zamiast
+                # jednej zadeklarowanej i oblewal na oznaczeniu, nie na tresci.
+                _zn2 = _re.compile(r"\s*\[BEZ_PINU[^\]]*\]\s*$")
+                _goly2 = {_zn2.sub("", y).rstrip() for y in b if _zn2.search(y)}
                 zniklo = [x for x in a if x not in b and znormalizuj(x) not in b
                           and not ("BRAK DANYCH LOKALNYCH" in x
-                                   and _pole(x) in {_pole(y) for y in b if _narzedziowa(y)})]
+                                   and _pole(x) in {_pole(y) for y in b if _narzedziowa(y)})
+                          and x.rstrip() not in _goly2
+                          and znormalizuj(x).rstrip() not in _goly2]
                 ile, powod = PRZEPISANE.get(n, (0, ""))
                 if len(zniklo) == ile:
                     continue
