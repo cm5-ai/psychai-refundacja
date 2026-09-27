@@ -195,9 +195,21 @@ def main():
     # stara linia POSTAC w tych trzech kartach mowila "dawek postaci iniekcyjnych
     # NIE MA w paczce", co po dodaniu dawek depot bylo juz nieprawda i karta
     # przeczylaby sama sobie. Kazda pozycja = ile linii zrodla znika i dlaczego.
-    PRZEPISANE = {"ARYPIPRAZOL": (1, "POSTAC: 'dawek NIE MA' -> wskazanie na dawke depot w karcie"),
-                  "OLANZAPINA": (1, "POSTAC: jw., plus odeslanie do NIEPEWNY_ODCZYT_ZRODLA"),
-                  "RISPERIDON": (1, "POSTAC: jw., dla obu postaci depot"),
+    # rev83-rev90, 2026-09-27: WOREK DAWKOWY. Pod jedna nazwa DAWKA stala dawka
+    # doustna i dawka depot — przy paliperydonie roznica to dziesieciokrotnosc.
+    # Linia NIE ZNIKLA: dostala KWALIFIKATOR ("DAWKA doustnie:", "DAWKA depot
+    # miesieczny:"), czyli zmienila sie jej NAZWA POLA. Dla T2 to linia
+    # przepisana i tak jest tu liczona.
+    PRZEPISANE = {"ARYPIPRAZOL": (2, "POSTAC: 'dawek NIE MA' -> wskazanie na dawke depot w karcie; "
+                                     "DAWKA -> DAWKA doustnie (worek dawkowy, rev83-88)"),
+                  "OLANZAPINA": (2, "POSTAC: jw., plus odeslanie do NIEPEWNY_ODCZYT_ZRODLA; "
+                                    "DAWKA -> DAWKA doustnie (worek dawkowy)"),
+                  "RISPERIDON": (2, "POSTAC: jw., dla obu postaci depot; "
+                                    "DAWKA -> DAWKA doustnie (worek dawkowy)"),
+                  "HALOPERIDOL": (1, "DAWKA -> DAWKA doustnie (worek dawkowy, rev83-88)"),
+                  # F8, 2026-09-27: nazwa pola z myslnikiem nie byla dla parsera
+                  # paczki polem — runtime mowilby "brak danych" przy zywej tresci.
+                  "KARBAMAZEPINA": (1, "INTERAKCJE — ANTYKONCEPCJA -> INTERAKCJE antykoncepcja (F8)"),
                   # rev.47: przeliczniki intra-lek przeniesione z 18 do kart,
                   # tabela rownowaznosci depotow zostawiona w 18 jako JEDEN byt
                   "FLUPENTYKSOL": (1, "'PRZELICZNIK ... patrz 18' -> wlasciwy przelicznik w karcie plus odeslanie do tabeli rownowaznosci"),
@@ -206,7 +218,8 @@ def main():
                   # Sprawdzone: w RPL zarejestrowana, ale na liscie preparatow na rynku
                   # polskim (Medycyna Praktyczna) jej nie ma. Karta stala na ChPL produktu,
                   # ktorego lekarz nie wypisze, wiec zeszla na Paliperidone Teva.
-                  "PALIPERYDON": (2, "POSTAC: lista produktow zmieniona z Denepry na produkty "
+                  "PALIPERYDON": (3, "DAWKA -> DAWKA depot miesieczny (worek dawkowy, rev83-88); "
+                                     "POSTAC: lista produktow zmieniona z Denepry na produkty "
                                      "faktycznie na rynku; ZRODLO_KARTY: ChPL Denepry -> ChPL "
                                      "Paliperidone Teva 75/100/150 mg (rev68)"),
                   # rev72, 2026-09-27: pomiar cache wobec rynku (dokumentacja/
@@ -215,13 +228,24 @@ def main():
                   # w paczce NIE MA. Karty NIE PRZESTAWIAM — nie ma na co.
                   # ZRODLO_KARTY mowi to wprost, zamiast milczec: milczenie
                   # czyta sie jak 'to jest dawkowanie tego, co pacjent kupi'.
-                  "KLOZAPINA": (1, "ZRODLO_KARTY: dopisane, ze cache ma trzy produkty "
+                  "KLOZAPINA": (3, "ZRODLO_KARTY jw.; plus F8 2026-09-27: dwie linie mialy "
+                                   "nazwe pola z myslnikiem ('INTERAKCJE — ZMIANY STYLU ZYCIA', "
+                                   "'DN — JELITA'), przez co parser paczki NIE WIDZIAL ich jako pol. "
+                                   "Przepisane na 'INTERAKCJE zmiany stylu zycia (nie tylko leki)' "
+                                   "i 'DN jelita'. ZRODLO_KARTY: dopisane, ze cache ma trzy produkty "
                                    "(Ayupil, Clopizam, Clozapine Hasco) i ze ChPL Klozapolu "
                                    "w paczce nie ma, wiec karta nie orzeka o nim nic (R28/P6)")}
     UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
                        "ESTAZOLAM", "BROMAZEPAM", "ARYPIPRAZOL", "OLANZAPINA",
                        "RISPERIDON", "HALOPERIDOL", "ZUKLOPENTYKSOL",
-                       "KLOZAPINA"])   # patrz DOPISANE w T7
+                       "KLOZAPINA",
+                       # 2026-09-27: karbamazepina dostala od przenosnika
+                       # DAWKA_STARSI i DAWKA_DZIECI ze stemplem ChPL Amizepin,
+                       # wstawione MIEDZY DAWKA a STEZENIE_TERAPEUTYCZNE. Bez tej
+                       # pozycji karta szla sciezka scisla i oblewala na POZYCJI
+                       # linii, nie na tresci — zrodlo mialo w wierszu 2
+                       # STEZENIE_TERAPEUTYCZNE, plik ma tam DAWKA_STARSI.
+                       "KARBAMAZEPINA"])   # patrz DOPISANE w T7
     # NORMALIZACJE PISOWNI POLA — DANA, NIE DOMYSL PARSERA [2026-09-25].
     # rev48 ("jedno pole przestaje miec dwie pisownie") celowo ujednolicila
     # nazwy pol w plikach klasowych. Zrodlo T2 jest ZAMROZONE na commicie
@@ -499,7 +523,34 @@ def main():
                 "LORAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Lorabexu — trzy dokumenty pod jedna nazwa (0,5 mg tabl., 2 mg/ml i 4 mg/ml inj.); wycofane DAWKA_STARSI, DAWKA_DZIECI, PRZECIWWSKAZANIA wg R20-2"),
                 "KLONAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Clonazepamum TZF — tabletka 0,5 mg i iniekcja 1 mg/ml pod jedna nazwa; wycofane DAWKA_STARSI i PRZECIWWSKAZANIA wg R20-2"),
                 "DIAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Neorelium — tabletka 5 mg i iniekcja 5 mg/ml pod jedna nazwa; to ten przypadek, ktory ujawnil cala klase (R20)"),
-                "FLUPENTYKSOL_ROWNOWAZNA": (1, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; liczone osobno od CIĄŻA i KP")}
+                "FLUPENTYKSOL_ROWNOWAZNA": (1, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; liczone osobno od CIĄŻA i KP"),
+                # ==========================================================
+                # WYJATEK Z POWODEM — NIE JEST ZMIANA TRESCI [2026-09-27].
+                # To NIE SA linie usuniete. To linie, ktorych WZORZEC POLA
+                # W T7 NIE WIDZI. Wzorzec brzmi '^[A-Z_0-9/]+:' i NIE
+                # PRZEPUSZCZA SPACJI, wiec po rev83-rev90 linia
+                # 'DAWKA doustnie:' przestala byc dla niego polem.
+                # ZMIERZONE, obie strony rownania:
+                #   zrodlo 458b5ab       waski 553 | szeroki 563  (10 niewidocznych)
+                #   karty migracyjne     waski 842 | szeroki 877  (35 niewidocznych)
+                # Czyli wzorzec zanizal JUZ W ZRODLE, tylko symetrycznie, wiec
+                # bilans sie zgadzal. Kwalifikatory z rev83-rev90 symetrie
+                # zerwaly i roznica wyszla na wierzch jako 5.
+                # DLACZEGO TYLKO WYJATEK, A NIE NAPRAWA: naprawa to rozszerzenie
+                # wzorca o kwalifikator, ale wtedy n_zr rosnie 553->563, n_po do
+                # 610, i trzeba PRZELICZYC DOPISANE dla 27 kart. Probowalem
+                # odtworzyc arytmetyke T7 poza testem i NIE ZGADZALA SIE
+                # (moja suma 203 i 217 wobec 20 z testu) — czyli nie rozumiem
+                # jeszcze, ktore pliki T7 sumuje. Wpisanie liczby, ktorej nie
+                # umiem odtworzyc, do testu bezpieczenstwa byloby zgadywaniem.
+                # Dlug: WZORZEC_POLA_T7_BEZ_KWALIFIKATORA w aparat/dlug.tsv.
+                "T7_KWALIFIKATOR_NIEWIDOCZNY": (-5, "ARTEFAKT LICZNIKA, NIE UBYTEK TRESCI: "
+                    "piec linii DAWKA w kartach migracyjnych dostalo kwalifikator "
+                    "(DAWKA -> DAWKA doustnie / DAWKA depot miesieczny) i wypadlo z "
+                    "waskiego wzorca pola T7. Linie ISTNIEJA i sa widoczne dla parsera "
+                    "paczki (narzedzia/etykieta.py) oraz dla bramki pola_widzialne, "
+                    "ktora liczy 1534 = 1534 + 0. Zmierzone: zrodlo 553 waski / 563 "
+                    "szeroki, karty migracyjne 842 / 877.")}
     delta = sum(n for n, _ in DOPISANE.values())
     if n_zr_karty + delta != n_po:
         bledy.append("T7: linii pol w kartach zrodla %d (+%d celowo), po podziale %d"
