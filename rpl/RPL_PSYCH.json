@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-09-23",
-  "sha256_zrodla": "96df0ceff6a71c038c91e70e18861a197607d9eb9578ef2ee234ee39043ba26f",
+  "stan_na_dzien": "2026-09-28",
+  "sha256_zrodla": "97670c40ad1bb9fc6421785b2cbd46adb8d740cf6340f7cb0471d6f4efb013db",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -19,8 +19,8 @@
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2696,
-  "opakowania": 9847,
+  "produkty": 2693,
+  "opakowania": 9831,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1242,
   "opakowania_ze_statusem": {
@@ -5037,6 +5037,55 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "161973",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100544757",
+   "nazwa": "Xanax",
+   "nazwa_powszechna": "Alprazolamum",
+   "substancja": "Alprazolamum 0.5 mg",
+   "moc": "0,5 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N05BA12"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "333/26",
+   "waznosc_pozwolenia": "2031-09-08",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991608736",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168393",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991608743",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168394",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991608750",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168395",
      "opis": "100 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -40744,115 +40793,6 @@
    ]
   },
   {
-   "id": "100410812",
-   "nazwa": "Dulsevia",
-   "nazwa_powszechna": "Duloxetinum",
-   "substancja": "Duloxetinum 30 mg",
-   "moc": "30 mg",
-   "postac": "Kapsułki dojelitowe, twarde",
-   "atc": [
-    "N06AX21"
-   ],
-   "podmiot": "Forfarm Sp. z o.o.",
-   "pozwolenie": "261/18",
-   "waznosc_pozwolenia": "2023-09-25",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991383701",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129664",
-     "opis": "7 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383718",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129665",
-     "opis": "10 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383725",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129666",
-     "opis": "14 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383732",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129667",
-     "opis": "28 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383749",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129668",
-     "opis": "30 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383756",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129669",
-     "opis": "56 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383763",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129670",
-     "opis": "60 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383770",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129671",
-     "opis": "90 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383787",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129672",
-     "opis": "100 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100412389",
    "nazwa": "Dulsevia",
    "nazwa_powszechna": "Duloxetinum",
@@ -41352,124 +41292,6 @@
      "pozwolenie_eu": null,
      "id_opakowania": "108475",
      "opis": "100 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100410516",
-   "nazwa": "Dulsevia",
-   "nazwa_powszechna": "Duloxetinum",
-   "substancja": "Duloxetinum 60 mg",
-   "moc": "60 mg",
-   "postac": "Kapsułki dojelitowe, twarde",
-   "atc": [
-    "N06AX21"
-   ],
-   "podmiot": "InPharm Sp. z o.o.",
-   "pozwolenie": "263/18",
-   "waznosc_pozwolenia": "2023-09-25",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991383244",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129595",
-     "opis": "7 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383251",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129596",
-     "opis": "14 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383268",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129597",
-     "opis": "28 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383275",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129598",
-     "opis": "56 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100410806",
-   "nazwa": "Dulsevia",
-   "nazwa_powszechna": "Duloxetinum",
-   "substancja": "Duloxetinum 60 mg",
-   "moc": "60 mg",
-   "postac": "Kapsułki dojelitowe, twarde",
-   "atc": [
-    "N06AX21"
-   ],
-   "podmiot": "Delfarma Sp. z o.o.",
-   "pozwolenie": "267/18",
-   "waznosc_pozwolenia": "2023-09-25",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991383664",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129660",
-     "opis": "7 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383671",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129661",
-     "opis": "14 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383688",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129662",
-     "opis": "28 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383695",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129663",
-     "opis": "56 kaps.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -67455,7 +67277,7 @@
    "id": "100311524",
    "nazwa": "Corbilta",
    "nazwa_powszechna": "Levodopum + Carbidopum + Entacaponum",
-   "substancja": "Carbidopum 31.25 mg + Entacaponum 200 mg + Levodopum 125 mg",
+   "substancja": "Levodopum 125 mg + Carbidopum 31.25 mg + Entacaponum 200 mg",
    "moc": "125 mg + 31,25 mg + 200 mg",
    "postac": "Tabletki powlekane",
    "atc": [
@@ -87370,7 +87192,7 @@
    "id": "100163555",
    "nazwa": "ValproLEK 500",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Natrii valproas + Acidum valproicum",
+   "substancja": "Acidum valproicum + Natrii valproas",
    "moc": "500 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
@@ -140275,45 +140097,6 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "124853",
-     "opis": "50 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100410829",
-   "nazwa": "Tiapridal",
-   "nazwa_powszechna": "Tiapridum",
-   "substancja": "Tiapridum 100 mg",
-   "moc": "100 mg",
-   "postac": "Tabletki",
-   "atc": [
-    "N05AL03"
-   ],
-   "podmiot": "Delfarma Sp. z o.o.",
-   "pozwolenie": "269/18",
-   "waznosc_pozwolenia": "2023-09-25",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991383794",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129673",
-     "opis": "20 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991383800",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129674",
      "opis": "50 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
