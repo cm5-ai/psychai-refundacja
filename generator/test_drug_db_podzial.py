@@ -234,10 +234,35 @@ def main():
                                    "Przepisane na 'INTERAKCJE zmiany stylu zycia (nie tylko leki)' "
                                    "i 'DN jelita'. ZRODLO_KARTY: dopisane, ze cache ma trzy produkty "
                                    "(Ayupil, Clopizam, Clozapine Hasco) i ze ChPL Klozapolu "
-                                   "w paczce nie ma, wiec karta nie orzeka o nim nic (R28/P6)")}
+                                   "w paczce nie ma, wiec karta nie orzeka o nim nic (R28/P6)"),
+                  # rev94, 2026-09-28: pole KP temazepamu orzekalo "bez wlasnej
+                  # karty LactMed". ZMIERZONE TEGO DNIA skryptem, ktory paczka
+                  # uruchamia sama: 'temazepam' zwraca WPIS Temazepam (LM388)
+                  # z rewizja 2024-09-15 i z liczbami. Zdanie w karcie bylo
+                  # FALSZYWE wobec zrodla, ktore ta sama paczka odpytuje, i
+                  # lekarz czytajacy "bez karty" mogl nie poprosic o dane,
+                  # ktore sa. Poprawione po decyzji lekarza z 2026-09-28
+                  # (podpisy/GRUPA_B_..., pozycja B1). Zadnej liczby z LactMed
+                  # do pola NIE przepisano — pole odsyla, nie cytuje.
+                  "TEMAZEPAM": (1, "KP: zdanie 'bez wlasnej karty LactMed' bylo falszywe "
+                                   "wobec skryptu uruchamianego przez 18A (WPIS Temazepam LM388, "
+                                   "rewizja 2024-09-15). Nowe brzmienie rozdziela dwa orzeczenia: "
+                                   "BRAK DANYCH LOKALNYCH w tej paczce (prawda) wobec braku karty "
+                                   "w LactMed (nieprawda), i odsyla do uruchomienia skryptu. "
+                                   "Liczb z LactMed do pola nie przepisano (warstwa 40 par. 3)")}
     UZUPELNIONE = set(["PALIPERYDON", "FLUPENTYKSOL", "TIAPRYD", "METADON",
                        "ESTAZOLAM", "BROMAZEPAM", "ARYPIPRAZOL", "OLANZAPINA",
                        "RISPERIDON", "HALOPERIDOL", "ZUKLOPENTYKSOL",
+                       # 2026-09-28: TEMAZEPAM ma JEDNOCZESNIE linie dopisana
+                       # przez narzedzie (DAWKA_STARSI ze stemplem ChPL) i JEDNA
+                       # linie przepisana recznie (KP, po decyzji lekarza z tego
+                       # dnia). Sciezka narzedziowa wymaga, zeby reszta byla
+                       # pusta, wiec karta z obiema zmianami naraz musi isc
+                       # sciezka UZUPELNIONE + PRZEPISANE, gdzie liczba linii
+                       # zmienionych jest ZADEKLAROWANA i policzona.
+                       # To nie jest rozluznienie testu: deklaracja to 1 i kazda
+                       # druga zmiana tej karty nadal oblewa.
+                       "TEMAZEPAM",
                        "KLOZAPINA",
                        # 2026-09-27: karbamazepina dostala od przenosnika
                        # DAWKA_STARSI i DAWKA_DZIECI ze stemplem ChPL Amizepin,
