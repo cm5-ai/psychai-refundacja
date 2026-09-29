@@ -1,0 +1,33 @@
+{
+ "id": "rusfertide",
+ "tytul": "Rusfertide",
+ "synonimy": [
+  "Rusfertide",
+  "Mimrylo",
+  "UNII-XM71MYX0IQ",
+  "PTG-300FB",
+  "PTG-300",
+  "RefChem:180332",
+  "WHO 11456"
+ ],
+ "zaktualizowano": "2026-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/rusfertide/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of rusfertide during breastfeeding. Because rusfertide is more than 99% bound to plasma proteins, the amount in milk is likely to be low. Additionally, it is a peptide that is likely digested in the infant’s gastrointestinal tract, so it is unlikely to reach the clinically important levels in infant serum. Nevertheless, the manufacturer recommends that breastfeeding be discontinued during rusfertide therapy and for 30 days after the final dose because of a concern for potential infant toxicity."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

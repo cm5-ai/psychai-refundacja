@@ -10,22 +10,25 @@
   "Bromergocryptine",
   "Bromocriptinum",
   "Bromocriptina",
+  "Cycloset",
+  "Parlodel",
   "Ergoset",
-  "Parloel",
-  "Bromergon",
   "UNII-3A64E3G5ZO",
   "CB-154",
-  "25614-03-3",
   "CCRIS 3244",
   "EINECS 247-128-5",
+  "DTXSID1022687",
+  "CHEBI:3181",
+  "DTXCID602687",
+  "RefChem:56423",
   "(6aR,9R)-5-bromo-N-[(1S,2S,4R,7S)-2-hydroxy-7-(2-methylpropyl)-5,8-dioxo-4-propan-2-yl-3-oxa-6,9-diazatricyclo[7.3.0.02,6]dodecan-4-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide"
  ],
- "zaktualizowano": "2026-01-15",
+ "zaktualizowano": "2026-09-15",
  "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM432/",
  "sekcje": [
   [
    "Drug Levels and Effects > Summary of Use during Lactation",
-   "Bromocriptine is usually not used during breastfeeding because it suppresses lactation. The indication of lactation suppression has been withdrawn in the U.S. and discouraged in other countries because it increases the risk of maternal stroke, seizures, cardiovascular disorders, death and possibly psychosis.A low dose of 2.5 mg once daily has been used for 3 days to decrease overproduction of milk. The drug was undetectable in milk with this dosage and infants had no adverse reactions, but the safety of this use is not clearly established.\nCase reports and series also exist of mothers treated with bromocriptine for amenorrhea-galactorrhea syndrome or prolactinoma during pregnancy and lactation who successfully breastfed their infants. Bromocriptine has been used to treat persistent galactorrhea following breast augmentation surgery. It has also been used to mitigate hyperprolactinemia and galactorrhea caused by antipsychotic therapy."
+   "Bromocriptine is usually not used during breastfeeding because it suppresses lactation. The indication of lactation suppression has been withdrawn in the U.S. and discouraged in other countries because it increases the risk of maternal stroke, seizures, cardiovascular disorders, death and possibly psychosis. A low dose of 2.5 mg once daily has been used for 3 days to decrease overproduction of milk. The drug was undetectable in milk with this dosage and infants had no adverse reactions, but the safety of this use is not clearly established. Postpartum women may clear bromocriptine more rapidly than others.\nCase reports and series also exist of mothers treated with bromocriptine for amenorrhea-galactorrhea syndrome or prolactinoma during pregnancy and lactation who successfully breastfed their infants. Bromocriptine has been used to treat persistent galactorrhea following breast augmentation surgery. It has also been used to mitigate hyperprolactinemia and galactorrhea caused by antipsychotic therapy."
   ],
   [
    "Drug Levels and Effects > Drug Levels",
@@ -33,7 +36,7 @@
   ],
   [
    "Drug Levels and Effects > Effects in Breastfed Infants",
-   "No adverse effects were noticed in 14 breastfed infants of mothers who were given oral bromocriptine 2.5 mg once daily for 3 days beginning on day 5 postpartum to decrease overproduction of milk.\nA mother who was receiving bromocriptine (dosage not stated) for hyperprolactinemia from a pituitary macroadenoma breastfed her infant partially for 2 days and then exclusively from the third day onward (duration not stated). The infant had no observable side effects. She had regained her birthweight on day 10 and had gained weight adequately at 5 months."
+   "No adverse effects were noticed in 14 breastfed infants of mothers who were given oral bromocriptine 2.5 mg once daily for 3 days beginning on day 5 postpartum to decrease overproduction of milk.\nIn a case series of 40 women with pituitary adenoma and hyperprolactinemia, 30 of the women took bromocriptine 2.5 or 5 mg daily during pregnancy. Thirty of the 40 women breastfed their infants, although it is not clear from the paper how many of the mothers continued to take bromocriptine during nursing. The authors reported that there were no abnormal findings in any of the breastfed infants. In an unstated number of infants who had their serum prolactin measured, it took 6 to 9 weeks for their elevated serum prolactin levels to return to baseline values.\nA mother who was receiving bromocriptine (dosage not stated) for hyperprolactinemia from a pituitary macroadenoma breastfed her infant partially for 2 days and then exclusively from the third day onward (duration not stated). The infant had no observable side effects. She had regained her birthweight on day 10 and had gained weight adequately at 5 months."
   ],
   [
    "Drug Levels and Effects > Effects on Lactation and Breastmilk",

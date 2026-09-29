@@ -6,25 +6,29 @@
   "Ferinject",
   "Ferric carboxymaltose",
   "Iron Dextri-Maltose",
+  "Ferrummate",
+  "Ferinject",
+  "Ferripel-3",
   "UNII-6897GXD6OE",
   "VIT 45",
-  "6897GXD6OE",
   "VIT-45",
   "Ferric carboxylates’ [USAN:INN:BAN]",
-  "9007-72-1",
-  "Iron(3+) hydroxide oxide poly-(1->4)-alpha-D-glucopyranosyl-(1->4)-D-gluconate hydrate",
-  "Polynuclear iron (III)-hydroxide 4(R)-(poly-(1->4)-O-alpha-D-glucopyranosyl)-oxy- 2(R),3(S),5(R), 6-tetrahydroxy-hexanoate"
+  "Ferripel 3",
+  "RefChem:1085343",
+  "Ferric Hydroxide Polymaltose Complex",
+  "UNII-UM5219H89V",
+  "iron(3+);(2R,3S,4R,5R)-2,3,4,5-tetrahydroxy-6-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyhexanal;trihydroxide"
  ],
- "zaktualizowano": "2024-01-15",
+ "zaktualizowano": "2026-09-15",
  "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM1059/",
  "sekcje": [
   [
    "Drug Levels and Effects > Summary of Use during Lactation",
-   "Intravenous iron carboxymaltose increases breastmilk iron in mothers with iron deficiency anemia. Breastfed neonates of these mothers appear to have no serious adverse reactions. Ferric carboxymaltose appears to be acceptable to use in nursing mothers with no special precautions required. For additional information on iron use during breastfeeding, see the monograph on Iron Salts."
+   "Intravenous iron carboxymaltose increases breastmilk iron in mothers with iron deficiency anemia. Breastfed neonates of these mothers appear to have no serious adverse reactions. Ferric carboxymaltose appears to be acceptable to use in nursing mothers with no special precautions required. The manufacturer recommends monitoring breastfed infants for gastrointestinal symptoms, such as constipation and diarrhea. For additional information on iron use during breastfeeding, see the monograph on Iron Salts."
   ],
   [
    "Drug Levels and Effects > Drug Levels",
-   "Maternal Levels. A multi-center study of postpartum mothers with iron deficiency anemia (hemoglobin 105 g/L or less) compared iron carboxymaltose to oral ferrous sulfate. Mothers were given intravenous ferric carboxymaltose in a dose of 15 mg of iron/kg body weight to a maximum dose of 1000 mg over 15 minutes on day 1, with subsequent weekly doses until each woman's total iron requirement had been given. The first dose was given within 7 days postpartum and follow-up visits were at follow-up visits after 1, 2, 4, and 12 weeks postpartum. A subset of 11 mothers had their breastmilk iron measured before and after administration of iron carboxymaltose. Baseline breastmilk iron was 0.500 mg/kg. At 24 hours after the first dose, breastmilk iron increased to 1.447 mg/kg. One week after the first dose, breastmilk iron decreased to an average of 0.513 mg/kg. After the second dose at week 1, breastmilk iron increased to 0.615 mg/kg at 1 to 3 hours after the dose. Breastmilk iron was 0.991 mg/kg before the dose on week 2.\nInfant Levels. Relevant published information was not found as of the revision date."
+   "Maternal Levels. A multi-center study of postpartum mothers with iron deficiency anemia (hemoglobin 105 g/L or less) compared iron carboxymaltose to oral ferrous sulfate. Mothers were given intravenous ferric carboxymaltose in a dose of 15 mg of iron/kg body weight to a maximum dose of 1000 mg over 15 minutes on day 1, with subsequent weekly doses until each woman’s total iron requirement had been given. The first dose was given within 7 days postpartum and follow-up visits were at follow-up visits after 1, 2, 4, and 12 weeks postpartum. A subset of 11 mothers had their breastmilk iron measured before and after administration of iron carboxymaltose. Baseline breastmilk iron was 0.500 mg/kg. At 24 hours after the first dose, breastmilk iron increased to 1.447 mg/kg. One week after the first dose, breastmilk iron decreased to an average of 0.513 mg/kg. After the second dose at week 1, breastmilk iron increased to 0.615 mg/kg at 1 to 3 hours after the dose. Breastmilk iron was 0.991 mg/kg before the dose on week 2.\nInfant Levels. Relevant published information was not found as of the revision date."
   ],
   [
    "Drug Levels and Effects > Effects in Breastfed Infants",

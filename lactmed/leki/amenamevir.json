@@ -1,0 +1,46 @@
+{
+ "id": "amenamevir",
+ "tytul": "Amenamevir",
+ "synonimy": [
+  "Amenamevir",
+  "Amenalief",
+  "MFCD19443709",
+  "ASP 2151",
+  "ASP2151",
+  "ASP-2151",
+  "UNII-94X46KW4AE",
+  "DTXSID101027753",
+  "amenamevirum",
+  "RefChem:556930",
+  "J05AX26",
+  "DTXCID601513329",
+  "orb1303043",
+  "SCHEMBL2238614",
+  "CHEMBL4297592",
+  "N-(2,6-dimethylphenyl)-N-[2-[4-(1,2,4-oxadiazol-3-yl)anilino]-2-oxoethyl]-1,1-dioxothiane-4-carboxamide"
+ ],
+ "zaktualizowano": "2026-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/amenamevir/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Amenamevir is not marketed in the United States. A study in two patients found that amounts in breastmilk appear to be low and would not be expected to cause any adverse effects in breastfed infants. If the mother requires amenamevir, it is not a reason to discontinue breastfeeding. However, until more data become available, an alternate drug may be preferred, especially while nursing a newborn or preterm infant."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A single dose of 1200 mg of amenamevir was prescribed to two women who were instructed to carry it with them and take the tablets after a meal within 6 hours of recognizing prodromal symptoms of herpes. Milk samples were collected at several time points up to 48 hours after the dose. The maximum milk concentrations were 400 mcg/L at 3.5 hours after the dose and 1390 mcg/L at 4.17 hours after the dose in the other. The average milk amenamevir concentration in one patient was 508.3 mcg/L. The other patient missed some collections, and the average concentration could not be calculated. The RID, calculated using the average concentration in one patient was 0.337%. The worst-case RID calculated using observed maximum concentrations were 0.303% and 0.923%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acyclovir, Valacyclovir"
+  ]
+ ]
+}
