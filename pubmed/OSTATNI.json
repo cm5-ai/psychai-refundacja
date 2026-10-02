@@ -1,314 +1,282 @@
 [
  {
-  "pmid": "42768877",
-  "poziom": "WYTYCZNE",
-  "tytul": "Psychiatric Association of Türkiye Mood Disorders Section Depression Treatment Guideline - III: Treatment Approach for Depression Subtypes and Special Groups, Psychotherapies, and Psychosocial Interventions.",
-  "czasopismo": "Turk psikiyatri dergisi = Turkish journal of psychiatry",
+  "pmid": "42812267",
+  "poziom": "METAANALIZA",
+  "tytul": "Sport-based interventions for post-disaster mental health and psychosocial recovery: a multi-level systematic review and meta-analysis within the MHPSS framework.",
+  "czasopismo": "Frontiers in public health",
   "data": "2026",
   "tematy": [
-   "DEPRESJA",
+   "PTSD",
    "SCHIZOFRENIA"
   ]
  },
  {
-  "pmid": "42781843",
+  "pmid": "42813493",
   "poziom": "METAANALIZA",
-  "tytul": "Zuclopenthixol acetate for acute schizophrenia and similar major mental illnesses.",
-  "czasopismo": "The Cochrane database of systematic reviews",
-  "data": "2026 Sep 24",
+  "tytul": "Pharmacological and non-pharmacological interventions of insomnia in geriatrics: A systematic review.",
+  "czasopismo": "The Medical journal of Malaysia",
+  "data": "2026 Sep",
   "tematy": [
    "BENZODIAZEPINY",
-   "HALOPERIDOL",
-   "SCHIZOFRENIA"
-  ]
- },
- {
-  "pmid": "42778898",
-  "poziom": "METAANALIZA",
-  "tytul": "Psychosocial stress and risk of first-ever stroke: a systematic review and meta-analysis.",
-  "czasopismo": "BMC neurology",
-  "data": "2026 Sep 23",
-  "tematy": [
-   "SCHIZOFRENIA"
-  ]
- },
- {
-  "pmid": "42773467",
-  "poziom": "METAANALIZA",
-  "tytul": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
-  "czasopismo": "BMC psychology",
-  "data": "2026 Aug 12",
-  "tematy": [
-   "PTSD"
-  ]
- },
- {
-  "pmid": "42763552",
-  "poziom": "METAANALIZA",
-  "tytul": "Peripheral Inflammatory Biomarkers as Predictors of Antidepressant Treatment Response in Major Depressive Disorder: An Updated Systematic Review and Meta-Analysis.",
-  "czasopismo": "Psychopharmacology bulletin",
-  "data": "2026 Sep 18",
-  "tematy": [
-   "DEPRESJA"
-  ]
- },
- {
-  "pmid": "42766188",
-  "poziom": "METAANALIZA",
-  "tytul": "Psychosocial interventions for children and adolescents across the cancer care continuum: A systematic review and meta-analysis.",
-  "czasopismo": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
-  "data": "2026 Sep 21",
-  "tematy": [
-   "SCHIZOFRENIA"
-  ]
- },
- {
-  "pmid": "42755421",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "The Role of the Antidepressants in Managing Chemotherapy-Induced Neuropathic Pain: A Systematic Review.",
-  "czasopismo": "Pharmacology research & perspectives",
-  "data": "2026 Oct",
-  "tematy": [
-   "DULOKSETYNA",
-   "PREGABALINA",
-   "TCA"
-  ]
- },
- {
-  "pmid": "42776462",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "Approved Medications for Substance Use Disorders: An Umbrella Review of Systematic Reviews and Completed Phase 3 Randomized Controlled Trials.",
-  "czasopismo": "CNS drugs",
-  "data": "2026 Sep 23",
-  "tematy": [
-   "BENZODIAZEPINY"
-  ]
- },
- {
-  "pmid": "42769203",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "Prenatal valproic acid exposure in rodent models of autism: a systematic review of neurobehavioral physiological alterations.",
-  "czasopismo": "Frontiers in physiology",
-  "data": "2026",
-  "tematy": [
-   "WALPROINIAN"
-  ]
- },
- {
-  "pmid": "42780324",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "Psychiatric outcomes in the first two years after the October 7 attacks: a systematic review of posttraumatic stress, anxiety, depression, and addiction-related outcomes.",
-  "czasopismo": "Frontiers in psychiatry",
-  "data": "2026",
-  "tematy": [
-   "PTSD"
-  ]
- },
- {
-  "pmid": "42756895",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "Effect of traditional Chinese medicine on sleep and blood pressure in patients with comorbid hypertension-insomnia: a systematic review and meta-analysis.",
-  "czasopismo": "Frontiers in psychiatry",
-  "data": "2026",
-  "tematy": [
    "BEZSENNOŚĆ"
   ]
  },
  {
-  "pmid": "42755751",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "Resilience in female athletes: a meta-analysis of levels, gender differences, and associations across psychosocial, performance, and health domains.",
-  "czasopismo": "Frontiers in psychology",
-  "data": "2026",
+  "pmid": "42806303",
+  "poziom": "METAANALIZA",
+  "tytul": "The severity of dissociation and dissociative phenomena in non-affective psychosis: a systematic review and meta-analyses.",
+  "czasopismo": "BMC psychiatry",
+  "data": "2026 Aug 19",
   "tematy": [
    "SCHIZOFRENIA"
   ]
  },
  {
-  "pmid": "42775969",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "Effectiveness of Mind-Body Therapies on Anxiety, Burnout, Depression, and Stress in Graduate Health Professions Students: A Systematic Review.",
-  "czasopismo": "Journal of allied health",
-  "data": "2026 Sep 18",
+  "pmid": "42815877",
+  "poziom": "METAANALIZA",
+  "tytul": "Attachment Styles in Major Depressive Disorder: A Systematic Review and Meta-Analysis.",
+  "czasopismo": "Clinical psychology & psychotherapy",
+  "data": "2026 Sep-Oct",
   "tematy": [
    "DEPRESJA"
   ]
  },
  {
-  "pmid": "42781942",
-  "poziom": "PRZEGLĄD SYST.",
-  "tytul": "The Psychosocial Impact of Receiving Whole Genome and Whole Exome Sequencing Results in Adults: A Systematic Review.",
-  "czasopismo": "Journal of genetic counseling",
-  "data": "2026 Oct",
+  "pmid": "42787645",
+  "poziom": "METAANALIZA",
+  "tytul": "Long-Term Psychodynamic Psychotherapy for Depression: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+  "czasopismo": "Depression and anxiety",
+  "data": "2026",
   "tematy": [
-   "SCHIZOFRENIA"
+   "DEPRESJA"
   ]
  },
  {
-  "pmid": "42758600",
+  "pmid": "42802397",
+  "poziom": "METAANALIZA",
+  "tytul": "Efficacy and safety of esmethadone and rapastinel for major depressive disorder: a systematic review and meta-analysis of randomised controlled trials.",
+  "czasopismo": "East Asian archives of psychiatry : official journal of the Hong Kong College of Psychiatrists = Dong Ya jing shen ke xue zhi : Xianggang jing shen ke yi xue yuan qi kan",
+  "data": "2026 Sep",
+  "tematy": [
+   "DEPRESJA"
+  ]
+ },
+ {
+  "pmid": "42794483",
   "poziom": "PRZEGLĄD SYST.",
-  "tytul": "Distinguishing bipolar disorder from unipolar depression in general practice: A systematic review.",
-  "czasopismo": "The European journal of general practice",
-  "data": "2026 Dec",
+  "tytul": "Multilevel Mechanisms and Clinical Efficacy of Psilocybin in Depression Treatment: A Systematic Review.",
+  "czasopismo": "International journal of molecular sciences",
+  "data": "2026 Sep 10",
+  "tematy": [
+   "DEPRESJA",
+   "DEPRESJA-LEKOOPORNA",
+   "ESCYTALOPRAM"
+  ]
+ },
+ {
+  "pmid": "42811911",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Bipolar Disorder and Perimenopause: An Update.",
+  "czasopismo": "Bipolar disorders",
+  "data": "2026 Nov",
   "tematy": [
    "CHAD"
   ]
  },
  {
-  "pmid": "42779404",
+  "pmid": "42812080",
   "poziom": "PRZEGLĄD SYST.",
-  "tytul": "[Multidimensional regulation and precision therapeutic prospects of acupuncture against depression from the perspective of immunity-metabolism-nerve coupling].",
-  "czasopismo": "Zhen ci yan jiu = Acupuncture research",
-  "data": "2026 Sep 25",
+  "tytul": "The Efficacy of Different Exercise Intervention Models and Dosages on Post-Stroke Depression: A Systematic Review and Network Meta-Analysis.",
+  "czasopismo": "British journal of hospital medicine (London, England : 2005)",
+  "data": "2026 Sep 21",
   "tematy": [
    "DEPRESJA"
   ]
  },
  {
-  "pmid": "42783367",
-  "poziom": "RCT",
-  "tytul": "Dorsolateral Prefrontal rTMS Symptom Cluster Response Trajectories for Depression.",
-  "czasopismo": "JAMA network open",
-  "data": "2026 Sep 1",
-  "tematy": [
-   "BENZODIAZEPINY",
-   "DEPRESJA",
-   "DEPRESJA-LEKOOPORNA"
-  ]
- },
- {
-  "pmid": "42766718",
-  "poziom": "RCT",
-  "tytul": "PTSD treatment impacts on pain: secondary analysis of sertraline, prolonged exposure, and their combination.",
-  "czasopismo": "European journal of psychotraumatology",
-  "data": "2026 Dec",
-  "tematy": [
-   "PTSD",
-   "SERTRALINA"
-  ]
- },
- {
-  "pmid": "42760033",
-  "poziom": "RCT",
-  "tytul": "Haloperidol for Hypoactive and Hyperactive Delirium in ICU Patients-A Post Hoc Bayesian Analysis of the AID-ICU Trial.",
-  "czasopismo": "Acta anaesthesiologica Scandinavica",
-  "data": "2026 Oct",
-  "tematy": [
-   "HALOPERIDOL"
-  ]
- },
- {
-  "pmid": "42768346",
-  "poziom": "RCT",
-  "tytul": "Changes in perceived psychosocial working conditions after psychotherapeutic consultation at work - exploratory post-hoc analyses from a randomized controlled trial.",
-  "czasopismo": "BMC public health",
-  "data": "2026 Sep 21",
+  "pmid": "42814156",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Supporting Caregivers Behind Youth with T1D: A Systematic Review of Psychosocial Interventions and Youth Glycemic Outcomes.",
+  "czasopismo": "Current diabetes reports",
+  "data": "2026 Sep 30",
   "tematy": [
    "SCHIZOFRENIA"
   ]
  },
  {
-  "pmid": "42772887",
-  "poziom": "RCT",
-  "tytul": "A workbook- and audio-administered, telephone-guided, low-intensity cognitive behavioural therapy intervention (EJDeR) for parents of persons treated for cancer during childhood: protocol for the CHANGE-pilot randomised controlled trial.",
-  "czasopismo": "BMJ open",
-  "data": "2026 Sep 22",
+  "pmid": "42802518",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Epigenetic Programming of Stress-Response Systems: A Systematic Review of How Early Life Stress Shapes Developmental Trajectories of Mental Health.",
+  "czasopismo": "Developmental psychobiology",
+  "data": "2026 Nov",
   "tematy": [
    "PTSD"
   ]
  },
  {
-  "pmid": "42764888",
-  "poziom": "RCT",
-  "tytul": "Analgesic Efficacy of Different Doses of Esketamine as an Adjuvant to Ropivacaine for Thoracoscopy-Guided Thoracic Paravertebral Block After Thoracoscopic Radical Resection for Lung Cancer: A Prospective Randomized Controlled Trial.",
-  "czasopismo": "Drug design, development and therapy",
+  "pmid": "42802707",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Designing Youth Early Intervention in Psychosis Services: A Secondary Framework Synthesis of Organisational Recommendations.",
+  "czasopismo": "Early intervention in psychiatry",
+  "data": "2026 Oct",
+  "tematy": [
+   "SCHIZOFRENIA"
+  ]
+ },
+ {
+  "pmid": "42819237",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "An updated evidence-informed framework for dental sedation: drugs, routes, patient selection, monitoring, and emergency preparedness.",
+  "czasopismo": "Frontiers in oral health",
   "data": "2026",
   "tematy": [
    "ESKETAMINA"
   ]
  },
  {
-  "pmid": "42758489",
-  "poziom": "RCT",
-  "tytul": "Cost-Effectiveness of Community-Based Rehabilitation for People With Schizophrenia: A Secondary Analysis of a Cluster Randomized Trial.",
-  "czasopismo": "JAMA health forum",
-  "data": "2026 Sep 4",
+  "pmid": "42787467",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Effects of trazodone on polysomnographic sleep architecture in patients with depression and sleep disorders: a systematic review and exploratory meta-analysis.",
+  "czasopismo": "Frontiers in psychiatry",
+  "data": "2026",
+  "tematy": [
+   "TRAZODON"
+  ]
+ },
+ {
+  "pmid": "42812533",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Post-Traumatic Stress Disorder among civilians in Indian-administered Kashmir: a systematic review.",
+  "czasopismo": "Frontiers in psychiatry",
+  "data": "2026",
+  "tematy": [
+   "PTSD"
+  ]
+ },
+ {
+  "pmid": "42819238",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Psychosocial and mental health outcomes associated with gender-affirming interventions among transgender youth: a scoping review.",
+  "czasopismo": "Frontiers in public health",
+  "data": "2026",
   "tematy": [
    "SCHIZOFRENIA"
   ]
  },
  {
-  "pmid": "42766497",
+  "pmid": "42796420",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Behavioral and Psychosocial Effects of Participant-Visible Continuous Glucose Monitoring in Adults Without Diabetes: A Systematic Review.",
+  "czasopismo": "Medicina (Kaunas, Lithuania)",
+  "data": "2026 Sep 20",
+  "tematy": [
+   "SCHIZOFRENIA"
+  ]
+ },
+ {
+  "pmid": "42786718",
+  "poziom": "PRZEGLĄD SYST.",
+  "tytul": "Reconceptualizing Schizophrenia through a Patient-Oriented Perspective: a Systematic Review and Qualitative Meta-Synthesis.",
+  "czasopismo": "Schizophrenia bulletin",
+  "data": "2026 Aug 20",
+  "tematy": [
+   "SCHIZOFRENIA"
+  ]
+ },
+ {
+  "pmid": "42806304",
   "poziom": "RCT",
-  "tytul": "Supporting the Primary Outcomes of the Mirai Trial for the Adjunctive Digital Therapeutic Rejoyn (CT-152) in the Treatment of Major Depressive Disorder: Meaningful Change Analysis in the Montgomery-Åsberg Depression Rating Scale.",
-  "czasopismo": "JMIR formative research",
+  "tytul": "Remimazolam versus sevoflurane for maintenance of anesthesia and postoperative nausea and vomiting in laparoscopic gynecologic oncology surgery: a randomized controlled trial.",
+  "czasopismo": "BMC anesthesiology",
   "data": "2026 Sep 21",
+  "tematy": [
+   "BENZODIAZEPINY"
+  ]
+ },
+ {
+  "pmid": "42816083",
+  "poziom": "RCT",
+  "tytul": "Effectiveness of psychosocial counselling on treatment adherence among patients with a new tuberculosis diagnosis in primary care: a study protocol for a cluster-randomised controlled trial.",
+  "czasopismo": "BMJ open",
+  "data": "2026 Sep 30",
+  "tematy": [
+   "SCHIZOFRENIA"
+  ]
+ },
+ {
+  "pmid": "42815884",
+  "poziom": "RCT",
+  "tytul": "Mechanisms of Change in the Treatment of Depression: On the Role of Attachment, Reappraisal and Suppression.",
+  "czasopismo": "Clinical psychology & psychotherapy",
+  "data": "2026 Sep-Oct",
   "tematy": [
    "DEPRESJA"
   ]
  },
  {
-  "pmid": "42760676",
+  "pmid": "42813035",
   "poziom": "RCT",
-  "tytul": "Effect of esketamine on postoperative pulmonary complications after radical surgery for lung cancer: A randomized double-blind controlled trial.",
-  "czasopismo": "Medicine",
-  "data": "2026 Sep 18",
+  "tytul": "Efficacy of Remimazolam for Anesthesia in Patients Undergoing Renal Allograft Transplantation: A Randomized Controlled Trial.",
+  "czasopismo": "Drug design, development and therapy",
+  "data": "2026",
   "tematy": [
-   "ESKETAMINA"
+   "BENZODIAZEPINY"
   ]
  },
  {
-  "pmid": "42778211",
-  "poziom": "INNE",
-  "tytul": "QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.",
-  "czasopismo": "BMJ (Clinical research ed.)",
-  "data": "2026 Sep 23",
+  "pmid": "42789268",
+  "poziom": "RCT",
+  "tytul": "A Digital Therapeutic Intervention for Negative Symptoms of Schizophrenia: A Randomized Clinical Trial.",
+  "czasopismo": "JAMA network open",
+  "data": "2026 Sep 1",
   "tematy": [
-   "BUPROPION",
-   "DEPRESJA",
-   "DULOKSETYNA",
-   "ESCYTALOPRAM",
-   "FLUOKSETYNA",
-   "MIRTAZAPINA",
-   "PAROKSETYNA",
-   "TCA",
-   "TRAZODON",
-   "WENLAFAKSYNA",
-   "WORTIOKSETYNA"
+   "SCHIZOFRENIA"
   ]
  },
  {
-  "pmid": "42781780",
+  "pmid": "42814464",
+  "poziom": "RCT",
+  "tytul": "Skills Training in Affective Recovery Video and Text Programs for Recent Sexual Assault Survivors: A Pilot Randomized Clinical Trial.",
+  "czasopismo": "JAMA network open",
+  "data": "2026 Sep 1",
+  "tematy": [
+   "PTSD"
+  ]
+ },
+ {
+  "pmid": "42815730",
   "poziom": "INNE",
-  "tytul": "Comparative efficacy of antipsychotics for reducing aggression in schizophrenia: systematic review and network meta-analysis.",
-  "czasopismo": "The British journal of psychiatry : the journal of mental science",
-  "data": "2026 Sep 24",
+  "tytul": "Pharmacological interventions for acute major depression and bipolar depression with mixed features: A systematic review and dose-related network meta-analysis across different age groups.",
+  "czasopismo": "Journal of affective disorders",
+  "data": "2026 Sep 30",
   "tematy": [
    "ARYPIPRAZOL",
+   "CHAD",
+   "FLUOKSETYNA",
+   "KWETIAPINA",
+   "LURAZYDON",
+   "OLANZAPINA"
+  ]
+ },
+ {
+  "pmid": "42815510",
+  "poziom": "INNE",
+  "tytul": "Sex differences in the efficacy, acceptability, and tolerability of antipsychotics in people with acute schizophrenia: individual participant data pairwise, dose-response, and network meta-analyses.",
+  "czasopismo": "The lancet. Psychiatry",
+  "data": "2026 Sep 30",
+  "tematy": [
    "HALOPERIDOL",
-   "KLOZAPINA",
    "OLANZAPINA",
    "RISPERIDON",
    "SCHIZOFRENIA"
   ]
  },
  {
-  "pmid": "42765379",
+  "pmid": "42819596",
   "poziom": "INNE",
-  "tytul": "Comparing lithium and valproate in reducing suicide risk: A territory-wide retrospective cohort study with pairwise and network meta-analysis.",
-  "czasopismo": "Psychological medicine",
-  "data": "2026 Sep 21",
-  "tematy": [
-   "LIT",
-   "WALPROINIAN"
-  ]
- },
- {
-  "pmid": "42761930",
-  "poziom": "INNE",
-  "tytul": "Correction: Comparative efficacy and safety of seven Chinese patent medicines combined with SSRIs for depressive disorder: a systematic review and network meta-analysis.",
-  "czasopismo": "Frontiers in psychiatry",
-  "data": "2026",
+  "tytul": "Acupuncture and Moxibustion for Subthreshold Depression: a systematic review and Bayesian network meta-analysis.",
+  "czasopismo": "Journal of pharmacopuncture",
+  "data": "2026 Sep 30",
   "tematy": [
    "DEPRESJA"
   ]
