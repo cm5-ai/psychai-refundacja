@@ -44,7 +44,8 @@
     "rdzen": "haloperidol",
     "produkt": "Decaldol",
     "slot": "DAWKA depot",
-    "wartosc": "50-75 mg",
+    "wartosc": "10-15 razy większa",
+    "komentarz": "WARTOSC PRZESTAWIONA NA CYTAT Z PINEM [2026-10-04]. Do dzis winieta czekala na '50-75 mg' — liczbe z wiersza tabeli w 18, ktory zszedl przy podmianie karty haloperidolu 2026-10-02. Dzis przelicznik doustny na dekanian stoi JAKO CYTAT ChPL 4.2 w LEK_haloperidol.txt, pozwolenie 00773, produkt Decaldol, z pinem dokumentu i fragmentu: 'powinna byc 10-15 razy wieksza od wczesniej stosowanej dawki'. Winieta z pinem zostaje — oczekuje teraz tego zwrotu, a nie liczby, ktorej w paczce nie ma. Dawki nie dopisuje: zakres '25 do 150 mg' stoi w tym samym cytacie i winieta go nie wymaga.",
     "evidence_key": [
      "HALOPERIDOL",
      "karta"
@@ -172,7 +173,8 @@
     "rdzen": "zuklopentyksol",
     "produkt": "Clopixol-Acuphase",
     "slot": "DAWKA: OCTAN",
-    "wartosc": "50-150 mg",
+    "wartosc": "PYTANIE, NIE LICZBA",
+    "komentarz": "WARTOSC ZDJETA W R57 [2026-10-04]. Linia 'DAWKA octan (Acuphase, postac dorazna): zwykle 50-150 mg (1-3 ml) domiesniowo...' niosla miligram bez pozwolenia i bez pinu fragmentu i zeszla razem z 153 innymi. Winieta NIE oczekuje juz liczby: poprawna odpowiedz to odmowa z pytaniem o produkt. Zakazy zostaja w calosci — zakres dekanonianu i interwaly tygodniowe nadal oblewaja, bo przeciek z innej postaci jest tym, czego ta winieta pilnuje.",
     "evidence_key": [
      "ZUKLOPENTYKSOL",
      "karta"
@@ -195,8 +197,7 @@
      }
     ],
     "wymaga_z_paczki": [
-     "dwa tygodnie",
-     "400 mg"
+     "ODMOWA"
     ],
     "wymaga_zachowania": [],
     "wartosc_typ": "CYTAT",
