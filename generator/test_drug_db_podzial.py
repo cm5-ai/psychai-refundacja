@@ -200,13 +200,46 @@ def main():
     # Linia NIE ZNIKLA: dostala KWALIFIKATOR ("DAWKA doustnie:", "DAWKA depot
     # miesieczny:"), czyli zmienila sie jej NAZWA POLA. Dla T2 to linia
     # przepisana i tak jest tu liczona.
-    PRZEPISANE = {"ARYPIPRAZOL": (2, "POSTAC: 'dawek NIE MA' -> wskazanie na dawke depot w karcie; "
+    # 2026-10-03, ZAMKNIETY WLOT LICZBY (R50). ZMIERZONE: trzy linie zrodla
+    # ("Z WALPROINIANEM — LICZBY Z ChPL...", "(podawane jako 25 mg CO DRUGI
+    # DZIEŃ)...", "100–200 mg/d. [ChPL 4.2 Epitrigine, 2026-09-22]") zeszly
+    # z DRUG_DB_STAB.txt. Niosly dawke podpisana NAZWA HANDLOWA, bez
+    # pozwolenia i bez pinu fragmentu — a jedna nazwa nie rozstrzyga
+    # rejestracji. Na ich miejscu stoi JEDNA linia pytania bez mg.
+    # TRESC NIE ZGINELA: stoi w narzedzia/karty/CHPL_LAYER/lamotrygina.json
+    # i w magazynie chpl/. Z pliku wizyty zeszla LICZBA BEZ REJESTRACJI.
+    PRZEPISANE = {"LAMOTRYGINA": (3, "trzy linie dawkowania przy walproinianie "
+                                     "pod nazwa Epitrigine -> jedno pytanie bez mg "
+                                     "(wlot liczby, R50 2026-10-03)"),
+                  "ARYPIPRAZOL": (2, "POSTAC: 'dawek NIE MA' -> wskazanie na dawke depot w karcie; "
                                      "DAWKA -> DAWKA doustnie (worek dawkowy, rev83-88)"),
                   "OLANZAPINA": (2, "POSTAC: jw., plus odeslanie do NIEPEWNY_ODCZYT_ZRODLA; "
                                     "DAWKA -> DAWKA doustnie (worek dawkowy)"),
                   "RISPERIDON": (2, "POSTAC: jw., dla obu postaci depot; "
                                     "DAWKA -> DAWKA doustnie (worek dawkowy)"),
-                  "HALOPERIDOL": (1, "DAWKA -> DAWKA doustnie (worek dawkowy, rev83-88)"),
+                  # 2026-10-02, PODMIANA KARTY HALOPERIDOLU. Pola dawki tej
+                  # substancji wyszly z DRUG_DB_AP.txt do LEK_haloperidol.txt,
+                  # gdzie blok = JEDNA REJESTRACJA i kazda wartosc niesie pin
+                  # dokumentu. KTORE LINIE ZESZLY I DLACZEGO, 13 pozycji:
+                  #   POSTAC, DAWKA (doustnie), WSKAZANIA, T1_2, METABOLIZM,
+                  #   DN, INTERAKCJE, CIĄŻA, KP, OTĘPIENIE, PRZECIWWSKAZANIA
+                  #     -> ChPL 4.1/4.2/4.3/4.4/4.5/4.6/4.8/5.2 OSOBNO dla
+                  #        02394, 03029, 00773, 01040 (cytat z pelnym sha
+                  #        dokumentu i fragmentu); 09693 i 07226 niosa
+                  #        BRAK_DOKUMENTU_W_SPRAWDZONYCH_ZRODLACH i NIE
+                  #        biora wartosci od pozostalych;
+                  #   ONSET -> WYLACZONE, bez zrodla w paczce (decyzja lekarza
+                  #        D-2 z 2026-10-02, razem z progiem 67);
+                  #   MONITORING -> WYLACZONE, synteza bez pinu (decyzja
+                  #        lekarza D-1: poza odczytem).
+                  # W DRUG_DB_AP zostaja DWA WSKAZNIKI BEZ TRESCI
+                  # (PRZECIWWSKAZANIA, NIEPEWNY_ODCZYT_ZRODLA), wiec zadna
+                  # z tych linii nie znikla po cichu — kazda ma adres.
+                  "HALOPERIDOL": (13, "PODMIANA KARTY 2026-10-02: 11 pol -> "
+                                  "LEK_haloperidol.txt per rejestracja (punkty "
+                                  "ChPL 4.1-5.2, pin dokumentu), ONSET i "
+                                  "MONITORING -> WYLACZONE bez zrodla (D-2, D-1); "
+                                  "w DRUG_DB_AP zostaja dwa wskazniki bez tresci"),
                   # F8, 2026-09-27: nazwa pola z myslnikiem nie byla dla parsera
                   # paczki polem — runtime mowilby "brak danych" przy zywej tresci.
                   "KARBAMAZEPINA": (1, "INTERAKCJE — ANTYKONCEPCJA -> INTERAKCJE antykoncepcja (F8)"),
@@ -270,7 +303,15 @@ def main():
                        # pozycji karta szla sciezka scisla i oblewala na POZYCJI
                        # linii, nie na tresci — zrodlo mialo w wierszu 2
                        # STEZENIE_TERAPEUTYCZNE, plik ma tam DAWKA_STARSI.
-                       "KARBAMAZEPINA"])   # patrz DOPISANE w T7
+                       "KARBAMAZEPINA",
+                       # 2026-10-03, ZAMKNIETY WLOT LICZBY (R50). Karta
+                       # lamotryginy niosla pod linia DAWKA_DZIECI trzy linie
+                       # pisane recznie z dawkami przy walproinianie,
+                       # podpisane NAZWA HANDLOWA (Epitrigine) i stemplem
+                       # narzedziowym. Dawka bez pozwolenia z pinem zeszla
+                       # z pliku wizyty; na jej miejscu stoi jedno pytanie.
+                       # Liczba znikajacych linii jest ZADEKLAROWANA nizej.
+                       "LAMOTRYGINA"])   # patrz DOPISANE w T7
     # NORMALIZACJE PISOWNI POLA — DANA, NIE DOMYSL PARSERA [2026-09-25].
     # rev48 ("jedno pole przestaje miec dwie pisownie") celowo ujednolicila
     # nazwy pol w plikach klasowych. Zrodlo T2 jest ZAMROZONE na commicie
@@ -573,7 +614,22 @@ def main():
                 "BUPRENORFINA": (1, "DAWKA_DEPOT Buvidal: cztery wiersze Tabeli 1 potwierdzone przez lekarza 2026-09-26 wobec annexu z 2018; wiersz 26-32 mg pozostaje zablokowany"),
                 "RISPERIDON": (0, "dawki depot Rispolept Consta i Okedi — linie bez naglowka pola"),
                 "PALIPERYDON_LAI": (1, "Trevicta i BYANNLI: ODSTEPY_ZMIANA_LECZENIA; liczone w pozycji PALIPERYDON"),
-                "HALOPERIDOL": (2, "DAWKA_ROWNOWAZNA: odeslanie do tabeli rownowaznosci w 18; DAWKA depot przeniesiona z 18 nie jest linia pola. +1 od 2026-09-26: NIEPEWNY_ODCZYT_ZRODLA dla Haloperidolu WZF — pod ta nazwa leza dwa dokumenty ChPL (tabletka 1 mg i iniekcja 5 mg/ml), galaz PRZECIWWSKAZANIA wycofana wg R20-2"),
+                "HALOPERIDOL": (-10, "UBYTEK ZADEKLAROWANY, NIE ZGUBIONY "
+                    "[2026-10-02, podmiana karty]. Zmierzone: ze karty "
+                    "HALOPERIDOL w DRUG_DB_AP.txt zeszlo 14 linii pasujacych do "
+                    "waskiego wzorca pola T7 (POSTAC, WSKAZANIA, ONSET, "
+                    "DAWKA_ROWNOWAZNA, T1_2, METABOLIZM, DN, INTERAKCJE, CIĄŻA, "
+                    "KP, MONITORING, OTĘPIENIE, PRZECIWWSKAZANIA, "
+                    "NIEPEWNY_ODCZYT_ZRODLA), a wrocily DWIE jako wskazniki bez "
+                    "tresci (PRZECIWWSKAZANIA, NIEPEWNY_ODCZYT_ZRODLA): netto "
+                    "-12 wobec stanu po podziale. Wobec wczesniejszej deklaracji "
+                    "+2 (DAWKA_ROWNOWAZNA i NIEPEWNY_ODCZYT_ZRODLA dopisane "
+                    "recznie) daje to -10. TRESC NIE ZGINELA: stoi w "
+                    "LEK_haloperidol.txt, osobno dla kazdej z szesciu "
+                    "rejestracji, z pinem dokumentu. T7 tego pliku NIE LICZY, bo "
+                    "nie jest karta migracyjna — i dlatego ubytek musi stac tutaj "
+                    "z powodem, a nie znikac w progu. ONSET i MONITORING nie "
+                    "wrocily nigdzie: nie maja zrodla w paczce (D-2, D-1)."),
                 "LORAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Lorabexu — trzy dokumenty pod jedna nazwa (0,5 mg tabl., 2 mg/ml i 4 mg/ml inj.); wycofane DAWKA_STARSI, DAWKA_DZIECI, PRZECIWWSKAZANIA wg R20-2"),
                 "KLONAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Clonazepamum TZF — tabletka 0,5 mg i iniekcja 1 mg/ml pod jedna nazwa; wycofane DAWKA_STARSI i PRZECIWWSKAZANIA wg R20-2"),
                 "DIAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Neorelium — tabletka 5 mg i iniekcja 5 mg/ml pod jedna nazwa; to ten przypadek, ktory ujawnil cala klase (R20)"),

@@ -62,6 +62,11 @@ def _paczka():
 
 PACZKA = _paczka()
 PROJEKT = os.path.join(PACZKA, "projekt")
+# JEDNA DROGA DO DAWKI REJESTRACJI. Czytnik lezy w paczce, bo opisuje jej
+# format; audyt i preferencja LAI uzywaja TEGO SAMEGO, zeby nie powstaly
+# dwie definicje jednej reguly (druciarstwo D4).
+sys.path.insert(0, os.path.join(PACZKA, "narzedzia"))
+import droga_dawki as DD
 def _wydanie():
     """Najnowszy katalog wydania, NIE zaszyty numer. Pierwsza wersja miala
     wpisane 'rev34'; po przejsciu na rev35 regula R9 dostala ZERO WEJSCIA
@@ -183,12 +188,24 @@ def main():
     zglos("R4 SEKCJA -> ma karty", len(sekcje), z, "naglowek oderwany od swoich kart")
 
     # R5 KARTA -> ma pole dawki
+    # WYMAGANIE BEZ ZMIANY: dawka musi byc osiagalna. ZMIENIA SIE TYLKO DROGA:
+    # po podmianie karty haloperidolu dawka stoi W REJESTRACJI, w
+    # LEK_<lek>.txt, a 18 wskazuje ja z pozwoleniem i stanem zrodla. Dawka
+    # z INNEJ rejestracji nie liczy sie — sprawdza to droga_dawki.
+    _t18 = open(os.path.join(PROJEKT, "18_PSYCH_PHARMA_FORMULARY_PL.txt"),
+                encoding="utf-8").read()
     z = []
     for k, (f, i) in karty.items():
         L = open(os.path.join(PROJEKT, f), encoding="utf-8").read().split("\n")
         kon = min([j for (ff, j) in list(karty.values()) + list(sekcje) if ff == f and j > i] or [len(L)])
-        if not any(re.match(r'^(DAWKA|MAX)', x) for x in L[i:kon]):
-            z.append("%s (%s): karta bez pola DAWKA" % (k, f))
+        if any(re.match(r'^(DAWKA|MAX)', x) for x in L[i:kon]):
+            continue
+        ma, gdzie = DD.dawka_karty_przez_wskaznik(PROJEKT, _t18, k)
+        if ma:
+            print("      %s (%s): dawka per rejestracja -> %s" % (k, f, gdzie))
+            continue
+        z.append("%s (%s): karta bez pola DAWKA i bez wskaznika do rejestracji"
+                 % (k, f))
     zglos("R5 KARTA -> pole dawki", len(karty), z, "karta bez dawki nie odpowiada na pytanie wizyty")
 
     # R6 WPIS CACHE (OK) -> punkty>0 + postac + EKSPOZYCJA
