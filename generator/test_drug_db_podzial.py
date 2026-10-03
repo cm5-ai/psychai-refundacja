@@ -336,8 +336,15 @@ def main():
     # stemplem narzedziowym, NORMALIZACJE nietkniete.
     sys.path.insert(0, os.path.join(PACZKA, "narzedzia"))
     import stara_karta_po_podmianie as _SKP
+    # CALA DEKLARACJA, NIE JEDNA KARTA [R57, 2026-10-04]. Do 2026-10-04 ten
+    # filtr bral wylacznie pary kwetiapiny, bo tylko ona miala wtedy wartosc
+    # przepisana recznie. Zamkniety wlot liczby dotyczy szesciu plikow
+    # klasowych, wiec filtr po nazwie leku wycinalby 153 ze 154 deklaracji i
+    # test oblewalby na zmianach, ktore MAJA swoj pin. Warunek zostaje jeden:
+    # para musi miec wartosc PO (pole, ktore schodzi bez nastepcy, rozlicza
+    # sie kanalem PRZEPISANE, nie para).
     PRZEPISANE_WARTOSCI = {k: v for k, v in _SKP.MIGRACJA_DOPUSZCZONA.items()
-                           if k[0] == "KWETIAPINA" and v[1] is not None}
+                           if v[1] is not None}
     if not PRZEPISANE_WARTOSCI:
         bledy.append("T2: wspolna deklaracja MIGRACJA_DOPUSZCZONA nie ma ani jednej "
                      "pary kwetiapiny z wartoscia PO — rozliczenie bez wejscia")
@@ -345,6 +352,34 @@ def main():
 
     def _sha_linii(t):
         return hashlib.sha256(t.encode("utf-8")).hexdigest()
+
+    def _etykieta(t):
+        return t.split(":", 1)[0].strip() if ":" in t else ""
+
+    def _przepisana(karta, x, plik):
+        """Czy linia zrodla x ma ZADEKLAROWANA pare sha do linii stojacej w pliku.
+
+        JEDNA DEFINICJA, DWIE SCIEZKI [R57, 2026-10-04]. Linia pola dawki,
+        ktorej wartosc oddano zdaniu bez liczby, znika ze zrodla i staje w
+        pliku pod TA SAMA ETYKIETA. Bez tego czyta sie jak ciche usuniecie.
+        Warunek jest ostry i nie jest dopuszczeniem ogolnym: we wspolnej
+        deklaracji musi stac para PELNYCH SHA (wartosc przed -> wartosc po),
+        a w pliku musi stac linia o DOKLADNIE tym drugim sha.
+        ROWNOSCI ETYKIET NIE WYMAGAM, i to jest zmierzone, nie zalozone: R57
+        zdjal moc rowniez z NAZWY trzech pol ("Zyprexa 10 mg proszek...",
+        "Abilify Maintena 720 i 960 mg", "Fluanxol 0,5 mg"), wiec etykieta po
+        zmianie nie jest etykieta przed zmiana. Para pelnych sha identyfikuje
+        obie strony sama; etykieta jest w kluczu i wskazuje linie zrodla.
+        """
+        klucz = (karta, _etykieta(x))
+        para = PRZEPISANE_WARTOSCI.get(klucz)
+        if not para:
+            return False
+        for y in plik:
+            if para == (_sha_linii(x), _sha_linii(y)):
+                uzyte_wartosci.add(klucz)
+                return True
+        return False
 
     NORMALIZACJE = [("CIAZA:", "CIĄŻA:")]
     uzyte = dict((a, 0) for a, _ in NORMALIZACJE)
@@ -393,7 +428,7 @@ def main():
         m = POLE_NAR.match(linia)
         return m.group(1) if m else None
 
-    n_dopisanych = n_wypelnionych = 0
+    n_dopisanych = n_wypelnionych = n_przepisanych = 0
 
     rozne = 0
     for n, tresc_zr in karty_zr.items():
@@ -430,13 +465,27 @@ def main():
                          if x not in wypelnione
                          and (x.rstrip() in _goly or znormalizuj(x).rstrip() in _goly)]
             wypelnione = wypelnione + oznaczone
-            reszta = [x for x in zniklo_zr if x not in wypelnione]
-            if (dopisane_tu or wypelnione) and not reszta:
+            # ZDJETA LICZBA BEZ REJESTRACJI — TYLKO Z PARA SHA [R57, 2026-10-04].
+            # Linia pola dawki, ktorej wartosc oddano zdaniu bez liczby, ZNIKA
+            # ze zrodla i staje w pliku jako linia ze stemplem. Dla tej sciezki
+            # byla wiec "zgubiona" i karta spadala do porownania 1:1, gdzie
+            # dopisany wczesniej stempel innego pola rozjezdza numeracje i
+            # kazda nastepna linia czyta sie jako zmieniona.
+            # NIE JEST TO DOPUSZCZENIE OGOLNE: linia przechodzi WYLACZNIE, gdy
+            # we wspolnej deklaracji stoi para PELNYCH SHA (wartosc przed ->
+            # wartosc po) i gdy w pliku stoi linia O TEJ SAMEJ ETYKIECIE
+            # i DOKLADNIE tym sha. Zamiana bez deklaracji oblewa jak dotad.
+            przepisane_tu = [x for x in zniklo_zr
+                             if x not in wypelnione and _przepisana(n, x, b)]
+            pominiete = wypelnione + przepisane_tu
+            reszta = [x for x in zniklo_zr if x not in pominiete]
+            if (dopisane_tu or pominiete) and not reszta:
                 it = iter(b_bez)
-                a_bez = [x for x in tresc_zr if x not in wypelnione]
+                a_bez = [x for x in tresc_zr if x not in pominiete]
                 if all(any(x == y or znormalizuj(x) == y for y in it) for x in a_bez):
                     n_dopisanych += dopisane_tu
                     n_wypelnionych += len(wypelnione)
+                    n_przepisanych += len(przepisane_tu)
                     continue
             if n in UZUPELNIONE:
                 it = iter(b)
@@ -457,11 +506,17 @@ def main():
                 # jednej zadeklarowanej i oblewal na oznaczeniu, nie na tresci.
                 _zn2 = _re.compile(r"\s*\[BEZ_PINU[^\]]*\]\s*$")
                 _goly2 = {_zn2.sub("", y).rstrip() for y in b if _zn2.search(y)}
+                # LINIA Z ZADEKLAROWANA PARA SHA NIE JEST LINIA ZNIKNIETA
+                # [R57, 2026-10-04] — ten sam warunek, co na sciezce
+                # narzedziowej, ta sama deklaracja. Licznik PRZEPISANE zostaje
+                # dla zmian rozliczanych SAMA LICZBA; zmiana z para sha ma
+                # dowod mocniejszy i nie powieksza tego licznika.
                 zniklo = [x for x in a if x not in b and znormalizuj(x) not in b
                           and not ("BRAK DANYCH LOKALNYCH" in x
                                    and _pole(x) in {_pole(y) for y in b if _narzedziowa(y)})
                           and x.rstrip() not in _goly2
-                          and znormalizuj(x).rstrip() not in _goly2]
+                          and znormalizuj(x).rstrip() not in _goly2
+                          and not _przepisana(n, x, b)]
                 ile, powod = PRZEPISANE.get(n, (0, ""))
                 if len(zniklo) == ile:
                     continue
@@ -674,7 +729,19 @@ def main():
 
     # PARA NIEUZYTA JEST BLEDEM. Martwe rozliczenie uczy, ze alarm przychodzi
     # i mija sam — ta sama zasada, co przy martwym wylaczeniu kolizji.
-    for klucz in sorted(PRZEPISANE_WARTOSCI):
+    # ROZLICZAM TYLKO TO, CO WIDZE [R57, 2026-10-04]. Deklaracja jest wspolna
+    # z kontrola podmiany w paczce, ktora trzyma te same zmiany pod kluczem
+    # porzadkowym ("(bez etykiety) #n") dla wartosci bez etykiety. Tych kluczy
+    # ten test nie oglada — pyta o etykiete. Zadanie realizacji od klucza,
+    # ktorego nie ma w zadnej karcie zrodla, zamienialoby kazda taka deklaracje
+    # w falszywy alarm. Zakres: klucze, ktorych karta jest w zrodle i ktorych
+    # etykieta stoi w tej karcie.
+    etykiety_zrodla = set()
+    for _n, _tresc in karty_zr.items():
+        for _l in _tresc:
+            if ":" in _l:
+                etykiety_zrodla.add((_n, _l.split(":", 1)[0].strip()))
+    for klucz in sorted(set(PRZEPISANE_WARTOSCI) & etykiety_zrodla):
         if klucz not in uzyte_wartosci:
             bledy.append("T2 %s / %s: zadeklarowana para wartosci NIE WYSTAPILA "
                          "(martwe rozliczenie)" % klucz)
