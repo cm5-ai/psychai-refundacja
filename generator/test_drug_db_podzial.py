@@ -19,7 +19,7 @@ T7  Liczba linii pol (NAZWA_POLA:) jest taka sama jak w zrodle — lapie
     zgubienie pojedynczej linii wewnatrz karty, ktorego T2 by nie zlapal,
     gdyby karta zostala pominieta w calosci razem z naglowkiem.
 """
-import os, re, subprocess, sys
+import hashlib, os, re, subprocess, sys
 
 # SCIEZKA DO PACZKI — trzy proby, w tej kolejnosci, bez zgadywania.
 # 1. PSYCHAI_PACZKA z otoczenia (CI podaje ja jawnie),
@@ -281,6 +281,30 @@ def main():
     # NIE ROZLUZNIAM T2. Podstawiam WYLACZNIE te pary, ktore rev48 zmieniala,
     # i licze, ile razy kazda byla potrzebna. Para nieuzyta ani razu jest
     # martwym wylaczeniem i ma to byc widac.
+    # WARTOSC PRZEPISANA RECZNIE — PARA PELNYCH SHA ZE WSPOLNEJ DEKLARACJI
+    # [rozkaz lekarza 2026-10-03]. Pary czytane sa z JEDNEGO miejsca:
+    # narzedzia/stara_karta_po_podmianie.MIGRACJA_DOPUSZCZONA w paczce, tej
+    # samej deklaracji, ktorej uzywa kontrola podmiany. Skopiowanych sha tu
+    # nie ma — dwie kopie jednej deklaracji rozjechaly sie w tej paczce raz.
+    # REGULY POROWNANIA NIE ZMIENIAM: T2 dalej porownuje linie 1:1, a para
+    # wiaze DOKLADNIE jedna wartosc przed z DOKLADNIE jedna po. Wartosc z tej
+    # deklaracji jest sha256 TRESCI POLA po zlaczeniu kontynuacji; dla pola
+    # jednoliniowego bez wciecia to ta sama liczba, co sha linii. Gdyby pole
+    # dostalo kontynuacje, para przestaje sie zgadzac i T2 OBLEWA — nie
+    # przechodzi po cichu. Zrodla nie przemrazam, recznej linii nie oznaczam
+    # stemplem narzedziowym, NORMALIZACJE nietkniete.
+    sys.path.insert(0, os.path.join(PACZKA, "narzedzia"))
+    import stara_karta_po_podmianie as _SKP
+    PRZEPISANE_WARTOSCI = {k: v for k, v in _SKP.MIGRACJA_DOPUSZCZONA.items()
+                           if k[0] == "KWETIAPINA" and v[1] is not None}
+    if not PRZEPISANE_WARTOSCI:
+        bledy.append("T2: wspolna deklaracja MIGRACJA_DOPUSZCZONA nie ma ani jednej "
+                     "pary kwetiapiny z wartoscia PO — rozliczenie bez wejscia")
+    uzyte_wartosci = set()
+
+    def _sha_linii(t):
+        return hashlib.sha256(t.encode("utf-8")).hexdigest()
+
     NORMALIZACJE = [("CIAZA:", "CIĄŻA:")]
     uzyte = dict((a, 0) for a, _ in NORMALIZACJE)
 
@@ -409,6 +433,11 @@ def main():
                 x = a[i] if i < len(a) else "<brak linii>"
                 y = b[i] if i < len(b) else "<brak linii>"
                 if x != y and znormalizuj(x) != y:
+                    pole = x.split(":", 1)[0].strip() if ":" in x else ""
+                    klucz = (n, pole)
+                    if PRZEPISANE_WARTOSCI.get(klucz) == (_sha_linii(x), _sha_linii(y)):
+                        uzyte_wartosci.add(klucz)
+                        continue
                     bledy.append("T2 %s linia %d: zrodlo %r != plik %r" % (n, i, x[:60], y[:60]))
                     break
     print("T2 TRESC KART: %d roznych z %d" % (rozne, len(karty_zr)))
@@ -586,6 +615,13 @@ def main():
     for k, (n_, po) in sorted(DOPISANE.items()):
         print("   CELOWO %s +%d: %s" % (k, n_, po))
     print("   (w calym zrodle z preambula: %d)" % n_zr)
+
+    # PARA NIEUZYTA JEST BLEDEM. Martwe rozliczenie uczy, ze alarm przychodzi
+    # i mija sam — ta sama zasada, co przy martwym wylaczeniu kolizji.
+    for klucz in sorted(PRZEPISANE_WARTOSCI):
+        if klucz not in uzyte_wartosci:
+            bledy.append("T2 %s / %s: zadeklarowana para wartosci NIE WYSTAPILA "
+                         "(martwe rozliczenie)" % klucz)
 
     print()
     if bledy:
