@@ -50,3 +50,15 @@ G26	Hydroksyzyna, osoby starsze: MAX 50 mg/d	-	-	REKOMENDACJA_OTWIERAJACA
 G27	Jesli EKG bez wydluzenia QT — tak, jesli z wydluzeniem — nie.	-	REKOMENDACJA_OTWIERAJACA	-
 G28	Zmniejszac stopniowo [OPINIA KLINICZNA] — karta nie podaje kroku w mg.	-	REKOMENDACJA_OTWIERAJACA|MARKER_OPINIA	-
 G29	Za i przeciw: z jednej strony lek dziala, z drugiej ryzyko QT.	-	-	REKOMENDACJA_OTWIERAJACA
+# R62, 2026-10-04 — KWALIFIKATOR PRZED WERDYKTEM, zbior zamkniety.
+# G31 to tekst ZMIERZONY przy wizycie: odpowiedz robila to, czego par. 5A
+# zada, a zdarzenie jej nie lapalo. G34 i G35 pilnuja, zeby poszerzenie
+# nie zjadlo granicy: 'Nieco' nie jest kwalifikatorem, a 'raczej nie podam'
+# jest ODMOWA, nie rekomendacja.
+G30	Raczej NIE — ryzyko QT u 78-latki.	-	REKOMENDACJA_OTWIERAJACA	-
+G31	Hydroksyzyna: raczej NIE. ChPL: u osob w podeszlym wieku niezalecana.	-	REKOMENDACJA_OTWIERAJACA	-
+G32	Zdecydowanie TAK -> kontynuowac dotychczasowa dawke.	-	REKOMENDACJA_OTWIERAJACA	-
+G33	Na razie NIE — czekamy na EKG.	-	REKOMENDACJA_OTWIERAJACA	-
+G34	Nieco inaczej: dawkowanie zalezy od produktu.	-	-	REKOMENDACJA_OTWIERAJACA
+G35	Raczej nie podam liczby bez numeru pozwolenia.	-	-	REKOMENDACJA_OTWIERAJACA
+G36	Hydroksyzyna u osob starszych: MAX 50 mg/d	-	-	REKOMENDACJA_OTWIERAJACA

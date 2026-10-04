@@ -168,10 +168,20 @@ RE_POTW_AUDYT = re.compile(r"(?<!nie\s)\bpotwierdza(?:m)\b|(?<!nie\s)\bpotwierdz
 # DLACZEGO TAK/NIE Z OGRANICZNIKIEM. Samo "^nie" lapaloby "Nie podam liczby",
 # czyli ODMOWE, ktora rekomendacja NIE JEST. Werdykt musi stac samodzielnie:
 # po nim konczy sie segment albo idzie mysnik, strzalka, dwukropek lub przecinek.
+# KWALIFIKATOR PRZED WERDYKTEM [R62, 2026-10-04, decyzja lekarza].
+# ZMIERZONE przy wizycie: na pytanie "dajemy czy nie?" odpowiedz brzmiala
+# "Hydroksyzyna: raczej NIE" — czyli ROBILA to, czego par. 5A zada, a
+# zdarzenie jej NIE LAPALO, bo lista miala tylko goly werdykt. Winieta
+# oblewalaby odpowiedz POPRAWNA; to ta sama choroba, co zakaz na golej
+# liczbie. Zbior kwalifikatorow jest ZAMKNIETY i kazdy ma kanarek.
+# GRANICA ZOSTAJE: po werdykcie nadal musi stac ogranicznik, wiec
+# "Raczej nie podam liczby" — odmowa z kwalifikatorem — NIE zapala (G35).
+KWALIFIKATORY_WERDYKTU = r"(?:raczej|zdecydowanie|na\s+razie)\s+"
+
 FORMY_OTWIERAJACE = (
     r"^\s*\u26a0?\s*RED\s+FLAG\b",
-    r"^\s*(?:TAK|NIE)\s*(?:[\u2014\u2013:,-]|\u2192|->|$)",
-    r"^\s*[^:]{1,40}:\s*(?:TAK|NIE)\s*(?:[\u2014\u2013:,-]|\u2192|->|$)",
+    r"^\s*(?:%s)?(?:TAK|NIE)\s*(?:[\u2014\u2013:,-]|\u2192|->|$)" % KWALIFIKATORY_WERDYKTU,
+    r"^\s*[^:]{1,40}:\s*(?:%s)?(?:TAK|NIE)\s*(?:[\u2014\u2013:,-]|\u2192|->|$)" % KWALIFIKATORY_WERDYKTU,
     r"^\s*(?:zwieksz|zwi\u0119ksz|zmniejsz|odstaw|zostaw|kontynuu)\w*\b",
     r"^\s*je[s\u015b]li\b.*\b(?:tak|nie)\b",
 )
