@@ -323,10 +323,10 @@ def main():
     # i licze, ile razy kazda byla potrzebna. Para nieuzyta ani razu jest
     # martwym wylaczeniem i ma to byc widac.
     # WARTOSC PRZEPISANA RECZNIE — PARA PELNYCH SHA ZE WSPOLNEJ DEKLARACJI
-    # [rozkaz lekarza 2026-10-03]. Pary czytane sa z JEDNEGO miejsca:
-    # narzedzia/stara_karta_po_podmianie.MIGRACJA_DOPUSZCZONA w paczce, tej
-    # samej deklaracji, ktorej uzywa kontrola podmiany. Skopiowanych sha tu
-    # nie ma — dwie kopie jednej deklaracji rozjechaly sie w tej paczce raz.
+    # [rozkaz lekarza 2026-10-03]. SKOPIOWANE SHA ZESZLY: pary czytane sa
+    # z JEDNEGO miejsca — narzedzia/stara_karta_po_podmianie.MIGRACJA_DOPUSZCZONA
+    # w paczce, tej samej, ktorej uzywa kontrola podmiany. Dwie kopie jednej
+    # deklaracji rozjechaly sie w tej paczce juz raz.
     # REGULY POROWNANIA NIE ZMIENIAM: T2 dalej porownuje linie 1:1, a para
     # wiaze DOKLADNIE jedna wartosc przed z DOKLADNIE jedna po. Wartosc z tej
     # deklaracji jest sha256 TRESCI POLA po zlaczeniu kontynuacji; dla pola
@@ -692,6 +692,7 @@ def main():
                 # i odejmuje od bilansu pol. TRESC I LICZBA BEZ ZMIAN —
                 # zmierzone: tokeny liczbowe w DRUG_DB_AP identyczne przed i po
                 # (155 = 155). Licznik linii narzedziowych T7: 73 -> 74.
+                "HYDROKSYZYNA_PULAP_STAN": (-1, "R60, 2026-10-04: pole STARSI karty HYDROKSYZYNA stoi teraz pod etykieta MAX_DOBOWA_ZDANIA. Tresc i liczba bez zmiany, zmienila sie sama etykieta — a etykiety MAX_DOBOWA_ZDANIA nie ma w karcie zrodlowej, wiec T7 liczy te linie jako narzedziowa dopisana i odejmuje ja od bilansu. Licznik linii narzedziowych T7: 74 -> 75. Para sha przed/po stoi w MIGRACJA_DOPUSZCZONA, klucz (HYDROKSYZYNA, STARSI). Linia ISTNIEJE. Powod rozdzielenia: DAWKA_STARSI niesie odmowe po R57, wiec pulap i dawka do podania nie moga dluzej odpowiadac na to samo pytanie z jednej karty"),
                 "FLUPENTYKSOL_ROWNOWAZNA_STAN": (-1, "DAWKA_ROWNOWAZNA dostala stan [BEZ_PINU] i weszla do klasy linii narzedziowych T7"),
                 "LORAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Lorabexu — trzy dokumenty pod jedna nazwa (0,5 mg tabl., 2 mg/ml i 4 mg/ml inj.); wycofane DAWKA_STARSI, DAWKA_DZIECI, PRZECIWWSKAZANIA wg R20-2"),
                 "KLONAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Clonazepamum TZF — tabletka 0,5 mg i iniekcja 1 mg/ml pod jedna nazwa; wycofane DAWKA_STARSI i PRZECIWWSKAZANIA wg R20-2"),
