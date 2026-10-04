@@ -1,10 +1,12 @@
 {
  "data": "2026-09-23",
- "N_WEJSCIE": 1496,
- "N_BEZ_WYKRYTEJ_ANOMALII": 1495,
- "N_Z_SYGNALEM": 1,
+ "N_WEJSCIE": 2966,
+ "N_BEZ_WYKRYTEJ_ANOMALII": 2958,
+ "N_Z_SYGNALEM": 8,
  "S1_obcy_naglowek": [
-  "klorazepat/Tranxene pkt 4.6 zawiera naglowek 4.7 na pozycji 1550 z 2033"
+  "bromokryptyna/Bromocorn pkt 4.4 zawiera naglowek 4.5 na pozycji 8433 z 9419",
+  "klorazepat/Tranxene pkt 4.6 zawiera naglowek 4.7 na pozycji 1550 z 2033",
+  "lewetyracetam/Cezarius pkt 4.5 zawiera naglowek 4.6 na pozycji 2944 z 5856"
  ],
  "S2_urwanie_na_odsylaczu": [],
  "S3_smieci_przed_naglowkiem": [],
@@ -12,6 +14,9 @@
   "deksamfetamina/Tentin pkt 4.2 ~ 4.4",
   "escitalopram/ApoEscitaxin ORO pkt 4.4 ~ 4.8",
   "escitalopram/Betesda pkt 4.4 ~ 4.8",
+  "fenfluramina/Fintepla pkt 4.4 ~ 4.5",
+  "fenobarbital/Luminalum Unia pkt 4.4 ~ 4.6",
+  "fenytoina/Phenytoinum WZF pkt 4.4 ~ 4.6",
   "fluoksetyna/Bioxetin pkt 4.4 ~ 4.5",
   "fluoksetyna/Fluoksetyna EGIS pkt 4.4 ~ 4.5",
   "gabapentyna/Gabacol pkt 4.4 ~ 4.8",
@@ -24,12 +29,18 @@
   "lamotrygina/Lamilept pkt 4.2 ~ 4.4",
   "lamotrygina/Lamilept pkt 4.4 ~ 4.8",
   "lamotrygina/Lamitrin pkt 4.4 ~ 4.8",
+  "lewodopa/Lecigon pkt 4.2 ~ 5.2",
+  "lewodopa/Madopar pkt 4.1 ~ 4.2",
+  "lewodopa/Madopar pkt 4.4 ~ 4.5",
   "metadon/Methadone hydrochloride INN-FARM pkt 4.2 ~ 4.4",
   "metylofenidat/Atenza pkt 4.2 ~ 4.4",
   "metylofenidat/Atenza pkt 4.4 ~ 4.5",
   "metylofenidat/Cognimentin LA pkt 4.2 ~ 4.4",
   "modafinil/Actimodan pkt 4.2 ~ 5.2",
   "paroksetyna/ParoGen pkt 4.4 ~ 4.8",
+  "propranolol/Propranolol WZF pkt 4.4 ~ 4.5",
+  "prymidon/Mizodin pkt 4.4 ~ 4.6",
+  "selegilina/Segan pkt 4.4 ~ 4.8",
   "sertralina/ApoSerta pkt 4.3 ~ 4.5",
   "sertralina/Apiolin pkt 4.3 ~ 4.5",
   "sertralina/Asentra pkt 4.3 ~ 4.5",
@@ -38,8 +49,16 @@
   "walproinian/Convival Chrono pkt 4.4 ~ 4.6",
   "wenlafaksyna/Alventa pkt 4.4 ~ 4.5",
   "wenlafaksyna/Axyven pkt 4.4 ~ 4.5",
-  "wenlafaksyna/Efectin ER 150 pkt 4.4 ~ 4.5"
+  "wenlafaksyna/Efectin ER 150 pkt 4.4 ~ 4.5",
+  "zonisamid/Zonegran pkt 4.4 ~ 4.6",
+  "zonisamid/Zonegran pkt 4.4 ~ 4.8"
  ],
- "S5_brak_frazy": [],
+ "S5_brak_frazy": [
+  "dziurawiec/Tinctura Hyperici Herbpol w Krakowie SA pkt 5.2 (87 znakow)",
+  "fenytoina/Phenytoin Hikma pkt 4.3 (746 znakow)",
+  "ginkgo/Bilobil Forte pkt 5.2 (913 znakow)",
+  "ginkgo/Ginkgofol pkt 5.2 (547 znakow)",
+  "ginkgo/Ginkofar pkt 5.2 (914 znakow)"
+ ],
  "S6_start_w_odsylaczu": []
 }

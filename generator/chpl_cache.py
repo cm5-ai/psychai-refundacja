@@ -9,10 +9,38 @@ import polityka
 import dobor
 
 KATALOG = "chpl"
+DZIS = datetime.date.today().isoformat()
 LIMIT_ZNAKOW = 200000        # praktycznie bez limitu. Przy 6000 ucinalo klozapinie 4.2/4.4/4.5/4.8,
                              # przy 20000 nadal ucinalo klozapinie 4.4 (rozrost 5,2 MB -> ok. 5,4 MB)
                              # i metadonowi 4.2 - czyli progi przerwania i dawkowanie.
-MAX_PRODUKTOW = 3            # na substancje; ChPL nalezy do PRODUKTU
+# ZAKRES LIMITU, ZAPISANY WPROST [R83, 2026-10-05].
+# MAX_PRODUKTOW NIE JEST KWOTA PACZKI. Jest limitem PROBKOWANIA przy budowie
+# cache OD ZERA: ile produktow narzedzie samo wybierze, gdy nikt mu nie wskazal
+# konkretnych. Dokument DOSTARCZONY i PRZYPISANY (lekarz pobral go przegladarka,
+# sha256 policzone, adres z rejestru znany) wchodzi INNYM KANALEM i limitu nie
+# dotyczy — bo limit nie mowi "do bazy wolno wziac trzy", tylko "probkujac,
+# wez trzy".
+# To rozdzielenie istnialo od 2026-09-24 w rekordzie paliperydonu ("Limit 3
+# produktow na substancje ich NIE obejmuje - byly poza cache em"), ale nie bylo
+# zapisane TUTAJ, wiec za kazdym razem wygladalo na obejscie wlasnej reguly.
+# ZAKRES LIMITU rozstrzygnieto zbieznie. GPT: "limit 3 dotyczy probkowania, a
+# kazdy poprawnie przypisany dokument dostarczony przez lekarza wchodzi do cache
+# z proweniencja". Grok: "MAX_PRODUKTOW = 3 jest limitem probnika glownej
+# przebudowy, nie kwota paczki (...) o ile niesie proweniencje i idzie
+# przenosnikiem, a nie recznym wrzutem".
+#
+# MIEJSCE IMPORTU rozstrzygnieto OSOBNO I NIE OD RAZU. Pierwsze odpowiedzi szly
+# w rozne strony: GPT "osobny skrypt utrwalalby druga sciezke" (czyli glowna
+# sciezka), Grok "C. B do cache" (czyli piaty dolacz_*.py). Przez jeden dzien
+# stalo tu zdanie, ze powiedzieli to samo - nie powiedzieli, i to byl moj blad,
+# nie ich. Zapytani ponownie, z policzonym faktem, ze skryptow dolacz_*.py jest
+# juz cztery i kazdy wola ten sam deterministyczny kanal postacie.py, obaj
+# odpowiedzieli GLOWNA. GPT: "dla kolejnych partii dokumentow wybieram jeden
+# jawny tryb importu zamiast piatego skryptu". Grok: "--import-lokalny w
+# chpl_cache.py nic nie psuje, dopoki nie podnosi MAX_PRODUKTOW i nie wchodzi w
+# przebudowe, ktora bierze trzy produkty".
+# DLATEGO IMPORT JEST TUTAJ, w glownej sciezce, a nie w nowym dolacz_*.py.
+MAX_PRODUKTOW = 3            # probkowanie przy budowie od zera; patrz --import-lokalny
 
 
 def norm(s):
@@ -103,12 +131,281 @@ def plik_nazwy(s):
     return re.sub(r'[^a-z0-9]+', '_', b).strip('_')
 
 
+# ---------------------------------------------------------------------------
+# IMPORT DOKUMENTOW LOKALNYCH [R83, 2026-10-05].
+#
+# WEJSCIE: manifest TSV, kolumny
+#   substancja, pozwolenie, id_rejestru, id_rpl, naglowek, sha256, plik, adres
+# Plik lezy w katalogu dokumentow (domyslnie psychai-paczka/_zrodla_lokalne/chpl).
+#
+# CO SPRAWDZA, ZANIM COKOLWIEK DOPISZE — kazdy warunek osobno, kazdy z powodem:
+#   1. plik istnieje,
+#   2. sha256 BAJTOW rowne sha z manifestu (nie przepisane z manifestu — liczone),
+#   3. adres z manifestu niesie to samo id_rpl co kolumna id_rpl,
+#   4. punkty daja sie odczytac (chpl_z_pdf), a 4.2 nie jest pusty,
+#   5. tej pary (sha256, pozwolenie) jeszcze w rekordzie nie ma.
+# Warunek niespelniony -> pozycja ODRZUCONA z powodem. Bilans par. 3B.
+#
+# CZEGO NIE ROBI: nie promuje niczego do pliku wizyty ani do gabinetu. To jest
+# osobna decyzja i osobny pomiar — obaj recenzenci powiedzieli to niezaleznie,
+# GPT: "import do cache oddzielic od promocji do gabinetu", Grok: "do pliku
+# wizyty nie wchodza".
+def _spis_wg_id(spis):
+    """Eksport RPL zaindeksowany po id rejestracji. Klucz deterministyczny.
+
+    NIE po pozwoleniu: rejestracje centralne EU maja pole 'pozwolenie' PUSTE
+    (zmierzone na RPL_PSYCH.json: 2693 produkty, 2161 roznych pozwolen, jedyna
+    wartosc powtorzona to pusty napis). Pusty napis jako klucz sklejalby setki
+    roznych produktow w jeden. Pole 'id' jest unikalne i to ono jest kluczem.
+    """
+    d = json.load(open(spis, encoding="utf-8"))["produkty"]
+    wg = {}
+    for p in d:
+        i = str(p.get("id") or "")
+        if not i:
+            continue
+        if i in wg:
+            raise ValueError("EKSPORT RPL: id %s wystepuje dwa razy. "
+                             "Klucz przestal byc kluczem - nie scalam." % i)
+        wg[i] = p
+    return wg
+
+
+def import_lokalny(manifest, katalog_dokumentow, spis, zapisz=False):
+    """Dopisanie do cache'u dokumentow JUZ POBRANYCH I PRZYPISANYCH.
+
+    CO TO JEST. Kanal poza probnikiem glownej przebudowy. MAX_PRODUKTOW
+    ogranicza, ile produktow narzedzie WYBIERZE SAMO, gdy nikt mu nie wskazal
+    konkretnych; dokument wskazany, pobrany i przypisany nie jest probka.
+    Rozstrzygniete zbieznie 2026-10-05: obaj recenzenci odpowiedzieli GLOWNA
+    (import w tym pliku), nie piaty skrypt dolacz_*.py.
+
+    SKAD BIORA SIE POLA REKORDU — i to jest poprawka bledu z 2026-10-04.
+    Pierwsza wersja tej funkcji skladala nazwe, moc i postac z kolumny
+    'naglowek' manifestu i nie dawala wcale DROGI, UWALNIANIA, EKSPOZYCJI,
+    podmiotu ani klucz_rpl. Audyt R6 zglosil 92 znaleziska: wpis udajacy
+    komplet. Teraz:
+      nazwa, moc, postac, podmiot, atc, nazwa_powszechna
+                       <- EKSPORT RPL, po kluczu id rejestracji (rownosc)
+      DROGA, UWALNIANIE <- postacie.postac_klasa(postac): ROWNOSC NAPISU ze
+                           slownikiem postaci. Napis spoza slownika rzuca
+                           wyjatkiem i pozycja jest ODRZUCONA, nie zgadnieta.
+      EKSPOZYCJA        <- postacie.ekspozycja(): ChPL albo tabela wyjatkow.
+    Zakaz, ktory to realizuje, obaj recenzenci postawili tak samo. Grok:
+    "DROGA, EKSPOZYCJA i UWALNIANIE nie wolno wyprowadzac parserem z postaci -
+    to wzorzec, nie klucz". GPT: "sama postac i ATC nie dowodza wszystkich
+    trzech; brak wymaganej wartosci oznacza dokument zachowany jako
+    zweryfikowane zrodlo, ale poza rekordami cache ze statusem OK".
+
+    TRESC PUNKTOW STOI PRZY PRODUKCIE, W CALOSCI. Rozwazalem scalanie: jedna
+    kanoniczna tresc na sha256 kanonu punktu plus odsylacz przy produkcie.
+    ZMIERZONE na kwetiapinie, obie wersje z tej samej danej: pelna tresc 5 320 865 B
+    surowo i 1 923 105 B jako obiekt gita, scalona 1 934 703 B i 605 609 B; 95
+    generykow niesie 21-31 roznych tresci kazdego punktu, nie 95. Zysk realny,
+    ekstrapolacja na 1019 dokumentow to +21 MB w .git wobec +6,6 MB.
+    ODRZUCONE MIMO TO, zbieznie. Scalanie wymagaloby zmiany kontraktu odczytu
+    w 24 miejscach osmiu modulow paczki, a wsrod nich sa chpl_layer.py i
+    generator_wizyty.py - droga, ktora dawka idzie do pliku wizyty i dalej do
+    lekarza przy pacjencie - oraz kontrola_etykiet.py, ktora z zasady nie
+    importuje generatora i musialaby dostac DRUGI resolver. Grok: "liczba podana
+    lekarzowi ma stac w TRESCI, ktora czyta droga dawki, a nie w odsylaczu,
+    ktorego brak czyta sie jako pustke albo wyjatek; oszczednosc dysku nie jest
+    zrodlem i nie zmienia tego kontraktu". GPT: "rozstrzyga wymog dowiedzionego
+    zrodla i pinu na drodze dawki: sama oszczednosc dysku, bez wykazanej potrzeby
+    operacyjnej, nie uzasadnia dokladania nowego trybu awarii do tej drogi".
+    Megabajty nie sa powodem, zeby dolozyc drodze dawki tryb awarii, ktorego
+    dzis nie ma.
+
+    CZEGO TA FUNKCJA NIE ROBI. Nie promuje niczego do pliku wizyty ani do
+    gabinetu i nie udaje, ze to zrobila. Po imporcie cache wie o dokumencie,
+    a plik wizyty jeszcze nie - i bramka 'kontrola etykiet' MA to pokazac na
+    czerwono. Grok: "zielen znaczylaby, ze plik wizyty juz widzi dokument".
+    """
+    _kat = os.path.dirname(os.path.abspath(__file__))
+    sys.path.insert(0, _kat)
+    sys.path.insert(0, os.path.join(_kat, "..", "slownik"))
+    import chpl_z_pdf
+    import postacie as PO
+
+    rpl = _spis_wg_id(spis)
+    we, zach, odrz = 0, [], []
+    wg_substancji = {}
+
+    for linia in open(manifest, encoding="utf-8"):
+        if not linia.strip() or linia.lstrip().startswith("#"):
+            continue
+        c = linia.rstrip("\n").split("\t")
+        if len(c) < 8:
+            odrz.append((linia.strip()[:40], "wiersz ma %d kolumn, potrzeba 8" % len(c)))
+            continue
+        sub, poz, id_rej, id_rpl, nag, sha_dekl, plik, adres = [x.strip() for x in c[:8]]
+        we += 1
+        ident = "%s|%s" % (sub, id_rej)
+
+        # 1. bajty sa
+        sc = os.path.join(katalog_dokumentow, plik)
+        if not os.path.exists(sc):
+            odrz.append((ident, "pliku nie ma: %s" % plik)); continue
+
+        # 2. bajty sa TE bajty — sha liczone, nie przepisane z manifestu
+        sha = hashlib.sha256(open(sc, "rb").read()).hexdigest()
+        if sha != sha_dekl:
+            odrz.append((ident, "sha256 bajtow %s != manifest %s"
+                         % (sha[:12], sha_dekl[:12]))); continue
+
+        # 3. adres niesie ten sam identyfikator, pod ktorym dokument stoi
+        if ("/%s/" % id_rpl) not in adres:
+            odrz.append((ident, "adres nie niesie id_rpl %s" % id_rpl)); continue
+
+        # 4. rejestracja stoi w eksporcie RPL — stad przyjda pola rekordu
+        prod = rpl.get(id_rej)
+        if prod is None:
+            odrz.append((ident, "id rejestracji %s nie stoi w eksporcie RPL" % id_rej))
+            continue
+        if poz and str(prod.get("pozwolenie") or "") != poz:
+            odrz.append((ident, "pozwolenie w manifescie %s != RPL %s"
+                         % (poz, prod.get("pozwolenie")))); continue
+
+        # 5. postac stoi w slowniku postaci. Napis spoza slownika NIE jest
+        #    zgadywany — PO.postac_klasa rzuca, a pozycja wypada z importu.
+        try:
+            kl = PO.postac_klasa(prod.get("postac"))
+        except KeyError as e:
+            odrz.append((ident, "postac spoza slownika: %s" % str(e)[:90])); continue
+
+        # 6. punkty daja sie odczytac, a 4.2 nie jest pusty
+        try:
+            punkty, diag = chpl_z_pdf.punkty(sc)
+        except Exception as e:
+            odrz.append((ident, "odczyt punktow nie powiodl sie: %s" % e)); continue
+        if not (punkty.get("4.2") or "").strip():
+            odrz.append((ident, "punkt 4.2 pusty — dokument bez dawkowania")); continue
+
+        wg_substancji.setdefault(sub, []).append(
+            dict(pozwolenie=poz, id_rejestru=id_rej, naglowek=nag, sha256=sha,
+                 plik=plik, adres=adres, punkty=punkty, diag=diag,
+                 prod=prod, kl=kl))
+        zach.append(ident)
+
+    dopisane, pominiete, przed_b, po_b = 0, 0, 0, 0
+    for sub, lista in sorted(wg_substancji.items()):
+        sciezka = os.path.join(KATALOG, "%s.json" % sub)
+        if not os.path.exists(sciezka):
+            for x in lista:
+                i = "%s|%s" % (sub, x["id_rejestru"])
+                odrz.append((i, "nie ma rekordu cache %s.json" % sub))
+                if i in zach:
+                    zach.remove(i)
+            continue
+        przed_b += os.path.getsize(sciezka)
+        rek = json.load(open(sciezka, encoding="utf-8"))
+        maja = {(p.get("sha256_pdf"), str(p.get("id_rejestru") or ""))
+                for p in rek.get("produkty", [])}
+        maja_sha = {p.get("sha256_pdf") for p in rek.get("produkty", [])}
+        for x in lista:
+            if (x["sha256"], x["id_rejestru"]) in maja or x["sha256"] in maja_sha:
+                pominiete += 1
+                continue
+            prod = x["prod"]
+            wpis = {
+                "nazwa": prod.get("nazwa"),
+                "moc": prod.get("moc"),
+                "postac": prod.get("postac"),
+                "podmiot": prod.get("podmiot"),
+                "pozwolenie": str(prod.get("pozwolenie") or ""),
+                "id_rejestru": x["id_rejestru"],
+                "zrodlo": x["adres"],
+                "zrodlo_pliku": x["plik"],
+                "sha256_pdf": x["sha256"],
+                "stan": "OK",
+                "punkty_nieznalezione": diag_brak(x["diag"]),
+                "punkty_uciete": [],
+                "klucz_rpl": {
+                    "atc": prod.get("atc"),
+                    "nazwa_powszechna": [prod.get("nazwa_powszechna")],
+                    "postac": [prod.get("postac")],
+                    "zrodlo": "RPL_PSYCH.json, rownosc id rejestracji %s" % x["id_rejestru"],
+                },
+                "DROGA": x["kl"]["droga"],
+                "UWALNIANIE": x["kl"]["uwalnianie"],
+                "EKSPOZYCJA": PO.ekspozycja(prod, chpl_42=x["punkty"].get("4.2")),
+                "naglowek_z_rejestru": x["naglowek"],
+                "proweniencja": ("dokument pobrany przegladarka lekarza %s; sha256 "
+                                 "bajtow policzone przy imporcie; adres i pola "
+                                 "produktu z eksportu RPL po id rejestracji" % DZIS),
+            }
+            wpis["punkty"] = x["punkty"]
+            rek.setdefault("produkty", []).append(wpis)
+            dopisane += 1
+
+        rek["uwaga_import_lokalny"] = (
+            "Produkty dopisane importem lokalnym %s z dokumentow pobranych "
+            "przegladarka lekarza. MAX_PRODUKTOW jest limitem PROBKOWANIA przy "
+            "budowie od zera i tego kanalu nie obejmuje. Import do cache NIE "
+            "JEST wejsciem do pliku wizyty - do czasu jawnej przebudowy pliku "
+            "wizyty warstwy sie roznia i bramka etykiet ma to pokazac." % DZIS)
+        tekst = json.dumps(rek, ensure_ascii=False, indent=1, sort_keys=True)
+        po_b += len(tekst.encode("utf-8"))
+        if zapisz:
+            open(sciezka, "w", encoding="utf-8").write(tekst)
+
+    print("IMPORT DOKUMENTOW LOKALNYCH DO CACHE")
+    print("  manifest:  %s" % manifest)
+    print("  dokumenty: %s" % katalog_dokumentow)
+    print("  spis RPL:  %s" % spis)
+    print()
+    print("  BILANS (par. 3B)")
+    print("    N_WEJSCIE   = %d" % we)
+    print("    N_ZACHOWANE = %d" % len(zach))
+    print("    N_ODRZUCONE = %d" % len(odrz))
+    print("    BILANS      = %s" % ("OK" if we == len(zach) + len(odrz) else "FAIL"))
+    print()
+    print("    dopisane do rekordow:    %d" % dopisane)
+    print("    pominiete, bo juz byly:  %d" % pominiete)
+    print()
+    print("  ROZMIAR — ZMIERZONY PRZED ZAPISEM, NIE PO")
+    print("    rekordy przed: %d B" % przed_b)
+    print("    rekordy po:    %d B" % po_b)
+    if przed_b:
+        print("    krotnosc:      x%.1f" % (po_b / przed_b))
+    if odrz:
+        print()
+        print("  ODRZUCONE — identyfikatory i powody:")
+        for i, r in odrz[:40]:
+            print("    %-28s %s" % (i, r))
+        if len(odrz) > 40:
+            print("    ... i jeszcze %d" % (len(odrz) - 40))
+    print()
+    print("  ZAPISANE." if zapisz else
+          "  SUCHY PRZEBIEG. Bez --zapisz nic nie zostalo zmienione.")
+    return 0 if we == len(zach) + len(odrz) else 1
+
+
+def diag_brak(diag):
+    """Punkty, ktorych w dokumencie nie znaleziono. Pusta lista to NIE to samo
+    co brak pola - pole musi byc, bo T6 testu odbioru oblewa rekord bez niego."""
+    return list((diag or {}).get("brak") or [])
+
+
 ap = argparse.ArgumentParser()
 ap.add_argument("--lista", default="zrodla/chpl_cache_lista.txt")
 ap.add_argument("--tylko", default="")
 ap.add_argument("--punkty", default="4.1,4.2,4.3,4.4,4.5,4.6,4.8,5.2")
 ap.add_argument("--spis", default="rpl/RPL_PSYCH.json")
+# IMPORT DOKUMENTOW LOKALNYCH — osobne wejscie tej samej sciezki [R83].
+# Nie przebudowuje cache i nie probkuje: bierze dokumenty JUZ DOSTARCZONE
+# i przypisane, liczy ich sha256 z bajtow i dopisuje do rekordow z proweniencja.
+ap.add_argument("--import-lokalny", default="",
+                help="manifest TSV dokumentow lokalnych (8 kolumn)")
+ap.add_argument("--dokumenty", default="../psychai-paczka/_zrodla_lokalne/chpl",
+                help="katalog z plikami PDF wymienionymi w manifescie")
+ap.add_argument("--zapisz", action="store_true",
+                help="bez tego import jest sucha proba i nic nie zapisuje")
 x = ap.parse_args()
+if x.import_lokalny:
+    # WCZESNE WYJSCIE. Import nie przebudowuje cache i nie probkuje rejestru —
+    # reszta tego pliku jest sciezka budowy od zera i nie ma tu czego robic.
+    raise SystemExit(import_lokalny(x.import_lokalny, x.dokumenty, x.spis, x.zapisz))
 chce = set(x.punkty.split(","))
 dzis = datetime.date.today().isoformat()
 
