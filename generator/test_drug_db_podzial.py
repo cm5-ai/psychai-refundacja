@@ -685,6 +685,14 @@ def main():
                     "nie jest karta migracyjna — i dlatego ubytek musi stac tutaj "
                     "z powodem, a nie znikac w progu. ONSET i MONITORING nie "
                     "wrocily nigdzie: nie maja zrodla w paczce (D-2, D-1)."),
+                # R59, 2026-10-04: STAN W LINII PRZESUWA LINIE DO KLASY
+                # NARZEDZIOWEJ. Bramka inwariantu A dopisala polu
+                # DAWKA_ROWNOWAZNA flupentyksolu stan [BEZ_PINU]; linia konczy
+                # sie teraz stemplem, wiec T7 liczy ja jako linie narzedziowa
+                # i odejmuje od bilansu pol. TRESC I LICZBA BEZ ZMIAN —
+                # zmierzone: tokeny liczbowe w DRUG_DB_AP identyczne przed i po
+                # (155 = 155). Licznik linii narzedziowych T7: 73 -> 74.
+                "FLUPENTYKSOL_ROWNOWAZNA_STAN": (-1, "DAWKA_ROWNOWAZNA dostala stan [BEZ_PINU] i weszla do klasy linii narzedziowych T7"),
                 "LORAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Lorabexu — trzy dokumenty pod jedna nazwa (0,5 mg tabl., 2 mg/ml i 4 mg/ml inj.); wycofane DAWKA_STARSI, DAWKA_DZIECI, PRZECIWWSKAZANIA wg R20-2"),
                 "KLONAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Clonazepamum TZF — tabletka 0,5 mg i iniekcja 1 mg/ml pod jedna nazwa; wycofane DAWKA_STARSI i PRZECIWWSKAZANIA wg R20-2"),
                 "DIAZEPAM": (1, "NIEPEWNY_ODCZYT_ZRODLA dla Neorelium — tabletka 5 mg i iniekcja 5 mg/ml pod jedna nazwa; to ten przypadek, ktory ujawnil cala klase (R20)"),
