@@ -1,0 +1,43 @@
+{
+ "id": "brepocitinib",
+ "tytul": "Brepocitinib",
+ "synonimy": [
+  "Brepocitinib",
+  "Lisraya",
+  "PF-06700841",
+  "PF06700841",
+  "RefChem:121326",
+  "PF-841",
+  "TYK2/JAK1",
+  "PF 06700841",
+  "MFCD31813694",
+  "CHEMBL4297477",
+  "SCHEMBL17512502",
+  "UNII-3X8387Q25N",
+  "DTXSID801091591",
+  "EBC-00709",
+  "WHO 11169",
+  "DB15003",
+  "[(1S)-2,2-difluorocyclopropyl]-[(1R,5S)-3-[2-[(1-methylpyrazol-4-yl)amino]pyrimidin-4-yl]-3,8-diazabicyclo[3.2.1]octan-8-yl]methanone"
+ ],
+ "zaktualizowano": "2026-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/brepocitinib/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "No information is available on the clinical use of brepocitinib during breastfeeding. Because of the potential for serious adverse reactions in the breastfed infant, including infections, GI perforation, and malignancy, breastfeeding is not recommended during treatment with brepocitinib and for 3 days after the last dose."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. Relevant published information was not found as of the revision date.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

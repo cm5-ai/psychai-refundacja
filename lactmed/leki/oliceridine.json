@@ -1,0 +1,57 @@
+{
+ "id": "oliceridine",
+ "tytul": "Oliceridine",
+ "synonimy": [
+  "Oliceridine",
+  "Olynvik",
+  "Olinvyk",
+  "Olinvo",
+  "TRV130",
+  "TRV-130",
+  "oliceridina",
+  "DTXSID201031292",
+  "oliceridinum",
+  "RefChem:57313",
+  "DTXCID801516298",
+  "UNII-MCN858TCP0",
+  "DEA NO. 9245",
+  "EX-A2170",
+  "BDBM50493818",
+  "AKOS030526482",
+  "DB14881",
+  "NCGC00390659-01",
+  "NCGC00390659-03",
+  "AC-35966",
+  "DA-68381",
+  "FO180059",
+  "HY-16655",
+  "D11214",
+  "EN300-20351935",
+  "BRD-K35626314-003-01-1",
+  "N-[(3-methoxythiophen-2-yl)methyl]-2-[(9R)-9-pyridin-2-yl-6-oxaspiro[4.5]decan-9-yl]ethanamine"
+ ],
+ "zaktualizowano": "2026-09-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/oliceridine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Oliceridine is not marketed in the United States. No information is available on the use of oliceridine during breastfeeding. A pharmacokinetic model predicts low levels in milk during the newborn period; however, until more information is available, an alternate drug may be preferred."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. A physiologically based pharmacokinetic model was constructed for oliceridine during the first 24 hours after cesarean delivery. The model predicted an RID between 0.31% and 1.24%, depending on the assumptions that were made about the milk-to-plasma ratio and milk intake.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Acetaminophen, Butorphanol, Fentanyl, Hydromorphone, Ibuprofen, Morphine"
+  ]
+ ]
+}

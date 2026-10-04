@@ -1,10 +1,10 @@
 {
 "metadata": {
 "zrodlo": "Drugs and Lactation Database (LactMed), NICHD/NLM, NCBI Bookshelf NBK501922 — domena publiczna",
-"zrodlo_aktualizacja": "2026-09-01",
-"sha256_archiwum": "4109a81af499eb26b16252bf55e2967876692f1360e379f33b89b0721fa017d1",
-"stan_na_dzien": "2026-09-22",
-"wpisy": 1949,
+"zrodlo_aktualizacja": "2026-09-22",
+"sha256_archiwum": "d89069755b04191d7c80e882c2a20180e6ecb2e801b9bc59b5dc2133129a668a",
+"stan_na_dzien": "2026-09-29",
+"wpisy": 1956,
 "bledy": 9,
 "uwaga": "Tylko laktacja. Nie obejmuje ciąży ani planowania ciąży. Nie zastępuje oceny klinicznej."
 },
@@ -890,7 +890,7 @@
 {
 "id": "LM907",
 "tytul": "Alglucosidase Alfa",
-"zaktualizowano": "2026-01-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Lumizyme",
 "Myozyme",
@@ -1158,6 +1158,18 @@
 "plik": "leki/amdinocillin.json"
 },
 {
+"id": "amenamevir",
+"tytul": "Amenamevir",
+"zaktualizowano": "2026-09-15",
+"synonimy": [
+"Amenamevir",
+"Amenalief",
+"amenamevirum",
+"J05AX26"
+],
+"plik": "leki/amenamevir.json"
+},
+{
 "id": "LM1487",
 "tytul": "Amifampridine",
 "zaktualizowano": "2019-06-03",
@@ -1401,7 +1413,7 @@
 {
 "id": "LM11",
 "tytul": "Amlodipine",
-"zaktualizowano": "2024-06-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "amlodipine",
 "Norvasc",
@@ -1413,9 +1425,7 @@
 "Lipinox",
 "Lotrel",
 "Amlor",
-"Exforge",
-"Amlodipinum [Latin]",
-"Amlodipino [Spanish]"
+"Exforge"
 ],
 "plik": "leki/LM11.json"
 },
@@ -2307,7 +2317,7 @@
 {
 "id": "LM654",
 "tytul": "Atazanavir",
-"zaktualizowano": "2024-10-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Atazanavir",
 "Latazanavir",
@@ -4173,7 +4183,7 @@
 {
 "id": "LM1424",
 "tytul": "Botulinum Poisoning",
-"zaktualizowano": "2025-01-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Botulism",
 "Clostridium botulinum"
@@ -4183,7 +4193,7 @@
 {
 "id": "botulinum_toxins",
 "tytul": "Botulinum Toxins, Therapeutic",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "OnabotulinumtoxinA",
 "Botox",
@@ -4262,6 +4272,17 @@
 "plik": "leki/LM1019.json"
 },
 {
+"id": "brepocitinib",
+"tytul": "Brepocitinib",
+"zaktualizowano": "2026-09-15",
+"synonimy": [
+"Brepocitinib",
+"Lisraya",
+"TYK2/JAK1"
+],
+"plik": "leki/brepocitinib.json"
+},
+{
 "id": "LM33",
 "tytul": "Bretylium",
 "zaktualizowano": "2019-01-07",
@@ -4274,12 +4295,12 @@
 },
 {
 "id": "brewers_yeast",
-"tytul": "Brewer's Yeast",
-"zaktualizowano": "2023-09-15",
+"tytul": "Brewer’s Yeast",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
-"Brewer's yeast",
+"Brewer’s yeast",
 "Saccharomyces cerevisiae",
-"baker's yeast",
+"baker’s yeast",
 "bakers yeast",
 "brewers yeast",
 "nutritional yeast",
@@ -4501,7 +4522,7 @@
 {
 "id": "LM432",
 "tytul": "Bromocriptine",
-"zaktualizowano": "2026-01-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "bromocriptine",
 "Bromocryptine",
@@ -4511,9 +4532,9 @@
 "Bromergocryptine",
 "Bromocriptinum",
 "Bromocriptina",
-"Ergoset",
-"Parloel",
-"Bromergon"
+"Cycloset",
+"Parlodel",
+"Ergoset"
 ],
 "plik": "leki/LM432.json"
 },
@@ -4607,6 +4628,20 @@
 "Rhinocort Allergy"
 ],
 "plik": "leki/LM35.json"
+},
+{
+"id": "bulevirtide",
+"tytul": "Bulevirtide",
+"zaktualizowano": "2026-09-15",
+"synonimy": [
+"Bulevirtide",
+"Hepcludex",
+"Myrcludex",
+"bulevirtidum",
+"bulevirtida",
+"WKM56H3TLB"
+],
+"plik": "leki/bulevirtide.json"
 },
 {
 "id": "LM36",
@@ -4899,7 +4934,7 @@
 {
 "id": "LM451",
 "tytul": "Cabergoline",
-"zaktualizowano": "2025-09-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "cabergoline",
 "Dostinex",
@@ -5581,7 +5616,7 @@
 {
 "id": "LM1182",
 "tytul": "Cariprazine",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Cariprazine",
 "Vraylar"
@@ -6206,7 +6241,7 @@
 {
 "id": "LM1433",
 "tytul": "Cemiplimab",
-"zaktualizowano": "2025-06-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "cemiplimab",
 "Libtayo"
@@ -7235,7 +7270,7 @@
 {
 "id": "LM322",
 "tytul": "Citalopram",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "citalopram",
 "Nitalapram",
@@ -7816,7 +7851,7 @@
 {
 "id": "LM347",
 "tytul": "Codeine",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "codeine",
 "Methylmorphine",
@@ -9430,7 +9465,7 @@
 {
 "id": "LM698",
 "tytul": "Desvenlafaxine",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Desvenlafaxine",
 "O-Desmethylvenlafaxine",
@@ -10343,7 +10378,7 @@
 {
 "id": "LM101",
 "tytul": "Diphtheria-Tetanus-Pertussis Vaccines",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "DTaP",
 "DTP",
@@ -11324,7 +11359,7 @@
 {
 "id": "LM1435",
 "tytul": "Elexacaftor, Tezacaftor and Ivacaftor",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Tricafta",
 "Kaftrio",
@@ -11590,6 +11625,16 @@
 "T20"
 ],
 "plik": "leki/LM906.json"
+},
+{
+"id": "enlicitide",
+"tytul": "Enlicitide",
+"zaktualizowano": "2026-09-15",
+"synonimy": [
+"Enlicitide",
+"Lipfendra"
+],
+"plik": "leki/enlicitide.json"
 },
 {
 "id": "LM103",
@@ -12137,7 +12182,7 @@
 {
 "id": "LM423",
 "tytul": "Estradiol",
-"zaktualizowano": "2026-01-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "estradiol",
 "beta-Estradiol",
@@ -12546,12 +12591,11 @@
 {
 "id": "LM108",
 "tytul": "Etoposide",
-"zaktualizowano": "2024-09-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "etoposide",
 "VePesid",
 "Toposar",
-"trans-Etoposide",
 "Lastet",
 "Zuyeyidal",
 "(-)-Etoposide",
@@ -12559,8 +12603,7 @@
 "Etoposido",
 "VP-16",
 "Etopophos (phosphate salt)",
-"VP 16",
-"6PLQ3CP4P3"
+"VP 16"
 ],
 "plik": "leki/LM108.json"
 },
@@ -12647,7 +12690,7 @@
 {
 "id": "LM1069",
 "tytul": "Everolimus",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Everolimus",
 "Afinitor",
@@ -13005,7 +13048,7 @@
 {
 "id": "LM356",
 "tytul": "Fentanyl",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "fentanyl",
 "Fentanil",
@@ -13050,15 +13093,20 @@
 {
 "id": "LM1059",
 "tytul": "Ferric Carboxymaltose",
-"zaktualizowano": "2024-01-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Injectafer",
 "Ferinject",
 "Ferric carboxymaltose",
 "Iron Dextri-Maltose",
+"Ferrummate",
+"Ferinject",
+"Ferripel-3",
 "VIT 45",
 "VIT-45",
-"Ferric carboxylates’ [USAN:INN:BAN]"
+"Ferric carboxylates’ [USAN:INN:BAN]",
+"Ferripel 3",
+"Ferric Hydroxide Polymaltose Complex"
 ],
 "plik": "leki/LM1059.json"
 },
@@ -13356,15 +13404,12 @@
 {
 "id": "LM112",
 "tytul": "Flecainide",
-"zaktualizowano": "2023-10-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Flecainide",
 "Flecaine",
 "Flecainida",
-"Flecainidum",
-"(+-)-Flecainide",
-"Flecainidum [INN-Latin]",
-"Flecainida [INN-Spanish]"
+"Flecainidum"
 ],
 "plik": "leki/LM112.json"
 },
@@ -15823,7 +15868,7 @@
 {
 "id": "LM360",
 "tytul": "Hydromorphone",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "hydromorphone",
 "Dihydromorphinone",
@@ -16756,7 +16801,7 @@
 {
 "id": "LM591",
 "tytul": "Iodine",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "iodine",
 "Diiodine",
@@ -17009,7 +17054,7 @@
 {
 "id": "LM1024",
 "tytul": "Ipilimumab",
-"zaktualizowano": "2023-11-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Ipilimumab",
 "Yervoy",
@@ -17403,7 +17448,7 @@
 {
 "id": "LM1434",
 "tytul": "Ivacaftor",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Ivacaftor",
 "Kalydeco",
@@ -17520,7 +17565,7 @@
 {
 "id": "LM1004",
 "tytul": "Ketamine",
-"zaktualizowano": "2026-02-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "ketamine",
 "Ketaject",
@@ -17791,7 +17836,7 @@
 {
 "id": "LM927",
 "tytul": "Lanolin",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Lanisoh",
 "Lanoprodine",
@@ -17824,7 +17869,7 @@
 {
 "id": "LM1475",
 "tytul": "Lanreotide",
-"zaktualizowano": "2026-02-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Lanreotide",
 "Angiopeptin",
@@ -18085,7 +18130,7 @@
 {
 "id": "lenacapavir",
 "tytul": "Lenacapavir",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Lenacapavir",
 "Sunlenca",
@@ -18412,7 +18457,7 @@
 {
 "id": "LM158",
 "tytul": "Levothyroxine",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "L-thyroxine",
 "levothyroxine",
@@ -19060,7 +19105,7 @@
 {
 "id": "LM1391",
 "tytul": "Lumacaftor and Ivacaftor",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Orkambi",
 "Lumacaftor / Ivacaftor",
@@ -20744,7 +20789,7 @@
 {
 "id": "LM369",
 "tytul": "Midazolam",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "midazolam",
 "Dormicum",
@@ -21221,7 +21266,7 @@
 {
 "id": "LM370",
 "tytul": "Morphine",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "morphine",
 "Morphia",
@@ -21902,7 +21947,7 @@
 {
 "id": "LM645",
 "tytul": "Nevirapine",
-"zaktualizowano": "2025-11-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "nevirapine",
 "Viramune",
@@ -22650,7 +22695,7 @@
 {
 "id": "LM818",
 "tytul": "Octreotide",
-"zaktualizowano": "2026-02-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Octreotide",
 "Sandostatin",
@@ -22773,6 +22818,20 @@
 "ISIS-APOCIII-LRX"
 ],
 "plik": "leki/olezarsen.json"
+},
+{
+"id": "oliceridine",
+"tytul": "Oliceridine",
+"zaktualizowano": "2026-09-15",
+"synonimy": [
+"Oliceridine",
+"Olynvik",
+"Olinvyk",
+"Olinvo",
+"oliceridina",
+"oliceridinum"
+],
+"plik": "leki/oliceridine.json"
 },
 {
 "id": "olipudase_alfa",
@@ -23166,6 +23225,16 @@
 "Vivjoa"
 ],
 "plik": "leki/oteseconazole.json"
+},
+{
+"id": "oveporexton",
+"tytul": "Oveporexton",
+"zaktualizowano": "2026-09-15",
+"synonimy": [
+"Oveporexton",
+"Orzeyful"
+],
+"plik": "leki/oveporexton.json"
 },
 {
 "id": "LM206",
@@ -23620,7 +23689,7 @@
 {
 "id": "palopegteriparatide",
 "tytul": "Palopegteriparatide",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "palopegteriparatide",
 "Yorvipath"
@@ -24105,7 +24174,7 @@
 {
 "id": "LM607",
 "tytul": "Pegvisomant",
-"zaktualizowano": "2025-03-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Pegvisomant",
 "Somavert",
@@ -26888,7 +26957,7 @@
 {
 "id": "remimazolam",
 "tytul": "Remimazolam",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Remimazolam",
 "Byfavo"
@@ -27422,12 +27491,18 @@
 {
 "id": "LM650",
 "tytul": "Ritonavir",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "ritonavir",
 "Norvir",
 "Kaletra",
 "Viekira",
+"Empetus",
+"Ritomune",
+"Ritovir",
+"Viekirax",
+"Viriton",
+"Ritonavirum",
 "RTV"
 ],
 "plik": "leki/LM650.json"
@@ -27701,6 +27776,16 @@
 "R06AX28"
 ],
 "plik": "leki/rupatadine.json"
+},
+{
+"id": "rusfertide",
+"tytul": "Rusfertide",
+"zaktualizowano": "2026-09-15",
+"synonimy": [
+"Rusfertide",
+"Mimrylo"
+],
+"plik": "leki/rusfertide.json"
 },
 {
 "id": "LM1279",
@@ -28616,7 +28701,7 @@
 {
 "id": "LM670",
 "tytul": "Sodium Iodide I 131",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Theriodide",
 "Iodotope",
@@ -29369,7 +29454,7 @@
 {
 "id": "LM386",
 "tytul": "Sufentanil",
-"zaktualizowano": "2026-03-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Sufentanil",
 "Sufentanilum",
@@ -29739,10 +29824,11 @@
 {
 "id": "suvorexant",
 "tytul": "Suvorexant",
-"zaktualizowano": "2025-06-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Suvorexant",
-"Belsomra"
+"Belsomra",
+"Suvorexantum"
 ],
 "plik": "leki/suvorexant.json"
 },
@@ -29760,7 +29846,7 @@
 {
 "id": "LM249",
 "tytul": "Tacrolimus",
-"zaktualizowano": "2026-03-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "tacrolimus",
 "Prograf",
@@ -30902,7 +30988,7 @@
 {
 "id": "LM1436",
 "tytul": "Tezacaftor and Ivacaftor",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Ivacaftor",
 "Kalydeco",
@@ -32802,7 +32888,7 @@
 {
 "id": "LM1032",
 "tytul": "Ustekinumab",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Ustekinumab",
 "Stelara",
@@ -33028,18 +33114,16 @@
 {
 "id": "LM394",
 "tytul": "Vancomycin",
-"zaktualizowano": "2022-06-20",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
-"VANCOMYCIN",
+"Vancomycin",
 "Vancocin",
 "Vancoled",
+"Tyzavan",
+"Firvanq",
 "Vancomycinum",
 "Vancomicina",
-"Vancomycine",
-"Vancomycine [INN-French]",
-"Vancomycinum [INN-Latin]",
-"Vancomicina [INN-Spanish]",
-"Vancomycin [USP:INN:BAN]"
+"Vancomycine"
 ],
 "plik": "leki/LM394.json"
 },
@@ -33058,7 +33142,7 @@
 {
 "id": "vanza_teza_deutiva",
 "tytul": "Vanzacaftor, Tezacaftor and Deutivacaftor",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Tezacaftor",
 "Alyftrek",
@@ -33675,7 +33759,7 @@
 {
 "id": "LM1330",
 "tytul": "Vitamin K",
-"zaktualizowano": "2025-03-15",
+"zaktualizowano": "2026-09-15",
 "synonimy": [
 "Vitamin K1",
 "Phylloquinone",
