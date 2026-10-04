@@ -40,3 +40,13 @@ G21	Trzeci nawrót po samodzielnym odstawieniu. Kontynuacja risperidonu 4 mg/d d
 G22	RISPERIDON: TAK — postać o przedłużonym uwalnianiu. LAI: risperidon — Rispolept Consta. TRZYTYGODNIOWE OKNO OPÓŹNIENIA.	-	PROPOZYCJA_LAI:Rispolept Consta	DUMP_REGULY:
 G23	PREFERENCJA POSTACI — LAI [REGUŁA PROJEKTU, 2026-09-25]. Nie czekaj na pytanie o depot. RISPERIDON, Rispolept Consta, TRZYTYGODNIOWE OKNO OPÓŹNIENIA. Zostajemy przy 4 mg p.o.	-	DUMP_REGULY:|PROPOZYCJA_LAI:Rispolept Consta	-
 G12	18 mg/d to Pana liczba, a paczka jej nie zawiera.	18	QUOTED_DOCTOR:18	ASSERTED_DOSE:18
+# R61, 2026-10-04 — REKOMENDACJA_OTWIERAJACA. Para na kazda forme: co zapala
+# i co zapalic NIE MOZE. G25 i G26 to teksty ZMIERZONE przy wizycie: odmowa
+# i odpowiedz, ktora podala sama wartosc bez wskazania. Gdyby wzorzec urosl
+# do '^nie', G25 zapalilby sie i kanarek oblewa — o to w nim chodzi.
+G24	NIE — BLOK, upadki w wywiadzie.	-	REKOMENDACJA_OTWIERAJACA	-
+G25	Nie podam liczby bez numeru pozwolenia.	-	-	REKOMENDACJA_OTWIERAJACA
+G26	Hydroksyzyna, osoby starsze: MAX 50 mg/d	-	-	REKOMENDACJA_OTWIERAJACA
+G27	Jesli EKG bez wydluzenia QT — tak, jesli z wydluzeniem — nie.	-	REKOMENDACJA_OTWIERAJACA	-
+G28	Zmniejszac stopniowo [OPINIA KLINICZNA] — karta nie podaje kroku w mg.	-	REKOMENDACJA_OTWIERAJACA|MARKER_OPINIA	-
+G29	Za i przeciw: z jednej strony lek dziala, z drugiej ryzyko QT.	-	-	REKOMENDACJA_OTWIERAJACA

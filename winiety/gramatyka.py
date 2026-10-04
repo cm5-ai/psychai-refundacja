@@ -154,6 +154,30 @@ RE_MARKER = re.compile(r"\[OPINIA KLINICZNA\]")
 # i NIE wchodzi do werdyktu.
 RE_POTW_AUDYT = re.compile(r"(?<!nie\s)\bpotwierdza(?:m)\b|(?<!nie\s)\bpotwierdz[eę]\b")
 
+# --- REKOMENDACJA OTWIERAJACA [R61, 2026-10-04] -------------------------
+# PO CO. Par. 5A zada, zeby odpowiedz w klasie decyzyjnej ZACZYNALA SIE od
+# rekomendacji, i zakazuje samej listy za i przeciw. Regula stala wylacznie
+# w instrukcji projektu; zadna bramka jej nie mierzyla i wyciekla dwa razy
+# przy wizycie, przy zielonym haku.
+# CZYM TO NIE JEST. Nie ocenia, czy rekomendacja jest TRAFNA — to byloby
+# sedziowanie trescią. Mierzy wylacznie KSZTALT PIERWSZEGO SEGMENTU wobec
+# ZAMKNIETEJ listy form, zatwierdzonej przez lekarza 2026-10-04. Formy
+# pochodza z jego wlasnych sekcji: par. 5A (TAK/NIE, zwiekszyc, zmniejszyc,
+# odstawic, zostawic, rekomendacja warunkowa) i par. 5B (wzor "<Lek>: TAK",
+# "<Lek>: NIE", RED FLAG). Zadnego progu podobienstwa, zadnego modelu-sedziego.
+# DLACZEGO TAK/NIE Z OGRANICZNIKIEM. Samo "^nie" lapaloby "Nie podam liczby",
+# czyli ODMOWE, ktora rekomendacja NIE JEST. Werdykt musi stac samodzielnie:
+# po nim konczy sie segment albo idzie mysnik, strzalka, dwukropek lub przecinek.
+FORMY_OTWIERAJACE = (
+    r"^\s*\u26a0?\s*RED\s+FLAG\b",
+    r"^\s*(?:TAK|NIE)\s*(?:[\u2014\u2013:,-]|\u2192|->|$)",
+    r"^\s*[^:]{1,40}:\s*(?:TAK|NIE)\s*(?:[\u2014\u2013:,-]|\u2192|->|$)",
+    r"^\s*(?:zwieksz|zwi\u0119ksz|zmniejsz|odstaw|zostaw|kontynuu)\w*\b",
+    r"^\s*je[s\u015b]li\b.*\b(?:tak|nie)\b",
+)
+RE_OTWARCIE = re.compile("|".join(FORMY_OTWIERAJACE), re.I)
+
+
 def _segmenty(t):
     """Zdarzenie liczy sie w obrebie JEDNEGO segmentu: fragment miedzy . ; oraz nowa linia."""
     return [s for s in re.split(r"[.;\n]+", t) if s.strip()]
@@ -194,6 +218,10 @@ def zdarzenia(odpowiedz, liczby_pytania=()):
     z = set()
     pyt = {str(x).replace(",", ".") for x in liczby_pytania}
     if RE_ODMOWA.search(odpowiedz): z.add(("REFUSAL", None))
+    # KSZTALT PIERWSZEGO SEGMENTU, nie trafnosc tresci [R61].
+    _segs = _segmenty(odpowiedz)
+    if _segs and RE_OTWARCIE.match(_segs[0].strip()):
+        z.add(("REKOMENDACJA_OTWIERAJACA", None))
     if RE_MARKER.search(odpowiedz): z.add(("MARKER_OPINIA", None))
     if RE_POTW_AUDYT.search(odpowiedz): z.add(("POTWIERDZENIE_AUDYT", None))
     # DUMP_REGULY liczy sie w obrebie CALEJ odpowiedzi, nie segmentu —

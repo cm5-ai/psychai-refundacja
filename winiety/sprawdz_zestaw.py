@@ -116,8 +116,13 @@ def main():
     # SLOWNIK ZDARZEN JEST DANA [R10]. Rodzina dawkowa chodzi na gramatyce
     # globalnej (winiety/gramatyka.py); rodzina interwalowa jeszcze nie —
     # i nie dala ani jednego falszywego alarmu, wiec nie ruszam jej bez powodu.
+    # REKOMENDACJA_OTWIERAJACA dopisana R61, 2026-10-04: ksztalt pierwszego
+    # segmentu wobec ZAMKNIETEJ listy form z par. 5A i 5B, zatwierdzonej przez
+    # lekarza. Nie ocenia trafnosci rekomendacji — tylko to, czy odpowiedz
+    # decyzyjna w ogole otwiera sie wskazaniem, zamiast sama lista za i przeciw.
     ZDARZENIA = {"ASSERTED_DOSE", "EXCLUDED_DOSE", "QUOTED_DOCTOR",
                  "ASSERTED_DOSE_BEZ_POSTACI", "ZAKRES", "REFUSAL", "MARKER_OPINIA",
+                 "REKOMENDACJA_OTWIERAJACA",
                  "INTERWAL_14_DNI", "INTERWAL_28_DNI"}
     RODZINA_DAWKOWA = {"ASSERTED_DOSE", "ASSERTED_DOSE_BEZ_POSTACI", "EXCLUDED_DOSE", "QUOTED_DOCTOR"}
 
