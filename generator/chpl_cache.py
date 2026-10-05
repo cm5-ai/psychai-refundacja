@@ -301,9 +301,40 @@ def import_lokalny(manifest, katalog_dokumentow, spis, zapisz=False):
         rek = json.load(open(sciezka, encoding="utf-8"))
         maja = {(p.get("sha256_pdf"), str(p.get("id_rejestru") or ""))
                 for p in rek.get("produkty", [])}
-        maja_sha = {p.get("sha256_pdf") for p in rek.get("produkty", [])}
+        # JEDEN DOKUMENT MOZE OBSLUGIWAC KILKA REJESTRACJI [R86, 2026-10-05].
+        # Do tej pory pomijalem pozycje takze wtedy, gdy SAMO sha pliku stalo
+        # juz przy innej rejestracji tej substancji. To bylo zle i kosztowalo
+        # 111 rejestracji: rejestr serwuje TEN SAM plik pod adresem kazdej z
+        # nich (jeden ChPL wymienia kilka mocy tego samego produktu), wiec
+        # drugie skrzydlo warunku bylo filtrem, nie dowodem. Zmierzone na
+        # manifescie 1017 pozycji: roznych plikow 906, plikow serwowanych pod
+        # adresem wiecej niz jednej rejestracji 61, rejestracji w takich
+        # grupach 172, bez wlasnego rekordu przez ten warunek 111. Skutek
+        # widac bylo w pliku wizyty: 40 z 42 rejestracji ze stanem
+        # BRAK_DOKUMENTU MIALO swoj PDF na dysku.
+        #
+        # CZYM TO SIE ROZNI OD BLEDU Z 2026-10-02, gdy 24 dokumenty obsluzyly
+        # 87 rejestracji: TAMTE byly przypisane PO NAZWIE HANDLOWEJ, czyli po
+        # podobienstwie. TE sa przypisane po ADRESIE, pod ktorym REJESTR je
+        # wydaje — to stan URL_Z_REJESTRU, dowod, ktorego paczka zada.
+        # Rozstrzygniete zbieznie. Grok: "drugie skrzydlo warunku jest
+        # filtrem, nie dowodem: rejestr podaje ten plik pod adresem kazdej z
+        # tych rejestracji, wiec BRAK_DOKUMENTU przy lezacym PDF jest tym samym
+        # klamstwem, ktore R11 zlapal na 09693". GPT: "kazda rejestracja moze
+        # miec wlasny rekord z wlasnym ID_REJESTRU i adresem z RPL oraz
+        # wspolnym SHA256 (...); rekord powinien jawnie wskazywac
+        # wspoldzielenie oraz liste ID_REJESTRU (...); pomijanie importu oprzec
+        # na parze (SHA256, ID_REJESTRU)".
+        #
+        # CZEGO TO NIE TWIERDZI, i to stoi takze w rekordzie: NIE sprawdzam,
+        # czy moc tej rejestracji jest wymieniona WEWNATRZ dokumentu. Dowodem
+        # jest adres rejestru, nie odczyt tresci. Gdyby ktos chcial z tego
+        # zrobic zdanie "dokument obejmuje te moc", musi to osobno wykazac.
+        wg_sha = {}
         for x in lista:
-            if (x["sha256"], x["id_rejestru"]) in maja or x["sha256"] in maja_sha:
+            wg_sha.setdefault(x["sha256"], []).append(x["id_rejestru"])
+        for x in lista:
+            if (x["sha256"], x["id_rejestru"]) in maja:
                 pominiete += 1
                 continue
             prod = x["prod"]
@@ -330,6 +361,15 @@ def import_lokalny(manifest, katalog_dokumentow, spis, zapisz=False):
                 "UWALNIANIE": x["kl"]["uwalnianie"],
                 "EKSPOZYCJA": PO.ekspozycja(prod, chpl_42=x["punkty"].get("4.2")),
                 "naglowek_z_rejestru": x["naglowek"],
+                "WSPOLDZIELONY_DOKUMENT": {
+                    "n": len(wg_sha.get(x["sha256"], [x["id_rejestru"]])),
+                    "id_rejestru": sorted(wg_sha.get(x["sha256"],
+                                                     [x["id_rejestru"]])),
+                    "dowod": "URL_Z_REJESTRU — rejestr wydaje ten plik pod "
+                             "adresem kazdej z wymienionych rejestracji",
+                    "czego_nie_sprawdzono": "czy moc tej rejestracji jest "
+                                            "wymieniona wewnatrz dokumentu",
+                },
                 "proweniencja": ("dokument pobrany przegladarka lekarza %s; sha256 "
                                  "bajtow policzone przy imporcie; adres i pola "
                                  "produktu z eksportu RPL po id rejestracji" % DZIS),
