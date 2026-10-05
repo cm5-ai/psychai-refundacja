@@ -47,7 +47,14 @@ def bloki_wizyty(sciezka):
     ADRES = re.compile(r"/medicinal-products/(\d+)/characteristic")
 
     def zamknij(b):
-        a = b.get("ADRES_Z_REJESTRU") or ""
+        # DWIE NAZWY TEGO SAMEGO ADRESU [poprawka 2026-10-05]. Blok BEZ dawki
+        # niesie ADRES_Z_REJESTRU; blok, ktory dawke JUZ dostal, niesie
+        # DOKUMENT. Pierwsza wersja czytala tylko pierwsza z nich, wiec po
+        # przebudowie pliku wizyty 292 zaimportowane rejestracje "znikaly" z
+        # indeksu i manifest raportowal 726 z 1065 zamiast 1018. Pusty wynik
+        # wygladal na brak dokumentu, a dokument lezal. Par. 3B: "nie
+        # znalazlem" to nie "nie ma".
+        a = (b.get("ADRES_Z_REJESTRU") or b.get("DOKUMENT") or "")
         m = ADRES.search(a)
         if not m:
             return
@@ -106,9 +113,12 @@ def main():
             odrz.append((f, "blok nie niesie SUBSTANCJI"))
             continue
         sha = hashlib.sha256(open(os.path.join(DOKUMENTY, f), "rb").read()).hexdigest()
+        adres = (b.get("ADRES_Z_REJESTRU") or b.get("DOKUMENT") or "")
+        if not adres:
+            odrz.append((f, "blok nie niesie adresu dokumentu"))
+            continue
         wiersze.append("\t".join([sub, ident, idr, id_rpl,
-                                  b.get("NAGLOWEK", ""), sha, f,
-                                  b.get("ADRES_Z_REJESTRU", "")]))
+                                  b.get("NAGLOWEK", ""), sha, f, adres]))
 
     wyj = sys.argv[1] if len(sys.argv) > 1 else "zrodla/manifest_lokalny.tsv"
     os.makedirs(os.path.dirname(wyj) or ".", exist_ok=True)

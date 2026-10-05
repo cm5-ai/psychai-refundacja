@@ -86,6 +86,98 @@
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20453/characteristic",
    "zrodlo_pliku": "Charakterystyka-20453-2025-05-29-21618_N-2025-06-12.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "id_rejestru": "100019315",
+   "klucz_rpl": {
+    "atc": [
+     "R06AD02"
+    ],
+    "nazwa_powszechna": [
+     "Promethazini hydrochloridum"
+    ],
+    "postac": [
+     "Tabletki drażowane"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc id rejestracji 100019315"
+   },
+   "moc": "25 mg",
+   "naglowek_z_rejestru": "Diphergan | 25 mg | Tabletki drażowane",
+   "nazwa": "Diphergan",
+   "podmiot": "Bausch Health Ireland Ltd.",
+   "postac": "Tabletki drażowane",
+   "pozwolenie": "01078",
+   "proweniencja": "dokument pobrany przegladarka lekarza 2026-10-05; sha256 bajtow policzone przy imporcie; adres i pola produktu z eksportu RPL po id rejestracji",
+   "punkty": {
+    "4.1": "4.1 Wskazania do stosowania Diphergan stosuje się: - w leczeniu objawowym stanów alergicznych górnych dróg oddechowych i skóry włącznie z alergicznym zapaleniem błony śluzowej nosa, pokrzywką oraz reakcjami anafilaktycznymi na leki i obce białka; - jako lek wspomagający do przedoperacyjnego uspokojenia chorych w chirurgii i położnictwie; - jako środek przeciwwymiotny, np. w kinetozie.",
+    "4.2": "4.2 Dawkowanie i sposób podawania Dawkowanie W odczynach alergicznych: - dorośli, w tym osoby w podeszłym wieku i dzieci w wieku od 10 lat: 25 mg raz na dobę (najlepiej na noc), zwiększając maksymalnie 25 mg dwa razy na dobę w razie potrzeby; - dzieci w wieku od 5 do 10 lat: 10 do 25 mg jednorazowo (najlepiej na noc) lub 5 do 10 mg 2 razy na dobę; maksymalnie 25 mg na dobę. W zapobieganiu objawom choroby lokomocyjnej: - dorośli, w tym osoby w podeszłym wieku i dzieci w wieku od 10 lat: 25 mg na noc przed podróżą. W razie potrzeby dawkę powtórzyć po 6 – 8 godzinach; W premedykacji: - dorośli i dzieci w wieku od 10 lat: 25 do 50 mg na godzinę przed zabiegiem; - dzieci w wieku od 5 do 10 lat: 25 mg na godzinę przed zabiegiem. Nie należy stosować produktu leczniczego u dzieci poniżej 5 lat ze względu na moc i postać - tabletka drażowana, 25 mg. Dla tej grupy wiekowej prometazyna dostępna jest w postaci syropu Diphergan.",
+    "4.3": "4.3 Przeciwwskazania Nadwrażliwość na substancję czynną (prometazynę), inne pochodne fenotiazyny lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Śpiączka. Depresja ośrodkowego układu nerwowego, niezależnie od jej podłoża. Leczenie IMAO oraz po przebytym leczeniu IMAO w okresie 14 dni po zakończeniu ich stosowania. Prometazyny nie należy stosować u dzieci do 2 lat ze względu na możliwość zagrażającej życiu depresji oddechowej.",
+    "4.4": "4.4 Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Prometazyna może powodować zgęstnienie lub wysuszenie wydzieliny oskrzelowej i upośledzać odkrztuszanie. Dlatego też należy stosować go ostrożnie u chorych na astmę, zapalenie oskrzeli lub rozstrzenia oskrzeli. Produkt leczniczy należy stosować ostrożnie u pacjentów z ciężką chorobą wieńcową, jaskrą z wąskim kątem przesączania, padaczką oraz u chorych z niewydolnością wątroby lub nerek. Odstęp QT Fenotiazyny mogą wydłużać odstęp QT, więc zaleca się ostrożność podczas stosowani a u pacjentów z wyraźną bradykardią, chorobami układu krążenia, z dziedziczną postacią wydłużenia odstępu QT i zaleca się unikanie jednoczesnego stosowania z innymi produktami prowadzącymi do wydłużenia odstępu QT. Należy również zachować ostrożność u chorych ze zwężeniem szyi pęcherza moczowego lub odźwiernika dwunastnicy. Należy unikać stosowania prometazyny u dzieci i młodzieży z objawami subiektywnymi i obiektywnymi, które sugerują występowanie zespołu Reye’a. Prometazyna może maskować objawy ostrzegawcze ototoksyczności wywołanej przez produkty lecznicze ototoksyczne np. salicylany. Może również opóźniać wczesne rozpoznanie niedrożności jelit lub zwiększonego ciśnienia śródczaszkowego przez hamowanie wymiotów. Substancje pomocnicze Sacharoza Pacjenci z rzadkimi dziedzicznymi zaburzeniami związanymi z nietolerancją fruktozy, zespołem złego wchłaniania glukozy-galaktozy lub niedoborem sacharazy-izomaltazy, nie powinni przyjmować produktu leczniczego. Laktoza Produkt leczniczy nie powinien być stosowany u pacjentów z rzadko występującą dziedziczną nietolerancją galaktozy, brakiem laktazy lub zespołem złego wchłaniania glukozy-galaktozy. Czerwień koszenilowa (E 124) Produkt leczniczy może powodować reakcje alergiczne. Sód Produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu na tabletkę drażowaną, to znaczy produkt leczniczy uznaje się za „wolny od sodu”.",
+    "4.5": "4.5 Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Prometazyna nasila działanie następujących leków: przeciwcholinergicznych, trójpierścieniowych leków przeciwdepresyjnych, leków uspokajających lub nasennych. Jednocześnie stosowanie prometazyny z niektórymi inhibitorami MAO może spowodować wzrost stężenia obu leków w krwi. W razie jednoczesnego stosowania prometazyny z innymi produktami prowadzącymi do wydłużenia odstępu QT, w tym z takimi produktami leczniczymi jak leki przeciwpsychotyczne, tj. niektóre fenotiazyny (chlorpromazyna, lewomepromazyna), benzamidy (sulpiryd, amisulpryd, tiapryd), pimozyd, haloperydol, droperydol, cytalopram, halofantryna, metadon, pentamidyna i moksyfloksacyna, konieczne jest zachowanie szczególnej ostrożności. W czasie leczenia prometazyną nie należy pić alkoholu.",
+    "4.6": "4.6 Wpływ na płodność, ciążę i laktację Ciąża Dane epidemiologiczne świadczą o bezpieczeństwie stosowania prometazyny u kobiet w okresie ciąży. Badania na zwierzętach nie wykazały również istotnych zagrożeń. Mimo tego nie należy stosować produktu leczniczego w czasie ciąży, chyba że w opinii lekarza jest to konieczne. Nie zaleca się stosowania prometazyny w okresie 2 tygodni poprzedzających poród, z uwagi na ryzyko rozdrażnienia i pobudzenia noworodka. Karmienie piersią Dostępne dane wskazują, że ilość prometazyny przenikająca do mleka jest nieznaczna. Istnieje jednak ryzyko rozdrażnienia i pobudzenia dziecka karmionego piersią. Dlatego też w okresie karmienia piersią prometazynę należy stosować z dużą ostrożnością.",
+    "4.8": "4.8 Działania niepożądane Prometazyna jest dobrze tolerowana przez większość pacjentów. U nielicznych wystąpić mogą: Zaburzenia układu nerwowego: • senność, zawroty i bóle głowy, niepokój ruchowy, koszmary senne, zmęczenie i zaburzenia orientacji, splątanie, reakcje pozapiramidowe. • złośliwy zespół neuroleptyczny, nadpobudliwość psychomotoryczna – częstość występowania nieznana. Zaburzenia oka: • zaburzenia widzenia. Zaburzenia żołądka i jelit: • suchość w jamie ustnej, podrażnienie żołądka. Zaburzenia nerek i dróg moczowych: • zatrzymanie moczu. Zaburzenia metabolizmu i odżywiania: • anoreksja. Zaburzenia serca: • kołatania serca, hipotonia, arytmia. • wydłużenie odstępu QT, Torsade de pointes – częstość występowania nieznana. Zaburzenia mięśniowo-szkieletowe i tkanki łącznej: • kurcze mięśni oraz ruchy głowy i twarzy przypominające tiki. Zaburzenia układu immunologicznego: • anafilaksja, opisywano reakcje skórne nadwrażliwości na światło, w czasie leczenia należy unikać silnego światła słonecznego. Zaburzenia krwi i układu chłonnego: • nieprawidłowy skład krwi, włączając niedokrwistość hemolityczną. • małopłytkowość – częstość występowania nieznana. Zaburzenia wątroby i dróg żółciowych: • żółtaczka. Zaburzenia psychiczne: • omamy, agresja – częstość występowania nieznana. Badania diagnostyczne Prometazyna może zakłócać immunologiczne testy ciążowe z użyciem moczu, powodując wyniki fałszywie dodatnie lub fałszywie ujemne. Należy zaprzestać stosowania prometazyny na co najmniej 72 godziny przed rozpoczęciem testów immunologicznych testów skórnych, ponieważ może ona hamować reakcję skórną, w której pośredniczy histamina, powodując wyniki fałszywie ujemne. Niemowlęta wykazują podatność na działanie przeciwcholinergiczne prometazyny, podczas gdy inne dzieci mogą wykazywać paradoksalną nadpobudliwość. Osoby w podeszłym wieku są szczególnie podatne na działanie przeciwcholinergiczne i splątanie wywoływane przez prometazynę. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181 C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2 Właściwości farmakokinetyczne Wchłanianie Prometazyna po doustnym podaniu jest wchłaniana szybko i prawie całkowicie. Jej dostępność biologiczna jest ograniczona z powodu efektu pierwszego przejścia przez wątrobę. Dystrybucja Wiąże się z białkami krwi w 93%, objętość dystrybucji wynosi 20 – 30 l/kg. Rozprzestrzenia się szeroko w organizmie. Łatwo przenika do o.u.n, przechodzi przez łożysko, w niewielkim stopniu przenika do mleka kobiecego. Metabolizm Metabolizowana jest w wątrobie, w znacznym stopniu przy pierwszym przejściu. Okres półtrwania wynosi 7 – 15 godzin. Eliminacja Wydalana jest z moczem i żółcią."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "0e84aa91b318c8fd85ce0a18bdbbdbbfd3275f907abdccbdb4e55cdfe39a57e6",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1931/characteristic",
+   "zrodlo_pliku": "ChPL_01078_RPL1931.pdf"
+  },
+  {
+   "DROGA": [
+    "DOUSTNA"
+   ],
+   "EKSPOZYCJA": {
+    "ekspozycja": null,
+    "zrodlo": "NIE_INIEKCJA"
+   },
+   "UWALNIANIE": "NATYCHMIASTOWE",
+   "id_rejestru": "100082495",
+   "klucz_rpl": {
+    "atc": [
+     "R06AD02"
+    ],
+    "nazwa_powszechna": [
+     "Promethazini hydrochloridum"
+    ],
+    "postac": [
+     "Syrop"
+    ],
+    "zrodlo": "RPL_PSYCH.json, rownosc id rejestracji 100082495"
+   },
+   "moc": "5 mg/5 ml",
+   "naglowek_z_rejestru": "Diphergan | 5 mg/5 ml | Syrop",
+   "nazwa": "Diphergan",
+   "podmiot": "Bausch Health Ireland Ltd.",
+   "postac": "Syrop",
+   "pozwolenie": "08046",
+   "proweniencja": "dokument pobrany przegladarka lekarza 2026-10-05; sha256 bajtow policzone przy imporcie; adres i pola produktu z eksportu RPL po id rejestracji",
+   "punkty": {
+    "4.1": "4.1. Wskazania do stosowania Choroby alergiczne, choroba lokomocyjna. Jako produkt leczniczy uspokajający przed i po zabiegach chirurgicznych.",
+    "4.2": "4.2. Dawkowanie i sposób podawania Dawkowanie Przeciwalergicznie: Dorośli: 10 mg (10 ml syropu) 2 – 4 razy na dobę, przed posiłkiem i przed snem, w razie konieczności; Dzieci w wieku od 2 do 12 lat: 0,125 mg na kg masy ciała co 4 do 6 godzin. Przeciwwymiotnie: Dorośli: 25 mg jednorazowo (25 ml syropu), a następnie 10 mg do 25 mg (10 ml do 25 ml syropu) co 4 do 6 godzin, w razie konieczności; Dzieci w wieku od 2 do 12 lat: 0,25 mg do 0,50 mg na kg masy ciała co 4 do 6 godzin. Choroba lokomocyjna (nudności, zawroty głowy): Dorośli: 25 mg jednorazowo (25 ml syropu) pół godziny do godziny przed podróżą. Dawkę można powtórzyć 8 do 12 godzin później; Dzieci w wieku od 2 do 12 lat: 0,25 mg do 0,50 mg na kg masy ciała co 12 godzin. Uspokajająco: Dorośli: 25 mg do 50 mg (25 ml do 50 ml syropu) jednorazowo; Dzieci w wieku od 2 do 12 lat: 0,50 mg do 1 mg na kg masy ciała jednorazowo. Uwaga: Przy dawkowaniu u dzieci nie należy przekraczać połowy dawki dla dorosłych.",
+    "4.3": "4.3. Przeciwwskazania Nadwrażliwość na substancję czynną (prometazynę), inne pochodne fenotiazyny lub na którąkolwiek substancję pomocniczą wymienioną w punkcie 6.1. Zahamowanie czynności ośrodkowego układu nerwowego. Śpiączka. Leczenie inhibitorami monoaminooksydazy (IMAO) i w okresie 14 dni po zakończeniu ich stosowania. Prometazyny nie stosować u dzieci w wieku do 2 lat.",
+    "4.4": "4.4. Specjalne ostrzeżenia i środki ostrożności dotyczące stosowania Należy zachować ostrożność stosując prometazynę u osób: - z jaskrą; - z padaczką (obniża próg drgawkowy); - ze zwężeniem ujścia cewki moczowej; - z przerostem gruczołu krokowego; - z niedoczynnością wątroby; - z niedrożnością odźwiernika dwunastnicy; - z chorobą wrzodową żołądka; - z astmą oskrzelową; - z zapaleniem oskrzeli; - z rozstrzeniem oskrzeli; - z ciężką chorobą wieńcową; - z niewydolnością nerek. Odstęp QT Fenotiazyny mogą wydłużać odstęp QT, więc zaleca się ostrożność podczas stosowani a u pacjentów z wyraźną bradykardią, chorobami układu krążenia, z dziedziczną postacią wydłużenia odstępu QT i zaleca się unikanie jednoczesnego stosowania z innymi produktami prowadzącymi do wydłużenia odstępu QT. Produkt leczniczy zawiera sacharozę. Pacjenci z rzadkimi dziedzicznymi zaburzeniami związanymi z nietolerancją fruktozy, zespołem złego wchłaniania glukozy-galaktozy lub niedoborem sacharazy-izomaltazy, nie powinni przyjmować produktu leczniczego. Produkt leczniczy zawiera 7,93 g sacharozy w 10 ml syropu. Należy to wziąć pod uwagę u pacjentów z cukrzycą. Produkt leczniczy zawiera sodu pirosiarczyn (E 223), lek rzadko może powodować ciężkie reakcje nadwrażliwości i skurcz oskrzeli. Produkt leczniczy zawiera 15 mg soli kwasu benzoesowego (sodu benzoesanu (E 211)) w każdym 100 ml syropu, co odpowiada 0,75 mg w 5 ml syropu. Produkt leczniczy zawiera 42 mg alkoholu (etanolu) w każdym 50 ml syropu. Ilość alkoholu w 50 ml tego leku jest równoważna mniej niż 1,1 ml piwa lub 1 ml wina. Mała ilość alkoholu w tym produkcie leczniczym nie będzie powodowała zauważalnych skutków. Produkt leczniczy zawiera mniej niż 1 mmol (23 mg) sodu na 5 ml syropu, to znaczy lek uznaje się za „wolny od sodu”.",
+    "4.5": "4.5. Interakcje z innymi produktami leczniczymi i inne rodzaje interakcji Prometazyna nasila działanie następujących leków: przeciwbólowych, barbituranów oraz działanie depresyjne narkotyków. Ponadto wykazuje synergizm z produktami leczniczymi neuroleptycznymi, alkoholem i parasympatykolitykami. Prometazyny chlorowodorek może odwracać wazopresyjne działanie adrenaliny, w związku z czym niedociśnienia tętniczego wywołanego prometazyną nie wolno leczyć adrenaliną. Jednoczesne stosowanie prometazyny z niektórymi inhibitorami MAO może spowodować wzrost stężenia obu produktów leczniczych w krwi. W razie jednoczesnego stosowania prometazyny z innymi produktami prowadzącymi do wydłużenia odstępu QT, w tym z takimi produktami leczniczymi jak leki przeciwpsychotyczne, tj. niektóre fenotiazyny (chlorpromazyna, lewomepromazyna), benzamidy (sulpiryd, amisulpryd, tiapryd), pimozyd, haloperydol, droperydol, cytalopram, halofantryna, metadon, pentamidyna i moksyfloksacyna, konieczne jest zachowanie szczególnej ostrożności.",
+    "4.6": "4.6. Wpływ na płodność, ciążę i laktację Ciąża Produkt leczniczy może być stosowany w ciąży jedynie w przypadku zdecydowanej konieczności. Karmienie piersią Produkt leczniczy przenika do mleka kobiecego i może wywołać ospałość noworodka – stosowanie w okresie karmienia piersią jest dopuszczalne tylko po konsultacji z lekarzem.",
+    "4.8": "4.8. Działania niepożądane Działania niepożądane zostały zestawione według częstości ich występowania, zaczynając od najczęściej występujących, według następującej konwencji: bardzo często (≥ 1/10); często (≥ 1/100, < 1/10); niezbyt często (≥ 1/1000, < 1/100); rzadko (≥ 1/10 000, < 1/1 000); bardzo rzadko (< 1/10 000), częstość nieznana (częstość nie może być określona na podstawie dostępnych danych). Zaburzenia układu oddechowego, klatki piersiowej i śródpiersia Częstość nieznana: suchość w jamie ustnej oraz zagęszczenie śluzu w drogach oddechowych co może powodować świszczący oddech, chrapliwe sapanie, sapkę. Rzadko: kserostomia, wysychanie dróg oddechowych. Zaburzenia serca Częstość nieznana: spadek ciśnienia krwi, tachykardia, wydłużenie odstępu QT, Torsade de pointes. Rzadko: zaburzenia rytmu serca, podwyższenie ciśnienia tętniczego krwi. Zaburzenia oka Częstość nieznana: zaburzenia widzenia (niewyraźne, podwójne widzenie, rozszerzenie źrenic), nadwrażliwość na światło. Zaburzenia nerek i dróg moczowych Rzadko: zmiany w nerkach, dyzuria. Zaburzenia układu nerwowego Częstość nieznana: depresja lub pobudzenie ośrodkowego układu nerwowego (częściej pobudzenie i halucynacje), złośliwy zespół neuroleptyczny, nadpobudliwość psychomotoryczna. Zaburzenia wątroby i dróg żółciowych Rzadko: zmiany w wątrobie. Zaburzenia ogólne i stany w miejscu podania Częstość nieznana: zmiany regulacji temperatury ciała (gorączka). Zaburzenia skóry i tkanki podskórnej Częstość nieznana: rumień na twarzy. Zaburzenia psychiczne Częstość nieznana: omamy, agresja. Zaburzenia krwi i układu chłonnego Częstość nieznana: małopłytkowość. Badania diagnostyczne Może powodować zafałszowanie (dodatnio lub ujemnie) wyników immunologicznych testów ciążowych, może podwyższać stężenie glukozy we krwi, hipokaliemia. Zgłaszanie podejrzewanych działań niepożądanych Po dopuszczeniu produktu leczniczego do obrotu istotne jest zgłaszanie podejrzewanych działań niepożądanych. Umożliwia to nieprzerwane monitorowanie stosunku korzyści do ryzyka stosowania produktu leczniczego. Osoby należące do fachowego personelu medycznego powinny zgłaszać wszelkie podejrzewane działania niepożądane za pośrednictwem Departamentu Monitorowania Niepożądanych Działań Produktów Leczniczych Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych: Al. Jerozolimskie 181 C 02-222 Warszawa Tel.: + 48 22 49 21 301 Faks: + 48 22 49 21 309 Strona internetowa: https://smz.ezdrowie.gov.pl Działania niepożądane można zgłaszać również podmiotowi odpowiedzialnemu.",
+    "5.2": "5.2. Właściwości farmakokinetyczne Wchłanianie Prometazyny chlorowodorek podawany doustnie dobrze wchłania się z przewodu pokarmowego. Początek działania obserwuje się już po 20 minutach; w 1 – 2 godziny po podaniu osiąga maksymalne stężenie we krwi, które utrzymuje się przez 4 – 6 godzin. Po podaniu dawki 25 mg działa 6 – 8 godzin. Czas połowicznego rozpadu wynosi 12 godzin. Dystrybucja W 93% wiązany jest z białkami osocza. Prometazyny chlorowodorek szybko przenika przez łożysko. Metabolizm Prometazyny chlorowodorek ulega biotransformacji w wątrobie. Eliminacja Wydalany jest przez nerki w postaci metabolitów."
+   },
+   "punkty_nieznalezione": [],
+   "punkty_uciete": [],
+   "sha256_pdf": "b4874f98f7464943335564c8ac8b847e6a5843dc04c8035cc1246a20939227d1",
+   "stan": "OK",
+   "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8249/characteristic",
+   "zrodlo_pliku": "ChPL_08046_RPL8249.pdf"
   }
  ],
  "punkty_zadane": [
@@ -100,6 +192,7 @@
  ],
  "substancja": "prometazyna",
  "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
+ "uwaga_import_lokalny": "Produkty dopisane importem lokalnym 2026-10-05 z dokumentow pobranych przegladarka lekarza. MAX_PRODUKTOW jest limitem PROBKOWANIA przy budowie od zera i tego kanalu nie obejmuje. Import do cache NIE JEST wejsciem do pliku wizyty - do czasu jawnej przebudowy pliku wizyty warstwy sie roznia i bramka etykiet ma to pokazac.",
  "uwagi_audytu": [
   "2026-09-22: usunieto produkty podpiete przez blad dopasowania: Pramatis. Powod: cudza ChPL (test odbioru T8b/T16)."
  ]

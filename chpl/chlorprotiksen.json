@@ -99,6 +99,7 @@
  ],
  "substancja": "chlorprotiksen",
  "uwaga": "ChPL nalezy do PRODUKTU. Rozne produkty tej samej substancji moga sie roznic. Brak punktu != brak tresci.",
+ "uwaga_import_lokalny": "Produkty dopisane importem lokalnym 2026-10-05 z dokumentow pobranych przegladarka lekarza. MAX_PRODUKTOW jest limitem PROBKOWANIA przy budowie od zera i tego kanalu nie obejmuje. Import do cache NIE JEST wejsciem do pliku wizyty - do czasu jawnej przebudowy pliku wizyty warstwy sie roznia i bramka etykiet ma to pokazac.",
  "uwagi_audytu": [
   "2026-09-22: usunieto produkty podpiete przez blad dopasowania: Fenactil. Powod: cudza ChPL (test odbioru T8b/T16)."
  ]

@@ -103,7 +103,15 @@ for nazwa, v in subs.items():
         # Nieznany wariant = BLAD do obejrzenia, nie cicha zgoda.
         OCZEK = {"4.1": ["wskazania"], "4.2": ["dawkowanie"],
                  "4.3": ["przeciwwskazania"],
-                 "4.4": ["ostrzeżenia"], "4.5": ["interakcje"],
+                 # "ostrzeżenie" W LICZBIE POJEDYNCZEJ [2026-10-05]. ChPL
+                 # Fluoxetine Vitabalans (ChPL_20324_RPL28171.pdf) ma naglowek
+                 # "4.4 Specjalne ostrzeżenie i srodki ostroznosci dotyczace
+                 # stosowania" — tresc jest WLASCIWA dla 4.4, odmienna jest
+                 # tylko liczba gramatyczna w dokumencie. To nie jest obnizenie
+                 # progu: oznaczenie takiego punktu jako NAGLOWEK_NIEZGODNY
+                 # byloby zdaniem nieprawdziwym o dokumencie. Wariant dopisany
+                 # po obejrzeniu tekstu, nie po to, zeby test zmilkl.
+                 "4.4": ["ostrzeżenia", "ostrzeżenie"], "4.5": ["interakcje"],
                  "4.6": ["wpływ na płodność", "wpływ na ciążę", "płodność, ciąża",
                          "ciąża, karmienie piersią", "ciąża i laktacja",
                          "ciąża i karmienie"],
