@@ -42,7 +42,16 @@
    "sha256_pdf": "d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12845/characteristic",
-   "zrodlo_pliku": "Charakterystyka-12845-20210224000000-6994_N-20210310000534.pdf"
+   "zrodlo_pliku": "Charakterystyka-12845-20210224000000-6994_N-20210310000534.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   }
   },
   {
    "DROGA": [
@@ -98,7 +107,16 @@
    "sha256_pdf": "d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12846/characteristic",
-   "zrodlo_pliku": "ChPL_10892_RPL12846.pdf"
+   "zrodlo_pliku": "ChPL_10892_RPL12846.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   }
   },
   {
    "DROGA": [
@@ -154,7 +172,16 @@
    "sha256_pdf": "d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12845/characteristic",
-   "zrodlo_pliku": "ChPL_10893_RPL12845.pdf"
+   "zrodlo_pliku": "ChPL_10893_RPL12845.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   }
   },
   {
    "DROGA": [
@@ -210,7 +237,16 @@
    "sha256_pdf": "d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12844/characteristic",
-   "zrodlo_pliku": "ChPL_10894_RPL12844.pdf"
+   "zrodlo_pliku": "ChPL_10894_RPL12844.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   }
   }
  ],
  "punkty_zadane": [

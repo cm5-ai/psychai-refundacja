@@ -85,7 +85,16 @@
    "sha256_pdf": "9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1516/characteristic",
-   "zrodlo_pliku": "Charakterystyka-1516-20190528000000-7013_A-20190713000051.pdf"
+   "zrodlo_pliku": "Charakterystyka-1516-20190528000000-7013_A-20190713000051.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.5": {
+     "znakow": 296,
+     "typowo_dla_tego_punktu": 4701,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -173,7 +182,16 @@
    "sha256_pdf": "40c302d8352d2ac0aa38dea09e9882b403492a075a3f228ecb0870c1f40b34a2",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/25079/characteristic",
-   "zrodlo_pliku": "ChPL_18354_RPL25079.pdf"
+   "zrodlo_pliku": "ChPL_18354_RPL25079.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.5": {
+     "znakow": 311,
+     "typowo_dla_tego_punktu": 4701,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -227,7 +245,16 @@
    "sha256_pdf": "9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1516/characteristic",
-   "zrodlo_pliku": "ChPL_03702_RPL1516.pdf"
+   "zrodlo_pliku": "ChPL_03702_RPL1516.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.5": {
+     "znakow": 296,
+     "typowo_dla_tego_punktu": 4701,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [

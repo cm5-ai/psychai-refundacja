@@ -356,7 +356,16 @@
    "sha256_pdf": "538c59c1ca361511f20ddae603944dcb9e57875907da50a95560c758b655fd2b",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28171/characteristic",
-   "zrodlo_pliku": "ChPL_20324_RPL28171.pdf"
+   "zrodlo_pliku": "ChPL_20324_RPL28171.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.4"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   }
   },
   {
    "DROGA": [

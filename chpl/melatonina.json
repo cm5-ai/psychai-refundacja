@@ -61,7 +61,16 @@
    "sha256_pdf": "522a3a94dbfd5a0f8f9bf6d6602f221e76a84746f89e1217b2f7c454fc05489c",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34688/characteristic",
-   "zrodlo_pliku": "Charakterystyka-34688-2025-09-23-26220_A-2026-05-22.pdf"
+   "zrodlo_pliku": "Charakterystyka-34688-2025-09-23-26220_A-2026-05-22.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 239,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -103,7 +112,16 @@
    "sha256_pdf": "e00c94ebc94a217fdcc4d1734a5a2533f0999c09bf1435e35e20d00cb7160016",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49795/characteristic",
-   "zrodlo_pliku": "Charakterystyka-49795-2025-06-17-18061_D-2025-07-10.pdf"
+   "zrodlo_pliku": "Charakterystyka-49795-2025-06-17-18061_D-2025-07-10.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 729,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -149,7 +167,25 @@
    "sha256_pdf": "65d94271ee3b73408836af1bc3f44ffed181b3c4c311d190a2fb6103b062f5f0",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9724/characteristic",
-   "zrodlo_pliku": "ChPL_08317_RPL9724.pdf"
+   "zrodlo_pliku": "ChPL_08317_RPL9724.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 505,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -195,7 +231,25 @@
    "sha256_pdf": "8449c0db2f3639ee85c8e209aab7c9b25aa490b5c080972382c41fe7d02951e9",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20520/characteristic",
-   "zrodlo_pliku": "ChPL_08848_RPL20520.pdf"
+   "zrodlo_pliku": "ChPL_08848_RPL20520.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 505,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -241,7 +295,25 @@
    "sha256_pdf": "b5cb6a47d4a1a70d181ec8f8392ccbc3807ea09c03a37d3c99afda006c98cf5d",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10276/characteristic",
-   "zrodlo_pliku": "ChPL_08849_RPL10276.pdf"
+   "zrodlo_pliku": "ChPL_08849_RPL10276.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 505,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -425,7 +497,25 @@
    "sha256_pdf": "4ab95612852d3826c69d20fccbaa4432d8fb21ab8773e09a691cc9763f905fa2",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40439/characteristic",
-   "zrodlo_pliku": "ChPL_26040_RPL40439.pdf"
+   "zrodlo_pliku": "ChPL_26040_RPL40439.pdf",
+   "NAGLOWEK_NIEZGODNY": {
+    "punkty": [
+     "4.6"
+    ],
+    "co_to_znaczy": "Tresc tych punktow NIE odpowiada ich numerowi - wyciag zakotwiczyl sie na odsylaczu w tekscie, nie na naglowku sekcji.",
+    "co_zrobic": "Traktowac jak CHPL_KARANTANNA: NIE cytowac tych punktow i nie podawac z nich liczb. Powiedziec, ze paczka nie ma tego punktu dla tego produktu.",
+    "czego_NIE_znaczy": "To nie znaczy, ze lek nie ma przeciwwskazan ani ze etykieta ich nie zawiera - znaczy, ze my ich nie mamy.",
+    "wykryto": "2026-09-23"
+   },
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 655,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -471,7 +561,16 @@
    "sha256_pdf": "0a53723b28b8e05c97bbb5c4b2854659584ab6ea8644d3c73111a9546a68ce08",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46495/characteristic",
-   "zrodlo_pliku": "ChPL_27734_RPL46495.pdf"
+   "zrodlo_pliku": "ChPL_27734_RPL46495.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 674,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -517,7 +616,16 @@
    "sha256_pdf": "32e5556f88ab8382d94e95ef0f356e2479974f42a9829a7ade11c979303de721",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46496/characteristic",
-   "zrodlo_pliku": "ChPL_27735_RPL46496.pdf"
+   "zrodlo_pliku": "ChPL_27735_RPL46496.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 702,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -609,7 +717,16 @@
    "sha256_pdf": "d488124d6ce0d6aa453fa977221703a416252cf900366afd4d701e03736b1410",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46484/characteristic",
-   "zrodlo_pliku": "ChPL_28485_RPL46484.pdf"
+   "zrodlo_pliku": "ChPL_28485_RPL46484.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 667,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -655,7 +772,16 @@
    "sha256_pdf": "5820c7ac94b75c53d7b90eb8c2ea4891e296343062ee8dddeab959f10c62cf70",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46486/characteristic",
-   "zrodlo_pliku": "ChPL_28486_RPL46486.pdf"
+   "zrodlo_pliku": "ChPL_28486_RPL46486.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 667,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -701,7 +827,16 @@
    "sha256_pdf": "4a057aa5476eb9e41512e9dafb590790a84508a16607d9ea755dec0b39c8af68",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46487/characteristic",
-   "zrodlo_pliku": "ChPL_28487_RPL46487.pdf"
+   "zrodlo_pliku": "ChPL_28487_RPL46487.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 667,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -793,7 +928,16 @@
    "sha256_pdf": "7cbae73a6f26a69b1703a02eb5b900861bc9c1bf8857946105611cf03976e4d7",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45593/characteristic",
-   "zrodlo_pliku": "ChPL_29248_RPL45593.pdf"
+   "zrodlo_pliku": "ChPL_29248_RPL45593.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 663,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -977,7 +1121,16 @@
    "sha256_pdf": "c3d8bd05898189445ce8191456ae67ae9f70352822172f3af60a116bfc6189b9",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45594/characteristic",
-   "zrodlo_pliku": "ChPL_29291_RPL45594.pdf"
+   "zrodlo_pliku": "ChPL_29291_RPL45594.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 663,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -1261,7 +1414,16 @@
    "sha256_pdf": "522a3a94dbfd5a0f8f9bf6d6602f221e76a84746f89e1217b2f7c454fc05489c",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34688/characteristic",
-   "zrodlo_pliku": "ChPL_23539_RPL34688.pdf"
+   "zrodlo_pliku": "ChPL_23539_RPL34688.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 239,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   },
   {
    "DROGA": [
@@ -1315,7 +1477,16 @@
    "sha256_pdf": "e00c94ebc94a217fdcc4d1734a5a2533f0999c09bf1435e35e20d00cb7160016",
    "stan": "OK",
    "zrodlo": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49795/characteristic",
-   "zrodlo_pliku": "ChPL_29124_RPL49795.pdf"
+   "zrodlo_pliku": "ChPL_29124_RPL49795.pdf",
+   "PODEJRZANIE_KROTKI": {
+    "4.4": {
+     "znakow": 729,
+     "typowo_dla_tego_punktu": 10349,
+     "co_to_znaczy": "Punkt jest wielokrotnie krotszy niz ten sam punkt w innych etykietach. Moze byc urwany przez wyciag albo naprawde krotki.",
+     "co_zrobic": "Tresc pokazuj w calosci RAZEM z ta adnotacja. Nie twierdz, ze to pelna tresc punktu.",
+     "wykryto": "2026-09-23"
+    }
+   }
   }
  ],
  "punkty_zadane": [
