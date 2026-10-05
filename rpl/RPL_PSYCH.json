@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-09-28",
-  "sha256_zrodla": "97670c40ad1bb9fc6421785b2cbd46adb8d740cf6340f7cb0471d6f4efb013db",
+  "stan_na_dzien": "2026-10-05",
+  "sha256_zrodla": "6ae59023a03ec1d0cd61f7d10728041fcba66ce3b0ae7198a23589ee6a4d338d",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -20,7 +20,7 @@
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
   "produkty": 2693,
-  "opakowania": 9831,
+  "opakowania": 9834,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1242,
   "opakowania_ze_statusem": {
@@ -7294,6 +7294,45 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "168137",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100545280",
+   "nazwa": "Amantix",
+   "nazwa_powszechna": "Amantadini sulfas",
+   "substancja": "Amantadini sulfas 100 mg",
+   "moc": "100 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N04BB01"
+   ],
+   "podmiot": "Allpharm Sp. z o.o. sp.k.",
+   "pozwolenie": "342/26",
+   "waznosc_pozwolenia": "2031-09-16",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991609351",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168480",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991609368",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168481",
      "opis": "100 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -23653,7 +23692,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "41774",
-     "opis": "4 plastry",
+     "opis": "4 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23663,7 +23702,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "41943",
-     "opis": "8 plastrów",
+     "opis": "8 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23673,7 +23712,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "43523",
-     "opis": "16 plastrów",
+     "opis": "16 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23683,7 +23722,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "45529",
-     "opis": "5 plastrów",
+     "opis": "5 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23693,7 +23732,7 @@
      "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "47848",
-     "opis": "10 plastrów",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23703,7 +23742,7 @@
      "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "51752",
-     "opis": "20 plastrów",
+     "opis": "20 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23713,7 +23752,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "83901",
-     "opis": "10 plastrów",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -23742,7 +23781,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "43529",
-     "opis": "4 plastry",
+     "opis": "4 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23752,7 +23791,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "43530",
-     "opis": "8 plastrów",
+     "opis": "8 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23762,7 +23801,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "44464",
-     "opis": "16 plastrów",
+     "opis": "16 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23772,7 +23811,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "53020",
-     "opis": "5 plastrów",
+     "opis": "5 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23782,7 +23821,7 @@
      "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "54820",
-     "opis": "10 sasz.",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23792,7 +23831,7 @@
      "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "55449",
-     "opis": "20 sasz.",
+     "opis": "20 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23802,7 +23841,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "83902",
-     "opis": "10 plastrów",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -23831,7 +23870,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "44583",
-     "opis": "4 plastry",
+     "opis": "4 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23841,7 +23880,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "44784",
-     "opis": "8 plastrów",
+     "opis": "8 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23851,7 +23890,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "44785",
-     "opis": "16 plastrów",
+     "opis": "16 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23861,7 +23900,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "58464",
-     "opis": "5 plastrów",
+     "opis": "5 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23871,7 +23910,7 @@
      "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "59034",
-     "opis": "10 sasz.",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23881,7 +23920,7 @@
      "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "64938",
-     "opis": "20 sasz.",
+     "opis": "20 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23891,7 +23930,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "83903",
-     "opis": "10 plastrów",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -23920,7 +23959,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123625",
-     "opis": "4 systemy transdermalne",
+     "opis": "4 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23930,7 +23969,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123626",
-     "opis": "5 systemów transdermalnych",
+     "opis": "5 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23940,7 +23979,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123627",
-     "opis": "8 systemów transdermalnych",
+     "opis": "8 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23950,7 +23989,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123628",
-     "opis": "10 systemów transdermalnych",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23960,7 +23999,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123629",
-     "opis": "16 systemów transdermalnych",
+     "opis": "16 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -23970,7 +24009,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123630",
-     "opis": "24 systemy transdermalne",
+     "opis": "24 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -23999,7 +24038,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123631",
-     "opis": "4 systemy transdermalne",
+     "opis": "4 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24009,7 +24048,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123632",
-     "opis": "5 systemów transdermalnych",
+     "opis": "5 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24019,7 +24058,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123633",
-     "opis": "8 systemów transdermalnych",
+     "opis": "8 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24029,7 +24068,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123634",
-     "opis": "10 systemów transdermalnych",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24039,7 +24078,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123635",
-     "opis": "16 systemów transdermalnych",
+     "opis": "16 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24049,7 +24088,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123636",
-     "opis": "24 systemy transdermalne",
+     "opis": "24 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -24078,7 +24117,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123637",
-     "opis": "4 systemy transdermalne",
+     "opis": "4 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24088,7 +24127,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123638",
-     "opis": "5 systemów transdermalnych",
+     "opis": "5 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24098,7 +24137,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123639",
-     "opis": "8 systemów transdermalnych",
+     "opis": "8 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24108,7 +24147,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123640",
-     "opis": "10 systemów transdermalnych",
+     "opis": "10 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24118,7 +24157,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123641",
-     "opis": "16 systemów transdermalnych",
+     "opis": "16 Systemów transdermalnych",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -24128,7 +24167,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "123642",
-     "opis": "24 systemy transdermalne",
+     "opis": "24 Systemy transdermalne",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -25569,35 +25608,6 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "125557",
-     "opis": "30 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100411148",
-   "nazwa": "Wellbutrin XR",
-   "nazwa_powszechna": "Bupropioni hydrochloridum",
-   "substancja": "Bupropioni hydrochloridum 150 mg",
-   "moc": "150 mg",
-   "postac": "Tabletki o zmodyfikowanym uwalnianiu",
-   "atc": [
-    "N06AX12"
-   ],
-   "podmiot": "Delfarma Sp. z o.o.",
-   "pozwolenie": "282/18",
-   "waznosc_pozwolenia": "2023-09-28",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991384272",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129739",
      "opis": "30 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -67277,7 +67287,7 @@
    "id": "100311524",
    "nazwa": "Corbilta",
    "nazwa_powszechna": "Levodopum + Carbidopum + Entacaponum",
-   "substancja": "Levodopum 125 mg + Carbidopum 31.25 mg + Entacaponum 200 mg",
+   "substancja": "Entacaponum 200 mg + Levodopum 125 mg + Carbidopum 31.25 mg",
    "moc": "125 mg + 31,25 mg + 200 mg",
    "postac": "Tabletki powlekane",
    "atc": [
@@ -101787,7 +101797,7 @@
    ],
    "podmiot": "Delfarma Sp. z o.o.",
    "pozwolenie": "410/16",
-   "waznosc_pozwolenia": "2026-09-21",
+   "waznosc_pozwolenia": "2031-09-21",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -112164,6 +112174,16 @@
      "opis": "90 kaps.",
      "refundacja_A1": null,
      "refundacja_LP": null
+    },
+    {
+     "gtin": "08595566461911",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168646",
+     "opis": "20 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
     }
    ]
   },
@@ -112281,6 +112301,16 @@
      "pozwolenie_eu": null,
      "id_opakowania": "158484",
      "opis": "90 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "08595566461928",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168647",
+     "opis": "20 kaps.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }

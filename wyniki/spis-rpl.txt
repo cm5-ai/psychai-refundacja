@@ -1,4 +1,4 @@
 bez_gtin 1242 statusy {'Skasowane': 394} odczyt_kontrolny 0
 nowe_komunikaty 0
-produkty 2693 opakowania 9831 bledy 0 A1_bez_RPL 4
+produkty 2693 opakowania 9834 bledy 0 A1_bez_RPL 4
 OK

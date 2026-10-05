@@ -1,10 +1,10 @@
 # Spis RPL — leki psychiatryczne
 
-Stan RPL: 2026-09-28  
-Produkty: 2693, opakowania: 9831 (bez GTIN: 1242), błędy odczytu: 0, odczyt kontrolny: 0  
+Stan RPL: 2026-10-05  
+Produkty: 2693, opakowania: 9834 (bez GTIN: 1242), błędy odczytu: 0, odczyt kontrolny: 0  
 Statusy opakowań: {'Skasowane': 394}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `d4659f70c48d58cceeceab70c81d3c37bc10dfde6003f227b1fe9ffc16ffc66f`
+sha256 spisu: `a84b4ed8d88b90a3bd3bf69800f839a285520a8f75a54bdcefb9bfd58b6414a3`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
