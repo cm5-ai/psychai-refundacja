@@ -47,10 +47,35 @@ def kanon(s):
     return " ".join(s.lower().split())
 
 ROOT = _paczka()
+
+# TRESC PACZKI CZYTANA PO ZLOZENIU, NIE Z SAMEGO PLIKU [2026-10-06, R68].
+# Po rozdzieleniu kart i pliku wizyty tresc rejestracji nie stoi juz
+# w projekt/: plik niesie spis, a tresc lezy w korpusie adresowanym sha256
+# w tym repozytorium (bloki/, fragmenty/). Zwykly odczyt dawalby tu TEKST
+# bez cytatow ChPL i winieta orzekalaby, ze fraza "NIE WYSTEPUJE w paczce"
+# o frazie, ktora w paczce JEST — zmierzone: V3 BLOK-1-HIT na "co 4
+# tygodnie" i "10-15 razy".
+# BRAK ZBIORU NIE JEST ZIELONY: przerywamy z powodem, bo winieta liczona
+# na niepelnym tekscie oblewalaby poprawna paczke.
+sys.path.insert(0, os.path.join(ROOT, "narzedzia"))
+try:
+    import rozdziel_wizyte as _rw
+except ImportError:
+    _rw = None
+
 TEKST = ""
 for f in sorted(glob.glob(os.path.join(ROOT, "projekt", "*.txt"))):
     if os.path.basename(f).startswith("MANIFEST_"):
         continue
+    if _rw is not None:
+        try:
+            TEKST += _rw.pelny_plik_wizyty(f, repo=os.path.dirname(
+                os.path.dirname(os.path.abspath(__file__)))) + "\n"
+            continue
+        except _rw.BrakZbioru as e:
+            raise SystemExit("PRZERWANE — BRAK ZBIORU przy %s: %s\n"
+                             "Winieta liczona na niepelnym tekscie oblalaby "
+                             "poprawna paczke." % (os.path.basename(f), e))
     TEKST += open(f, encoding="utf-8").read() + "\n"
 TEKST_K = kanon(TEKST)
 

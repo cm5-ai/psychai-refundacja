@@ -1,0 +1,29 @@
+### Paliperidone Teva | 150 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Paliperidone Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu
+POZWOLENIE: 26891   format KRAJOWA
+ID_REJESTRU: 100445213   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44521/characteristic
+SHA256: 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: chpl_44521.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 26891, znakow 491]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 5e129a448233991124f7df5ef536b19be6d0f0a19a0ea7ab105422c962f7dad2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26891, znakow 12840]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 fc96bc86706a40e642292dd06c3ebfd9d5068cee317b6116119478ea94836dc3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26891, znakow 135]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 26891, znakow 11046]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 0e8c85a28eaf7cfd0b67a1e1885847b68184bc9611990927bc87b88943485a3f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 26891, znakow 5361]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 a195265ee7423999b276d5a630f447c69736c2cfb6f6b64c763c6c76f5b6b8ad | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 26891, znakow 1335]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 6af25f5aeb355337580ec8a210b045e73c7b20eb344c1212b85a592603d20d57 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 26891, znakow 12592]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 036e5adf6e1314df800e6833cc5d6e7ed78ed0c24e02dd9369c855083b2b897c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 26891, znakow 7800]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Paliperidone Teva, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 304270e0d66c558d291b403a978d9a05987aa57497e9d6cc28745169a71ee987 | fragment sha256 837dac90d0ab697c6efb86fd8da86aac94f54ee33f864eedcae8a82727a3e148 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

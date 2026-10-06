@@ -1,0 +1,29 @@
+### Pinexet SR | 150 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Pinexet SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+POZWOLENIE: 29868   format KRAJOWA
+ID_REJESTRU: 100506487   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50648/characteristic
+SHA256: 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: ChPL_29868_RPL50648.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 29868, znakow 808]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 65ebf1c4ecc519278c37e63ffa81dc96dc524bf323deb012416ec9513e606c33 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29868, znakow 6088]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 56c941dc26fb660b7e1ed937f8904e779c692111ed6645d0f6130295e9b50f01 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29868, znakow 334]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 a5291e126d87f45902591dad72e18bd22f121c96124dd2873c4352ff4e9c1382 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 29868, znakow 21688]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 275f17c243226f1e12a21c698ccce2cedcac64bb8bf997da3a23f734b315a197 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 29868, znakow 4805]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 d34b65a03918f3618454dfb36e86579f30bdfc1ade4ca7056e0826e162834e4b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 29868, znakow 1801]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 d3f80ccac21a82b349c97a005f60f67e5682b51a5561085b4673ab5ac16a98dc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 29868, znakow 13840]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 869080f0157c7e6cee290790acc482df39dd6ffd839bbab80fae57c032d4e0c0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 29868, znakow 5144]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Pinexet SR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 310fd24097b5b0bdccc70cf44b6b76642361b62539719eeb39378b52ee22a8fb | fragment sha256 44434333078fd2faf7db5f0201e5aea5015d72383697e7509746aea3797884b7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

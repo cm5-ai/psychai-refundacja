@@ -1,0 +1,28 @@
+### Pinexet 300 mg | 300 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Pinexet 300 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki powlekane
+POZWOLENIE: 16896   format KRAJOWA
+ID_REJESTRU: 100229113   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22911/characteristic
+SHA256: b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: ChPL_16896_RPL22911.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 16896, znakow 517]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 3f2d71ed7517c6f9262af1a2343af82f5eb7b3fb940fa56f3d348ed6b6071872 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16896, znakow 4531]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 e3203159dd029082487beae064b8dff0a68aa691880a110dcff986392a49558d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16896, znakow 327]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 ff9e1711d48d0b5e605e1642284377017d8f6b5c42b30e2c3edc843610268a88 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 16896, znakow 19564]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 50744a45159bbceca9af381ca46d8028d76c24729b32eca7f4e59339a0bf7da7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 16896, znakow 4699]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 fe294aaf288adc54ad6f2f7e50e2c2a447e314d9480c786ca8f5339da266a9c0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 16896, znakow 1894]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 1b990bbe1b11a3dfbf746d8e4645e83c2bfa526305f712859cab6bd66b940c2f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 16896, znakow 13283]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 d132b03e69ca996687e65bbcd69fe86f03749aff21eabb8e53b007c4e100bdeb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 16896, znakow 3794]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Pinexet 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b705c63e984ed362887fea065a79b0be1484a9c68d8a12d709710b14b75a90cd | fragment sha256 f1c60fa1447d0a3590e41e15ec86b14aac1e5396dc1717a245e7a67b42961b6b | TRESC W KORPUSIE, NIE W PROJEKCIE]

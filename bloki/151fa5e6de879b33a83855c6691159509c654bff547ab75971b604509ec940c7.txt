@@ -1,0 +1,29 @@
+### Tiapridal | 100 mg | Tabletki
+SUBSTANCJA: tiapryd
+NAZWA_HANDLOWA: Tiapridal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+POZWOLENIE: 08481   format KRAJOWA
+ID_REJESTRU: 100098941   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9894/characteristic
+SHA256: 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: Charakterystyka-9894-2023-08-31-15232_N-2023-12-19.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 08481, znakow 138]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 1b4b8dff62f49256868d22d7b9318210fe76d11d63db950c64fdf67e09bcf7dd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08481, znakow 627]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 f63e83a909598fc52d46bac003270a4925483cd6468447b3cf23f09606bd5255 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08481, znakow 375]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 424120bfb4dcb3ad815b762faaa95a40310e33f2caa6e77c41c8036f160e663a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 08481, znakow 5619]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 e1cf2e8230b898388393893639f589c051c72f4e590556be261047d93e254351 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 08481, znakow 1838]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 43e6940cc1e49edb5b562092354c3d0ce665b97057179a8ae4e22917e2be4866 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 08481, znakow 1837]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 e12052ca90f4d4b0023836bbfa904365397c3ec17ff382e9e671cb090cd40f30 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 08481, znakow 4440]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 f0fac458da2f80627ec0dc7993e705190d095840c29dca9932aafa4eece236d8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 08481, znakow 1467]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Tiapridal, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8227aad51a27d05e29ef8f13be5ed9a39642c4121d7de6d0707e6855cbcf290b | fragment sha256 208e436ccea4c9e50a529ed455a83f554c73f812947cdd98aac7a18fe0703988 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

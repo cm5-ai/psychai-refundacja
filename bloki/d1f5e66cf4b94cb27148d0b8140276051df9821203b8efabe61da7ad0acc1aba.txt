@@ -1,0 +1,28 @@
+### Haloperidol WZF | 5 mg | Tabletki
+SUBSTANCJA: haloperidol
+NAZWA_HANDLOWA: Haloperidol WZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+POZWOLENIE: 07226   format KRAJOWA
+ID_REJESTRU: 100076589   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7658/characteristic
+SHA256: cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: ChPL_07226_RPL7658.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 07226, znakow 1640]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 5c250ded1beabb659eaddad0efa41cf6af5a4031c5563ae5b2f40adae3c0a5c0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07226, znakow 8154]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 e1c837d608a5f66afad96bf2682c0158d6c0eb5f379468bc81ad8c1cfe32ad66 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07226, znakow 587]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 f5285f399453c2d43ecca18ac8be38c184a82ba6d7ad38d11491a4452b88913c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 07226, znakow 11435]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 85ab7fd46409a5923cac9331f89c245fbf4bf639e8707a05b4354354b2d75de0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 07226, znakow 5995]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 4e6e14687b249b2664fb1a3780043f3b0cd63d2c00734d636ce36aca02c5af13 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 07226, znakow 1907]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 7da478d1390a64b1d28148a2fe27a1b33dd675743f1d8a5f2a7c910ce37572ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 07226, znakow 5891]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 5b85851117b50822bf50a3b124726aeb15addd5893ba88f63bde4963ecc4bee2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 07226, znakow 7066]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Haloperidol WZF, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 4ee6f25b7f452ad089364d6b1c0fd99f8e7c41dcd4a1c817574bf9881cc39eed | TRESC W KORPUSIE, NIE W PROJEKCIE]

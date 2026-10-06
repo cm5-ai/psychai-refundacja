@@ -1,0 +1,29 @@
+### Decaldol | 50 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: haloperidol
+NAZWA_HANDLOWA: Decaldol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+POZWOLENIE: 00773   format KRAJOWA
+ID_REJESTRU: 100017279   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1727/characteristic
+SHA256: 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: Charakterystyka-1727-2023-11-17-15900_A-2023-11-22.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 00773, znakow 226]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 497af64047f5183aa4a4693879dadd75b9c49a36ddde55b78add252221929cd3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00773, znakow 5534]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 e1d5444ee0aef19b5b5e0cd3ae56c338de5d12af3679a487b30cabb82ffbf2c8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00773, znakow 610]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 d17d95787b693e28574c22209b6b134477bba7a9fb6455860b0b4ae6390b0c9d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 00773, znakow 10998]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 40b9421e6c84634933dd4e9586cef36049c474a0defd229a6d54785c2fe90955 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 00773, znakow 5957]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 7c88fa685602e61a5f3dc14dfc705d14012245674948814ba44f552490c220cf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 00773, znakow 1870]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 a651206ca7fa85f4172f0c98dae970cd5957c3e142f8293ca4a378f1fda8ef8d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 00773, znakow 5787]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 2a82c0713811bacc1239285d29659cf5d51e1676e1be7d1cda4e8ed865c6d776 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 00773, znakow 6629]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Decaldol, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 6a4b566f2503c92bcbf31d8bb7f3c7f5fc674a8ec3fc36eab45ad5c94fb682c1 | fragment sha256 b63ee722221595c92742290ae461288d7743930edc759b4970ba7a7ccf72426e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,44 @@
+### Haloperidol UNIA | 2 mg/ml | Krople doustne, roztwór
+SUBSTANCJA: haloperidol
+NAZWA_HANDLOWA: Haloperidol UNIA   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg/ml
+POSTAC: Krople doustne, roztwór
+POZWOLENIE: 02394   format KRAJOWA
+ID_REJESTRU: 100028202   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2820/characteristic
+SHA256: b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: Charakterystyka-2820-2022-04-13-8601_N-2022-04-27.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 02394, znakow 1638]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 ee4ef00101acf7a17201b35eb6bea0e6e3a166c4ea2c4a91b9cc99d17531a875 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 02394, znakow 9257]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 fa2e1f1d3a0558ffbfb7fe77274936d437ccf928bd5fc985ed132fbd6d68006c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+  TABELA W PUNKCIE 4.2 — wierszy 14, kotwica to dawka w mg. SPRAWDZONE WOBEC PDF: Haloperidol UNIA 2 mg/ml, pozwolenie 02394, punkt 4.2; PDF Charakterystyka-2820-2022-04-13-8601_N-2022-04-27.pdf, strona 3, Tabela 2.: 11 wierszy danych odczytanych ze struktury tabeli PDF, 14 par mg/jednostka — zgodne co do jednego z wierszami karty
+  WIERSZ: naglowek 0,1 mg | wartosc 1 | jednostka kropli
+  WIERSZ: naglowek 0,2 mg | wartosc 2 | jednostka kropli
+  WIERSZ: naglowek 0,3 mg | wartosc 3 | jednostka kropli
+  WIERSZ: naglowek 0,4 mg | wartosc 4 | jednostka kropli
+  WIERSZ: naglowek 0,5 mg | wartosc 5 | jednostka kropli
+  WIERSZ: naglowek 0,5 mg | wartosc 0,25 | jednostka ml
+  WIERSZ: naglowek 1 mg | wartosc 10 | jednostka kropli
+  WIERSZ: naglowek 1 mg | wartosc 0,5 | jednostka ml
+  WIERSZ: naglowek 2 mg | wartosc 20 | jednostka kropli
+  WIERSZ: naglowek 2 mg | wartosc 1 | jednostka ml
+  WIERSZ: naglowek 5 mg | wartosc 2,5 | jednostka ml
+  WIERSZ: naglowek 10 mg | wartosc 5 | jednostka ml
+  WIERSZ: naglowek 15 mg | wartosc 7,5 | jednostka ml
+  WIERSZ: naglowek 20 mg | wartosc 10 | jednostka ml
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 02394, znakow 611]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 fe0a09f3a3c5bfc15345ebabe31e57e22d7083266bd8f0548d415d0dd6c41616 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 02394, znakow 13166]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 129af1334231a6b0e1a02f43c96203c67fbf993217ffbe9c87986c74006a1cfe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 02394, znakow 5993]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 0bcb47343513bf2572e40438e15b57cc09ba6f9c880c190c1591ce6ec4af3d03 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 02394, znakow 1904]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 781855c4105a4ba1015631b73c3fcca329aba9175c0b0f3a45fc950e9657b645 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 02394, znakow 5883]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 5b3ab000edb5a79285a90a785fdda0868996959eb535b84acd18271ec27e3ab1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 02394, znakow 7065]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Haloperidol UNIA, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 b73ae291d174a891252679242efe7973e944f616f3a3ac53c48c44f19980bf58 | fragment sha256 e676198fbf0764c2dc32abf84c2911dd15559dacfd84c3b0d10d161c3a069d1c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

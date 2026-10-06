@@ -1,0 +1,18 @@
+### Tiapridal | 100 mg | Tabletki
+SUBSTANCJA: tiapryd
+NAZWA_HANDLOWA: Tiapridal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+POZWOLENIE: 061/23   format NUMER_ROK
+ID_REJESTRU: 100481513   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY
+WSKAZANIA [ChPL 4.1]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+DAWKOWANIE [ChPL 4.2]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+PRZECIWWSKAZANIA [ChPL 4.3]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+INTERAKCJE [ChPL 4.5]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+CIAZA_I_LAKTACJA [ChPL 4.6]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+DZIALANIA_NIEPOZADANE [ChPL 4.8]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+FARMAKOKINETYKA [ChPL 5.2]: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — w magazynie lezy dokument o tej samej nazwie handlowej, mocy i postaci, ale nic nie wiaze go z ta rejestracja
+CO TO ZNACZY: zgodnosc nazwy, mocy i postaci jest podobienstwem, nie rownoscia identyfikatora. KANDYDAT_DO_SPRAWDZENIA: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9894/characteristic
+

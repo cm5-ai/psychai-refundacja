@@ -1,0 +1,29 @@
+### Haloperidol WZF 0,2% | 2 mg/ml | Krople doustne, roztwór
+SUBSTANCJA: haloperidol
+NAZWA_HANDLOWA: Haloperidol WZF 0,2%   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg/ml
+POSTAC: Krople doustne, roztwór
+POZWOLENIE: 09693   format KRAJOWA
+ID_REJESTRU: 100111328   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11132/characteristic
+SHA256: e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: ChPL_09693_RPL11132.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 09693, znakow 1641]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 f2fac1af74ef4045c73237745019959f88fd2ef612c80516caa4bd1319132470 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09693, znakow 8956]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 a5e00c8dd3f9d0bbd92952b3f23089de98393bb4b64c98cfbed06fec6bc2ae5e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09693, znakow 587]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 f5285f399453c2d43ecca18ac8be38c184a82ba6d7ad38d11491a4452b88913c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 09693, znakow 11435]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 c6cbc9a6013436213fdb5c00d1b16201205221d849236e6de5636ce0944381bb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 09693, znakow 6023]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 a561c4bb2a3f25c37348757c0cafeed5809bf7f23bee2022e6ef4337c45bbcaf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 09693, znakow 1917]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 cfd2ac7275aa6646a626c871080f9d0b4e2829a85c61e50b0c23c8a524777f9f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 09693, znakow 5922]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 75bf7fe2925469aeccd0c37479f7bd2df0026882ba684ee98d66c296306f90a1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 09693, znakow 7067]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Haloperidol WZF 0,2%, 2 mg/ml, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 e2d8b9a142d0303e5e65a6ad30f7854ce3eb5e8796dc1715a8827f269ee4181c | fragment sha256 a6867bad570909c8da33c319a3d5899bc3ed980cfafe8fa9c20585816b706a2e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

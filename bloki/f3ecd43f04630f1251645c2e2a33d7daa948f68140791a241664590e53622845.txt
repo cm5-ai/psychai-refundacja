@@ -1,0 +1,29 @@
+### Setinin | 100 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Setinin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+POZWOLENIE: 16018   format KRAJOWA
+ID_REJESTRU: 100217541   (obok pozwolenia, nigdy nie laczy)
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21754/characteristic
+SHA256: 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+PLIK_ZRODLOWY: ChPL_16018_RPL21754.pdf
+WSKAZANIA [ChPL 4.1, pozwolenie 16018, znakow 447]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 fd9c3069bb5e20e726bbeeebb86eafc9da81957fa0fdfb0689d177f8f931bb58 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16018, znakow 4575]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 668b7707cdbbb7b24ab31cda0a9e76829f0961cd6aa421fcc86c26f13b07dcbc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16018, znakow 333]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 bae50e2ba0e2042f7d8feb743f4ed35bdcd8bd4179d10c8deb55cadaff2ba551 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+OSTRZEZENIA_I_OSTROZNOSCI [ChPL 4.4, pozwolenie 16018, znakow 21582]:
+  [PIN FRAGMENTU ChPL 4.4 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 b100123866a3bc9036c854ef2baad6b41f2d0f911ca44e4073f012f94a93852d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+INTERAKCJE [ChPL 4.5, pozwolenie 16018, znakow 4646]:
+  [PIN FRAGMENTU ChPL 4.5 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 04804d0a8a6adf5fc89321e3df68d6282bb8773a7c366eeb64bf6d27464f80c9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+CIAZA_I_LAKTACJA [ChPL 4.6, pozwolenie 16018, znakow 1893]:
+  [PIN FRAGMENTU ChPL 4.6 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 b4c80f2e6b48a58efbf82fe2ca2308bf2f38f0b222a542c28e25e7e44d24fb9d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DZIALANIA_NIEPOZADANE [ChPL 4.8, pozwolenie 16018, znakow 14044]:
+  [PIN FRAGMENTU ChPL 4.8 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 fc661cc46c400e40c64e15acba3ead5caa9d8b27dc894a0d2c080f3d7e949509 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+FARMAKOKINETYKA [ChPL 5.2, pozwolenie 16018, znakow 3821]:
+  [PIN FRAGMENTU ChPL 5.2 | produkt Setinin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 447572739b1a4f20e2f4ee353ee1f71ad3513d3489695b34a56eda0ed090254e | fragment sha256 ca077ddc4988a7faba5cf16882cecbf9b042d7f1e2f236f279201413d3fc2d5f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+
