@@ -1,0 +1,20 @@
+### Promazine Hasco | 25 mg | Tabletki powlekane
+SUBSTANCJA: promazyna
+NAZWA_HANDLOWA: Promazine Hasco   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 23984   format KRAJOWA
+ID_REJESTRU: 100358572   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23984|id=100358572
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35857/characteristic
+SHA256: 029ccb40193620ec00b746cb6f9b8ee556596c408039fa9f831ac6670fdbccfe
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23984, magazyn chpl/promazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Promazine Hasco, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 029ccb40193620ec00b746cb6f9b8ee556596c408039fa9f831ac6670fdbccfe | fragment sha256 1614fbaf8aa2ffb4ebcfb17d348ac576bb660a5243569d7994801172520ccece | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23984, magazyn chpl/promazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Promazine Hasco, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 029ccb40193620ec00b746cb6f9b8ee556596c408039fa9f831ac6670fdbccfe | fragment sha256 8022252b3558e4e97f12736c4a747744861c3082aab669456e3a25ee1bfe65e5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23984, magazyn chpl/promazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Promazine Hasco, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 029ccb40193620ec00b746cb6f9b8ee556596c408039fa9f831ac6670fdbccfe | fragment sha256 b3e1088ca2dbab6ef83f2a05ae782dcbdb354fc0659dc178cafbf8fe276a9701 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

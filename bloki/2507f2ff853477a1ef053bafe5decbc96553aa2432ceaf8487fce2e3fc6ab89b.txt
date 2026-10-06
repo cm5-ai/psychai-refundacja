@@ -1,0 +1,16 @@
+### Xanax SR | 0,5 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Xanax SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,5 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 323/18   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100412403   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|323/18|id=100412403
+WSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: W magazynie lezy dokument o tej samej nazwie, mocy i postaci, ale nic nie wiaze go z ta rejestracja, bo zgodnosc nazwy jest podobienstwem, nie rownoscia identyfikatora, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+KANDYDAT_DO_SPRAWDZENIA: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/93/characteristic
+

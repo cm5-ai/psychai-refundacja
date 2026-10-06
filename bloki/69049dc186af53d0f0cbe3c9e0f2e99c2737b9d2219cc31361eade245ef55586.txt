@@ -1,0 +1,20 @@
+### Sanval | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Sanval   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 04944   format KRAJOWA
+ID_REJESTRU: 100094937   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|04944|id=100094937
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9493/characteristic
+SHA256: 3c8505a4a34f5a0f4f1ecbd496e4f72fcedb30725ff3fb4df68407dd80aeed57
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 04944, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sanval, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3c8505a4a34f5a0f4f1ecbd496e4f72fcedb30725ff3fb4df68407dd80aeed57 | fragment sha256 d62972595832673b630b3dceba47b8039f87b9121c879e17dc10f93ced77ebea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 04944, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sanval, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3c8505a4a34f5a0f4f1ecbd496e4f72fcedb30725ff3fb4df68407dd80aeed57 | fragment sha256 125119725dd9ecd7e303334a649d3f530b239151673312ee1b40bb802271c346 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 04944, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sanval, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3c8505a4a34f5a0f4f1ecbd496e4f72fcedb30725ff3fb4df68407dd80aeed57 | fragment sha256 fc871a65d69ce9a51b5282f6016331bbe3e13aeff2e753d687391f5fb5338983 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

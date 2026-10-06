@@ -1,0 +1,20 @@
+### Melatonina OLIMP | 5 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melatonina OLIMP   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 29224   format KRAJOWA
+ID_REJESTRU: 100496053   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29224|id=100496053
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49605/characteristic
+SHA256: 5f69019ddb9851a42593bbc850ac111222b70a747255d2c35922281cb84687ae
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29224, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melatonina OLIMP, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 5f69019ddb9851a42593bbc850ac111222b70a747255d2c35922281cb84687ae | fragment sha256 f50cbc18102cfa37ba867b5eb689e729cae3faff4b0f5c5d22983230c03fe641 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29224, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melatonina OLIMP, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 5f69019ddb9851a42593bbc850ac111222b70a747255d2c35922281cb84687ae | fragment sha256 7ca6509793516e246d02e76cb38b0af5b56df2018a3618c773a3476141358bc4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29224, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melatonina OLIMP, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 5f69019ddb9851a42593bbc850ac111222b70a747255d2c35922281cb84687ae | fragment sha256 24d18f2ed3218460856b70dd6b14f7c5dac3f8a8028b917aee92483d44f4c311 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

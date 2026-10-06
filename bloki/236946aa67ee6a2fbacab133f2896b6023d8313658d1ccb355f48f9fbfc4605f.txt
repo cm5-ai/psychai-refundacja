@@ -1,0 +1,20 @@
+### Venlafaxine Teva | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Venlafaxine Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 27468   format KRAJOWA
+ID_REJESTRU: 100458805   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27468|id=100458805
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45880/characteristic
+SHA256: 15f3817db920002984775083edccdadd653bc07dbc7a6b4898da1be581be2f26
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27468, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Venlafaxine Teva, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 15f3817db920002984775083edccdadd653bc07dbc7a6b4898da1be581be2f26 | fragment sha256 74805c4dbe7d6b8187c0c946d8eb4f958c9d1bae940f8283a8c3412367e18ad2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27468, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Venlafaxine Teva, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 15f3817db920002984775083edccdadd653bc07dbc7a6b4898da1be581be2f26 | fragment sha256 f281ec590829c6dd1eee5cbc0bf0e1b5c0bea5c9aa6974a1e34e966356f14a38 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27468, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Venlafaxine Teva, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 15f3817db920002984775083edccdadd653bc07dbc7a6b4898da1be581be2f26 | fragment sha256 fb2b208379635f24657a0835c9d83d4e69ffb29cc97e2623a36b2f9f142d7519 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

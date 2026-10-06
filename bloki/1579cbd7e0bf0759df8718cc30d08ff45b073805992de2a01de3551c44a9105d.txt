@@ -1,0 +1,20 @@
+### Tranxene 20 | 20 mg/2 ml | Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań
+SUBSTANCJA: klorazepat
+NAZWA_HANDLOWA: Tranxene 20   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg/2 ml
+POSTAC: Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań
+STAN: AKTUALNA
+IDENTYFIKATOR: 03759   format KRAJOWA
+ID_REJESTRU: 100067550   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03759|id=100067550
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6755/characteristic
+SHA256: 9106a7b720311a60f5f3e0572bc9f98dc789c752c7b83f6fc178babe922a8f2e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03759, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tranxene 20, 20 mg/2 ml, Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 9106a7b720311a60f5f3e0572bc9f98dc789c752c7b83f6fc178babe922a8f2e | fragment sha256 d50787112e0814e90543219159009f1011dfd862a6354775374b43980b57c102 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03759, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tranxene 20, 20 mg/2 ml, Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 9106a7b720311a60f5f3e0572bc9f98dc789c752c7b83f6fc178babe922a8f2e | fragment sha256 5f519563f2434addfcdf5c4c1cf5ba53873c3aa350b58d3e2d99479ca9d2f4b7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03759, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tranxene 20, 20 mg/2 ml, Proszek i rozpuszczalnik do sporządzania roztworu do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 9106a7b720311a60f5f3e0572bc9f98dc789c752c7b83f6fc178babe922a8f2e | fragment sha256 f85d57cc289cf2c6f5b2075d0cee60504a0faebd8715bb392b84565c7716081d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,15 @@
+### Mirzaten | 30 mg | Tabletki powlekane
+SUBSTANCJA: mirtazapina
+NAZWA_HANDLOWA: Mirzaten   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 533/13   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100307238   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|533/13|id=100307238
+WSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestr nie podaje adresu dokumentu ChPL dla tej rejestracji, wiec nie bylo czego sprawdzic, i DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

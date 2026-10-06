@@ -1,0 +1,20 @@
+### Xetanor 20 mg | 20 mg | Tabletki powlekane
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: Xetanor 20 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 12074   format KRAJOWA
+ID_REJESTRU: 100159476   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12074|id=100159476
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15947/characteristic
+SHA256: 2aefaea7c23921781cb10b2c2598673169918eb39d6e09105f790b09539f563b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12074, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Xetanor 20 mg, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2aefaea7c23921781cb10b2c2598673169918eb39d6e09105f790b09539f563b | fragment sha256 b4d356738b9a1814d75fe15425c5bdc2222bf2662f99f2a46b0ac3e10f695a97 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12074, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Xetanor 20 mg, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2aefaea7c23921781cb10b2c2598673169918eb39d6e09105f790b09539f563b | fragment sha256 2ce8d3fc6d4c5e75707087eca3f610bd6a7482af2af591bd110e021219fdfd2b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12074, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Xetanor 20 mg, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2aefaea7c23921781cb10b2c2598673169918eb39d6e09105f790b09539f563b | fragment sha256 2f9dc61ba4c926f5cd1c9d0cff54359faa0a4bbbb73e1e89ef60f72c7d9507c7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

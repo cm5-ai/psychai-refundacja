@@ -1,0 +1,15 @@
+### Xanax | 0,25 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Xanax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,25 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 136/09   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100267639   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|136/09|id=100267639
+WSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestr nie podaje adresu dokumentu ChPL dla tej rejestracji, wiec nie bylo czego sprawdzic, i DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

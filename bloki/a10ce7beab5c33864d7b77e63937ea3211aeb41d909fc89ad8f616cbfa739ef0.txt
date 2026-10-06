@@ -1,0 +1,20 @@
+### Relanium | 5 mg | Tabletki
+SUBSTANCJA: diazepam
+NAZWA_HANDLOWA: Relanium   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 01496   format KRAJOWA
+ID_REJESTRU: 100057787   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01496|id=100057787
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5778/characteristic
+SHA256: 76f0792868a53edfe3cd4961d6c20edf1bc13c88626108d70bc2e867a52beae5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01496, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Relanium, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 76f0792868a53edfe3cd4961d6c20edf1bc13c88626108d70bc2e867a52beae5 | fragment sha256 9b555ecd971371ab5e080002b00ce9a844b9ccccd2d5e2f4a8301360b5ff170e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01496, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Relanium, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 76f0792868a53edfe3cd4961d6c20edf1bc13c88626108d70bc2e867a52beae5 | fragment sha256 d5d11452b7fe68bd30be989577c23c5872ebb898d4c8033d26a1fe2e685e488c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01496, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Relanium, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 76f0792868a53edfe3cd4961d6c20edf1bc13c88626108d70bc2e867a52beae5 | fragment sha256 a5a064110a21311119725a1b6db71ee20305e1db0f7b60d1c647a8e5c638aab0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

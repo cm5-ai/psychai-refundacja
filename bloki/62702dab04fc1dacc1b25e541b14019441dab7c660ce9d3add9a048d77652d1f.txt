@@ -1,0 +1,20 @@
+### Aribit | 5 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aribit   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 22487   format KRAJOWA
+ID_REJESTRU: 100344156   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22487|id=100344156
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34415/characteristic
+SHA256: 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22487, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aribit, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d | fragment sha256 8f716047604efc2106b2f95c36713adb51a0d9d5d63bf77fb4d9f35acb6191ab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22487, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aribit, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d | fragment sha256 3a469fceb66fbea99b14b4b0de73189f0119c825a0215c725ba8a796fbbe7f03 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22487, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aribit, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Sertralina Krka | 100 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Sertralina Krka   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 18835   format KRAJOWA
+ID_REJESTRU: 100262458   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|18835|id=100262458
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26245/characteristic
+SHA256: 0c4c47fe764b30c1e0821c14133819698b76dfe8b3230fbdfb8df3142f15e67b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 18835, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sertralina Krka, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 0c4c47fe764b30c1e0821c14133819698b76dfe8b3230fbdfb8df3142f15e67b | fragment sha256 53349142941f40f2cde16d29579c3def47522908a8e898b027f9260d9d8d006d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 18835, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sertralina Krka, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 0c4c47fe764b30c1e0821c14133819698b76dfe8b3230fbdfb8df3142f15e67b | fragment sha256 4f35ceed59f16621191a7f6d27690fc78b4f13cb17955b9ae21587569db70201 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 18835, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sertralina Krka, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 0c4c47fe764b30c1e0821c14133819698b76dfe8b3230fbdfb8df3142f15e67b | fragment sha256 a44b8195df19dc688926f1d28e89c9d5556d9f42476967452016fe79e9b557e9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

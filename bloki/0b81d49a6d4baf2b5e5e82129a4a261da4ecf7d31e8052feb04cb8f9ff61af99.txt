@@ -1,0 +1,20 @@
+### Quetiapine Orion | 25 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Quetiapine Orion   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 25217   format KRAJOWA
+ID_REJESTRU: 100399737   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25217|id=100399737
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39973/characteristic
+SHA256: cdc084b0c238b63bc42456eec83bd15d5ebe2e63b59534c3534bbb326db5ecc4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25217, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Quetiapine Orion, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cdc084b0c238b63bc42456eec83bd15d5ebe2e63b59534c3534bbb326db5ecc4 | fragment sha256 2303b03b0801dca47b2ee8dab16878a5ed3f3233da73c4cfccb2221b308e1102 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25217, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Quetiapine Orion, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cdc084b0c238b63bc42456eec83bd15d5ebe2e63b59534c3534bbb326db5ecc4 | fragment sha256 4c54c2953d618975867d82b37a65876c42ac8b8b4e8ba92480a1c0eb0c47ae37 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25217, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Quetiapine Orion, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cdc084b0c238b63bc42456eec83bd15d5ebe2e63b59534c3534bbb326db5ecc4 | fragment sha256 a9ff840959ed1a35f9e1d1bf6b6cb5da4e7fc80a0871740f9873e94438714b2a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

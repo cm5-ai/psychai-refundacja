@@ -1,0 +1,20 @@
+### Chlorprothixen Hasco | 50 mg | Tabletki powlekane
+SUBSTANCJA: chlorprotiksen
+NAZWA_HANDLOWA: Chlorprothixen Hasco   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 26875   format KRAJOWA
+ID_REJESTRU: 100427646   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26875|id=100427646
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42764/characteristic
+SHA256: 97b1a2b1692990ed728aeccbdfb748d9f19976f50277e4c153da9c2a33a680dd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26875, magazyn chpl/chlorprotiksen]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Chlorprothixen Hasco, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 97b1a2b1692990ed728aeccbdfb748d9f19976f50277e4c153da9c2a33a680dd | fragment sha256 5d5db5f3bc319e9f8eebad48f79f37da2cdfb97b807d6463e34d9f636a1d5d79 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26875, magazyn chpl/chlorprotiksen]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Chlorprothixen Hasco, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 97b1a2b1692990ed728aeccbdfb748d9f19976f50277e4c153da9c2a33a680dd | fragment sha256 6ea892dccdb4191ed146ac7315681896d8e2988493a6a885f7f51cf261e3a091 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26875, magazyn chpl/chlorprotiksen]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Chlorprothixen Hasco, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 97b1a2b1692990ed728aeccbdfb748d9f19976f50277e4c153da9c2a33a680dd | fragment sha256 05b4d019cd48837ca376efe461b54ed0ed4d1dc05acf5ecad8c5befbfad182b7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

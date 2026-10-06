@@ -1,0 +1,20 @@
+### Olanzapine Lekam | 5 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapine Lekam   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 16452   format KRAJOWA
+ID_REJESTRU: 100222430   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16452|id=100222430
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22243/characteristic
+SHA256: 765ac741d485ce139b5476c3d27b4ea284a3535dad58eea6295a1ae51793dd14
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16452, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzapine Lekam, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 765ac741d485ce139b5476c3d27b4ea284a3535dad58eea6295a1ae51793dd14 | fragment sha256 dd51729fb9c5f57d638d1645aa17832af96eb7cf39d7018b77daf36b41935aa1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16452, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzapine Lekam, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 765ac741d485ce139b5476c3d27b4ea284a3535dad58eea6295a1ae51793dd14 | fragment sha256 25d90742e5babff490e09f3141a6adc0d1d92c418221115ba860fbfea2e2f611 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16452, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzapine Lekam, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 765ac741d485ce139b5476c3d27b4ea284a3535dad58eea6295a1ae51793dd14 | fragment sha256 7189e21089de0036e9e52b762f58384e67b0c2d5247ebda90911ab9818fb3105 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

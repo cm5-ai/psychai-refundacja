@@ -1,0 +1,20 @@
+### Neurol SR 0,5 | 0,5 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Neurol SR 0,5   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,5 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 12368   format KRAJOWA
+ID_REJESTRU: 100163213   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12368|id=100163213
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16321/characteristic
+SHA256: eb75dcd9f66d6fa07eaa0692a7635d427a0f37924f84c7abc92ad173f3e5db54
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12368, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Neurol SR 0,5, 0,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 eb75dcd9f66d6fa07eaa0692a7635d427a0f37924f84c7abc92ad173f3e5db54 | fragment sha256 dd66828492100a36c218803fe2cca363cfd9020d7303f5632164f1521312b845 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12368, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Neurol SR 0,5, 0,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 eb75dcd9f66d6fa07eaa0692a7635d427a0f37924f84c7abc92ad173f3e5db54 | fragment sha256 c00a17a75d5041ff99de47eeb8bafd444cd43aed6f5415c9b6409605d26c274d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12368, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Neurol SR 0,5, 0,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 eb75dcd9f66d6fa07eaa0692a7635d427a0f37924f84c7abc92ad173f3e5db54 | fragment sha256 2d70532ef54e66e98f7d2feb4b2b307f3616f98fe01a8ae1a0d4c7c6fdbac002 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Mirzaten 45 mg | 45 mg | Tabletki powlekane
+SUBSTANCJA: mirtazapina
+NAZWA_HANDLOWA: Mirzaten 45 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 45 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 11401   format KRAJOWA
+ID_REJESTRU: 100135790   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11401|id=100135790
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13579/characteristic
+SHA256: 35e24f28f02a6662b61e9e833a46e48d8a6d44a0f2593f5066787166b5b0b410
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11401, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mirzaten 45 mg, 45 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 35e24f28f02a6662b61e9e833a46e48d8a6d44a0f2593f5066787166b5b0b410 | fragment sha256 88baee1fe32c72e72bd23d720295d72d7bbda0afb5fa304a995c2de52d4e112e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11401, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mirzaten 45 mg, 45 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 35e24f28f02a6662b61e9e833a46e48d8a6d44a0f2593f5066787166b5b0b410 | fragment sha256 365b35ef6ab1d378131c2633cf15a3c13b00510612cfca9eee8dfa9daf90c4be | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11401, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mirzaten 45 mg, 45 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 35e24f28f02a6662b61e9e833a46e48d8a6d44a0f2593f5066787166b5b0b410 | fragment sha256 0cfeba6618067c59015f766b38d362bef8d11dd3eb1f79e70e3a58ec32d8e468 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

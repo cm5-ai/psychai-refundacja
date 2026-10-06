@@ -1,0 +1,20 @@
+### Preato | 200 mg | Tabletki
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Preato   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 25298   format KRAJOWA
+ID_REJESTRU: 100394668   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25298|id=100394668
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39466/characteristic
+SHA256: 98037038286ebc4b802ed62ca3bc684254a9c3e1ccab51c9d3d1940a2c2d57c5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25298, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Preato, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 98037038286ebc4b802ed62ca3bc684254a9c3e1ccab51c9d3d1940a2c2d57c5 | fragment sha256 f41769eebe945987e78e062edff2e8c5bb3e89e70aae1eee74661cd00d939894 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25298, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Preato, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 98037038286ebc4b802ed62ca3bc684254a9c3e1ccab51c9d3d1940a2c2d57c5 | fragment sha256 30674d119f506dabf7fd66cc12a9dae42c68200294873fcd47c36b4017165d95 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25298, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Preato, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 98037038286ebc4b802ed62ca3bc684254a9c3e1ccab51c9d3d1940a2c2d57c5 | fragment sha256 3608d63a02c83e2981aef1438d6fe9d0a0824424d5284488e24101a9e81d4199 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

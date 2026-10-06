@@ -1,0 +1,20 @@
+### ApoTiapina PR | 200 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: ApoTiapina PR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 27851   format KRAJOWA
+ID_REJESTRU: 100449659   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27851|id=100449659
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44965/characteristic
+SHA256: af6d9304e247eb8c318963326cc3fd1d1da834a2e5196bc5de00610ab36127b8
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27851, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ApoTiapina PR, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 af6d9304e247eb8c318963326cc3fd1d1da834a2e5196bc5de00610ab36127b8 | fragment sha256 1183c271e3e9fa50f968bf9010b0c4c43e37f2e33020749700ab78c7c1272f65 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27851, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ApoTiapina PR, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 af6d9304e247eb8c318963326cc3fd1d1da834a2e5196bc5de00610ab36127b8 | fragment sha256 4ae22c9aa7d84ce0bded3bf40164be05d664c18565ee66168724e68264ff7b9a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27851, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ApoTiapina PR, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 af6d9304e247eb8c318963326cc3fd1d1da834a2e5196bc5de00610ab36127b8 | fragment sha256 b242012fe64f138401a3623b045e959b74ca303d3bd671aca7c606b52e36be5d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Zoloft | 50 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Zoloft   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 07531   format KRAJOWA
+ID_REJESTRU: 100079719   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07531|id=100079719
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7971/characteristic
+SHA256: 55d8ca8b0d9d39e7a337895f444a3ec190c570d4bae1c39cb9c23f5d21439d37
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07531, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zoloft, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 55d8ca8b0d9d39e7a337895f444a3ec190c570d4bae1c39cb9c23f5d21439d37 | fragment sha256 d07dbfcc123cd8ecb374edf0b0672f920e1372bcda49bce260d563c9736b63d0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07531, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zoloft, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 55d8ca8b0d9d39e7a337895f444a3ec190c570d4bae1c39cb9c23f5d21439d37 | fragment sha256 20f09a82a119ab196e3915f6771e3caeb1cb97ccc322d9fc424734391319a3f8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07531, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zoloft, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 55d8ca8b0d9d39e7a337895f444a3ec190c570d4bae1c39cb9c23f5d21439d37 | fragment sha256 9d860478da1181cec6fa8a6b2cd58883eef3a973ce8ab751a433f184300947fa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### KETREL XR | 150 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: KETREL XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 23617   format KRAJOWA
+ID_REJESTRU: 100373301   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23617|id=100373301
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/37330/characteristic
+SHA256: c6efe2cc182f69cf2d5607c2143d4acefc653bae77c3fc2b53b1bfdf59df791f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23617, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt KETREL XR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c6efe2cc182f69cf2d5607c2143d4acefc653bae77c3fc2b53b1bfdf59df791f | fragment sha256 85d4dc4cdd2692e4823beb41b20f52dd8b2163c547500e7277287b34ad991d63 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23617, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt KETREL XR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c6efe2cc182f69cf2d5607c2143d4acefc653bae77c3fc2b53b1bfdf59df791f | fragment sha256 f018da3a1d31d98b838400f9bb62775683d8f6c9f1e602aa0c747bdf69435f46 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23617, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt KETREL XR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c6efe2cc182f69cf2d5607c2143d4acefc653bae77c3fc2b53b1bfdf59df791f | fragment sha256 a9ff840959ed1a35f9e1d1bf6b6cb5da4e7fc80a0871740f9873e94438714b2a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

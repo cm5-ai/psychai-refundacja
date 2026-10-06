@@ -1,0 +1,20 @@
+### Hydroxyzinum Hasco | 25,00 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Hasco   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25,00 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 22603   format KRAJOWA
+ID_REJESTRU: 100342750   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22603|id=100342750
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34275/characteristic
+SHA256: b7ec26817a413024dcb7184ca9776550b0a7b8606d95417a88d5370124565245
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22603, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Hasco, 25,00 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b7ec26817a413024dcb7184ca9776550b0a7b8606d95417a88d5370124565245 | fragment sha256 abf8be060f3c61f9402036d0e232b1e01da54c344306cd7e13f21289ad4ec866 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22603, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Hasco, 25,00 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b7ec26817a413024dcb7184ca9776550b0a7b8606d95417a88d5370124565245 | fragment sha256 319736fa50aef93555042998327b20c02a6e1d46ffdbc017e6144a531d17c63d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22603, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Hasco, 25,00 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b7ec26817a413024dcb7184ca9776550b0a7b8606d95417a88d5370124565245 | fragment sha256 e25f3e414cbce624514315c3aa6e5564232fd1fd46d19f034f4c039f4e54da8f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

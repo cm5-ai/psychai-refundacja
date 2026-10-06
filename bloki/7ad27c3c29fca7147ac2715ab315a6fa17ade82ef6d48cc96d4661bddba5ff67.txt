@@ -1,0 +1,20 @@
+### Lamegom | 25 mg | Tabletki powlekane
+SUBSTANCJA: agomelatyna
+NAZWA_HANDLOWA: Lamegom   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 25025   format KRAJOWA
+ID_REJESTRU: 100401813   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25025|id=100401813
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40181/characteristic
+SHA256: d3b949d9536c78247ce4f5a67854b8743434c59fb6a937c9911f0aedfbdcae5c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25025, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lamegom, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d3b949d9536c78247ce4f5a67854b8743434c59fb6a937c9911f0aedfbdcae5c | fragment sha256 c10911cd62601e7195b44e639e09cdcebd5081cc658de96a9cffd3c9d1882a7e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25025, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lamegom, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d3b949d9536c78247ce4f5a67854b8743434c59fb6a937c9911f0aedfbdcae5c | fragment sha256 3212fc8c146102e27faea2e7d526e2ab9ad728296d0a85dfd901a55a876b4f97 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25025, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lamegom, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d3b949d9536c78247ce4f5a67854b8743434c59fb6a937c9911f0aedfbdcae5c | fragment sha256 6e29906f3ac1f44988e7267cf9cb6655b8e928a015af1fe924cc9ef614503c8d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

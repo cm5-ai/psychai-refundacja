@@ -1,0 +1,20 @@
+### Ketipinor | 200 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Ketipinor   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 14026   format KRAJOWA
+ID_REJESTRU: 100132030   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14026|id=100132030
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13203/characteristic
+SHA256: f86aac5fbd77aaa97f4fad45902deaa017428f6039d6652850c52f6868ce4179
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14026, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ketipinor, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 f86aac5fbd77aaa97f4fad45902deaa017428f6039d6652850c52f6868ce4179 | fragment sha256 b3418b95d1ec287d97ab8a670797b1edef921dab06cd3596315c51ca1dc5e937 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14026, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ketipinor, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 f86aac5fbd77aaa97f4fad45902deaa017428f6039d6652850c52f6868ce4179 | fragment sha256 6e17320c5114f7549269f7de833fc014309af893b30a43d08b22f74910e91b8f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14026, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ketipinor, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 f86aac5fbd77aaa97f4fad45902deaa017428f6039d6652850c52f6868ce4179 | fragment sha256 e6333d01d98aa8ffa0a7d547e1fa265988db0efb425f8594687af2fec8f26a73 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

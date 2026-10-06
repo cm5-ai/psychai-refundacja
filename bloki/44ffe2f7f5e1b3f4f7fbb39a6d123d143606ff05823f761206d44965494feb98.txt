@@ -1,0 +1,20 @@
+### Pregabalin Reddy | 200 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Pregabalin Reddy   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 27426   format KRAJOWA
+ID_REJESTRU: 100457899   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27426|id=100457899
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45789/characteristic
+SHA256: ec58e472fb6992daadae12e20303a7a3a45a4754c6954a03a1e1249be0d5136e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27426, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pregabalin Reddy, 200 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ec58e472fb6992daadae12e20303a7a3a45a4754c6954a03a1e1249be0d5136e | fragment sha256 77bb9516ddac79178280aad086c23e4d5bf22a05b2b70f3a69255529cb827665 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27426, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pregabalin Reddy, 200 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ec58e472fb6992daadae12e20303a7a3a45a4754c6954a03a1e1249be0d5136e | fragment sha256 8b51a83d18f4c6929065e0ca988929522ebc8b2d664d4ec5c0cb0578f2f5d8d8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27426, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pregabalin Reddy, 200 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ec58e472fb6992daadae12e20303a7a3a45a4754c6954a03a1e1249be0d5136e | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

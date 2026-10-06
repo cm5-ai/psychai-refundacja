@@ -1,0 +1,20 @@
+### Olzapin | 15 mg | Tabletki powlekane
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olzapin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28253   format KRAJOWA
+ID_REJESTRU: 100454567   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28253|id=100454567
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45456/characteristic
+SHA256: 8dc2528a21b9ef0795c348079928a2f7ce0ffea4bf601715ae0c24e1593a661d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28253, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olzapin, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8dc2528a21b9ef0795c348079928a2f7ce0ffea4bf601715ae0c24e1593a661d | fragment sha256 a5ec2d144ee8a17c59b9583ca9bfe3c520bca8b121b5f3e4430a70aba5ecb4d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28253, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olzapin, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8dc2528a21b9ef0795c348079928a2f7ce0ffea4bf601715ae0c24e1593a661d | fragment sha256 ff5dab5ca985f5edbed110cf8fca60b997ff6b80c027613756cbd6c5739d32d0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28253, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olzapin, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8dc2528a21b9ef0795c348079928a2f7ce0ffea4bf601715ae0c24e1593a661d | fragment sha256 3cab68b3ead4c35a44ce247392b83228ec24a7e8e5f0d6e7ed4af94d6e20bfce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Gabapentin Teva | 800 mg | Tabletki powlekane
+SUBSTANCJA: gabapentyna
+NAZWA_HANDLOWA: Gabapentin Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 800 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 11816   format KRAJOWA
+ID_REJESTRU: 100145439   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11816|id=100145439
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14543/characteristic
+SHA256: 777aee4ff15ca49575aad31104364d67dec9de18b026cb55c20af73908e565f4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11816, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Gabapentin Teva, 800 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 777aee4ff15ca49575aad31104364d67dec9de18b026cb55c20af73908e565f4 | fragment sha256 27c884bbb872f161b65e4858df19308522ba674bc1c0824556e0a013f93a73b3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11816, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Gabapentin Teva, 800 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 777aee4ff15ca49575aad31104364d67dec9de18b026cb55c20af73908e565f4 | fragment sha256 91ae1ba2964cd5adde619546a4a304c7b06e42603d3b574ccb41cbdf39a7d92f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11816, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Gabapentin Teva, 800 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 777aee4ff15ca49575aad31104364d67dec9de18b026cb55c20af73908e565f4 | fragment sha256 e62b677793d25501baa4b21dcec26c8a7950715eea839c9b79a889828d6ac4c2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

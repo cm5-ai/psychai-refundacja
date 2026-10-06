@@ -1,0 +1,20 @@
+### Atenza | 27 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Atenza   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 27 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 27343   format KRAJOWA
+ID_REJESTRU: 100412449   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27343|id=100412449
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41244/characteristic
+SHA256: 7fc9b3aeebd9457bbf2271a024be50ffb7004a1958c02f2907d2e283dd0e7cd0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27343, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Atenza, 27 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 7fc9b3aeebd9457bbf2271a024be50ffb7004a1958c02f2907d2e283dd0e7cd0 | fragment sha256 7c41991cb47edfedd061816f5a4703a8fcae0a4661c0bf87c9dde0292f4fed88 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27343, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Atenza, 27 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 7fc9b3aeebd9457bbf2271a024be50ffb7004a1958c02f2907d2e283dd0e7cd0 | fragment sha256 54fef31afb64d7ee065d381df2c58f17acdbbd671a686ab28e65974aba68b537 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27343, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Atenza, 27 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 7fc9b3aeebd9457bbf2271a024be50ffb7004a1958c02f2907d2e283dd0e7cd0 | fragment sha256 0074883d2bf0cd5447c6db4146a12f029937f8ac5681843985dcac5d46524730 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

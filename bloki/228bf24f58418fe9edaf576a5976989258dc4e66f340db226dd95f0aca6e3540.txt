@@ -1,0 +1,20 @@
+### Hydroxyzinum Espefa | 10 mg/5 ml | Syrop
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Espefa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg/5 ml
+POSTAC: Syrop
+STAN: AKTUALNA
+IDENTYFIKATOR: 14680   format KRAJOWA
+ID_REJESTRU: 100194917   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14680|id=100194917
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19491/characteristic
+SHA256: 997960be33a673fc18e80f5cd191d6c9c7eed13166b2b11eb75020891e1b8f55
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14680, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Espefa, 10 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 997960be33a673fc18e80f5cd191d6c9c7eed13166b2b11eb75020891e1b8f55 | fragment sha256 5323766cb91744b3ef35a391d6dbe24fe37398324fb340b8a6b060543469801e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14680, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Espefa, 10 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 997960be33a673fc18e80f5cd191d6c9c7eed13166b2b11eb75020891e1b8f55 | fragment sha256 9cc066eeb9b277b2c1b863d6819d2ab1cb0ac3c0690bc3beb49790eeda671b86 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14680, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Espefa, 10 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 997960be33a673fc18e80f5cd191d6c9c7eed13166b2b11eb75020891e1b8f55 | fragment sha256 251c4d0eb496b932b77cac6ed0a178da2033ec19dbfc5723168e02510e350f25 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

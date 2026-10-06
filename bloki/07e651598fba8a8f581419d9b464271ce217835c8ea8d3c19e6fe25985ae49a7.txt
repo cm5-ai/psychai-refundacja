@@ -1,0 +1,20 @@
+### Seroxat | 20 mg | Tabletki powlekane
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: Seroxat   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 06405   format KRAJOWA
+ID_REJESTRU: 100060832   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|06405|id=100060832
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6083/characteristic
+SHA256: 578d6fdf46541e6bd0a28d53a06fa4aa732ba02b5fc26d05155725b57835a2a2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 06405, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Seroxat, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 578d6fdf46541e6bd0a28d53a06fa4aa732ba02b5fc26d05155725b57835a2a2 | fragment sha256 0c97cf3e55944bacd7407761853e74ff74ba09eb229267e09750d27c63ed00d7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 06405, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Seroxat, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 578d6fdf46541e6bd0a28d53a06fa4aa732ba02b5fc26d05155725b57835a2a2 | fragment sha256 d49cb91e94ed64d2a6eb848270a1e16ca490d95a39a318f5d0ea4c3d38edb785 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 06405, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Seroxat, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 578d6fdf46541e6bd0a28d53a06fa4aa732ba02b5fc26d05155725b57835a2a2 | fragment sha256 52318db033451fa1f15fb76504849ea17e07659accd25b4e16f0653fbd138a93 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

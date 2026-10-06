@@ -1,0 +1,20 @@
+### Escitil | 20 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Escitil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 16118   format KRAJOWA
+ID_REJESTRU: 100217819   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16118|id=100217819
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21781/characteristic
+SHA256: 94bd6ad0487c9c1cf7d77302cd20dab7db53fe670dd736c7b9dc7ea20925f47d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16118, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Escitil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 94bd6ad0487c9c1cf7d77302cd20dab7db53fe670dd736c7b9dc7ea20925f47d | fragment sha256 dd2d7723801d81143dc2fdb585ede77374d300c38bff0f1d3346908fa934849d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16118, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Escitil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 94bd6ad0487c9c1cf7d77302cd20dab7db53fe670dd736c7b9dc7ea20925f47d | fragment sha256 ad6e5244d140492c876b64f97158b9f094b595151547c40b5f036bd4dbfd6807 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16118, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Escitil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 94bd6ad0487c9c1cf7d77302cd20dab7db53fe670dd736c7b9dc7ea20925f47d | fragment sha256 85212a93293d41b289fc1baf18af084eaffeea5badedd283038dd1458a6dc6c1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Evertas | 13,3 mg/24 h | System transdermalny, plaster
+SUBSTANCJA: riwastygmina
+NAZWA_HANDLOWA: Evertas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 13,3 mg/24 h
+POSTAC: System transdermalny, plaster
+STAN: AKTUALNA
+IDENTYFIKATOR: 26959   format KRAJOWA
+ID_REJESTRU: 100434190   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26959|id=100434190
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43419/characteristic
+SHA256: aa1e0e559c1a7ea08287ed2bdca46808f9e32446a2103011df2fd333b5c66d80
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26959, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Evertas, 13,3 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 aa1e0e559c1a7ea08287ed2bdca46808f9e32446a2103011df2fd333b5c66d80 | fragment sha256 1b34a280334afab348567db06d93b2b9581a512d161e83fcd3a4cf9ed640442a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26959, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Evertas, 13,3 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 aa1e0e559c1a7ea08287ed2bdca46808f9e32446a2103011df2fd333b5c66d80 | fragment sha256 dde723edbd93f6523d21273715f781f27b3dfc78add870955f55c5b89a428b75 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26959, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Evertas, 13,3 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 aa1e0e559c1a7ea08287ed2bdca46808f9e32446a2103011df2fd333b5c66d80 | fragment sha256 939857cd8a55c3448886fddcf4de24545bdd59728a79b6260f1f86ce231a769d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

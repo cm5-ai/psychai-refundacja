@@ -1,0 +1,20 @@
+### Ryspolit | 1 mg/ml | Roztwór doustny
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Ryspolit   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Roztwór doustny
+STAN: AKTUALNA
+IDENTYFIKATOR: 15772   format KRAJOWA
+ID_REJESTRU: 100213916   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15772|id=100213916
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21391/characteristic
+SHA256: 0098433647605281f38f7f311fc03f333fcf7fa1b044f8a54291c00ce6914ba7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15772, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ryspolit, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 0098433647605281f38f7f311fc03f333fcf7fa1b044f8a54291c00ce6914ba7 | fragment sha256 17d0a3f6530323e4557f48106b8312762778d7e5ed82ed361bebca73c7226571 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15772, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ryspolit, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 0098433647605281f38f7f311fc03f333fcf7fa1b044f8a54291c00ce6914ba7 | fragment sha256 c14ae6fd2bac1011acc6fa8c9e97910f2006ba28f77b07b455cf2953c02d7e6d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15772, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ryspolit, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 0098433647605281f38f7f311fc03f333fcf7fa1b044f8a54291c00ce6914ba7 | fragment sha256 bc0a1f36b0c30ecc72218621aba4806ab846f8282d2eb4b96311ce15f15c24d9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

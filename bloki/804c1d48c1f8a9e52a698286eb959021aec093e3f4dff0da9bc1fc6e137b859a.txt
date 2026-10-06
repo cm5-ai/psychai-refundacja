@@ -1,0 +1,20 @@
+### Hydroxyzinum VP | 10 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum VP   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 01887   format KRAJOWA
+ID_REJESTRU: 100030009   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01887|id=100030009
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3000/characteristic
+SHA256: 464346222343648b075d5b8ea4e8e58032c381ffd499771d80b3741412473f37
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01887, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum VP, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 464346222343648b075d5b8ea4e8e58032c381ffd499771d80b3741412473f37 | fragment sha256 d15b45d2092d7f20a03f4d93b87b4682a3455e9bc2a7d54b36c0b4c2f0264ef6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01887, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum VP, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 464346222343648b075d5b8ea4e8e58032c381ffd499771d80b3741412473f37 | fragment sha256 624f3a3c9b63591330a68d65bd65544f6bff9e881ff4fb4774d18c6d64d05b52 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01887, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum VP, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 464346222343648b075d5b8ea4e8e58032c381ffd499771d80b3741412473f37 | fragment sha256 71c1a308cde5fdd8ab0ec37959e59832745fa9563f38249b419e0f921d982730 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

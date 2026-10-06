@@ -1,0 +1,20 @@
+### Melatonina Polski Lek | 5 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melatonina Polski Lek   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 29248   format KRAJOWA
+ID_REJESTRU: 100455930   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29248|id=100455930
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45593/characteristic
+SHA256: 7cbae73a6f26a69b1703a02eb5b900861bc9c1bf8857946105611cf03976e4d7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29248, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melatonina Polski Lek, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7cbae73a6f26a69b1703a02eb5b900861bc9c1bf8857946105611cf03976e4d7 | fragment sha256 8a5c5e588689c3b10a121baa412317fa0ae7ebd896a263cbbe9309abc31814c8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29248, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melatonina Polski Lek, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7cbae73a6f26a69b1703a02eb5b900861bc9c1bf8857946105611cf03976e4d7 | fragment sha256 8a1d2acdd13a0dbaeb16ad3dfa924bcb15a4f22a3ef562cb6a72846b2858043a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29248, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melatonina Polski Lek, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7cbae73a6f26a69b1703a02eb5b900861bc9c1bf8857946105611cf03976e4d7 | fragment sha256 27f6ebce368ec75b2f057afd946d66c2483014755147d3d2f78996f6e98a1485 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

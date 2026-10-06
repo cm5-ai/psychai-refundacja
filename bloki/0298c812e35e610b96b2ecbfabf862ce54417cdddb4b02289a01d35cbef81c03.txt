@@ -1,0 +1,20 @@
+### Tisercin | 25 mg | Tabletki powlekane
+SUBSTANCJA: lewomepromazyna
+NAZWA_HANDLOWA: Tisercin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 01939   format KRAJOWA
+ID_REJESTRU: 100067018   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01939|id=100067018
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6701/characteristic
+SHA256: d7e5b7df72147903175f445ebc8d5fb363de6b83e0dcf744f7f976cc2111524f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01939, magazyn chpl/lewomepromazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tisercin, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d7e5b7df72147903175f445ebc8d5fb363de6b83e0dcf744f7f976cc2111524f | fragment sha256 00f08b0db9d41a2d9195eed8d5f9ed62e3b3448995eaed526b5b39af43e05ce4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01939, magazyn chpl/lewomepromazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tisercin, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d7e5b7df72147903175f445ebc8d5fb363de6b83e0dcf744f7f976cc2111524f | fragment sha256 a14feae60e8b1c6d70394f2931a71ca558cfdc098134c201c19adbc6693259b5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01939, magazyn chpl/lewomepromazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tisercin, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d7e5b7df72147903175f445ebc8d5fb363de6b83e0dcf744f7f976cc2111524f | fragment sha256 baaa4d7ff284824e485a738472b4cd5163b51e9dc5aa75e3058fce23549466f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

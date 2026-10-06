@@ -1,0 +1,20 @@
+### Aripilek | 30 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aripilek   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 22613   format KRAJOWA
+ID_REJESTRU: 100345279   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22613|id=100345279
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34527/characteristic
+SHA256: fe8a66acf989a84a45419feec95bcae4ebdc81d3024f1a1682e2861c40c9c94b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22613, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aripilek, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fe8a66acf989a84a45419feec95bcae4ebdc81d3024f1a1682e2861c40c9c94b | fragment sha256 73d187c8fb75b3727d646c530d1bdc7bafed11a8b0074dcf9b7430ac78e8804f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22613, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aripilek, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fe8a66acf989a84a45419feec95bcae4ebdc81d3024f1a1682e2861c40c9c94b | fragment sha256 4ed2e890cbb03cee5986cb820430d588864b3542d0b9054bf29824495470cc9d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22613, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aripilek, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fe8a66acf989a84a45419feec95bcae4ebdc81d3024f1a1682e2861c40c9c94b | fragment sha256 44469826035469975e85420a22c52d16797d9d23e95e7da31ba4c675ef5f8906 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

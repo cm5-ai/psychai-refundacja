@@ -1,0 +1,20 @@
+### Dobroson | 7,5 mg | Tabletki powlekane
+SUBSTANCJA: zopiklon
+NAZWA_HANDLOWA: Dobroson   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 7,5 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 11737   format KRAJOWA
+ID_REJESTRU: 100140838   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11737|id=100140838
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14083/characteristic
+SHA256: e21ab7336294f8e5baceb3ba5b0fe5aa24950bfea0b67bb5bb3bb496eda8878c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11737, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Dobroson, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e21ab7336294f8e5baceb3ba5b0fe5aa24950bfea0b67bb5bb3bb496eda8878c | fragment sha256 df603fae6224c7ee81153244d598fc43c073772d46da1f0c1134bce1a5650655 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11737, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Dobroson, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e21ab7336294f8e5baceb3ba5b0fe5aa24950bfea0b67bb5bb3bb496eda8878c | fragment sha256 8aaac36c37356f4e748acda53c280f709936adb77272fa1bca9d37caa291cff1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11737, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Dobroson, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e21ab7336294f8e5baceb3ba5b0fe5aa24950bfea0b67bb5bb3bb496eda8878c | fragment sha256 fdffd50c8f6e3fdc788123fb5a8060647a015a868deaa9acd7b6a8a991271ffe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

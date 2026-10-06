@@ -1,0 +1,20 @@
+### Comfortin | 25 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Comfortin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 26696   format KRAJOWA
+ID_REJESTRU: 100381520   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26696|id=100381520
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38152/characteristic
+SHA256: bd6c676339467573d5d79ba29e2923d32088c00808e44a9d8d5dbfb39cc85592
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26696, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Comfortin, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 bd6c676339467573d5d79ba29e2923d32088c00808e44a9d8d5dbfb39cc85592 | fragment sha256 43a0367a4842ca7b25cae29caf7b71ce2fa059f4f56a535253181f87135bd3f8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26696, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Comfortin, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 bd6c676339467573d5d79ba29e2923d32088c00808e44a9d8d5dbfb39cc85592 | fragment sha256 a19a04669641007aad532f5ef9e99ff2f48f3ac0a389354ddfeba99e14b188a7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26696, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Comfortin, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 bd6c676339467573d5d79ba29e2923d32088c00808e44a9d8d5dbfb39cc85592 | fragment sha256 b5a95e2dbc3d18199bda600a3e9896a1d1b89891f495c64f34d59cf163cc3db4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

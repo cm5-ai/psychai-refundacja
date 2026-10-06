@@ -1,0 +1,20 @@
+### Risperidone Grindeks | 2 mg | Tabletki powlekane
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Risperidone Grindeks   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28333   format KRAJOWA
+ID_REJESTRU: 100462279   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28333|id=100462279
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46227/characteristic
+SHA256: 7aac9f96afdd2c32e88c618e5d73759e70cde1cc9725dcb1a6b9387bff0984e2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28333, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Risperidone Grindeks, 2 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7aac9f96afdd2c32e88c618e5d73759e70cde1cc9725dcb1a6b9387bff0984e2 | fragment sha256 e6f62a230395e89f8864161097232f83742fb9696be7f174166440700e8dd4f6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28333, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Risperidone Grindeks, 2 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7aac9f96afdd2c32e88c618e5d73759e70cde1cc9725dcb1a6b9387bff0984e2 | fragment sha256 63ef6d69218c8cc60710cf20607d93a46fe485dc783f055685e6ae046075a68c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28333, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Risperidone Grindeks, 2 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7aac9f96afdd2c32e88c618e5d73759e70cde1cc9725dcb1a6b9387bff0984e2 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

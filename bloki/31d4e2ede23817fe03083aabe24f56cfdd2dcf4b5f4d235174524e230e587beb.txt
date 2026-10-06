@@ -1,0 +1,16 @@
+### Afobam | 0,25 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Afobam   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,25 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 310/22   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100472309   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|310/22|id=100472309
+WSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: W magazynie lezy dokument o tej samej nazwie, mocy i postaci, ale nic nie wiaze go z ta rejestracja, bo zgodnosc nazwy jest podobienstwem, nie rownoscia identyfikatora, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+KANDYDAT_DO_SPRAWDZENIA: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23223/characteristic
+

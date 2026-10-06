@@ -1,0 +1,20 @@
+### Yasnal | 10 mg | Tabletki powlekane
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Yasnal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 09933   format KRAJOWA
+ID_REJESTRU: 100113570   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09933|id=100113570
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11357/characteristic
+SHA256: d964f40b831b69769cb0ed9e5f6d8c6aaa7ee153f666b3e1b2d90456d6f413bf
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09933, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Yasnal, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d964f40b831b69769cb0ed9e5f6d8c6aaa7ee153f666b3e1b2d90456d6f413bf | fragment sha256 96b5535eaeeea424dab8909f84b74c3db8c5b03c0f42d6f3140775c9cfd74bae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09933, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Yasnal, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d964f40b831b69769cb0ed9e5f6d8c6aaa7ee153f666b3e1b2d90456d6f413bf | fragment sha256 c737cef3f3010e0173e68cd0933b08fe0b42de13ded16126828048b63e9f492d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09933, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Yasnal, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d964f40b831b69769cb0ed9e5f6d8c6aaa7ee153f666b3e1b2d90456d6f413bf | fragment sha256 09ff213d8c27deab69df2893004b387edd930cabe1ecb1fd1c633bdf96d0616d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

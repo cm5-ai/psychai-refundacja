@@ -1,0 +1,20 @@
+### Coaxil | 12,5 mg | Tabletki powlekane
+SUBSTANCJA: tianeptyna
+NAZWA_HANDLOWA: Coaxil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 12,5 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 03702   format KRAJOWA
+ID_REJESTRU: 100015168   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03702|id=100015168
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1516/characteristic
+SHA256: 9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03702, magazyn chpl/tianeptyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Coaxil, 12,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521 | fragment sha256 d88d6f398b3f63720697d70dc24012133ef392f91c51dda0779dbdebab321641 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03702, magazyn chpl/tianeptyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Coaxil, 12,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521 | fragment sha256 21ac8be731948aac82ee88f29faf3b914efeac16868a10e4e55bb5dde366fad6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03702, magazyn chpl/tianeptyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Coaxil, 12,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9e5d82627328bff7b3101dbabc0a8b504d248deabc98b0bd5399f8c861157521 | fragment sha256 b02281bbfff17dbf491d5c6de83f04d78b4f14d8aae158e1ba5fbd29949ea8d7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

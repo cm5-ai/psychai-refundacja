@@ -1,0 +1,20 @@
+### Lamitrin | 50 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Lamitrin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 03462   format KRAJOWA
+ID_REJESTRU: 100232204   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03462|id=100232204
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23220/characteristic
+SHA256: d10d823cb416f40cc14f5c4336b264838b58a859c3309cebe4aac9f25a9e4776
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03462, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lamitrin, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d10d823cb416f40cc14f5c4336b264838b58a859c3309cebe4aac9f25a9e4776 | fragment sha256 720d0fcb3d96000796d3885612d487821f749640f2faa07dd7cc3c9d78bcbabe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03462, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lamitrin, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d10d823cb416f40cc14f5c4336b264838b58a859c3309cebe4aac9f25a9e4776 | fragment sha256 c177519b019da528350063a63f7955c92437d81c73c7b6873ee06426f5d31794 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03462, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lamitrin, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d10d823cb416f40cc14f5c4336b264838b58a859c3309cebe4aac9f25a9e4776 | fragment sha256 d737090c3de8606a5dd15589f1cc15c889f84871ca0b4f5466c6ecfd24585b12 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

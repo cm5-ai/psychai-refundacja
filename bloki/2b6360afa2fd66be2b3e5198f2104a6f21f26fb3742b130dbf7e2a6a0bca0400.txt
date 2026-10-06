@@ -1,0 +1,20 @@
+### Vortioxetine Aristo | 20 mg | Tabletki powlekane
+SUBSTANCJA: wortioksetyna
+NAZWA_HANDLOWA: Vortioxetine Aristo   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 29687   format KRAJOWA
+ID_REJESTRU: 100500552   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29687|id=100500552
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50055/characteristic
+SHA256: 7442c00b080bc8773d992972fd88fd9c61018eaa856c6729ab45c2aa6a4aaddb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29687, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Vortioxetine Aristo, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7442c00b080bc8773d992972fd88fd9c61018eaa856c6729ab45c2aa6a4aaddb | fragment sha256 e01d2c7c1259e090892ed98e4254955b1ccc409c46bb25b362c231a31419d33e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29687, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Vortioxetine Aristo, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7442c00b080bc8773d992972fd88fd9c61018eaa856c6729ab45c2aa6a4aaddb | fragment sha256 4360900c56b0b49d52cdd20fbd45e943d4f483f75ca840f938a2039856daf4df | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29687, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Vortioxetine Aristo, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7442c00b080bc8773d992972fd88fd9c61018eaa856c6729ab45c2aa6a4aaddb | fragment sha256 7338e28f3ae27cd1069caaec9c519880862f36f019799554720c6f5dd40358f4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

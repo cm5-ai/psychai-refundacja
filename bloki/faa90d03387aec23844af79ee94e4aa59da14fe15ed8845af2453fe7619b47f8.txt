@@ -1,0 +1,20 @@
+### Memantine Grindeks | 10 mg | Tabletki powlekane
+SUBSTANCJA: memantyna
+NAZWA_HANDLOWA: Memantine Grindeks   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 26911   format KRAJOWA
+ID_REJESTRU: 100435440   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26911|id=100435440
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43544/characteristic
+SHA256: dd55468bb2d9ed3e1686c7633a14f54cbde699cd24392213bffed987c42dfe9c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26911, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Memantine Grindeks, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 dd55468bb2d9ed3e1686c7633a14f54cbde699cd24392213bffed987c42dfe9c | fragment sha256 2a688b3b61bdb30acdaf0c936fb698e43642ab6585425f08574e14507e85ad7c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26911, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Memantine Grindeks, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 dd55468bb2d9ed3e1686c7633a14f54cbde699cd24392213bffed987c42dfe9c | fragment sha256 98dce64f163f41c259c279af1a802d394530fd528112e2fc4dd075671e8f350f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26911, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Memantine Grindeks, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 dd55468bb2d9ed3e1686c7633a14f54cbde699cd24392213bffed987c42dfe9c | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

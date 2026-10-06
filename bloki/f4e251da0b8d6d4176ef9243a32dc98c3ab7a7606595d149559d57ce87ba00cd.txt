@@ -1,0 +1,20 @@
+### Lorabex | 1 mg | Tabletki
+SUBSTANCJA: lorazepam
+NAZWA_HANDLOWA: Lorabex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 25881   format KRAJOWA
+ID_REJESTRU: 100412596   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25881|id=100412596
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41259/characteristic
+SHA256: 9ae64b45b8ffed43ad507cc20e7d747c53c244ad7876e28ed1a4e3c5371a5fc6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25881, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lorabex, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9ae64b45b8ffed43ad507cc20e7d747c53c244ad7876e28ed1a4e3c5371a5fc6 | fragment sha256 018d6ad6d9a2799bbff9aca7f9785be83b621258b11f9eaadaac6c910304bc32 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25881, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lorabex, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9ae64b45b8ffed43ad507cc20e7d747c53c244ad7876e28ed1a4e3c5371a5fc6 | fragment sha256 2b34b846bb07305136417907975031219ee239006684095a0ea6c194754719ce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25881, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lorabex, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9ae64b45b8ffed43ad507cc20e7d747c53c244ad7876e28ed1a4e3c5371a5fc6 | fragment sha256 9a6dc2dcf4f318b1a3dea8619e48449e3a9928b3f2bc9834c6c4afaf9eb3fca8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Miansegen | 30 mg | Tabletki powlekane
+SUBSTANCJA: mianseryna
+NAZWA_HANDLOWA: Miansegen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 08839   format KRAJOWA
+ID_REJESTRU: 100102631   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08839|id=100102631
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10263/characteristic
+SHA256: 8283abc61b40bd5c6db59f4d2d221d8a698265fa71ef0bd31010322988a116ad
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08839, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Miansegen, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8283abc61b40bd5c6db59f4d2d221d8a698265fa71ef0bd31010322988a116ad | fragment sha256 4ff81ee3f37ab49c634ba3f273f1f58b8ede0a2404f997834812f9aaf67cad93 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08839, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Miansegen, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8283abc61b40bd5c6db59f4d2d221d8a698265fa71ef0bd31010322988a116ad | fragment sha256 9404a01bc401d791481baafb310e7d152b0468535358ecd8f659f9f160c809bb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08839, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Miansegen, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8283abc61b40bd5c6db59f4d2d221d8a698265fa71ef0bd31010322988a116ad | fragment sha256 d251c3b58748cdf36ff50d6c497f76ee4264408b2d3c5c87a02e5ef3b390fd7e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

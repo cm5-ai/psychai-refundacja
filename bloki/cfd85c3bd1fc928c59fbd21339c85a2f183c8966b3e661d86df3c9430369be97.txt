@@ -1,0 +1,20 @@
+### Preato | 75 mg | Tabletki
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Preato   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 25295   format KRAJOWA
+ID_REJESTRU: 100394639   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25295|id=100394639
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39463/characteristic
+SHA256: a359b9f99aafabdf1d5d80f6abe67c8fb2c6cabb23781527562a6987fb5245f9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25295, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Preato, 75 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a359b9f99aafabdf1d5d80f6abe67c8fb2c6cabb23781527562a6987fb5245f9 | fragment sha256 f41769eebe945987e78e062edff2e8c5bb3e89e70aae1eee74661cd00d939894 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25295, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Preato, 75 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a359b9f99aafabdf1d5d80f6abe67c8fb2c6cabb23781527562a6987fb5245f9 | fragment sha256 30674d119f506dabf7fd66cc12a9dae42c68200294873fcd47c36b4017165d95 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25295, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Preato, 75 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a359b9f99aafabdf1d5d80f6abe67c8fb2c6cabb23781527562a6987fb5245f9 | fragment sha256 3608d63a02c83e2981aef1438d6fe9d0a0824424d5284488e24101a9e81d4199 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

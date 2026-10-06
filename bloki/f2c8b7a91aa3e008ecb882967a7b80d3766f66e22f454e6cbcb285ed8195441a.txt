@@ -1,0 +1,20 @@
+### Agomelatine G.L. Pharma | 25 mg | Tabletki powlekane
+SUBSTANCJA: agomelatyna
+NAZWA_HANDLOWA: Agomelatine G.L. Pharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 25201   format KRAJOWA
+ID_REJESTRU: 100401842   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25201|id=100401842
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40184/characteristic
+SHA256: 2d683cfc5952be149f66344a350b66c54c75c6d081a7f1a0fd3677d33cb069c0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25201, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Agomelatine G.L. Pharma, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2d683cfc5952be149f66344a350b66c54c75c6d081a7f1a0fd3677d33cb069c0 | fragment sha256 97bc8c74a9a4185752629079c9fdef344ca07c135924def9bd67f364f85e6ae7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25201, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Agomelatine G.L. Pharma, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2d683cfc5952be149f66344a350b66c54c75c6d081a7f1a0fd3677d33cb069c0 | fragment sha256 e1ca7f0caf76b26ca06f4e50818573a602b079d50c206a13273167c2e0a4198f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25201, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Agomelatine G.L. Pharma, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2d683cfc5952be149f66344a350b66c54c75c6d081a7f1a0fd3677d33cb069c0 | fragment sha256 0b32fbc2cf7564800f12a6981ff202eb17c6a32094614cda2d1c51f1686d11da | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

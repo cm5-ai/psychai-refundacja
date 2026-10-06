@@ -1,0 +1,20 @@
+### Doxepin Teva | 10 mg | Kapsułki twarde
+SUBSTANCJA: doksepina
+NAZWA_HANDLOWA: Doxepin Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 00549   format KRAJOWA
+ID_REJESTRU: 100020519   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|00549|id=100020519
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2051/characteristic
+SHA256: a88b6517a9ee5a3c78822aca0b47c305ca70f597a9c9e9b11041aeec6dc081eb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 00549, magazyn chpl/doksepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Doxepin Teva, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 a88b6517a9ee5a3c78822aca0b47c305ca70f597a9c9e9b11041aeec6dc081eb | fragment sha256 3eca30587810f135dc5be9d9bb58751736c7a3c4e3f0bd0e03b7c61218462404 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00549, magazyn chpl/doksepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Doxepin Teva, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 a88b6517a9ee5a3c78822aca0b47c305ca70f597a9c9e9b11041aeec6dc081eb | fragment sha256 13869256ce0cacb97879f348761f6ae402c828e0cec0b9197686c405360c5df7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00549, magazyn chpl/doksepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Doxepin Teva, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 a88b6517a9ee5a3c78822aca0b47c305ca70f597a9c9e9b11041aeec6dc081eb | fragment sha256 e766cd010ae0e009eb5b6570e16874728c7afbc8124cca35d290b1b00d5604f6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Sympramol | 50 mg | Tabletki drażowane
+SUBSTANCJA: opipramol
+NAZWA_HANDLOWA: Sympramol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki drażowane
+STAN: AKTUALNA
+IDENTYFIKATOR: 12777   format KRAJOWA
+ID_REJESTRU: 100028194   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12777|id=100028194
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2819/characteristic
+SHA256: d694e31ab464376fec33f8400c0369e03423fa855312ca5aab57936df05b051f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12777, magazyn chpl/opipramol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sympramol, 50 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 d694e31ab464376fec33f8400c0369e03423fa855312ca5aab57936df05b051f | fragment sha256 ba6f49722c3800ba7c700fc3c1af937a5150a90cd4688aeeaa1cf69bb9c3d535 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12777, magazyn chpl/opipramol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sympramol, 50 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 d694e31ab464376fec33f8400c0369e03423fa855312ca5aab57936df05b051f | fragment sha256 cfaf050be52b4e1c3c29e1acd00d7df5fb1eeb8357f0ef085dd8ca82a6a5fa6a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12777, magazyn chpl/opipramol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sympramol, 50 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 d694e31ab464376fec33f8400c0369e03423fa855312ca5aab57936df05b051f | fragment sha256 bf3cc746ce056661cc5f6ab1cbe2d8bfa1ab8b4a195c5febead426a891b29bd6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Tranxene | 10 mg | Kapsułki
+SUBSTANCJA: klorazepat
+NAZWA_HANDLOWA: Tranxene   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Kapsułki
+STAN: AKTUALNA
+IDENTYFIKATOR: 00320   format KRAJOWA
+ID_REJESTRU: 100067544   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|00320|id=100067544
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6754/characteristic
+SHA256: 9f7bbe37b61ec1e63da5fceb846a07af0e4a323162bea21a7d962f54dc9d8838
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 00320, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tranxene, 10 mg, Kapsułki | pobrano 2026-09-23 | dokument sha256 9f7bbe37b61ec1e63da5fceb846a07af0e4a323162bea21a7d962f54dc9d8838 | fragment sha256 fd6d0093946511a7c1f7c9810709260550ec3ecc9212eb27a36c633915871949 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00320, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tranxene, 10 mg, Kapsułki | pobrano 2026-09-23 | dokument sha256 9f7bbe37b61ec1e63da5fceb846a07af0e4a323162bea21a7d962f54dc9d8838 | fragment sha256 56904710a35c719550d7ca7bb0f09fda91181ece21d37592af984ed485b33de9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00320, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tranxene, 10 mg, Kapsułki | pobrano 2026-09-23 | dokument sha256 9f7bbe37b61ec1e63da5fceb846a07af0e4a323162bea21a7d962f54dc9d8838 | fragment sha256 2cf01445462ba949fcd7df9c69aad4c6c72b6a03cb78e95fce3c1c85b31b24db | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

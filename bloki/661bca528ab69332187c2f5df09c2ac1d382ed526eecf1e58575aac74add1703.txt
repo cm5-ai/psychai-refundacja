@@ -1,0 +1,20 @@
+### Convival Chrono | 300 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: walproinian
+NAZWA_HANDLOWA: Convival Chrono   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 26335   format KRAJOWA
+ID_REJESTRU: 100413041   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26335|id=100413041
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41304/characteristic
+SHA256: 086a85e5f7184c1d1c6486bcc31b2ceb63a5a3fb925d88f87a5688d507508a64
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26335, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Convival Chrono, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 086a85e5f7184c1d1c6486bcc31b2ceb63a5a3fb925d88f87a5688d507508a64 | fragment sha256 a51e7c30a0897b1012b64d5523e2579a44847106b1ddd4752cb9e59021649259 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26335, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Convival Chrono, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 086a85e5f7184c1d1c6486bcc31b2ceb63a5a3fb925d88f87a5688d507508a64 | fragment sha256 d065ae331d583aca2cd45b9ad6a10f02ba45ebd75640ec21dd7a87a848278565 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26335, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Convival Chrono, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 086a85e5f7184c1d1c6486bcc31b2ceb63a5a3fb925d88f87a5688d507508a64 | fragment sha256 3d8ee33a3a1ac5937b4ec8429eed17bac3fb54acae73517bb15804755236305a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

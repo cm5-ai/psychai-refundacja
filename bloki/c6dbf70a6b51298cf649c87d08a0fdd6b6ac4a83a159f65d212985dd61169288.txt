@@ -1,0 +1,20 @@
+### Aribit ODT | 10 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aribit ODT   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 22851   format KRAJOWA
+ID_REJESTRU: 100350910   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22851|id=100350910
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35091/characteristic
+SHA256: 1e6b2927b02c4e7ccf8b647d6220a71b5cea50ad53ce004c97a68f5479a0ca36
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22851, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aribit ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 1e6b2927b02c4e7ccf8b647d6220a71b5cea50ad53ce004c97a68f5479a0ca36 | fragment sha256 5e745d390cae4a6e7f3fd6cb061b8858263daf7683d4cedb000d206bdd3ceee6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22851, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aribit ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 1e6b2927b02c4e7ccf8b647d6220a71b5cea50ad53ce004c97a68f5479a0ca36 | fragment sha256 7b40e78646482f2dc7c03b94b634e9a923fbf8877babe4ded7427d38831f1cea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22851, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aribit ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 1e6b2927b02c4e7ccf8b647d6220a71b5cea50ad53ce004c97a68f5479a0ca36 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Donepezil Bluefish | 10 mg | Tabletki powlekane
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Donepezil Bluefish   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 17476   format KRAJOWA
+ID_REJESTRU: 100234947   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17476|id=100234947
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23494/characteristic
+SHA256: 57364a1027b1e190d4a35abd707dcbdb5de8f8f356dfaab4c64d1994c12b33ad
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17476, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Donepezil Bluefish, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 57364a1027b1e190d4a35abd707dcbdb5de8f8f356dfaab4c64d1994c12b33ad | fragment sha256 ad9fa033774076cc8833862ca01a84a6dc5e554f7243a33599cadef04766a3d6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17476, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Donepezil Bluefish, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 57364a1027b1e190d4a35abd707dcbdb5de8f8f356dfaab4c64d1994c12b33ad | fragment sha256 6334f4a4a7d767d2011e4a726651bca437dafbed7ee60ebe39a37de6f414d15b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17476, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Donepezil Bluefish, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 57364a1027b1e190d4a35abd707dcbdb5de8f8f356dfaab4c64d1994c12b33ad | fragment sha256 5533fc6b8da416278938d7653c1f935ac8661fa7b3296f9bc86e7dd0e203e337 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

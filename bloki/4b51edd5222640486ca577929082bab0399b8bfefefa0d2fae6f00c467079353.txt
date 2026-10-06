@@ -1,0 +1,20 @@
+### Lamitrin | 100 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Lamitrin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 03463   format KRAJOWA
+ID_REJESTRU: 100036673   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03463|id=100036673
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3667/characteristic
+SHA256: c8542422efb0864a6544e1c973970a7ec5b1996c8cc16ed43eaa79f50336772e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03463, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lamitrin, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c8542422efb0864a6544e1c973970a7ec5b1996c8cc16ed43eaa79f50336772e | fragment sha256 720d0fcb3d96000796d3885612d487821f749640f2faa07dd7cc3c9d78bcbabe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03463, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lamitrin, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c8542422efb0864a6544e1c973970a7ec5b1996c8cc16ed43eaa79f50336772e | fragment sha256 c177519b019da528350063a63f7955c92437d81c73c7b6873ee06426f5d31794 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03463, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lamitrin, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c8542422efb0864a6544e1c973970a7ec5b1996c8cc16ed43eaa79f50336772e | fragment sha256 d737090c3de8606a5dd15589f1cc15c889f84871ca0b4f5466c6ecfd24585b12 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

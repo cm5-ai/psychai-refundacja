@@ -1,0 +1,20 @@
+### Symla | 50 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Symla   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 09725   format KRAJOWA
+ID_REJESTRU: 100111481   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09725|id=100111481
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11148/characteristic
+SHA256: 867bcfe7d8cbfa7d09854960cf83f59eff7ba7ed620d5a56996c48f513d786a8
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09725, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symla, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 867bcfe7d8cbfa7d09854960cf83f59eff7ba7ed620d5a56996c48f513d786a8 | fragment sha256 8bb5c2aa4c5aa88c031a53bcb396db11b0022ea1c9b74d02d9d1ddbc072b2798 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09725, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symla, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 867bcfe7d8cbfa7d09854960cf83f59eff7ba7ed620d5a56996c48f513d786a8 | fragment sha256 df0f94a4f7ecb9418371562377152a340a383f86a88a5a17f000814edd784605 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09725, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symla, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 867bcfe7d8cbfa7d09854960cf83f59eff7ba7ed620d5a56996c48f513d786a8 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

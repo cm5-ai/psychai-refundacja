@@ -1,0 +1,20 @@
+### Oriven | 150 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Oriven   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 16981   format KRAJOWA
+ID_REJESTRU: 100230725   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16981|id=100230725
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23072/characteristic
+SHA256: 2e0e6563ebd5f74ec48f626741518130b1e3c9e444207cf4425a654a9287cfba
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16981, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oriven, 150 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2e0e6563ebd5f74ec48f626741518130b1e3c9e444207cf4425a654a9287cfba | fragment sha256 18719ee2623ff4fc680b7fe5a598be3c775b64f259dd43ddbdd8e119e6a802d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16981, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oriven, 150 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2e0e6563ebd5f74ec48f626741518130b1e3c9e444207cf4425a654a9287cfba | fragment sha256 cf9a6ff46396298b0272c7cfe64cdd9e5dbcd408753fd1825d76793c560f2af3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16981, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oriven, 150 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2e0e6563ebd5f74ec48f626741518130b1e3c9e444207cf4425a654a9287cfba | fragment sha256 f12f1b89136ea43ae5539d7b320f0fa768c250105e2777e18c76518800ffabcb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

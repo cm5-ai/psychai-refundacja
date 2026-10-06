@@ -1,0 +1,20 @@
+### Oksazepam TZF | 10 mg | Tabletki powlekane
+SUBSTANCJA: oksazepam
+NAZWA_HANDLOWA: Oksazepam TZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 07148   format KRAJOWA
+ID_REJESTRU: 100075845   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07148|id=100075845
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7584/characteristic
+SHA256: 588b6c374e992190d107f2b7cef6126c77f3669396207cf857e0ad8fe93d6416
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07148, magazyn chpl/oksazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oksazepam TZF, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 588b6c374e992190d107f2b7cef6126c77f3669396207cf857e0ad8fe93d6416 | fragment sha256 748deaf84092360901ac0268a8447177c6e3b233499f980128019d80333bf0ca | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07148, magazyn chpl/oksazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oksazepam TZF, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 588b6c374e992190d107f2b7cef6126c77f3669396207cf857e0ad8fe93d6416 | fragment sha256 c93d90687595124e42aab22d66a716f20a68886ed301c79c315c5ace880086b1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07148, magazyn chpl/oksazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oksazepam TZF, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 588b6c374e992190d107f2b7cef6126c77f3669396207cf857e0ad8fe93d6416 | fragment sha256 286439421415807b40d928f90c655395b9e94c1bded133e8df3603e9ca269dbf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

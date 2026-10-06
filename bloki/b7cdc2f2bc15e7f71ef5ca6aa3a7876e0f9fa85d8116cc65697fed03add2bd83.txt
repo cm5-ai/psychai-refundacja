@@ -1,0 +1,20 @@
+### ValproLEK 500 | 500 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: walproinian
+NAZWA_HANDLOWA: ValproLEK 500   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 500 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 12376   format KRAJOWA
+ID_REJESTRU: 100163555   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12376|id=100163555
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16355/characteristic
+SHA256: 0e6f18f5fb2695ad03922839dbeefe8adc5c95838681eb9cf650a00258db0d03
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12376, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ValproLEK 500, 500 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0e6f18f5fb2695ad03922839dbeefe8adc5c95838681eb9cf650a00258db0d03 | fragment sha256 3c48b8efc5d7588fc89eb1f31c1e24c51c0e4c840b93f0096e3dda91bb948928 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12376, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ValproLEK 500, 500 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0e6f18f5fb2695ad03922839dbeefe8adc5c95838681eb9cf650a00258db0d03 | fragment sha256 3d68f8169fb111d0e5a9f3babd9403e2f11b3016e124da88fa3b9d2e4c9bb21b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12376, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ValproLEK 500, 500 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0e6f18f5fb2695ad03922839dbeefe8adc5c95838681eb9cf650a00258db0d03 | fragment sha256 9c6ebda560fd20c6a2a1e158578fbae603ea1ab44bb82f8dfd5c9feb6811ed39 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

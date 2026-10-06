@@ -1,0 +1,20 @@
+### Finlepsin | 200 mg | Tabletki
+SUBSTANCJA: karbamazepina
+NAZWA_HANDLOWA: Finlepsin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 10141   format KRAJOWA
+ID_REJESTRU: 100116679   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10141|id=100116679
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11667/characteristic
+SHA256: 868a921998edcd4416ed416441c4a54bf395a2016a16152df5e831cae8596339
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10141, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Finlepsin, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 868a921998edcd4416ed416441c4a54bf395a2016a16152df5e831cae8596339 | fragment sha256 fa235e673f1ba480323e636727452f5bcfcee83bd426692dcfb080eaf8172ddb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10141, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Finlepsin, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 868a921998edcd4416ed416441c4a54bf395a2016a16152df5e831cae8596339 | fragment sha256 4ab35cc295d3b23596de0e494f9f0e6ff1f4feb9570dd8903d40ac24f49bac8d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10141, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Finlepsin, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 868a921998edcd4416ed416441c4a54bf395a2016a16152df5e831cae8596339 | fragment sha256 4f670452821ce32e2166ceddf8d48f07cb68fc4d42c2029c85805fced94524d2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

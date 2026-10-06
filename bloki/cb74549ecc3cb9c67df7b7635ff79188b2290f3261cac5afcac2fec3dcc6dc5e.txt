@@ -1,0 +1,20 @@
+### Zypsila | 60 mg | Kapsułki twarde
+SUBSTANCJA: ziprasidon
+NAZWA_HANDLOWA: Zypsila   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 60 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 15092   format KRAJOWA
+ID_REJESTRU: 100204426   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15092|id=100204426
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20442/characteristic
+SHA256: b8dbfd0aceb33a6e56d50aa769743dfda12fb3ae735b7f76719f1c3142fde653
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15092, magazyn chpl/ziprasidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zypsila, 60 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b8dbfd0aceb33a6e56d50aa769743dfda12fb3ae735b7f76719f1c3142fde653 | fragment sha256 c462f73e21f5d149479befc88e6ee66192d9d341205235211466063f052ea37a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15092, magazyn chpl/ziprasidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zypsila, 60 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b8dbfd0aceb33a6e56d50aa769743dfda12fb3ae735b7f76719f1c3142fde653 | fragment sha256 98e219d5cc835d451f6e9a3043356d37f5f9c2d526b1927383782ff90dfac051 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15092, magazyn chpl/ziprasidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zypsila, 60 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b8dbfd0aceb33a6e56d50aa769743dfda12fb3ae735b7f76719f1c3142fde653 | fragment sha256 9b6b134fd45992146bff747eb8c28496567eb6b7887b4e4a4357b1b4ce470b3d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

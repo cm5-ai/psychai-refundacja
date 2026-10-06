@@ -1,0 +1,20 @@
+### Trileptal | 300 mg | Tabletki powlekane
+SUBSTANCJA: okskarbazepina
+NAZWA_HANDLOWA: Trileptal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 08256   format KRAJOWA
+ID_REJESTRU: 100232196   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08256|id=100232196
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23219/characteristic
+SHA256: 8d04e40b3d80ba557226d8700d777ab974edeeece948970aeeebe1d9939ee1c3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08256, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Trileptal, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8d04e40b3d80ba557226d8700d777ab974edeeece948970aeeebe1d9939ee1c3 | fragment sha256 01d7aa75bb5ee2812660dbceed544f110e5baaa2a8ea2a9c1e38382341e4fd19 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08256, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Trileptal, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8d04e40b3d80ba557226d8700d777ab974edeeece948970aeeebe1d9939ee1c3 | fragment sha256 63c00d1d5b4f620509c7bfca517e7f0e236b25d59a8437b3dc04ee96e76978f9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08256, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Trileptal, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8d04e40b3d80ba557226d8700d777ab974edeeece948970aeeebe1d9939ee1c3 | fragment sha256 75c8387660797c391cad8abe9b08d2a720d60389100e29050a34f91486a7894b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

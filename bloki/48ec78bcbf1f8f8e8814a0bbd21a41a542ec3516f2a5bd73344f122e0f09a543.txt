@@ -1,0 +1,20 @@
+### Amipryd | 200 mg | Tabletki
+SUBSTANCJA: amisulpryd
+NAZWA_HANDLOWA: Amipryd   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 25529   format KRAJOWA
+ID_REJESTRU: 100406383   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25529|id=100406383
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40638/characteristic
+SHA256: fe95fdb2e806c0fb27bcf02f4b5c9ec72b584d1fe04f7b4beca97b431091ac92
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25529, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Amipryd, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fe95fdb2e806c0fb27bcf02f4b5c9ec72b584d1fe04f7b4beca97b431091ac92 | fragment sha256 5ebb9a5add8280605a1e07b25026ff38f2c58c1f3d590b43c3f533914c77b594 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25529, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Amipryd, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fe95fdb2e806c0fb27bcf02f4b5c9ec72b584d1fe04f7b4beca97b431091ac92 | fragment sha256 57769c7d07cec276029cd99c506bf72d5e705c69810182318147ea4cf862eb1b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25529, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Amipryd, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fe95fdb2e806c0fb27bcf02f4b5c9ec72b584d1fe04f7b4beca97b431091ac92 | fragment sha256 b52e9be2cdf6e8d5a64fa48c9068f56e70aeb948057dec4a667d28d8817fa5a2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

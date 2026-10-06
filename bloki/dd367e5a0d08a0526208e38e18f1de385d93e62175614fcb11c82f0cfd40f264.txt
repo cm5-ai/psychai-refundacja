@@ -1,0 +1,20 @@
+### Bromox | 6 mg | Kapsułki twarde
+SUBSTANCJA: bromazepam
+NAZWA_HANDLOWA: Bromox   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 6 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 25163   format KRAJOWA
+ID_REJESTRU: 100398873   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25163|id=100398873
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39887/characteristic
+SHA256: 0bcb94cd4f01a48410f3719c38877d74420ac07e1d52fec0fdceb6c8c7953344
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25163, magazyn chpl/bromazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bromox, 6 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0bcb94cd4f01a48410f3719c38877d74420ac07e1d52fec0fdceb6c8c7953344 | fragment sha256 d21c070a515391c94e5cdfd6201346adb059462a39b28c7638428e1760d44ad4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25163, magazyn chpl/bromazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bromox, 6 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0bcb94cd4f01a48410f3719c38877d74420ac07e1d52fec0fdceb6c8c7953344 | fragment sha256 a6d676d6ae68cb8978632a16a630c64150bd547ee309be4d10e93654be086166 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25163, magazyn chpl/bromazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bromox, 6 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0bcb94cd4f01a48410f3719c38877d74420ac07e1d52fec0fdceb6c8c7953344 | fragment sha256 0dcde43c70c27ef6dbc270146397ef06bc8808d2cd9505a19544a56473f36323 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

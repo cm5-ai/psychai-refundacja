@@ -1,0 +1,20 @@
+### Methadone Hydrochloride Molteni | 5 mg/ml | Syrop
+SUBSTANCJA: metadon
+NAZWA_HANDLOWA: Methadone Hydrochloride Molteni   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Syrop
+STAN: AKTUALNA
+IDENTYFIKATOR: 17512   format KRAJOWA
+ID_REJESTRU: 100238626   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17512|id=100238626
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23862/characteristic
+SHA256: 9c9bb1a5d02282b11e577b698cba20712bf75725ae6ff1850bf352ecf1831fd7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17512, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Methadone Hydrochloride Molteni, 5 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 9c9bb1a5d02282b11e577b698cba20712bf75725ae6ff1850bf352ecf1831fd7 | fragment sha256 c88fc2215eb2351a5f2c49aed151ccf7de0b19d41e31272d3ed86147ed7e58ed | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17512, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Methadone Hydrochloride Molteni, 5 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 9c9bb1a5d02282b11e577b698cba20712bf75725ae6ff1850bf352ecf1831fd7 | fragment sha256 c4d9eb15a5556e3f17dadbffed8e5b6a98aeffc8b7fbaf3f9a93438d125067c4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17512, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Methadone Hydrochloride Molteni, 5 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 9c9bb1a5d02282b11e577b698cba20712bf75725ae6ff1850bf352ecf1831fd7 | fragment sha256 65de70440df433f20932c7a8264389182c7d74b22c67270059978f4b80a4c364 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

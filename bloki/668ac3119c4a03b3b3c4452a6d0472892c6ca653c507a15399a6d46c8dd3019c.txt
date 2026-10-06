@@ -1,0 +1,20 @@
+### Bulgaplin | 225 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Bulgaplin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 225 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 28243   format KRAJOWA
+ID_REJESTRU: 100478923   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28243|id=100478923
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47892/characteristic
+SHA256: 3cafc4e9d34a2689c10f4d2f3221b7b9d467e267f07adbd490debf4398d0d8d3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28243, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bulgaplin, 225 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 3cafc4e9d34a2689c10f4d2f3221b7b9d467e267f07adbd490debf4398d0d8d3 | fragment sha256 e0882a4194e93c960a0abc697183ef2d711ffbe63c8470cc64a96b2f947a29f0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28243, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bulgaplin, 225 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 3cafc4e9d34a2689c10f4d2f3221b7b9d467e267f07adbd490debf4398d0d8d3 | fragment sha256 a2288ae3e22d42bf021882f4f297d69eadf2ad3d11d419897851fc161a6932df | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28243, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bulgaplin, 225 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 3cafc4e9d34a2689c10f4d2f3221b7b9d467e267f07adbd490debf4398d0d8d3 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

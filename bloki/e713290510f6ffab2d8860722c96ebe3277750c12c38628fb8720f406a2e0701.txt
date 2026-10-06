@@ -1,0 +1,20 @@
+### Symamis | 400 mg | Tabletki
+SUBSTANCJA: amisulpryd
+NAZWA_HANDLOWA: Symamis   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 400 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 25469   format KRAJOWA
+ID_REJESTRU: 100402787   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25469|id=100402787
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40278/characteristic
+SHA256: a04e70e6ea232343f3b3ca4342df464a44da4eca447fd16f2742a9ac113a7b29
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25469, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symamis, 400 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a04e70e6ea232343f3b3ca4342df464a44da4eca447fd16f2742a9ac113a7b29 | fragment sha256 a7bc04a493316bffed23c0a7e2edfea6137f0c85b7e9f2510d955a2f17aedd7a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25469, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symamis, 400 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a04e70e6ea232343f3b3ca4342df464a44da4eca447fd16f2742a9ac113a7b29 | fragment sha256 b1958a8c2f24d2ba153dd1acff1735a3cc49b6483d93773d567292fdb7a649ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25469, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symamis, 400 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a04e70e6ea232343f3b3ca4342df464a44da4eca447fd16f2742a9ac113a7b29 | fragment sha256 a796ba2db23544f73ca7e54d7a64b2df29013e9321ac682367808b8d7a891854 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

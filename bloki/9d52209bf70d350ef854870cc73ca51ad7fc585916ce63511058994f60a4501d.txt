@@ -1,0 +1,20 @@
+### Abrix | 5 mg | Tabletki powlekane
+SUBSTANCJA: wortioksetyna
+NAZWA_HANDLOWA: Abrix   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28799   format KRAJOWA
+ID_REJESTRU: 100482508   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28799|id=100482508
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48250/characteristic
+SHA256: b6e92cbdd3a5ce3a89c0e45496dbe22e1322f1ab99b5498f6bcb3f37d81b3dea
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28799, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Abrix, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b6e92cbdd3a5ce3a89c0e45496dbe22e1322f1ab99b5498f6bcb3f37d81b3dea | fragment sha256 749d90285aabcfe9d60abb7193cd08bd6ab9b37a192e2d2f4774cc3de5beb26f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28799, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Abrix, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b6e92cbdd3a5ce3a89c0e45496dbe22e1322f1ab99b5498f6bcb3f37d81b3dea | fragment sha256 a12e97920110ecc261ecf86c4de972ba77ab6b098c9d3dfc2748ce82c40faae9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28799, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Abrix, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b6e92cbdd3a5ce3a89c0e45496dbe22e1322f1ab99b5498f6bcb3f37d81b3dea | fragment sha256 7338e28f3ae27cd1069caaec9c519880862f36f019799554720c6f5dd40358f4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

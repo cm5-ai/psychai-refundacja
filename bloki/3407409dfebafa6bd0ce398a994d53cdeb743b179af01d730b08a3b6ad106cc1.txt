@@ -1,0 +1,14 @@
+### Olanzapine Teva | 2,5 mg | Tabletki powlekane
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapine Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2,5 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: BRAK   format NIEJEDNOZNACZNY_EU   id_rejestru=100190836
+UWAGA_IDENTYFIKATORA: opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego
+ID_REJESTRU: 100190836   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NIEJEDNOZNACZNY_EU|-|id=100190836
+DAWKOWANIE: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+

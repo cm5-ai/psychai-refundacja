@@ -1,0 +1,20 @@
+### Olzapin | 20 mg | Tabletki powlekane
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olzapin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28254   format KRAJOWA
+ID_REJESTRU: 100454574   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28254|id=100454574
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45457/characteristic
+SHA256: d9bbebf6aa100a2e6db13f0e0a89fa5f67b0b5bea09a7eb4daaebf6e829b3c1b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28254, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olzapin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d9bbebf6aa100a2e6db13f0e0a89fa5f67b0b5bea09a7eb4daaebf6e829b3c1b | fragment sha256 a5ec2d144ee8a17c59b9583ca9bfe3c520bca8b121b5f3e4430a70aba5ecb4d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28254, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olzapin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d9bbebf6aa100a2e6db13f0e0a89fa5f67b0b5bea09a7eb4daaebf6e829b3c1b | fragment sha256 ff5dab5ca985f5edbed110cf8fca60b997ff6b80c027613756cbd6c5739d32d0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28254, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olzapin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d9bbebf6aa100a2e6db13f0e0a89fa5f67b0b5bea09a7eb4daaebf6e829b3c1b | fragment sha256 3cab68b3ead4c35a44ce247392b83228ec24a7e8e5f0d6e7ed4af94d6e20bfce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

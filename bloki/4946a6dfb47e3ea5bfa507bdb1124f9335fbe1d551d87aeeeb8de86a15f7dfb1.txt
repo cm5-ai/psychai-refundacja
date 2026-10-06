@@ -1,0 +1,20 @@
+### Lamilept | 100 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Lamilept   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 12688   format KRAJOWA
+ID_REJESTRU: 100161651   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12688|id=100161651
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16165/characteristic
+SHA256: 0f441cb62811a78250bcf1c1a233bafa6328383944af02d2ac3be9b891e13926
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12688, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lamilept, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 0f441cb62811a78250bcf1c1a233bafa6328383944af02d2ac3be9b891e13926 | fragment sha256 11da5d41685494751d480f886b8c7a7de51a0d06810319341b51abb3adb2a41a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12688, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lamilept, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 0f441cb62811a78250bcf1c1a233bafa6328383944af02d2ac3be9b891e13926 | fragment sha256 a7e26d80fb4a0ece802de9769dd836e71705b6e2c97f94406267642809cebb92 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12688, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lamilept, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 0f441cb62811a78250bcf1c1a233bafa6328383944af02d2ac3be9b891e13926 | fragment sha256 a34c9b9e4fa6265606a93a4c2435397c9090957a2dc88ebc3be014591968ac12 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

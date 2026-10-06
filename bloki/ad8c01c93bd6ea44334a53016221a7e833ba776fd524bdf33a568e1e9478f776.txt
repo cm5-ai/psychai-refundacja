@@ -1,0 +1,20 @@
+### Adehader | 10 mg | Kapsułki o zmodyfikowanym uwalnianiu, twarde
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Adehader   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Kapsułki o zmodyfikowanym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 28931   format KRAJOWA
+ID_REJESTRU: 100484170   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28931|id=100484170
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48417/characteristic
+SHA256: 4f213fa2e52f88ac6e16ebed1cec896430f69e9663e4cd2aca358b83ea2ab4cd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28931, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Adehader, 10 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 4f213fa2e52f88ac6e16ebed1cec896430f69e9663e4cd2aca358b83ea2ab4cd | fragment sha256 f17be453f54ae7e9fb4947bca6bbf7a88a51a6f489069df2b2cc4547663320f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28931, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Adehader, 10 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 4f213fa2e52f88ac6e16ebed1cec896430f69e9663e4cd2aca358b83ea2ab4cd | fragment sha256 5a792b0c1c3e4d0f7614e4a1b344dc2523a055fa52ee2d041300152cda65ebf8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28931, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Adehader, 10 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 4f213fa2e52f88ac6e16ebed1cec896430f69e9663e4cd2aca358b83ea2ab4cd | fragment sha256 b3b9c2055f3e3c8b2d632d8f65b56274e69d39ce2b95b1ed954ea57d30879637 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Voquily | 1 mg/ml | Roztwór doustny
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Voquily   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Roztwór doustny
+STAN: AKTUALNA
+IDENTYFIKATOR: 27866   format KRAJOWA
+ID_REJESTRU: 100449174   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27866|id=100449174
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44917/characteristic
+SHA256: 48ccf826d08006ae953b1bbd602fb18e4a0269e43e47ea68ac58e2b77926c9c5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27866, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Voquily, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 48ccf826d08006ae953b1bbd602fb18e4a0269e43e47ea68ac58e2b77926c9c5 | fragment sha256 e80c9dce27162750038830b5555f646a3dbbed66b095dba26f40f882c0d6583d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27866, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Voquily, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 48ccf826d08006ae953b1bbd602fb18e4a0269e43e47ea68ac58e2b77926c9c5 | fragment sha256 de1ef93df8830f61582f143d8cc0742e3a99b13dee9b03b5296215ba891ae047 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27866, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Voquily, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 48ccf826d08006ae953b1bbd602fb18e4a0269e43e47ea68ac58e2b77926c9c5 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

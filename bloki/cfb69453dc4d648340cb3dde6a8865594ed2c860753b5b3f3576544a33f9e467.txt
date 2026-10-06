@@ -1,0 +1,20 @@
+### Melabiorytm | 5 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melabiorytm   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 23539   format KRAJOWA
+ID_REJESTRU: 100346882   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23539|id=100346882
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34688/characteristic
+SHA256: 522a3a94dbfd5a0f8f9bf6d6602f221e76a84746f89e1217b2f7c454fc05489c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23539, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melabiorytm, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 522a3a94dbfd5a0f8f9bf6d6602f221e76a84746f89e1217b2f7c454fc05489c | fragment sha256 48890a72919b93e1e8c25e890e5103d31cdf846ef0a840a6b7260f1b7341566e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23539, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melabiorytm, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 522a3a94dbfd5a0f8f9bf6d6602f221e76a84746f89e1217b2f7c454fc05489c | fragment sha256 5b105db20023dd8a9bca848c3e8371d8b285b6692388ed0d472ef2bcb21f9393 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23539, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melabiorytm, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 522a3a94dbfd5a0f8f9bf6d6602f221e76a84746f89e1217b2f7c454fc05489c | fragment sha256 8c4b1b5ac26dfda15c1c7fb61a7a45d55cf8191df0178934ca707b951d3de785 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

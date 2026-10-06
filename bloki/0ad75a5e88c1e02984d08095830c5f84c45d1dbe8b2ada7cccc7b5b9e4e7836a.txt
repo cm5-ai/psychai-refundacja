@@ -1,0 +1,20 @@
+### Parnido | 9 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Parnido   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 9 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 24891   format KRAJOWA
+ID_REJESTRU: 100389673   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24891|id=100389673
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38967/characteristic
+SHA256: 663e16c91a4ef6b895f51a0cf1d0417c32623f400d56a6da2906ff278a5c2e83
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24891, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Parnido, 9 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 663e16c91a4ef6b895f51a0cf1d0417c32623f400d56a6da2906ff278a5c2e83 | fragment sha256 6c789ec63aab7f1a6a76f57f607f7d886f94329b24b15949d2126217c30809c3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24891, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Parnido, 9 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 663e16c91a4ef6b895f51a0cf1d0417c32623f400d56a6da2906ff278a5c2e83 | fragment sha256 36f89ba1a5b1198b5329ca7547a2909ece97dd8d06f2cba8e2aca05c5762989f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24891, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Parnido, 9 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 663e16c91a4ef6b895f51a0cf1d0417c32623f400d56a6da2906ff278a5c2e83 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

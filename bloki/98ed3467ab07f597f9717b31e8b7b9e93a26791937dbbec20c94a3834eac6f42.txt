@@ -1,0 +1,20 @@
+### Egoropal | 150 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Egoropal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 27354   format KRAJOWA
+ID_REJESTRU: 100434965   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27354|id=100434965
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43496/characteristic
+SHA256: 6ecb7b99233f8e7a8171a71b6a1dc5f4dffc0accadc90f659811e5b9f78dfd51
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27354, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Egoropal, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 6ecb7b99233f8e7a8171a71b6a1dc5f4dffc0accadc90f659811e5b9f78dfd51 | fragment sha256 1370b3d7a3ba0abfb9df2afcdf06e2aa507ed15d8cdd2324a4e8bd41ea189028 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27354, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Egoropal, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 6ecb7b99233f8e7a8171a71b6a1dc5f4dffc0accadc90f659811e5b9f78dfd51 | fragment sha256 23fe4cfbc8d83bffc5d7fa6678212b791d93732a3cfc9c1faee852606c29b9c3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27354, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Egoropal, 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 6ecb7b99233f8e7a8171a71b6a1dc5f4dffc0accadc90f659811e5b9f78dfd51 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

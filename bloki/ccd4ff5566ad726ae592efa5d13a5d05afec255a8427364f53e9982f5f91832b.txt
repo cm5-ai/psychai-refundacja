@@ -1,0 +1,20 @@
+### Agomelatyna Egis | 25 mg | Tabletki powlekane
+SUBSTANCJA: agomelatyna
+NAZWA_HANDLOWA: Agomelatyna Egis   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 25001   format KRAJOWA
+ID_REJESTRU: 100392215   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25001|id=100392215
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39221/characteristic
+SHA256: b4a98ce85111aa69c06f48c50b025659a09856564d941bc7efe6cc749fbcf176
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25001, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Agomelatyna Egis, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b4a98ce85111aa69c06f48c50b025659a09856564d941bc7efe6cc749fbcf176 | fragment sha256 508c2965ce91a97e6fbc282a74f7b7ad313a1758bd311c32181c56d0730ea3b5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25001, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Agomelatyna Egis, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b4a98ce85111aa69c06f48c50b025659a09856564d941bc7efe6cc749fbcf176 | fragment sha256 991900e6ad910df2b77ac12259128a96933b851b31601d502e058dbd39e5dda0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25001, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Agomelatyna Egis, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b4a98ce85111aa69c06f48c50b025659a09856564d941bc7efe6cc749fbcf176 | fragment sha256 6e29906f3ac1f44988e7267cf9cb6655b8e928a015af1fe924cc9ef614503c8d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

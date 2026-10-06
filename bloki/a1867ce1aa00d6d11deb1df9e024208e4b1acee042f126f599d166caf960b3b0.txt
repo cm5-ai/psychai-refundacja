@@ -1,0 +1,20 @@
+### Lysmi | 20 mg | Kapsułki twarde
+SUBSTANCJA: lisdeksamfetamina
+NAZWA_HANDLOWA: Lysmi   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 29827   format KRAJOWA
+ID_REJESTRU: 100512598   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29827|id=100512598
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51259/characteristic
+SHA256: 4cfa9e8a42491237d4a2e9ac43e1093e11a8df49bfb77714fdce11805578994c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29827, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lysmi, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 4cfa9e8a42491237d4a2e9ac43e1093e11a8df49bfb77714fdce11805578994c | fragment sha256 1b51cf65a343440b43a6aecfb8de902718bb26be4f64ae37eaf44e9ea260ad94 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29827, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lysmi, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 4cfa9e8a42491237d4a2e9ac43e1093e11a8df49bfb77714fdce11805578994c | fragment sha256 bea27c904ad05a147d3d66151b65bd56a582f9948ffd98300e441310879c8a0d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29827, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lysmi, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 4cfa9e8a42491237d4a2e9ac43e1093e11a8df49bfb77714fdce11805578994c | fragment sha256 e51252abd92553685e11738afea57b5e21e7f701cab2ab9ed9794be29fa28cc1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

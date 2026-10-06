@@ -1,0 +1,20 @@
+### Bunorfin | 2 mg | Tabletki podjęzykowe
+SUBSTANCJA: buprenorfina
+NAZWA_HANDLOWA: Bunorfin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki podjęzykowe
+STAN: AKTUALNA
+IDENTYFIKATOR: 17917   format KRAJOWA
+ID_REJESTRU: 100239502   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17917|id=100239502
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23950/characteristic
+SHA256: 42fbcf770c82ac5199ebb31687df939f3c9556defcd94746a7ac79b345dd1b5b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17917, magazyn chpl/buprenorfina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bunorfin, 2 mg, Tabletki podjęzykowe | pobrano 2026-09-23 | dokument sha256 42fbcf770c82ac5199ebb31687df939f3c9556defcd94746a7ac79b345dd1b5b | fragment sha256 1b801dc9921dd6d788861cbc3b0b6d2b18bfa7fbbd0b661672973ffef980b0c4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17917, magazyn chpl/buprenorfina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bunorfin, 2 mg, Tabletki podjęzykowe | pobrano 2026-09-23 | dokument sha256 42fbcf770c82ac5199ebb31687df939f3c9556defcd94746a7ac79b345dd1b5b | fragment sha256 94446f437f424fd576165ea5f7cab839018bdcdd55866dfe6d25b217e7edf641 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17917, magazyn chpl/buprenorfina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bunorfin, 2 mg, Tabletki podjęzykowe | pobrano 2026-09-23 | dokument sha256 42fbcf770c82ac5199ebb31687df939f3c9556defcd94746a7ac79b345dd1b5b | fragment sha256 d58f36338ae38b49feb249aa14cab1e0bda5696bbda57af05038e9f50d01c5f3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

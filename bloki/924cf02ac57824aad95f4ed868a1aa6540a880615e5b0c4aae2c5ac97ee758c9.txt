@@ -1,0 +1,20 @@
+### Sastium | 50 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Sastium   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 23244   format KRAJOWA
+ID_REJESTRU: 100332466   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23244|id=100332466
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33246/characteristic
+SHA256: 22fcfbf86952e6db7c699f8d0d5fb8cf3679e56232f1c8a112489a80ee9be81e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23244, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sastium, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 22fcfbf86952e6db7c699f8d0d5fb8cf3679e56232f1c8a112489a80ee9be81e | fragment sha256 d07dbfcc123cd8ecb374edf0b0672f920e1372bcda49bce260d563c9736b63d0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23244, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sastium, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 22fcfbf86952e6db7c699f8d0d5fb8cf3679e56232f1c8a112489a80ee9be81e | fragment sha256 ed18a4242e2a74390998cee46b9cc880066d4cdefa827dca94b229e4b6cba756 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23244, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sastium, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 22fcfbf86952e6db7c699f8d0d5fb8cf3679e56232f1c8a112489a80ee9be81e | fragment sha256 9d860478da1181cec6fa8a6b2cd58883eef3a973ce8ab751a433f184300947fa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

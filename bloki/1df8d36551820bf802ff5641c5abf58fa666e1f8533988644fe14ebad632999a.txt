@@ -1,0 +1,20 @@
+### Gabapentyna Teva Pharmaceuticals | 300 mg | Kapsułki twarde
+SUBSTANCJA: gabapentyna
+NAZWA_HANDLOWA: Gabapentyna Teva Pharmaceuticals   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 11847   format KRAJOWA
+ID_REJESTRU: 100145706   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11847|id=100145706
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14570/characteristic
+SHA256: e6c233df7cdb575b339514c44ee7e38a1dee977c01f93c24099e97e53fb2b252
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11847, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Gabapentyna Teva Pharmaceuticals, 300 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 e6c233df7cdb575b339514c44ee7e38a1dee977c01f93c24099e97e53fb2b252 | fragment sha256 27c884bbb872f161b65e4858df19308522ba674bc1c0824556e0a013f93a73b3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11847, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Gabapentyna Teva Pharmaceuticals, 300 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 e6c233df7cdb575b339514c44ee7e38a1dee977c01f93c24099e97e53fb2b252 | fragment sha256 2715dbb96d5714db25fd64e697d2e8cf949d7648f70dd24c5536e95712b8c68f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11847, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Gabapentyna Teva Pharmaceuticals, 300 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 e6c233df7cdb575b339514c44ee7e38a1dee977c01f93c24099e97e53fb2b252 | fragment sha256 bc0a1f36b0c30ecc72218621aba4806ab846f8282d2eb4b96311ce15f15c24d9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

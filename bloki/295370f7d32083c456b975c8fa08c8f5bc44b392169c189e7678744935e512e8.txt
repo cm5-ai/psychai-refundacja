@@ -1,0 +1,20 @@
+### Topiramate Aurovitas | 200 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Topiramate Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 27327   format KRAJOWA
+ID_REJESTRU: 100426109   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27327|id=100426109
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42610/characteristic
+SHA256: c12a06341df640db7962ac9ddcfb3c01a12ef1e098e607213af1d7acd465d9d3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27327, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Topiramate Aurovitas, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c12a06341df640db7962ac9ddcfb3c01a12ef1e098e607213af1d7acd465d9d3 | fragment sha256 d812016d978b781c6030533180cc571f469481722055e5ed07d5fa10ef95d8d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27327, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Topiramate Aurovitas, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c12a06341df640db7962ac9ddcfb3c01a12ef1e098e607213af1d7acd465d9d3 | fragment sha256 8b097fcd653883621995cfa143952081c5e74862b4f1a10e8a673ca084d2bf79 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27327, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Topiramate Aurovitas, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c12a06341df640db7962ac9ddcfb3c01a12ef1e098e607213af1d7acd465d9d3 | fragment sha256 b98257da69dfd88be8342d3f6c1b8bfff8fd23e1a24732f7d622cb0dcca70d96 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

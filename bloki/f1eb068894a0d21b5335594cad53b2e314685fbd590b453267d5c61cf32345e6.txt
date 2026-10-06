@@ -1,0 +1,20 @@
+### Hydroxyzinum Bluefish | 25 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Bluefish   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28360   format KRAJOWA
+ID_REJESTRU: 100479365   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28360|id=100479365
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47936/characteristic
+SHA256: 9e9556f2fe163ffd2d61609fa61a734e286ef48c9428e97c51a97e3cc5146fed
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28360, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Bluefish, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9e9556f2fe163ffd2d61609fa61a734e286ef48c9428e97c51a97e3cc5146fed | fragment sha256 cf23c98a0762dea91bbe9e7fd84be9470b3b8c88a4d04a5ab50b932c833cb1f8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28360, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Bluefish, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9e9556f2fe163ffd2d61609fa61a734e286ef48c9428e97c51a97e3cc5146fed | fragment sha256 e40ea1ed76d65e219ace9ba649445aa035cfc5f4677201c89441e3f7f75f7fc0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28360, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Bluefish, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9e9556f2fe163ffd2d61609fa61a734e286ef48c9428e97c51a97e3cc5146fed | fragment sha256 9a70568049f5ea3e7249652ce6ef160bed08f1ac10f18e891a21b97794213552 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

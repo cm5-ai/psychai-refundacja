@@ -1,0 +1,20 @@
+### Aryfrenix | 30 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aryfrenix   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 26926   format KRAJOWA
+ID_REJESTRU: 100431636   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26926|id=100431636
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43163/characteristic
+SHA256: 4461f8ecf9707421b7fa45bbbea3b8c6b50334bffc7e466809b922e5bd3714a1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26926, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aryfrenix, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4461f8ecf9707421b7fa45bbbea3b8c6b50334bffc7e466809b922e5bd3714a1 | fragment sha256 ef2b8b588239bbc29276ce1587c9defbbd609b058c97d58043e33d251913b198 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26926, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aryfrenix, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4461f8ecf9707421b7fa45bbbea3b8c6b50334bffc7e466809b922e5bd3714a1 | fragment sha256 234ecfa748d082cac501365ecbb278914a8cc5dd04a7484c8a6a8cc731d6a987 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26926, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aryfrenix, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4461f8ecf9707421b7fa45bbbea3b8c6b50334bffc7e466809b922e5bd3714a1 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

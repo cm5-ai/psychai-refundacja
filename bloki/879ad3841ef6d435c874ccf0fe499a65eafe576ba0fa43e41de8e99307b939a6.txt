@@ -1,0 +1,20 @@
+### Nivalin | 5 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: galantamina
+NAZWA_HANDLOWA: Nivalin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+STAN: AKTUALNA
+IDENTYFIKATOR: 01419   format KRAJOWA
+ID_REJESTRU: 100047754   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01419|id=100047754
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4775/characteristic
+SHA256: 67ec622453a2bd72636b6ea18e40bacc124d5bd965790ee2a158cccf2c667fc3
+POBRANO: 2026-09-22
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01419, magazyn chpl/galantamina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Nivalin, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-22 | dokument sha256 67ec622453a2bd72636b6ea18e40bacc124d5bd965790ee2a158cccf2c667fc3 | fragment sha256 d8ac150cdfad303653a9c884b0d994789efaab00de37b122a5198b48938869b2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01419, magazyn chpl/galantamina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Nivalin, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-22 | dokument sha256 67ec622453a2bd72636b6ea18e40bacc124d5bd965790ee2a158cccf2c667fc3 | fragment sha256 02efaa6f38c943d8dd7c06c44b601e59dbc7def9f72fdea7caa5f24076889ca1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01419, magazyn chpl/galantamina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Nivalin, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-22 | dokument sha256 67ec622453a2bd72636b6ea18e40bacc124d5bd965790ee2a158cccf2c667fc3 | fragment sha256 dec3d3a34a423f4a860f3447b9f87e6a425ce3397dc2312c799be60b56e9fa71 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

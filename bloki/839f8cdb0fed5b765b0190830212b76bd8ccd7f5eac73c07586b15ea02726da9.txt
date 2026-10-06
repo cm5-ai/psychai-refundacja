@@ -1,0 +1,20 @@
+### Melatonina Pharma Nord | 3 mg | Tabletki powlekane
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melatonina Pharma Nord   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 3 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 25668   format KRAJOWA
+ID_REJESTRU: 100422643   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25668|id=100422643
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42264/characteristic
+SHA256: 935ea671a207a6ccf7d2f22b3ff92fbd5bfbf5308921fb55c5fba048b8cf6a10
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25668, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melatonina Pharma Nord, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 935ea671a207a6ccf7d2f22b3ff92fbd5bfbf5308921fb55c5fba048b8cf6a10 | fragment sha256 ff505f0d11f61365c5ec64b94f0798a263baba3a48e7224e7d1da9b316bf962c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25668, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melatonina Pharma Nord, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 935ea671a207a6ccf7d2f22b3ff92fbd5bfbf5308921fb55c5fba048b8cf6a10 | fragment sha256 a9bcd3cf720d5312443e4e4324a86c13dd1cb3b7375548b5ef888bf739d55aa9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25668, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melatonina Pharma Nord, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 935ea671a207a6ccf7d2f22b3ff92fbd5bfbf5308921fb55c5fba048b8cf6a10 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

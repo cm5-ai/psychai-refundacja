@@ -1,0 +1,20 @@
+### Clozapine Hasco | 25 mg | Tabletki
+SUBSTANCJA: klozapina
+NAZWA_HANDLOWA: Clozapine Hasco   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 27838   format KRAJOWA
+ID_REJESTRU: 100447726   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27838|id=100447726
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44772/characteristic
+SHA256: 4665fac67e71fb199f550bd7a3d960b5748e36e9e5a12277850668f717ea7448
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27838, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Clozapine Hasco, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4665fac67e71fb199f550bd7a3d960b5748e36e9e5a12277850668f717ea7448 | fragment sha256 b20972177671f68f1c059baa6c48b33aac55624c06b383eb9191eb93abc777c5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27838, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Clozapine Hasco, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4665fac67e71fb199f550bd7a3d960b5748e36e9e5a12277850668f717ea7448 | fragment sha256 31da4f081b039ef456536ba1c7dd55bf214da7d4ab2cbf7a3d63ceb47765ba2d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27838, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Clozapine Hasco, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4665fac67e71fb199f550bd7a3d960b5748e36e9e5a12277850668f717ea7448 | fragment sha256 1f197ee111b8bb42f6a5d1ef743411130066c550ba44b88f90c9bf0c9f17a591 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

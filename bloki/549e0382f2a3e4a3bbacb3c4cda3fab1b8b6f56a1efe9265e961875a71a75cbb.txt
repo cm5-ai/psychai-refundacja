@@ -1,0 +1,20 @@
+### Kamaptin | 40 mg | Kapsułki twarde
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Kamaptin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 28827   format KRAJOWA
+ID_REJESTRU: 100430890   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28827|id=100430890
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43089/characteristic
+SHA256: 77fd16067f9e87a199b7621c0e7735b7dcfb3b8add32316d4fd3be43003c43f1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28827, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kamaptin, 40 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 77fd16067f9e87a199b7621c0e7735b7dcfb3b8add32316d4fd3be43003c43f1 | fragment sha256 6868488af5bccdbd5ccc1b33927c82f10f04848e3b981e3ec734c5760325f728 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28827, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kamaptin, 40 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 77fd16067f9e87a199b7621c0e7735b7dcfb3b8add32316d4fd3be43003c43f1 | fragment sha256 15fa2771dc338dcdb4ed51561bdf2fd84bc1867f9ba667a81c1324d8ca7bd4e7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28827, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kamaptin, 40 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 77fd16067f9e87a199b7621c0e7735b7dcfb3b8add32316d4fd3be43003c43f1 | fragment sha256 4595273a3aee8d082c32610f29877a6f7e19db6645c2778892b31fe16bedc4e3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

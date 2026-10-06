@@ -1,0 +1,20 @@
+### Pram | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Pram   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 11052   format KRAJOWA
+ID_REJESTRU: 100130395   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11052|id=100130395
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13039/characteristic
+SHA256: c262c699ef138048e8819163d7b8a7859b51cb0887b29fe942fd5a09bf323ba0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11052, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pram, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c262c699ef138048e8819163d7b8a7859b51cb0887b29fe942fd5a09bf323ba0 | fragment sha256 ec2f353ec1f2220c6792da065bfb8c22aa1ae9169732aff110d35d3f240e5769 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11052, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pram, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c262c699ef138048e8819163d7b8a7859b51cb0887b29fe942fd5a09bf323ba0 | fragment sha256 59ab913155e2ab788549185ab44e5fedffefd642a3aaf7f9f28641aa4ef48059 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11052, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pram, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c262c699ef138048e8819163d7b8a7859b51cb0887b29fe942fd5a09bf323ba0 | fragment sha256 3c2cc8367a297245924fbbf117fb9816fa6ed695b2dea143409aff507130f375 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

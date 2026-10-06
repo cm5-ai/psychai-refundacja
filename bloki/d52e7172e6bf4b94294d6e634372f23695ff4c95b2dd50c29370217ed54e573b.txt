@@ -1,0 +1,20 @@
+### Propranolol Accord | 40 mg | Tabletki powlekane
+SUBSTANCJA: propranolol
+NAZWA_HANDLOWA: Propranolol Accord   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 20800   format KRAJOWA
+ID_REJESTRU: 100141861   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20800|id=100141861
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14186/characteristic
+SHA256: 8443203f924c137e31fa63c6f8745752e92c0d30457640fff29e2b1a108a2b10
+POBRANO: 2026-09-24
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20800, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Propranolol Accord, 40 mg, Tabletki powlekane | pobrano 2026-09-24 | dokument sha256 8443203f924c137e31fa63c6f8745752e92c0d30457640fff29e2b1a108a2b10 | fragment sha256 378ad7d6556840c57db0f6e686cee6ba6905964fdb6a5578769df66967899088 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20800, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Propranolol Accord, 40 mg, Tabletki powlekane | pobrano 2026-09-24 | dokument sha256 8443203f924c137e31fa63c6f8745752e92c0d30457640fff29e2b1a108a2b10 | fragment sha256 aced7e4b4388fe61a9714e141ae468664e88e127826c30934e8e0479a693c139 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20800, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Propranolol Accord, 40 mg, Tabletki powlekane | pobrano 2026-09-24 | dokument sha256 8443203f924c137e31fa63c6f8745752e92c0d30457640fff29e2b1a108a2b10 | fragment sha256 ed6e42f5dec6c15303298ff10ee35fc979d7e98112ea46241fcc08189c426f21 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

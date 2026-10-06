@@ -1,0 +1,20 @@
+### Hydroxyzinum Espefa | 10 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Espefa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 21427   format KRAJOWA
+ID_REJESTRU: 100247045   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21427|id=100247045
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24704/characteristic
+SHA256: 6d1b224f1a0ce163dd8fbe5d6789803c8cf26f32161e8e7fd0a41438fd847ff1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21427, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Espefa, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6d1b224f1a0ce163dd8fbe5d6789803c8cf26f32161e8e7fd0a41438fd847ff1 | fragment sha256 d5bac752fe3da50145478c577234ef11256efb7acb7d0f42380b0c409cbc058c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21427, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Espefa, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6d1b224f1a0ce163dd8fbe5d6789803c8cf26f32161e8e7fd0a41438fd847ff1 | fragment sha256 9eba8c6942c5009fc4dc94283863a24f1791a74f9d652783d0298abf286a1126 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21427, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Espefa, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6d1b224f1a0ce163dd8fbe5d6789803c8cf26f32161e8e7fd0a41438fd847ff1 | fragment sha256 cba654e01d215c8964ea01d78e947eeaff7a9c808a6fbd0d06f531d343e0a66c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

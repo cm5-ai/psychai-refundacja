@@ -1,0 +1,15 @@
+### Pregabalin Zentiva | 25 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Pregabalin Zentiva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: EU/1/15/1021   format NUMER_EU
+UWAGA_IDENTYFIKATORA: numer unijny odczytany z opakowan (pole pozwolenie jest puste); czlon opakowaniowy odrzucony, zostaje numer produktu
+ID_REJESTRU: 100345109   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_EU|EU/1/15/1021|id=100345109
+WSKAZANIA: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestracja jest centralna, a rejestr unijny wydaje jeden dokument na NUMER EU, nie na rejestracje: ten sam numer obejmuje rozne moce i postacie, wiec rownosc numeru nie przypina fragmentu dawki do TEJ rejestracji, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

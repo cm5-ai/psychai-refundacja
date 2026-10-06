@@ -1,0 +1,20 @@
+### Sonrest | 3,75 mg | Tabletki powlekane
+SUBSTANCJA: zopiklon
+NAZWA_HANDLOWA: Sonrest   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 3,75 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 29133   format KRAJOWA
+ID_REJESTRU: 100488250   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29133|id=100488250
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48825/characteristic
+SHA256: a219e7022b3fc5ee37833912fa5d028c5712ac7b3937b502056e59ccc43bd5f0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29133, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sonrest, 3,75 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a219e7022b3fc5ee37833912fa5d028c5712ac7b3937b502056e59ccc43bd5f0 | fragment sha256 e56a98d8001d636ce30a9872bd0f481a718af0301640de9baa23a8fb75af10b2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29133, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sonrest, 3,75 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a219e7022b3fc5ee37833912fa5d028c5712ac7b3937b502056e59ccc43bd5f0 | fragment sha256 dbcd6029faf573900e92ed0676d91f6037fbe210dfb83c4b170cb17ff78e97c2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29133, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sonrest, 3,75 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a219e7022b3fc5ee37833912fa5d028c5712ac7b3937b502056e59ccc43bd5f0 | fragment sha256 7a3253cc31242ca83c93e79fb36b062eda03b6ca00b2783000709ba98298b58a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

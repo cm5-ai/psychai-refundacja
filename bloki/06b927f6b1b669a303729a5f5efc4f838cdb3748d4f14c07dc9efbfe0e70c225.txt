@@ -1,0 +1,20 @@
+### Pratyria | 100 mg + 150 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Pratyria   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg + 150 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 28468   format KRAJOWA
+ID_REJESTRU: 100478584   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28468|id=100478584
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47858/characteristic
+SHA256: 1e70f0b34b48e73a247ccec20ede728c480958c9302338cd16e8cd7e88a6e6c1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28468, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pratyria, 100 mg + 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 1e70f0b34b48e73a247ccec20ede728c480958c9302338cd16e8cd7e88a6e6c1 | fragment sha256 43a578b1b05b1122f281403506377be0f63208b516999c6dbe7e00f252df1121 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28468, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pratyria, 100 mg + 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 1e70f0b34b48e73a247ccec20ede728c480958c9302338cd16e8cd7e88a6e6c1 | fragment sha256 5985e223e3d09643977a9aab765e10c184bc9f8910efdf996988ea25dcfebdcc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28468, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pratyria, 100 mg + 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 1e70f0b34b48e73a247ccec20ede728c480958c9302338cd16e8cd7e88a6e6c1 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

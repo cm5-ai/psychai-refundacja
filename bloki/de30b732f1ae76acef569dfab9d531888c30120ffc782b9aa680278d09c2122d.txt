@@ -1,0 +1,20 @@
+### Relsed | 4 mg/ml (10 mg/2,5 ml) | Mikrowlewka doodbytnicza, roztwór
+SUBSTANCJA: diazepam
+NAZWA_HANDLOWA: Relsed   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 4 mg/ml (10 mg/2,5 ml)
+POSTAC: Mikrowlewka doodbytnicza, roztwór
+STAN: AKTUALNA
+IDENTYFIKATOR: 07516   format KRAJOWA
+ID_REJESTRU: 100079553   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07516|id=100079553
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7955/characteristic
+SHA256: b60af935df8b4f9dc6118e2d6ba9e64e54627e387fc1de15a79f8f6f7fbb853b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07516, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Relsed, 4 mg/ml (10 mg/2,5 ml), Mikrowlewka doodbytnicza, roztwór | pobrano 2026-09-23 | dokument sha256 b60af935df8b4f9dc6118e2d6ba9e64e54627e387fc1de15a79f8f6f7fbb853b | fragment sha256 177f615871cf15a69c6f343ef18f73749cf52d54d2a83653e88cd6729b540e66 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07516, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Relsed, 4 mg/ml (10 mg/2,5 ml), Mikrowlewka doodbytnicza, roztwór | pobrano 2026-09-23 | dokument sha256 b60af935df8b4f9dc6118e2d6ba9e64e54627e387fc1de15a79f8f6f7fbb853b | fragment sha256 0bdb8fcaf6f79981d43ffdddb27b97aaf7eb181b28f1a6272eda978192825f1a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07516, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Relsed, 4 mg/ml (10 mg/2,5 ml), Mikrowlewka doodbytnicza, roztwór | pobrano 2026-09-23 | dokument sha256 b60af935df8b4f9dc6118e2d6ba9e64e54627e387fc1de15a79f8f6f7fbb853b | fragment sha256 0faaffad4af704ddab46910ad07349146eec410c616db2908b91dc170473c4aa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

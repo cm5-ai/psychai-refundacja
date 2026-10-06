@@ -1,0 +1,20 @@
+### Zopiclone Grindeks | 7,5 mg | Tabletki powlekane
+SUBSTANCJA: zopiklon
+NAZWA_HANDLOWA: Zopiclone Grindeks   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 7,5 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28882   format KRAJOWA
+ID_REJESTRU: 100471619   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28882|id=100471619
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47161/characteristic
+SHA256: 86d33e8b3b7a47999610819a699a9161079ef301bdf70acb60a2ba7d09e905dd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28882, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zopiclone Grindeks, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 86d33e8b3b7a47999610819a699a9161079ef301bdf70acb60a2ba7d09e905dd | fragment sha256 601064d4021e6e2df6a435e7e46f7340ed116929e6142bef28b930f2e103ba1d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28882, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zopiclone Grindeks, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 86d33e8b3b7a47999610819a699a9161079ef301bdf70acb60a2ba7d09e905dd | fragment sha256 c32d075ec358b30073a0a88a0695d89f324c5d290f9ad7498b5cb10e820309e8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28882, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zopiclone Grindeks, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 86d33e8b3b7a47999610819a699a9161079ef301bdf70acb60a2ba7d09e905dd | fragment sha256 fb1ae8dfefa1785885c01a301c70057b30c5d38eeffae7d700d30c1f824cdd60 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

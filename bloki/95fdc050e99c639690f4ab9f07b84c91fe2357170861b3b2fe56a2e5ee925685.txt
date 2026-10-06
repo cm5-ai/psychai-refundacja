@@ -1,0 +1,20 @@
+### Trazodone Neuraxpharm | 150 mg | Tabletki
+SUBSTANCJA: trazodon
+NAZWA_HANDLOWA: Trazodone Neuraxpharm   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 24738   format KRAJOWA
+ID_REJESTRU: 100375748   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24738|id=100375748
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/37574/characteristic
+SHA256: 1302b79d29ac2fcf16ce98ecd7e043328d8ab99c7fb71e40007805c54581a9bf
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24738, magazyn chpl/trazodon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Trazodone Neuraxpharm, 150 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 1302b79d29ac2fcf16ce98ecd7e043328d8ab99c7fb71e40007805c54581a9bf | fragment sha256 24bcef0b6873f7bf4a5c40fba7907cea0415abf361b3bdaac30925da175d0bc1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24738, magazyn chpl/trazodon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Trazodone Neuraxpharm, 150 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 1302b79d29ac2fcf16ce98ecd7e043328d8ab99c7fb71e40007805c54581a9bf | fragment sha256 c722a0404a5b16f8b623f0e687dd56fea1fb636bce6686bfa99dda4c337076b8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24738, magazyn chpl/trazodon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Trazodone Neuraxpharm, 150 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 1302b79d29ac2fcf16ce98ecd7e043328d8ab99c7fb71e40007805c54581a9bf | fragment sha256 255819376547e395fd5acc57e92cc858f8a4f50835329fd92eb50e2ca7554a5a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

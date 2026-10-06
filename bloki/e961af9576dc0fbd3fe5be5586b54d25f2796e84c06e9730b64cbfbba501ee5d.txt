@@ -1,0 +1,20 @@
+### Propranolol WZF | 40 mg | Tabletki
+SUBSTANCJA: propranolol
+NAZWA_HANDLOWA: Propranolol WZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 01122   format KRAJOWA
+ID_REJESTRU: 100055854   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01122|id=100055854
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5585/characteristic
+SHA256: 76ee38222233abb3375c4482b5e8cf6256df958f8304c56dff279e2e8e0fe00a
+POBRANO: 2026-09-24
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01122, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Propranolol WZF, 40 mg, Tabletki | pobrano 2026-09-24 | dokument sha256 76ee38222233abb3375c4482b5e8cf6256df958f8304c56dff279e2e8e0fe00a | fragment sha256 20cb31c6810925a2fd658f51ca9149a5af21c78d45f8bfd5e0aec4901abf06fe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01122, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Propranolol WZF, 40 mg, Tabletki | pobrano 2026-09-24 | dokument sha256 76ee38222233abb3375c4482b5e8cf6256df958f8304c56dff279e2e8e0fe00a | fragment sha256 32ca02fd98dfa4df2643f8c563495a861c7eec667ec7056d0813bb1e20ae8653 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01122, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Propranolol WZF, 40 mg, Tabletki | pobrano 2026-09-24 | dokument sha256 76ee38222233abb3375c4482b5e8cf6256df958f8304c56dff279e2e8e0fe00a | fragment sha256 1009db846dc2242ddab9bf695b5a5ff96f3f19fbc26942424d5bc911e52ea68b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

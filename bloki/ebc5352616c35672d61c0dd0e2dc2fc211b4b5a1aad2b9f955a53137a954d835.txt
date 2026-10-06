@@ -1,0 +1,20 @@
+### Depakine | 288,2 mg/5 ml | Syrop
+SUBSTANCJA: walproinian
+NAZWA_HANDLOWA: Depakine   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 288,2 mg/5 ml
+POSTAC: Syrop
+STAN: AKTUALNA
+IDENTYFIKATOR: 03074   format KRAJOWA
+ID_REJESTRU: 100017701   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03074|id=100017701
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1770/characteristic
+SHA256: a0701339bacce06219a0aba00ae3e8f523b31d82725636552b953a02c569fad5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03074, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Depakine, 288,2 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 a0701339bacce06219a0aba00ae3e8f523b31d82725636552b953a02c569fad5 | fragment sha256 e2a197a1c880f23a9ddcfdfc607bc1199b6c64c83535074b180074f911fc7755 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03074, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Depakine, 288,2 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 a0701339bacce06219a0aba00ae3e8f523b31d82725636552b953a02c569fad5 | fragment sha256 cdf9dd44a6456cfc5059c9dc1e27a6392b08f9d6ef7a1b8f6f7fbb8082c2a7f8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03074, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Depakine, 288,2 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 a0701339bacce06219a0aba00ae3e8f523b31d82725636552b953a02c569fad5 | fragment sha256 050a18c1e05397f56f7d27330b59b4c9f119bf7dd57bb0663470dfbfed81a2c8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

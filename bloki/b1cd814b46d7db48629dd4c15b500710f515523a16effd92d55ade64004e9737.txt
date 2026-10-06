@@ -1,0 +1,20 @@
+### Depralin ODT | 5 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Depralin ODT   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 21456   format KRAJOWA
+ID_REJESTRU: 100303602   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21456|id=100303602
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30360/characteristic
+SHA256: 5a9a7f5bfb06671171b60cadc343f4390f34e3bf556159d2f3f0c9cc2edf3494
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21456, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Depralin ODT, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 5a9a7f5bfb06671171b60cadc343f4390f34e3bf556159d2f3f0c9cc2edf3494 | fragment sha256 34868aa18316c7b1542f027da73930a39aed52fe58095558791fd1ccffb97541 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21456, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Depralin ODT, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 5a9a7f5bfb06671171b60cadc343f4390f34e3bf556159d2f3f0c9cc2edf3494 | fragment sha256 6257f28ab92dc3e50aef74a65e157bfd74fb28e51dc290a21e6513223936977a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21456, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Depralin ODT, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 5a9a7f5bfb06671171b60cadc343f4390f34e3bf556159d2f3f0c9cc2edf3494 | fragment sha256 0c4766d1438145d60bde21b21d01468b091ce8730d72d8eb2e60b9418bc09d24 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

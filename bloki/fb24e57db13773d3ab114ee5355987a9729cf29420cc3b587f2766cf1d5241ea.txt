@@ -1,0 +1,20 @@
+### Adepend | 50 mg | Tabletki powlekane
+SUBSTANCJA: naltrekson
+NAZWA_HANDLOWA: Adepend   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 17607   format KRAJOWA
+ID_REJESTRU: 100236596   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17607|id=100236596
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23659/characteristic
+SHA256: ec622401147d714748213ad8e401964be603b9a7191d032598739d905145d92a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17607, magazyn chpl/naltrekson]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Adepend, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ec622401147d714748213ad8e401964be603b9a7191d032598739d905145d92a | fragment sha256 fa0e94449297f2fa9b64ed603b52252ee8d3219098e0359a95aac4755c5b7a92 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17607, magazyn chpl/naltrekson]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Adepend, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ec622401147d714748213ad8e401964be603b9a7191d032598739d905145d92a | fragment sha256 82a0654ee18d8afd3acc25a14f910defe077637707de4b2aceef677aed1e3391 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17607, magazyn chpl/naltrekson]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Adepend, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ec622401147d714748213ad8e401964be603b9a7191d032598739d905145d92a | fragment sha256 f1979caeb241dc930add6469ff9649360474f647fdeb9c931e7d3856c2494a49 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

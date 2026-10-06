@@ -1,0 +1,20 @@
+### Venlafaxine Bluefish XL | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Venlafaxine Bluefish XL   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 16475   format KRAJOWA
+ID_REJESTRU: 100223659   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16475|id=100223659
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22365/characteristic
+SHA256: 42a971d30314607153805af66559eecfe8b8e550f7ca5294c6f3adca46bec381
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16475, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Venlafaxine Bluefish XL, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 42a971d30314607153805af66559eecfe8b8e550f7ca5294c6f3adca46bec381 | fragment sha256 ec11100f8d0fc4cc44c3bc1a7368803df4f25102b978ff080dba77d4df212ccb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16475, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Venlafaxine Bluefish XL, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 42a971d30314607153805af66559eecfe8b8e550f7ca5294c6f3adca46bec381 | fragment sha256 91b0d34955952efee417afa6cc125501682c1ab5d8d63c5839f399f30342b1ba | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16475, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Venlafaxine Bluefish XL, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 42a971d30314607153805af66559eecfe8b8e550f7ca5294c6f3adca46bec381 | fragment sha256 ffbd26f8b11405935c3cfa2654aa9f39dc33aa494f4a1465acc5685a82952732 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

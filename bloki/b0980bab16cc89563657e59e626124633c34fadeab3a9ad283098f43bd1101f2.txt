@@ -1,0 +1,20 @@
+### Arpixor | 5 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Arpixor   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 25388   format KRAJOWA
+ID_REJESTRU: 100395596   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25388|id=100395596
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39559/characteristic
+SHA256: 28d81e648d833df1d6c7f41ab591fca36f3c8be8ba2327b533fc9852d142f04e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25388, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Arpixor, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 28d81e648d833df1d6c7f41ab591fca36f3c8be8ba2327b533fc9852d142f04e | fragment sha256 77a9f507b47af12c511069c8946e101a9af4216fe8a21afbaba79a4ed027adb5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25388, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Arpixor, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 28d81e648d833df1d6c7f41ab591fca36f3c8be8ba2327b533fc9852d142f04e | fragment sha256 99e8c09b07866ebfcfca88a78acd065b0fd016d0e1725d716ebbcd754ed16e67 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25388, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Arpixor, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 28d81e648d833df1d6c7f41ab591fca36f3c8be8ba2327b533fc9852d142f04e | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

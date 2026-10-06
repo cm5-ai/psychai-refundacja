@@ -1,0 +1,20 @@
+### Moreme | 150 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Moreme   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 28184   format KRAJOWA
+ID_REJESTRU: 100469915   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28184|id=100469915
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46991/characteristic
+SHA256: f0425db39f6d878b564d69317f70da51c9ff7cc7cbfb534cfe8684e24d9992e0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28184, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Moreme, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 f0425db39f6d878b564d69317f70da51c9ff7cc7cbfb534cfe8684e24d9992e0 | fragment sha256 0ec9e4775062dcfe6616a9b14c2c407a462ce57cf8e245c699fdc4c8cdacdba3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28184, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Moreme, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 f0425db39f6d878b564d69317f70da51c9ff7cc7cbfb534cfe8684e24d9992e0 | fragment sha256 46f1b72c1b7262cf36eedecac5e62450eca338c90e9b7439d8d9ef7c71613459 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28184, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Moreme, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 f0425db39f6d878b564d69317f70da51c9ff7cc7cbfb534cfe8684e24d9992e0 | fragment sha256 963be5656892bccf3db8c119ec8a8bbde2c0fa724916fb3fa636e76a3c7ae0bc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

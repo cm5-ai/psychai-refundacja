@@ -1,0 +1,20 @@
+### Faxigen XL 37,5 mg | 37,5 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Faxigen XL 37,5 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37,5 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 15756   format KRAJOWA
+ID_REJESTRU: 100213661   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15756|id=100213661
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21366/characteristic
+SHA256: 6b8156f1604be137712041f62281d51c5421b2f147faedbff821d5e8a91413e0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15756, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Faxigen XL 37,5 mg, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 6b8156f1604be137712041f62281d51c5421b2f147faedbff821d5e8a91413e0 | fragment sha256 ffd46c8fc8f82af39eae457cedc9c0b078057a97b9f0c6ecdf0a2f54f9faa52c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15756, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Faxigen XL 37,5 mg, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 6b8156f1604be137712041f62281d51c5421b2f147faedbff821d5e8a91413e0 | fragment sha256 1e05461c57c27c3f069a5e18941f11b379762fd63254067a1a67c58af76841ad | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15756, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Faxigen XL 37,5 mg, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 6b8156f1604be137712041f62281d51c5421b2f147faedbff821d5e8a91413e0 | fragment sha256 3b9d147faf7865cd01f07cf8139a601aeeb9f7ce5ecb4fe2d0e6fb2737c47faf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

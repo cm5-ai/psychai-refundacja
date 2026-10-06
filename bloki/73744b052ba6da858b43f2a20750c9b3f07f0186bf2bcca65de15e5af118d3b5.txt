@@ -1,0 +1,20 @@
+### Soloxelam | 10 mg | Roztwór do stosowania w jamie ustnej
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Soloxelam   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Roztwór do stosowania w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 27455   format KRAJOWA
+ID_REJESTRU: 100471157   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27455|id=100471157
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47115/characteristic
+SHA256: 6f7bc65d0939b3f96a162b287709b045a61b4cd6140d748e675207e7b783b262
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27455, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Soloxelam, 10 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 6f7bc65d0939b3f96a162b287709b045a61b4cd6140d748e675207e7b783b262 | fragment sha256 2bab5a4543c17d9016ba023ec7d3fd4e1820ed3cfdda8f503e2a7d8a9bef93f3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27455, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Soloxelam, 10 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 6f7bc65d0939b3f96a162b287709b045a61b4cd6140d748e675207e7b783b262 | fragment sha256 7771fd954b47a84bdbf9b9c061c323d1eb7a6c9133de3d9d0debaaf70be21211 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27455, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Soloxelam, 10 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 6f7bc65d0939b3f96a162b287709b045a61b4cd6140d748e675207e7b783b262 | fragment sha256 15c393b4b359f9c7ab9f2cfccdc2c927b65da1cd1bc5180701819eb79888a8ae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

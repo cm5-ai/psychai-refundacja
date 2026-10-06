@@ -1,0 +1,20 @@
+### Fevarin | 100 mg | Tabletki powlekane
+SUBSTANCJA: fluwoksamina
+NAZWA_HANDLOWA: Fevarin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 03478   format KRAJOWA
+ID_REJESTRU: 100024204   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03478|id=100024204
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2420/characteristic
+SHA256: fdb6f04a06e291eb6e552784b3e6a44325ccd6659b598d55e1448b78e746c0f1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03478, magazyn chpl/fluwoksamina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Fevarin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fdb6f04a06e291eb6e552784b3e6a44325ccd6659b598d55e1448b78e746c0f1 | fragment sha256 932a7fc8634f49f502a41ab796c018a78c8c7fbadd2d73986a31c568d1b1ae7a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03478, magazyn chpl/fluwoksamina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Fevarin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fdb6f04a06e291eb6e552784b3e6a44325ccd6659b598d55e1448b78e746c0f1 | fragment sha256 cc7229254e485ab98553397aac47654c0d72b9546124fe5a224ede40f5148d0c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03478, magazyn chpl/fluwoksamina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Fevarin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fdb6f04a06e291eb6e552784b3e6a44325ccd6659b598d55e1448b78e746c0f1 | fragment sha256 50485e30cc8468608a9eaa99f81ab4bfe634b5e2f23c6c8460da71995431685d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

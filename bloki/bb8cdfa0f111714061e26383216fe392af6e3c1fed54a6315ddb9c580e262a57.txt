@@ -1,0 +1,20 @@
+### Aripiprazole Orion | 5 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aripiprazole Orion   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 23025   format KRAJOWA
+ID_REJESTRU: 100345760   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23025|id=100345760
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34576/characteristic
+SHA256: e890d5fc1d3525b10551d8751096194c8cbba4dfd3f7d4c123962ab2c2a3ef93
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23025, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aripiprazole Orion, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e890d5fc1d3525b10551d8751096194c8cbba4dfd3f7d4c123962ab2c2a3ef93 | fragment sha256 164dd367951daf8d6a2c61266fc575ce6be46f657fa14a689917d74497bed664 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23025, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aripiprazole Orion, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e890d5fc1d3525b10551d8751096194c8cbba4dfd3f7d4c123962ab2c2a3ef93 | fragment sha256 0d8a3d52f8e3906fec6db68d450a4e515ff691721e26dcbe7a5999a5709d44e7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23025, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aripiprazole Orion, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e890d5fc1d3525b10551d8751096194c8cbba4dfd3f7d4c123962ab2c2a3ef93 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

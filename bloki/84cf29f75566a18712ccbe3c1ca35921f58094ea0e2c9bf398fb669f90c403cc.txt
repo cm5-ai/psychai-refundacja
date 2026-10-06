@@ -1,0 +1,20 @@
+### Amisulpryd Holsten | 400 mg | Tabletki powlekane
+SUBSTANCJA: amisulpryd
+NAZWA_HANDLOWA: Amisulpryd Holsten   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 400 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 19608   format KRAJOWA
+ID_REJESTRU: 100268461   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|19608|id=100268461
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26846/characteristic
+SHA256: fb83632fa1baf2fd58f718e120691660a27b42c16c28ef3fe7096e0efa66d0fa
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 19608, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Amisulpryd Holsten, 400 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fb83632fa1baf2fd58f718e120691660a27b42c16c28ef3fe7096e0efa66d0fa | fragment sha256 a897898dfc67ef1f622278b6fc24ad88844534016829c2c801b63df7e76ccc55 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 19608, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Amisulpryd Holsten, 400 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fb83632fa1baf2fd58f718e120691660a27b42c16c28ef3fe7096e0efa66d0fa | fragment sha256 158c462abd26f865db0a895a81226e90a6d4392f27cfdfe04f8253d26338ca02 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 19608, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Amisulpryd Holsten, 400 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fb83632fa1baf2fd58f718e120691660a27b42c16c28ef3fe7096e0efa66d0fa | fragment sha256 443a77921def52cc1e1b0968af51a9ce41ac3d68c34a7a01df26dd784853bc8b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

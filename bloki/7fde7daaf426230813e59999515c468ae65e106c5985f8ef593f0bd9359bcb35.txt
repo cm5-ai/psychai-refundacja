@@ -1,0 +1,20 @@
+### Bucidar | 300 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Bucidar   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 28836   format KRAJOWA
+ID_REJESTRU: 100489049   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28836|id=100489049
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48904/characteristic
+SHA256: 97d13f610edadebbd80ea71dae30fc38769fee3d579e3d2814bd28ad118f2f87
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28836, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bucidar, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 97d13f610edadebbd80ea71dae30fc38769fee3d579e3d2814bd28ad118f2f87 | fragment sha256 419b6861d9ca7fff96e60681159325f2d0d808e9a820fa9fdf8c3a05f6192718 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28836, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bucidar, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 97d13f610edadebbd80ea71dae30fc38769fee3d579e3d2814bd28ad118f2f87 | fragment sha256 118f54a034ea02c4c7d1ee6a3ce2d248775b2ac6c0b4720119ec9ad62d4a3a45 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28836, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bucidar, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 97d13f610edadebbd80ea71dae30fc38769fee3d579e3d2814bd28ad118f2f87 | fragment sha256 ee8fe909ed94b648f922a628717669c8e4ab609cbe5b76624693436a107b5989 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

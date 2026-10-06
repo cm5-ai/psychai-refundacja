@@ -1,0 +1,20 @@
+### Sublana | 10 mg/ml | Koncentrat do sporządzania roztworu doustnego
+SUBSTANCJA: metadon
+NAZWA_HANDLOWA: Sublana   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg/ml
+POSTAC: Koncentrat do sporządzania roztworu doustnego
+STAN: AKTUALNA
+IDENTYFIKATOR: 23871   format KRAJOWA
+ID_REJESTRU: 100369245   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23871|id=100369245
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36924/characteristic
+SHA256: 18f2cfc46b6342ee80c4807ef959adeb4f2278cf06523e72283fab18846fd87f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23871, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sublana, 10 mg/ml, Koncentrat do sporządzania roztworu doustnego | pobrano 2026-09-23 | dokument sha256 18f2cfc46b6342ee80c4807ef959adeb4f2278cf06523e72283fab18846fd87f | fragment sha256 ed3d658ff664738316923a45d91fab64d7178090c061e6aa23eb067ec1eee459 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23871, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sublana, 10 mg/ml, Koncentrat do sporządzania roztworu doustnego | pobrano 2026-09-23 | dokument sha256 18f2cfc46b6342ee80c4807ef959adeb4f2278cf06523e72283fab18846fd87f | fragment sha256 336018b8dba56250da207f1ef4ee66414260f8d854cefad8858e3807220e21ec | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23871, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sublana, 10 mg/ml, Koncentrat do sporządzania roztworu doustnego | pobrano 2026-09-23 | dokument sha256 18f2cfc46b6342ee80c4807ef959adeb4f2278cf06523e72283fab18846fd87f | fragment sha256 ec7b5f0e0be1770d2c18375fd9c9b1fbe064f3e2831b3243b50f668df0eea846 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

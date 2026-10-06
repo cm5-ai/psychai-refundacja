@@ -1,0 +1,20 @@
+### Polsen | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Polsen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 11021   format KRAJOWA
+ID_REJESTRU: 100130030   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11021|id=100130030
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13003/characteristic
+SHA256: ef994b131abdd968aa342f3ff1b149dc49d06c456c5143f3909bfd8a7c130123
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11021, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Polsen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ef994b131abdd968aa342f3ff1b149dc49d06c456c5143f3909bfd8a7c130123 | fragment sha256 2e8cdbd0605bde92019ebfb8a8e6cbf2c2d6239e4a4e81a9f45b317c55c9559b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11021, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Polsen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ef994b131abdd968aa342f3ff1b149dc49d06c456c5143f3909bfd8a7c130123 | fragment sha256 86688c79a58338c441a3bb1f4f434927c51b4f474f04993e9e55f5f614b73581 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11021, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Polsen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ef994b131abdd968aa342f3ff1b149dc49d06c456c5143f3909bfd8a7c130123 | fragment sha256 742c208d91fefeebf64c87a3eb6f8d6978e3f69d3336111647e137ca4d404fa6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

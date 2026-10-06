@@ -1,0 +1,20 @@
+### Zolafren | 10 mg | Kapsułki twarde
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Zolafren   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 10647   format KRAJOWA
+ID_REJESTRU: 100123640   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10647|id=100123640
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12364/characteristic
+SHA256: 89fd905afacbbfe5e735b527e5d4b075ed861e8eb54c4f54d0a2ba3d088085a2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10647, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zolafren, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 89fd905afacbbfe5e735b527e5d4b075ed861e8eb54c4f54d0a2ba3d088085a2 | fragment sha256 a5ec2d144ee8a17c59b9583ca9bfe3c520bca8b121b5f3e4430a70aba5ecb4d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10647, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zolafren, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 89fd905afacbbfe5e735b527e5d4b075ed861e8eb54c4f54d0a2ba3d088085a2 | fragment sha256 e7c7681f30f3b56f4f68469353862fb57de055bc7bd2878c1295f78feb76591a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10647, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zolafren, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 89fd905afacbbfe5e735b527e5d4b075ed861e8eb54c4f54d0a2ba3d088085a2 | fragment sha256 c4f641edabb5555069f4ddc66f58b52797162c33d6a3ccce6f65eed56fd92991 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

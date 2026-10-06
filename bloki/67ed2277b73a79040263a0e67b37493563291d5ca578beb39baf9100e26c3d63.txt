@@ -1,0 +1,20 @@
+### Finlepsin 400 retard | 400 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: karbamazepina
+NAZWA_HANDLOWA: Finlepsin 400 retard   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 400 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 10142   format KRAJOWA
+ID_REJESTRU: 100116685   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10142|id=100116685
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11668/characteristic
+SHA256: 04edf40c388479c3bb0d4e9429b11450bbd0b90fad9ba891f37a182112fb7c35
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10142, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Finlepsin 400 retard, 400 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 04edf40c388479c3bb0d4e9429b11450bbd0b90fad9ba891f37a182112fb7c35 | fragment sha256 33a53f6be221f1f8461f38442bc17f1b19cdf199a1211f5843ac0fce39ea3161 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10142, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Finlepsin 400 retard, 400 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 04edf40c388479c3bb0d4e9429b11450bbd0b90fad9ba891f37a182112fb7c35 | fragment sha256 55708ece2adf19fa51d07decf1ba5ec3f580eed1e501d6c41d0d35d9b898c0af | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10142, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Finlepsin 400 retard, 400 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 04edf40c388479c3bb0d4e9429b11450bbd0b90fad9ba891f37a182112fb7c35 | fragment sha256 05fb76487c33c1bc3256f85fc2a8ae4cd3b56d468b24b3e068753da678738d2a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

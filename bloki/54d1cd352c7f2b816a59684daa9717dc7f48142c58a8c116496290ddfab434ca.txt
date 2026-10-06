@@ -1,0 +1,20 @@
+### Hydroxyzinum Hasco | 10 mg/5 ml | Syrop
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Hasco   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg/5 ml
+POSTAC: Syrop
+STAN: AKTUALNA
+IDENTYFIKATOR: 22259   format KRAJOWA
+ID_REJESTRU: 100332302   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22259|id=100332302
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33230/characteristic
+SHA256: 3ece5c7dd96e50cfce00e210e492445a2030a21e48774973e02811755b1ed98a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22259, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Hasco, 10 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 3ece5c7dd96e50cfce00e210e492445a2030a21e48774973e02811755b1ed98a | fragment sha256 02354af2c5afc187bdd4a7d45581ce751e42642b7802da61e2a1d833275c7646 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22259, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Hasco, 10 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 3ece5c7dd96e50cfce00e210e492445a2030a21e48774973e02811755b1ed98a | fragment sha256 86d6528de0b583228326a2ae1a894890c17ea7ba4d65bfc8ee8bd1d6a28ebc2d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22259, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Hasco, 10 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 3ece5c7dd96e50cfce00e210e492445a2030a21e48774973e02811755b1ed98a | fragment sha256 a111cd83824c7d357d1231bffdeef66870fbb9dc9d3c45e6e87b3a06da881c59 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

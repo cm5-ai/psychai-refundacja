@@ -1,0 +1,20 @@
+### Perazin 100 mg | 100 mg | Tabletki
+SUBSTANCJA: perazyna
+NAZWA_HANDLOWA: Perazin 100 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 08585   format KRAJOWA
+ID_REJESTRU: 100099923   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08585|id=100099923
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9992/characteristic
+SHA256: be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08585, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Perazin 100 mg, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f | fragment sha256 f14ded15c3b50b2dd12a3d863a15e11fccf451b9e64ac4e1d815c7339f658aef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08585, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Perazin 100 mg, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f | fragment sha256 6e6defe14cfdd0305926aade1af2dbaa324ac96bf92c69c58bee858a8e7dcbad | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08585, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Perazin 100 mg, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 be9db015d3018b01627380324338f62539e5341106ad34689692100113387f3f | fragment sha256 8cd692bebba73463a7baacd84406af64d7aa0279d376e35f935984a02adc923a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

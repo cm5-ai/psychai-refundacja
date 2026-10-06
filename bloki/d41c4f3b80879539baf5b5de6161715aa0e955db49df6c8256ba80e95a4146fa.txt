@@ -1,0 +1,20 @@
+### Signopam | 10 mg | Tabletki
+SUBSTANCJA: temazepam
+NAZWA_HANDLOWA: Signopam   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 01362   format KRAJOWA
+ID_REJESTRU: 100060973   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01362|id=100060973
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6097/characteristic
+SHA256: 07188b0df1f7fe34ec1e362e82eb571685268a51b3e60da1de8eff6acea17886
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01362, magazyn chpl/temazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Signopam, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 07188b0df1f7fe34ec1e362e82eb571685268a51b3e60da1de8eff6acea17886 | fragment sha256 6b6cbec7616c894f6f4b8d8ea08e736100979f976faa85bd7ee64e1bdfdbbc3b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01362, magazyn chpl/temazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Signopam, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 07188b0df1f7fe34ec1e362e82eb571685268a51b3e60da1de8eff6acea17886 | fragment sha256 aed0d11b22fbc1f32f722a90ee1a2d02af3016ef089b123e49ddfed7a3ed4c16 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01362, magazyn chpl/temazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Signopam, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 07188b0df1f7fe34ec1e362e82eb571685268a51b3e60da1de8eff6acea17886 | fragment sha256 2452537f7a95fe0ca48fab9e4e182782f1683b0203769fce932453c98c0a1798 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

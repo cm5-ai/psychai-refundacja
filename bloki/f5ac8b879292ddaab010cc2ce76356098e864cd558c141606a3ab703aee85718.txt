@@ -1,0 +1,20 @@
+### Lorabex | 4 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: lorazepam
+NAZWA_HANDLOWA: Lorabex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 4 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+STAN: AKTUALNA
+IDENTYFIKATOR: 26809   format KRAJOWA
+ID_REJESTRU: 100431599   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26809|id=100431599
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43159/characteristic
+SHA256: f1b0038cded9fc1abf8f275b41b7a6fc4b4ce7c14f6d3dd0219ea2b4e29538bd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26809, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lorabex, 4 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 f1b0038cded9fc1abf8f275b41b7a6fc4b4ce7c14f6d3dd0219ea2b4e29538bd | fragment sha256 d909ae6ee51df4c71c850818a0cf85b749f400ad4ba7264bd1faddb2f8cf6528 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26809, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lorabex, 4 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 f1b0038cded9fc1abf8f275b41b7a6fc4b4ce7c14f6d3dd0219ea2b4e29538bd | fragment sha256 84a176e04788ca345497d18f57f4e6c5fc957b79f01e95c56f9032076f44ccd0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26809, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lorabex, 4 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 f1b0038cded9fc1abf8f275b41b7a6fc4b4ce7c14f6d3dd0219ea2b4e29538bd | fragment sha256 89d2d0044de3f32fd0e63346763d2b6c9111671f68ad23c5cb3f33bc636a77fd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

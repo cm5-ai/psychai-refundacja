@@ -1,0 +1,20 @@
+### Pregabalin Reddy | 25 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Pregabalin Reddy   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 27421   format KRAJOWA
+ID_REJESTRU: 100457828   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27421|id=100457828
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45782/characteristic
+SHA256: d5577be8f050a36c604ace604a06d5aa40cacd33e3ccdfa3a94d25aa05768d05
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27421, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pregabalin Reddy, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 d5577be8f050a36c604ace604a06d5aa40cacd33e3ccdfa3a94d25aa05768d05 | fragment sha256 77bb9516ddac79178280aad086c23e4d5bf22a05b2b70f3a69255529cb827665 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27421, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pregabalin Reddy, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 d5577be8f050a36c604ace604a06d5aa40cacd33e3ccdfa3a94d25aa05768d05 | fragment sha256 8b51a83d18f4c6929065e0ca988929522ebc8b2d664d4ec5c0cb0578f2f5d8d8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27421, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pregabalin Reddy, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 d5577be8f050a36c604ace604a06d5aa40cacd33e3ccdfa3a94d25aa05768d05 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

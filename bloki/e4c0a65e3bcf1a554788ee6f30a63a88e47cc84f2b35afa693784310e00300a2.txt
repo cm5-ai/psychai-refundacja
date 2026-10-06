@@ -1,0 +1,20 @@
+### Donatine | 5 mg | Tabletki powlekane
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Donatine   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 17541   format KRAJOWA
+ID_REJESTRU: 100237130   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17541|id=100237130
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23713/characteristic
+SHA256: b77e2a9268729071c657a70f4a00cbfaa369e2e8961a814fd714b43888c3749a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17541, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Donatine, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b77e2a9268729071c657a70f4a00cbfaa369e2e8961a814fd714b43888c3749a | fragment sha256 5a2e7c66388d31822afba8ac91776e39a38fd4f0c6333793b4de35a4b2ef862f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17541, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Donatine, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b77e2a9268729071c657a70f4a00cbfaa369e2e8961a814fd714b43888c3749a | fragment sha256 c326377dbee23b6978a9a1fc70ef1f32ad03fb0679f29b14d8a6afad85735cd4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17541, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Donatine, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b77e2a9268729071c657a70f4a00cbfaa369e2e8961a814fd714b43888c3749a | fragment sha256 a4fb8e8e6e70c30a1b1e54b137044ff53ff6a370b84ba12d6cdaebde9078ddf6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

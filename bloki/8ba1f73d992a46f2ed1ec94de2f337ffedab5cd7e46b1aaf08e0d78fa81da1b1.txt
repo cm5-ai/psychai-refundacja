@@ -1,0 +1,20 @@
+### Venlectine | 150 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Venlectine   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 12501   format KRAJOWA
+ID_REJESTRU: 100164780   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12501|id=100164780
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16478/characteristic
+SHA256: 0551a4c03cb13c0a32d41013880846f0a84d176020d0ab4159dd3682ff67544e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12501, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Venlectine, 150 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 0551a4c03cb13c0a32d41013880846f0a84d176020d0ab4159dd3682ff67544e | fragment sha256 0798a5513d8bd464ba5025eedd4ae46df5366ec197b723820f17f7634474e3ab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12501, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Venlectine, 150 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 0551a4c03cb13c0a32d41013880846f0a84d176020d0ab4159dd3682ff67544e | fragment sha256 0ccd3ffb993b7065d47f6cb3804535f0532ee03d0ced781b853bb828515ac5a2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12501, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Venlectine, 150 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 0551a4c03cb13c0a32d41013880846f0a84d176020d0ab4159dd3682ff67544e | fragment sha256 44ffd2dc53924e3311d0035126a56232650736623623f39099f879aeb7344afe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

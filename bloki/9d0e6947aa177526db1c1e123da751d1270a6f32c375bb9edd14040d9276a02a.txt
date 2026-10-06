@@ -1,0 +1,20 @@
+### Melatonina Medicinae | 5 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melatonina Medicinae   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 29291   format KRAJOWA
+ID_REJESTRU: 100455947   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29291|id=100455947
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45594/characteristic
+SHA256: c3d8bd05898189445ce8191456ae67ae9f70352822172f3af60a116bfc6189b9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29291, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melatonina Medicinae, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c3d8bd05898189445ce8191456ae67ae9f70352822172f3af60a116bfc6189b9 | fragment sha256 8a5c5e588689c3b10a121baa412317fa0ae7ebd896a263cbbe9309abc31814c8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29291, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melatonina Medicinae, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c3d8bd05898189445ce8191456ae67ae9f70352822172f3af60a116bfc6189b9 | fragment sha256 9295d005598d9bc7b162146501367ae8bf14554e8d437c3d26c02499e0176826 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29291, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melatonina Medicinae, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c3d8bd05898189445ce8191456ae67ae9f70352822172f3af60a116bfc6189b9 | fragment sha256 27f6ebce368ec75b2f057afd946d66c2483014755147d3d2f78996f6e98a1485 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Kefrenex | 300 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Kefrenex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 15740   format KRAJOWA
+ID_REJESTRU: 100214175   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15740|id=100214175
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21417/characteristic
+SHA256: 89ebcb0433a3d33e3f770d56cc6f9f8fe43d9b21b174af8f36d4e03e1d800c4e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15740, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kefrenex, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 89ebcb0433a3d33e3f770d56cc6f9f8fe43d9b21b174af8f36d4e03e1d800c4e | fragment sha256 773b26ad892d35a65bdaa1a276b7d80617732f68e5caab0abdeab2aadbd63919 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15740, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kefrenex, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 89ebcb0433a3d33e3f770d56cc6f9f8fe43d9b21b174af8f36d4e03e1d800c4e | fragment sha256 f1ce8dc466d86e1b029ff580713e0e6788a9c0a1adb1b609b3f82b07a47ae781 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15740, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kefrenex, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 89ebcb0433a3d33e3f770d56cc6f9f8fe43d9b21b174af8f36d4e03e1d800c4e | fragment sha256 ffc059b2c98c67cd4122ee81546a633d9b71c72245624f21d7e533d055e1835d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

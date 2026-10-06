@@ -1,0 +1,20 @@
+### Actimodan | 100 mg | Tabletki
+SUBSTANCJA: modafinil
+NAZWA_HANDLOWA: Actimodan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 26146   format KRAJOWA
+ID_REJESTRU: 100438704   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26146|id=100438704
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43870/characteristic
+SHA256: c6d1933fbf8bd001bf542bb46b7356e2c7a896814f67b15f57536676b59c399a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26146, magazyn chpl/modafinil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Actimodan, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c6d1933fbf8bd001bf542bb46b7356e2c7a896814f67b15f57536676b59c399a | fragment sha256 e0c3c00783a9d34d1c66ae3038ac0213a69d5d33ca441fe45825ce117857a386 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26146, magazyn chpl/modafinil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Actimodan, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c6d1933fbf8bd001bf542bb46b7356e2c7a896814f67b15f57536676b59c399a | fragment sha256 03ccacabfca151105370257001afedac205eeb68ff143ee1444745435a0609f9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26146, magazyn chpl/modafinil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Actimodan, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c6d1933fbf8bd001bf542bb46b7356e2c7a896814f67b15f57536676b59c399a | fragment sha256 00b719813c1582cc32f5cbc41f3069b96ee7af178d7291f3653a5e047f5c8c99 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

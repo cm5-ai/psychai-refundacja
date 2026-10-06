@@ -1,0 +1,20 @@
+### Eldefab | 70 mg | Kapsułki twarde
+SUBSTANCJA: lisdeksamfetamina
+NAZWA_HANDLOWA: Eldefab   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 70 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 29825   format KRAJOWA
+ID_REJESTRU: 100524327   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29825|id=100524327
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52432/characteristic
+SHA256: 327899d6d38cb49a888ab35e0d39feb657dca76cbc85344d7727d884e213d48e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29825, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Eldefab, 70 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 327899d6d38cb49a888ab35e0d39feb657dca76cbc85344d7727d884e213d48e | fragment sha256 21776a743e634aa9a755339fcc85a8fa41dee0d2cc93143cfeafbabf3c10a970 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29825, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Eldefab, 70 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 327899d6d38cb49a888ab35e0d39feb657dca76cbc85344d7727d884e213d48e | fragment sha256 b65b7dbd2cc7b8f0fa5da885fac0dae4b2185b10bc7a43fa270cf76338a07b1b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29825, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Eldefab, 70 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 327899d6d38cb49a888ab35e0d39feb657dca76cbc85344d7727d884e213d48e | fragment sha256 1fee29804127a01794da5cbee6679d33d791cf489e1b450d573dcf16b12c590d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

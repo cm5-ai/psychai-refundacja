@@ -1,0 +1,20 @@
+### Fluanxol | 3 mg | Tabletki powlekane
+SUBSTANCJA: flupentiksol
+NAZWA_HANDLOWA: Fluanxol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 3 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 21553   format KRAJOWA
+ID_REJESTRU: 100301218   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21553|id=100301218
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30121/characteristic
+SHA256: 7d9f10f77964e04fcfb89f5cf48f0f1bc21e48a9aab7722621ef3afce6511d72
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21553, magazyn chpl/flupentiksol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Fluanxol, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7d9f10f77964e04fcfb89f5cf48f0f1bc21e48a9aab7722621ef3afce6511d72 | fragment sha256 e16f9b120bf91120902e21b84fde347b92c6546cefe56ba2bdb23f13c07cb483 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21553, magazyn chpl/flupentiksol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Fluanxol, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7d9f10f77964e04fcfb89f5cf48f0f1bc21e48a9aab7722621ef3afce6511d72 | fragment sha256 41ed92021f083a8e6507d13c66590fe298f0047fb477cc1ef863531616513357 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21553, magazyn chpl/flupentiksol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Fluanxol, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7d9f10f77964e04fcfb89f5cf48f0f1bc21e48a9aab7722621ef3afce6511d72 | fragment sha256 1a0c087a0ab3932b951ce6b54155c652d0db965a7a970cda9debb946602e7bf0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

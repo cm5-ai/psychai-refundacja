@@ -1,0 +1,20 @@
+### Midazolamum Aguettant | 1 mg/ml | Roztwór do wstrzykiwań w ampułko-strzykawce
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Midazolamum Aguettant   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Roztwór do wstrzykiwań w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 28622   format KRAJOWA
+ID_REJESTRU: 100480823   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28622|id=100480823
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48082/characteristic
+SHA256: be33b1524b57a491fd9cd8ff47cea1b88a047083779d4948a2c7c631c5499235
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28622, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Midazolamum Aguettant, 1 mg/ml, Roztwór do wstrzykiwań w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 be33b1524b57a491fd9cd8ff47cea1b88a047083779d4948a2c7c631c5499235 | fragment sha256 663b0da95c73c0f323d5542849d1047a670390b95f057fac7314b5a38e6e004c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28622, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Midazolamum Aguettant, 1 mg/ml, Roztwór do wstrzykiwań w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 be33b1524b57a491fd9cd8ff47cea1b88a047083779d4948a2c7c631c5499235 | fragment sha256 7cab644f510ff1644c55fb68133baa39b4a5f8affe52b036b271cb422bd15027 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28622, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Midazolamum Aguettant, 1 mg/ml, Roztwór do wstrzykiwań w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 be33b1524b57a491fd9cd8ff47cea1b88a047083779d4948a2c7c631c5499235 | fragment sha256 3a82c1571ddeca13661f0c673e5b0ff6644e4e7519ff207b0a07708a78456cdd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

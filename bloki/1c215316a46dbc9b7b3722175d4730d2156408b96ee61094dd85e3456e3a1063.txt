@@ -1,0 +1,20 @@
+### Gabacol | 100 mg | Kapsułki twarde
+SUBSTANCJA: gabapentyna
+NAZWA_HANDLOWA: Gabacol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 23821   format KRAJOWA
+ID_REJESTRU: 100353959   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23821|id=100353959
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35395/characteristic
+SHA256: 816ded7f683ff193742b12b5739a3a2556c6a68d7d43c7cd04d27ed1ed948265
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23821, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Gabacol, 100 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 816ded7f683ff193742b12b5739a3a2556c6a68d7d43c7cd04d27ed1ed948265 | fragment sha256 89bc482b563d42f122fcec35ff0c1c48db160124d996d3385c661c5cc09d037a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23821, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Gabacol, 100 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 816ded7f683ff193742b12b5739a3a2556c6a68d7d43c7cd04d27ed1ed948265 | fragment sha256 7f2713b81f6bbeeb5e8fb7dab1f299f0fa843d8f044f7e7318bedbe62641e68e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23821, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Gabacol, 100 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 816ded7f683ff193742b12b5739a3a2556c6a68d7d43c7cd04d27ed1ed948265 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

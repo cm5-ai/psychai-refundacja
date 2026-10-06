@@ -1,0 +1,20 @@
+### Diazepam Grindeks | 5 mg | Tabletki
+SUBSTANCJA: diazepam
+NAZWA_HANDLOWA: Diazepam Grindeks   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 24396   format KRAJOWA
+ID_REJESTRU: 100368760   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24396|id=100368760
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36876/characteristic
+SHA256: b9b71e81a415323567f10152e1cf6d64f0fe3015b36e15f5a292f95d4cf90a87
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24396, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Diazepam Grindeks, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b9b71e81a415323567f10152e1cf6d64f0fe3015b36e15f5a292f95d4cf90a87 | fragment sha256 5ac46644363853279ac7d49c69864e2c95a540dbdc5e5706862959bdf4f2880f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24396, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Diazepam Grindeks, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b9b71e81a415323567f10152e1cf6d64f0fe3015b36e15f5a292f95d4cf90a87 | fragment sha256 4ecf949c58ad43b97e4f9717baf65791c262959dad733ed34d4e8d6a798144a0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24396, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Diazepam Grindeks, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b9b71e81a415323567f10152e1cf6d64f0fe3015b36e15f5a292f95d4cf90a87 | fragment sha256 32b99016deacd8bfe38fb1ab54aa3aa9e4ab9147a57abd55e22815becf0da62a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

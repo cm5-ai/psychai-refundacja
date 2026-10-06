@@ -1,0 +1,20 @@
+### Olanzin | 10 mg | Tabletki powlekane
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 14386   format KRAJOWA
+ID_REJESTRU: 100190463   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14386|id=100190463
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19046/characteristic
+SHA256: 887779c1cd8e05e96060ff0e2db7660676b87400aa2301906394aee9fbafc63a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14386, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 887779c1cd8e05e96060ff0e2db7660676b87400aa2301906394aee9fbafc63a | fragment sha256 bbeb0828bc5a996bccdfe226311f54cc0d99c10a529b384f5d245cc847291e86 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14386, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 887779c1cd8e05e96060ff0e2db7660676b87400aa2301906394aee9fbafc63a | fragment sha256 a26d1035142c892bdaa2ccc710a5d7a9004bc6fd1eba8f51974e80d191b8f466 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14386, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 887779c1cd8e05e96060ff0e2db7660676b87400aa2301906394aee9fbafc63a | fragment sha256 35c7c9af8a5cc63c84e957588053d382184284e5ba173b8ad6a93880c5172700 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

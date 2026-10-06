@@ -1,0 +1,20 @@
+### Asil | 74 mg | Tabletki powlekane
+SUBSTANCJA: lurazydon
+NAZWA_HANDLOWA: Asil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 74 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 29190   format KRAJOWA
+ID_REJESTRU: 100499731   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29190|id=100499731
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49973/characteristic
+SHA256: 4329fca3715e15898c777c081d1b77de26c321578830c7c9762c1bc89dabbcb1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29190, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Asil, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4329fca3715e15898c777c081d1b77de26c321578830c7c9762c1bc89dabbcb1 | fragment sha256 45d04ab5ff4ecd1a2cfc7f533114d68f08b993d050623be43750e8ebbb3bb2e6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29190, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Asil, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4329fca3715e15898c777c081d1b77de26c321578830c7c9762c1bc89dabbcb1 | fragment sha256 00d22a8df88bcd1201e5213193e5962c36ae18334f4016287fad6d7018ba79d2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29190, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Asil, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4329fca3715e15898c777c081d1b77de26c321578830c7c9762c1bc89dabbcb1 | fragment sha256 bb12ffe3a29fb4ddcf876c150ababf914c8bad42f0d7e4538228d1f7cdfa339a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

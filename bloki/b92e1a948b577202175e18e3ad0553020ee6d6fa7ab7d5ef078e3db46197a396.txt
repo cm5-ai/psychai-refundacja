@@ -1,0 +1,20 @@
+### Apropol | 50 mg | Tabletki powlekane
+SUBSTANCJA: opipramol
+NAZWA_HANDLOWA: Apropol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28076   format KRAJOWA
+ID_REJESTRU: 100425937   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28076|id=100425937
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42593/characteristic
+SHA256: 851145f2531ae1c6eaa1789e137bb54344185f8e2f12b80389500142c535abf1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28076, magazyn chpl/opipramol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Apropol, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 851145f2531ae1c6eaa1789e137bb54344185f8e2f12b80389500142c535abf1 | fragment sha256 713d7b094925eb10791a63a6385a99de95e3540718eea62c052e18a460d1dbb8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28076, magazyn chpl/opipramol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Apropol, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 851145f2531ae1c6eaa1789e137bb54344185f8e2f12b80389500142c535abf1 | fragment sha256 e173fb9c7a9b8ddd3eeddca6078a20a12a8bb0ef29a209f4400fbbdfd63b11d6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28076, magazyn chpl/opipramol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Apropol, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 851145f2531ae1c6eaa1789e137bb54344185f8e2f12b80389500142c535abf1 | fragment sha256 8a9f48efa0deab2c324e561e5e037111fd159bcd9ceeff884f2ef8b8863baf36 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

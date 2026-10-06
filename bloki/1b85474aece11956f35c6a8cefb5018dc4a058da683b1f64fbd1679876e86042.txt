@@ -1,0 +1,20 @@
+### Asduter | 30 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Asduter   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 22571   format KRAJOWA
+ID_REJESTRU: 100343151   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22571|id=100343151
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34315/characteristic
+SHA256: 107b4fafe057af646673927c63eb39696f49ed4119778c832fa3012d9066545a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22571, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Asduter, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 107b4fafe057af646673927c63eb39696f49ed4119778c832fa3012d9066545a | fragment sha256 23aba994ed0a18c7e9fa49bf357ca30266259a3b35eb479e6d7345f60f970717 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22571, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Asduter, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 107b4fafe057af646673927c63eb39696f49ed4119778c832fa3012d9066545a | fragment sha256 e19ff8df4fa16c468686a96bff680b90b5e69baf5e65dc3ea54530db1f220187 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22571, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Asduter, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 107b4fafe057af646673927c63eb39696f49ed4119778c832fa3012d9066545a | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Methadone hydrochloride INN-FARM | 1 mg/ml | Roztwór doustny
+SUBSTANCJA: metadon
+NAZWA_HANDLOWA: Methadone hydrochloride INN-FARM   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Roztwór doustny
+STAN: AKTUALNA
+IDENTYFIKATOR: 25492   format KRAJOWA
+ID_REJESTRU: 100402132   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25492|id=100402132
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40213/characteristic
+SHA256: 37ffabbcfadf7e48e74a2b8cc548a0b99cccb05de5e37256295642ab9f9e8cfa
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25492, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Methadone hydrochloride INN-FARM, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 37ffabbcfadf7e48e74a2b8cc548a0b99cccb05de5e37256295642ab9f9e8cfa | fragment sha256 4682f567865028355139756626b6f50f690a250244b65d4806c18aabcfdcb0db | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25492, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Methadone hydrochloride INN-FARM, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 37ffabbcfadf7e48e74a2b8cc548a0b99cccb05de5e37256295642ab9f9e8cfa | fragment sha256 e6fce45136a60a6aa1b03b0cc0f97e7072a43f84866e8e02c579e5cabd8cb577 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25492, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Methadone hydrochloride INN-FARM, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 37ffabbcfadf7e48e74a2b8cc548a0b99cccb05de5e37256295642ab9f9e8cfa | fragment sha256 e031d2c095c96c3d3278d78540e9ed8b5c41d8a0dde62bcf35c8b9982b8b4296 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

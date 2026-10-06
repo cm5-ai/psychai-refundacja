@@ -1,0 +1,20 @@
+### Clonazepamum TZF | 2 mg | Tabletki
+SUBSTANCJA: klonazepam
+NAZWA_HANDLOWA: Clonazepamum TZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 01355   format KRAJOWA
+ID_REJESTRU: 100014973   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01355|id=100014973
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1497/characteristic
+SHA256: e2db2562407efb5058adcb18d90cda241aec6d7272ebeb7e8a19e1639332db08
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01355, magazyn chpl/klonazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Clonazepamum TZF, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e2db2562407efb5058adcb18d90cda241aec6d7272ebeb7e8a19e1639332db08 | fragment sha256 622d560efc60f4bf1668a6ba1b68f1c942714208c6c757c40c18456f489b287a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01355, magazyn chpl/klonazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Clonazepamum TZF, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e2db2562407efb5058adcb18d90cda241aec6d7272ebeb7e8a19e1639332db08 | fragment sha256 e701d01f3e0e2de0f0870ed1dbef99bc11747a3c73dc0c7713656dc4327a4c01 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01355, magazyn chpl/klonazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Clonazepamum TZF, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e2db2562407efb5058adcb18d90cda241aec6d7272ebeb7e8a19e1639332db08 | fragment sha256 79b32b667d7a403174b0aa7be1a00489ce6a1d6e6703c367c145b7006d5b3ddb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Esscitaxin | 20 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Esscitaxin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 29006   format KRAJOWA
+ID_REJESTRU: 100503540   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29006|id=100503540
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50354/characteristic
+SHA256: a97bc44c582b84abb68589cc4b2702d4f15059eb2415a4553599f2e063d61351
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29006, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Esscitaxin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a97bc44c582b84abb68589cc4b2702d4f15059eb2415a4553599f2e063d61351 | fragment sha256 f462a7885212f7f981a2b92d3ad69d6541402305cc90117d8baa5abe83dbcb54 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29006, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Esscitaxin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a97bc44c582b84abb68589cc4b2702d4f15059eb2415a4553599f2e063d61351 | fragment sha256 01569dbcf69a05d0244d6dcce7e09063eebac6eda22e46f7aaaa37e2f825011e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29006, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Esscitaxin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a97bc44c582b84abb68589cc4b2702d4f15059eb2415a4553599f2e063d61351 | fragment sha256 7a1346f4fa2109fede1b8f055e3d97dd433950dee3b7fbf4d0e64fb687d654e6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

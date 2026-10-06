@@ -1,0 +1,20 @@
+### Mirtazapine Bluefish | 30 mg | Tabletki powlekane
+SUBSTANCJA: mirtazapina
+NAZWA_HANDLOWA: Mirtazapine Bluefish   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 28614   format KRAJOWA
+ID_REJESTRU: 100480666   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28614|id=100480666
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48066/characteristic
+SHA256: 640c3b41e8d03a40cd11d604028b50d377bf90425df8febbe52871768ead7c1e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28614, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mirtazapine Bluefish, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 640c3b41e8d03a40cd11d604028b50d377bf90425df8febbe52871768ead7c1e | fragment sha256 f6ce647e11174148a7561d24b2db0e116a7a7194155d5a30435f994d910054a8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28614, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mirtazapine Bluefish, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 640c3b41e8d03a40cd11d604028b50d377bf90425df8febbe52871768ead7c1e | fragment sha256 764a874f29fa07ae6c140b6330672eed8f96ad865e3d4bfc15be0084d22f1e2e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28614, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mirtazapine Bluefish, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 640c3b41e8d03a40cd11d604028b50d377bf90425df8febbe52871768ead7c1e | fragment sha256 9b006f8c0ce05334e490c939af4432a213d0b8b11c78f4063c021ec9b84534a9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

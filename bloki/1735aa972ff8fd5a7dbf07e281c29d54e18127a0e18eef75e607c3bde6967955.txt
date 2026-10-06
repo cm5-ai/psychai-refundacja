@@ -1,0 +1,20 @@
+### Tractiva | 15 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Tractiva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 27923   format KRAJOWA
+ID_REJESTRU: 100465743   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27923|id=100465743
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46574/characteristic
+SHA256: a9cca448707e90320d14e21d8624927e84bad636f17461b3f593f1a3a1c3ea37
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27923, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tractiva, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a9cca448707e90320d14e21d8624927e84bad636f17461b3f593f1a3a1c3ea37 | fragment sha256 1fc6706e020382110c1b1b387a599ee6cb2d986d3084f2c1c5d2da373f8cb7bd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27923, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tractiva, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a9cca448707e90320d14e21d8624927e84bad636f17461b3f593f1a3a1c3ea37 | fragment sha256 d3a9457fe521e13d4cd0890beaa7f25cd358218c7212824b2e0d810746dfe356 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27923, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tractiva, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a9cca448707e90320d14e21d8624927e84bad636f17461b3f593f1a3a1c3ea37 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

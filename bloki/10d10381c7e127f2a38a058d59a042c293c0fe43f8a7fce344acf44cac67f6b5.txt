@@ -1,0 +1,20 @@
+### Spamilan | 5 mg | Tabletki
+SUBSTANCJA: buspiron
+NAZWA_HANDLOWA: Spamilan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 14115   format KRAJOWA
+ID_REJESTRU: 100042544   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14115|id=100042544
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4254/characteristic
+SHA256: b489f179b82f47c9c20805d637fac1b920a9ae301ca0a3d11ce787a2bda25e98
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14115, magazyn chpl/buspiron]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Spamilan, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b489f179b82f47c9c20805d637fac1b920a9ae301ca0a3d11ce787a2bda25e98 | fragment sha256 09cfbcb3e306139150132a6b7022989fe5814951e3772ac10e052ffa9af52156 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14115, magazyn chpl/buspiron]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Spamilan, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b489f179b82f47c9c20805d637fac1b920a9ae301ca0a3d11ce787a2bda25e98 | fragment sha256 895a9ee5d8e5745f90463a02af5d2a4d516ff26a6ed8984f32b1eeab293e4118 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14115, magazyn chpl/buspiron]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Spamilan, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b489f179b82f47c9c20805d637fac1b920a9ae301ca0a3d11ce787a2bda25e98 | fragment sha256 f0dec76bc0feb83a9f8612ff936c05ac7f9da4a8acc4e2ecfc1626f848751a16 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

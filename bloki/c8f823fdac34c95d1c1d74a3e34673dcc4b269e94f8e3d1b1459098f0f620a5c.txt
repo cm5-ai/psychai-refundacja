@@ -1,0 +1,20 @@
+### Nemedan | 20 mg | Tabletki powlekane
+SUBSTANCJA: memantyna
+NAZWA_HANDLOWA: Nemedan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 22113   format KRAJOWA
+ID_REJESTRU: 100326922   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22113|id=100326922
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/32692/characteristic
+SHA256: 4c7df596f2806132b65965f634f07e7fba1413de8a6bd9f522303ad67d807bf3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22113, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Nemedan, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4c7df596f2806132b65965f634f07e7fba1413de8a6bd9f522303ad67d807bf3 | fragment sha256 e474c15c39b89308db9c5f51ef8884f41c726377c600e1d546f5818a058a68d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22113, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Nemedan, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4c7df596f2806132b65965f634f07e7fba1413de8a6bd9f522303ad67d807bf3 | fragment sha256 16b5689d650c14e539cc79db7735473e412c3dbe6342413694e6add011fc0215 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22113, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Nemedan, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4c7df596f2806132b65965f634f07e7fba1413de8a6bd9f522303ad67d807bf3 | fragment sha256 7dd8ad09b3cbe018450913d708ef5955f569b1b7da73a399f79acb5c69a33d51 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

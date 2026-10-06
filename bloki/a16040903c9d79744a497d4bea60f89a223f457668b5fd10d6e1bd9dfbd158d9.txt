@@ -1,0 +1,20 @@
+### Fluoxetine Vitabalans | 20 mg | Tabletki powlekane
+SUBSTANCJA: fluoksetyna
+NAZWA_HANDLOWA: Fluoxetine Vitabalans   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 20324   format KRAJOWA
+ID_REJESTRU: 100281711   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20324|id=100281711
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28171/characteristic
+SHA256: 538c59c1ca361511f20ddae603944dcb9e57875907da50a95560c758b655fd2b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20324, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Fluoxetine Vitabalans, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 538c59c1ca361511f20ddae603944dcb9e57875907da50a95560c758b655fd2b | fragment sha256 342cbee2ce746a91da4b2ab43d52627a3d20ecdef3af44c130c07c7828ff28de | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20324, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Fluoxetine Vitabalans, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 538c59c1ca361511f20ddae603944dcb9e57875907da50a95560c758b655fd2b | fragment sha256 f47c87f4e42e7ac9bdd6bf55db7a77ab291d6d66662610cfa25c973834748da6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20324, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Fluoxetine Vitabalans, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 538c59c1ca361511f20ddae603944dcb9e57875907da50a95560c758b655fd2b | fragment sha256 fa1e5175f206604dd6e75b6499a2b52e1032466c1f2b58523bf13931d501b9bf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

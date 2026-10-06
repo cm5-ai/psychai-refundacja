@@ -1,0 +1,20 @@
+### Kwetaplex XR | 150 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Kwetaplex XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 22542   format KRAJOWA
+ID_REJESTRU: 100347210   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22542|id=100347210
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34721/characteristic
+SHA256: 210897968a59e020a89515bdf1646770aa19f560e7112d74902a94cb4615e02c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22542, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kwetaplex XR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 210897968a59e020a89515bdf1646770aa19f560e7112d74902a94cb4615e02c | fragment sha256 d7566175f2c5659e44a1c65dc10577e0c8a2b53d0e7bed538f9836543d12b095 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22542, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kwetaplex XR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 210897968a59e020a89515bdf1646770aa19f560e7112d74902a94cb4615e02c | fragment sha256 16a1835d08d9dd515abff3eb033c21e84342f08692c65269c0806bcfdbeba8eb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22542, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kwetaplex XR, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 210897968a59e020a89515bdf1646770aa19f560e7112d74902a94cb4615e02c | fragment sha256 a5291e126d87f45902591dad72e18bd22f121c96124dd2873c4352ff4e9c1382 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Clopixol | 10 mg | Tabletki powlekane
+SUBSTANCJA: zuklopentiksol
+NAZWA_HANDLOWA: Clopixol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 01267   format KRAJOWA
+ID_REJESTRU: 100248091   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01267|id=100248091
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24809/characteristic
+SHA256: 9563cde193bf898dcd13ad57f0be575375961021a602e1f317616122157f2b7e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01267, magazyn chpl/zuklopentiksol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Clopixol, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9563cde193bf898dcd13ad57f0be575375961021a602e1f317616122157f2b7e | fragment sha256 d9ef4bc9ca3b28e5ba2a10e286388bc31151a9b814cc043e201347db7812140e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01267, magazyn chpl/zuklopentiksol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Clopixol, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9563cde193bf898dcd13ad57f0be575375961021a602e1f317616122157f2b7e | fragment sha256 6903fc461d351f667b730b5881b1b9dcb4abbb22a183ff74d7c5b4b0bc3eb258 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01267, magazyn chpl/zuklopentiksol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Clopixol, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9563cde193bf898dcd13ad57f0be575375961021a602e1f317616122157f2b7e | fragment sha256 7f1b1769fa0dbe2f64225e09d73394fb06ae2cb2941b74447173f7915c01191e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

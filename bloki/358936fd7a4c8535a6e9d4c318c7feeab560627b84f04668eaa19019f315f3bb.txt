@@ -1,0 +1,20 @@
+### Bupropion Hasco Lek | 300 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Bupropion Hasco Lek   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 29826   format KRAJOWA
+ID_REJESTRU: 100516367   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29826|id=100516367
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51636/characteristic
+SHA256: 6ec7b3c84cba0cbd878d995bee72b143191d3b839d4f6dc3edd7df499162d9c5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29826, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bupropion Hasco Lek, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 6ec7b3c84cba0cbd878d995bee72b143191d3b839d4f6dc3edd7df499162d9c5 | fragment sha256 0a3082a39c0ac103cf9fe0693dcdb71d6ff948f64e9022fbdb54714456c35954 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29826, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bupropion Hasco Lek, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 6ec7b3c84cba0cbd878d995bee72b143191d3b839d4f6dc3edd7df499162d9c5 | fragment sha256 0b6009ad3d80c1122581d0fc33cddb3f49c1d7b0ee29a495a04191702c1d88f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29826, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bupropion Hasco Lek, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 6ec7b3c84cba0cbd878d995bee72b143191d3b839d4f6dc3edd7df499162d9c5 | fragment sha256 ae6525364c586ff6aa0fe58dbc6a3f20f09e2d1735b2cd9054a130356b417309 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

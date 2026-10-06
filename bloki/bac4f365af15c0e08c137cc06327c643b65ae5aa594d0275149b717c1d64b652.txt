@@ -1,0 +1,14 @@
+### Latuda | 74 mg | Tabletki powlekane
+SUBSTANCJA: lurazydon
+NAZWA_HANDLOWA: Latuda   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 74 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: BRAK   format PUSTE   id_rejestru=100302896
+UWAGA_IDENTYFIKATORA: BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego; rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem
+ID_REJESTRU: 100302896   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: PUSTE|-|id=100302896
+DAWKOWANIE: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego; rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego; rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego; rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+

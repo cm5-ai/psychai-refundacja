@@ -1,0 +1,20 @@
+### Hydroxyzinum VP | 2 mg/ml | Syrop
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum VP   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg/ml
+POSTAC: Syrop
+STAN: AKTUALNA
+IDENTYFIKATOR: 20279   format KRAJOWA
+ID_REJESTRU: 100278703   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20279|id=100278703
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/27870/characteristic
+SHA256: 671fde8931e3949d83ee2aefb89905364247dd4a92493cdc963c82d5ad9d11bc
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20279, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum VP, 2 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 671fde8931e3949d83ee2aefb89905364247dd4a92493cdc963c82d5ad9d11bc | fragment sha256 8367459fd00d30b714e47e4e0afe71404cb60b070a7c2e19d82931de0c72b90c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20279, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum VP, 2 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 671fde8931e3949d83ee2aefb89905364247dd4a92493cdc963c82d5ad9d11bc | fragment sha256 4a61555be2b7d8437f74cb4a823a504f5736b26c776e5e19f03e0623d7eb3cab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20279, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum VP, 2 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 671fde8931e3949d83ee2aefb89905364247dd4a92493cdc963c82d5ad9d11bc | fragment sha256 26e33f768b879f14184bd62b5412de9aa05d82231d53213769829c8114246b6c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

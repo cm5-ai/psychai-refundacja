@@ -1,0 +1,20 @@
+### Symkinet MR | 40 mg | Kapsułki o zmodyfikowanym uwalnianiu, twarde
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Symkinet MR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Kapsułki o zmodyfikowanym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 27863   format KRAJOWA
+ID_REJESTRU: 100465900   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27863|id=100465900
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46590/characteristic
+SHA256: 6d0ceae599709f88bcaee0bade8d7f8eaa5d7819e7bb0b7e87aa9bf86f4a9161
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27863, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symkinet MR, 40 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 6d0ceae599709f88bcaee0bade8d7f8eaa5d7819e7bb0b7e87aa9bf86f4a9161 | fragment sha256 6c832d086e2af13d07ec6889435cf5e4650eaba57308a91f667d154aa3bc7612 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27863, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symkinet MR, 40 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 6d0ceae599709f88bcaee0bade8d7f8eaa5d7819e7bb0b7e87aa9bf86f4a9161 | fragment sha256 ae2e0e27f8957125ca983e2eff19965b142cf6b4569e0f60a145be351f086300 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27863, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symkinet MR, 40 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 6d0ceae599709f88bcaee0bade8d7f8eaa5d7819e7bb0b7e87aa9bf86f4a9161 | fragment sha256 b25b969aea95fb804b3d43415be82df476aa34fbb03678860ea7bf9756eb032a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Olanzaran | 10 mg | Tabletki
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzaran   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 16498   format KRAJOWA
+ID_REJESTRU: 100123857   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16498|id=100123857
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12385/characteristic
+SHA256: fee1cf527da3992419850dcc558f3a84e3ad1330ec91765f1e21e3f877e5f784
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16498, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzaran, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fee1cf527da3992419850dcc558f3a84e3ad1330ec91765f1e21e3f877e5f784 | fragment sha256 dd51729fb9c5f57d638d1645aa17832af96eb7cf39d7018b77daf36b41935aa1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16498, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzaran, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fee1cf527da3992419850dcc558f3a84e3ad1330ec91765f1e21e3f877e5f784 | fragment sha256 20c6308d2f85ef535c5ad14348dd628491e281c1b1d166cb5c4e58eec0340d75 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16498, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzaran, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fee1cf527da3992419850dcc558f3a84e3ad1330ec91765f1e21e3f877e5f784 | fragment sha256 c9b20f9bda1ce65b6fe86e78880c35650dadccdcd9eb3648703938c822ebc2ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Escitalopram LEK-AM | 10 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Escitalopram LEK-AM   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 23206   format KRAJOWA
+ID_REJESTRU: 100339592   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23206|id=100339592
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33959/characteristic
+SHA256: a0bd000c59045c0cf3ae6a5a6cb6d569399abb30bc40eaa7d87f705aec96987e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23206, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Escitalopram LEK-AM, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a0bd000c59045c0cf3ae6a5a6cb6d569399abb30bc40eaa7d87f705aec96987e | fragment sha256 71e169f806d836a80b5230ecf0d1cbe25da47cd53c83c1960adf9fe2c4d13a4f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23206, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Escitalopram LEK-AM, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a0bd000c59045c0cf3ae6a5a6cb6d569399abb30bc40eaa7d87f705aec96987e | fragment sha256 4a49ab45e3efcc471ada4f2949118c761e9248db700ac0b9cade4a7043efedae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23206, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Escitalopram LEK-AM, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a0bd000c59045c0cf3ae6a5a6cb6d569399abb30bc40eaa7d87f705aec96987e | fragment sha256 68ea4bbaa47295e1acf01a3191407db78d08f0fe2744c5924256f2f41898975f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

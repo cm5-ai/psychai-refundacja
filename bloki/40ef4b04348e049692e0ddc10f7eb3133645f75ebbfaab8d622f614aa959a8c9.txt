@@ -1,0 +1,20 @@
+### Duloxetine Medical Valley | 120 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Duloxetine Medical Valley   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 120 mg
+POSTAC: Kapsułki dojelitowe, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 28055   format KRAJOWA
+ID_REJESTRU: 100461876   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28055|id=100461876
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46187/characteristic
+SHA256: 590feb5a76eddabafb4a9bc7bab772d9560ddd74b0492febae6eefd95c3e98e2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28055, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Duloxetine Medical Valley, 120 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 590feb5a76eddabafb4a9bc7bab772d9560ddd74b0492febae6eefd95c3e98e2 | fragment sha256 ada7c991bf19a1d3a03f21e6d5b13b69fe1cd2b7ce859479320d4089c8062282 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28055, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Duloxetine Medical Valley, 120 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 590feb5a76eddabafb4a9bc7bab772d9560ddd74b0492febae6eefd95c3e98e2 | fragment sha256 48e2c00416ba17e5d3c505f5efa21cbe34072b6908942debc6200528346b1b09 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28055, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Duloxetine Medical Valley, 120 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 590feb5a76eddabafb4a9bc7bab772d9560ddd74b0492febae6eefd95c3e98e2 | fragment sha256 dd218a9f801585f57704b8de5b7cdb9ed31e7f6c860d14a0e1a716ec1509dcd6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

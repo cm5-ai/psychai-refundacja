@@ -1,0 +1,20 @@
+### Donectil ODT | 10 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Donectil ODT   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 17972   format KRAJOWA
+ID_REJESTRU: 100243395   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17972|id=100243395
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24339/characteristic
+SHA256: 37be23ee7e9854f9764ee21c3cac4a5615d27001bb162850e0c94e884fcdfb60
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17972, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Donectil ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 37be23ee7e9854f9764ee21c3cac4a5615d27001bb162850e0c94e884fcdfb60 | fragment sha256 726d989ef67da43b91c13c61cbfcd0a2b9cd2b2bd272b4524b81bded300806b2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17972, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Donectil ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 37be23ee7e9854f9764ee21c3cac4a5615d27001bb162850e0c94e884fcdfb60 | fragment sha256 68cddc6c5e7064f69c7eea3b8399d0892534f3cfe8ed9e87b2b4e9a5f4330389 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17972, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Donectil ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 37be23ee7e9854f9764ee21c3cac4a5615d27001bb162850e0c94e884fcdfb60 | fragment sha256 afe2462aacc4736dc647b431d15978b19f6f9c4a4e8175078e3735e50ca5fdf6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

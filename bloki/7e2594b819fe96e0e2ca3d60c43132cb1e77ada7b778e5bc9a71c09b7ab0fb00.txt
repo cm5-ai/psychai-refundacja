@@ -1,0 +1,20 @@
+### Moklar | 150 mg | Tabletki powlekane
+SUBSTANCJA: moklobemid
+NAZWA_HANDLOWA: Moklar   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 09537   format KRAJOWA
+ID_REJESTRU: 100109461   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09537|id=100109461
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10946/characteristic
+SHA256: c5b3ac6181aba14a3b82572d1575d9359b71e03e82dc3f499c6729df12755116
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09537, magazyn chpl/moklobemid]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Moklar, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c5b3ac6181aba14a3b82572d1575d9359b71e03e82dc3f499c6729df12755116 | fragment sha256 6513096eee25aec2dcbc91dd8463b15818a6104d1a68ccbdc27bc4dba1408791 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09537, magazyn chpl/moklobemid]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Moklar, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c5b3ac6181aba14a3b82572d1575d9359b71e03e82dc3f499c6729df12755116 | fragment sha256 3794160da121f616d99c966c280886f5bbb980922dd30ad506849b5632b251a4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09537, magazyn chpl/moklobemid]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Moklar, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c5b3ac6181aba14a3b82572d1575d9359b71e03e82dc3f499c6729df12755116 | fragment sha256 16e3629fdf810551ab24a3516b680ffd76e26e9e375034c2d2a855d250fd2b20 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

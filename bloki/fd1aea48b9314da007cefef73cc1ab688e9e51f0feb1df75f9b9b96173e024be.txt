@@ -1,0 +1,20 @@
+### Olanzapina Viatris | 10 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapina Viatris   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 21796   format KRAJOWA
+ID_REJESTRU: 100314824   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21796|id=100314824
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/31482/characteristic
+SHA256: bd4980b5d976f20d2d200227672e570bcd14b41e5e3df34e39f80d2d8cf29983
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21796, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzapina Viatris, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 bd4980b5d976f20d2d200227672e570bcd14b41e5e3df34e39f80d2d8cf29983 | fragment sha256 b85d9afd7b787fc31a91a7583a0819c49cd5a89575bc64cb0798725cf7355f03 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21796, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzapina Viatris, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 bd4980b5d976f20d2d200227672e570bcd14b41e5e3df34e39f80d2d8cf29983 | fragment sha256 09fd7a91070aa9f753d4bde73287e79ef0a870f610df1bccf8333bc924df4194 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21796, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzapina Viatris, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 bd4980b5d976f20d2d200227672e570bcd14b41e5e3df34e39f80d2d8cf29983 | fragment sha256 c9b20f9bda1ce65b6fe86e78880c35650dadccdcd9eb3648703938c822ebc2ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

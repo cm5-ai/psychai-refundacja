@@ -1,0 +1,20 @@
+### Anafranil | 25 mg | Tabletki powlekane
+SUBSTANCJA: klomipramina
+NAZWA_HANDLOWA: Anafranil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 02950   format KRAJOWA
+ID_REJESTRU: 100005649   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|02950|id=100005649
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/564/characteristic
+SHA256: 8ea0552f4d356eeb0942da25a6db9dbb5994f099aff11a16479cc170dbd4c3e4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 02950, magazyn chpl/klomipramina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Anafranil, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8ea0552f4d356eeb0942da25a6db9dbb5994f099aff11a16479cc170dbd4c3e4 | fragment sha256 f7d5480a47708e01b7dcaea3938914c69a463b830b22f182c03ea2e34d3f3f0e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 02950, magazyn chpl/klomipramina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Anafranil, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8ea0552f4d356eeb0942da25a6db9dbb5994f099aff11a16479cc170dbd4c3e4 | fragment sha256 0f2b6e6ccbd285a976509a02b1dd01adfbbb6bf17510f9546076a4e2c554dff1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 02950, magazyn chpl/klomipramina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Anafranil, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8ea0552f4d356eeb0942da25a6db9dbb5994f099aff11a16479cc170dbd4c3e4 | fragment sha256 626196a97638542ca68090eee1cc84f417a114c05246d77c813f69ce8a985ff1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

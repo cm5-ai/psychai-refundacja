@@ -1,0 +1,20 @@
+### Stilnox | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Stilnox   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 00375   format KRAJOWA
+ID_REJESTRU: 100063983   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|00375|id=100063983
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6398/characteristic
+SHA256: 3151864c5c22f22b31fd444ade6b2b589772fab40174b149cfa099c67a6bc828
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 00375, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Stilnox, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3151864c5c22f22b31fd444ade6b2b589772fab40174b149cfa099c67a6bc828 | fragment sha256 72388db86cffff345b580816b13797982d21a952d296a098a3945733e1d10533 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00375, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Stilnox, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3151864c5c22f22b31fd444ade6b2b589772fab40174b149cfa099c67a6bc828 | fragment sha256 c7dda835acff7a8b52157ec5c70448f6c3946bc52b9c7722b2773a4306c894ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00375, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Stilnox, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3151864c5c22f22b31fd444ade6b2b589772fab40174b149cfa099c67a6bc828 | fragment sha256 458c974263dbac5a9e4dd5aebde27dec0d291a933b9d6eccb129fb8bce5ca3ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

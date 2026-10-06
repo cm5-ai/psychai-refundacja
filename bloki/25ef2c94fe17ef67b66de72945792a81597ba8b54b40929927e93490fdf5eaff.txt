@@ -1,0 +1,20 @@
+### Biomentin | 20 mg | Tabletki powlekane
+SUBSTANCJA: memantyna
+NAZWA_HANDLOWA: Biomentin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 20582   format KRAJOWA
+ID_REJESTRU: 100287180   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20582|id=100287180
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28718/characteristic
+SHA256: 40e6b43ff0e2b9ed172e9f1d4f987bc985eb7c2b0a3d9b7d9ee2c2b0f8f51a85
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20582, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Biomentin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 40e6b43ff0e2b9ed172e9f1d4f987bc985eb7c2b0a3d9b7d9ee2c2b0f8f51a85 | fragment sha256 46a9ef57fbc4e77778480b66ccd2af1e6d4ed456215b34d2fd1095decff34e7c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20582, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Biomentin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 40e6b43ff0e2b9ed172e9f1d4f987bc985eb7c2b0a3d9b7d9ee2c2b0f8f51a85 | fragment sha256 63b5c3891df8bcf8c1a7c908bc29d0f1d98920362b9ba4a24cc3a675615fd114 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20582, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Biomentin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 40e6b43ff0e2b9ed172e9f1d4f987bc985eb7c2b0a3d9b7d9ee2c2b0f8f51a85 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

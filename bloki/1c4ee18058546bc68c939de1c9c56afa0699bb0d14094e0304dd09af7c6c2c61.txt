@@ -1,0 +1,20 @@
+### Sental | 4 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Sental   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 4 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 29289   format KRAJOWA
+ID_REJESTRU: 100493885   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29289|id=100493885
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49388/characteristic
+SHA256: a4030c8c30019f1908ea2987c6aef8a69967bf5bd2312f6c7ad825fa46f89b69
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29289, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sental, 4 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a4030c8c30019f1908ea2987c6aef8a69967bf5bd2312f6c7ad825fa46f89b69 | fragment sha256 642e0d1241b5aa27fc0c55a0039106c868219e714eadb449ad20898fce07a83f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29289, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sental, 4 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a4030c8c30019f1908ea2987c6aef8a69967bf5bd2312f6c7ad825fa46f89b69 | fragment sha256 39f58c4ddb01eef832446b10a12a4fa1d970f4badf1d86585b773b822989e476 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29289, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sental, 4 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a4030c8c30019f1908ea2987c6aef8a69967bf5bd2312f6c7ad825fa46f89b69 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

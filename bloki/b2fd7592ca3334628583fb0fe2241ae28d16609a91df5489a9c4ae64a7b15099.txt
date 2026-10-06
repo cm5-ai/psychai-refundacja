@@ -1,0 +1,20 @@
+### Aciprex | 10 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Aciprex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 16362   format KRAJOWA
+ID_REJESTRU: 100221554   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16362|id=100221554
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22155/characteristic
+SHA256: a4e00462dee599c4aa930e91194d7de3f073f759351e96706669e812aa684f5f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16362, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aciprex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a4e00462dee599c4aa930e91194d7de3f073f759351e96706669e812aa684f5f | fragment sha256 f6af1a44fe7972d8f33d31a247b188ad0bfae549f6497d193a5fd3ef9e3feed4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16362, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aciprex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a4e00462dee599c4aa930e91194d7de3f073f759351e96706669e812aa684f5f | fragment sha256 a3fc94ea36a3b347741f6a971fc750a4fc1d19fd88d23639f7496ff2759cc706 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16362, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aciprex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a4e00462dee599c4aa930e91194d7de3f073f759351e96706669e812aa684f5f | fragment sha256 640ed83a51f475c3557149a76acc76f4eba3071d7cde9b81723d1e103c0e0f5f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

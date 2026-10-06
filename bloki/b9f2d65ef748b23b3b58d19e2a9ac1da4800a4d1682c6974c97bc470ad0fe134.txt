@@ -1,0 +1,20 @@
+### Midazolam Accord | 1 mg/ml | Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Midazolam Accord   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 26475   format KRAJOWA
+ID_REJESTRU: 100420319   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26475|id=100420319
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42031/characteristic
+SHA256: 52d9ce11810e333ae148a6e0867c8b1bce16fe1af66c05aafd92873b89da1d60
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26475, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Midazolam Accord, 1 mg/ml, Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 52d9ce11810e333ae148a6e0867c8b1bce16fe1af66c05aafd92873b89da1d60 | fragment sha256 4ddcb464ff0edc470d5f54881b34ad545d6c43973d2d64c4d152ad9314ac40e8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26475, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Midazolam Accord, 1 mg/ml, Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 52d9ce11810e333ae148a6e0867c8b1bce16fe1af66c05aafd92873b89da1d60 | fragment sha256 7ce836e1699a8cbf22008055863cc18097c64a63f542498a24b13751028064ca | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26475, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Midazolam Accord, 1 mg/ml, Roztwór do wstrzykiwań lub infuzji w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 52d9ce11810e333ae148a6e0867c8b1bce16fe1af66c05aafd92873b89da1d60 | fragment sha256 3a82c1571ddeca13661f0c673e5b0ff6644e4e7519ff207b0a07708a78456cdd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

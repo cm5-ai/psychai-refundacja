@@ -1,0 +1,20 @@
+### Xanax SR | 2 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Xanax SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 07940   format KRAJOWA
+ID_REJESTRU: 100247022   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07940|id=100247022
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24702/characteristic
+SHA256: 087168e6b4fd0cc22f44d9bb0a1233c52612f0ef42f0fa84f258265249d4bb11
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07940, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Xanax SR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 087168e6b4fd0cc22f44d9bb0a1233c52612f0ef42f0fa84f258265249d4bb11 | fragment sha256 7c92378921c3ee068dde0c2fcf04189bfcb1f19a39a3dd155660d2fa660f8162 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07940, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Xanax SR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 087168e6b4fd0cc22f44d9bb0a1233c52612f0ef42f0fa84f258265249d4bb11 | fragment sha256 7aa67ed23afb15a28c7be2af778493015c86f8ed79b57d50e21d0b57abd2be5b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07940, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Xanax SR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 087168e6b4fd0cc22f44d9bb0a1233c52612f0ef42f0fa84f258265249d4bb11 | fragment sha256 aa8471075d095247c640116d3f88e9e6f4619aad0fb3b760f878f1394a8cba6c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

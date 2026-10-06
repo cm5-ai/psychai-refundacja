@@ -1,0 +1,20 @@
+### Cogiton 10 | 10 mg | Tabletki powlekane
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Cogiton 10   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 10244   format KRAJOWA
+ID_REJESTRU: 100119560   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10244|id=100119560
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11956/characteristic
+SHA256: ea2c048c22a7ce4c4bf11c288dcf700d10c49c9d9e2cccce89dc2da481b14f0a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10244, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Cogiton 10, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ea2c048c22a7ce4c4bf11c288dcf700d10c49c9d9e2cccce89dc2da481b14f0a | fragment sha256 f0257991e3ff4090d553e9270841144fea062701645197fbfaed1fd4f2226c7b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10244, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Cogiton 10, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ea2c048c22a7ce4c4bf11c288dcf700d10c49c9d9e2cccce89dc2da481b14f0a | fragment sha256 4e936ad47ebbd9fa2edc5c65e9e0b14f6371a84f4316fdc7f0a8bc326ad74fcd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10244, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Cogiton 10, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ea2c048c22a7ce4c4bf11c288dcf700d10c49c9d9e2cccce89dc2da481b14f0a | fragment sha256 0901b2db60d68fa610461c00a2a130fd247b681ef035060ab85ae658f9dd20c8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

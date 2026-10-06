@@ -1,0 +1,20 @@
+### Mobemid | 150 mg | Tabletki powlekane
+SUBSTANCJA: moklobemid
+NAZWA_HANDLOWA: Mobemid   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 09668   format KRAJOWA
+ID_REJESTRU: 100245595   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09668|id=100245595
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24559/characteristic
+SHA256: 6385780e111779da75417c7e40980912c11b42708f0cc353968699455ad9932f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09668, magazyn chpl/moklobemid]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mobemid, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6385780e111779da75417c7e40980912c11b42708f0cc353968699455ad9932f | fragment sha256 0495af9d80f7b3c03c1265c2becd49742a5bcb69f7ceb9ea2324e81936d6fedd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09668, magazyn chpl/moklobemid]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mobemid, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6385780e111779da75417c7e40980912c11b42708f0cc353968699455ad9932f | fragment sha256 9aaec9690233c9e0d59fbe9db1c694a88c5edfb2d6112c3696b1f04cb49701b7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09668, magazyn chpl/moklobemid]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mobemid, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6385780e111779da75417c7e40980912c11b42708f0cc353968699455ad9932f | fragment sha256 d02792bef0981e68bc5cadb3d12dade1deaee1dfee71edceb6644b2f4ddc2148 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

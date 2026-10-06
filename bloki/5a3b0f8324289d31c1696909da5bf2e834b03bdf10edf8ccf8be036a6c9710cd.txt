@@ -1,0 +1,20 @@
+### Dulofor | 30 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Dulofor   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Kapsułki dojelitowe, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 25656   format KRAJOWA
+ID_REJESTRU: 100328430   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25656|id=100328430
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/32843/characteristic
+SHA256: 68ccc7a25cef04645855ccf57355591ba4e0fdfbaf9695d71cce4611f33918ac
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25656, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Dulofor, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 68ccc7a25cef04645855ccf57355591ba4e0fdfbaf9695d71cce4611f33918ac | fragment sha256 24540f6c5eca24992c9a66c17d78a35164433449ed577e1bcb8e6a891e56a73b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25656, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Dulofor, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 68ccc7a25cef04645855ccf57355591ba4e0fdfbaf9695d71cce4611f33918ac | fragment sha256 b237c1ae4b3059e6adb9cee8f15ffb2e465ab11b5db35ebbe93dd5a295cc03e0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25656, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Dulofor, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 68ccc7a25cef04645855ccf57355591ba4e0fdfbaf9695d71cce4611f33918ac | fragment sha256 8af9b0b256ab4ca0805142d778d1be0be4b5d7d0e08ee02e90687f7905a94935 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

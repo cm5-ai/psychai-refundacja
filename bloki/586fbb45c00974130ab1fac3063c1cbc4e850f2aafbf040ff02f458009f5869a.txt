@@ -1,0 +1,20 @@
+### Lafactin | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Lafactin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 24810   format KRAJOWA
+ID_REJESTRU: 100333879   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24810|id=100333879
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33387/characteristic
+SHA256: 37ea5bc16948e0e0d3a158b1cb305ba1f13d3e5ddf0c16fb706b92d9e7583500
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24810, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lafactin, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 37ea5bc16948e0e0d3a158b1cb305ba1f13d3e5ddf0c16fb706b92d9e7583500 | fragment sha256 58559b62076af958ce0c042a84e532b0660b935ab7c4ab6cbdeef1ff3d5a8fc2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24810, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lafactin, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 37ea5bc16948e0e0d3a158b1cb305ba1f13d3e5ddf0c16fb706b92d9e7583500 | fragment sha256 98c8cd32e259f1fac3a7cd3bda29b030a83ae54d78236545d1201074427ddeae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24810, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lafactin, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 37ea5bc16948e0e0d3a158b1cb305ba1f13d3e5ddf0c16fb706b92d9e7583500 | fragment sha256 d146d506fe47ce322e94f986af13d19d1bacf3fc0d25877b6d70a6e88b34a993 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Topamax | 200 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Topamax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 07591   format KRAJOWA
+ID_REJESTRU: 100080272   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07591|id=100080272
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8027/characteristic
+SHA256: edd5941555e592b31ae5490aebd215f89da5c4e37a507e70a2071e42a4f5a95f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07591, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Topamax, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 edd5941555e592b31ae5490aebd215f89da5c4e37a507e70a2071e42a4f5a95f | fragment sha256 7960d99c546435b139b740cc368be0752778bb4de92f3870c90957bfb8759c10 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07591, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Topamax, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 edd5941555e592b31ae5490aebd215f89da5c4e37a507e70a2071e42a4f5a95f | fragment sha256 c96cdbd081fe46c2fe4830b7dc10aeb387b33dd7848a062ae04ac55bda638d10 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07591, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Topamax, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 edd5941555e592b31ae5490aebd215f89da5c4e37a507e70a2071e42a4f5a95f | fragment sha256 52435251dc1b46da8709595e1738551ae0e61aedd12c33a1753ddc3a379571ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

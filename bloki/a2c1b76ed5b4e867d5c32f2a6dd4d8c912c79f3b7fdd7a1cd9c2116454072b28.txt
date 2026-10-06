@@ -1,0 +1,20 @@
+### Atenza | 18 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Atenza   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 18 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 27342   format KRAJOWA
+ID_REJESTRU: 100412432   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27342|id=100412432
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41243/characteristic
+SHA256: 0199720a5568c533ced79f8532506b9e559ff64aee4a4967d99a388c2d737951
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27342, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Atenza, 18 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0199720a5568c533ced79f8532506b9e559ff64aee4a4967d99a388c2d737951 | fragment sha256 0f269560198ac4daaddcc97494922ca06a55774f207585c70703434168f22769 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27342, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Atenza, 18 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0199720a5568c533ced79f8532506b9e559ff64aee4a4967d99a388c2d737951 | fragment sha256 abb68ba23754bcc2725c9df95be81d4fb557ede5d67a5070b80ed24449eef86f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27342, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Atenza, 18 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0199720a5568c533ced79f8532506b9e559ff64aee4a4967d99a388c2d737951 | fragment sha256 9523ff345fdd6f765d40b86eedc7041500cec86142dd635ee466ce3339788c18 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

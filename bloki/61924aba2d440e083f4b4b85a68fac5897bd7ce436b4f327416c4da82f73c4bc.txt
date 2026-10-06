@@ -1,0 +1,20 @@
+### Solian | 100 mg | Tabletki
+SUBSTANCJA: amisulpryd
+NAZWA_HANDLOWA: Solian   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 08408   format KRAJOWA
+ID_REJESTRU: 100098237   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08408|id=100098237
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9823/characteristic
+SHA256: 7c5060a0fb0dd86835a83994da811991b1f710a1c4a71ca4fb357471ec606387
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08408, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Solian, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7c5060a0fb0dd86835a83994da811991b1f710a1c4a71ca4fb357471ec606387 | fragment sha256 c855d1c33416d093be1d6485e621674901bf8aa177b2d003a61ffdeee787c42a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08408, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Solian, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7c5060a0fb0dd86835a83994da811991b1f710a1c4a71ca4fb357471ec606387 | fragment sha256 1aa10a0c6dd257250ce39ce5a4967152e12d554ee771389a7fde6c9b08c92b03 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08408, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Solian, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7c5060a0fb0dd86835a83994da811991b1f710a1c4a71ca4fb357471ec606387 | fragment sha256 07e9bd15f65146e2d0373ec33df090441b3e27dda4f6c33a50957f93eb498e70 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

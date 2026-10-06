@@ -1,0 +1,20 @@
+### Ranofren | 10 mg | Tabletki
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Ranofren   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 14456   format KRAJOWA
+ID_REJESTRU: 100191445   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14456|id=100191445
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19144/characteristic
+SHA256: 02835a3254ef8a134c4ff28d77e440f8d32e5b3a1335e9b239ff49c75fbaae0c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14456, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ranofren, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 02835a3254ef8a134c4ff28d77e440f8d32e5b3a1335e9b239ff49c75fbaae0c | fragment sha256 09844992bc7fc5a79bbf0ec4f9b4a8767318f6d08b1dd32d88609fab077ee483 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14456, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ranofren, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 02835a3254ef8a134c4ff28d77e440f8d32e5b3a1335e9b239ff49c75fbaae0c | fragment sha256 67409e061720921bf0686f9c3ed56b89eb42deb70306ede10aa654604df594ae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14456, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ranofren, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 02835a3254ef8a134c4ff28d77e440f8d32e5b3a1335e9b239ff49c75fbaae0c | fragment sha256 c9b20f9bda1ce65b6fe86e78880c35650dadccdcd9eb3648703938c822ebc2ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

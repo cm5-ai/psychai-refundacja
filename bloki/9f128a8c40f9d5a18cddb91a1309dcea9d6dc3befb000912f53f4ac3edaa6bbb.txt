@@ -1,0 +1,20 @@
+### Diphergan | 25 mg | Tabletki drażowane
+SUBSTANCJA: prometazyna
+NAZWA_HANDLOWA: Diphergan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki drażowane
+STAN: AKTUALNA
+IDENTYFIKATOR: 01078   format KRAJOWA
+ID_REJESTRU: 100019315   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01078|id=100019315
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1931/characteristic
+SHA256: 0e84aa91b318c8fd85ce0a18bdbbdbbfd3275f907abdccbdb4e55cdfe39a57e6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01078, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Diphergan, 25 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 0e84aa91b318c8fd85ce0a18bdbbdbbfd3275f907abdccbdb4e55cdfe39a57e6 | fragment sha256 49db0fc51a8b13b21f2597523caf243a715d4072b5af0c424144be31d53ce43f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01078, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Diphergan, 25 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 0e84aa91b318c8fd85ce0a18bdbbdbbfd3275f907abdccbdb4e55cdfe39a57e6 | fragment sha256 de2e54b8dd193255db0bb77052624e8bfa5b3e2da128541bae486646d0f1ceb1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01078, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Diphergan, 25 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 0e84aa91b318c8fd85ce0a18bdbbdbbfd3275f907abdccbdb4e55cdfe39a57e6 | fragment sha256 821e39ec3feb4584083a082e0ed3cf246e069c1f47865fae8a4cb05d9fc6d1c3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

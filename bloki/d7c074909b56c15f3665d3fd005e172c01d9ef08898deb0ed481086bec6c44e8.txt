@@ -1,0 +1,20 @@
+### ApoSerta | 100 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: ApoSerta   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 24426   format KRAJOWA
+ID_REJESTRU: 100373726   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24426|id=100373726
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/37372/characteristic
+SHA256: 546dd4df7374a2645499dcb2a0d14a8255fc07b813be00605e8e2b1fd17d7639
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24426, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ApoSerta, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 546dd4df7374a2645499dcb2a0d14a8255fc07b813be00605e8e2b1fd17d7639 | fragment sha256 b8a55bfb028972f93308b7f8da7fe10a45313c100950b701073f177e986ef785 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24426, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ApoSerta, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 546dd4df7374a2645499dcb2a0d14a8255fc07b813be00605e8e2b1fd17d7639 | fragment sha256 6a977e4256e187a6ff49e4c94d51294f9dcfcdae149806596ff3e6abc3b592de | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24426, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ApoSerta, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 546dd4df7374a2645499dcb2a0d14a8255fc07b813be00605e8e2b1fd17d7639 | fragment sha256 9d860478da1181cec6fa8a6b2cd58883eef3a973ce8ab751a433f184300947fa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

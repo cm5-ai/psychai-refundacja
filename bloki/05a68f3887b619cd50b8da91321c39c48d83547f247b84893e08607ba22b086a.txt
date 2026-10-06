@@ -1,0 +1,20 @@
+### Polfergan | 5 mg/5 ml | Syrop
+SUBSTANCJA: prometazyna
+NAZWA_HANDLOWA: Polfergan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/5 ml
+POSTAC: Syrop
+STAN: AKTUALNA
+IDENTYFIKATOR: 01389   format KRAJOWA
+ID_REJESTRU: 100204538   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01389|id=100204538
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20453/characteristic
+SHA256: 6cb7ed64dcd5cf5e19eb80b759ca0debfb25184a142abc7d79846e9aa7467007
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01389, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Polfergan, 5 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 6cb7ed64dcd5cf5e19eb80b759ca0debfb25184a142abc7d79846e9aa7467007 | fragment sha256 301123093c50c79c98abb627e5e32eb34f75ec75f5304f8849812ca2d976f6ce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01389, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Polfergan, 5 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 6cb7ed64dcd5cf5e19eb80b759ca0debfb25184a142abc7d79846e9aa7467007 | fragment sha256 cc15dd98080489532062ee911a9a9ce9473b0bdf6a5607674fdb6f7d0ee4c84d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01389, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Polfergan, 5 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 6cb7ed64dcd5cf5e19eb80b759ca0debfb25184a142abc7d79846e9aa7467007 | fragment sha256 ab98efda360f63fa34b039ea1198e335263492a461526bd4c0a471291f7007dd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

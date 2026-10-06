@@ -1,0 +1,20 @@
+### Tiaprid PMCS | 100 mg | Tabletki
+SUBSTANCJA: tiapryd
+NAZWA_HANDLOWA: Tiaprid PMCS   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 20147   format KRAJOWA
+ID_REJESTRU: 100279453   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20147|id=100279453
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/27945/characteristic
+SHA256: 711f525d2739012914d2b953c610a4346608b00c2e01d1c10431e5131faca920
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20147, magazyn chpl/tiapryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tiaprid PMCS, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 711f525d2739012914d2b953c610a4346608b00c2e01d1c10431e5131faca920 | fragment sha256 9220f85c17d0c248a64880e15a64d37f336612b34704440743cc685d4d5be930 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20147, magazyn chpl/tiapryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tiaprid PMCS, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 711f525d2739012914d2b953c610a4346608b00c2e01d1c10431e5131faca920 | fragment sha256 ca318c27ce3c40a29411266ec9af795012b90a73e223333da18f512ab0602f1f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20147, magazyn chpl/tiapryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tiaprid PMCS, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 711f525d2739012914d2b953c610a4346608b00c2e01d1c10431e5131faca920 | fragment sha256 b7270b43dec328e263fdfdf8be008be0e6de1eda6d9864fb485c952969d82c2f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

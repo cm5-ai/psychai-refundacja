@@ -1,0 +1,20 @@
+### Anubes | 5 mg | Tabletki powlekane
+SUBSTANCJA: wortioksetyna
+NAZWA_HANDLOWA: Anubes   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 29876   format KRAJOWA
+ID_REJESTRU: 100433428   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29876|id=100433428
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43342/characteristic
+SHA256: 924a8763e09579a0b089eb71f16cbd642b17fccc5222dcdfca1d568aa2d62dcd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29876, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Anubes, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 924a8763e09579a0b089eb71f16cbd642b17fccc5222dcdfca1d568aa2d62dcd | fragment sha256 69049790ca16de31b9495a365f378c272804f8c6ee30db738507c7a808afcd7d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29876, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Anubes, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 924a8763e09579a0b089eb71f16cbd642b17fccc5222dcdfca1d568aa2d62dcd | fragment sha256 5ccf0bd0714384fd14149db92b978af0fb131c6cbf33dd8a6fe51d90759bb4a8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29876, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Anubes, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 924a8763e09579a0b089eb71f16cbd642b17fccc5222dcdfca1d568aa2d62dcd | fragment sha256 7ff8ffb7155dceda0b4d8033f16fa564758127154f73e4e689782bd29648c8de | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

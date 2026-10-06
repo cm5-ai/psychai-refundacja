@@ -1,0 +1,20 @@
+### Chlorprothixen Zentiva | 15 mg | Tabletki powlekane
+SUBSTANCJA: chlorprotiksen
+NAZWA_HANDLOWA: Chlorprothixen Zentiva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 02030   format KRAJOWA
+ID_REJESTRU: 100066438   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|02030|id=100066438
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6643/characteristic
+SHA256: 887b1567baab6e717cf0fbc08df06ab4299e078e4ac32dddcde225ea21286290
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 02030, magazyn chpl/chlorprotiksen]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Chlorprothixen Zentiva, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 887b1567baab6e717cf0fbc08df06ab4299e078e4ac32dddcde225ea21286290 | fragment sha256 b3f3bfccbd15eb074f64f9d7361b97c84770ad5eff9f4c673b3a8359be1d9756 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 02030, magazyn chpl/chlorprotiksen]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Chlorprothixen Zentiva, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 887b1567baab6e717cf0fbc08df06ab4299e078e4ac32dddcde225ea21286290 | fragment sha256 fc489afdeb70ca32676d79b6e544ed8d5c11a301aaa43b8fc29c6b01e43eef46 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 02030, magazyn chpl/chlorprotiksen]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Chlorprothixen Zentiva, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 887b1567baab6e717cf0fbc08df06ab4299e078e4ac32dddcde225ea21286290 | fragment sha256 a17a9070ee6832c3094a8fdf3ccc6f025d421a3f71598e49766102efd8118fc9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

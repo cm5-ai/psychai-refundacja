@@ -1,0 +1,20 @@
+### Welbox | 150 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Welbox   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 25782   format KRAJOWA
+ID_REJESTRU: 100411929   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25782|id=100411929
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41192/characteristic
+SHA256: aad627e48f63d827d11d496ff2700f641952ee94c41c72546b0e999ce55eeb23
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25782, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Welbox, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 aad627e48f63d827d11d496ff2700f641952ee94c41c72546b0e999ce55eeb23 | fragment sha256 5fd43f2fb6c8876250f4d9572192898bfddba5008bec1b829620efff42bfb51d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25782, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Welbox, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 aad627e48f63d827d11d496ff2700f641952ee94c41c72546b0e999ce55eeb23 | fragment sha256 90d15bde2366e249e9a6b3cde88eacb387c50fc66a4b02d2a41cb400675feab8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25782, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Welbox, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 aad627e48f63d827d11d496ff2700f641952ee94c41c72546b0e999ce55eeb23 | fragment sha256 cf9f477eef5a573dc62588767b8f18e94033d03c48d0acae0b559cb36ed25944 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

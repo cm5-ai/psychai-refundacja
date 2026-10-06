@@ -1,0 +1,20 @@
+### Lerivon | 30 mg | Tabletki powlekane
+SUBSTANCJA: mianseryna
+NAZWA_HANDLOWA: Lerivon   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 01578   format KRAJOWA
+ID_REJESTRU: 100037218   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01578|id=100037218
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3721/characteristic
+SHA256: 23e90398c9a65eebf77d12a2c7c1dd70b610f7fbf12048b2afbf6fbd8e446ae5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01578, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lerivon, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 23e90398c9a65eebf77d12a2c7c1dd70b610f7fbf12048b2afbf6fbd8e446ae5 | fragment sha256 b67726183d0843704adc293e85bb8608bf5b506a1094c9fcad0c8b313c0eeb97 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01578, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lerivon, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 23e90398c9a65eebf77d12a2c7c1dd70b610f7fbf12048b2afbf6fbd8e446ae5 | fragment sha256 29f8eae215b01020e6af444f8a4bde4700d46c3cc4e02ebdfb9d33168107cc7d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01578, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lerivon, 30 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 23e90398c9a65eebf77d12a2c7c1dd70b610f7fbf12048b2afbf6fbd8e446ae5 | fragment sha256 3f33587c92c5c414eabb059a963bd8d0a3ab07c30681769b5b6bc11545044d94 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

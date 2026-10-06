@@ -1,0 +1,15 @@
+### Olanzapine Glenmark | 15 mg | Tabletki
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapine Glenmark   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: EU/1/09/587   format NUMER_EU
+UWAGA_IDENTYFIKATORA: numer unijny odczytany z opakowan (pole pozwolenie jest puste); czlon opakowaniowy odrzucony, zostaje numer produktu
+ID_REJESTRU: 100312498   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_EU|EU/1/09/587|id=100312498
+WSKAZANIA: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestracja jest centralna, a rejestr unijny wydaje jeden dokument na NUMER EU, nie na rejestracje: ten sam numer obejmuje rozne moce i postacie, wiec rownosc numeru nie przypina fragmentu dawki do TEJ rejestracji, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

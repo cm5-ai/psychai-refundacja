@@ -1,0 +1,20 @@
+### Pragiola | 25 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Pragiola   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 22531   format KRAJOWA
+ID_REJESTRU: 100341198   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22531|id=100341198
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34119/characteristic
+SHA256: b654ebad52113a891812df936972c4671ef88eec3a7cd1511dd90b80fa299ce9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22531, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pragiola, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b654ebad52113a891812df936972c4671ef88eec3a7cd1511dd90b80fa299ce9 | fragment sha256 e46e528f90cfcb5243e270beaeb562491ec9092999fe516900f60e6600fd7566 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22531, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pragiola, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b654ebad52113a891812df936972c4671ef88eec3a7cd1511dd90b80fa299ce9 | fragment sha256 8576a19dc152c34033dff8349b927e105c722253e4f16da5a50bd152d5de4679 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22531, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pragiola, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b654ebad52113a891812df936972c4671ef88eec3a7cd1511dd90b80fa299ce9 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

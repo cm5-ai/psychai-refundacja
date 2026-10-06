@@ -1,0 +1,20 @@
+### Wellbutrin XR | 150 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Wellbutrin XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 12786   format KRAJOWA
+ID_REJESTRU: 100175251   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12786|id=100175251
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17525/characteristic
+SHA256: 60c9194490be256866d83c20db3f442b8a24289c17b857715413a3441e3dcce4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12786, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Wellbutrin XR, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 60c9194490be256866d83c20db3f442b8a24289c17b857715413a3441e3dcce4 | fragment sha256 203bd6280f4ab99d22a3ac91a34d39f91f6a7e1e2b3f8b19128c36d9b3a811f4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12786, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Wellbutrin XR, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 60c9194490be256866d83c20db3f442b8a24289c17b857715413a3441e3dcce4 | fragment sha256 fee255dd9b3612abfde08de28b84e57cbe799b38cc713de11c42e816eaad1a4f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12786, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Wellbutrin XR, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 60c9194490be256866d83c20db3f442b8a24289c17b857715413a3441e3dcce4 | fragment sha256 17f2ee28bbdf844851daeb5c94e406fe80ceef32bfff8f3a1841aed4c234591f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

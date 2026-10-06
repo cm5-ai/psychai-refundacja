@@ -1,0 +1,19 @@
+### Citronil | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Citronil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 12663   format KRAJOWA
+ID_REJESTRU: 100174004   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12663|id=100174004
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17400/characteristic
+SHA256: ab8499bf1bf046c74b5fb709a9e423e93afe9bf700d95bab66b6e5704f307c51
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA: BRAK_FRAGMENTU_W_SPRAWDZONYM_ZRODLE — dokument jest przypisany, punktu 4.1 w nim nie ma.
+DAWKOWANIE [ChPL 4.2, pozwolenie 12663, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Citronil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ab8499bf1bf046c74b5fb709a9e423e93afe9bf700d95bab66b6e5704f307c51 | fragment sha256 a245bcc7138e6fbb924c9eac02cf637afa8213b8824e428bbe19e5f4d2ad0cd9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12663, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Citronil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ab8499bf1bf046c74b5fb709a9e423e93afe9bf700d95bab66b6e5704f307c51 | fragment sha256 8bfd587e178720e65807180673becd86fd0330897140f64c89b91a865138af93 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

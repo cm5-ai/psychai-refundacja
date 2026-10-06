@@ -1,0 +1,20 @@
+### Estazolam Espefa | 2 mg | Tabletki
+SUBSTANCJA: estazolam
+NAZWA_HANDLOWA: Estazolam Espefa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 16626   format KRAJOWA
+ID_REJESTRU: 100225115   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16626|id=100225115
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22511/characteristic
+SHA256: a61ff7598b4f3f855a11bcf2b2def5aac921a23a8cc24005fe14b1e8647db709
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16626, magazyn chpl/estazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Estazolam Espefa, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a61ff7598b4f3f855a11bcf2b2def5aac921a23a8cc24005fe14b1e8647db709 | fragment sha256 79fcd5aaf1e18aaa5070b9ca5562b11d87e28db36defe2b6da3b3b45374206bb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16626, magazyn chpl/estazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Estazolam Espefa, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a61ff7598b4f3f855a11bcf2b2def5aac921a23a8cc24005fe14b1e8647db709 | fragment sha256 84e30e1e576b02e7ddd4df222e02f566052aa2f0da0548c684fb5d5de2cab36a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16626, magazyn chpl/estazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Estazolam Espefa, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a61ff7598b4f3f855a11bcf2b2def5aac921a23a8cc24005fe14b1e8647db709 | fragment sha256 d037825cf62def654b16c0cd1ad8cf987faec8c0890e6e030f3836049ea62fb4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

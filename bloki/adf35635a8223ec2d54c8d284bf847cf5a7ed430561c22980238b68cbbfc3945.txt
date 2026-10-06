@@ -1,0 +1,20 @@
+### Olanzapine Aurovitas | 5 mg | Tabletki
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapine Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 28311   format KRAJOWA
+ID_REJESTRU: 100465372   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28311|id=100465372
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46537/characteristic
+SHA256: f039b9f965887e624e5e5f1ed314b51371f62058512296c8735c3c9d6dc72fe3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28311, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzapine Aurovitas, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f039b9f965887e624e5e5f1ed314b51371f62058512296c8735c3c9d6dc72fe3 | fragment sha256 ea9f255b933cdee11db10ba06901868ab8a22adeb01f30fdb3d849d4f7e566be | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28311, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzapine Aurovitas, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f039b9f965887e624e5e5f1ed314b51371f62058512296c8735c3c9d6dc72fe3 | fragment sha256 215e0860dbb5c224cdf14f5011226bac31b5c66f63501393dfdf4e5cddd3f7da | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28311, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzapine Aurovitas, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f039b9f965887e624e5e5f1ed314b51371f62058512296c8735c3c9d6dc72fe3 | fragment sha256 c591ad873ccd2aedf91a645c438f151b82d4f2cb11135fce35ff51afb1cd51fd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

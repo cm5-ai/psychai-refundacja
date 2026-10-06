@@ -1,0 +1,20 @@
+### Fluanxol Depot | 20 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: flupentiksol
+NAZWA_HANDLOWA: Fluanxol Depot   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+STAN: AKTUALNA
+IDENTYFIKATOR: 01272   format KRAJOWA
+ID_REJESTRU: 100024658   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01272|id=100024658
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2465/characteristic
+SHA256: 4502e07edffd14e407352a3b0265487365bac67f487c45e5ecd7a9f895928799
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01272, magazyn chpl/flupentiksol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Fluanxol Depot, 20 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 4502e07edffd14e407352a3b0265487365bac67f487c45e5ecd7a9f895928799 | fragment sha256 263cdf926fb58c79a6520b9b1c809f8190ecddb0d3560e5676a0c9eb67a145a3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01272, magazyn chpl/flupentiksol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Fluanxol Depot, 20 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 4502e07edffd14e407352a3b0265487365bac67f487c45e5ecd7a9f895928799 | fragment sha256 966d5889b5c91094db571b592c3f28d0189318d4b97a9e051b450e2f277e3e60 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01272, magazyn chpl/flupentiksol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Fluanxol Depot, 20 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 4502e07edffd14e407352a3b0265487365bac67f487c45e5ecd7a9f895928799 | fragment sha256 03ad595c8e6ccfa01dbc855a0b8492040d948e8877db869bc0806132d88e8abb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

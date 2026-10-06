@@ -1,0 +1,8 @@
+### Wellbutrin XR | 150 mg | Tabletki o zmodyfikowanym uwalnianiu
+KLUCZ: NUMER_ROK|282/18|id=100411148
+STAN: NIEOBECNY_W_BIEZACYM_ZRODLE   ostatnia obecnosc: 2026-10-05
+STATUS_DAWKI: NIEROZSTRZYGNIETY — wczesniej potwierdzonej dawki NIE kasuje z tego powodu. Schodzi dopiero po zatwierdzeniu lekarza.
+WSKAZANIA: NIEOBECNY_W_BIEZACYM_ZRODLE — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: NIEOBECNY_W_BIEZACYM_ZRODLE — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: NIEOBECNY_W_BIEZACYM_ZRODLE — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Tej rejestracji nie ma juz w biezacym eksporcie rejestru, a nieobecnosc w zrodle NIE JEST wycofaniem: wiersz zostaje, zeby nie bylo dziury, i zaden sasiad nie przejmuje jego identyfikatora ani dokumentu, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.

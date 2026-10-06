@@ -1,0 +1,20 @@
+### Hydroxyzinum PPH | 10 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum PPH   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 27048   format KRAJOWA
+ID_REJESTRU: 100445785   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27048|id=100445785
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44578/characteristic
+SHA256: c3651f432ef3e7a6a0f15216d4468789f533637fac571a78c68c2154ecf47409
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27048, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum PPH, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c3651f432ef3e7a6a0f15216d4468789f533637fac571a78c68c2154ecf47409 | fragment sha256 698a0e0c94c1b16aca7465790152b0ff12004bf856bc320eef8ae5db7f70b4ce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27048, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum PPH, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c3651f432ef3e7a6a0f15216d4468789f533637fac571a78c68c2154ecf47409 | fragment sha256 052808a65e6c484f927978c0b60e598d069c1375e3f3aef7ceeb4bb1a0785f83 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27048, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum PPH, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c3651f432ef3e7a6a0f15216d4468789f533637fac571a78c68c2154ecf47409 | fragment sha256 9a99b31b8ab4c0c879816cb7c039db9259cdba8fb7ef1a7c71ff84791a31df26 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

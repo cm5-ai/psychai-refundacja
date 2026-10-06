@@ -1,0 +1,20 @@
+### Pregabalin Pharmalab | 75 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Pregabalin Pharmalab   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 25515   format KRAJOWA
+ID_REJESTRU: 100394349   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25515|id=100394349
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39434/characteristic
+SHA256: 2e5e70c9b494cb7351da8f05a7210654d84d85d6d4a7039086755037a056130d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25515, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pregabalin Pharmalab, 75 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2e5e70c9b494cb7351da8f05a7210654d84d85d6d4a7039086755037a056130d | fragment sha256 649582847bea3f70b138f314b41223425a5580d4b9aad763f90765d10a871ccb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25515, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pregabalin Pharmalab, 75 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2e5e70c9b494cb7351da8f05a7210654d84d85d6d4a7039086755037a056130d | fragment sha256 553a0bff20e6b5e544d860742c5454bcf720c602e1f2d29bde2122e2c7e713fb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25515, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pregabalin Pharmalab, 75 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2e5e70c9b494cb7351da8f05a7210654d84d85d6d4a7039086755037a056130d | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### AuroMirta ORO | 45 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: mirtazapina
+NAZWA_HANDLOWA: AuroMirta ORO   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 45 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 26683   format KRAJOWA
+ID_REJESTRU: 100428798   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26683|id=100428798
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42879/characteristic
+SHA256: 87fc2fc05106a0da2dd502a414b4819ef7dfdc7e95039df6a82f8f5f57eac9ff
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26683, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt AuroMirta ORO, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 87fc2fc05106a0da2dd502a414b4819ef7dfdc7e95039df6a82f8f5f57eac9ff | fragment sha256 04baee491282dffbc588f8d4bd62f602b2da8c8a88498e86767480f748fadc5b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26683, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt AuroMirta ORO, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 87fc2fc05106a0da2dd502a414b4819ef7dfdc7e95039df6a82f8f5f57eac9ff | fragment sha256 71321fdbe73ddeda8c7dd6a9ce8081ecb4ceb9615a37c3f5bea816a935b079f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26683, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt AuroMirta ORO, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 87fc2fc05106a0da2dd502a414b4819ef7dfdc7e95039df6a82f8f5f57eac9ff | fragment sha256 e43ee6b94c9ea001b7bb2bff04543f9f3dce47d8c3ed0459808a18737b8c0940 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

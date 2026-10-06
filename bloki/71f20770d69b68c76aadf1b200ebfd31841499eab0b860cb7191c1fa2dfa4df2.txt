@@ -1,0 +1,20 @@
+### Mozarin Swift | 10 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Mozarin Swift   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 21581   format KRAJOWA
+ID_REJESTRU: 100305593   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21581|id=100305593
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30559/characteristic
+SHA256: 80f539a7be8d9c92536b6eac343c69c4126bdeeea58d66e735a04186a81acd4c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21581, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mozarin Swift, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 80f539a7be8d9c92536b6eac343c69c4126bdeeea58d66e735a04186a81acd4c | fragment sha256 c29b9959b7a82da4d7884158604abe26e156f11fcc178e924e86623ff5db4dd6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21581, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mozarin Swift, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 80f539a7be8d9c92536b6eac343c69c4126bdeeea58d66e735a04186a81acd4c | fragment sha256 1705d1da13b6f2510440d547f9c65f146064d509ec996cdce0cf75b81dbec6ae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21581, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mozarin Swift, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 80f539a7be8d9c92536b6eac343c69c4126bdeeea58d66e735a04186a81acd4c | fragment sha256 3c549acc24eb85eec1822a80514e28a1fcfcc070309ec197b81ff0c4f8af7491 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

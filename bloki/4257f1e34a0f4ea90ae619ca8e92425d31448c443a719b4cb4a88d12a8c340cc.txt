@@ -1,0 +1,20 @@
+### Explemed | 10 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Explemed   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 22675   format KRAJOWA
+ID_REJESTRU: 100345820   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22675|id=100345820
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34582/characteristic
+SHA256: 698d90b85ac9b4e78cea5d87a87df4c1d23a35dd73c7b2178fc63e1b6d25504b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22675, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Explemed, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 698d90b85ac9b4e78cea5d87a87df4c1d23a35dd73c7b2178fc63e1b6d25504b | fragment sha256 5a3e9ee9a2267e2ad86dcc9437a12741f0459bb7d57c14c333fcab4beeedea56 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22675, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Explemed, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 698d90b85ac9b4e78cea5d87a87df4c1d23a35dd73c7b2178fc63e1b6d25504b | fragment sha256 b6331c1404c825d492e047af84f3820a0ef24b99c9f92173f7aa450514e7a59e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22675, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Explemed, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 698d90b85ac9b4e78cea5d87a87df4c1d23a35dd73c7b2178fc63e1b6d25504b | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

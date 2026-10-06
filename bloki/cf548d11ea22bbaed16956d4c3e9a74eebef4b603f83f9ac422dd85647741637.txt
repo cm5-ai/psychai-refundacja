@@ -1,0 +1,20 @@
+### Kwexyma | 25 mg/ml | Zawiesina doustna
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Kwexyma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg/ml
+POSTAC: Zawiesina doustna
+STAN: AKTUALNA
+IDENTYFIKATOR: 29286   format KRAJOWA
+ID_REJESTRU: 100504230   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29286|id=100504230
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50423/characteristic
+SHA256: ce52680a220d3c758f19c6a645d70a0288bf246101d7eb8bd18fb6d159ade4b8
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29286, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kwexyma, 25 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 ce52680a220d3c758f19c6a645d70a0288bf246101d7eb8bd18fb6d159ade4b8 | fragment sha256 0c6d7330db8898f5e8d89984a92b65a8af86e5cdbcc63d093dbcd4a0d2ede3fc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29286, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kwexyma, 25 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 ce52680a220d3c758f19c6a645d70a0288bf246101d7eb8bd18fb6d159ade4b8 | fragment sha256 ec7d07d78d0513747a919ca87b91c016969f42f4b36eb906bdda016392606312 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29286, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kwexyma, 25 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 ce52680a220d3c758f19c6a645d70a0288bf246101d7eb8bd18fb6d159ade4b8 | fragment sha256 8b50ea3b1f38bd662246f9ed308293a098389c718561c88e03dabb4d42068e63 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

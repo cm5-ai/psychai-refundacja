@@ -1,0 +1,20 @@
+### Atomoksetyna Medice | 10 mg | Tabletki powlekane
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Atomoksetyna Medice   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 25508   format KRAJOWA
+ID_REJESTRU: 100397715   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25508|id=100397715
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39771/characteristic
+SHA256: c03fe90b2ae603bdb4180ea802cf5e1f26846601cde4ce3229752ab195f7d1b5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25508, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Atomoksetyna Medice, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c03fe90b2ae603bdb4180ea802cf5e1f26846601cde4ce3229752ab195f7d1b5 | fragment sha256 d9ff590e824e18185bb48baa026187b386b659599c56cc8a61b9c3e98bae2e03 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25508, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Atomoksetyna Medice, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c03fe90b2ae603bdb4180ea802cf5e1f26846601cde4ce3229752ab195f7d1b5 | fragment sha256 c2ff8c0e6e8a33cb2eb90e1549a07b8738cb10f434aedc1750b33cd788552c13 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25508, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Atomoksetyna Medice, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c03fe90b2ae603bdb4180ea802cf5e1f26846601cde4ce3229752ab195f7d1b5 | fragment sha256 cf4eeb2622fa639ab89a6f85ef4f4ee0d75e1940798f5fdd581d50492db9d218 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,14 @@
+### Exelon | 9,5 mg/24 h | System transdermalny, plaster
+SUBSTANCJA: riwastygmina
+NAZWA_HANDLOWA: Exelon   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 9,5 mg/24 h
+POSTAC: System transdermalny, plaster
+STAN: AKTUALNA
+IDENTYFIKATOR: BRAK   format PUSTE   id_rejestru=100179088
+UWAGA_IDENTYFIKATORA: BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (6 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem
+ID_REJESTRU: 100179088   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: PUSTE|-|id=100179088
+DAWKOWANIE: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (6 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (6 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (6 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+

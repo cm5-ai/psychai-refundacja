@@ -1,0 +1,20 @@
+### Pregabalin Aurovitas | 150 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Pregabalin Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 27093   format KRAJOWA
+ID_REJESTRU: 100430269   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27093|id=100430269
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43026/characteristic
+SHA256: ac15f4bb5714f8a8e9d6a59e6630344f31dfd9ded0137f23ddcc14c7fcf91dbb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27093, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pregabalin Aurovitas, 150 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ac15f4bb5714f8a8e9d6a59e6630344f31dfd9ded0137f23ddcc14c7fcf91dbb | fragment sha256 b581be5c5b7385226ebd8d892c582b546dcd912c2384da1ebb3288ded0e4f176 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27093, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pregabalin Aurovitas, 150 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ac15f4bb5714f8a8e9d6a59e6630344f31dfd9ded0137f23ddcc14c7fcf91dbb | fragment sha256 94cce738af5cae83fcdf2aeef395683869db6c7d8b2a993a04340b8350081a36 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27093, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pregabalin Aurovitas, 150 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ac15f4bb5714f8a8e9d6a59e6630344f31dfd9ded0137f23ddcc14c7fcf91dbb | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Etopro | 200 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Etopro   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 12896   format KRAJOWA
+ID_REJESTRU: 100176641   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12896|id=100176641
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17664/characteristic
+SHA256: d6f387d4334637f74183ad121fc83bf9b55fbd28447f908b0401df2f254f34df
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12896, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Etopro, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d6f387d4334637f74183ad121fc83bf9b55fbd28447f908b0401df2f254f34df | fragment sha256 f1453516765754a54e05cba0182b3379e4e9cae169e84bbc2dd8b729b6677766 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12896, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Etopro, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d6f387d4334637f74183ad121fc83bf9b55fbd28447f908b0401df2f254f34df | fragment sha256 6b8f5a42352ef596b57385798abc0d6c948103032c4f939e215ee071b0b2acb8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12896, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Etopro, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d6f387d4334637f74183ad121fc83bf9b55fbd28447f908b0401df2f254f34df | fragment sha256 490e58ebb501697dc027fd690ddf0ac107683cef2158d3b0753f54a64372c05e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Ketilept retard | 50 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Ketilept retard   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 22482   format KRAJOWA
+ID_REJESTRU: 100331722   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22482|id=100331722
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33172/characteristic
+SHA256: c64921a26a51982fe414586ac1d897b2a6e0bee023e965fda730cd8e80daba20
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22482, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ketilept retard, 50 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c64921a26a51982fe414586ac1d897b2a6e0bee023e965fda730cd8e80daba20 | fragment sha256 eec49604ea1ab77b1f26f4e02622c03b1357a984c23060a3fdc11dbf5fff6aee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22482, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ketilept retard, 50 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c64921a26a51982fe414586ac1d897b2a6e0bee023e965fda730cd8e80daba20 | fragment sha256 2ea6d1680607209cf47ef904cb11b3383ced1407db9db2dd1bd0c885da4fdc3c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22482, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ketilept retard, 50 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c64921a26a51982fe414586ac1d897b2a6e0bee023e965fda730cd8e80daba20 | fragment sha256 3a352edd697bc9823597da78a23798335056e7e38e02bc549e840e0c3b851403 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Senaxa PR | 2 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Senaxa PR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 27734   format KRAJOWA
+ID_REJESTRU: 100464955   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27734|id=100464955
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46495/characteristic
+SHA256: 0a53723b28b8e05c97bbb5c4b2854659584ab6ea8644d3c73111a9546a68ce08
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27734, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Senaxa PR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0a53723b28b8e05c97bbb5c4b2854659584ab6ea8644d3c73111a9546a68ce08 | fragment sha256 9cec374f2703088a90175caad023b977fb2c0d4763c21a85eb3c16ef5a500b95 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27734, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Senaxa PR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0a53723b28b8e05c97bbb5c4b2854659584ab6ea8644d3c73111a9546a68ce08 | fragment sha256 dfc9a01d1ffdb3939c243988bce89a1d402565fe5e5714d580c7fb68726963fc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27734, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Senaxa PR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 0a53723b28b8e05c97bbb5c4b2854659584ab6ea8644d3c73111a9546a68ce08 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Faxolet ER | 37,5 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Faxolet ER   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37,5 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 15210   format KRAJOWA
+ID_REJESTRU: 100207399   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15210|id=100207399
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20739/characteristic
+SHA256: 2688e1a33f9eb955b70ff35a4b379bfab1df73ccd9050125101c021967fb171c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15210, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Faxolet ER, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2688e1a33f9eb955b70ff35a4b379bfab1df73ccd9050125101c021967fb171c | fragment sha256 495b231fdae8704a8ec0b0bbf88b5aa61acb97b6a1dd8e4331173cae9e75c324 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15210, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Faxolet ER, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2688e1a33f9eb955b70ff35a4b379bfab1df73ccd9050125101c021967fb171c | fragment sha256 fb87b2c34b4580e84c4109752542a8d87df3fd25a48c0aff34e9a747d486c08a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15210, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Faxolet ER, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2688e1a33f9eb955b70ff35a4b379bfab1df73ccd9050125101c021967fb171c | fragment sha256 37d24e74b6ba27934af8e6edf8dd1866d2d6d53298876d3d9d9cc0e0da4292f6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Diazepam Genoptim | 5 mg | Tabletki
+SUBSTANCJA: diazepam
+NAZWA_HANDLOWA: Diazepam Genoptim   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 23877   format KRAJOWA
+ID_REJESTRU: 100351417   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23877|id=100351417
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35141/characteristic
+SHA256: e7026346932248f89a9f1275caffed61abd8a371cbde9c3054b3206d21b27565
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23877, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Diazepam Genoptim, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e7026346932248f89a9f1275caffed61abd8a371cbde9c3054b3206d21b27565 | fragment sha256 803350a10534785c29bbb608d7c5b8119aeee2f9d28535d9c61979c719ea01c2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23877, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Diazepam Genoptim, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e7026346932248f89a9f1275caffed61abd8a371cbde9c3054b3206d21b27565 | fragment sha256 ffae1208d231c0540014223bef04e71115f3be8c125cd7fa6571a35f4c57987d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23877, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Diazepam Genoptim, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e7026346932248f89a9f1275caffed61abd8a371cbde9c3054b3206d21b27565 | fragment sha256 86ade9c8f7020da511c0ed7d9aeaaf8b502edf852755a0e3e4dc987a88cedf00 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Citabax 40 | 40 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Citabax 40   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 10917   format KRAJOWA
+ID_REJESTRU: 100128702   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10917|id=100128702
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12870/characteristic
+SHA256: 849fa05ab11580fc3b2eccee24c9ad960be14cc3805e3f3a600e14171517a6ab
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10917, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Citabax 40, 40 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 849fa05ab11580fc3b2eccee24c9ad960be14cc3805e3f3a600e14171517a6ab | fragment sha256 345bf4526bc8031b4b0726ab9e040bd71fff66ab84da8ae6e1572d9e022aeb07 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10917, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Citabax 40, 40 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 849fa05ab11580fc3b2eccee24c9ad960be14cc3805e3f3a600e14171517a6ab | fragment sha256 8172a59204265808958bfad1f5a8e6825ded46c7bdaedfe766dfec1e556c371c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10917, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Citabax 40, 40 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 849fa05ab11580fc3b2eccee24c9ad960be14cc3805e3f3a600e14171517a6ab | fragment sha256 1300583e4c6e5835be2283a28e78ba71528fe9d6c4359f1636fd8ab59fecdff9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

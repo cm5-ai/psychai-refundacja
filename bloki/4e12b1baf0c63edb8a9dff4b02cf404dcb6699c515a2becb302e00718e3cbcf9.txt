@@ -1,0 +1,20 @@
+### Bupropion Accord | 150 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Bupropion Accord   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 28654   format KRAJOWA
+ID_REJESTRU: 100489876   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28654|id=100489876
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48987/characteristic
+SHA256: 52b4da0c0ffe20a7525f8d9e5aef026458d8d786aa6f6ec743a8684a9c65d783
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28654, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bupropion Accord, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 52b4da0c0ffe20a7525f8d9e5aef026458d8d786aa6f6ec743a8684a9c65d783 | fragment sha256 8859ed8caa348df93e374a5a010e20094bcd8dbe57d8ec5abbb387a796ed6e8a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28654, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bupropion Accord, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 52b4da0c0ffe20a7525f8d9e5aef026458d8d786aa6f6ec743a8684a9c65d783 | fragment sha256 c46c3597aba56ab5919c195b4949d788b26bd79da562dbd199119f5489695e20 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28654, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bupropion Accord, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 52b4da0c0ffe20a7525f8d9e5aef026458d8d786aa6f6ec743a8684a9c65d783 | fragment sha256 f1200354eb540bb803c8672cf6684bbb938660d4750649fcdf2edc670ce2af93 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Lithium Carbonicum GSK | 250 mg | Tabletki
+SUBSTANCJA: lit
+NAZWA_HANDLOWA: Lithium Carbonicum GSK   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 250 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 01487   format KRAJOWA
+ID_REJESTRU: 100039430   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01487|id=100039430
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3943/characteristic
+SHA256: 04501f75274f54424cd8bade5f59c0b2641dfe41bd3cf914bf2e6babf73a3f26
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01487, magazyn chpl/lit]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lithium Carbonicum GSK, 250 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 04501f75274f54424cd8bade5f59c0b2641dfe41bd3cf914bf2e6babf73a3f26 | fragment sha256 78056a375010beed331036e2c31adfbaafe6753605d4c006270321beb24c9038 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01487, magazyn chpl/lit]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lithium Carbonicum GSK, 250 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 04501f75274f54424cd8bade5f59c0b2641dfe41bd3cf914bf2e6babf73a3f26 | fragment sha256 a69572bc7d3bf71f47da7a648505d4d4441d66b1795b65ea5d4445a59b38b7cd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01487, magazyn chpl/lit]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lithium Carbonicum GSK, 250 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 04501f75274f54424cd8bade5f59c0b2641dfe41bd3cf914bf2e6babf73a3f26 | fragment sha256 ccba67503e25f1d8fb435a2e014ad16baf44f2d1cd3e292e7e2b797f23f67ed3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

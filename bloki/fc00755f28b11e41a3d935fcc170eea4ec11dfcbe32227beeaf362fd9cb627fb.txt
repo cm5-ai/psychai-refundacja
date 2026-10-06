@@ -1,0 +1,20 @@
+### Neurol 0,25 | 0,25 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Neurol 0,25   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,25 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 04038   format KRAJOWA
+ID_REJESTRU: 100084755   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|04038|id=100084755
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8475/characteristic
+SHA256: ad4aa1d4aa86d09e79af593f20347d08036ae84d043c4104af3afe170627781e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 04038, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Neurol 0,25, 0,25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 ad4aa1d4aa86d09e79af593f20347d08036ae84d043c4104af3afe170627781e | fragment sha256 03b49f0891d0417336f3ef89434b1103eaeb2bc033be76e36284fbc2b48f680f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 04038, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Neurol 0,25, 0,25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 ad4aa1d4aa86d09e79af593f20347d08036ae84d043c4104af3afe170627781e | fragment sha256 4f5ec43df1642bd11c291e8fc16a140b2aafec0598475223ec335d923eb0e2df | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 04038, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Neurol 0,25, 0,25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 ad4aa1d4aa86d09e79af593f20347d08036ae84d043c4104af3afe170627781e | fragment sha256 d308cbe3c4c1e5ddeca50da8426147d7bdb616f3d69ef3791ee71f67050126bb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

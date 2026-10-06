@@ -1,0 +1,20 @@
+### Cloranxen | 10 mg | Tabletki
+SUBSTANCJA: klorazepat
+NAZWA_HANDLOWA: Cloranxen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 07559   format KRAJOWA
+ID_REJESTRU: 100080020   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07559|id=100080020
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8002/characteristic
+SHA256: 801a2d1d91b113cbdf278f2123db1c34253735ca060b0bf508cf270bf52526de
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07559, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Cloranxen, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 801a2d1d91b113cbdf278f2123db1c34253735ca060b0bf508cf270bf52526de | fragment sha256 7423599705685c9584197df54c7b0ff52486f9d1f43d32366376b8e5966f2114 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07559, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Cloranxen, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 801a2d1d91b113cbdf278f2123db1c34253735ca060b0bf508cf270bf52526de | fragment sha256 4ce512cbf0cc6de9c28b65b6e98f97efa4089e8be3850f9bef3311cf35c4ea50 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07559, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Cloranxen, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 801a2d1d91b113cbdf278f2123db1c34253735ca060b0bf508cf270bf52526de | fragment sha256 10a6bfe34b184e0cb757e97b9a8bcf55736771ee1649ee8390dd9c3944d92564 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

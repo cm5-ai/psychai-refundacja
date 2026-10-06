@@ -1,0 +1,20 @@
+### Pramatis | 20 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Pramatis   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 18724   format KRAJOWA
+ID_REJESTRU: 100254298   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|18724|id=100254298
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/25429/characteristic
+SHA256: 954318a15b79f8df4c611a8b0374b1a611075d215b1e4e0ca6165afebdc163ca
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 18724, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pramatis, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 954318a15b79f8df4c611a8b0374b1a611075d215b1e4e0ca6165afebdc163ca | fragment sha256 79cbd8e8b780a8e245a4378c46eb860b9518900a5c8f74af7d57780f0e0e8b6c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 18724, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pramatis, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 954318a15b79f8df4c611a8b0374b1a611075d215b1e4e0ca6165afebdc163ca | fragment sha256 0248bc1d8d7d9d2f3a3544910044bc3a624d900af0fb18eaca918a3384ed78c6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 18724, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pramatis, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 954318a15b79f8df4c611a8b0374b1a611075d215b1e4e0ca6165afebdc163ca | fragment sha256 4f4ec58f8b2ac5b6246229b302eaa52a77d7fd784e3bd2754fc203526236445f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+
