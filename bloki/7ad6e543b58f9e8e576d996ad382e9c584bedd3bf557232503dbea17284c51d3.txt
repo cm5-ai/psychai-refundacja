@@ -1,0 +1,20 @@
+### Melatonin Orion | 5 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melatonin Orion   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 29471   format KRAJOWA
+ID_REJESTRU: 100510211   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29471|id=100510211
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51021/characteristic
+SHA256: a95f41b68afd1157ebf733c802ad0e505fcd62aea856f147b6d88777ef907247
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29471, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melatonin Orion, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a95f41b68afd1157ebf733c802ad0e505fcd62aea856f147b6d88777ef907247 | fragment sha256 f7a8f0bee01956cf88acae3480201d1597a6245d1d124173b1334b5501cf0ec1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29471, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melatonin Orion, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a95f41b68afd1157ebf733c802ad0e505fcd62aea856f147b6d88777ef907247 | fragment sha256 666939afc40a8abc718c7a336419b01317970cda3a4c83acad9229410387a161 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29471, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melatonin Orion, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a95f41b68afd1157ebf733c802ad0e505fcd62aea856f147b6d88777ef907247 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

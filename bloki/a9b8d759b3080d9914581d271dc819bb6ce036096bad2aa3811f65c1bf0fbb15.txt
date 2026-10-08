@@ -1,0 +1,20 @@
+### Fluoxetin Polpharma | 20 mg | Kapsułki twarde
+SUBSTANCJA: fluoksetyna
+NAZWA_HANDLOWA: Fluoxetin Polpharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 07703   format KRAJOWA
+ID_REJESTRU: 100196721   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07703|id=100196721
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19672/characteristic
+SHA256: 2a66944541af30ef7f6ecf9e96ce357cc7421ac4a1b14204843417b1d8dcf42c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07703, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Fluoxetin Polpharma, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2a66944541af30ef7f6ecf9e96ce357cc7421ac4a1b14204843417b1d8dcf42c | fragment sha256 01bc6c9e5841fde6df54d183e2cade1aa3697e26783ff764c1580fc30ae7fe79 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07703, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Fluoxetin Polpharma, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2a66944541af30ef7f6ecf9e96ce357cc7421ac4a1b14204843417b1d8dcf42c | fragment sha256 8a0768a49a8ec25b9b4205afe36d2d4bc54d00c18f37301bf7907dafd47c37e2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07703, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Fluoxetin Polpharma, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2a66944541af30ef7f6ecf9e96ce357cc7421ac4a1b14204843417b1d8dcf42c | fragment sha256 2fcad1f97a332c171af28a29d26e39592ad03daa33897fb1613882ef356143f1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

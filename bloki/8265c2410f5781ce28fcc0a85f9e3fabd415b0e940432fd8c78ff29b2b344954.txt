@@ -1,0 +1,20 @@
+### Lurasidone G.L. Pharma | 74 mg | Tabletki powlekane
+SUBSTANCJA: lurazydon
+NAZWA_HANDLOWA: Lurasidone G.L. Pharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 74 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 29162   format KRAJOWA
+ID_REJESTRU: 100506045   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29162|id=100506045
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50604/characteristic
+SHA256: 2877e3b8b95b0310e7e929f9c094b69651151b42d161c0d6606a7201e4b736bb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29162, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lurasidone G.L. Pharma, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2877e3b8b95b0310e7e929f9c094b69651151b42d161c0d6606a7201e4b736bb | fragment sha256 bfd023f6aa91c467dbfe3cc73615ff22228dfb7d85c95a539b63ab6be362639e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29162, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lurasidone G.L. Pharma, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2877e3b8b95b0310e7e929f9c094b69651151b42d161c0d6606a7201e4b736bb | fragment sha256 bbb1f2574676b0a0b31c29ab5433b0c1ee66af090d75d587bb306ab9a6c627ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29162, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lurasidone G.L. Pharma, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2877e3b8b95b0310e7e929f9c094b69651151b42d161c0d6606a7201e4b736bb | fragment sha256 2689d21660e8675fea37506edaadaa8158472a1c1309d1d2d565d34ebd642c67 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

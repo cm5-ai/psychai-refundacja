@@ -1,0 +1,20 @@
+### Setaloft 50 mg | 50 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Setaloft 50 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 12116   format KRAJOWA
+ID_REJESTRU: 100159890   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12116|id=100159890
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15989/characteristic
+SHA256: e8e19c3a52f94bb1a5ec1cb69f88cb3024ec9a5e02876c4312bcedae7d141a90
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12116, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Setaloft 50 mg, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e8e19c3a52f94bb1a5ec1cb69f88cb3024ec9a5e02876c4312bcedae7d141a90 | fragment sha256 d7e56b39c7be8717e18ba2ce5cfbd6f82b8c8d89c5a90c9370a19cb9b39a883c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12116, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Setaloft 50 mg, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e8e19c3a52f94bb1a5ec1cb69f88cb3024ec9a5e02876c4312bcedae7d141a90 | fragment sha256 df395b1ad1c40a751ae1143cc4670c8cd3a620eeb16b6ebd3d0d7f06305cf252 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12116, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Setaloft 50 mg, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e8e19c3a52f94bb1a5ec1cb69f88cb3024ec9a5e02876c4312bcedae7d141a90 | fragment sha256 23f216c439d66813c273dc92d71a54c002ef81f4592961e7ada0d77ed6f08541 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

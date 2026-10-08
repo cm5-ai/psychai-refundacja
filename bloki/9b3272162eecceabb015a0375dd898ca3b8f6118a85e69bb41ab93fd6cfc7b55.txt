@@ -1,0 +1,20 @@
+### Lamotrix | 100 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Lamotrix   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 10066   format KRAJOWA
+ID_REJESTRU: 100114947   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10066|id=100114947
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11494/characteristic
+SHA256: 43d7f78feaa57ac426bcce00b30c17dabad681fdef4ea5e565533f43dd6645af
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10066, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lamotrix, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 43d7f78feaa57ac426bcce00b30c17dabad681fdef4ea5e565533f43dd6645af | fragment sha256 2980ad3b76cb2b18c722bbd612f4c0346a1064b7f6a4ad2159ed016b0cf0dcb2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10066, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lamotrix, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 43d7f78feaa57ac426bcce00b30c17dabad681fdef4ea5e565533f43dd6645af | fragment sha256 5f08c8c588d53986d6826077753cb7e456fe8c9a652edbe84a9cb22455570108 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10066, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lamotrix, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 43d7f78feaa57ac426bcce00b30c17dabad681fdef4ea5e565533f43dd6645af | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

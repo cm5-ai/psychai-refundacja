@@ -1,0 +1,20 @@
+### Cognimentin LA | 30 mg | Kapsułki o zmodyfikowanym uwalnianiu, twarde
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Cognimentin LA   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Kapsułki o zmodyfikowanym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 29655   format KRAJOWA
+ID_REJESTRU: 100507145   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29655|id=100507145
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50714/characteristic
+SHA256: 613d19161e9dd28917500458c4680a720366e539c1472d0cd566662412cdd862
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29655, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Cognimentin LA, 30 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 613d19161e9dd28917500458c4680a720366e539c1472d0cd566662412cdd862 | fragment sha256 e456dcd8ffc7bfd88146390121c81cb12571ab93559a64778ed40519e37e16f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29655, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Cognimentin LA, 30 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 613d19161e9dd28917500458c4680a720366e539c1472d0cd566662412cdd862 | fragment sha256 1403f34045b8c132b39192655380b08490b35873d43d7688d87c623a4e44fc57 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29655, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Cognimentin LA, 30 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 613d19161e9dd28917500458c4680a720366e539c1472d0cd566662412cdd862 | fragment sha256 1126ba04bc75ec5952e3622ccff81ade9c5a4a0cc31bc26c0a006e01dc6d9651 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

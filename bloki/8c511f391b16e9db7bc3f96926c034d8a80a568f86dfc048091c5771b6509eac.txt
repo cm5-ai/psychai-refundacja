@@ -1,0 +1,20 @@
+### Aripiprazole Aurovitas | 15 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aripiprazole Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 24150   format KRAJOWA
+ID_REJESTRU: 100381565   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24150|id=100381565
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38156/characteristic
+SHA256: 7a190e30a482d51d9302f8716acece64c30318e38dc59e46db0c29ae8407bf28
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24150, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aripiprazole Aurovitas, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7a190e30a482d51d9302f8716acece64c30318e38dc59e46db0c29ae8407bf28 | fragment sha256 5f8686ecc426331b6dba6ab87d36ad834c8b157f0814f0b936b774dba523a0e2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24150, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aripiprazole Aurovitas, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7a190e30a482d51d9302f8716acece64c30318e38dc59e46db0c29ae8407bf28 | fragment sha256 f905292482b9d67b707ebc571c1acc1fb46e10b91f18083dca75062f8aae261d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24150, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aripiprazole Aurovitas, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7a190e30a482d51d9302f8716acece64c30318e38dc59e46db0c29ae8407bf28 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

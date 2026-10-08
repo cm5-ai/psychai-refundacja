@@ -1,0 +1,20 @@
+### Palifren Long | 75 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Palifren Long   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 27163   format KRAJOWA
+ID_REJESTRU: 100435048   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27163|id=100435048
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43504/characteristic
+SHA256: 4a57dc928a69895c6af3d60fccf4c244073bcfec118f456a533e152ede7dec7d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27163, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Palifren Long, 75 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 4a57dc928a69895c6af3d60fccf4c244073bcfec118f456a533e152ede7dec7d | fragment sha256 20c62e4cbe5967c6c071bea4ba5c4f9ce4020ac0e864f257cbe7e7024d93256a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27163, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Palifren Long, 75 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 4a57dc928a69895c6af3d60fccf4c244073bcfec118f456a533e152ede7dec7d | fragment sha256 28c826ea970c4000c7ba7bac7bfd04a9cf4ac7dc1a644003b78d2e91d2493e17 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27163, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Palifren Long, 75 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 4a57dc928a69895c6af3d60fccf4c244073bcfec118f456a533e152ede7dec7d | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

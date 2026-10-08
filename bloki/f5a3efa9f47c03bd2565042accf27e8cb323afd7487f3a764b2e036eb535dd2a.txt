@@ -1,0 +1,20 @@
+### Etiagen | 200 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Etiagen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 17108   format KRAJOWA
+ID_REJESTRU: 100233250   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17108|id=100233250
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23325/characteristic
+SHA256: 01763d873e7abb6cb00d61d031ce06aa31fb8ecae10fc516d18a1a453ea8db70
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17108, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Etiagen, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 01763d873e7abb6cb00d61d031ce06aa31fb8ecae10fc516d18a1a453ea8db70 | fragment sha256 5f7deb58a7ade49c66a5c3c8e9d85882b2b1259e353d7ddfeecf56308213053f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17108, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Etiagen, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 01763d873e7abb6cb00d61d031ce06aa31fb8ecae10fc516d18a1a453ea8db70 | fragment sha256 4bc5e8bc3522292fea6270553373871484516ed514dbaa6c3bdca3a9fbda9dd3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17108, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Etiagen, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 01763d873e7abb6cb00d61d031ce06aa31fb8ecae10fc516d18a1a453ea8db70 | fragment sha256 f4a886bcf49f67ecec1ad8b49a9eeea67bcd0fd56e31f39e8a2d3cee8ed9add8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

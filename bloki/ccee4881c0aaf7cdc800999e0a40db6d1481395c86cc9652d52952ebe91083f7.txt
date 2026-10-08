@@ -1,0 +1,20 @@
+### Faxigen XL 75 mg | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Faxigen XL 75 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 15757   format KRAJOWA
+ID_REJESTRU: 100213709   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15757|id=100213709
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21370/characteristic
+SHA256: dca4eeac1a34931f83ce722bf6bff54a0a60f875a64dcde3dbb5912676c697cd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15757, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Faxigen XL 75 mg, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 dca4eeac1a34931f83ce722bf6bff54a0a60f875a64dcde3dbb5912676c697cd | fragment sha256 ffd46c8fc8f82af39eae457cedc9c0b078057a97b9f0c6ecdf0a2f54f9faa52c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15757, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Faxigen XL 75 mg, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 dca4eeac1a34931f83ce722bf6bff54a0a60f875a64dcde3dbb5912676c697cd | fragment sha256 6f79a61fabc7415c4702b60f10af16d1f4045dba47c5e1819412b207556da78c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15757, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Faxigen XL 75 mg, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 dca4eeac1a34931f83ce722bf6bff54a0a60f875a64dcde3dbb5912676c697cd | fragment sha256 27f26e943d320601715047ce427103af59f505343276f76a219d279bc36a15d0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

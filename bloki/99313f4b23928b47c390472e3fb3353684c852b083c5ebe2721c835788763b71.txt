@@ -1,0 +1,20 @@
+### KETREL XR | 300 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: KETREL XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 18814   format KRAJOWA
+ID_REJESTRU: 100261358   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|18814|id=100261358
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26135/characteristic
+SHA256: 3cc81071113972c3a1582c43bac03272347fa19d673ba75bf2bbeb42b118b831
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 18814, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt KETREL XR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 3cc81071113972c3a1582c43bac03272347fa19d673ba75bf2bbeb42b118b831 | fragment sha256 bab96bfbe7667f40a6ee673c44be59408f726a825152e3033c641d156a1e9b58 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 18814, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt KETREL XR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 3cc81071113972c3a1582c43bac03272347fa19d673ba75bf2bbeb42b118b831 | fragment sha256 89b98a1923cea1b80d8df820a4bc38a2f6d1761d90997ddf2d5e7f1bc46df7d9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 18814, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt KETREL XR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 3cc81071113972c3a1582c43bac03272347fa19d673ba75bf2bbeb42b118b831 | fragment sha256 6de703e1b25036eb06f8932f0bcd7bf0bbd27b9913aafdc85309c0720af961c2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

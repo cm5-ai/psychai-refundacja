@@ -1,0 +1,20 @@
+### Rispolept | 1 mg | Tabletki powlekane
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Rispolept   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 06704   format KRAJOWA
+ID_REJESTRU: 100058427   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|06704|id=100058427
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5842/characteristic
+SHA256: 6b436d6cb35d38f246d6d5f54021645d0457a6f3a3d8128e813bcb98b956b505
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 06704, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Rispolept, 1 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6b436d6cb35d38f246d6d5f54021645d0457a6f3a3d8128e813bcb98b956b505 | fragment sha256 48658f988f5acfa7d093716131079e044fb8a423ecc20ec25d1b68c37b002a27 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 06704, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Rispolept, 1 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6b436d6cb35d38f246d6d5f54021645d0457a6f3a3d8128e813bcb98b956b505 | fragment sha256 3d5c7a17a7ff28c5d85961753ae4f8e7388434b5050f34c5f1b2652e44eb412b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 06704, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Rispolept, 1 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6b436d6cb35d38f246d6d5f54021645d0457a6f3a3d8128e813bcb98b956b505 | fragment sha256 d737090c3de8606a5dd15589f1cc15c889f84871ca0b4f5466c6ecfd24585b12 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

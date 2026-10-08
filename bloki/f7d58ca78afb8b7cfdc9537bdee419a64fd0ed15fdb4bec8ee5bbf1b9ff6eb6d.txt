@@ -1,0 +1,20 @@
+### Olanzapine Aurovitas | 15 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapine Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 28309   format KRAJOWA
+ID_REJESTRU: 100465274   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28309|id=100465274
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46527/characteristic
+SHA256: 5ca0fc9df4186fc7b45d46f4d6d9432780d0b4920f8458e53b7cbe6ebac59818
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28309, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzapine Aurovitas, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 5ca0fc9df4186fc7b45d46f4d6d9432780d0b4920f8458e53b7cbe6ebac59818 | fragment sha256 714daba9ca1b4dfff1cf820a98e9139999dd3f562f82b3612d3896f2e8809201 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28309, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzapine Aurovitas, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 5ca0fc9df4186fc7b45d46f4d6d9432780d0b4920f8458e53b7cbe6ebac59818 | fragment sha256 95ba798d0fedabc1ad5d552ecb0f8e728d6f4efab610e8a0f6208341c8496266 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28309, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzapine Aurovitas, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 5ca0fc9df4186fc7b45d46f4d6d9432780d0b4920f8458e53b7cbe6ebac59818 | fragment sha256 c591ad873ccd2aedf91a645c438f151b82d4f2cb11135fce35ff51afb1cd51fd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

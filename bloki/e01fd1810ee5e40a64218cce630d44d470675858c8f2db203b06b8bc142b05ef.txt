@@ -1,0 +1,20 @@
+### Paxifar | 25 mg | Tabletki
+SUBSTANCJA: klozapina
+NAZWA_HANDLOWA: Paxifar   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 27484   format KRAJOWA
+ID_REJESTRU: 100435798   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27484|id=100435798
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43579/characteristic
+SHA256: 63f33260b450f34c4d0fff494f566bb1ff7e8431dadb388a4faeaa0f4663e752
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27484, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paxifar, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 63f33260b450f34c4d0fff494f566bb1ff7e8431dadb388a4faeaa0f4663e752 | fragment sha256 580361f78597b6d0ee8fcd6e3b8667197c972be4bbc67f7993c3b512c0416290 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27484, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paxifar, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 63f33260b450f34c4d0fff494f566bb1ff7e8431dadb388a4faeaa0f4663e752 | fragment sha256 11a652946600a230cd4eb5a4adf2665f533d47137e7d9f59197d4c37f94e2e7a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27484, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paxifar, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 63f33260b450f34c4d0fff494f566bb1ff7e8431dadb388a4faeaa0f4663e752 | fragment sha256 f396c438a0645bf6383567ef1353481428f8a0efe6684c2220e2d62826024f90 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Tentin | 20 mg | Tabletki
+SUBSTANCJA: deksamfetamina
+NAZWA_HANDLOWA: Tentin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 28610   format KRAJOWA
+ID_REJESTRU: 100489837   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28610|id=100489837
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48983/characteristic
+SHA256: f59c787ca9508926e01c3af61721b3292ffdcc7433f5181b33588d79a69246cb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28610, magazyn chpl/deksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tentin, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f59c787ca9508926e01c3af61721b3292ffdcc7433f5181b33588d79a69246cb | fragment sha256 50e67cce771768f2dd97dd8b99f125aa6292d570dc2993eec83a87206905e470 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28610, magazyn chpl/deksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tentin, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f59c787ca9508926e01c3af61721b3292ffdcc7433f5181b33588d79a69246cb | fragment sha256 122d5cf5cf752f9dfa7aac4ea995314059b1fd95523029f1b609ac1fff2e4ecb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28610, magazyn chpl/deksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tentin, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f59c787ca9508926e01c3af61721b3292ffdcc7433f5181b33588d79a69246cb | fragment sha256 7181d20f078a75b0686b8be8ec04a8e893ba43e5b45c93a55f9f0c36ade95a33 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

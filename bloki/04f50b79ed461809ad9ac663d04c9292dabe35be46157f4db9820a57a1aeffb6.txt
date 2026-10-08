@@ -1,0 +1,20 @@
+### Orizon | 1 mg/ml | Roztwór doustny
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Orizon   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Roztwór doustny
+STAN: AKTUALNA
+IDENTYFIKATOR: 15257   format KRAJOWA
+ID_REJESTRU: 100207086   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15257|id=100207086
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20708/characteristic
+SHA256: 6ea4494fa909eaa0bcd57e57c09992bff664fbd0836cb5ed619fcfc145ad5df0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15257, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Orizon, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 6ea4494fa909eaa0bcd57e57c09992bff664fbd0836cb5ed619fcfc145ad5df0 | fragment sha256 80c2b7d429e1780148859ffcb900a7da1fe3e54eb6a4aea14e9d19eb8e3de2e7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15257, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Orizon, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 6ea4494fa909eaa0bcd57e57c09992bff664fbd0836cb5ed619fcfc145ad5df0 | fragment sha256 1c7efee00f300a03f518cf82835199526914cd78855204472c018defa861ab89 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15257, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Orizon, 1 mg/ml, Roztwór doustny | pobrano 2026-09-23 | dokument sha256 6ea4494fa909eaa0bcd57e57c09992bff664fbd0836cb5ed619fcfc145ad5df0 | fragment sha256 1b9f30e949af1e6359c8110f4fb570eb594f90596b8cf9420c6370c82bf4e2a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

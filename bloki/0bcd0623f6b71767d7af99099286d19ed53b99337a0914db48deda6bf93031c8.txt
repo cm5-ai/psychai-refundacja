@@ -1,0 +1,20 @@
+### Ketrel | 25 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Ketrel   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 11979   format KRAJOWA
+ID_REJESTRU: 100158146   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11979|id=100158146
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15814/characteristic
+SHA256: 02ad62c65f6f0b02e5ea908940fdd1bbbda1b413df66af82632e21e92c7e13f9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11979, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ketrel, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 02ad62c65f6f0b02e5ea908940fdd1bbbda1b413df66af82632e21e92c7e13f9 | fragment sha256 1d208e71a58d5e9a5dab39feed41180afd4d79ae5334bce815862d0ef772452a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11979, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ketrel, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 02ad62c65f6f0b02e5ea908940fdd1bbbda1b413df66af82632e21e92c7e13f9 | fragment sha256 ababcc5d4248bc5c4adb1b36eaf3432e3d627e77cf71ec6704110400889cfcd7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11979, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ketrel, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 02ad62c65f6f0b02e5ea908940fdd1bbbda1b413df66af82632e21e92c7e13f9 | fragment sha256 1f2c55c9009f1801ec49fbcc732a19362bd6d9f03ceb8b484747ab5d181f5cee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

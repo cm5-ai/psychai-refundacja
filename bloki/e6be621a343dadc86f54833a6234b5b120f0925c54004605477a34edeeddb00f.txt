@@ -1,0 +1,20 @@
+### Topamax | 25 mg | Kapsułki twarde
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Topamax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 08616   format KRAJOWA
+ID_REJESTRU: 100100187   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08616|id=100100187
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10018/characteristic
+SHA256: 7096f5f729b4ebc2355a5a372d6da388ce40623824ab5af52b46bb6f4c4717b1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08616, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Topamax, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 7096f5f729b4ebc2355a5a372d6da388ce40623824ab5af52b46bb6f4c4717b1 | fragment sha256 7960d99c546435b139b740cc368be0752778bb4de92f3870c90957bfb8759c10 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08616, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Topamax, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 7096f5f729b4ebc2355a5a372d6da388ce40623824ab5af52b46bb6f4c4717b1 | fragment sha256 66e0fe9ffc31d9db764265d2d7871d04f26ddd2e045470aa91db55747c09b652 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08616, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Topamax, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 7096f5f729b4ebc2355a5a372d6da388ce40623824ab5af52b46bb6f4c4717b1 | fragment sha256 52435251dc1b46da8709595e1738551ae0e61aedd12c33a1753ddc3a379571ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

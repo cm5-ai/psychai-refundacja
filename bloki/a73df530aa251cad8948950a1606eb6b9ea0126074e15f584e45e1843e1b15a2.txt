@@ -1,0 +1,20 @@
+### Topamax | 100 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Topamax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 07590   format KRAJOWA
+ID_REJESTRU: 100080266   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07590|id=100080266
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8026/characteristic
+SHA256: 3ad96fb717d4a9714b4b9ab3e8886e888e871f8423912729c5fe0f9abf2b7128
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07590, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Topamax, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3ad96fb717d4a9714b4b9ab3e8886e888e871f8423912729c5fe0f9abf2b7128 | fragment sha256 7960d99c546435b139b740cc368be0752778bb4de92f3870c90957bfb8759c10 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07590, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Topamax, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3ad96fb717d4a9714b4b9ab3e8886e888e871f8423912729c5fe0f9abf2b7128 | fragment sha256 1dad701505c5c7663835ac5ea07124d02c31cbca1c6507462762159843d270e9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07590, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Topamax, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3ad96fb717d4a9714b4b9ab3e8886e888e871f8423912729c5fe0f9abf2b7128 | fragment sha256 52435251dc1b46da8709595e1738551ae0e61aedd12c33a1753ddc3a379571ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

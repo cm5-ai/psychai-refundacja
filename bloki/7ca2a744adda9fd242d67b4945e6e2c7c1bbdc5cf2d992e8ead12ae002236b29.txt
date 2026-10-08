@@ -1,0 +1,20 @@
+### Paroxinor | 20 mg | Tabletki powlekane
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: Paroxinor   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 17122   format KRAJOWA
+ID_REJESTRU: 100231392   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17122|id=100231392
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23139/characteristic
+SHA256: ba21fc7a3f39bb14a2015a79d51b0830237a7e811c26b12e483d977660c7756e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17122, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paroxinor, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ba21fc7a3f39bb14a2015a79d51b0830237a7e811c26b12e483d977660c7756e | fragment sha256 cae54f988a6a10b762befcd3bd5cf0fe99a568238456b3c2f699a3ea1082c900 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17122, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paroxinor, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ba21fc7a3f39bb14a2015a79d51b0830237a7e811c26b12e483d977660c7756e | fragment sha256 f8e83a44d16b83a7562d918e4b32f947da3d6fc7fd5ec87676108cc0e9ae91d7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17122, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paroxinor, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ba21fc7a3f39bb14a2015a79d51b0830237a7e811c26b12e483d977660c7756e | fragment sha256 fd4e2b9aa116b2c26a8cd1efd99a15379a62a58f7ac19b77d4a99b4b0316fa8c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

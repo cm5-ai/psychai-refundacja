@@ -1,0 +1,20 @@
+### Torendo Q-Tab 1 mg | 1 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Torendo Q-Tab 1 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 12634   format KRAJOWA
+ID_REJESTRU: 100173890   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12634|id=100173890
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17389/characteristic
+SHA256: ef34273f316050707cb8fa65538b02e9a26dc79c49d4a0badcb46a3421d18fc9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12634, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Torendo Q-Tab 1 mg, 1 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 ef34273f316050707cb8fa65538b02e9a26dc79c49d4a0badcb46a3421d18fc9 | fragment sha256 64449c5df8751f1a520ccbe764779bf04804f1110756b835382323dfc98abdac | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12634, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Torendo Q-Tab 1 mg, 1 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 ef34273f316050707cb8fa65538b02e9a26dc79c49d4a0badcb46a3421d18fc9 | fragment sha256 aaaab2c035b24539efdf668a2a0d71a0801ada48743e12f4c512de2cfc752167 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12634, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Torendo Q-Tab 1 mg, 1 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 ef34273f316050707cb8fa65538b02e9a26dc79c49d4a0badcb46a3421d18fc9 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

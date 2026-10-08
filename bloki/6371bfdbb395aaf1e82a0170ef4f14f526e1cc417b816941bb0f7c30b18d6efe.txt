@@ -1,0 +1,20 @@
+### Aripiprazole +pharma | 15 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aripiprazole +pharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 22790   format KRAJOWA
+ID_REJESTRU: 100347628   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22790|id=100347628
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34762/characteristic
+SHA256: 03ea4058dc6bbe0ce16730c84e4dde7409670480eabcd1a641dfc2b70dd52037
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22790, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aripiprazole +pharma, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 03ea4058dc6bbe0ce16730c84e4dde7409670480eabcd1a641dfc2b70dd52037 | fragment sha256 69c17e90c9d6448c0720d12db3c6c5039696bb412d75138031820a889213a2cb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22790, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aripiprazole +pharma, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 03ea4058dc6bbe0ce16730c84e4dde7409670480eabcd1a641dfc2b70dd52037 | fragment sha256 600b6d8befb6f6933480198227a405d4b2f232c8bbfa0bb7dbed475dfcffeb94 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22790, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aripiprazole +pharma, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 03ea4058dc6bbe0ce16730c84e4dde7409670480eabcd1a641dfc2b70dd52037 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

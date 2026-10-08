@@ -1,0 +1,20 @@
+### Poltraxin | 100 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Poltraxin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 29205   format KRAJOWA
+ID_REJESTRU: 100475844   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29205|id=100475844
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47584/characteristic
+SHA256: 0621b2c84ae25f099fc92253bacf467eb24fa2230e8249e936e0e6f4e0dbe8b6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29205, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Poltraxin, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 0621b2c84ae25f099fc92253bacf467eb24fa2230e8249e936e0e6f4e0dbe8b6 | fragment sha256 70439bbc076a0c5a4e0c136e2bd44117bc9a3a49c2cae4a0d7429ec4087c71a6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29205, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Poltraxin, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 0621b2c84ae25f099fc92253bacf467eb24fa2230e8249e936e0e6f4e0dbe8b6 | fragment sha256 446ce9080dd47d2a5156e1d90af1052ab713b12c1f4fa1b4eff82c09fd3ae6d6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29205, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Poltraxin, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 0621b2c84ae25f099fc92253bacf467eb24fa2230e8249e936e0e6f4e0dbe8b6 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

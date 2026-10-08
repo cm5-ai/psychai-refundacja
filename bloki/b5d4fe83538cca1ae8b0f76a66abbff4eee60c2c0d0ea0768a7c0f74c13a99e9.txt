@@ -1,0 +1,20 @@
+### Amitriptylinum VP | 25 mg | Tabletki powlekane
+SUBSTANCJA: amitryptylina
+NAZWA_HANDLOWA: Amitriptylinum VP   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 10489   format KRAJOWA
+ID_REJESTRU: 100122237   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10489|id=100122237
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12223/characteristic
+SHA256: e189a9b8a46dc51566092df20e8e6095e5fbb4affa32ea9a494cd9d512619062
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10489, magazyn chpl/amitryptylina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Amitriptylinum VP, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e189a9b8a46dc51566092df20e8e6095e5fbb4affa32ea9a494cd9d512619062 | fragment sha256 925b858a3c70276dd652e7d4110710e445fc2d35606c3409a3c1821f87a4ef6c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10489, magazyn chpl/amitryptylina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Amitriptylinum VP, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e189a9b8a46dc51566092df20e8e6095e5fbb4affa32ea9a494cd9d512619062 | fragment sha256 0d30b094f178c4632dbf1f91eb533c64450fd4437e4f2b6a5daa8283c9829082 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10489, magazyn chpl/amitryptylina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Amitriptylinum VP, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e189a9b8a46dc51566092df20e8e6095e5fbb4affa32ea9a494cd9d512619062 | fragment sha256 6be7515c822b6439c9ab8ef015ea868e2933d2d3775bb09b0f440a03fd8ff1fc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Toramat | 50 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Toramat   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 14936   format KRAJOWA
+ID_REJESTRU: 100200167   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14936|id=100200167
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20016/characteristic
+SHA256: adbe5c1a96eaabbc7b70e65a1112cac99e3f23ea3cceefe1cd8db7203530c5c2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14936, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Toramat, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 adbe5c1a96eaabbc7b70e65a1112cac99e3f23ea3cceefe1cd8db7203530c5c2 | fragment sha256 6e15046946c81fd5d572db27ecc220ee50737d69245646f6a8198276cf06866d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14936, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Toramat, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 adbe5c1a96eaabbc7b70e65a1112cac99e3f23ea3cceefe1cd8db7203530c5c2 | fragment sha256 ccd3902ce5b42d66209fa0023f31ac23baeaa17494415b0350f6dc2bc4eded68 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14936, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Toramat, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 adbe5c1a96eaabbc7b70e65a1112cac99e3f23ea3cceefe1cd8db7203530c5c2 | fragment sha256 b98257da69dfd88be8342d3f6c1b8bfff8fd23e1a24732f7d622cb0dcca70d96 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

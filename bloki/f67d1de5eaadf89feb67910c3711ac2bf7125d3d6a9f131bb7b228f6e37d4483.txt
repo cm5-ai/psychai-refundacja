@@ -1,0 +1,20 @@
+### Lamilept | 50 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Lamilept   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 12687   format KRAJOWA
+ID_REJESTRU: 100174458   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12687|id=100174458
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17445/characteristic
+SHA256: 5207f1fdb219824cd4ad3f42f84c4bcfe9c0f5c798ae3ced3ab314ab76b59a91
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12687, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lamilept, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 5207f1fdb219824cd4ad3f42f84c4bcfe9c0f5c798ae3ced3ab314ab76b59a91 | fragment sha256 ab5f28edd81acc1d5e1747939c03ee4176e0f6be3ca60f7a53bcccb01ea82a74 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12687, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lamilept, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 5207f1fdb219824cd4ad3f42f84c4bcfe9c0f5c798ae3ced3ab314ab76b59a91 | fragment sha256 0d502b60a03c89b92588d6fd704576690baa8ee71088461222568127f82c84d6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12687, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lamilept, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 5207f1fdb219824cd4ad3f42f84c4bcfe9c0f5c798ae3ced3ab314ab76b59a91 | fragment sha256 a34c9b9e4fa6265606a93a4c2435397c9090957a2dc88ebc3be014591968ac12 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

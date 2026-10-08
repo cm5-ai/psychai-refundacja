@@ -1,0 +1,20 @@
+### KETREL XR | 50 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: KETREL XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 21482   format KRAJOWA
+ID_REJESTRU: 100303884   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21482|id=100303884
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30388/characteristic
+SHA256: 232ca2d62eb20237d9ddaf44b332233d8a57997578440d32e227cb8ab1ba008f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21482, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt KETREL XR, 50 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 232ca2d62eb20237d9ddaf44b332233d8a57997578440d32e227cb8ab1ba008f | fragment sha256 db018c425661334a49397cc9526dd77431f75ac88f1c60813a9b223bd882ddd8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21482, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt KETREL XR, 50 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 232ca2d62eb20237d9ddaf44b332233d8a57997578440d32e227cb8ab1ba008f | fragment sha256 211b2095d189b07fb22e9276dd0885d1eecd4a8eee863eb5fe371745a285b5f3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21482, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt KETREL XR, 50 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 232ca2d62eb20237d9ddaf44b332233d8a57997578440d32e227cb8ab1ba008f | fragment sha256 6de703e1b25036eb06f8932f0bcd7bf0bbd27b9913aafdc85309c0720af961c2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

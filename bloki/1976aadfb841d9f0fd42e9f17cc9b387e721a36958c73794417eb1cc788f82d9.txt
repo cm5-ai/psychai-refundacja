@@ -1,0 +1,20 @@
+### Risperidon Vipharm | 3 mg | Tabletki powlekane
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Risperidon Vipharm   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 3 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 12758   format KRAJOWA
+ID_REJESTRU: 100175191   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12758|id=100175191
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17519/characteristic
+SHA256: 318d822b4fe76ce1cf5443f3d804d533f97ab3f5f95de88b9788917e64bf28eb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12758, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Risperidon Vipharm, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 318d822b4fe76ce1cf5443f3d804d533f97ab3f5f95de88b9788917e64bf28eb | fragment sha256 435133a4afbb7abb492dd76579308fba5f7990bcae4c0ab8466c5b85ba3df922 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12758, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Risperidon Vipharm, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 318d822b4fe76ce1cf5443f3d804d533f97ab3f5f95de88b9788917e64bf28eb | fragment sha256 59442a713bfc2c5f73a6b2f46d353c3d01e600cb9d878d7740acd97f86d1e975 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12758, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Risperidon Vipharm, 3 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 318d822b4fe76ce1cf5443f3d804d533f97ab3f5f95de88b9788917e64bf28eb | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

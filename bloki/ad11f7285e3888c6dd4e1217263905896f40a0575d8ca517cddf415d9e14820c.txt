@@ -1,0 +1,20 @@
+### Ayupil | 25 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: klozapina
+NAZWA_HANDLOWA: Ayupil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 25451   format KRAJOWA
+ID_REJESTRU: 100396220   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25451|id=100396220
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39622/characteristic
+SHA256: cb22b0579b8836475efcba4d15d71def3ef33a8f2148ca86c9fd294166f1b11e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25451, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ayupil, 25 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 cb22b0579b8836475efcba4d15d71def3ef33a8f2148ca86c9fd294166f1b11e | fragment sha256 abb75236cf565f4c3c95b2ad3625991b7d100eda7cfe8df50c3e77ab14d4ff11 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25451, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ayupil, 25 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 cb22b0579b8836475efcba4d15d71def3ef33a8f2148ca86c9fd294166f1b11e | fragment sha256 d176a8aba95ac0b7bbb7b418035985b7c6707bb888e2d797ca168109cc7d983d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25451, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ayupil, 25 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 cb22b0579b8836475efcba4d15d71def3ef33a8f2148ca86c9fd294166f1b11e | fragment sha256 e01bf3f6b8527dddd49f8796bd3d5942ea035ac2c1ddce928d04a565d853e31d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

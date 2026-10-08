@@ -1,0 +1,20 @@
+### Haloperidol WZF | 1 mg | Tabletki
+SUBSTANCJA: haloperidol
+NAZWA_HANDLOWA: Haloperidol WZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 01040   format KRAJOWA
+ID_REJESTRU: 100028225   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01040|id=100028225
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2822/characteristic
+SHA256: cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01040, magazyn chpl/haloperidol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Haloperidol WZF, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 5c250ded1beabb659eaddad0efa41cf6af5a4031c5563ae5b2f40adae3c0a5c0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01040, magazyn chpl/haloperidol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Haloperidol WZF, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 e1c837d608a5f66afad96bf2682c0158d6c0eb5f379468bc81ad8c1cfe32ad66 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01040, magazyn chpl/haloperidol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Haloperidol WZF, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 cb3239ba74365eb3816ae9e25fc7f0de61a2aa61b26784c366958ed37b8aa725 | fragment sha256 f5285f399453c2d43ecca18ac8be38c184a82ba6d7ad38d11491a4452b88913c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Kvelux SR | 300 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Kvelux SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 22432   format KRAJOWA
+ID_REJESTRU: 100331231   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22432|id=100331231
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33123/characteristic
+SHA256: b77d3c37e8c7b41638b37e259d7f3b4f6101a57b51abc31997107eeb82418c1b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22432, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kvelux SR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 b77d3c37e8c7b41638b37e259d7f3b4f6101a57b51abc31997107eeb82418c1b | fragment sha256 ae980a203eaa75e24b0347d384014eb24bcfa7e29999ec1d72c54303883e56a7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22432, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kvelux SR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 b77d3c37e8c7b41638b37e259d7f3b4f6101a57b51abc31997107eeb82418c1b | fragment sha256 0d05f6af486d1d9d6dbc7693d58f3921294d21b75e4d346cc9be9fd9364046c1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22432, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kvelux SR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 b77d3c37e8c7b41638b37e259d7f3b4f6101a57b51abc31997107eeb82418c1b | fragment sha256 4d7f7ff7be83d34f0c0e30641983d7586dab41b05e0f9fed4960f94b079f27b3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

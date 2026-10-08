@@ -1,0 +1,20 @@
+### Fluoksetyna EGIS | 20 mg | Kapsułki twarde
+SUBSTANCJA: fluoksetyna
+NAZWA_HANDLOWA: Fluoksetyna EGIS   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 16703   format KRAJOWA
+ID_REJESTRU: 100225983   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16703|id=100225983
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22598/characteristic
+SHA256: ae807ff6bfa12494066122ca0321d8b882e6b1cde051a1dab11416d5050db379
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16703, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Fluoksetyna EGIS, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ae807ff6bfa12494066122ca0321d8b882e6b1cde051a1dab11416d5050db379 | fragment sha256 c537af798f5c3b774769c3d10e8e5a13cd5feadfed73f24ad1b8fabd2dd6ab30 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16703, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Fluoksetyna EGIS, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ae807ff6bfa12494066122ca0321d8b882e6b1cde051a1dab11416d5050db379 | fragment sha256 1862734522b775bf57da755f7d50e75b8ccbc292405aa88c068307f1f3e84c59 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16703, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Fluoksetyna EGIS, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ae807ff6bfa12494066122ca0321d8b882e6b1cde051a1dab11416d5050db379 | fragment sha256 3429f4c14f44a15d0e0c3668c3765e77624b2644d2e0a27472d8e204556a77e7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

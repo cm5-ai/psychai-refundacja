@@ -1,0 +1,20 @@
+### Depratal | 60 mg | Tabletki dojelitowe
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Depratal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 60 mg
+POSTAC: Tabletki dojelitowe
+STAN: AKTUALNA
+IDENTYFIKATOR: 24077   format KRAJOWA
+ID_REJESTRU: 100364704   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24077|id=100364704
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36470/characteristic
+SHA256: 6ad3cc7f7c3f06ceee8b4fd6c048bf11e083f1f63916939ef41584bedfe67327
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24077, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Depratal, 60 mg, Tabletki dojelitowe | pobrano 2026-09-23 | dokument sha256 6ad3cc7f7c3f06ceee8b4fd6c048bf11e083f1f63916939ef41584bedfe67327 | fragment sha256 2909363dcb56b4509b23de611f4073d65dc151f572278b409617d12aa46546ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24077, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Depratal, 60 mg, Tabletki dojelitowe | pobrano 2026-09-23 | dokument sha256 6ad3cc7f7c3f06ceee8b4fd6c048bf11e083f1f63916939ef41584bedfe67327 | fragment sha256 cc6f46675ef5a32846c3b87c5f22ed2d60d842f9df54dacf4672257b8c6f615a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24077, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Depratal, 60 mg, Tabletki dojelitowe | pobrano 2026-09-23 | dokument sha256 6ad3cc7f7c3f06ceee8b4fd6c048bf11e083f1f63916939ef41584bedfe67327 | fragment sha256 7ff27d05f4f73fe1ae851821bea0326ac31151d3bbfabe4c463e0bc46c8cfa8f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

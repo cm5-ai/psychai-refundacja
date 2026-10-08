@@ -1,0 +1,20 @@
+### Symquel XR | 300 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Symquel XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 21486   format KRAJOWA
+ID_REJESTRU: 100304139   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21486|id=100304139
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30413/characteristic
+SHA256: 79b20ee07e02ae4af42c92aecc703e0e84d0fd70e6abbf3f56ef40c4adc32744
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21486, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symquel XR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 79b20ee07e02ae4af42c92aecc703e0e84d0fd70e6abbf3f56ef40c4adc32744 | fragment sha256 fa74bcd6dca2151f9fdef13165820cd8376d4b71674867dfd25e84217185cdad | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21486, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symquel XR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 79b20ee07e02ae4af42c92aecc703e0e84d0fd70e6abbf3f56ef40c4adc32744 | fragment sha256 49a357a18b765cac8b7f0d67fea2aaaf9c78b4682e47d18aa65da29845c5dba9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21486, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symquel XR, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 79b20ee07e02ae4af42c92aecc703e0e84d0fd70e6abbf3f56ef40c4adc32744 | fragment sha256 1a619c82551c9ea11326b66661e2e158232d582a33eff272de26ad2f2895a00f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

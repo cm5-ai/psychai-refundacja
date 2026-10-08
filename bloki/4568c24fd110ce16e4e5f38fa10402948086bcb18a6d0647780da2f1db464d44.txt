@@ -1,0 +1,20 @@
+### Symescital | 10 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Symescital   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 27688   format KRAJOWA
+ID_REJESTRU: 100460191   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27688|id=100460191
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46019/characteristic
+SHA256: e5564279f7d72449c6aec1cff97c60dcee760263305fe1583d25bbce45469359
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27688, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symescital, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e5564279f7d72449c6aec1cff97c60dcee760263305fe1583d25bbce45469359 | fragment sha256 71e169f806d836a80b5230ecf0d1cbe25da47cd53c83c1960adf9fe2c4d13a4f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27688, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symescital, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e5564279f7d72449c6aec1cff97c60dcee760263305fe1583d25bbce45469359 | fragment sha256 50f90cd9b0812cc6120388541b4a98823f99d6ad9820a5f711542d8f79ce06d7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27688, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symescital, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e5564279f7d72449c6aec1cff97c60dcee760263305fe1583d25bbce45469359 | fragment sha256 47d1a77422c3c76958de1cea568b3165cbea6a6c0008a36e2a1280a8692a35ad | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

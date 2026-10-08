@@ -1,0 +1,20 @@
+### Prefaxine | 37,5 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Prefaxine   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37,5 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 15870   format KRAJOWA
+ID_REJESTRU: 100215430   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15870|id=100215430
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21543/characteristic
+SHA256: af60ea3b7236d86740889cb985b5848415d49570fd75ea145cef243da740911c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15870, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Prefaxine, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 af60ea3b7236d86740889cb985b5848415d49570fd75ea145cef243da740911c | fragment sha256 2ed7c2ad6653b7ed5659b66838b4f7bcc09027f9ccd077ca4979a399a08b1c1e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15870, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Prefaxine, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 af60ea3b7236d86740889cb985b5848415d49570fd75ea145cef243da740911c | fragment sha256 2ee14d0d81022e879c93c0dab2ff862aeb4064dab8b5fda8d67a40d45f1abbe9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15870, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Prefaxine, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 af60ea3b7236d86740889cb985b5848415d49570fd75ea145cef243da740911c | fragment sha256 7d3bcea02860b9e01b05a26047d7111a8c78626173ed9511d71c548f9dc70c8c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

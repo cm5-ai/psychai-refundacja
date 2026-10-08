@@ -1,0 +1,20 @@
+### Psylipax | 25 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Psylipax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 29225   format KRAJOWA
+ID_REJESTRU: 100475760   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29225|id=100475760
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47576/characteristic
+SHA256: 84353a014c14e0eae560f273a2c5072c861837623f4924e2b4176e014601032a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29225, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Psylipax, 25 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 84353a014c14e0eae560f273a2c5072c861837623f4924e2b4176e014601032a | fragment sha256 14ff91e0d87cf7175059573ce34544d7fdeeb0b42a69e5eacb5f157168de7bd8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29225, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Psylipax, 25 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 84353a014c14e0eae560f273a2c5072c861837623f4924e2b4176e014601032a | fragment sha256 dea355671861b3e14c444fe929fa274be6de0b505ed14e09800dc28f7933dfc3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29225, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Psylipax, 25 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 84353a014c14e0eae560f273a2c5072c861837623f4924e2b4176e014601032a | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

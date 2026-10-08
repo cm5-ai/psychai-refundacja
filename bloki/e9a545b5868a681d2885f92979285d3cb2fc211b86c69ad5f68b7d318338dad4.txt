@@ -1,0 +1,20 @@
+### Bonogren SR | 200 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Bonogren SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 23922   format KRAJOWA
+ID_REJESTRU: 100366436   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23922|id=100366436
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36643/characteristic
+SHA256: cc9b103014682371ac281b62db1e4ae5c0b2704c79637922fc11887f1bd8e378
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23922, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bonogren SR, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 cc9b103014682371ac281b62db1e4ae5c0b2704c79637922fc11887f1bd8e378 | fragment sha256 6da9746e07e424f0121afd0af8412fbbf0c34ef604d348dc54481d865d6027d1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23922, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bonogren SR, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 cc9b103014682371ac281b62db1e4ae5c0b2704c79637922fc11887f1bd8e378 | fragment sha256 0dcab4d2208ddc404b28a408a8cba7577bd05a77e49f987667fd90e43979f13b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23922, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bonogren SR, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 cc9b103014682371ac281b62db1e4ae5c0b2704c79637922fc11887f1bd8e378 | fragment sha256 779bdd213675fd9c419ebda90b94ff353b5930f4e69ed57f629eb90b63350c91 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

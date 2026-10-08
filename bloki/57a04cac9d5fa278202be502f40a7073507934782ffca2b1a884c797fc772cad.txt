@@ -1,0 +1,20 @@
+### Axyven | 150 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Axyven   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 14352   format KRAJOWA
+ID_REJESTRU: 100190345   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14352|id=100190345
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19034/characteristic
+SHA256: 06ae9f04a0ccbfaa729d4b529a863f0c4dc50a1027a19479edf19407b0956665
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14352, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Axyven, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 06ae9f04a0ccbfaa729d4b529a863f0c4dc50a1027a19479edf19407b0956665 | fragment sha256 217adb6e2807386211f1cab8aef326868edff089c92dbd3167255bba5e71fcce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14352, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Axyven, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 06ae9f04a0ccbfaa729d4b529a863f0c4dc50a1027a19479edf19407b0956665 | fragment sha256 ba59e56eebf162a283dc1e6bd90f99145bc9804e0d9f25ae8c4fa3c55df8d1d3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14352, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Axyven, 150 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 06ae9f04a0ccbfaa729d4b529a863f0c4dc50a1027a19479edf19407b0956665 | fragment sha256 da2765d1862e90e5f9217a481e6ea5644054e10e1066b0f5198cabdc24925bf3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

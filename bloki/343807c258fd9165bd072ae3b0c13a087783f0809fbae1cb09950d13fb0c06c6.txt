@@ -1,0 +1,20 @@
+### Venlafaxine Aurovitas | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Venlafaxine Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 15001   format KRAJOWA
+ID_REJESTRU: 100201876   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15001|id=100201876
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20187/characteristic
+SHA256: b387210e6c95774d4d16b62dfc20e6aaf8178d918e9f8595c7b3fb4e0ce070f3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15001, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Venlafaxine Aurovitas, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 b387210e6c95774d4d16b62dfc20e6aaf8178d918e9f8595c7b3fb4e0ce070f3 | fragment sha256 78f81bb055979fc80f41466bc012bda9e4c60b7741e4501d2c8677871067620f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15001, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Venlafaxine Aurovitas, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 b387210e6c95774d4d16b62dfc20e6aaf8178d918e9f8595c7b3fb4e0ce070f3 | fragment sha256 a7dd9313df61d759840861fcab884e15fdb048396e413d5e0097bdf82c487a65 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15001, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Venlafaxine Aurovitas, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 b387210e6c95774d4d16b62dfc20e6aaf8178d918e9f8595c7b3fb4e0ce070f3 | fragment sha256 7d3bcea02860b9e01b05a26047d7111a8c78626173ed9511d71c548f9dc70c8c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

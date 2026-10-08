@@ -1,0 +1,20 @@
+### Elvanse | 50 mg | Kapsułki twarde
+SUBSTANCJA: lisdeksamfetamina
+NAZWA_HANDLOWA: Elvanse   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 28425   format KRAJOWA
+ID_REJESTRU: 100494452   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28425|id=100494452
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49445/characteristic
+SHA256: 2cfb7669c18cde78d30300fac12709fb70195f9636a739e5616a95a12887c5cf
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28425, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Elvanse, 50 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2cfb7669c18cde78d30300fac12709fb70195f9636a739e5616a95a12887c5cf | fragment sha256 febc89a8b873cf8c623ea8c488127f8441e0c27e3b102928e86858b396a626f1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28425, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Elvanse, 50 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2cfb7669c18cde78d30300fac12709fb70195f9636a739e5616a95a12887c5cf | fragment sha256 b76042ecee2366039d79fd3980a1c774d25f9d36a2ac682a85b657aa1d65d2c1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28425, magazyn chpl/lisdeksamfetamina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Elvanse, 50 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 2cfb7669c18cde78d30300fac12709fb70195f9636a739e5616a95a12887c5cf | fragment sha256 835ee15e8da15bc4290a6164df760e550da960852ccac406bad4ec6a9eea2f22 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

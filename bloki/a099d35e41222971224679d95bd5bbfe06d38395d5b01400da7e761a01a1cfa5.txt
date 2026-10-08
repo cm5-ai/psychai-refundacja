@@ -1,0 +1,20 @@
+### Paxifar | 50 mg | Tabletki
+SUBSTANCJA: klozapina
+NAZWA_HANDLOWA: Paxifar   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 27485   format KRAJOWA
+ID_REJESTRU: 100435806   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27485|id=100435806
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43580/characteristic
+SHA256: 2fa2202903a7be3faa786f7978dad50a6f35a0faa1884c964d153184fa132faf
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27485, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paxifar, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 2fa2202903a7be3faa786f7978dad50a6f35a0faa1884c964d153184fa132faf | fragment sha256 580361f78597b6d0ee8fcd6e3b8667197c972be4bbc67f7993c3b512c0416290 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27485, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paxifar, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 2fa2202903a7be3faa786f7978dad50a6f35a0faa1884c964d153184fa132faf | fragment sha256 11a652946600a230cd4eb5a4adf2665f533d47137e7d9f59197d4c37f94e2e7a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27485, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paxifar, 50 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 2fa2202903a7be3faa786f7978dad50a6f35a0faa1884c964d153184fa132faf | fragment sha256 f396c438a0645bf6383567ef1353481428f8a0efe6684c2220e2d62826024f90 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

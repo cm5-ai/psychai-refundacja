@@ -1,0 +1,20 @@
+### Olanzapin Krka | 5 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapin Krka   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+STAN: AKTUALNA
+IDENTYFIKATOR: 14398   format KRAJOWA
+ID_REJESTRU: 100190670   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14398|id=100190670
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19067/characteristic
+SHA256: ee0ff9c3e345a40ada607d0adaa302034284d4a2e52a69ffcf3ab7845e4f9abd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14398, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzapin Krka, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 ee0ff9c3e345a40ada607d0adaa302034284d4a2e52a69ffcf3ab7845e4f9abd | fragment sha256 4d3fc55ab37788cd1ef9476373728e5a3713a760f090e5c31debd632ffb12940 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14398, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzapin Krka, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 ee0ff9c3e345a40ada607d0adaa302034284d4a2e52a69ffcf3ab7845e4f9abd | fragment sha256 7fbc04e5fd16e2e24b7a7c31e8f873a265fba70206564ad1fac9c61f3456903d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14398, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzapin Krka, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 ee0ff9c3e345a40ada607d0adaa302034284d4a2e52a69ffcf3ab7845e4f9abd | fragment sha256 c9b20f9bda1ce65b6fe86e78880c35650dadccdcd9eb3648703938c822ebc2ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

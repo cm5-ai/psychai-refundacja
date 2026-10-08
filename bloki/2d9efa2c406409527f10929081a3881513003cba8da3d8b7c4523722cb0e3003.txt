@@ -1,0 +1,20 @@
+### Gabapentin Aurovitas | 300 mg | Kapsułki twarde
+SUBSTANCJA: gabapentyna
+NAZWA_HANDLOWA: Gabapentin Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 24514   format KRAJOWA
+ID_REJESTRU: 100354031   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24514|id=100354031
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35403/characteristic
+SHA256: 0dcf1e5dc97deabaa088e06f467a12f6ac3bd3913db52c43b53854ed3a8fe242
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24514, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Gabapentin Aurovitas, 300 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0dcf1e5dc97deabaa088e06f467a12f6ac3bd3913db52c43b53854ed3a8fe242 | fragment sha256 9a9f9045dc8f37ba943f12bae0199b24188807698ac8bb0dec9fe7d1035ab89a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24514, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Gabapentin Aurovitas, 300 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0dcf1e5dc97deabaa088e06f467a12f6ac3bd3913db52c43b53854ed3a8fe242 | fragment sha256 d8e59b23846780fe78b78b009338fd4bf7512b14a94d93694caec9539420435d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24514, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Gabapentin Aurovitas, 300 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0dcf1e5dc97deabaa088e06f467a12f6ac3bd3913db52c43b53854ed3a8fe242 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

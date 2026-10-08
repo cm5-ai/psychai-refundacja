@@ -1,0 +1,20 @@
+### Ketilept 300 mg | 300 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Ketilept 300 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 12967   format KRAJOWA
+ID_REJESTRU: 100177592   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12967|id=100177592
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17759/characteristic
+SHA256: 986ae9c03f8d21051bc2264f4610981bf03d727a46b7cdae54ddbc7b27dc3af0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12967, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ketilept 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 986ae9c03f8d21051bc2264f4610981bf03d727a46b7cdae54ddbc7b27dc3af0 | fragment sha256 c93ac96def11e376c50cd0c113e1a16680dc24cc313dadfe1a51aeec1ff32cb0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12967, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ketilept 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 986ae9c03f8d21051bc2264f4610981bf03d727a46b7cdae54ddbc7b27dc3af0 | fragment sha256 17b44f0c19a4600b803d5d8941bf5e6cd72e88ce95402fb1a5991d57a54acca2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12967, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ketilept 300 mg, 300 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 986ae9c03f8d21051bc2264f4610981bf03d727a46b7cdae54ddbc7b27dc3af0 | fragment sha256 679e132836b488062d899ff31ac59360ac6ce4b6941576b7ee86bc75c2b9ebee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

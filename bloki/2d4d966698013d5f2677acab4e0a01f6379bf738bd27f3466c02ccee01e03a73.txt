@@ -1,0 +1,20 @@
+### Concerta | 36 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Concerta   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 36 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 14752   format KRAJOWA
+ID_REJESTRU: 100196833   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14752|id=100196833
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19683/characteristic
+SHA256: 44f6979592ec8de01f265f1500e6fb3054740aea6704ccae05c5b2ac891a8b10
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14752, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Concerta, 36 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 44f6979592ec8de01f265f1500e6fb3054740aea6704ccae05c5b2ac891a8b10 | fragment sha256 1f47174bad9f16a560448032a449080e9bfd8482aaeec03e0ba500200bfbe705 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14752, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Concerta, 36 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 44f6979592ec8de01f265f1500e6fb3054740aea6704ccae05c5b2ac891a8b10 | fragment sha256 9f68ca4cef978110758764614b86628d689507199a2d67a64a81d559a32e6457 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14752, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Concerta, 36 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 44f6979592ec8de01f265f1500e6fb3054740aea6704ccae05c5b2ac891a8b10 | fragment sha256 68f19c7281eec5a610165dd3caa50624255bbffd4e174f70dc8886cf6afedb5c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

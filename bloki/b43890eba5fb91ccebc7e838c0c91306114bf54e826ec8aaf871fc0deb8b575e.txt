@@ -1,0 +1,20 @@
+### Konaten | 18 mg | Kapsułki twarde
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Konaten   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 18 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 25071   format KRAJOWA
+ID_REJESTRU: 100391055   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25071|id=100391055
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39105/characteristic
+SHA256: b626f8a184c17278e0e0fe29b4ac9d402e91760cc2d7bfc01456dacc483341ff
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25071, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Konaten, 18 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b626f8a184c17278e0e0fe29b4ac9d402e91760cc2d7bfc01456dacc483341ff | fragment sha256 a70b4e27b204bf58ef602570c9371e29969bf33d1d329173badbbb019fe45272 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25071, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Konaten, 18 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b626f8a184c17278e0e0fe29b4ac9d402e91760cc2d7bfc01456dacc483341ff | fragment sha256 13235ccdee01a8ba870fe09d464bf2dcf78c63d9b913aabf139dfc368cb993b7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25071, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Konaten, 18 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 b626f8a184c17278e0e0fe29b4ac9d402e91760cc2d7bfc01456dacc483341ff | fragment sha256 50d12367c49c3f5471a5e72a5412bab9024c34980eef72127b79b9b0be08f40b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

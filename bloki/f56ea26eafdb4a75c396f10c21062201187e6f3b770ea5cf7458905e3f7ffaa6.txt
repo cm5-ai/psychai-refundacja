@@ -1,0 +1,20 @@
+### Orizon | 4 mg | Tabletki powlekane
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Orizon   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 4 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 17665   format KRAJOWA
+ID_REJESTRU: 100240913   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17665|id=100240913
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24091/characteristic
+SHA256: 3586d732d9baeec8f7ae1f9b80077867a2a3e0501aa3178d92055861e3cec7ce
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17665, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Orizon, 4 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3586d732d9baeec8f7ae1f9b80077867a2a3e0501aa3178d92055861e3cec7ce | fragment sha256 7c745e4243da6fbad0d02b98ab05c9d22421170d10e1443b0f71b96f89fa4cd2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17665, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Orizon, 4 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3586d732d9baeec8f7ae1f9b80077867a2a3e0501aa3178d92055861e3cec7ce | fragment sha256 c9f3a3f6288f13682dd528f0e8c2cc117804efe47e55cb6ce7076adf0bfcce3e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17665, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Orizon, 4 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3586d732d9baeec8f7ae1f9b80077867a2a3e0501aa3178d92055861e3cec7ce | fragment sha256 1b9f30e949af1e6359c8110f4fb570eb594f90596b8cf9420c6370c82bf4e2a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

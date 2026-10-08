@@ -1,0 +1,10 @@
+### ApoSerta | 100 mg | Tabletki powlekane
+KLUCZ: KRAJOWA|24426|id=100373726
+STAN: ZAKRES_NIEROZSTRZYGNIETY   ostatnia obecnosc: 2026-10-05
+STATUS_DAWKI: NIEROZSTRZYGNIETY — wczesniej potwierdzonej dawki NIE kasuje z tego powodu. Schodzi dopiero po zatwierdzeniu lekarza.
+WSKAZANIA: ZAKRES_NIEROZSTRZYGNIETY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: ZAKRES_NIEROZSTRZYGNIETY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: ZAKRES_NIEROZSTRZYGNIETY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Ta rejestracja STOI w biezacym eksporcie rejestru, ale jej nazwa powszechna nie trafia w liste zakresu tej substancji, wiec przynaleznosc do zakresu jest NIEROZSTRZYGNIETA, a nie zaprzeczona: wiersz zostaje ze swoim identyfikatorem, zeby nie zniknal po cichu, dopisania wariantu nazwy nie ma, bo byloby dopasowaniem napisow, i dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+NAZWA_POWSZECHNA_W_EKSPORCIE: Sertalinum   (nie trafia w liste zakresu tej substancji; wariantu nie dopisuje — par. 3B)
+

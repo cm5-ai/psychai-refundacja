@@ -1,0 +1,20 @@
+### Paliperidone +pharma | 100 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Paliperidone +pharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+STAN: AKTUALNA
+IDENTYFIKATOR: 29242   format KRAJOWA
+ID_REJESTRU: 100505831   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29242|id=100505831
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50583/characteristic
+SHA256: 88121a816b7ed5f48355339babd3a8bd3096ab914942f751cba405a7503e9e85
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29242, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paliperidone +pharma, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 88121a816b7ed5f48355339babd3a8bd3096ab914942f751cba405a7503e9e85 | fragment sha256 a99eee14eb389f4b3b969a663200c526d3e1760c94545265531f3030455c9e27 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29242, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paliperidone +pharma, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 88121a816b7ed5f48355339babd3a8bd3096ab914942f751cba405a7503e9e85 | fragment sha256 129f07f8bd5136b279191798ea6a4120817351dbc67c41fea86e5ffe3630d5d2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29242, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paliperidone +pharma, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 88121a816b7ed5f48355339babd3a8bd3096ab914942f751cba405a7503e9e85 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

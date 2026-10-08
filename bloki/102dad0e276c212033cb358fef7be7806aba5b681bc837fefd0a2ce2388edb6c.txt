@@ -1,0 +1,20 @@
+### Bonogren | 200 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Bonogren   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 15762   format KRAJOWA
+ID_REJESTRU: 100213715   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15762|id=100213715
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21371/characteristic
+SHA256: 9f99f40e0e08776e2df1b9539978ae56b158d74061635cbda6fe59656db1e346
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15762, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bonogren, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9f99f40e0e08776e2df1b9539978ae56b158d74061635cbda6fe59656db1e346 | fragment sha256 edd4457bc69602ad9d2a9dcf7ec038b9eecb23a8af0c7bc6cf0475a8a6b00955 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15762, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bonogren, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9f99f40e0e08776e2df1b9539978ae56b158d74061635cbda6fe59656db1e346 | fragment sha256 512a81705bcddd2695f22cc4f7f8090febe37ed4a73dd03a70d39201af237140 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15762, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bonogren, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9f99f40e0e08776e2df1b9539978ae56b158d74061635cbda6fe59656db1e346 | fragment sha256 f6c571f20cc59f4c48072882e3699b8b6bd082e4cae6d29aea08bab2c3e7233f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

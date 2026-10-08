@@ -1,0 +1,20 @@
+### POLUR | 74 mg | Tabletki powlekane
+SUBSTANCJA: lurazydon
+NAZWA_HANDLOWA: POLUR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 74 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 29046   format KRAJOWA
+ID_REJESTRU: 100506077   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29046|id=100506077
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50607/characteristic
+SHA256: 5adf52614ef0519c132df542243a0ebdc5700741f3b6b819a53f9fc76c729919
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29046, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt POLUR, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 5adf52614ef0519c132df542243a0ebdc5700741f3b6b819a53f9fc76c729919 | fragment sha256 b86e1809fd8d2c3ec58825e8c0b093e70535a2438ad74fb68035cde73b34f10c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29046, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt POLUR, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 5adf52614ef0519c132df542243a0ebdc5700741f3b6b819a53f9fc76c729919 | fragment sha256 99d77a6cc80f2abd6a199ac5c95edbc332565ae6afa4d953b25bc4357a3df56f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29046, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt POLUR, 74 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 5adf52614ef0519c132df542243a0ebdc5700741f3b6b819a53f9fc76c729919 | fragment sha256 2689d21660e8675fea37506edaadaa8158472a1c1309d1d2d565d34ebd642c67 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

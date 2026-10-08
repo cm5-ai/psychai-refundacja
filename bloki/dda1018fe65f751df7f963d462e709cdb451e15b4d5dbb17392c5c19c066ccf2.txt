@@ -1,0 +1,19 @@
+### Oroes | 10 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Oroes   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 21645   format KRAJOWA
+ID_REJESTRU: 100307920   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21645|id=100307920
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30792/characteristic
+SHA256: 2bc5660650fa9070f81fe70db91ad28d6ebbdc3040d59ee0c6d2ca64f09fe2cb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21645, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oroes, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2bc5660650fa9070f81fe70db91ad28d6ebbdc3040d59ee0c6d2ca64f09fe2cb | fragment sha256 6d6313946174213738a9fa27d5c69adb5c1deae3b1a8f6e4d15ccbef6e6e39a7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21645, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oroes, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2bc5660650fa9070f81fe70db91ad28d6ebbdc3040d59ee0c6d2ca64f09fe2cb | fragment sha256 d0f8f299a60bb3817ac4aa4d6a2fd73cec0847d701be9e8305e5b3834d409710 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA: BRAK_FRAGMENTU_W_SPRAWDZONYM_ZRODLE — dokument jest przypisany, punktu 4.3 w nim nie ma.
+

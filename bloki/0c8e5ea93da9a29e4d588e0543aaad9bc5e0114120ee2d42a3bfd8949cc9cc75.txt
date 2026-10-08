@@ -1,0 +1,20 @@
+### Convival Chrono | 500 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: walproinian
+NAZWA_HANDLOWA: Convival Chrono   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 500 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 19521   format KRAJOWA
+ID_REJESTRU: 100265333   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|19521|id=100265333
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26533/characteristic
+SHA256: d06c9d0ac21f37568337e4ab16bebf2c14c6ba7ae689072b5f88301d8045928a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 19521, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Convival Chrono, 500 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 d06c9d0ac21f37568337e4ab16bebf2c14c6ba7ae689072b5f88301d8045928a | fragment sha256 094611da2c8bc87bb82914c29c268d97bc8c707bf8a50970531298b97cc36854 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 19521, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Convival Chrono, 500 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 d06c9d0ac21f37568337e4ab16bebf2c14c6ba7ae689072b5f88301d8045928a | fragment sha256 f940a416b2ad56b02f3c13a6ac7c0684fa6d4334877166d21bdbf572617d46c8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 19521, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Convival Chrono, 500 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 d06c9d0ac21f37568337e4ab16bebf2c14c6ba7ae689072b5f88301d8045928a | fragment sha256 3d8ee33a3a1ac5937b4ec8429eed17bac3fb54acae73517bb15804755236305a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

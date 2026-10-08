@@ -1,0 +1,20 @@
+### Karbamazepina Tillomed | 200 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: karbamazepina
+NAZWA_HANDLOWA: Karbamazepina Tillomed   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 28491   format KRAJOWA
+ID_REJESTRU: 100412544   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28491|id=100412544
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41254/characteristic
+SHA256: c8d7ed5461888e752d5b18f1ce3bf70e721085802a295a14a611fa2bd503d9f1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28491, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Karbamazepina Tillomed, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c8d7ed5461888e752d5b18f1ce3bf70e721085802a295a14a611fa2bd503d9f1 | fragment sha256 2a6218594760aa90c1f502d0222b8fe6e06c7bff4aadd6ea33938f942627be42 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28491, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Karbamazepina Tillomed, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c8d7ed5461888e752d5b18f1ce3bf70e721085802a295a14a611fa2bd503d9f1 | fragment sha256 08f79c8342e02573085923c89dc82afa5c9f0b8fea7e701e344e76b39d9fdc5d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28491, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Karbamazepina Tillomed, 200 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 c8d7ed5461888e752d5b18f1ce3bf70e721085802a295a14a611fa2bd503d9f1 | fragment sha256 e729f45bcfc1689c18d6a0fc24d1a3625663bc7b4616c3a8f42ff3ddf63f5d7b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

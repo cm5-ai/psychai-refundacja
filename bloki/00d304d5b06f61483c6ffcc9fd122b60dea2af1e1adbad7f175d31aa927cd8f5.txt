@@ -1,0 +1,20 @@
+### Tractiva | 30 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Tractiva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 27925   format KRAJOWA
+ID_REJESTRU: 100465768   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27925|id=100465768
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46576/characteristic
+SHA256: 4c4fd16884b267ba65774491e82eaf69f8edb946d2c5e332e663184eabd5aa8f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27925, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tractiva, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4c4fd16884b267ba65774491e82eaf69f8edb946d2c5e332e663184eabd5aa8f | fragment sha256 1fc6706e020382110c1b1b387a599ee6cb2d986d3084f2c1c5d2da373f8cb7bd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27925, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tractiva, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4c4fd16884b267ba65774491e82eaf69f8edb946d2c5e332e663184eabd5aa8f | fragment sha256 6d6146eb543b121b945b9f0b2a1003952829d9f7a6737add148fbaead427e53a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27925, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tractiva, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4c4fd16884b267ba65774491e82eaf69f8edb946d2c5e332e663184eabd5aa8f | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

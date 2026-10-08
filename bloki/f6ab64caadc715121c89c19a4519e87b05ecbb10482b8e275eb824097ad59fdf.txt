@@ -1,0 +1,20 @@
+### Venlafaxine Actavis | 37,5 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Venlafaxine Actavis   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37,5 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 15686   format KRAJOWA
+ID_REJESTRU: 100212704   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15686|id=100212704
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21270/characteristic
+SHA256: 0ac5a47f2b6c78061855b7aec6c1886236139e23d07e2d8a748dcac10ffd1a87
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15686, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Venlafaxine Actavis, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 0ac5a47f2b6c78061855b7aec6c1886236139e23d07e2d8a748dcac10ffd1a87 | fragment sha256 835a82db78ba4c066cc4555a946106d4e2a554c9e48648d9dd5ceb874f4d71df | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15686, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Venlafaxine Actavis, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 0ac5a47f2b6c78061855b7aec6c1886236139e23d07e2d8a748dcac10ffd1a87 | fragment sha256 5e4df6b1c55fbbe1e0a89dcd9b01e70490e6caf72cf2b1bd901cc1955cf9690a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15686, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Venlafaxine Actavis, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 0ac5a47f2b6c78061855b7aec6c1886236139e23d07e2d8a748dcac10ffd1a87 | fragment sha256 ef23cfd6c8fe84a661c9115c8a3cd5a94bd35b6758c8aac4fdf2ab43af196a04 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Elicea | 10 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Elicea   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 16155   format KRAJOWA
+ID_REJESTRU: 100219592   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16155|id=100219592
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21959/characteristic
+SHA256: a839732bfa72e33cee4fc88c935dc05187e5f980600491506cf11ac1b73a14cf
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16155, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Elicea, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a839732bfa72e33cee4fc88c935dc05187e5f980600491506cf11ac1b73a14cf | fragment sha256 b55d4d22269a54e6c45defd39a510127c4f282671b7566cee013123963b2268e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16155, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Elicea, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a839732bfa72e33cee4fc88c935dc05187e5f980600491506cf11ac1b73a14cf | fragment sha256 2aef9ce4521c1c3bf4bf6cbc561e0f452945d7f180cf6d17e34ce77e602acb11 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16155, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Elicea, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a839732bfa72e33cee4fc88c935dc05187e5f980600491506cf11ac1b73a14cf | fragment sha256 f4e314a9bf5b97959b0b9a12aedfc60513d4ef8d82633fc5ebfe1ec830afe2b0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### ApoTiapina | 200 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: ApoTiapina   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 18637   format KRAJOWA
+ID_REJESTRU: 100253590   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|18637|id=100253590
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/25359/characteristic
+SHA256: 01a9d8d23194ec841141c49f38d0e1fc7051c9c4527669b374e768d0ed2250ad
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 18637, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ApoTiapina, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 01a9d8d23194ec841141c49f38d0e1fc7051c9c4527669b374e768d0ed2250ad | fragment sha256 00e9b92bc5d5a8c75c590c48fdbc96a75d6e280a11a6815af59da8ca25c2c2f8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 18637, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ApoTiapina, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 01a9d8d23194ec841141c49f38d0e1fc7051c9c4527669b374e768d0ed2250ad | fragment sha256 db7734576ce2e319b07e7882926b3e14c075364364c92bedf16ebc39c1e5cdbe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 18637, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ApoTiapina, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 01a9d8d23194ec841141c49f38d0e1fc7051c9c4527669b374e768d0ed2250ad | fragment sha256 56c297596e0d538681120675d20b3f6507ce0850544d9084f69819dfc1563a9d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,20 @@
+### Aripilek | 5 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aripilek   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+STAN: AKTUALNA
+IDENTYFIKATOR: 22610   format KRAJOWA
+ID_REJESTRU: 100345256   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22610|id=100345256
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34525/characteristic
+SHA256: abdc8843127db140a52c5704f569b8df6d6a788b8c4aada22d059445d1e51395
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22610, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aripilek, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 abdc8843127db140a52c5704f569b8df6d6a788b8c4aada22d059445d1e51395 | fragment sha256 73d187c8fb75b3727d646c530d1bdc7bafed11a8b0074dcf9b7430ac78e8804f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22610, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aripilek, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 abdc8843127db140a52c5704f569b8df6d6a788b8c4aada22d059445d1e51395 | fragment sha256 ce1896391c439739ff2a8030cbbc2c1288015e661b7c83c2760f5a39820e4ded | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22610, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aripilek, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 abdc8843127db140a52c5704f569b8df6d6a788b8c4aada22d059445d1e51395 | fragment sha256 44469826035469975e85420a22c52d16797d9d23e95e7da31ba4c675ef5f8906 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

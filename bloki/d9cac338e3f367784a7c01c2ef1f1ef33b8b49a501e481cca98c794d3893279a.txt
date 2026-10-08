@@ -1,0 +1,20 @@
+### Dulxetenon | 120 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Dulxetenon   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 120 mg
+POSTAC: Kapsułki dojelitowe, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 26704   format KRAJOWA
+ID_REJESTRU: 100429250   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26704|id=100429250
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42925/characteristic
+SHA256: 5b1332e1921c10002cc4b07d3364722d9c87c44e447e83b9249f7ec8ae15399c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26704, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Dulxetenon, 120 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 5b1332e1921c10002cc4b07d3364722d9c87c44e447e83b9249f7ec8ae15399c | fragment sha256 ac15aabca4c81d9cd2fb9c702a94a8cb5c48ac96bdbfc7497f9dbac6bf9f9097 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26704, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Dulxetenon, 120 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 5b1332e1921c10002cc4b07d3364722d9c87c44e447e83b9249f7ec8ae15399c | fragment sha256 f2506640b402f398f78e651d5897eabcec44f30121e0df861d426905920412e4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26704, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Dulxetenon, 120 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 5b1332e1921c10002cc4b07d3364722d9c87c44e447e83b9249f7ec8ae15399c | fragment sha256 872dedf48d8a0768e58bef850f814c4e15c5095a15bf4dd95e887d379a2e1e33 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

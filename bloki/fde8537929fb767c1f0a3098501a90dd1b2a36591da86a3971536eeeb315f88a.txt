@@ -1,0 +1,20 @@
+### Axyven | 37,5 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Axyven   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37,5 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+STAN: AKTUALNA
+IDENTYFIKATOR: 14350   format KRAJOWA
+ID_REJESTRU: 100190256   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14350|id=100190256
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19025/characteristic
+SHA256: 8f3e2782aef8e15bcf6fd8d207117eddea40af96ede23acf36238635c6a4c236
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14350, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Axyven, 37,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 8f3e2782aef8e15bcf6fd8d207117eddea40af96ede23acf36238635c6a4c236 | fragment sha256 217adb6e2807386211f1cab8aef326868edff089c92dbd3167255bba5e71fcce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14350, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Axyven, 37,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 8f3e2782aef8e15bcf6fd8d207117eddea40af96ede23acf36238635c6a4c236 | fragment sha256 eea4d42b8b643ced9f2af09c9c67326a1783b3865b9828e80071e5bf946aecdf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14350, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Axyven, 37,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 8f3e2782aef8e15bcf6fd8d207117eddea40af96ede23acf36238635c6a4c236 | fragment sha256 cb45bf2db63747f173c4fdeb1be79fff3a64e3f8cebb3b74438f6757605dd16c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

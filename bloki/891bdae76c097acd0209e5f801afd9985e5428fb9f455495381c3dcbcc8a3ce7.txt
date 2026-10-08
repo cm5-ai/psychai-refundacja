@@ -1,0 +1,20 @@
+### Depralin | 10 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Depralin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 16170   format KRAJOWA
+ID_REJESTRU: 100219280   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16170|id=100219280
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21928/characteristic
+SHA256: 462471c7509bbebdc07582ec2e924c36ac98d68aee191cfb14c1af6c433f8e66
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16170, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Depralin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 462471c7509bbebdc07582ec2e924c36ac98d68aee191cfb14c1af6c433f8e66 | fragment sha256 34868aa18316c7b1542f027da73930a39aed52fe58095558791fd1ccffb97541 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16170, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Depralin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 462471c7509bbebdc07582ec2e924c36ac98d68aee191cfb14c1af6c433f8e66 | fragment sha256 20390d081643a0e0c7d7f063d6d5c0b1ef302cb41d3aeef5574f4c2567cd6241 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16170, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Depralin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 462471c7509bbebdc07582ec2e924c36ac98d68aee191cfb14c1af6c433f8e66 | fragment sha256 0c4766d1438145d60bde21b21d01468b091ce8730d72d8eb2e60b9418bc09d24 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

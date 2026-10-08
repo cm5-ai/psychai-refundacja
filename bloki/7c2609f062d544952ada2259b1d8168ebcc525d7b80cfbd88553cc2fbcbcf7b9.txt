@@ -1,0 +1,20 @@
+### Kwetina | 100 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Kwetina   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 27462   format KRAJOWA
+ID_REJESTRU: 100444716   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27462|id=100444716
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44471/characteristic
+SHA256: 35e2eeb3999e5348a3b82813d875e449ca2b4b3b825d6b1b2aa4ef0d215bc917
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27462, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kwetina, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 35e2eeb3999e5348a3b82813d875e449ca2b4b3b825d6b1b2aa4ef0d215bc917 | fragment sha256 22da22175f05115543413b2b92ca2a5db752867a24f73cf6e43e769909e67159 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27462, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kwetina, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 35e2eeb3999e5348a3b82813d875e449ca2b4b3b825d6b1b2aa4ef0d215bc917 | fragment sha256 1ac144ae44e76f48277a42919262cf9c840058a53838c9788ff75b3018d20f24 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27462, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kwetina, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 35e2eeb3999e5348a3b82813d875e449ca2b4b3b825d6b1b2aa4ef0d215bc917 | fragment sha256 a9ff840959ed1a35f9e1d1bf6b6cb5da4e7fc80a0871740f9873e94438714b2a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

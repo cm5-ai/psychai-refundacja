@@ -1,0 +1,20 @@
+### Auroxetyn | 25 mg | Kapsułki twarde
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Auroxetyn   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Kapsułki twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 25127   format KRAJOWA
+ID_REJESTRU: 100390950   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25127|id=100390950
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39095/characteristic
+SHA256: 0bef7e34a613327e0c47c12adc802979290034db8d0ad0b32818d4b111b85584
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25127, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Auroxetyn, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0bef7e34a613327e0c47c12adc802979290034db8d0ad0b32818d4b111b85584 | fragment sha256 a625297cec60fbe6608459a1af0255ee8646983255287fad6f57e0d9fd84e995 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25127, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Auroxetyn, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0bef7e34a613327e0c47c12adc802979290034db8d0ad0b32818d4b111b85584 | fragment sha256 c9eaed310c3a7dec1d569e0798074d44f76dcf3da05725dc86aa4d7e7ac71d61 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25127, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Auroxetyn, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 0bef7e34a613327e0c47c12adc802979290034db8d0ad0b32818d4b111b85584 | fragment sha256 a7dc41cbb4f5a48f0b223f4392cbb31b44ba441714f95459280b273f93bf8246 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

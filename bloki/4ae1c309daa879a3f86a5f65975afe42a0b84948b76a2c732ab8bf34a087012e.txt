@@ -1,0 +1,20 @@
+### Paxtin 40 | 40 mg | Tabletki powlekane
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: Paxtin 40   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 10902   format KRAJOWA
+ID_REJESTRU: 100127996   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10902|id=100127996
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12799/characteristic
+SHA256: 3b084016d9cf7a6c6b0550752dfbab2d11a2397a5eb8a4d73a4b82f6202bebdc
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10902, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paxtin 40, 40 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3b084016d9cf7a6c6b0550752dfbab2d11a2397a5eb8a4d73a4b82f6202bebdc | fragment sha256 edc326e656765514e960a4acc7c297a909fa3a318a0d621801fad888c8d1c074 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10902, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paxtin 40, 40 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3b084016d9cf7a6c6b0550752dfbab2d11a2397a5eb8a4d73a4b82f6202bebdc | fragment sha256 c522cc1a8b7c4226d898e6e7bc83ccf1d442f26ae2f8cc429516e3c7319c0353 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10902, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paxtin 40, 40 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3b084016d9cf7a6c6b0550752dfbab2d11a2397a5eb8a4d73a4b82f6202bebdc | fragment sha256 ac350a036d810718693ec891941bcf9f0d6f3e724e5c54458d41f4a9b670d8e0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

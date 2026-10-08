@@ -1,0 +1,20 @@
+### Trileptal | 60 mg/ml | Zawiesina doustna
+SUBSTANCJA: okskarbazepina
+NAZWA_HANDLOWA: Trileptal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 60 mg/ml
+POSTAC: Zawiesina doustna
+STAN: AKTUALNA
+IDENTYFIKATOR: 07471   format KRAJOWA
+ID_REJESTRU: 100189744   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07471|id=100189744
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/18974/characteristic
+SHA256: e86110516b5ef10ee8f7881097aba728a5ccfbbe4850320487b544cc56be91ea
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07471, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Trileptal, 60 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 e86110516b5ef10ee8f7881097aba728a5ccfbbe4850320487b544cc56be91ea | fragment sha256 01d7aa75bb5ee2812660dbceed544f110e5baaa2a8ea2a9c1e38382341e4fd19 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07471, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Trileptal, 60 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 e86110516b5ef10ee8f7881097aba728a5ccfbbe4850320487b544cc56be91ea | fragment sha256 71e00a5e3a208441ca88cc950e303414145803ce855c5ba8c5032a8e1218df46 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07471, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Trileptal, 60 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 e86110516b5ef10ee8f7881097aba728a5ccfbbe4850320487b544cc56be91ea | fragment sha256 75c8387660797c391cad8abe9b08d2a720d60389100e29050a34f91486a7894b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

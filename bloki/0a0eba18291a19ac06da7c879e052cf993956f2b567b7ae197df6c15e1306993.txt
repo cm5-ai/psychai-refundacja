@@ -1,0 +1,20 @@
+### Venlafaxine Teva | 37,5 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Venlafaxine Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37,5 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+STAN: AKTUALNA
+IDENTYFIKATOR: 27467   format KRAJOWA
+ID_REJESTRU: 100458792   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27467|id=100458792
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45879/characteristic
+SHA256: f13e4f731532c8ef4c647e718ac3c9f87f641a30d253f771398a810de02cada6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27467, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Venlafaxine Teva, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 f13e4f731532c8ef4c647e718ac3c9f87f641a30d253f771398a810de02cada6 | fragment sha256 74805c4dbe7d6b8187c0c946d8eb4f958c9d1bae940f8283a8c3412367e18ad2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27467, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Venlafaxine Teva, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 f13e4f731532c8ef4c647e718ac3c9f87f641a30d253f771398a810de02cada6 | fragment sha256 cee954111a6a76e61a59353a0af61c943ef15fe99b20dc75149a1d6a4e6c9b86 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27467, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Venlafaxine Teva, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 f13e4f731532c8ef4c647e718ac3c9f87f641a30d253f771398a810de02cada6 | fragment sha256 fb2b208379635f24657a0835c9d83d4e69ffb29cc97e2623a36b2f9f142d7519 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

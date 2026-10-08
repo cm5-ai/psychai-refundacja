@@ -1,0 +1,20 @@
+### Sertraline Zentiva | 25 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Sertraline Zentiva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+STAN: AKTUALNA
+IDENTYFIKATOR: 26905   format KRAJOWA
+ID_REJESTRU: 100434853   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26905|id=100434853
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43485/characteristic
+SHA256: e4cc93885532b6c5cf6cbe0a90e1ac9463fa359df7b27d1910e9561e83a69447
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26905, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sertraline Zentiva, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e4cc93885532b6c5cf6cbe0a90e1ac9463fa359df7b27d1910e9561e83a69447 | fragment sha256 81b8f2523939eacf8599c5eb765439ccaf386be799af590163f5f6fc162b59f2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26905, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sertraline Zentiva, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e4cc93885532b6c5cf6cbe0a90e1ac9463fa359df7b27d1910e9561e83a69447 | fragment sha256 acb3b88b5d8a4ecbfd03eb9d4d26edc966483ad9957bae6628cb9d3229cdb1bc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26905, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sertraline Zentiva, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e4cc93885532b6c5cf6cbe0a90e1ac9463fa359df7b27d1910e9561e83a69447 | fragment sha256 1d6a0d1952b06db7a9c2b3fa8762b0cb575ad69f34f1ca1ac0b90093d1e681e7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+
