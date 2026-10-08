@@ -1,22 +1,22 @@
-# Strażnik ChPL — 2026-10-01
+# Strażnik ChPL — 2026-10-08
 
 Produkty sprawdzane: 813; błędy pobrania: 0; porównanie z poprzednim
 
-## Zmienione ChPL (2 substancji)
+## Zmienione ChPL (3 substancji)
 
-### PREGABALINA — zmienione 2 ChPL
-- Pregabalin Medreg 150 mg (Medreg s.r.o.) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46981/characteristic
-- Pregabalin Medreg 75 mg (Medreg s.r.o.) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46980/characteristic
+### BUPROPION — zmienione 1 ChPL
+- Bupropion Neuraxpharm 300 mg (neuraxpharm Arzneimittel GmbH) — sekcje: 4.2, 4.4, 4.5, 4.6, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43849/characteristic
 
-### WALPROINIAN — zmienione 9 ChPL
-- Depakine 288,2 mg/5 ml (Sanofi Winthrop Industrie) — sekcje: 4.6, 4.8 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1770/characteristic
-- Depakine 400 mg (400 mg/4 ml) (Sanofi Winthrop Industrie) — sekcje: 4.6, 4.8 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/7506/characteristic
-- Depakine Chrono 300 200 mg + 87 mg (Sanofi Sp. z o.o.) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1779/characteristic
-- Depakine Chrono 500 333 mg + 145 mg (Sanofi Sp. z o.o.) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24760/characteristic
-- Depakine Chronosphere 100 (66,66 mg + 29,03 mg)/sasz. (Sanofi Sp. z o.o.) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15624/characteristic
-- Depakine Chronosphere 1000 (666,60 mg + 290,27 mg)/sasz. (Sanofi Sp. z o.o.) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15703/characteristic
-- Depakine Chronosphere 250 (166,76 mg + 72,61 mg)/sasz. (Sanofi Sp. z o.o.) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15625/characteristic
-- Depakine Chronosphere 500 (333,30 mg + 145,14 mg)/sasz. (Sanofi Sp. z o.o.) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15699/characteristic
-- Depakine Chronosphere 750 (500,06 mg + 217,75 mg)/sasz. (Sanofi Sp. z o.o.) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15701/characteristic
+### METYLOFENIDAT — zmienione 5 ChPL
+- Atenza 18 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41243/characteristic
+- Atenza 27 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41244/characteristic
+- Atenza 36 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41245/characteristic
+- Atenza 45 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47912/characteristic
+- Atenza 54 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41246/characteristic
 
-Sekcje istotne (4.2 dawkowanie, 4.3 przeciwwskazania, 4.4 ostrzeżenia, 4.5 interakcje, 4.6 ciąża/laktacja): WALPROINIAN
+### WENLAFAKSYNA — zmienione 3 ChPL
+- Axyven 150 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.2, 4.3, 4.4, 4.5, 4.6, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19034/characteristic
+- Axyven 37,5 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.2, 4.3, 4.4, 4.5, 4.6, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19025/characteristic
+- Axyven 75 mg (Exeltis Poland Sp. z o.o.) — sekcje: 4.2, 4.3, 4.4, 4.5, 4.6, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19026/characteristic
+
+Sekcje istotne (4.2 dawkowanie, 4.3 przeciwwskazania, 4.4 ostrzeżenia, 4.5 interakcje, 4.6 ciąża/laktacja): BUPROPION, METYLOFENIDAT, WENLAFAKSYNA
