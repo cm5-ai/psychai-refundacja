@@ -1,0 +1,23 @@
+### Lynagex XR | 330 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Lynagex XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 330 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-08-12
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28561   format KRAJOWA
+ID_REJESTRU: 100472505   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28561|id=100472505
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47250/characteristic
+SHA256: 57f3a6a1b9d00ae3a0890c6cdd6476f0a40b372f9d41f7a3f5fb4ca9076e09fc
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28561, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lynagex XR, 330 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 57f3a6a1b9d00ae3a0890c6cdd6476f0a40b372f9d41f7a3f5fb4ca9076e09fc | fragment sha256 15b378a1f2c009c4c0ced5422901c1fc2a91e46821e7d8f2b42c6e7836f6f9d8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28561, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lynagex XR, 330 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 57f3a6a1b9d00ae3a0890c6cdd6476f0a40b372f9d41f7a3f5fb4ca9076e09fc | fragment sha256 481a6d8a929ee417214940c0b08852a8532cbcc9fc8df1d6bbabdad483bb1eee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28561, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lynagex XR, 330 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 57f3a6a1b9d00ae3a0890c6cdd6476f0a40b372f9d41f7a3f5fb4ca9076e09fc | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

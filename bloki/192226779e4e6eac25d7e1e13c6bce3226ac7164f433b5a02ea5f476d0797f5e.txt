@@ -1,0 +1,23 @@
+### Atomoksetyna Medice | 25 mg | Tabletki powlekane
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Atomoksetyna Medice   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 7, z GTIN 7
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25510   format KRAJOWA
+ID_REJESTRU: 100397767   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25510|id=100397767
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39776/characteristic
+SHA256: ec519bf72f09e1ecc51012b5e168e943c778892c74b49cf6294efeb0287969bf
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25510, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Atomoksetyna Medice, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ec519bf72f09e1ecc51012b5e168e943c778892c74b49cf6294efeb0287969bf | fragment sha256 d9ff590e824e18185bb48baa026187b386b659599c56cc8a61b9c3e98bae2e03 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25510, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Atomoksetyna Medice, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ec519bf72f09e1ecc51012b5e168e943c778892c74b49cf6294efeb0287969bf | fragment sha256 3e3042088499dcec0a21826fe2ee6c92f9f635aa693a507c6c342b2095e4f823 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25510, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Atomoksetyna Medice, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ec519bf72f09e1ecc51012b5e168e943c778892c74b49cf6294efeb0287969bf | fragment sha256 cf4eeb2622fa639ab89a6f85ef4f4ee0d75e1940798f5fdd581d50492db9d218 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

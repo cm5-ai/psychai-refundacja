@@ -1,0 +1,23 @@
+### ApoSuprid | 200 mg | Tabletki
+SUBSTANCJA: amisulpryd
+NAZWA_HANDLOWA: ApoSuprid   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 9, z GTIN 9
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 24296   format KRAJOWA
+ID_REJESTRU: 100351713   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24296|id=100351713
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35171/characteristic
+SHA256: 36087ff314138972b393c28a16d1eef33c428ec25b3ab4f63641555b4ce5554c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24296, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ApoSuprid, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 36087ff314138972b393c28a16d1eef33c428ec25b3ab4f63641555b4ce5554c | fragment sha256 55ae39bf0a05e684906de9fe86299485f5af95603b5f486ecf9a15792dff4a52 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24296, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ApoSuprid, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 36087ff314138972b393c28a16d1eef33c428ec25b3ab4f63641555b4ce5554c | fragment sha256 3cd6b513d634269f2763a6b201a2f6c40a5fafafa6c54134d954ef76718469db | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24296, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ApoSuprid, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 36087ff314138972b393c28a16d1eef33c428ec25b3ab4f63641555b4ce5554c | fragment sha256 c7adaa93039bbbd1a5224eb67c8b4fe20a5e699d9c13583a2a9069f8badb3aa1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

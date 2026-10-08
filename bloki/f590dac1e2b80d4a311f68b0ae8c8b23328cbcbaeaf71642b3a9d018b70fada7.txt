@@ -1,0 +1,17 @@
+### Aripiprazole Mylan Pharma | 10 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aripiprazole Mylan Pharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: BRAK ZAPISU W EKSPORCIE — nie znaczy bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 0
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: BRAK   format NIEJEDNOZNACZNY_EU   id_rejestru=100353089
+UWAGA_IDENTYFIKATORA: opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/15/1005, EU/1/15/4005) — nie scalam ich i nie wybieram jednego
+ID_REJESTRU: 100353089   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NIEJEDNOZNACZNY_EU|-|id=100353089
+DAWKOWANIE: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/15/1005, EU/1/15/4005) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/15/1005, EU/1/15/4005) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/15/1005, EU/1/15/4005) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+

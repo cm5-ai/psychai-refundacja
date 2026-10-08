@@ -1,0 +1,23 @@
+### Zolaxa Rapid | 20 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Zolaxa Rapid   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 18511   format KRAJOWA
+ID_REJESTRU: 100252454   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|18511|id=100252454
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/25245/characteristic
+SHA256: 9a3eaea11a8ec4272b5a345b6e7ef84fc2674e26c1998223c9727f77dcf2c8ca
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 18511, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zolaxa Rapid, 20 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 9a3eaea11a8ec4272b5a345b6e7ef84fc2674e26c1998223c9727f77dcf2c8ca | fragment sha256 714daba9ca1b4dfff1cf820a98e9139999dd3f562f82b3612d3896f2e8809201 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 18511, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zolaxa Rapid, 20 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 9a3eaea11a8ec4272b5a345b6e7ef84fc2674e26c1998223c9727f77dcf2c8ca | fragment sha256 4507b25cc9733ed6e3312b201008df1b5da3230f27576344ba5f304f13fd7aec | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 18511, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zolaxa Rapid, 20 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 9a3eaea11a8ec4272b5a345b6e7ef84fc2674e26c1998223c9727f77dcf2c8ca | fragment sha256 c591ad873ccd2aedf91a645c438f151b82d4f2cb11135fce35ff51afb1cd51fd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

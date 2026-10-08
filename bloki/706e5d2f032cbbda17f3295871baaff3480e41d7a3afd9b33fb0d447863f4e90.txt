@@ -1,0 +1,23 @@
+### Memigmin | 10 mg | Tabletki powlekane
+SUBSTANCJA: memantyna
+NAZWA_HANDLOWA: Memigmin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2024-05-13
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21407   format KRAJOWA
+ID_REJESTRU: 100302235   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21407|id=100302235
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30223/characteristic
+SHA256: ca3f822071322fdeb84451baa1f5fa61df75f54abcd01dd2d9740072e07ab8d3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21407, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Memigmin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ca3f822071322fdeb84451baa1f5fa61df75f54abcd01dd2d9740072e07ab8d3 | fragment sha256 8d2849480f20a20eb40b12d8c9a20ceb334e58746f9cc125288f794ae940787b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21407, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Memigmin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ca3f822071322fdeb84451baa1f5fa61df75f54abcd01dd2d9740072e07ab8d3 | fragment sha256 bc6cbcd1dce8c9d9faa775d3af40f13cf26523253318f0ed6efb35e229ff661f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21407, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Memigmin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ca3f822071322fdeb84451baa1f5fa61df75f54abcd01dd2d9740072e07ab8d3 | fragment sha256 bc0a1f36b0c30ecc72218621aba4806ab846f8282d2eb4b96311ce15f15c24d9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

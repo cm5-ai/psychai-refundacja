@@ -1,0 +1,23 @@
+### Olanzin | 5 mg | Tabletki powlekane
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 14384   format KRAJOWA
+ID_REJESTRU: 100190440   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14384|id=100190440
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19044/characteristic
+SHA256: 3b41ee35f8cd0fecd050b4dd4501c3e60e1e4a9a468d3723f04c6cb6fd24f84c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14384, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzin, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3b41ee35f8cd0fecd050b4dd4501c3e60e1e4a9a468d3723f04c6cb6fd24f84c | fragment sha256 bbeb0828bc5a996bccdfe226311f54cc0d99c10a529b384f5d245cc847291e86 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14384, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzin, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3b41ee35f8cd0fecd050b4dd4501c3e60e1e4a9a468d3723f04c6cb6fd24f84c | fragment sha256 a26d1035142c892bdaa2ccc710a5d7a9004bc6fd1eba8f51974e80d191b8f466 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14384, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzin, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3b41ee35f8cd0fecd050b4dd4501c3e60e1e4a9a468d3723f04c6cb6fd24f84c | fragment sha256 35c7c9af8a5cc63c84e957588053d382184284e5ba173b8ad6a93880c5172700 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

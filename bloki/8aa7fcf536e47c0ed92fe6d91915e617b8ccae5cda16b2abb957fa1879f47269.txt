@@ -1,0 +1,23 @@
+### Aribit | 30 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aribit   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 22490   format KRAJOWA
+ID_REJESTRU: 100344185   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22490|id=100344185
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34418/characteristic
+SHA256: 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22490, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aribit, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d | fragment sha256 8f716047604efc2106b2f95c36713adb51a0d9d5d63bf77fb4d9f35acb6191ab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22490, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aribit, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d | fragment sha256 39f3bb839b95304bee2311fe615dcf16ab11b9c113560fe9f281cb2b5f6e1713 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22490, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aribit, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 8898c6cfc67f8ca0fdb1c12279593686553dfdb4084cb40a376a264c1bff208d | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

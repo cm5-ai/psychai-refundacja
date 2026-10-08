@@ -1,0 +1,23 @@
+### Zolpidem Vitabalans | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Zolpidem Vitabalans   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 19580   format KRAJOWA
+ID_REJESTRU: 100138468   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|19580|id=100138468
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13846/characteristic
+SHA256: 37dcc83c2c1c37e3cbe58c786742af0bc9abd1be73c1b7ab96a858b4413f68db
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 19580, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zolpidem Vitabalans, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 37dcc83c2c1c37e3cbe58c786742af0bc9abd1be73c1b7ab96a858b4413f68db | fragment sha256 b9b32d623449004ceded8937383e237f0b1622f0e12559cd48cdf69fccafeb36 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 19580, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zolpidem Vitabalans, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 37dcc83c2c1c37e3cbe58c786742af0bc9abd1be73c1b7ab96a858b4413f68db | fragment sha256 9edf68621d94a22a905246b30690ea5aa5769d2aac37330dcdb586056c200a7d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 19580, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zolpidem Vitabalans, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 37dcc83c2c1c37e3cbe58c786742af0bc9abd1be73c1b7ab96a858b4413f68db | fragment sha256 21ec4c92a4da1fc02afa706d45284855fb942db0444bf950550d3015a12efc53 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

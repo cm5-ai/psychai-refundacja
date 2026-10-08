@@ -1,0 +1,23 @@
+### Olanzapine APC | 5 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapine APC   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2024-09-17
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26876   format KRAJOWA
+ID_REJESTRU: 100432452   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26876|id=100432452
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43245/characteristic
+SHA256: 352546f253f80f2ae173bf45e90adc0bbba1c2e1a621985d7107713697c612fd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26876, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Olanzapine APC, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 352546f253f80f2ae173bf45e90adc0bbba1c2e1a621985d7107713697c612fd | fragment sha256 fc8832840bff96a04ed4927fc0b6d252c1dbaf2559f8e7947e92647864ae4e50 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26876, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olanzapine APC, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 352546f253f80f2ae173bf45e90adc0bbba1c2e1a621985d7107713697c612fd | fragment sha256 5eca639e65801c45e28244ef3a99eb2de1fb0f8ffc86d71d141939f97f05e0fa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26876, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olanzapine APC, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 352546f253f80f2ae173bf45e90adc0bbba1c2e1a621985d7107713697c612fd | fragment sha256 c591ad873ccd2aedf91a645c438f151b82d4f2cb11135fce35ff51afb1cd51fd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

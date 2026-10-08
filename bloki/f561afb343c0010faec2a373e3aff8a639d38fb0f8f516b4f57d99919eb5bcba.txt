@@ -1,0 +1,23 @@
+### Donepex | 10 mg | Tabletki powlekane
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Donepex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10560   format KRAJOWA
+ID_REJESTRU: 100122763   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10560|id=100122763
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12276/characteristic
+SHA256: 88a25aba51daca9c8fa365cda604f18fbec31bf376075b48ce44ea88ff3e3f56
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10560, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Donepex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 88a25aba51daca9c8fa365cda604f18fbec31bf376075b48ce44ea88ff3e3f56 | fragment sha256 bdb468356937d2f992c4c0139b07f6a25f5024597f6b5bc309c2f96e707c3db1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10560, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Donepex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 88a25aba51daca9c8fa365cda604f18fbec31bf376075b48ce44ea88ff3e3f56 | fragment sha256 f1b32c0d957ad1788e75bd64ad0c0670bb1f828797b92eb89baeb4716bd920ae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10560, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Donepex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 88a25aba51daca9c8fa365cda604f18fbec31bf376075b48ce44ea88ff3e3f56 | fragment sha256 8b3cc1df7531d3f9a03fa94803c26175dffd0521f64165ae9b7dbf9ee315f8d4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

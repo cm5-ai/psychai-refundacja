@@ -1,0 +1,24 @@
+### Rispolept Consta | 50 mg | NIEROZPOZNANA
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Rispolept Consta   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: NIEROZPOZNANA
+UWAGA_POSTACI: postac spoza listy zamknietej, zapis surowy: 'Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu'
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 10580   format KRAJOWA
+ID_REJESTRU: 100123001   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10580|id=100123001
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12300/characteristic
+SHA256: 9e502ab432b6a49c66cbeec4c0b941b415321c3f3e4bc9895f5b567b8aa7fc67
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10580, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Rispolept Consta, 50 mg, Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9e502ab432b6a49c66cbeec4c0b941b415321c3f3e4bc9895f5b567b8aa7fc67 | fragment sha256 05cf15581780faed3b01a6d020792b1169014386d4872826ab76c09bf382970b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10580, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Rispolept Consta, 50 mg, Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9e502ab432b6a49c66cbeec4c0b941b415321c3f3e4bc9895f5b567b8aa7fc67 | fragment sha256 b787d8c1247a3ba87153f27ac5df0b800ad52d20c1d8abdf557430c3885a2327 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10580, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Rispolept Consta, 50 mg, Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9e502ab432b6a49c66cbeec4c0b941b415321c3f3e4bc9895f5b567b8aa7fc67 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

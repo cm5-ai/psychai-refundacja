@@ -1,0 +1,23 @@
+### Duloxetine Medical Valley | 90 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Duloxetine Medical Valley   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 90 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2028-10-12
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28054   format KRAJOWA
+ID_REJESTRU: 100461869   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28054|id=100461869
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46186/characteristic
+SHA256: fc107e257dd4bea2c144410aff1db3e1afae078e02ec2d6ffe593498e4ba4cea
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28054, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Duloxetine Medical Valley, 90 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 fc107e257dd4bea2c144410aff1db3e1afae078e02ec2d6ffe593498e4ba4cea | fragment sha256 ada7c991bf19a1d3a03f21e6d5b13b69fe1cd2b7ce859479320d4089c8062282 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28054, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Duloxetine Medical Valley, 90 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 fc107e257dd4bea2c144410aff1db3e1afae078e02ec2d6ffe593498e4ba4cea | fragment sha256 70dc5e888577ff391461d5a1d96f0e7dfb65e423c3a679f41a9fbae13b8363ee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28054, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Duloxetine Medical Valley, 90 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 fc107e257dd4bea2c144410aff1db3e1afae078e02ec2d6ffe593498e4ba4cea | fragment sha256 dd218a9f801585f57704b8de5b7cdb9ed31e7f6c860d14a0e1a716ec1509dcd6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

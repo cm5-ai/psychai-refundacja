@@ -1,0 +1,23 @@
+### Dulsevia | 90 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Dulsevia   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 90 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 9, z GTIN 9
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 24371   format KRAJOWA
+ID_REJESTRU: 100381602   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24371|id=100381602
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38160/characteristic
+SHA256: 6db6884a274edf418f3a6edf5b8079242e898ce039de3d0a4349fa0c403d9a60
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24371, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Dulsevia, 90 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 6db6884a274edf418f3a6edf5b8079242e898ce039de3d0a4349fa0c403d9a60 | fragment sha256 9a9e21b3be66ffb1f5c7b1581c670783b730f49af10ba060622425331015536d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24371, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Dulsevia, 90 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 6db6884a274edf418f3a6edf5b8079242e898ce039de3d0a4349fa0c403d9a60 | fragment sha256 a300dfe6cd3745dc98bed0a02e76c9b26d66e026daba901d41d00ab70dd20002 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24371, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Dulsevia, 90 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 6db6884a274edf418f3a6edf5b8079242e898ce039de3d0a4349fa0c403d9a60 | fragment sha256 8de05072aed6b0fbf82743289c4e050206d3a07561758bd1545e55ec163acaf7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

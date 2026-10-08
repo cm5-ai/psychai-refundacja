@@ -1,0 +1,23 @@
+### Topamax | 15 mg | Kapsułki twarde
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Topamax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 08615   format KRAJOWA
+ID_REJESTRU: 100239459   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08615|id=100239459
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23945/characteristic
+SHA256: ed695955bb9090f692357661c7cfa54aaa4667141ab5af801c807dd553eb49f1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08615, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Topamax, 15 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ed695955bb9090f692357661c7cfa54aaa4667141ab5af801c807dd553eb49f1 | fragment sha256 7960d99c546435b139b740cc368be0752778bb4de92f3870c90957bfb8759c10 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08615, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Topamax, 15 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ed695955bb9090f692357661c7cfa54aaa4667141ab5af801c807dd553eb49f1 | fragment sha256 66e0fe9ffc31d9db764265d2d7871d04f26ddd2e045470aa91db55747c09b652 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08615, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Topamax, 15 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ed695955bb9090f692357661c7cfa54aaa4667141ab5af801c807dd553eb49f1 | fragment sha256 52435251dc1b46da8709595e1738551ae0e61aedd12c33a1753ddc3a379571ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

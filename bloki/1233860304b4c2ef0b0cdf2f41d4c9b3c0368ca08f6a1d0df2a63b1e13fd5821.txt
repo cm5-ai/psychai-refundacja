@@ -1,0 +1,23 @@
+### Asertin 50 | 50 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Asertin 50   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 11128   format KRAJOWA
+ID_REJESTRU: 100131118   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11128|id=100131118
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/13111/characteristic
+SHA256: 2d36c98e6cf6cc6b0936527a887dc3e1408d6d28c92247b2cb2bcd0a4c64df6e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11128, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Asertin 50, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2d36c98e6cf6cc6b0936527a887dc3e1408d6d28c92247b2cb2bcd0a4c64df6e | fragment sha256 71e1d45c3b0465abc5ba8d93198183b0e9d98e6e86711f9c70ac9972066c75eb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11128, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Asertin 50, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2d36c98e6cf6cc6b0936527a887dc3e1408d6d28c92247b2cb2bcd0a4c64df6e | fragment sha256 7d54f08a64e255e12a2bb4039958a1c7b2185b509c7b14e878d6728bc9ba99a8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11128, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Asertin 50, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2d36c98e6cf6cc6b0936527a887dc3e1408d6d28c92247b2cb2bcd0a4c64df6e | fragment sha256 d68f3c7d7935cd4dc6c4e4a7a37456fb5b08da20453069759b95165d9163b421 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

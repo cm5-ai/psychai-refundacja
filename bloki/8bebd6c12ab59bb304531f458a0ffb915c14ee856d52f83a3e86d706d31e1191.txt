@@ -1,0 +1,23 @@
+### Paliperidone +pharma | 100 mg/150 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Paliperidone +pharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg/150 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-08-13
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29244   format KRAJOWA
+ID_REJESTRU: 100505856   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29244|id=100505856
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50585/characteristic
+SHA256: f431092aa91116f06250ed079611c6d906d7004665168c3925630f6eb2293187
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29244, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paliperidone +pharma, 100 mg/150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 f431092aa91116f06250ed079611c6d906d7004665168c3925630f6eb2293187 | fragment sha256 a99eee14eb389f4b3b969a663200c526d3e1760c94545265531f3030455c9e27 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29244, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paliperidone +pharma, 100 mg/150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 f431092aa91116f06250ed079611c6d906d7004665168c3925630f6eb2293187 | fragment sha256 129f07f8bd5136b279191798ea6a4120817351dbc67c41fea86e5ffe3630d5d2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29244, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paliperidone +pharma, 100 mg/150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 f431092aa91116f06250ed079611c6d906d7004665168c3925630f6eb2293187 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

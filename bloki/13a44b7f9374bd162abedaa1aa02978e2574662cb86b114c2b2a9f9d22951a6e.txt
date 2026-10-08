@@ -1,0 +1,19 @@
+### Escitil | 10 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Escitil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2027-01-11
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25/22   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100462944   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|25/22|id=100462944
+WSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: W magazynie lezy dokument o tej samej nazwie, mocy i postaci, ale nic nie wiaze go z ta rejestracja, bo zgodnosc nazwy jest podobienstwem, nie rownoscia identyfikatora, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+KANDYDAT_DO_SPRAWDZENIA: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21784/characteristic
+

@@ -1,0 +1,23 @@
+### Relanium | 5 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: diazepam
+NAZWA_HANDLOWA: Relanium   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 00937   format KRAJOWA
+ID_REJESTRU: 100057764   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|00937|id=100057764
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5776/characteristic
+SHA256: d456cdf521d39add49ad0b5667cf0fbb0fe49bc6033296e94d6b8664d6e61f0f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 00937, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Relanium, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 d456cdf521d39add49ad0b5667cf0fbb0fe49bc6033296e94d6b8664d6e61f0f | fragment sha256 fd7ca5d11bc83188b0a54b05eef6b56da0783846748f35ad14e40d99e17030ee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00937, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Relanium, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 d456cdf521d39add49ad0b5667cf0fbb0fe49bc6033296e94d6b8664d6e61f0f | fragment sha256 6010ccd6a3f6f0abd37b1c9b12cc95fe1a558070e0ee9382578f6b07cf05ddc0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00937, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Relanium, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 d456cdf521d39add49ad0b5667cf0fbb0fe49bc6033296e94d6b8664d6e61f0f | fragment sha256 8248ee320a993788f146903dc87b75ca8e04b8a70541c4c9048d5bf2b5a423e5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

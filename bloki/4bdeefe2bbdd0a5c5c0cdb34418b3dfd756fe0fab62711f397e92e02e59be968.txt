@@ -1,0 +1,23 @@
+### Kamaptin | 25 mg | Kapsułki twarde
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Kamaptin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-01-24
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28826   format KRAJOWA
+ID_REJESTRU: 100430884   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28826|id=100430884
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43088/characteristic
+SHA256: d37bd75cf5acee4268d66a83f83f9613f352b5f50b83b3f0db428c8b8def18be
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28826, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kamaptin, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 d37bd75cf5acee4268d66a83f83f9613f352b5f50b83b3f0db428c8b8def18be | fragment sha256 6868488af5bccdbd5ccc1b33927c82f10f04848e3b981e3ec734c5760325f728 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28826, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kamaptin, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 d37bd75cf5acee4268d66a83f83f9613f352b5f50b83b3f0db428c8b8def18be | fragment sha256 a16b66e30558ed8c39f013e3b39a30794e4ad8905451c046f2cef6d1c9565e28 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28826, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kamaptin, 25 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 d37bd75cf5acee4268d66a83f83f9613f352b5f50b83b3f0db428c8b8def18be | fragment sha256 4595273a3aee8d082c32610f29877a6f7e19db6645c2778892b31fe16bedc4e3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

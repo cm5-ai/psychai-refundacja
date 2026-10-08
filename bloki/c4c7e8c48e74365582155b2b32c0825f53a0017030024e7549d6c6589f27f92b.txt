@@ -1,0 +1,23 @@
+### Oropram 20 mg tabletki powlekane | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Oropram 20 mg tabletki powlekane   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12040   format KRAJOWA
+ID_REJESTRU: 100159022   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12040|id=100159022
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15902/characteristic
+SHA256: 91debc48b8550e65bd4a9f1109ecd786e4ac0d6487df64aba6641b9e312f68cd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12040, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oropram 20 mg tabletki powlekane, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 91debc48b8550e65bd4a9f1109ecd786e4ac0d6487df64aba6641b9e312f68cd | fragment sha256 2f4b424c57a4590dd0a9b9202442a1eb30a7e82a7cbf601df8dd67e57bf82c2c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12040, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oropram 20 mg tabletki powlekane, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 91debc48b8550e65bd4a9f1109ecd786e4ac0d6487df64aba6641b9e312f68cd | fragment sha256 3b96f2b772e58a0c2ce7fd827509d0908d2018c089b7d9f2fed25474c4a6776a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12040, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oropram 20 mg tabletki powlekane, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 91debc48b8550e65bd4a9f1109ecd786e4ac0d6487df64aba6641b9e312f68cd | fragment sha256 c743f046029eefbe5b02364335e43c7ccfd96f68c3a9e11bca80a709dd86d47a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

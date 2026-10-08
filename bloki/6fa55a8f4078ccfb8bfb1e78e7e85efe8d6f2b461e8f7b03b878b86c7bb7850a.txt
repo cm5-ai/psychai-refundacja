@@ -1,0 +1,23 @@
+### Anzorin | 15 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Anzorin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2026-05-22
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 17153   format KRAJOWA
+ID_REJESTRU: 100233385   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17153|id=100233385
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23338/characteristic
+SHA256: fc7d68add59cf60a6eac688c25654a9497e101118f1550cedc2965c4e0e78330
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17153, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Anzorin, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 fc7d68add59cf60a6eac688c25654a9497e101118f1550cedc2965c4e0e78330 | fragment sha256 d7b11d02e7cea3ff81acd784393cd5b3466d4b65aa12b57147e4f574c4b3e2a6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17153, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Anzorin, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 fc7d68add59cf60a6eac688c25654a9497e101118f1550cedc2965c4e0e78330 | fragment sha256 05dbeb521e042f6f7d94c58883277e7d710b9299211e39bc121693af198e7595 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17153, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Anzorin, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 fc7d68add59cf60a6eac688c25654a9497e101118f1550cedc2965c4e0e78330 | fragment sha256 c9b20f9bda1ce65b6fe86e78880c35650dadccdcd9eb3648703938c822ebc2ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

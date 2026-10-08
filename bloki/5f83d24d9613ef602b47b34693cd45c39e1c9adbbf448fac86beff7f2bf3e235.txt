@@ -1,0 +1,23 @@
+### Dulxetenon | 60 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Dulxetenon   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 60 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25188   format KRAJOWA
+ID_REJESTRU: 100406153   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25188|id=100406153
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40615/characteristic
+SHA256: ad47e54df25b7ed9b534c26b564b447661976da462d0cbb29461140e859a6fb6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25188, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Dulxetenon, 60 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 ad47e54df25b7ed9b534c26b564b447661976da462d0cbb29461140e859a6fb6 | fragment sha256 7b26f52976566e9235593722352f98277e75c90941434f321c783ba33f75d80d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25188, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Dulxetenon, 60 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 ad47e54df25b7ed9b534c26b564b447661976da462d0cbb29461140e859a6fb6 | fragment sha256 851e7848930112acbddfad98e49542ea52f1b35fb44620f724aa5af73cbaf945 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25188, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Dulxetenon, 60 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 ad47e54df25b7ed9b534c26b564b447661976da462d0cbb29461140e859a6fb6 | fragment sha256 872dedf48d8a0768e58bef850f814c4e15c5095a15bf4dd95e887d379a2e1e33 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

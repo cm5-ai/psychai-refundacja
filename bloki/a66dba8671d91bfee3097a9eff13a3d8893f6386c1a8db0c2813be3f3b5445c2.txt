@@ -1,0 +1,23 @@
+### Melatonina Noctis | 2 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melatonina Noctis   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-07-05
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28485   format KRAJOWA
+ID_REJESTRU: 100464840   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28485|id=100464840
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46484/characteristic
+SHA256: d488124d6ce0d6aa453fa977221703a416252cf900366afd4d701e03736b1410
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28485, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melatonina Noctis, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d488124d6ce0d6aa453fa977221703a416252cf900366afd4d701e03736b1410 | fragment sha256 236d5788983ac89c8bc7b3e20c61d9a5ebb09b5ca2d4cd689ddbed8bb2f951ed | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28485, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melatonina Noctis, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d488124d6ce0d6aa453fa977221703a416252cf900366afd4d701e03736b1410 | fragment sha256 9fe06f468fdfd424a64f84a54cd2cceabe01874d3cf67b8815fccbf5cddc3c68 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28485, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melatonina Noctis, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d488124d6ce0d6aa453fa977221703a416252cf900366afd4d701e03736b1410 | fragment sha256 294f0814d3bc6b0c972e4a110528cc2cbbf3bd3064aec6efd5cfdc7ca11be8ab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

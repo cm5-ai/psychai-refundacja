@@ -1,0 +1,23 @@
+### Rivastigmin Orion | 1,5 mg | Kapsułki twarde
+SUBSTANCJA: riwastygmina
+NAZWA_HANDLOWA: Rivastigmin Orion   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1,5 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 16644   format KRAJOWA
+ID_REJESTRU: 100226758   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16644|id=100226758
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22675/characteristic
+SHA256: 761962e4c47e8a1c1b37ee999cce8b4d5182abf2d938202a24691c99e18a3b32
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16644, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Rivastigmin Orion, 1,5 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 761962e4c47e8a1c1b37ee999cce8b4d5182abf2d938202a24691c99e18a3b32 | fragment sha256 e4d7e31a78948e9d0faecffa6687a011453d46aa130c579bd453e3d5db322bd9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16644, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Rivastigmin Orion, 1,5 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 761962e4c47e8a1c1b37ee999cce8b4d5182abf2d938202a24691c99e18a3b32 | fragment sha256 fb33dc2b93008ef714422cfde335507be394c0ee047fdf4aab201b313e0c1a63 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16644, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Rivastigmin Orion, 1,5 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 761962e4c47e8a1c1b37ee999cce8b4d5182abf2d938202a24691c99e18a3b32 | fragment sha256 e084588dc53e38c773f34ff55b021ab3568c19d0385236e01570c8d8cddcff38 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

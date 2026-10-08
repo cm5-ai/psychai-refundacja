@@ -1,0 +1,23 @@
+### Cipramil | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Cipramil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 08015   format KRAJOWA
+ID_REJESTRU: 100001120   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08015|id=100001120
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/112/characteristic
+SHA256: 7a04e64e56dec290b2f109faa81485015078468bd37fc00a953eae4941f7047e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08015, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Cipramil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7a04e64e56dec290b2f109faa81485015078468bd37fc00a953eae4941f7047e | fragment sha256 4ed67dfc7dd0d6cca8da2e4701c10a9051b8523544eb59bf1c022d2f2cb1a6b9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08015, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Cipramil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7a04e64e56dec290b2f109faa81485015078468bd37fc00a953eae4941f7047e | fragment sha256 f96ea2c99f1075caa5811bd23f030a05558b9e2472c8c171f96d0508eeb7ec57 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08015, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Cipramil, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7a04e64e56dec290b2f109faa81485015078468bd37fc00a953eae4941f7047e | fragment sha256 de36a1d30cb0e77428cb3678192f20f7a88ebd1a126541b538890602a5fd71a6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Hydroxyzinum Polfarmex | 25 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Polfarmex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 24090   format KRAJOWA
+ID_REJESTRU: 100385497   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24090|id=100385497
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38549/characteristic
+SHA256: 6e4683c5ef79ce40f9add6ff735759cd15d02a8f40892d45f6fb97f701b878d0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24090, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Polfarmex, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6e4683c5ef79ce40f9add6ff735759cd15d02a8f40892d45f6fb97f701b878d0 | fragment sha256 d311f9dae6f41c37d923d4e9d1b18274ded636a1131b3ab3e43ea45a036e4d78 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24090, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Polfarmex, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6e4683c5ef79ce40f9add6ff735759cd15d02a8f40892d45f6fb97f701b878d0 | fragment sha256 f8575d45280371f7e8c62c5c6df0078133598dc34cd76303dd1d81ffb9df7d5e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24090, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Polfarmex, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 6e4683c5ef79ce40f9add6ff735759cd15d02a8f40892d45f6fb97f701b878d0 | fragment sha256 55d9cd18ded259cece144e68f47dadf6d7dbd6962358998578eb0da214c93760 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

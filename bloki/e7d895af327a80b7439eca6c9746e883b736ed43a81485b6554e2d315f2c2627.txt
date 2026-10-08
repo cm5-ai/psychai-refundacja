@@ -1,0 +1,23 @@
+### Epitoram | 25 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Epitoram   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2023-12-07
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 14667   format KRAJOWA
+ID_REJESTRU: 100022375   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14667|id=100022375
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2237/characteristic
+SHA256: 2110bb251f90cf2a7cb984ed7a4d9204fd0d113aad78a3b9bf82378a3e4c2cf8
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14667, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Epitoram, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2110bb251f90cf2a7cb984ed7a4d9204fd0d113aad78a3b9bf82378a3e4c2cf8 | fragment sha256 f1453516765754a54e05cba0182b3379e4e9cae169e84bbc2dd8b729b6677766 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14667, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Epitoram, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2110bb251f90cf2a7cb984ed7a4d9204fd0d113aad78a3b9bf82378a3e4c2cf8 | fragment sha256 f6dffc9ed956a33ff522044ee8b428c250dc77bfcad3d4ed23948671c0c3dcac | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14667, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Epitoram, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 2110bb251f90cf2a7cb984ed7a4d9204fd0d113aad78a3b9bf82378a3e4c2cf8 | fragment sha256 abb9c6aa3e012e644c055a1f0d316a556f19f02638b55606b3a992ff3898acef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

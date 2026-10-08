@@ -1,0 +1,23 @@
+### Escitalopram LEK-AM | 5 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Escitalopram LEK-AM   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23205   format KRAJOWA
+ID_REJESTRU: 100339586   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23205|id=100339586
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33958/characteristic
+SHA256: 08c74c3e52c1b44c5a6407c3e647d94efb89d84cbebfb237f48d5e6a1cdb00ca
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23205, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Escitalopram LEK-AM, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 08c74c3e52c1b44c5a6407c3e647d94efb89d84cbebfb237f48d5e6a1cdb00ca | fragment sha256 71e169f806d836a80b5230ecf0d1cbe25da47cd53c83c1960adf9fe2c4d13a4f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23205, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Escitalopram LEK-AM, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 08c74c3e52c1b44c5a6407c3e647d94efb89d84cbebfb237f48d5e6a1cdb00ca | fragment sha256 1cdeefeec3af69188c032927a44e7f3dff8ca924dabf9565de207e3a1df87c5e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23205, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Escitalopram LEK-AM, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 08c74c3e52c1b44c5a6407c3e647d94efb89d84cbebfb237f48d5e6a1cdb00ca | fragment sha256 146a2939ab247fc37246b9d72a629b15f0359252047ca73a8b3a1c38b99ed855 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

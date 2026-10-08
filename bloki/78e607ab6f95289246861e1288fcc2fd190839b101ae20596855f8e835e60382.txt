@@ -1,0 +1,23 @@
+### Onirex | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Onirex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15586   format KRAJOWA
+ID_REJESTRU: 100211596   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15586|id=100211596
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21159/characteristic
+SHA256: 189f2698370b718fe9a5db3f25b2b21878d97b7434f812186cd2fb83b814c618
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15586, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Onirex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 189f2698370b718fe9a5db3f25b2b21878d97b7434f812186cd2fb83b814c618 | fragment sha256 f007fb6a7d142b908b7332e051e7001510e0d4eb5799d52c6159c81d8573e686 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15586, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Onirex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 189f2698370b718fe9a5db3f25b2b21878d97b7434f812186cd2fb83b814c618 | fragment sha256 f1d99d66d2329f2fb228946a7a53df81bc8d19558d7785157974c8c59ea76cdf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15586, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Onirex, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 189f2698370b718fe9a5db3f25b2b21878d97b7434f812186cd2fb83b814c618 | fragment sha256 2e823379f562a85c0c34292298b8e1b568caa86ccd483046ff9baec6d0c24a74 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

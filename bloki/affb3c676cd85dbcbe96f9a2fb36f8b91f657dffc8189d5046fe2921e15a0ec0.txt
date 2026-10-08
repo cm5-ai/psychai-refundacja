@@ -1,0 +1,23 @@
+### Mozarin Swift | 15 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Mozarin Swift   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2024-05-31
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21582   format KRAJOWA
+ID_REJESTRU: 100305601   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21582|id=100305601
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30560/characteristic
+SHA256: 87cfde6a14aa44a02091d60453a70d1b0700e776ae70d8ecae2be2f9c44eb61c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21582, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mozarin Swift, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 87cfde6a14aa44a02091d60453a70d1b0700e776ae70d8ecae2be2f9c44eb61c | fragment sha256 c29b9959b7a82da4d7884158604abe26e156f11fcc178e924e86623ff5db4dd6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21582, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mozarin Swift, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 87cfde6a14aa44a02091d60453a70d1b0700e776ae70d8ecae2be2f9c44eb61c | fragment sha256 ac65b1af52d7325d8e1c082ee58accea18882fcb784fb426bdd7a80908526762 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21582, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mozarin Swift, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 87cfde6a14aa44a02091d60453a70d1b0700e776ae70d8ecae2be2f9c44eb61c | fragment sha256 7614331736b1a84741ffd00ca15cc1b4e79daf7a0597be4d85d1b6e17e09fb43 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

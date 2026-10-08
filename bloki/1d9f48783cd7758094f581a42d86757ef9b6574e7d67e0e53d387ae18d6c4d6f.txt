@@ -1,0 +1,23 @@
+### Atinepte | 12,5 mg | Tabletki powlekane
+SUBSTANCJA: tianeptyna
+NAZWA_HANDLOWA: Atinepte   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 12,5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 20425   format KRAJOWA
+ID_REJESTRU: 100282679   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20425|id=100282679
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28267/characteristic
+SHA256: d824f67ed339dec8d282264f65b81c9b1b32be8a6a441225e2511b30cd69227d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20425, magazyn chpl/tianeptyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Atinepte, 12,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d824f67ed339dec8d282264f65b81c9b1b32be8a6a441225e2511b30cd69227d | fragment sha256 73202cb31985b6a30b0baa483780bbef9cb7801d2f7e53987255d6c0c452d62f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20425, magazyn chpl/tianeptyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Atinepte, 12,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d824f67ed339dec8d282264f65b81c9b1b32be8a6a441225e2511b30cd69227d | fragment sha256 9eff8ad28269d0b30d384ef3f35d0b6c4edd1bf3467cf8ba1870ca1d0b563b0e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20425, magazyn chpl/tianeptyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Atinepte, 12,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d824f67ed339dec8d282264f65b81c9b1b32be8a6a441225e2511b30cd69227d | fragment sha256 833d7ec4ae79a9aa96ea40f79e44c4929efecde4afd40406f8495df77d0e2922 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

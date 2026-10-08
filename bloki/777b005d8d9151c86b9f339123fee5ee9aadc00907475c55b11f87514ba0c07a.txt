@@ -1,0 +1,23 @@
+### Pernazinum | 25 mg | Tabletki
+SUBSTANCJA: perazyna
+NAZWA_HANDLOWA: Pernazinum   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 02026   format KRAJOWA
+ID_REJESTRU: 100052548   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|02026|id=100052548
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5254/characteristic
+SHA256: b8fd95267def86e731cb74ce7fac31ef468bee7abe4abe9607ffd2a1fcc560a1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 02026, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pernazinum, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b8fd95267def86e731cb74ce7fac31ef468bee7abe4abe9607ffd2a1fcc560a1 | fragment sha256 d048a719b9e32bf5f878941f6afd413f84a0f8a3330222952c885d55bf2495cf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 02026, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pernazinum, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b8fd95267def86e731cb74ce7fac31ef468bee7abe4abe9607ffd2a1fcc560a1 | fragment sha256 f4204c58685d53598450accda19970d189617a5e9f99a63c34c58d70b8a13b44 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 02026, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pernazinum, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b8fd95267def86e731cb74ce7fac31ef468bee7abe4abe9607ffd2a1fcc560a1 | fragment sha256 583e3c18eaf7609872513929c24f4682a8b034fcfdc1893830ad1b65ac1cbaad | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Agolek | 25 mg | Tabletki powlekane
+SUBSTANCJA: agomelatyna
+NAZWA_HANDLOWA: Agolek   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 7, z GTIN 7
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25022   format KRAJOWA
+ID_REJESTRU: 100385008   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25022|id=100385008
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38500/characteristic
+SHA256: 122cb01c1d90a19e84f037c6dca3f7c178686e8bed618add6087432c097bd4f7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25022, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Agolek, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 122cb01c1d90a19e84f037c6dca3f7c178686e8bed618add6087432c097bd4f7 | fragment sha256 025198633d6a84737e7d86ce6900165b1c9355b126ac0cdabfffbed99fd42ca3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25022, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Agolek, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 122cb01c1d90a19e84f037c6dca3f7c178686e8bed618add6087432c097bd4f7 | fragment sha256 ca605b75dd633a62f8aeab3b9639cb939bd975efeb02991cd9a6896ab45df975 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25022, magazyn chpl/agomelatyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Agolek, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 122cb01c1d90a19e84f037c6dca3f7c178686e8bed618add6087432c097bd4f7 | fragment sha256 ac171e529c22fd3b6a99978d78be61f893e9ce7851f9ed1744dc7ec4395cdbdf | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

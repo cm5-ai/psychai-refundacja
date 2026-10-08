@@ -1,0 +1,23 @@
+### Clopizam | 25 mg | Tabletki
+SUBSTANCJA: klozapina
+NAZWA_HANDLOWA: Clopizam   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 8, z GTIN 8
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23947   format KRAJOWA
+ID_REJESTRU: 100383587   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23947|id=100383587
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38358/characteristic
+SHA256: a318b739f23ec91d4077b58ddf85a47f35dd4af021cb6b3807fb7dc737ea5634
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23947, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Clopizam, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a318b739f23ec91d4077b58ddf85a47f35dd4af021cb6b3807fb7dc737ea5634 | fragment sha256 ece18f53fa2edb29a0a58a38e1baef3cef03059e963f66f9f34271bc1a8e1c06 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23947, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Clopizam, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a318b739f23ec91d4077b58ddf85a47f35dd4af021cb6b3807fb7dc737ea5634 | fragment sha256 6ce1b675e9df33b01b6bd431d5dc92a6df53ecfcc836e09bed6b69178d23ecd4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23947, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Clopizam, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a318b739f23ec91d4077b58ddf85a47f35dd4af021cb6b3807fb7dc737ea5634 | fragment sha256 90220536f56301cc0c4c698a433929256dd79f20e3e33bbe84b961d893c95440 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

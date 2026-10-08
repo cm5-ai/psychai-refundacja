@@ -1,0 +1,23 @@
+### Symcloza | 100 mg | Tabletki
+SUBSTANCJA: klozapina
+NAZWA_HANDLOWA: Symcloza   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2025-04-17
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 24748   format KRAJOWA
+ID_REJESTRU: 100384322   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24748|id=100384322
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/38432/characteristic
+SHA256: 3f074e448623ba422054ab9f608fe59802f9a1c2062fb32253e6637239a0e135
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24748, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symcloza, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3f074e448623ba422054ab9f608fe59802f9a1c2062fb32253e6637239a0e135 | fragment sha256 9a249801cb1bcdae84b20a54eeb100df99708118fabbdd8a7c773e8ac9cf82b2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24748, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symcloza, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3f074e448623ba422054ab9f608fe59802f9a1c2062fb32253e6637239a0e135 | fragment sha256 21ffc22544654c9ba239cad5ad511fe0c988e98ff7eb78abd830a6ea0584ba83 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24748, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symcloza, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3f074e448623ba422054ab9f608fe59802f9a1c2062fb32253e6637239a0e135 | fragment sha256 d1431720fe4904cc1c12e7825f3ceea428a3d443258a95b8e70a0000d2d2c056 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

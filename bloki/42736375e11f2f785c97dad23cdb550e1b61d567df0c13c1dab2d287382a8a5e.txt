@@ -1,0 +1,23 @@
+### Kwetaplex | 150 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Kwetaplex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15240   format KRAJOWA
+ID_REJESTRU: 100206572   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15240|id=100206572
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20657/characteristic
+SHA256: 44deddc73e2f9ea53dfd4131943936b52b0760aff9cca58a3400873d59e7e55f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15240, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kwetaplex, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 44deddc73e2f9ea53dfd4131943936b52b0760aff9cca58a3400873d59e7e55f | fragment sha256 ffba210fff1e9b84329bad584f129921daa6f3dfc5125f2f504d5a5208faf066 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15240, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kwetaplex, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 44deddc73e2f9ea53dfd4131943936b52b0760aff9cca58a3400873d59e7e55f | fragment sha256 70971fca9bd7c5496d1a38506a972d2d143abf695399cb528c3b18db4cebf3c7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15240, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kwetaplex, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 44deddc73e2f9ea53dfd4131943936b52b0760aff9cca58a3400873d59e7e55f | fragment sha256 7eaa9f751874a1aa4f2f4b401536a533486d69d196a29d5b155a13ffd7550676 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

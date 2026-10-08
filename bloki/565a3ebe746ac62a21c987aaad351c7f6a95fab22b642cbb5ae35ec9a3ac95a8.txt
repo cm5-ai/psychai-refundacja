@@ -1,0 +1,23 @@
+### Sental | 5 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Sental   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25676   format KRAJOWA
+ID_REJESTRU: 100402741   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25676|id=100402741
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40274/characteristic
+SHA256: c649e1b87c42030ed99eb6fa938916b3cf930f2cbda8a4ba44f9bd906479cd3b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25676, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sental, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c649e1b87c42030ed99eb6fa938916b3cf930f2cbda8a4ba44f9bd906479cd3b | fragment sha256 b11f2006ca517c5d3af5be3bb9de7762075488a00677cdb86914eb2e49a9ef84 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25676, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sental, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c649e1b87c42030ed99eb6fa938916b3cf930f2cbda8a4ba44f9bd906479cd3b | fragment sha256 e0c4889ade0d16147676e7063889add26838cd13d7ea931ed5d2c3b6081ca9c3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25676, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sental, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c649e1b87c42030ed99eb6fa938916b3cf930f2cbda8a4ba44f9bd906479cd3b | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Melanoc PR | 2 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melanoc PR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-06-17
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29124   format KRAJOWA
+ID_REJESTRU: 100497959   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29124|id=100497959
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49795/characteristic
+SHA256: e00c94ebc94a217fdcc4d1734a5a2533f0999c09bf1435e35e20d00cb7160016
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29124, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melanoc PR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 e00c94ebc94a217fdcc4d1734a5a2533f0999c09bf1435e35e20d00cb7160016 | fragment sha256 e74441afa884e4cdd9623e4f33b3c17a4c50dc5ad7a2c95cb5fcf62b557acf1f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29124, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melanoc PR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 e00c94ebc94a217fdcc4d1734a5a2533f0999c09bf1435e35e20d00cb7160016 | fragment sha256 128bae5b62774c391c7ebabcbd2d9af56650b9ba60f27cabafa68f229425daf0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29124, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melanoc PR, 2 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 e00c94ebc94a217fdcc4d1734a5a2533f0999c09bf1435e35e20d00cb7160016 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

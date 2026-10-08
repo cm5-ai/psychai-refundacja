@@ -1,0 +1,23 @@
+### Zolafren-Swift | 20 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Zolafren-Swift   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 16676   format KRAJOWA
+ID_REJESTRU: 100225546   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16676|id=100225546
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22554/characteristic
+SHA256: effdd8c39ee0119a06f7facd5d22cb28bc3f8dd9d8c5603999c8ca7b05342da7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16676, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zolafren-Swift, 20 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 effdd8c39ee0119a06f7facd5d22cb28bc3f8dd9d8c5603999c8ca7b05342da7 | fragment sha256 5b8b513b234f1c505018361990514231826fcc14e2fa83a70d94dfaa71d42244 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16676, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zolafren-Swift, 20 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 effdd8c39ee0119a06f7facd5d22cb28bc3f8dd9d8c5603999c8ca7b05342da7 | fragment sha256 e5d6f554dd5366fa34c67023eb3ea4b1b551d3d0d13c9cf5a1acada5f065e6e7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16676, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zolafren-Swift, 20 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 effdd8c39ee0119a06f7facd5d22cb28bc3f8dd9d8c5603999c8ca7b05342da7 | fragment sha256 c9b20f9bda1ce65b6fe86e78880c35650dadccdcd9eb3648703938c822ebc2ef | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Paxtin 20 | 20 mg | Tabletki powlekane
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: Paxtin 20   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10901   format KRAJOWA
+ID_REJESTRU: 100127980   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10901|id=100127980
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12798/characteristic
+SHA256: cc3f0a3ab7f34e44ae2e3211dcb1b23632ff9abcb8e04d9d74fdfd074664d2c2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10901, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paxtin 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cc3f0a3ab7f34e44ae2e3211dcb1b23632ff9abcb8e04d9d74fdfd074664d2c2 | fragment sha256 edc326e656765514e960a4acc7c297a909fa3a318a0d621801fad888c8d1c074 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10901, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paxtin 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cc3f0a3ab7f34e44ae2e3211dcb1b23632ff9abcb8e04d9d74fdfd074664d2c2 | fragment sha256 c522cc1a8b7c4226d898e6e7bc83ccf1d442f26ae2f8cc429516e3c7319c0353 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10901, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paxtin 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cc3f0a3ab7f34e44ae2e3211dcb1b23632ff9abcb8e04d9d74fdfd074664d2c2 | fragment sha256 ac350a036d810718693ec891941bcf9f0d6f3e724e5c54458d41f4a9b670d8e0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

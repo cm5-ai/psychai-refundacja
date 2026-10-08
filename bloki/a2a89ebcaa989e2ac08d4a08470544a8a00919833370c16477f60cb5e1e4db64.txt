@@ -1,0 +1,23 @@
+### Concerta | 18 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Concerta   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 18 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 14751   format KRAJOWA
+ID_REJESTRU: 100196827   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14751|id=100196827
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19682/characteristic
+SHA256: ac7d6ad6bb552a69d24a3e434a1ee6e7fac95c928842aabb3df445aa75e0707f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14751, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Concerta, 18 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ac7d6ad6bb552a69d24a3e434a1ee6e7fac95c928842aabb3df445aa75e0707f | fragment sha256 1f47174bad9f16a560448032a449080e9bfd8482aaeec03e0ba500200bfbe705 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14751, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Concerta, 18 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ac7d6ad6bb552a69d24a3e434a1ee6e7fac95c928842aabb3df445aa75e0707f | fragment sha256 9f68ca4cef978110758764614b86628d689507199a2d67a64a81d559a32e6457 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14751, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Concerta, 18 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ac7d6ad6bb552a69d24a3e434a1ee6e7fac95c928842aabb3df445aa75e0707f | fragment sha256 68f19c7281eec5a610165dd3caa50624255bbffd4e174f70dc8886cf6afedb5c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

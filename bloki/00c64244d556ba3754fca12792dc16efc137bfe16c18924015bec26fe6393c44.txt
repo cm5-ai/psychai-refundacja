@@ -1,0 +1,23 @@
+### Nasen | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Nasen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10844   format KRAJOWA
+ID_REJESTRU: 100127878   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10844|id=100127878
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12787/characteristic
+SHA256: 0faa3fa7839ed6065979d5acdacd0e84a7796576ca74f43f4e3217f043fe9e71
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10844, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Nasen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 0faa3fa7839ed6065979d5acdacd0e84a7796576ca74f43f4e3217f043fe9e71 | fragment sha256 df777a135fe52ef0501787ea24d94819711ac95c7084155227e0c36a32e08f05 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10844, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Nasen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 0faa3fa7839ed6065979d5acdacd0e84a7796576ca74f43f4e3217f043fe9e71 | fragment sha256 ce6a8b449888552d979e94d76b9e773129d1ed5800e124c1892ec8b1e8e9b2d8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10844, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Nasen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 0faa3fa7839ed6065979d5acdacd0e84a7796576ca74f43f4e3217f043fe9e71 | fragment sha256 de73db09ee7d97030714b1d7d22f2207d6c96e269681b307f8fccc1cad7f2915 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

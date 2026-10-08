@@ -1,0 +1,23 @@
+### ABILIUM | 5 mg | Kapsułki twarde
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: ABILIUM   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26850   format KRAJOWA
+ID_REJESTRU: 100456332   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26850|id=100456332
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45633/characteristic
+SHA256: 6036671df82730ad34e84cd7d9ced233b644de397e2ea2ae72c0c5ef2e20ba8e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26850, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ABILIUM, 5 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 6036671df82730ad34e84cd7d9ced233b644de397e2ea2ae72c0c5ef2e20ba8e | fragment sha256 09d279d482d97e3d65a4d196e7c810cdb65a1ed8fa62c7f10d046d0a1ff82c5f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26850, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ABILIUM, 5 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 6036671df82730ad34e84cd7d9ced233b644de397e2ea2ae72c0c5ef2e20ba8e | fragment sha256 41e3f0f5f57bddd98e8a7038aa106325349e0a2fd157f6165daf13ac55559845 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26850, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ABILIUM, 5 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 6036671df82730ad34e84cd7d9ced233b644de397e2ea2ae72c0c5ef2e20ba8e | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

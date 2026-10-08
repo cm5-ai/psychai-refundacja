@@ -1,0 +1,23 @@
+### Edronax | 4 mg | Tabletki
+SUBSTANCJA: reboksetyna
+NAZWA_HANDLOWA: Edronax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 4 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 08416   format KRAJOWA
+ID_REJESTRU: 100098326   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08416|id=100098326
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9832/characteristic
+SHA256: 9559d8a9b72504ca6de1e0b5ef6b0a428220edf8f21211034755a0b09c05ff82
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08416, magazyn chpl/reboksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Edronax, 4 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9559d8a9b72504ca6de1e0b5ef6b0a428220edf8f21211034755a0b09c05ff82 | fragment sha256 8c5c92f3a861f896adf9320e0daa54b23383aad16fe211fb4b7990aad2777984 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08416, magazyn chpl/reboksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Edronax, 4 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9559d8a9b72504ca6de1e0b5ef6b0a428220edf8f21211034755a0b09c05ff82 | fragment sha256 a45ae40608791e5096b639bf9fa84a768104df3133ad5e86f2b176cfd05381ca | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08416, magazyn chpl/reboksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Edronax, 4 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9559d8a9b72504ca6de1e0b5ef6b0a428220edf8f21211034755a0b09c05ff82 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

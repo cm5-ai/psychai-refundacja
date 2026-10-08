@@ -1,0 +1,23 @@
+### Stimuloton | 50 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Stimuloton   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 09948   format KRAJOWA
+ID_REJESTRU: 100113712   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09948|id=100113712
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11371/characteristic
+SHA256: c6ed9ca9268aee48f6146bf0bca7693b42c2346fde4649661b447c720324218a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09948, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Stimuloton, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c6ed9ca9268aee48f6146bf0bca7693b42c2346fde4649661b447c720324218a | fragment sha256 740dd62457269e4518bf703f548b181a7d626c6eeb9eff4cf13b866dcecd857e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09948, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Stimuloton, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c6ed9ca9268aee48f6146bf0bca7693b42c2346fde4649661b447c720324218a | fragment sha256 fe6397dbbcf6825f01203239756e967425be11983cda8538921ee7958cc4ca26 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09948, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Stimuloton, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c6ed9ca9268aee48f6146bf0bca7693b42c2346fde4649661b447c720324218a | fragment sha256 f1f1a13cdc4c9088dfb75ae6fe79a77ed68d0f0253e6be55256f4218b3dc9ccb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### AuroDulox | 30 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: AuroDulox   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25953   format KRAJOWA
+ID_REJESTRU: 100420704   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25953|id=100420704
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42070/characteristic
+SHA256: ce31e9bbd563df6e28b1870e0cd5ffce008970f41b177255fbcaa521282d0bf0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25953, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt AuroDulox, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 ce31e9bbd563df6e28b1870e0cd5ffce008970f41b177255fbcaa521282d0bf0 | fragment sha256 150537249f40a0a21cc9ef4d2f435753c549ce26abfca64ef4916a599f879d85 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25953, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt AuroDulox, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 ce31e9bbd563df6e28b1870e0cd5ffce008970f41b177255fbcaa521282d0bf0 | fragment sha256 ae45369905a9721453a707d9c57e79705723ce23ed20a2e2b04a9d8b227524f5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25953, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt AuroDulox, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 ce31e9bbd563df6e28b1870e0cd5ffce008970f41b177255fbcaa521282d0bf0 | fragment sha256 514873b2472c637c66edcf64ad9f2608df7ee606d30991da4790f4c12246bb99 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

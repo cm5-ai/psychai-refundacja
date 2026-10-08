@@ -1,0 +1,23 @@
+### Sulpiryd Hasco | 100 mg | Tabletki
+SUBSTANCJA: sulpiryd
+NAZWA_HANDLOWA: Sulpiryd Hasco   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 24866   format KRAJOWA
+ID_REJESTRU: 100406970   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24866|id=100406970
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40697/characteristic
+SHA256: b8ce01c543342c2d1d904432cae6d95ee3f26da4c0e737c6e2e46385f9a3500b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24866, magazyn chpl/sulpiryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sulpiryd Hasco, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b8ce01c543342c2d1d904432cae6d95ee3f26da4c0e737c6e2e46385f9a3500b | fragment sha256 1f9fb071de971debd58b3530841a9871aec385ca773ae4845b14a7085241b36a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24866, magazyn chpl/sulpiryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sulpiryd Hasco, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b8ce01c543342c2d1d904432cae6d95ee3f26da4c0e737c6e2e46385f9a3500b | fragment sha256 e5177f506f45bc79930b46724280c55512841e2cac8dcc922d42b44c1e3183e4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24866, magazyn chpl/sulpiryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sulpiryd Hasco, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b8ce01c543342c2d1d904432cae6d95ee3f26da4c0e737c6e2e46385f9a3500b | fragment sha256 91a4f192261c82d6d5a0a94bac9839d97efaabefe3bf7d05613d03f644a04a23 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

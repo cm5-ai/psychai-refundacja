@@ -1,0 +1,23 @@
+### Depratal | 30 mg | Tabletki dojelitowe
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Depratal   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki dojelitowe
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 24076   format KRAJOWA
+ID_REJESTRU: 100364710   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24076|id=100364710
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36471/characteristic
+SHA256: 98f24b85e1fe3bc89c3af40fa2544cc2212ca2dbc7f0c964028002aea8125286
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24076, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Depratal, 30 mg, Tabletki dojelitowe | pobrano 2026-09-23 | dokument sha256 98f24b85e1fe3bc89c3af40fa2544cc2212ca2dbc7f0c964028002aea8125286 | fragment sha256 2909363dcb56b4509b23de611f4073d65dc151f572278b409617d12aa46546ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24076, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Depratal, 30 mg, Tabletki dojelitowe | pobrano 2026-09-23 | dokument sha256 98f24b85e1fe3bc89c3af40fa2544cc2212ca2dbc7f0c964028002aea8125286 | fragment sha256 cc6f46675ef5a32846c3b87c5f22ed2d60d842f9df54dacf4672257b8c6f615a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24076, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Depratal, 30 mg, Tabletki dojelitowe | pobrano 2026-09-23 | dokument sha256 98f24b85e1fe3bc89c3af40fa2544cc2212ca2dbc7f0c964028002aea8125286 | fragment sha256 7ff27d05f4f73fe1ae851821bea0326ac31151d3bbfabe4c463e0bc46c8cfa8f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

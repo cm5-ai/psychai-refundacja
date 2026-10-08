@@ -1,0 +1,23 @@
+### Noxizol | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Noxizol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2026-07-24
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15506   format KRAJOWA
+ID_REJESTRU: 100210600   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15506|id=100210600
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21060/characteristic
+SHA256: e65cb25a52eb3a94a92eba11a87fee8b99e63760f307f4383727c771cbfe8a4b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15506, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Noxizol, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e65cb25a52eb3a94a92eba11a87fee8b99e63760f307f4383727c771cbfe8a4b | fragment sha256 a2f9f5d6837cc02cb25d16ab68c52ecfd1fa400648b379afc7a91fdcf9d618d3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15506, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Noxizol, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e65cb25a52eb3a94a92eba11a87fee8b99e63760f307f4383727c771cbfe8a4b | fragment sha256 c82567cb90645eec3b8736dab86d835df7b46fc621f2bb5f7f7df8ca1097651f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15506, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Noxizol, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e65cb25a52eb3a94a92eba11a87fee8b99e63760f307f4383727c771cbfe8a4b | fragment sha256 0da29d6a32421492bffc2fe681b1aa87a43e80228f731714c1909c6d17d6568f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

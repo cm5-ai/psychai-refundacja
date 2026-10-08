@@ -1,0 +1,23 @@
+### Donepezil SaneXcel | 10 mg | Tabletki powlekane
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Donepezil SaneXcel   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2031-03-20
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29586   format KRAJOWA
+ID_REJESTRU: 100505127   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29586|id=100505127
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50512/characteristic
+SHA256: 49e41c58f55258151d1381860eaf3ac70d5c2df4c9f5ae32e2d8a14ca42c904a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29586, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Donepezil SaneXcel, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 49e41c58f55258151d1381860eaf3ac70d5c2df4c9f5ae32e2d8a14ca42c904a | fragment sha256 c6ad0fb6dccade46bc0a03804b18ab21383ca465dbf8fd590b2ba797c3a9be92 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29586, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Donepezil SaneXcel, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 49e41c58f55258151d1381860eaf3ac70d5c2df4c9f5ae32e2d8a14ca42c904a | fragment sha256 1f16130d1a586f4709d402418a1ff3697c9a036a45d4a3e4fb926ec58b21291d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29586, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Donepezil SaneXcel, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 49e41c58f55258151d1381860eaf3ac70d5c2df4c9f5ae32e2d8a14ca42c904a | fragment sha256 34c37bfa31c28b0ed33d4bb7b4797a99ac080881108288b3bcf95d477deb08f2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Trittico XR | 150 mg | Tabletki powlekane o przedłużonym uwalnianiu
+SUBSTANCJA: trazodon
+NAZWA_HANDLOWA: Trittico XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki powlekane o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21589   format KRAJOWA
+ID_REJESTRU: 100306256   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21589|id=100306256
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30625/characteristic
+SHA256: 9f928681edfeab0ad213e7c4578d2caed10ede0bd0c6daeec1e9d5b62fb64d04
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21589, magazyn chpl/trazodon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Trittico XR, 150 mg, Tabletki powlekane o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9f928681edfeab0ad213e7c4578d2caed10ede0bd0c6daeec1e9d5b62fb64d04 | fragment sha256 dfd3479ed9a6795042cb2f8b605e71be6d20ee9c4c35b3990e11ffeab965d532 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21589, magazyn chpl/trazodon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Trittico XR, 150 mg, Tabletki powlekane o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9f928681edfeab0ad213e7c4578d2caed10ede0bd0c6daeec1e9d5b62fb64d04 | fragment sha256 13c8d8d9096b8260962c1078b924457f40614cb187f94466a8dc930eefcc3000 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21589, magazyn chpl/trazodon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Trittico XR, 150 mg, Tabletki powlekane o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9f928681edfeab0ad213e7c4578d2caed10ede0bd0c6daeec1e9d5b62fb64d04 | fragment sha256 31cbf0d273c3f36378b2c71a73b587ed7cc4b984c83a9a3a4f5935e32c0b2590 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

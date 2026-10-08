@@ -1,0 +1,23 @@
+### Senzop | 7,5 mg | Tabletki powlekane
+SUBSTANCJA: zopiklon
+NAZWA_HANDLOWA: Senzop   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 7,5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10891   format KRAJOWA
+ID_REJESTRU: 100128406   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10891|id=100128406
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12840/characteristic
+SHA256: 97db41e06ad21b0660d98d59aac274dbe6ff9f86e6f75ddbf14e1a57e746e676
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10891, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Senzop, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 97db41e06ad21b0660d98d59aac274dbe6ff9f86e6f75ddbf14e1a57e746e676 | fragment sha256 a8d40679268c31545e7682b81cf5768eadf4532f96019fd26e462740c970d59d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10891, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Senzop, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 97db41e06ad21b0660d98d59aac274dbe6ff9f86e6f75ddbf14e1a57e746e676 | fragment sha256 d13593f8020e274871f729da356346ea928c2a03034a8cb47bbde41f7138f6f5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10891, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Senzop, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 97db41e06ad21b0660d98d59aac274dbe6ff9f86e6f75ddbf14e1a57e746e676 | fragment sha256 882a20c7a263d03b4b2311e80aae05edcf237795a5a0feff790e1483adbf1d6d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,24 @@
+### Risperidone Teva | 50 mg | NIEROZPOZNANA
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Risperidone Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: NIEROZPOZNANA
+UWAGA_POSTACI: postac spoza listy zamknietej, zapis surowy: 'Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu'
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26489   format KRAJOWA
+ID_REJESTRU: 100418535   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26489|id=100418535
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41853/characteristic
+SHA256: ac6eddd37fb7aed98df6817e45cfdf02f1c85c24e2327f80de11e8e4f14fc2f0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26489, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Risperidone Teva, 50 mg, Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ac6eddd37fb7aed98df6817e45cfdf02f1c85c24e2327f80de11e8e4f14fc2f0 | fragment sha256 c62ef4065736a03a487adca83803065d3555ddfdb3d2a421ac9a566a1305b11f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26489, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Risperidone Teva, 50 mg, Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ac6eddd37fb7aed98df6817e45cfdf02f1c85c24e2327f80de11e8e4f14fc2f0 | fragment sha256 872fadb23b0a4e824160bc2aaa70ba83d8ac47360c321b06d1d7245150da545c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26489, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Risperidone Teva, 50 mg, Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ac6eddd37fb7aed98df6817e45cfdf02f1c85c24e2327f80de11e8e4f14fc2f0 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Dutilox | 30 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Dutilox   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 25, z GTIN 25
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 22906   format KRAJOWA
+ID_REJESTRU: 100343530   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22906|id=100343530
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34353/characteristic
+SHA256: 9c74418efdae06d4e42c6bfad6d4baca01f2cb9dc9d95a0cc9434f63001f0c87
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22906, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Dutilox, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 9c74418efdae06d4e42c6bfad6d4baca01f2cb9dc9d95a0cc9434f63001f0c87 | fragment sha256 15bcc2a5fd06070a1d983b2d1300c50281e7f7bc51c5efe2fdd905d484f976c2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22906, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Dutilox, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 9c74418efdae06d4e42c6bfad6d4baca01f2cb9dc9d95a0cc9434f63001f0c87 | fragment sha256 1a8b90df47a6e8d62d61227c302d009b304a662313414173e6b5fb5da72eac89 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22906, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Dutilox, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 9c74418efdae06d4e42c6bfad6d4baca01f2cb9dc9d95a0cc9434f63001f0c87 | fragment sha256 00acabe459cefeec0ffbdba5d182a1fa77fefc0edab8964c8a4fd944edd79b23 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

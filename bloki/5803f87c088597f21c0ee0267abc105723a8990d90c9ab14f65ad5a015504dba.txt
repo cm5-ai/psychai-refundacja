@@ -1,0 +1,23 @@
+### Ozased | 2 mg/ml | Roztwór doustny w pojemniku jednodawkowym
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Ozased   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg/ml
+POSTAC: Roztwór doustny w pojemniku jednodawkowym
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 26965   format KRAJOWA
+ID_REJESTRU: 100417270   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26965|id=100417270
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41727/characteristic
+SHA256: 3721ab9d8047e841c261dae7f1e8f2c2f96a94935281bb63a0adf5286c870d87
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26965, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Ozased, 2 mg/ml, Roztwór doustny w pojemniku jednodawkowym | pobrano 2026-09-23 | dokument sha256 3721ab9d8047e841c261dae7f1e8f2c2f96a94935281bb63a0adf5286c870d87 | fragment sha256 e2d4810af6ea5a34bfaf1fdba43476419482f7cf719c42c9d9615573501728ee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26965, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Ozased, 2 mg/ml, Roztwór doustny w pojemniku jednodawkowym | pobrano 2026-09-23 | dokument sha256 3721ab9d8047e841c261dae7f1e8f2c2f96a94935281bb63a0adf5286c870d87 | fragment sha256 780af0bab9acd64188eecaa57d7fedbec169c7e39d20de12f7302f3e5f014942 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26965, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Ozased, 2 mg/ml, Roztwór doustny w pojemniku jednodawkowym | pobrano 2026-09-23 | dokument sha256 3721ab9d8047e841c261dae7f1e8f2c2f96a94935281bb63a0adf5286c870d87 | fragment sha256 2f935b5484f3551d8149ffbd29bb1ae32de4ac31a24a9b27ae78f38f32067ff4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

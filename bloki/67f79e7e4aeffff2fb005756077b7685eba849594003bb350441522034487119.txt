@@ -1,0 +1,23 @@
+### Klozapol | 100 mg | Tabletki
+SUBSTANCJA: klozapina
+NAZWA_HANDLOWA: Klozapol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 01395   format KRAJOWA
+ID_REJESTRU: 100033574   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01395|id=100033574
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3357/characteristic
+SHA256: 3b7251ffb96842cb856a5bf47481bcf6f69e5ec10455d8cbb65dc3bd8e67c0a1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01395, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Klozapol, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3b7251ffb96842cb856a5bf47481bcf6f69e5ec10455d8cbb65dc3bd8e67c0a1 | fragment sha256 e50233deea9f1bf8faf5f910fbf4f86b8a99ac336cbb7254504a599ead2c169a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01395, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Klozapol, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3b7251ffb96842cb856a5bf47481bcf6f69e5ec10455d8cbb65dc3bd8e67c0a1 | fragment sha256 3fee994cef50a8208f0d3da443958dd7171662c0bf195a3998356593a57b7abd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01395, magazyn chpl/klozapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Klozapol, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3b7251ffb96842cb856a5bf47481bcf6f69e5ec10455d8cbb65dc3bd8e67c0a1 | fragment sha256 9b02c98978685b1839529686abd7278e17d627312a898118fb4738695b98cc24 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

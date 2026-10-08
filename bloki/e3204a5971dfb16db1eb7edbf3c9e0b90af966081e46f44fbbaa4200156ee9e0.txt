@@ -1,0 +1,23 @@
+### Mirtagen | 45 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: mirtazapina
+NAZWA_HANDLOWA: Mirtagen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 45 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 14138   format KRAJOWA
+ID_REJESTRU: 100180387   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14138|id=100180387
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/18038/characteristic
+SHA256: b66e4cbb22ee7b595ae68d61929b41f7b149ed214980d9f9ef7b0466116e48d8
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14138, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mirtagen, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b66e4cbb22ee7b595ae68d61929b41f7b149ed214980d9f9ef7b0466116e48d8 | fragment sha256 2731f0ca2499f51f9ef2b22c8104c0bc37f1e74bd836ccd30c7f39a9202f7bfd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14138, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mirtagen, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b66e4cbb22ee7b595ae68d61929b41f7b149ed214980d9f9ef7b0466116e48d8 | fragment sha256 e7d0aaf5ced059eb852d58c30a69907cdf41fd0659b46eafcf85eba78c405b9b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14138, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mirtagen, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b66e4cbb22ee7b595ae68d61929b41f7b149ed214980d9f9ef7b0466116e48d8 | fragment sha256 dd44ecf95d0e608bc132e7c3bb6567433176e2fd3e09bdb31de8c63c2dacd190 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

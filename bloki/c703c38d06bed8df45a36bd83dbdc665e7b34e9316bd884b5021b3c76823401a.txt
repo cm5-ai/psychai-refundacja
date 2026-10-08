@@ -1,0 +1,23 @@
+### Lorafen | 1 mg | Tabletki drażowane
+SUBSTANCJA: lorazepam
+NAZWA_HANDLOWA: Lorafen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki drażowane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 01358   format KRAJOWA
+ID_REJESTRU: 100039714   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01358|id=100039714
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3971/characteristic
+SHA256: d192cab884c75787496721d045d8cad673bdf86ad6f1e73f1d7dc2db647137f3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01358, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lorafen, 1 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 d192cab884c75787496721d045d8cad673bdf86ad6f1e73f1d7dc2db647137f3 | fragment sha256 4fe471c9c81a923c1c4b2dda1951202933acb27fb20bdf0c3831542b227cb13d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01358, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lorafen, 1 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 d192cab884c75787496721d045d8cad673bdf86ad6f1e73f1d7dc2db647137f3 | fragment sha256 4ffa5e8526187d26cec8b06d25087f8edeb5c53979fb31533b21c54f8135bfa5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01358, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lorafen, 1 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 d192cab884c75787496721d045d8cad673bdf86ad6f1e73f1d7dc2db647137f3 | fragment sha256 f912af3393b9e0723aa4ad8fa72d0cdd2af7e97d30838dfc3c56423e9cbe8c27 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

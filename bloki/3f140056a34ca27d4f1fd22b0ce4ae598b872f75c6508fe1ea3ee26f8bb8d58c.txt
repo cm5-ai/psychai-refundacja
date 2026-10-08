@@ -1,0 +1,23 @@
+### Citalopram Vitabalans | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Citalopram Vitabalans   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 20322   format KRAJOWA
+ID_REJESTRU: 100281697   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20322|id=100281697
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/28169/characteristic
+SHA256: fa127e470819f5f5568352001aeb00f034c2a62f22a9a634f783a3fb07822173
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20322, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Citalopram Vitabalans, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fa127e470819f5f5568352001aeb00f034c2a62f22a9a634f783a3fb07822173 | fragment sha256 5f60452bb183b62897ce252ddf7d31f1883557dc8e5a300e9d0b815cd2f13149 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20322, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Citalopram Vitabalans, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fa127e470819f5f5568352001aeb00f034c2a62f22a9a634f783a3fb07822173 | fragment sha256 d956bb8da03c5a123eb4e646c39039927ac56839a60071ee414d37880bc1cd4b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20322, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Citalopram Vitabalans, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 fa127e470819f5f5568352001aeb00f034c2a62f22a9a634f783a3fb07822173 | fragment sha256 df0e707f83d6bd0af4fa46d685618c1e0216c3a93debcdb8b1287cffe2b6d765 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

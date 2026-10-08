@@ -1,0 +1,23 @@
+### Velaxin ER 150 mg | 150 mg | Kapsułki o przedłużonym uwalnianiu
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Velaxin ER 150 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 14001   format KRAJOWA
+ID_REJESTRU: 100177735   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14001|id=100177735
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17773/characteristic
+SHA256: 3563d44ef4c4c87949ab22e82f82d22a0e73e2139a2ec9e270062d5eb6a724e4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14001, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Velaxin ER 150 mg, 150 mg, Kapsułki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 3563d44ef4c4c87949ab22e82f82d22a0e73e2139a2ec9e270062d5eb6a724e4 | fragment sha256 0798a5513d8bd464ba5025eedd4ae46df5366ec197b723820f17f7634474e3ab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14001, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Velaxin ER 150 mg, 150 mg, Kapsułki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 3563d44ef4c4c87949ab22e82f82d22a0e73e2139a2ec9e270062d5eb6a724e4 | fragment sha256 81c6a1ecca2d44d1f88e83b0f4136e3e9e0a8f92f05c1775349971bc7c992c8d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14001, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Velaxin ER 150 mg, 150 mg, Kapsułki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 3563d44ef4c4c87949ab22e82f82d22a0e73e2139a2ec9e270062d5eb6a724e4 | fragment sha256 5c8f9feb793bfd721d2f3d8fb9199c5313dca5bab6e32c2ea64721ce52f5541a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### POLUR | 18,5 mg | Tabletki powlekane
+SUBSTANCJA: lurazydon
+NAZWA_HANDLOWA: POLUR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 18,5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-05-29
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29044   format KRAJOWA
+ID_REJESTRU: 100506052   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29044|id=100506052
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50605/characteristic
+SHA256: 127e69b0930fd4ee92fc9685c669d88502d3cc66550ab4bc2211dafe29485a82
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29044, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt POLUR, 18,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 127e69b0930fd4ee92fc9685c669d88502d3cc66550ab4bc2211dafe29485a82 | fragment sha256 b86e1809fd8d2c3ec58825e8c0b093e70535a2438ad74fb68035cde73b34f10c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29044, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt POLUR, 18,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 127e69b0930fd4ee92fc9685c669d88502d3cc66550ab4bc2211dafe29485a82 | fragment sha256 99d77a6cc80f2abd6a199ac5c95edbc332565ae6afa4d953b25bc4357a3df56f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29044, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt POLUR, 18,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 127e69b0930fd4ee92fc9685c669d88502d3cc66550ab4bc2211dafe29485a82 | fragment sha256 2689d21660e8675fea37506edaadaa8158472a1c1309d1d2d565d34ebd642c67 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

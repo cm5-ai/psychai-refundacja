@@ -1,0 +1,23 @@
+### Etiagen | 100 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Etiagen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2025-01-22
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 17107   format KRAJOWA
+ID_REJESTRU: 100233244   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17107|id=100233244
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23324/characteristic
+SHA256: 25605a1734f81ea74130b9b063818684eb74816299e4c139709299b886e68d43
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17107, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Etiagen, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 25605a1734f81ea74130b9b063818684eb74816299e4c139709299b886e68d43 | fragment sha256 5f7deb58a7ade49c66a5c3c8e9d85882b2b1259e353d7ddfeecf56308213053f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17107, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Etiagen, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 25605a1734f81ea74130b9b063818684eb74816299e4c139709299b886e68d43 | fragment sha256 4bc5e8bc3522292fea6270553373871484516ed514dbaa6c3bdca3a9fbda9dd3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17107, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Etiagen, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 25605a1734f81ea74130b9b063818684eb74816299e4c139709299b886e68d43 | fragment sha256 f4a886bcf49f67ecec1ad8b49a9eeea67bcd0fd56e31f39e8a2d3cee8ed9add8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

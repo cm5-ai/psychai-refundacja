@@ -1,0 +1,23 @@
+### Aripiprazole Aurovitas | 15 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aripiprazole Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2024-06-19
+OPAKOWANIA_W_EKSPORCIE: 16, z GTIN 16
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23082   format KRAJOWA
+ID_REJESTRU: 100352240   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23082|id=100352240
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35224/characteristic
+SHA256: 29bb830974bff26411c03de94c0b12b20fe26c2981c188d626abe44397fdcea0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23082, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aripiprazole Aurovitas, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 29bb830974bff26411c03de94c0b12b20fe26c2981c188d626abe44397fdcea0 | fragment sha256 da26f4525ae9054b3408fbe92282f08c58ba104a5f282f66841245dd05429ae1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23082, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aripiprazole Aurovitas, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 29bb830974bff26411c03de94c0b12b20fe26c2981c188d626abe44397fdcea0 | fragment sha256 5ce09befa3d2bad60fa7e0ef48fba64ae7e65ea06b85fdf13d7b30dab7bf1fee | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23082, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aripiprazole Aurovitas, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 29bb830974bff26411c03de94c0b12b20fe26c2981c188d626abe44397fdcea0 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

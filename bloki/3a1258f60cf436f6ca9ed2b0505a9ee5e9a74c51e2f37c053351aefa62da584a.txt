@@ -1,0 +1,23 @@
+### Hydroxyzinum Teva | 50 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 01146   format KRAJOWA
+ID_REJESTRU: 100030021   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01146|id=100030021
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3002/characteristic
+SHA256: 26e6cddd928940bf2f58d8c480742855942c3446097cb00ff2c2bca8e7b7b813
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01146, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Teva, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 26e6cddd928940bf2f58d8c480742855942c3446097cb00ff2c2bca8e7b7b813 | fragment sha256 52472071f2833b388ab0de0c746136bc2d41daf7c0bb63c2a8a8bceb77998352 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01146, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Teva, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 26e6cddd928940bf2f58d8c480742855942c3446097cb00ff2c2bca8e7b7b813 | fragment sha256 b86a7597e4b92a0f4fe7aba79069049dbf93ca5082f677aa1c69a8ab2340992f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01146, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Teva, 50 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 26e6cddd928940bf2f58d8c480742855942c3446097cb00ff2c2bca8e7b7b813 | fragment sha256 f91f5270939e02634477302c8dc8c9d129ed325e911945e9beb2de3b168fbbac | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

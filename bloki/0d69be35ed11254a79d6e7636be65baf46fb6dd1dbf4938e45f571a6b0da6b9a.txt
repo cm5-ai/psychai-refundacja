@@ -1,0 +1,23 @@
+### Arypiprazol Glenmark | 15 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Arypiprazol Glenmark   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2023-11-10
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 22577   format KRAJOWA
+ID_REJESTRU: 100340365   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22577|id=100340365
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34036/characteristic
+SHA256: 67a736f15e6cb07133ad8104966e70bfabfeb16f41ee22a702329e9d5058a8fb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22577, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Arypiprazol Glenmark, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 67a736f15e6cb07133ad8104966e70bfabfeb16f41ee22a702329e9d5058a8fb | fragment sha256 66c68a861831dad1e3a947a05ab1c39dbaec569b26de0fe21d7c1934e51cb509 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22577, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Arypiprazol Glenmark, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 67a736f15e6cb07133ad8104966e70bfabfeb16f41ee22a702329e9d5058a8fb | fragment sha256 15c88a6d5ecaf4e52b7d7bc7620692ecde9dc9f8a8cbe070a1cfc3924c743116 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22577, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Arypiprazol Glenmark, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 67a736f15e6cb07133ad8104966e70bfabfeb16f41ee22a702329e9d5058a8fb | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

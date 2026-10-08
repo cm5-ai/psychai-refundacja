@@ -1,0 +1,23 @@
+### Haloperidol WZF | 5 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: haloperidol
+NAZWA_HANDLOWA: Haloperidol WZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 03029   format KRAJOWA
+ID_REJESTRU: 100028188   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03029|id=100028188
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2818/characteristic
+SHA256: 0f3ca6407e5e8310548f41e750b38841dfa4ff6a568c9f90071d50370ff64411
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03029, magazyn chpl/haloperidol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Haloperidol WZF, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 0f3ca6407e5e8310548f41e750b38841dfa4ff6a568c9f90071d50370ff64411 | fragment sha256 c7053867a1ee015b886159110b67c4d53cd313a76311c69a1617436fbc5383dd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03029, magazyn chpl/haloperidol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Haloperidol WZF, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 0f3ca6407e5e8310548f41e750b38841dfa4ff6a568c9f90071d50370ff64411 | fragment sha256 dccff61676bc743857a40bc162fcf1189e3aecbeefc31f3b3fa66a3d9911c047 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03029, magazyn chpl/haloperidol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Haloperidol WZF, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 0f3ca6407e5e8310548f41e750b38841dfa4ff6a568c9f90071d50370ff64411 | fragment sha256 f5285f399453c2d43ecca18ac8be38c184a82ba6d7ad38d11491a4452b88913c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

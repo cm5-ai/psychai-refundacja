@@ -1,0 +1,23 @@
+### Mizormic | 5 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Mizormic   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21377   format KRAJOWA
+ID_REJESTRU: 100302301   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21377|id=100302301
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30230/characteristic
+SHA256: 0e02d1a218b3d73c6c9053e391f293feabd64b824d5b0f67e9e94f95f265188a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21377, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mizormic, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 0e02d1a218b3d73c6c9053e391f293feabd64b824d5b0f67e9e94f95f265188a | fragment sha256 d526be13de6552636ef31bacbec3f49ab5351c2cf46aa9cce862dac3d53fc670 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21377, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mizormic, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 0e02d1a218b3d73c6c9053e391f293feabd64b824d5b0f67e9e94f95f265188a | fragment sha256 3473b5909c22328c39371089f814d0c55f80a913e01577e50ca510da6ba32498 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21377, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mizormic, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 0e02d1a218b3d73c6c9053e391f293feabd64b824d5b0f67e9e94f95f265188a | fragment sha256 496611c398af83b239eb73d4da41e2d3a1654214bc0eaa0707ba3d3f78790dc1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

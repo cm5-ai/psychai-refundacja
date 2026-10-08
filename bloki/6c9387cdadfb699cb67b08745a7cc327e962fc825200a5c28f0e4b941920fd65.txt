@@ -1,0 +1,17 @@
+### Olanzapine Teva | 5 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olanzapine Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: BRAK ZAPISU W EKSPORCIE — nie znaczy bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 7, z GTIN 7
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: BRAK   format NIEJEDNOZNACZNY_EU   id_rejestru=100190919
+UWAGA_IDENTYFIKATORA: opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego
+ID_REJESTRU: 100190919   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NIEJEDNOZNACZNY_EU|-|id=100190919
+DAWKOWANIE: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/07/427, EU/1/12/427) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+

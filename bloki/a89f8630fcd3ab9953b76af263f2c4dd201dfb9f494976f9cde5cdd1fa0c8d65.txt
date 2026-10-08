@@ -1,0 +1,23 @@
+### Zypsila | 80 mg | Kapsułki twarde
+SUBSTANCJA: ziprasidon
+NAZWA_HANDLOWA: Zypsila   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 80 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15093   format KRAJOWA
+ID_REJESTRU: 100204455   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15093|id=100204455
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20445/characteristic
+SHA256: 4dfa24a9c0bb278b66ea776064b50b37f32639a9584dba87ed2fd8174a7f13f4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15093, magazyn chpl/ziprasidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zypsila, 80 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 4dfa24a9c0bb278b66ea776064b50b37f32639a9584dba87ed2fd8174a7f13f4 | fragment sha256 c462f73e21f5d149479befc88e6ee66192d9d341205235211466063f052ea37a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15093, magazyn chpl/ziprasidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zypsila, 80 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 4dfa24a9c0bb278b66ea776064b50b37f32639a9584dba87ed2fd8174a7f13f4 | fragment sha256 98e219d5cc835d451f6e9a3043356d37f5f9c2d526b1927383782ff90dfac051 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15093, magazyn chpl/ziprasidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zypsila, 80 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 4dfa24a9c0bb278b66ea776064b50b37f32639a9584dba87ed2fd8174a7f13f4 | fragment sha256 9b6b134fd45992146bff747eb8c28496567eb6b7887b4e4a4357b1b4ce470b3d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

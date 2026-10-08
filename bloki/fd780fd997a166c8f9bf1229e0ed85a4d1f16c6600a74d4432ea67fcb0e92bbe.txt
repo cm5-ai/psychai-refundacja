@@ -1,0 +1,23 @@
+### Miansegen | 10 mg | Tabletki powlekane
+SUBSTANCJA: mianseryna
+NAZWA_HANDLOWA: Miansegen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 08838   format KRAJOWA
+ID_REJESTRU: 100237242   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08838|id=100237242
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23724/characteristic
+SHA256: d412ea941b5bfbffbc7c1d2a6009415c7933fa8d623927fa244d41b103b3bfc3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08838, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Miansegen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d412ea941b5bfbffbc7c1d2a6009415c7933fa8d623927fa244d41b103b3bfc3 | fragment sha256 4ff81ee3f37ab49c634ba3f273f1f58b8ede0a2404f997834812f9aaf67cad93 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08838, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Miansegen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d412ea941b5bfbffbc7c1d2a6009415c7933fa8d623927fa244d41b103b3bfc3 | fragment sha256 9404a01bc401d791481baafb310e7d152b0468535358ecd8f659f9f160c809bb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08838, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Miansegen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d412ea941b5bfbffbc7c1d2a6009415c7933fa8d623927fa244d41b103b3bfc3 | fragment sha256 d251c3b58748cdf36ff50d6c497f76ee4264408b2d3c5c87a02e5ef3b390fd7e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

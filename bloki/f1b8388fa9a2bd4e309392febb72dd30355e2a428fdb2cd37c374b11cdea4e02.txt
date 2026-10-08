@@ -1,0 +1,23 @@
+### Xanax SR | 0,5 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Xanax SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,5 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 07939   format KRAJOWA
+ID_REJESTRU: 100000936   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07939|id=100000936
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/93/characteristic
+SHA256: ddccfd8e5f0d300c26abb7530dc5d38e935b70c45c5e45f4b6c023f97fb362d3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07939, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Xanax SR, 0,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ddccfd8e5f0d300c26abb7530dc5d38e935b70c45c5e45f4b6c023f97fb362d3 | fragment sha256 7c92378921c3ee068dde0c2fcf04189bfcb1f19a39a3dd155660d2fa660f8162 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07939, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Xanax SR, 0,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ddccfd8e5f0d300c26abb7530dc5d38e935b70c45c5e45f4b6c023f97fb362d3 | fragment sha256 7aa67ed23afb15a28c7be2af778493015c86f8ed79b57d50e21d0b57abd2be5b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07939, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Xanax SR, 0,5 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 ddccfd8e5f0d300c26abb7530dc5d38e935b70c45c5e45f4b6c023f97fb362d3 | fragment sha256 aa8471075d095247c640116d3f88e9e6f4619aad0fb3b760f878f1394a8cba6c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

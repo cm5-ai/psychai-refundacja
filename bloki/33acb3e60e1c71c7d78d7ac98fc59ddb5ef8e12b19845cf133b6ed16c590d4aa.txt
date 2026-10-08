@@ -1,0 +1,23 @@
+### Promazin Jelfa | 25 mg | Tabletki drażowane
+SUBSTANCJA: promazyna
+NAZWA_HANDLOWA: Promazin Jelfa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki drażowane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 01080   format KRAJOWA
+ID_REJESTRU: 100055618   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01080|id=100055618
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5561/characteristic
+SHA256: fd508d3d6a2aa31b16648dfc5ce170947bc775fb90bd1d45b112480d0e2a3371
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01080, magazyn chpl/promazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Promazin Jelfa, 25 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 fd508d3d6a2aa31b16648dfc5ce170947bc775fb90bd1d45b112480d0e2a3371 | fragment sha256 1614fbaf8aa2ffb4ebcfb17d348ac576bb660a5243569d7994801172520ccece | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01080, magazyn chpl/promazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Promazin Jelfa, 25 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 fd508d3d6a2aa31b16648dfc5ce170947bc775fb90bd1d45b112480d0e2a3371 | fragment sha256 94fb5c88cac3246dfe0175aa9c2e1e2866abd741ea0aa96606ec8bdbff9851fa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01080, magazyn chpl/promazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Promazin Jelfa, 25 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 fd508d3d6a2aa31b16648dfc5ce170947bc775fb90bd1d45b112480d0e2a3371 | fragment sha256 d1f48daa5c2839842061771f40899eba45572a5b265304ce82f3e39aac9bbd2f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

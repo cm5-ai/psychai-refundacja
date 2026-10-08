@@ -1,0 +1,23 @@
+### Oriven | 225 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Oriven   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 225 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2027-04-27
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27043   format KRAJOWA
+ID_REJESTRU: 100446193   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27043|id=100446193
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44619/characteristic
+SHA256: c1276389c4e9071a27038fc8e77128eb6745ae05b6bdb66bd96524b7342882fd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27043, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oriven, 225 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 c1276389c4e9071a27038fc8e77128eb6745ae05b6bdb66bd96524b7342882fd | fragment sha256 18719ee2623ff4fc680b7fe5a598be3c775b64f259dd43ddbdd8e119e6a802d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27043, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oriven, 225 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 c1276389c4e9071a27038fc8e77128eb6745ae05b6bdb66bd96524b7342882fd | fragment sha256 b63f5d3c0dc57db62c26dc433bbbc89e36cb79898c6909a2b84c029ea8604e9d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27043, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oriven, 225 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 c1276389c4e9071a27038fc8e77128eb6745ae05b6bdb66bd96524b7342882fd | fragment sha256 f12f1b89136ea43ae5539d7b320f0fa768c250105e2777e18c76518800ffabcb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

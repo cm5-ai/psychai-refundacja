@@ -1,0 +1,23 @@
+### Apra | 30 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Apra   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23064   format KRAJOWA
+ID_REJESTRU: 100330680   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23064|id=100330680
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33068/characteristic
+SHA256: d380f1b6074d62aeeb25d23dfe386ab29df73401e59ac0a4375af9feb88094aa
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23064, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Apra, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d380f1b6074d62aeeb25d23dfe386ab29df73401e59ac0a4375af9feb88094aa | fragment sha256 f89bb73ac537aaffa2f40460b01c48db985ad7e32fc688d34d0f62d31133164c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23064, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Apra, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d380f1b6074d62aeeb25d23dfe386ab29df73401e59ac0a4375af9feb88094aa | fragment sha256 f89258aff0b7da82b8381a27198f5417ba72035b653b87fc5ed75821cced7c0f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23064, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Apra, 30 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d380f1b6074d62aeeb25d23dfe386ab29df73401e59ac0a4375af9feb88094aa | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

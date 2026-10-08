@@ -1,0 +1,23 @@
+### Diphergan | 10 mg | Tabletki drażowane
+SUBSTANCJA: prometazyna
+NAZWA_HANDLOWA: Diphergan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki drażowane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 02283   format KRAJOWA
+ID_REJESTRU: 100019309   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|02283|id=100019309
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1930/characteristic
+SHA256: ab37585c5ad0a4f725d52765af32c1e24c8ac2a93dca527cf41253919dc0c88f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 02283, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Diphergan, 10 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 ab37585c5ad0a4f725d52765af32c1e24c8ac2a93dca527cf41253919dc0c88f | fragment sha256 49db0fc51a8b13b21f2597523caf243a715d4072b5af0c424144be31d53ce43f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 02283, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Diphergan, 10 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 ab37585c5ad0a4f725d52765af32c1e24c8ac2a93dca527cf41253919dc0c88f | fragment sha256 075c4bf0c93f4506f87c7acae166811f8ca5c996ae03334f6a14691ee31fb8a8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 02283, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Diphergan, 10 mg, Tabletki drażowane | pobrano 2026-09-23 | dokument sha256 ab37585c5ad0a4f725d52765af32c1e24c8ac2a93dca527cf41253919dc0c88f | fragment sha256 4f5c4ef9f3006e29cdecd99e00661a87a1f021defed51bc770cee036373633d6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

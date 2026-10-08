@@ -1,0 +1,23 @@
+### Midazolam Sandoz | 5 mg/ml | Roztwór do wstrzykiwań lub infuzji
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Midazolam Sandoz   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań lub infuzji
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2026-03-06
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 20935   format KRAJOWA
+ID_REJESTRU: 100294435   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20935|id=100294435
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29443/characteristic
+SHA256: d0ccec7655e0a6b7d30b634c50939dc37df31823a5a26c9037d05d45cee5dcd6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20935, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Midazolam Sandoz, 5 mg/ml, Roztwór do wstrzykiwań lub infuzji | pobrano 2026-09-23 | dokument sha256 d0ccec7655e0a6b7d30b634c50939dc37df31823a5a26c9037d05d45cee5dcd6 | fragment sha256 b8299d929037acc1161056bc984791cc48758e7606270970913c257362818651 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20935, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Midazolam Sandoz, 5 mg/ml, Roztwór do wstrzykiwań lub infuzji | pobrano 2026-09-23 | dokument sha256 d0ccec7655e0a6b7d30b634c50939dc37df31823a5a26c9037d05d45cee5dcd6 | fragment sha256 8da4061472041dbfca756cc998386d2bb126ae2378888987c4414b2a26a4ebe4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20935, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Midazolam Sandoz, 5 mg/ml, Roztwór do wstrzykiwań lub infuzji | pobrano 2026-09-23 | dokument sha256 d0ccec7655e0a6b7d30b634c50939dc37df31823a5a26c9037d05d45cee5dcd6 | fragment sha256 0c1911d142548d7da9e32b81979b9eabf453cd010e4da80c4439997b3d1a4d40 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

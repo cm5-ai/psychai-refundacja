@@ -1,0 +1,23 @@
+### Yasnal Q-Tab | 5 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Yasnal Q-Tab   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 17945   format KRAJOWA
+ID_REJESTRU: 100243001   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17945|id=100243001
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24300/characteristic
+SHA256: da33992189b884232a01b42b10cf0c529f7f709ab6cd117321266145eb585824
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17945, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Yasnal Q-Tab, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 da33992189b884232a01b42b10cf0c529f7f709ab6cd117321266145eb585824 | fragment sha256 653d71bdb65b5f3389bd00d8cbc3a4a4732793ef0fb2297193a43f2f1191947c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17945, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Yasnal Q-Tab, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 da33992189b884232a01b42b10cf0c529f7f709ab6cd117321266145eb585824 | fragment sha256 a36b614fa4010ff88c40d3c5050436ba81667bf93dc5e81fe40e4668f3bda754 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17945, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Yasnal Q-Tab, 5 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 da33992189b884232a01b42b10cf0c529f7f709ab6cd117321266145eb585824 | fragment sha256 09ff213d8c27deab69df2893004b387edd930cabe1ecb1fd1c633bdf96d0616d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

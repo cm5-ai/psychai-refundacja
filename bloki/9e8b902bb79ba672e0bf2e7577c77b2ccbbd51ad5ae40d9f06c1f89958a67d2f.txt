@@ -1,0 +1,23 @@
+### Midazolam Kalceks | 1 mg/ml | Roztwór do wstrzykiwań / do infuzji
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Midazolam Kalceks   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Roztwór do wstrzykiwań / do infuzji
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27320   format KRAJOWA
+ID_REJESTRU: 100429473   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27320|id=100429473
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42947/characteristic
+SHA256: 5994f9e5372fe69679c2b8b469c2ddd7ea7fb6441884d7212c95422983933185
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27320, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Midazolam Kalceks, 1 mg/ml, Roztwór do wstrzykiwań / do infuzji | pobrano 2026-09-23 | dokument sha256 5994f9e5372fe69679c2b8b469c2ddd7ea7fb6441884d7212c95422983933185 | fragment sha256 cf789ac4d4a990c7e4e57dc32fc9d1502621496de29518c0f32ac19e44523db9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27320, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Midazolam Kalceks, 1 mg/ml, Roztwór do wstrzykiwań / do infuzji | pobrano 2026-09-23 | dokument sha256 5994f9e5372fe69679c2b8b469c2ddd7ea7fb6441884d7212c95422983933185 | fragment sha256 38df6066da8b37898cb3a844e15783ad5d951517c1e922cbfc60de88cf357281 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27320, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Midazolam Kalceks, 1 mg/ml, Roztwór do wstrzykiwań / do infuzji | pobrano 2026-09-23 | dokument sha256 5994f9e5372fe69679c2b8b469c2ddd7ea7fb6441884d7212c95422983933185 | fragment sha256 ca5222f8fcd535032935ca332457459199670dbb317596ad076ac393a812a5a8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

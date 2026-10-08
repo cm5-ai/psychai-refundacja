@@ -1,0 +1,23 @@
+### Pixigan | 150 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Pixigan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2028-02-16
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27657   format KRAJOWA
+ID_REJESTRU: 100459345   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27657|id=100459345
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45934/characteristic
+SHA256: 2970312046f55c913d1fd4fd0575854cc86a9866e50a0fd1f951976b7a944e83
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27657, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pixigan, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 2970312046f55c913d1fd4fd0575854cc86a9866e50a0fd1f951976b7a944e83 | fragment sha256 a1532bee99b2a0b764886b569a2e00a7aed0e92502a34c4013980e0a747ee595 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27657, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pixigan, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 2970312046f55c913d1fd4fd0575854cc86a9866e50a0fd1f951976b7a944e83 | fragment sha256 1dd1b6a32fdafd46bfdc9dfc141557f2ef2bf9fd439d0fc0496f972e9eca76e0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27657, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pixigan, 150 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 2970312046f55c913d1fd4fd0575854cc86a9866e50a0fd1f951976b7a944e83 | fragment sha256 91be07d11c008bbb9fee0d2fb4159e6c4c08b5a003559c489746680c175e77d8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

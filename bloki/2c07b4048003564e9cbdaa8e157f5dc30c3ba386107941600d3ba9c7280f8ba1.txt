@@ -1,0 +1,23 @@
+### Denepra | 100 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Denepra   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-09-19
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29305   format KRAJOWA
+ID_REJESTRU: 100480003   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29305|id=100480003
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48000/characteristic
+SHA256: 4e1afc702583da98514e388f0910eb295e0bb21697a2f687739a91d20c20ef3b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29305, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Denepra, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 4e1afc702583da98514e388f0910eb295e0bb21697a2f687739a91d20c20ef3b | fragment sha256 7d3b3b1b81e6c82ef4a88c21819e7a7b939833058f4a32e74db65e60a6df4021 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29305, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Denepra, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 4e1afc702583da98514e388f0910eb295e0bb21697a2f687739a91d20c20ef3b | fragment sha256 56b3cb92524449442d71cc29a5094adfe74a4b18e4301c7ed9de0580bb21f660 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29305, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Denepra, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 4e1afc702583da98514e388f0910eb295e0bb21697a2f687739a91d20c20ef3b | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Perazin 200 mg | 200 mg | Tabletki
+SUBSTANCJA: perazyna
+NAZWA_HANDLOWA: Perazin 200 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 20793   format KRAJOWA
+ID_REJESTRU: 100291023   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|20793|id=100291023
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29102/characteristic
+SHA256: 505697ada1b6d0bf17287d6044a555d675129f6af4703a438046608f42402289
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 20793, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Perazin 200 mg, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 505697ada1b6d0bf17287d6044a555d675129f6af4703a438046608f42402289 | fragment sha256 e9a3f605cfb1e8875a7bf3b68ec20457b08143bc6963802f17a678ff4d0cc79f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 20793, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Perazin 200 mg, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 505697ada1b6d0bf17287d6044a555d675129f6af4703a438046608f42402289 | fragment sha256 c2d8a63da94ec93ca0b6c56dfee1b5bf03ed28df77ad2758224d7701f2238d5f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 20793, magazyn chpl/perazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Perazin 200 mg, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 505697ada1b6d0bf17287d6044a555d675129f6af4703a438046608f42402289 | fragment sha256 5ae905ff7efa7bc5e38f4a00773dd41e9c527c2e4f7caff7afdf4e3cc1622433 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

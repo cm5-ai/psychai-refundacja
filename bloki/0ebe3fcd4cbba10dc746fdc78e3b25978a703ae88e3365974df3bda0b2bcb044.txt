@@ -1,0 +1,23 @@
+### Escitalopram Grindeks | 20 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Escitalopram Grindeks   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-03-21
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28325   format KRAJOWA
+ID_REJESTRU: 100465301   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28325|id=100465301
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46530/characteristic
+SHA256: 8639af08095c389e8de76ef7cd7c0db5c87b07210512edb186a06858eeaa6ddd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28325, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Escitalopram Grindeks, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8639af08095c389e8de76ef7cd7c0db5c87b07210512edb186a06858eeaa6ddd | fragment sha256 3e6fb336497a3e12d660038d15646d3020edcf888748bd86cddbda739449027b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28325, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Escitalopram Grindeks, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8639af08095c389e8de76ef7cd7c0db5c87b07210512edb186a06858eeaa6ddd | fragment sha256 43e94a1b690070745cd9f58d818d27e9050b05261497b92a93ddbe36ab25f559 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28325, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Escitalopram Grindeks, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8639af08095c389e8de76ef7cd7c0db5c87b07210512edb186a06858eeaa6ddd | fragment sha256 846f9232c90120ac40960f3bb3323be3394ca4d179a0300df50ef9a60f07ddce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

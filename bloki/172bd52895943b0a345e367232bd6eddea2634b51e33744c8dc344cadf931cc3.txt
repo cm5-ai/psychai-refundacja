@@ -1,0 +1,23 @@
+### Wellbutrin XR | 300 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Wellbutrin XR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12787   format KRAJOWA
+ID_REJESTRU: 100175245   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12787|id=100175245
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17524/characteristic
+SHA256: 93cc7abc06d74502347b85ee4f2e80f5b4e12a5a6647168d8cf72c4c1e97dc25
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12787, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Wellbutrin XR, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 93cc7abc06d74502347b85ee4f2e80f5b4e12a5a6647168d8cf72c4c1e97dc25 | fragment sha256 203bd6280f4ab99d22a3ac91a34d39f91f6a7e1e2b3f8b19128c36d9b3a811f4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12787, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Wellbutrin XR, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 93cc7abc06d74502347b85ee4f2e80f5b4e12a5a6647168d8cf72c4c1e97dc25 | fragment sha256 fee255dd9b3612abfde08de28b84e57cbe799b38cc713de11c42e816eaad1a4f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12787, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Wellbutrin XR, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 93cc7abc06d74502347b85ee4f2e80f5b4e12a5a6647168d8cf72c4c1e97dc25 | fragment sha256 17f2ee28bbdf844851daeb5c94e406fe80ceef32bfff8f3a1841aed4c234591f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

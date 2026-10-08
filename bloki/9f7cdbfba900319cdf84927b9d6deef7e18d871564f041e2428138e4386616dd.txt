@@ -1,0 +1,23 @@
+### Clopixol-Acuphase | 50 mg | Roztwór do wstrzykiwań
+SUBSTANCJA: zuklopentiksol
+NAZWA_HANDLOWA: Clopixol-Acuphase   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Roztwór do wstrzykiwań
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 01269   format KRAJOWA
+ID_REJESTRU: 100015040   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01269|id=100015040
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1504/characteristic
+SHA256: 81288419fa413cf85a0a6f2ecc040be6ad81db038c62663834427f8a865592a4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01269, magazyn chpl/zuklopentiksol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Clopixol-Acuphase, 50 mg, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 81288419fa413cf85a0a6f2ecc040be6ad81db038c62663834427f8a865592a4 | fragment sha256 08cff8c36e53b27e200b45cabb5e2e68087ae75da05ec961450b69bcbebad657 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01269, magazyn chpl/zuklopentiksol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Clopixol-Acuphase, 50 mg, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 81288419fa413cf85a0a6f2ecc040be6ad81db038c62663834427f8a865592a4 | fragment sha256 c23a8d825ccf96b17ce7c5bc92d85e4140627ab1ae0be2c2b36c807bd7bf9f64 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01269, magazyn chpl/zuklopentiksol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Clopixol-Acuphase, 50 mg, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 81288419fa413cf85a0a6f2ecc040be6ad81db038c62663834427f8a865592a4 | fragment sha256 7f1b1769fa0dbe2f64225e09d73394fb06ae2cb2941b74447173f7915c01191e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

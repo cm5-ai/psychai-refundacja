@@ -1,0 +1,23 @@
+### Soloxelam | 5 mg | Roztwór do stosowania w jamie ustnej
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Soloxelam   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Roztwór do stosowania w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27453   format KRAJOWA
+ID_REJESTRU: 100471132   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27453|id=100471132
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47113/characteristic
+SHA256: 7007a4700486f362c946469966ca47e8ef5ff7aaebfd8bf297a34062329107d0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27453, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Soloxelam, 5 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 7007a4700486f362c946469966ca47e8ef5ff7aaebfd8bf297a34062329107d0 | fragment sha256 2bab5a4543c17d9016ba023ec7d3fd4e1820ed3cfdda8f503e2a7d8a9bef93f3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27453, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Soloxelam, 5 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 7007a4700486f362c946469966ca47e8ef5ff7aaebfd8bf297a34062329107d0 | fragment sha256 7771fd954b47a84bdbf9b9c061c323d1eb7a6c9133de3d9d0debaaf70be21211 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27453, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Soloxelam, 5 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 7007a4700486f362c946469966ca47e8ef5ff7aaebfd8bf297a34062329107d0 | fragment sha256 15c393b4b359f9c7ab9f2cfccdc2c927b65da1cd1bc5180701819eb79888a8ae | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

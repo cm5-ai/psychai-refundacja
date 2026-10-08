@@ -1,0 +1,18 @@
+### Tranxene | 5 mg | Kapsułki twarde
+SUBSTANCJA: klorazepat
+NAZWA_HANDLOWA: Tranxene   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2027-12-22
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 444/22   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100477764   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|444/22|id=100477764
+WSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestr nie podaje adresu dokumentu ChPL dla tej rejestracji, wiec nie bylo czego sprawdzic, i DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

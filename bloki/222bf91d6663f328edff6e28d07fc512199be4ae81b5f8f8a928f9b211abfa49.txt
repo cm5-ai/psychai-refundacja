@@ -1,0 +1,23 @@
+### Risperidon Vipharm | 1 mg | Tabletki powlekane
+SUBSTANCJA: risperidon
+NAZWA_HANDLOWA: Risperidon Vipharm   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12756   format KRAJOWA
+ID_REJESTRU: 100175274   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12756|id=100175274
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17527/characteristic
+SHA256: eba1e8003db27fd7c00100eceae45a6c13694a3e4fea6d6a7ccf1199311c193d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12756, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Risperidon Vipharm, 1 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 eba1e8003db27fd7c00100eceae45a6c13694a3e4fea6d6a7ccf1199311c193d | fragment sha256 435133a4afbb7abb492dd76579308fba5f7990bcae4c0ab8466c5b85ba3df922 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12756, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Risperidon Vipharm, 1 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 eba1e8003db27fd7c00100eceae45a6c13694a3e4fea6d6a7ccf1199311c193d | fragment sha256 59442a713bfc2c5f73a6b2f46d353c3d01e600cb9d878d7740acd97f86d1e975 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12756, magazyn chpl/risperidon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Risperidon Vipharm, 1 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 eba1e8003db27fd7c00100eceae45a6c13694a3e4fea6d6a7ccf1199311c193d | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

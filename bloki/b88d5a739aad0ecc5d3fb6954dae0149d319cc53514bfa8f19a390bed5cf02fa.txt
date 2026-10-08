@@ -1,0 +1,23 @@
+### Estazolam TZF | 2 mg | Tabletki
+SUBSTANCJA: estazolam
+NAZWA_HANDLOWA: Estazolam TZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 01357   format KRAJOWA
+ID_REJESTRU: 100022754   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01357|id=100022754
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2275/characteristic
+SHA256: fce98ffc22550582cf00ab0f3eb418bd5a895ebfadb4d749cc6f17082d9ae022
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01357, magazyn chpl/estazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Estazolam TZF, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fce98ffc22550582cf00ab0f3eb418bd5a895ebfadb4d749cc6f17082d9ae022 | fragment sha256 2bfac13c3bddec163d0718f6d2fdbd7e32640db609b91c245ad3443e19ff36a7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01357, magazyn chpl/estazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Estazolam TZF, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fce98ffc22550582cf00ab0f3eb418bd5a895ebfadb4d749cc6f17082d9ae022 | fragment sha256 ae7ef0f5be4adcc3a33a92854eb7d9b63591fdb832dbb373b443df92d775a58f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01357, magazyn chpl/estazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Estazolam TZF, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 fce98ffc22550582cf00ab0f3eb418bd5a895ebfadb4d749cc6f17082d9ae022 | fragment sha256 55c4961268a9b2fdf5d46fd6529dc00543bb24129d485529787d77826bdcfdcc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

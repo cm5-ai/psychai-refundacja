@@ -1,0 +1,23 @@
+### Midazolam Eignapharma | 5 mg/ml | Roztwór do wstrzykiwań / do infuzji
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Midazolam Eignapharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań / do infuzji
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-10-10
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29328   format KRAJOWA
+ID_REJESTRU: 100496652   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29328|id=100496652
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49665/characteristic
+SHA256: 3ea0210231aa17b6bb947c479b35607f92b0c8df1a200d8d0d885423c22a219d
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29328, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Midazolam Eignapharma, 5 mg/ml, Roztwór do wstrzykiwań / do infuzji | pobrano 2026-09-23 | dokument sha256 3ea0210231aa17b6bb947c479b35607f92b0c8df1a200d8d0d885423c22a219d | fragment sha256 ffefdee12cd61eb88ee6f9c4862090824cc7581f7ab40cd95583982c01ff7085 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29328, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Midazolam Eignapharma, 5 mg/ml, Roztwór do wstrzykiwań / do infuzji | pobrano 2026-09-23 | dokument sha256 3ea0210231aa17b6bb947c479b35607f92b0c8df1a200d8d0d885423c22a219d | fragment sha256 fbe380df6f29acbf6c0bcec0c646884ec5f52e4e4b9cdcb94b9f2b8bdd9368fb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29328, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Midazolam Eignapharma, 5 mg/ml, Roztwór do wstrzykiwań / do infuzji | pobrano 2026-09-23 | dokument sha256 3ea0210231aa17b6bb947c479b35607f92b0c8df1a200d8d0d885423c22a219d | fragment sha256 62f88eaa9d3c057601494e413670352e21e32f8785fc0b040b7bc8dfcc1c48f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

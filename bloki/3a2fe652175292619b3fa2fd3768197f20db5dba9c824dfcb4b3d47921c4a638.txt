@@ -1,0 +1,18 @@
+### Xanax | 0,5 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Xanax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,5 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-08-06
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 133/09   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100267600   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|133/09|id=100267600
+WSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestr nie podaje adresu dokumentu ChPL dla tej rejestracji, wiec nie bylo czego sprawdzic, i DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

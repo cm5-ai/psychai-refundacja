@@ -1,0 +1,23 @@
+### Disulfiram WZF | 100 mg | Tabletki do implantacji
+SUBSTANCJA: disulfiram
+NAZWA_HANDLOWA: Disulfiram WZF   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki do implantacji
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 01038   format KRAJOWA
+ID_REJESTRU: 100019717   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01038|id=100019717
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1971/characteristic
+SHA256: 0897ad04d60acef49046041b3b8b1b2863a02fd39fcd2ff7d2935a40453c870e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01038, magazyn chpl/disulfiram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Disulfiram WZF, 100 mg, Tabletki do implantacji | pobrano 2026-09-23 | dokument sha256 0897ad04d60acef49046041b3b8b1b2863a02fd39fcd2ff7d2935a40453c870e | fragment sha256 e16f823b2b2d14f7463ee061d81ce047849f6717c07b7e4f8133122123017415 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01038, magazyn chpl/disulfiram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Disulfiram WZF, 100 mg, Tabletki do implantacji | pobrano 2026-09-23 | dokument sha256 0897ad04d60acef49046041b3b8b1b2863a02fd39fcd2ff7d2935a40453c870e | fragment sha256 a098c1dd17d044aed1f0bd9bbc842ee2c43c85b8f86101f730c70ccac0539f3e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01038, magazyn chpl/disulfiram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Disulfiram WZF, 100 mg, Tabletki do implantacji | pobrano 2026-09-23 | dokument sha256 0897ad04d60acef49046041b3b8b1b2863a02fd39fcd2ff7d2935a40453c870e | fragment sha256 74ebb5cfec5e2ae414e384b14bb530656c1042d9eafde36d282184aa95592def | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Lurasidone Teva | 37 mg | Tabletki powlekane
+SUBSTANCJA: lurazydon
+NAZWA_HANDLOWA: Lurasidone Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-12-13
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28760   format KRAJOWA
+ID_REJESTRU: 100482880   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28760|id=100482880
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48288/characteristic
+SHA256: 672a2e8be9ee0b0599c49e54413b0591e7c2cd4e9a93d019b056e1d0a41f6ab4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28760, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lurasidone Teva, 37 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 672a2e8be9ee0b0599c49e54413b0591e7c2cd4e9a93d019b056e1d0a41f6ab4 | fragment sha256 58d1138e3124c38ff0c94db46fec4e20513d2516a5300d2756f54a29ab319773 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28760, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lurasidone Teva, 37 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 672a2e8be9ee0b0599c49e54413b0591e7c2cd4e9a93d019b056e1d0a41f6ab4 | fragment sha256 48cfca4c3650ef51ebeaa39b1d94714a959811655267c69d3def0305662b3c33 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28760, magazyn chpl/lurazydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lurasidone Teva, 37 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 672a2e8be9ee0b0599c49e54413b0591e7c2cd4e9a93d019b056e1d0a41f6ab4 | fragment sha256 52c8f2c865461fac7b40e097a6dccfbfe2eb53bb621f5cef902c3e0519d034dd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

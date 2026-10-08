@@ -1,0 +1,23 @@
+### Medikinet 20 mg | 20 mg | Tabletki
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Medikinet 20 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12843   format KRAJOWA
+ID_REJESTRU: 100175989   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12843|id=100175989
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17598/characteristic
+SHA256: 1302970b14085af7bc0e18ae3f309a8bf6d3b967da8b1abf68593aa67ab4c8af
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12843, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Medikinet 20 mg, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 1302970b14085af7bc0e18ae3f309a8bf6d3b967da8b1abf68593aa67ab4c8af | fragment sha256 130891504dcf22281caec1d0790fd228fe2f96508c93948dea9e09cf20076329 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12843, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Medikinet 20 mg, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 1302970b14085af7bc0e18ae3f309a8bf6d3b967da8b1abf68593aa67ab4c8af | fragment sha256 313c8bcaaf0c1de938d9f1a2636eaa47dee71086015924704b2d9a7a285c8de6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12843, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Medikinet 20 mg, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 1302970b14085af7bc0e18ae3f309a8bf6d3b967da8b1abf68593aa67ab4c8af | fragment sha256 27bd3e58bc872c55cab47852f122417d194e71605178c0aedbf052fd6018ca34 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Pregamid | 150 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Pregamid   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 22769   format KRAJOWA
+ID_REJESTRU: 100346008   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22769|id=100346008
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34600/characteristic
+SHA256: 007ca9f9e7823d0aa0f92be125ee38cbbe5fb098bc74778f1eaf3efae3aa6d0f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22769, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pregamid, 150 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 007ca9f9e7823d0aa0f92be125ee38cbbe5fb098bc74778f1eaf3efae3aa6d0f | fragment sha256 9245ff217d81a0f992bc60ab11b4c2133811acaa40cbbf746a6a9d5bfa283fdb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22769, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pregamid, 150 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 007ca9f9e7823d0aa0f92be125ee38cbbe5fb098bc74778f1eaf3efae3aa6d0f | fragment sha256 4a4067faf0ed986dd3b4e2eec4c234f9ffe344d46ab4521b6d515bffaf5aac8f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22769, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pregamid, 150 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 007ca9f9e7823d0aa0f92be125ee38cbbe5fb098bc74778f1eaf3efae3aa6d0f | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

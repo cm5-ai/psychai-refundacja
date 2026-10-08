@@ -1,0 +1,23 @@
+### Duloxetine +pharma | 60 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Duloxetine +pharma   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 60 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 23444   format KRAJOWA
+ID_REJESTRU: 100364532   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23444|id=100364532
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/36453/characteristic
+SHA256: fe823d6b92cfc64492fc64f52fa78ea6489561992390b9edd1f8ca7f8232c483
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23444, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Duloxetine +pharma, 60 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 fe823d6b92cfc64492fc64f52fa78ea6489561992390b9edd1f8ca7f8232c483 | fragment sha256 d6aa489ce82dac17ce5b75aa9d600aa6fbb425802be07dfa8c4c411dda4ba5bc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23444, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Duloxetine +pharma, 60 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 fe823d6b92cfc64492fc64f52fa78ea6489561992390b9edd1f8ca7f8232c483 | fragment sha256 0f0b0ec6bb2f5a6ef58da649d64fd26308f4f9764411c2becdb103fa3ccb98d0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23444, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Duloxetine +pharma, 60 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 fe823d6b92cfc64492fc64f52fa78ea6489561992390b9edd1f8ca7f8232c483 | fragment sha256 8e6e7a9bb02abc0d52fb73b88fb33b7769fcdc64998f71acfb1b752c9870f078 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

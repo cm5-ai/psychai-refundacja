@@ -1,0 +1,23 @@
+### Zolpic | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: Zolpic   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 09890   format KRAJOWA
+ID_REJESTRU: 100113155   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09890|id=100113155
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11315/characteristic
+SHA256: da736fbbba57a3aaa274d77695a933501eebdb2c27f2036fa433564835f72b38
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09890, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zolpic, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 da736fbbba57a3aaa274d77695a933501eebdb2c27f2036fa433564835f72b38 | fragment sha256 26d8b32612240ac1e0d103aeb8f42e452fb0e8980de236b4477f72b451af9d60 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09890, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zolpic, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 da736fbbba57a3aaa274d77695a933501eebdb2c27f2036fa433564835f72b38 | fragment sha256 32a3518551506ff44c86f9400a2784cb5b429b418d67f3a879c33ee7fcee1a32 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09890, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zolpic, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 da736fbbba57a3aaa274d77695a933501eebdb2c27f2036fa433564835f72b38 | fragment sha256 e5034a1000085a1a4209753fe7883386d8f90326139ac44d9000140aebe8b376 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

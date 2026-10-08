@@ -1,0 +1,23 @@
+### Vortioxetine Stada | 20 mg | Tabletki powlekane
+SUBSTANCJA: wortioksetyna
+NAZWA_HANDLOWA: Vortioxetine Stada   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-02-22
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28271   format KRAJOWA
+ID_REJESTRU: 100471483   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28271|id=100471483
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47148/characteristic
+SHA256: dd95c9758b6054a5e15c4a2ef93daebbad39bd2ef2d3cf0da95b9b636709f5be
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28271, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Vortioxetine Stada, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 dd95c9758b6054a5e15c4a2ef93daebbad39bd2ef2d3cf0da95b9b636709f5be | fragment sha256 ad01730f66c7328f04eb64bc50cd997343fef8713e2aa4afaa6410cda1f21962 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28271, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Vortioxetine Stada, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 dd95c9758b6054a5e15c4a2ef93daebbad39bd2ef2d3cf0da95b9b636709f5be | fragment sha256 44aac0307dc4b7938bac248739590617189d898094cc35069e22b7c67af0f117 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28271, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Vortioxetine Stada, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 dd95c9758b6054a5e15c4a2ef93daebbad39bd2ef2d3cf0da95b9b636709f5be | fragment sha256 1e2ed322d38c03d1c618c944dafebb374ce8abf672aba54a85810364e7b939f8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Pralex | 5 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Pralex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 19906   format KRAJOWA
+ID_REJESTRU: 100274250   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|19906|id=100274250
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/27425/characteristic
+SHA256: 1e6166274a8c3551d4e6d1265006990fe7d78bac4d86c82e0d615c833d8e9ded
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 19906, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Pralex, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 1e6166274a8c3551d4e6d1265006990fe7d78bac4d86c82e0d615c833d8e9ded | fragment sha256 143a4b63ff5ea8bb1a8bd3a7fa6ac01773fd9de20726306261f317167e89005b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 19906, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Pralex, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 1e6166274a8c3551d4e6d1265006990fe7d78bac4d86c82e0d615c833d8e9ded | fragment sha256 2b55ffeb91e477aa9967487194494726aad55369cdfb0ddba361ba0b46e3165a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 19906, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Pralex, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 1e6166274a8c3551d4e6d1265006990fe7d78bac4d86c82e0d615c833d8e9ded | fragment sha256 d7a8f113f4c67f80337edcbac111494a847197b8e0e71f0f045c56431693f308 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

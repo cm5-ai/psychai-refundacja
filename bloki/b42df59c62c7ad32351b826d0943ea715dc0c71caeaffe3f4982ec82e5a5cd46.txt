@@ -1,0 +1,23 @@
+### Apiprax | 15 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Apiprax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23246   format KRAJOWA
+ID_REJESTRU: 100330941   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23246|id=100330941
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33094/characteristic
+SHA256: f01ba560d7a3f6a8a8c6c7bd9f0eba58b287f9004fdb853e0a5aa844a910e419
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23246, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Apiprax, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f01ba560d7a3f6a8a8c6c7bd9f0eba58b287f9004fdb853e0a5aa844a910e419 | fragment sha256 6ca090b8825c28e98b2710ce5bd36e0c70c8b301fa3fbed2bceda84c810ab831 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23246, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Apiprax, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f01ba560d7a3f6a8a8c6c7bd9f0eba58b287f9004fdb853e0a5aa844a910e419 | fragment sha256 b22d064a2819227408de19bff8e827996dee9b1d4bc80ce2ae6e70f37085c196 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23246, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Apiprax, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 f01ba560d7a3f6a8a8c6c7bd9f0eba58b287f9004fdb853e0a5aa844a910e419 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

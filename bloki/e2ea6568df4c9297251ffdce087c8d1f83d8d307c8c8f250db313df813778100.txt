@@ -1,0 +1,23 @@
+### Efectin ER 75 | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Efectin ER 75   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 04939   format KRAJOWA
+ID_REJESTRU: 100094890   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|04939|id=100094890
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9489/characteristic
+SHA256: ab5fa28d2e16f9c2426736c2f59c5c2c00d30a429029a86b498cee7d4ff98e9c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 04939, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Efectin ER 75, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 ab5fa28d2e16f9c2426736c2f59c5c2c00d30a429029a86b498cee7d4ff98e9c | fragment sha256 0798a5513d8bd464ba5025eedd4ae46df5366ec197b723820f17f7634474e3ab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 04939, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Efectin ER 75, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 ab5fa28d2e16f9c2426736c2f59c5c2c00d30a429029a86b498cee7d4ff98e9c | fragment sha256 a1fe7f29780c240d05886f54f2ed334180a6a4813093bee0e00bede6e2fbac08 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 04939, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Efectin ER 75, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 ab5fa28d2e16f9c2426736c2f59c5c2c00d30a429029a86b498cee7d4ff98e9c | fragment sha256 3b7a70bc963fdd5c68177126255d481b6feaa5f2a6e1e5294fd4c91de486f200 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

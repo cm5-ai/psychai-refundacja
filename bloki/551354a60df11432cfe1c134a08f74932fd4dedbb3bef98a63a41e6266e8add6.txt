@@ -1,0 +1,17 @@
+### Reagila | 1,5 mg | Kapsułki twarde
+SUBSTANCJA: kariprazyna
+NAZWA_HANDLOWA: Reagila   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1,5 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: BRAK ZAPISU W EKSPORCIE — nie znaczy bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 11, z GTIN 10
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: BRAK   format NIEJEDNOZNACZNY_EU   id_rejestru=100390771
+UWAGA_IDENTYFIKATORA: opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/17/1209, EU/117/1209/037) — nie scalam ich i nie wybieram jednego
+ID_REJESTRU: 100390771   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NIEJEDNOZNACZNY_EU|-|id=100390771
+DAWKOWANIE: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/17/1209, EU/117/1209/037) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/17/1209, EU/117/1209/037) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: NIEJEDNOZNACZNY_EU — opakowania tej rejestracji podaja 2 ROZNE numery unijne (EU/1/17/1209, EU/117/1209/037) — nie scalam ich i nie wybieram jednego. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+

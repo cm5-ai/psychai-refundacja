@@ -1,0 +1,23 @@
+### Irsamla | 15 mg | Tabletki powlekane
+SUBSTANCJA: wortioksetyna
+NAZWA_HANDLOWA: Irsamla   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-09-25
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28620   format KRAJOWA
+ID_REJESTRU: 100478415   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28620|id=100478415
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47841/characteristic
+SHA256: cf52fa2d110ac9dff382ee1736520fc1edbe47633708adca90ac47463ab504fb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28620, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Irsamla, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cf52fa2d110ac9dff382ee1736520fc1edbe47633708adca90ac47463ab504fb | fragment sha256 9a3837d7e96bc303a95c8568d67c03b5675b73b0c61948f56d9ab9b1575b8309 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28620, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Irsamla, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cf52fa2d110ac9dff382ee1736520fc1edbe47633708adca90ac47463ab504fb | fragment sha256 29f45b875d3892bf973dd63d4244902eeecc1a11b74d6f78056e7e883a860b40 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28620, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Irsamla, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 cf52fa2d110ac9dff382ee1736520fc1edbe47633708adca90ac47463ab504fb | fragment sha256 2af355642114b7d546a20e800c559c7378bb9191ea72eddc2666e19bbe36bb6d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Cloranxen | 5 mg | Tabletki
+SUBSTANCJA: klorazepat
+NAZWA_HANDLOWA: Cloranxen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 07558   format KRAJOWA
+ID_REJESTRU: 100080013   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07558|id=100080013
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8001/characteristic
+SHA256: 27fea527655385f70ad37000528e7f82f08b58a26be0ff326fb7528da220cab8
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07558, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Cloranxen, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 27fea527655385f70ad37000528e7f82f08b58a26be0ff326fb7528da220cab8 | fragment sha256 7423599705685c9584197df54c7b0ff52486f9d1f43d32366376b8e5966f2114 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07558, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Cloranxen, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 27fea527655385f70ad37000528e7f82f08b58a26be0ff326fb7528da220cab8 | fragment sha256 4ce512cbf0cc6de9c28b65b6e98f97efa4089e8be3850f9bef3311cf35c4ea50 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07558, magazyn chpl/klorazepat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Cloranxen, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 27fea527655385f70ad37000528e7f82f08b58a26be0ff326fb7528da220cab8 | fragment sha256 10a6bfe34b184e0cb757e97b9a8bcf55736771ee1649ee8390dd9c3944d92564 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

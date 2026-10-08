@@ -1,0 +1,23 @@
+### Epistatus | 10 mg | Roztwór do stosowania w jamie ustnej
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Epistatus   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Roztwór do stosowania w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26156   format KRAJOWA
+ID_REJESTRU: 100433227   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26156|id=100433227
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43322/characteristic
+SHA256: b70c28ba2aac819d59f27f0aa460302dc38847e78b533d96878ef5b68a426436
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26156, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Epistatus, 10 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b70c28ba2aac819d59f27f0aa460302dc38847e78b533d96878ef5b68a426436 | fragment sha256 54aa4939dc810fd654a0cdb0de39961fe05e65df466293e8e26bc6394feabb4c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26156, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Epistatus, 10 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b70c28ba2aac819d59f27f0aa460302dc38847e78b533d96878ef5b68a426436 | fragment sha256 95fe632a43d8b8dbcf3b93bdc609e43863423adea5d18989fdf1e9e3f8d2378d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26156, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Epistatus, 10 mg, Roztwór do stosowania w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b70c28ba2aac819d59f27f0aa460302dc38847e78b533d96878ef5b68a426436 | fragment sha256 a52126246414d4d046b163ee2163558bcc1a1703fab3e8880984c60c5a6e0cd0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

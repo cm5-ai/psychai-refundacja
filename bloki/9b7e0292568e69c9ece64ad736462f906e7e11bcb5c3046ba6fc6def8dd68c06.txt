@@ -1,0 +1,23 @@
+### Medikinet CR 5 mg | 5 mg | Kapsułki o zmodyfikowanym uwalnianiu, twarde
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Medikinet CR 5 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Kapsułki o zmodyfikowanym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 14, z GTIN 14
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 18355   format KRAJOWA
+ID_REJESTRU: 100250805   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|18355|id=100250805
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/25080/characteristic
+SHA256: 9d50f8fff8e2fb98662476bc61ac6090f0ab6334737de921e3c968ac36bb0927
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 18355, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Medikinet CR 5 mg, 5 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 9d50f8fff8e2fb98662476bc61ac6090f0ab6334737de921e3c968ac36bb0927 | fragment sha256 8a55c5aa6089cd9d76ec6d592eec2539e6080335ade99c634c268b9a68ac155c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 18355, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Medikinet CR 5 mg, 5 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 9d50f8fff8e2fb98662476bc61ac6090f0ab6334737de921e3c968ac36bb0927 | fragment sha256 78cb432030a14539af7aa6078630b2f922a39162802575117bd0fb498d6e5481 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 18355, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Medikinet CR 5 mg, 5 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 9d50f8fff8e2fb98662476bc61ac6090f0ab6334737de921e3c968ac36bb0927 | fragment sha256 3aa82237f08636bf65c7a31c5a622a317b42eba143339353b447f2a3beb51661 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

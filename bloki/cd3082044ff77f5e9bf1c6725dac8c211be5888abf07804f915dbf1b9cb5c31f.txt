@@ -1,0 +1,23 @@
+### Symfaxin ER | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Symfaxin ER   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21526   format KRAJOWA
+ID_REJESTRU: 100305127   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21526|id=100305127
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30512/characteristic
+SHA256: 61cd20fdfc13d68380323c8e217c994178b24a5370629d1a886ce809910d8f81
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21526, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symfaxin ER, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 61cd20fdfc13d68380323c8e217c994178b24a5370629d1a886ce809910d8f81 | fragment sha256 e7697aaf1bf95702fc4e78e231510ff2de1c6145a926704d83b6bafb52da6985 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21526, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symfaxin ER, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 61cd20fdfc13d68380323c8e217c994178b24a5370629d1a886ce809910d8f81 | fragment sha256 960b1625ed4d8b7db65cb4f19990ab5283a8ce7cd836fcddf54398639890712d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21526, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symfaxin ER, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 61cd20fdfc13d68380323c8e217c994178b24a5370629d1a886ce809910d8f81 | fragment sha256 7d3bcea02860b9e01b05a26047d7111a8c78626173ed9511d71c548f9dc70c8c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

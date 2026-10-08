@@ -1,0 +1,23 @@
+### Oxazepam Espefa | 10 mg | Tabletki
+SUBSTANCJA: oksazepam
+NAZWA_HANDLOWA: Oxazepam Espefa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 10875   format KRAJOWA
+ID_REJESTRU: 100128300   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10875|id=100128300
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12830/characteristic
+SHA256: 7e5ecc01d1f6484045652a7ac978324eabd495e9b9068d5d344f76e0d408c081
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10875, magazyn chpl/oksazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oxazepam Espefa, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7e5ecc01d1f6484045652a7ac978324eabd495e9b9068d5d344f76e0d408c081 | fragment sha256 cfa52ccadd07d0b681eb9db8efd4975aefb24f3469369981965c28a906c19d05 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10875, magazyn chpl/oksazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oxazepam Espefa, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7e5ecc01d1f6484045652a7ac978324eabd495e9b9068d5d344f76e0d408c081 | fragment sha256 8e99e5eb7f0e972bd9dc2c8bcd505ec65049c18972f83280030b24db5265bbd2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10875, magazyn chpl/oksazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oxazepam Espefa, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7e5ecc01d1f6484045652a7ac978324eabd495e9b9068d5d344f76e0d408c081 | fragment sha256 bd2b4d5b8d8ea0abc2e3330bfc19115b927ea93f9f8f7f24f2060d51bca2ff16 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

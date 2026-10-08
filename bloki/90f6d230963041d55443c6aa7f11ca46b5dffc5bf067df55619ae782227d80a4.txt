@@ -1,0 +1,23 @@
+### Elicea Q-Tab | 10 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Elicea Q-Tab   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21384   format KRAJOWA
+ID_REJESTRU: 100302560   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21384|id=100302560
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30256/characteristic
+SHA256: 046445ba032509028f5e6211db12e10a1a9e3fa8e48ea1545555594967a7c4a5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21384, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Elicea Q-Tab, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 046445ba032509028f5e6211db12e10a1a9e3fa8e48ea1545555594967a7c4a5 | fragment sha256 f3a0cbb16982616a0c12348c298382b1266fe6a3f656b8e5bece5c1626cb039b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21384, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Elicea Q-Tab, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 046445ba032509028f5e6211db12e10a1a9e3fa8e48ea1545555594967a7c4a5 | fragment sha256 d9f1b59439291a6180c0a4e34e9d0c9c2ebb8d0e350cefc13f9fa6251f74c74d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21384, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Elicea Q-Tab, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 046445ba032509028f5e6211db12e10a1a9e3fa8e48ea1545555594967a7c4a5 | fragment sha256 625ab22bc5207fceb5f77750a8988405d4a6ddb47d9044b5f1118f154f9ed1b4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Convulex | 500 mg | Kapsułki miękkie
+SUBSTANCJA: walproinian
+NAZWA_HANDLOWA: Convulex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 500 mg
+POSTAC: Kapsułki miękkie
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 00238   format KRAJOWA
+ID_REJESTRU: 100015694   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|00238|id=100015694
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1569/characteristic
+SHA256: 20397fcc5d7b4653802d4f15a1e3c33c2532363e5a4ba56bd5f38daedb3945d5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 00238, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Convulex, 500 mg, Kapsułki miękkie | pobrano 2026-09-23 | dokument sha256 20397fcc5d7b4653802d4f15a1e3c33c2532363e5a4ba56bd5f38daedb3945d5 | fragment sha256 f3172dc3ca37f5db2485db2fba94546dfadb614ce6cc3390712fa44f28be7669 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00238, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Convulex, 500 mg, Kapsułki miękkie | pobrano 2026-09-23 | dokument sha256 20397fcc5d7b4653802d4f15a1e3c33c2532363e5a4ba56bd5f38daedb3945d5 | fragment sha256 ca794d25b948696a95ea196033c594c4634817b7dc8638b0ec4df613619c0716 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00238, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Convulex, 500 mg, Kapsułki miękkie | pobrano 2026-09-23 | dokument sha256 20397fcc5d7b4653802d4f15a1e3c33c2532363e5a4ba56bd5f38daedb3945d5 | fragment sha256 2b1d2cbd4198b56a76d1cca7bada3b54c285c9122b610e0519106c98745c2ac7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

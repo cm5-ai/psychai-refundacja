@@ -1,0 +1,19 @@
+### Zypadhera | 405 mg | NIEROZPOZNANA
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Zypadhera   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 405 mg
+POSTAC: NIEROZPOZNANA
+UWAGA_POSTACI: postac spoza listy zamknietej, zapis surowy: 'Proszek i rozpuszczalnik do sporządzania zawiesiny do wstrzykiwań o przedłużonym uwalnianiu'
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: BRAK ZAPISU W EKSPORCIE — nie znaczy bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: EU/1/08/479   format NUMER_EU
+UWAGA_IDENTYFIKATORA: numer unijny odczytany z opakowan (pole pozwolenie jest puste); czlon opakowaniowy odrzucony, zostaje numer produktu
+ID_REJESTRU: 100206224   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_EU|EU/1/08/479|id=100206224
+WSKAZANIA: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: DOKUMENT_W_REJESTRZE_CENTRALNYM_NIEODCZYTANY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestracja jest centralna, a rejestr unijny wydaje jeden dokument na NUMER EU, nie na rejestracje: ten sam numer obejmuje rozne moce i postacie, wiec rownosc numeru nie przypina fragmentu dawki do TEJ rejestracji, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

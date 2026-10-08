@@ -1,0 +1,23 @@
+### Varesta | 20 mg | Tabletki powlekane
+SUBSTANCJA: wortioksetyna
+NAZWA_HANDLOWA: Varesta   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-07-01
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29159   format KRAJOWA
+ID_REJESTRU: 100507211   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29159|id=100507211
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50721/characteristic
+SHA256: a444865baae7f3ae694c02ba643f9df6bb3b3d9ea796948a14cd39bb99533aa2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29159, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Varesta, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a444865baae7f3ae694c02ba643f9df6bb3b3d9ea796948a14cd39bb99533aa2 | fragment sha256 348201ffb913f8ae0ecf780a14c07089c03ff28dba4a48395ec3fac3a8db2bd9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29159, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Varesta, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a444865baae7f3ae694c02ba643f9df6bb3b3d9ea796948a14cd39bb99533aa2 | fragment sha256 d3e8aab2dfa70d10dfb455240357d3055c44cba73d40f80985a89a31de685417 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29159, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Varesta, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 a444865baae7f3ae694c02ba643f9df6bb3b3d9ea796948a14cd39bb99533aa2 | fragment sha256 7ff8ffb7155dceda0b4d8033f16fa564758127154f73e4e689782bd29648c8de | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

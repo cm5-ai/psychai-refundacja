@@ -1,0 +1,23 @@
+### Aricogan | 15 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Aricogan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23037   format KRAJOWA
+ID_REJESTRU: 100352486   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23037|id=100352486
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35248/characteristic
+SHA256: c714234aa251687aed1a624c1fa548f4b5006c43a8ef9c9413d60c5c6623c617
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23037, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aricogan, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c714234aa251687aed1a624c1fa548f4b5006c43a8ef9c9413d60c5c6623c617 | fragment sha256 4ef0ff634e14c60507391b77fda420814fb78b4421094376a8ab372e6fd0dd2b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23037, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aricogan, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c714234aa251687aed1a624c1fa548f4b5006c43a8ef9c9413d60c5c6623c617 | fragment sha256 c3e840e1449233a1138fa7a16e280788649830019f4a1f8c47dbb772f58d9cf6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23037, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aricogan, 15 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 c714234aa251687aed1a624c1fa548f4b5006c43a8ef9c9413d60c5c6623c617 | fragment sha256 d737090c3de8606a5dd15589f1cc15c889f84871ca0b4f5466c6ecfd24585b12 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

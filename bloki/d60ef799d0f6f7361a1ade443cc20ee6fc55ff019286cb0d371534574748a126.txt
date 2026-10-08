@@ -1,0 +1,23 @@
+### Bupropion Neuraxpharm | 300 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: bupropion
+NAZWA_HANDLOWA: Bupropion Neuraxpharm   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26323   format KRAJOWA
+ID_REJESTRU: 100438495   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26323|id=100438495
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43849/characteristic
+SHA256: 8ecdd2d70820958a916cb08ceeecb810c36a10917347b4632a0a519075c56c3a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26323, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bupropion Neuraxpharm, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 8ecdd2d70820958a916cb08ceeecb810c36a10917347b4632a0a519075c56c3a | fragment sha256 9ae9109f1bd79cd7ff9f92cb9b26b992a535d6ecb1d1aa96941cc235929726be | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26323, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bupropion Neuraxpharm, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 8ecdd2d70820958a916cb08ceeecb810c36a10917347b4632a0a519075c56c3a | fragment sha256 2b40107409c925f39cdc438fc6bb908ae79899730beb7a8fc0afe5ddf2254037 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26323, magazyn chpl/bupropion]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bupropion Neuraxpharm, 300 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 8ecdd2d70820958a916cb08ceeecb810c36a10917347b4632a0a519075c56c3a | fragment sha256 33be9dcb0665ed4fb1e9fb92993f07abebef9f7b9ee875014b3b169cd246be6b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Apra | 10 mg | Tabletki
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Apra   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23062   format KRAJOWA
+ID_REJESTRU: 100330668   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23062|id=100330668
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33066/characteristic
+SHA256: 3087cfeeb7ba816a8a9c7a01dc4b34cb50d76170f6f1ee6e1361d2b59ac49834
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23062, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Apra, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3087cfeeb7ba816a8a9c7a01dc4b34cb50d76170f6f1ee6e1361d2b59ac49834 | fragment sha256 f89bb73ac537aaffa2f40460b01c48db985ad7e32fc688d34d0f62d31133164c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23062, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Apra, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3087cfeeb7ba816a8a9c7a01dc4b34cb50d76170f6f1ee6e1361d2b59ac49834 | fragment sha256 f89258aff0b7da82b8381a27198f5417ba72035b653b87fc5ed75821cced7c0f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23062, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Apra, 10 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 3087cfeeb7ba816a8a9c7a01dc4b34cb50d76170f6f1ee6e1361d2b59ac49834 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

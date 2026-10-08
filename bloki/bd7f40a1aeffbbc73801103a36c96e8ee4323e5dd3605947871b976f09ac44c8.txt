@@ -1,0 +1,23 @@
+### Oriven | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Oriven   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 16980   format KRAJOWA
+ID_REJESTRU: 100230719   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16980|id=100230719
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23071/characteristic
+SHA256: 91c4675ae0c361a25dd3303a39b1b23d16375601e1d8118f8205e98fe9cc1417
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16980, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oriven, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 91c4675ae0c361a25dd3303a39b1b23d16375601e1d8118f8205e98fe9cc1417 | fragment sha256 18719ee2623ff4fc680b7fe5a598be3c775b64f259dd43ddbdd8e119e6a802d5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16980, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oriven, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 91c4675ae0c361a25dd3303a39b1b23d16375601e1d8118f8205e98fe9cc1417 | fragment sha256 b63f5d3c0dc57db62c26dc433bbbc89e36cb79898c6909a2b84c029ea8604e9d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16980, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oriven, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 91c4675ae0c361a25dd3303a39b1b23d16375601e1d8118f8205e98fe9cc1417 | fragment sha256 f12f1b89136ea43ae5539d7b320f0fa768c250105e2777e18c76518800ffabcb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

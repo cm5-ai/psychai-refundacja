@@ -1,0 +1,23 @@
+### ParoGen | 20 mg | Tabletki powlekane
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: ParoGen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 11962   format KRAJOWA
+ID_REJESTRU: 100157112   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11962|id=100157112
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/15711/characteristic
+SHA256: 18e2d916fb9108b386e6bed95863e8d47dab25e1475c0f8b35e52a2d41de893e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11962, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ParoGen, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 18e2d916fb9108b386e6bed95863e8d47dab25e1475c0f8b35e52a2d41de893e | fragment sha256 8d0fb8411c555a8a7b1c0873bcf402a958fb0d577792f731bb145534265ce6b4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11962, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ParoGen, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 18e2d916fb9108b386e6bed95863e8d47dab25e1475c0f8b35e52a2d41de893e | fragment sha256 03a5d91cc021d3b3dea92395339d7e75e733f74ad53bc42077be1d916340e6b4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11962, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ParoGen, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 18e2d916fb9108b386e6bed95863e8d47dab25e1475c0f8b35e52a2d41de893e | fragment sha256 ef89310e1b4af5099282fcae7e59fa9dc35c0a3bf48d4b5c80b4e79db79adc0c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

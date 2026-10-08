@@ -1,0 +1,23 @@
+### Apiolin | 100 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Apiolin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-07-26
+OPAKOWANIA_W_EKSPORCIE: 8, z GTIN 8
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28524   format KRAJOWA
+ID_REJESTRU: 100477224   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28524|id=100477224
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47722/characteristic
+SHA256: 7ec6431948a3b4385421dae2c2bb39eca9904ea8bd92d77b1e2eb8b68c6c2918
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28524, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Apiolin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7ec6431948a3b4385421dae2c2bb39eca9904ea8bd92d77b1e2eb8b68c6c2918 | fragment sha256 0e2bbf5b9e5bad7d0fc1ee35b638ba1312d4c2da684a805dbb3e98e4d263ac15 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28524, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Apiolin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7ec6431948a3b4385421dae2c2bb39eca9904ea8bd92d77b1e2eb8b68c6c2918 | fragment sha256 90c194c68447ee8d6444ae8f96d1d81e1b27e9f3bec1b4eadaef381583625fb3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28524, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Apiolin, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7ec6431948a3b4385421dae2c2bb39eca9904ea8bd92d77b1e2eb8b68c6c2918 | fragment sha256 1d6a0d1952b06db7a9c2b3fa8762b0cb575ad69f34f1ca1ac0b90093d1e681e7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

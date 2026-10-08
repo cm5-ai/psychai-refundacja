@@ -1,0 +1,23 @@
+### ApoDream | 7,5 mg | Tabletki powlekane
+SUBSTANCJA: zopiklon
+NAZWA_HANDLOWA: ApoDream   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 7,5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 9, z GTIN 9
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25129   format KRAJOWA
+ID_REJESTRU: 100390162   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25129|id=100390162
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39016/characteristic
+SHA256: 520a2351547c7fc3b56534b551a9132962252a6f3759f59916885ba1f609e5cd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25129, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ApoDream, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 520a2351547c7fc3b56534b551a9132962252a6f3759f59916885ba1f609e5cd | fragment sha256 91ab904c70a212c24a834cfc8cb3af90f2222c68cf4c0aee02c88f2f4b8bab5d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25129, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ApoDream, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 520a2351547c7fc3b56534b551a9132962252a6f3759f59916885ba1f609e5cd | fragment sha256 723a603cde7b10e142e8a9bcc484154c449ae585a67b9244127e741b196f90a7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25129, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ApoDream, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 520a2351547c7fc3b56534b551a9132962252a6f3759f59916885ba1f609e5cd | fragment sha256 3ff0b8dabc46638c0d1438ec3723491638591c3c3032c5384fff7ab9cb2cf5cd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

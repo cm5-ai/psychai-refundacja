@@ -1,0 +1,23 @@
+### Zopiclone Grindeks | 3,75 mg | Tabletki powlekane
+SUBSTANCJA: zopiklon
+NAZWA_HANDLOWA: Zopiclone Grindeks   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 3,75 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-02-21
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28880   format KRAJOWA
+ID_REJESTRU: 100471599   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28880|id=100471599
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47159/characteristic
+SHA256: 66fd5311a86000db7c2c53637a42a99ed0deaccc0e6c859009a39282c5989835
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28880, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zopiclone Grindeks, 3,75 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 66fd5311a86000db7c2c53637a42a99ed0deaccc0e6c859009a39282c5989835 | fragment sha256 601064d4021e6e2df6a435e7e46f7340ed116929e6142bef28b930f2e103ba1d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28880, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zopiclone Grindeks, 3,75 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 66fd5311a86000db7c2c53637a42a99ed0deaccc0e6c859009a39282c5989835 | fragment sha256 c32d075ec358b30073a0a88a0695d89f324c5d290f9ad7498b5cb10e820309e8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28880, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zopiclone Grindeks, 3,75 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 66fd5311a86000db7c2c53637a42a99ed0deaccc0e6c859009a39282c5989835 | fragment sha256 fb1ae8dfefa1785885c01a301c70057b30c5d38eeffae7d700d30c1f824cdd60 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Remirta Oro | 45 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: mirtazapina
+NAZWA_HANDLOWA: Remirta Oro   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 45 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 14082   format KRAJOWA
+ID_REJESTRU: 100179823   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14082|id=100179823
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17982/characteristic
+SHA256: 47cc568e1cf0d286d6427e5031a98fc0cb5c2921654a01e544f343dd3bcef115
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14082, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Remirta Oro, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 47cc568e1cf0d286d6427e5031a98fc0cb5c2921654a01e544f343dd3bcef115 | fragment sha256 4f7519c3145ecaade4a71dde744539e6edff5f7ecb611614042e9dfae63c84fa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14082, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Remirta Oro, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 47cc568e1cf0d286d6427e5031a98fc0cb5c2921654a01e544f343dd3bcef115 | fragment sha256 835588498c13045862d856b4ea8bde23ce64152a7cc9f586d3dbf6529d56a40b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14082, magazyn chpl/mirtazapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Remirta Oro, 45 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 47cc568e1cf0d286d6427e5031a98fc0cb5c2921654a01e544f343dd3bcef115 | fragment sha256 e828e45cbe07db2a5f863ed62ff5026083ef3e599e36ebb65a9871a54b1d3416 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

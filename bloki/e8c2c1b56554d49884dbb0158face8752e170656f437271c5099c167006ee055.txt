@@ -1,0 +1,23 @@
+### Apra-swift | 30 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Apra-swift   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 22601   format KRAJOWA
+ID_REJESTRU: 100330728   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22601|id=100330728
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33072/characteristic
+SHA256: 1516b21224d82bd883b9e407b350e1f284027efeb1d5e9a7737fe82317f305a6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22601, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Apra-swift, 30 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 1516b21224d82bd883b9e407b350e1f284027efeb1d5e9a7737fe82317f305a6 | fragment sha256 d31385e1fd90b1a0ae2f7bfb4d07900b47d2a9f1e2129b2fcac8409459be3362 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22601, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Apra-swift, 30 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 1516b21224d82bd883b9e407b350e1f284027efeb1d5e9a7737fe82317f305a6 | fragment sha256 d325d9117e637a930dd34a3b6c282a2130b7c44dc8b8198db7c100e64a4b6b0d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22601, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Apra-swift, 30 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 1516b21224d82bd883b9e407b350e1f284027efeb1d5e9a7737fe82317f305a6 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

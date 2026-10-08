@@ -1,0 +1,23 @@
+### Hydroxyzinum Adamed | 10 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Adamed   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23425   format KRAJOWA
+ID_REJESTRU: 100340939   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23425|id=100340939
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34093/characteristic
+SHA256: b62a2f5d43e916f8a0c48f53699d4fc12ea04ef26ed552eafb8c42d9c6bd88a7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23425, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Adamed, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b62a2f5d43e916f8a0c48f53699d4fc12ea04ef26ed552eafb8c42d9c6bd88a7 | fragment sha256 2bbf1c9518da8c04a149ebe29090d40903ed97c34b952e73efa559c564874e94 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23425, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Adamed, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b62a2f5d43e916f8a0c48f53699d4fc12ea04ef26ed552eafb8c42d9c6bd88a7 | fragment sha256 cff647c6e2f3adc6d03a16093e9f485ff983a2c87db62a80d7bfffb10a450dc3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23425, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Adamed, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 b62a2f5d43e916f8a0c48f53699d4fc12ea04ef26ed552eafb8c42d9c6bd88a7 | fragment sha256 9a70568049f5ea3e7249652ce6ef160bed08f1ac10f18e891a21b97794213552 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

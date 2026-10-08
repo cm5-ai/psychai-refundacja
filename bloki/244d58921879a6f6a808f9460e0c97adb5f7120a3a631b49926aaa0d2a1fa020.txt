@@ -1,0 +1,23 @@
+### Fenactil | 40 mg/g | Krople doustne, roztwór
+SUBSTANCJA: chlorpromazyna
+NAZWA_HANDLOWA: Fenactil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg/g
+POSTAC: Krople doustne, roztwór
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 02743   format KRAJOWA
+ID_REJESTRU: 100023914   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|02743|id=100023914
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/2391/characteristic
+SHA256: c0257d5899aee4f59d0dc78e99316b222f13d2c0869ec5b66ce3414addb8fed3
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 02743, magazyn chpl/chlorpromazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Fenactil, 40 mg/g, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 c0257d5899aee4f59d0dc78e99316b222f13d2c0869ec5b66ce3414addb8fed3 | fragment sha256 eb2e99a2219c21e3aa64bffb52dcb601277ba969701d8d5ecd2fd74a1a1aa7aa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 02743, magazyn chpl/chlorpromazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Fenactil, 40 mg/g, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 c0257d5899aee4f59d0dc78e99316b222f13d2c0869ec5b66ce3414addb8fed3 | fragment sha256 3b1fe220cc6e308fc179d0c0f967defac727cf5146911c80f942e5c03ea6f685 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 02743, magazyn chpl/chlorpromazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Fenactil, 40 mg/g, Krople doustne, roztwór | pobrano 2026-09-23 | dokument sha256 c0257d5899aee4f59d0dc78e99316b222f13d2c0869ec5b66ce3414addb8fed3 | fragment sha256 b5becef5d4b6e0df2f8783a7db78ffeee62dae65a0df6827c6f27f1bfc5b1903 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

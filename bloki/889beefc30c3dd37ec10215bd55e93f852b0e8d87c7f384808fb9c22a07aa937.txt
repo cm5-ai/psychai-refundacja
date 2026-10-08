@@ -1,0 +1,23 @@
+### Mindetra | 27 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Mindetra   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 27 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2031-02-04
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29378   format KRAJOWA
+ID_REJESTRU: 100521294   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29378|id=100521294
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52129/characteristic
+SHA256: 4e1fa37294b163f4e519bffde1da39b0ad6bad161b60fea76326c56a74795e58
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29378, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Mindetra, 27 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 4e1fa37294b163f4e519bffde1da39b0ad6bad161b60fea76326c56a74795e58 | fragment sha256 0df5f33b18919e41c579e94980981a0134182a8f627e24bd8ea72da37878bf86 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29378, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Mindetra, 27 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 4e1fa37294b163f4e519bffde1da39b0ad6bad161b60fea76326c56a74795e58 | fragment sha256 2388dc550e491ee6e489afb7141f5fa807334586ac885f06b2e310ef5d544e68 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29378, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Mindetra, 27 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 4e1fa37294b163f4e519bffde1da39b0ad6bad161b60fea76326c56a74795e58 | fragment sha256 275879322528e6a868f3f9044623cc9035e912fbc4952b8aa673e817d370dfbe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

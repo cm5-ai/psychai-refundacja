@@ -1,0 +1,23 @@
+### Escipram | 15 mg | Tabletki powlekane
+SUBSTANCJA: escitalopram
+NAZWA_HANDLOWA: Escipram   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 16, z GTIN 16
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 17637   format KRAJOWA
+ID_REJESTRU: 100237880   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17637|id=100237880
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23788/characteristic
+SHA256: 30d2ff0ba2d8d0271fa97a0702b446542f2196cb6658fe9a5ee8bb7b5d2f1f3c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17637, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Escipram, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 30d2ff0ba2d8d0271fa97a0702b446542f2196cb6658fe9a5ee8bb7b5d2f1f3c | fragment sha256 8fb8a37b3a873fabd012d1037f2dd0e9fd37ce6b10bcf8b28f8bd734df6d745f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17637, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Escipram, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 30d2ff0ba2d8d0271fa97a0702b446542f2196cb6658fe9a5ee8bb7b5d2f1f3c | fragment sha256 23c0127343e7d38fbcf487a5eab38aae7941a59a98e1bf2eacd9971e657f1317 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17637, magazyn chpl/escitalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Escipram, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 30d2ff0ba2d8d0271fa97a0702b446542f2196cb6658fe9a5ee8bb7b5d2f1f3c | fragment sha256 3701934172e8e7b34fa8fa939eafd17a9e7df16f23a6be0fd80ea6515d01b2ba | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

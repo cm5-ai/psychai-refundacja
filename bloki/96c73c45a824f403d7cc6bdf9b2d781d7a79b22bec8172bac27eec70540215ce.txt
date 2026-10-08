@@ -1,0 +1,23 @@
+### Citaxin | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Citaxin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 16319   format KRAJOWA
+ID_REJESTRU: 100222588   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16319|id=100222588
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22258/characteristic
+SHA256: ad2cfaa6065c8012b0eb168e6a4b757ac9c56cd0b18fc33bcc1a56401be59295
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 16319, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Citaxin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ad2cfaa6065c8012b0eb168e6a4b757ac9c56cd0b18fc33bcc1a56401be59295 | fragment sha256 4ed67dfc7dd0d6cca8da2e4701c10a9051b8523544eb59bf1c022d2f2cb1a6b9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 16319, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Citaxin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ad2cfaa6065c8012b0eb168e6a4b757ac9c56cd0b18fc33bcc1a56401be59295 | fragment sha256 6c4073fdea2400a75f5c00ff21ac16159c874e2828f17f74a7f7a8211b9d1317 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16319, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Citaxin, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ad2cfaa6065c8012b0eb168e6a4b757ac9c56cd0b18fc33bcc1a56401be59295 | fragment sha256 edebd817e59300462caa34e179bdf783feb61fa5b2ce9f11a4f1a05caac44ae7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

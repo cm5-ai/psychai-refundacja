@@ -1,0 +1,23 @@
+### Cognimentin LA | 20 mg | Kapsułki o zmodyfikowanym uwalnianiu, twarde
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Cognimentin LA   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Kapsułki o zmodyfikowanym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2031-04-21
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29654   format KRAJOWA
+ID_REJESTRU: 100507138   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29654|id=100507138
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/50713/characteristic
+SHA256: 8213479a11b0f663f382ac895581a4f584fa0436f503f242de5d689536f8e47e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29654, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Cognimentin LA, 20 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 8213479a11b0f663f382ac895581a4f584fa0436f503f242de5d689536f8e47e | fragment sha256 e456dcd8ffc7bfd88146390121c81cb12571ab93559a64778ed40519e37e16f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29654, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Cognimentin LA, 20 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 8213479a11b0f663f382ac895581a4f584fa0436f503f242de5d689536f8e47e | fragment sha256 1403f34045b8c132b39192655380b08490b35873d43d7688d87c623a4e44fc57 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29654, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Cognimentin LA, 20 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 8213479a11b0f663f382ac895581a4f584fa0436f503f242de5d689536f8e47e | fragment sha256 1126ba04bc75ec5952e3622ccff81ade9c5a4a0cc31bc26c0a006e01dc6d9651 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Lexotan | 3 mg | Tabletki
+SUBSTANCJA: bromazepam
+NAZWA_HANDLOWA: Lexotan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 3 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 01836   format KRAJOWA
+ID_REJESTRU: 100246873   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01836|id=100246873
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24687/characteristic
+SHA256: b79feb4438e37a2e306ffcbd69c27f1dd73918540df4ac0faf841217bf807680
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01836, magazyn chpl/bromazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lexotan, 3 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b79feb4438e37a2e306ffcbd69c27f1dd73918540df4ac0faf841217bf807680 | fragment sha256 edec575c93078e1ed3f07186a4744a212c38fb549fb591252034c9ece35e6fd7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01836, magazyn chpl/bromazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lexotan, 3 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b79feb4438e37a2e306ffcbd69c27f1dd73918540df4ac0faf841217bf807680 | fragment sha256 1d8ba2154011e46cc7f933414fa5bc1c6aa7ed89db01c4c9f0206396ba1af0a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01836, magazyn chpl/bromazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lexotan, 3 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 b79feb4438e37a2e306ffcbd69c27f1dd73918540df4ac0faf841217bf807680 | fragment sha256 e842f76976aa7d16e7debfb88f43862c1428c31f24d6e437b1a612c083af7e6c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

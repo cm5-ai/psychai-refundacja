@@ -1,0 +1,23 @@
+### Topamax | 50 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Topamax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 07589   format KRAJOWA
+ID_REJESTRU: 100080250   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07589|id=100080250
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8025/characteristic
+SHA256: 707873cc8a2d2a54a9d5c3a81cc34dbc006be884ad4176dc19543f011095fc3c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07589, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Topamax, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 707873cc8a2d2a54a9d5c3a81cc34dbc006be884ad4176dc19543f011095fc3c | fragment sha256 7960d99c546435b139b740cc368be0752778bb4de92f3870c90957bfb8759c10 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07589, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Topamax, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 707873cc8a2d2a54a9d5c3a81cc34dbc006be884ad4176dc19543f011095fc3c | fragment sha256 1dad701505c5c7663835ac5ea07124d02c31cbca1c6507462762159843d270e9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07589, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Topamax, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 707873cc8a2d2a54a9d5c3a81cc34dbc006be884ad4176dc19543f011095fc3c | fragment sha256 52435251dc1b46da8709595e1738551ae0e61aedd12c33a1753ddc3a379571ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

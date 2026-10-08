@@ -1,0 +1,23 @@
+### Zylena | 15 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Zylena   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2029-03-20
+OPAKOWANIA_W_EKSPORCIE: 8, z GTIN 8
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28319   format KRAJOWA
+ID_REJESTRU: 100441110   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28319|id=100441110
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44111/characteristic
+SHA256: b5328ba022f0d47071317e5a05415461f165abe07f8a7a5ceacf8b19e9b1c8d9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28319, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zylena, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b5328ba022f0d47071317e5a05415461f165abe07f8a7a5ceacf8b19e9b1c8d9 | fragment sha256 4bd9496813feccba6675ceb9110083783804bd119e13b5861d55a1bddba7333f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28319, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zylena, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b5328ba022f0d47071317e5a05415461f165abe07f8a7a5ceacf8b19e9b1c8d9 | fragment sha256 3cd11c87709c581c80aa28336702cc66f16f9f5d2bf1323277704c3e3be4daa5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28319, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zylena, 15 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 b5328ba022f0d47071317e5a05415461f165abe07f8a7a5ceacf8b19e9b1c8d9 | fragment sha256 d00eef8ea79af5f5e14f52441f6b6ac8317a1157f82d3c7cb7ec80394a756656 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

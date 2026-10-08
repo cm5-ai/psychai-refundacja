@@ -1,0 +1,23 @@
+### Aurex 20 | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Aurex 20   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10534   format KRAJOWA
+ID_REJESTRU: 100122504   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10534|id=100122504
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12250/characteristic
+SHA256: e606f6abfcec56c6674605715fe057b8c3a485235c6d260b604feac83a65f089
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10534, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Aurex 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e606f6abfcec56c6674605715fe057b8c3a485235c6d260b604feac83a65f089 | fragment sha256 f0cfcf5a03af5780b3f694132b0c726d32c37ceadb580babf0270244132c962a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10534, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Aurex 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e606f6abfcec56c6674605715fe057b8c3a485235c6d260b604feac83a65f089 | fragment sha256 36c26cd89aad20f21341469f263baf21171fb5b0de847140c713925bc4a1a66d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10534, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Aurex 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e606f6abfcec56c6674605715fe057b8c3a485235c6d260b604feac83a65f089 | fragment sha256 3c1c10b4fc3586d371026446ee84d4c3896d81f099d81fc24f5545943c872713 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

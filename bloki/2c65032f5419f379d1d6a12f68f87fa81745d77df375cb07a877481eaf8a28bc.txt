@@ -1,0 +1,23 @@
+### Adehader | 5 mg | Kapsułki o zmodyfikowanym uwalnianiu, twarde
+SUBSTANCJA: metylofenidat
+NAZWA_HANDLOWA: Adehader   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Kapsułki o zmodyfikowanym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-04-01
+OPAKOWANIA_W_EKSPORCIE: 13, z GTIN 13
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28930   format KRAJOWA
+ID_REJESTRU: 100484162   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28930|id=100484162
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48416/characteristic
+SHA256: 182f33285f3e7cb866c8d0ea8c769c9ec4656c4cc906ce4ee11ee7119a642246
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28930, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Adehader, 5 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 182f33285f3e7cb866c8d0ea8c769c9ec4656c4cc906ce4ee11ee7119a642246 | fragment sha256 db63683248f8f7441194d770dfeeb623248e18eb3c0f1959cb02cc79f4451438 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28930, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Adehader, 5 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 182f33285f3e7cb866c8d0ea8c769c9ec4656c4cc906ce4ee11ee7119a642246 | fragment sha256 cc9faf86a69d9b5bb7f56e8d952bf95e71330c4e9444a7ba361e5de569acdb36 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28930, magazyn chpl/metylofenidat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Adehader, 5 mg, Kapsułki o zmodyfikowanym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 182f33285f3e7cb866c8d0ea8c769c9ec4656c4cc906ce4ee11ee7119a642246 | fragment sha256 b3b9c2055f3e3c8b2d632d8f65b56274e69d39ce2b95b1ed954ea57d30879637 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Amisulpryd Holsten | 200 mg | Tabletki
+SUBSTANCJA: amisulpryd
+NAZWA_HANDLOWA: Amisulpryd Holsten   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 19607   format KRAJOWA
+ID_REJESTRU: 100268455   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|19607|id=100268455
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26845/characteristic
+SHA256: a4c9825cb992d11047bbee209a5c71fb11469bb3f8f5285b8086bf6a61efd502
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 19607, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Amisulpryd Holsten, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a4c9825cb992d11047bbee209a5c71fb11469bb3f8f5285b8086bf6a61efd502 | fragment sha256 a897898dfc67ef1f622278b6fc24ad88844534016829c2c801b63df7e76ccc55 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 19607, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Amisulpryd Holsten, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a4c9825cb992d11047bbee209a5c71fb11469bb3f8f5285b8086bf6a61efd502 | fragment sha256 158c462abd26f865db0a895a81226e90a6d4392f27cfdfe04f8253d26338ca02 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 19607, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Amisulpryd Holsten, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a4c9825cb992d11047bbee209a5c71fb11469bb3f8f5285b8086bf6a61efd502 | fragment sha256 443a77921def52cc1e1b0968af51a9ce41ac3d68c34a7a01df26dd784853bc8b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

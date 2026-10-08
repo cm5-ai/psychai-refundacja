@@ -1,0 +1,23 @@
+### Egzysta | 100 mg | Kapsułki twarde
+SUBSTANCJA: pregabalina
+NAZWA_HANDLOWA: Egzysta   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 22617   format KRAJOWA
+ID_REJESTRU: 100341755   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22617|id=100341755
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34175/characteristic
+SHA256: 07be786ebc85fb141fc664c75baf0962b8e8c541d433286db2a4595d55f2c535
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22617, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Egzysta, 100 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 07be786ebc85fb141fc664c75baf0962b8e8c541d433286db2a4595d55f2c535 | fragment sha256 8fab27bb160159cbb0467d10f297364d3b4ee60213c7b201b929dda3184b52ed | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22617, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Egzysta, 100 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 07be786ebc85fb141fc664c75baf0962b8e8c541d433286db2a4595d55f2c535 | fragment sha256 573b3072ece4040b64bed886a5e85331ffe3cf0bfe086f10d9a29956cef633f4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22617, magazyn chpl/pregabalina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Egzysta, 100 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 07be786ebc85fb141fc664c75baf0962b8e8c541d433286db2a4595d55f2c535 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

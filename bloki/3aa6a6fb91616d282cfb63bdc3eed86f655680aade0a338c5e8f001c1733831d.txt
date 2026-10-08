@@ -1,0 +1,23 @@
+### Lafactin | 37,5 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Lafactin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 37,5 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 15, z GTIN 15
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 24809   format KRAJOWA
+ID_REJESTRU: 100333862   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|24809|id=100333862
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33386/characteristic
+SHA256: 2149a9008db8e51766221d9caf6992fb9d776e0d0fb78b5eca402c5701a720cf
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 24809, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lafactin, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2149a9008db8e51766221d9caf6992fb9d776e0d0fb78b5eca402c5701a720cf | fragment sha256 58559b62076af958ce0c042a84e532b0660b935ab7c4ab6cbdeef1ff3d5a8fc2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 24809, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lafactin, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2149a9008db8e51766221d9caf6992fb9d776e0d0fb78b5eca402c5701a720cf | fragment sha256 bc58b83cdecea482e7acf1aad68f2575311c65574ca2cdd70690a012a1424306 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 24809, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lafactin, 37,5 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 2149a9008db8e51766221d9caf6992fb9d776e0d0fb78b5eca402c5701a720cf | fragment sha256 d146d506fe47ce322e94f986af13d19d1bacf3fc0d25877b6d70a6e88b34a993 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

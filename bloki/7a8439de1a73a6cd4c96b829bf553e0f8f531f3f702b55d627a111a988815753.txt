@@ -1,0 +1,18 @@
+### Xanax SR | 1 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Xanax SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2027-10-24
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 386/22   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100475238   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|386/22|id=100475238
+WSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestr nie podaje adresu dokumentu ChPL dla tej rejestracji, wiec nie bylo czego sprawdzic, i DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

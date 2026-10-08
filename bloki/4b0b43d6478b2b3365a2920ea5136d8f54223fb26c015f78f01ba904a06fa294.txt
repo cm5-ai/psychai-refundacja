@@ -1,0 +1,23 @@
+### Cogiton ODT | 10 mg | Tabletki ulegające rozpadowi w jamie ustnej
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Cogiton ODT   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki ulegające rozpadowi w jamie ustnej
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21044   format KRAJOWA
+ID_REJESTRU: 100296612   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21044|id=100296612
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29661/characteristic
+SHA256: 64f5c62ef8a65f82e19db819d99b996eeeecef0c19ea494d4e055df514b1d338
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21044, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Cogiton ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 64f5c62ef8a65f82e19db819d99b996eeeecef0c19ea494d4e055df514b1d338 | fragment sha256 f55ccce88c5bf28304b2a8dfb06448e4879ca77ebb063fc0b2e04e60f549290b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21044, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Cogiton ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 64f5c62ef8a65f82e19db819d99b996eeeecef0c19ea494d4e055df514b1d338 | fragment sha256 1e1a1d3514ebfc3a0029bddab8b5142baa43a94f048a8264310cf46dcc6a1077 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21044, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Cogiton ODT, 10 mg, Tabletki ulegające rozpadowi w jamie ustnej | pobrano 2026-09-23 | dokument sha256 64f5c62ef8a65f82e19db819d99b996eeeecef0c19ea494d4e055df514b1d338 | fragment sha256 e935d031be4aa7b85fef9189786d7119da9dafd0105729fc58e42617dfe29e4b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

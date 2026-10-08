@@ -1,0 +1,23 @@
+### Evertas | 4,6 mg/24 h | System transdermalny, plaster
+SUBSTANCJA: riwastygmina
+NAZWA_HANDLOWA: Evertas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 4,6 mg/24 h
+POSTAC: System transdermalny, plaster
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21356   format KRAJOWA
+ID_REJESTRU: 100302028   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21356|id=100302028
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30202/characteristic
+SHA256: b5e510647cebe021521e1fc50df2f59032e73c4efd71c7fc532f7e385c06e287
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21356, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Evertas, 4,6 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 b5e510647cebe021521e1fc50df2f59032e73c4efd71c7fc532f7e385c06e287 | fragment sha256 1b34a280334afab348567db06d93b2b9581a512d161e83fcd3a4cf9ed640442a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21356, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Evertas, 4,6 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 b5e510647cebe021521e1fc50df2f59032e73c4efd71c7fc532f7e385c06e287 | fragment sha256 49a46bd808ab26d2d6f3a5aec14bf7cf6bf8154f854795ad78b1475dea18f7e6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21356, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Evertas, 4,6 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 b5e510647cebe021521e1fc50df2f59032e73c4efd71c7fc532f7e385c06e287 | fragment sha256 939857cd8a55c3448886fddcf4de24545bdd59728a79b6260f1f86ce231a769d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

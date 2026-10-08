@@ -1,0 +1,23 @@
+### Symla | 25 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Symla   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 09724   format KRAJOWA
+ID_REJESTRU: 100111475   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09724|id=100111475
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11147/characteristic
+SHA256: ee20f5f5222b20ca334b523131b82c3f9c061212b2354c02e810b532ddb2f900
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09724, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Symla, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 ee20f5f5222b20ca334b523131b82c3f9c061212b2354c02e810b532ddb2f900 | fragment sha256 8bb5c2aa4c5aa88c031a53bcb396db11b0022ea1c9b74d02d9d1ddbc072b2798 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09724, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Symla, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 ee20f5f5222b20ca334b523131b82c3f9c061212b2354c02e810b532ddb2f900 | fragment sha256 6c9806625e9f542ff362e8ef39dfe2e920e222ba4078551fd72e76162c6fc0fa | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09724, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Symla, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 ee20f5f5222b20ca334b523131b82c3f9c061212b2354c02e810b532ddb2f900 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

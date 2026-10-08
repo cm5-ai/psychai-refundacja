@@ -1,0 +1,23 @@
+### Zomiren SR | 1 mg | Tabletki o zmodyfikowanym uwalnianiu
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Zomiren SR   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki o zmodyfikowanym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 14768   format KRAJOWA
+ID_REJESTRU: 100196885   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|14768|id=100196885
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19688/characteristic
+SHA256: 578dd02de70f82110089f0cde742a9d534ae3a7eab8cdab3d7d570fe35817326
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 14768, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zomiren SR, 1 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 578dd02de70f82110089f0cde742a9d534ae3a7eab8cdab3d7d570fe35817326 | fragment sha256 9c67d5c6445771f5c17b356131bd00f55ce6ca8816dc193ec4671594a48653bc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 14768, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zomiren SR, 1 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 578dd02de70f82110089f0cde742a9d534ae3a7eab8cdab3d7d570fe35817326 | fragment sha256 1c290930e32b4e33483cbee0496c3c8f8bc3bd9b9832acc7fe441535419f515d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 14768, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zomiren SR, 1 mg, Tabletki o zmodyfikowanym uwalnianiu | pobrano 2026-09-23 | dokument sha256 578dd02de70f82110089f0cde742a9d534ae3a7eab8cdab3d7d570fe35817326 | fragment sha256 26ede45afc9a91e823d461d0e1e23c022411a0375d1cb1cb71658cdb32fb80a7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Campral | 333 mg | Tabletki powlekane dojelitowe
+SUBSTANCJA: akamprozat
+NAZWA_HANDLOWA: Campral   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 333 mg
+POSTAC: Tabletki powlekane dojelitowe
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 07800   format KRAJOWA
+ID_REJESTRU: 100082236   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07800|id=100082236
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8223/characteristic
+SHA256: 7e62c76f6ca1725956a9003ec6c8410886bbb090a16128ceff15fbc0f991782e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07800, magazyn chpl/akamprozat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Campral, 333 mg, Tabletki powlekane dojelitowe | pobrano 2026-09-23 | dokument sha256 7e62c76f6ca1725956a9003ec6c8410886bbb090a16128ceff15fbc0f991782e | fragment sha256 09f174fa2506470da77850d3fd332a9244ec1dcfd4e421469f0e410656cd477c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07800, magazyn chpl/akamprozat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Campral, 333 mg, Tabletki powlekane dojelitowe | pobrano 2026-09-23 | dokument sha256 7e62c76f6ca1725956a9003ec6c8410886bbb090a16128ceff15fbc0f991782e | fragment sha256 ec535204d3cedf9ea699b1f24e0885c43d3c7a349d29ddf41bf3f1a8c7d65f81 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07800, magazyn chpl/akamprozat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Campral, 333 mg, Tabletki powlekane dojelitowe | pobrano 2026-09-23 | dokument sha256 7e62c76f6ca1725956a9003ec6c8410886bbb090a16128ceff15fbc0f991782e | fragment sha256 f0879f1c43b795a69c8c0677f1694c1674f28dc29fcff25edb88a136d0d4a76c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

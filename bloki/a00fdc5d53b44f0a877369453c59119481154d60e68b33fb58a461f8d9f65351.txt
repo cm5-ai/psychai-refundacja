@@ -1,0 +1,23 @@
+### Hydroxyzinum Espefa | 25 mg | Tabletki powlekane
+SUBSTANCJA: hydroksyzyna
+NAZWA_HANDLOWA: Hydroxyzinum Espefa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15087   format KRAJOWA
+ID_REJESTRU: 100175535   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15087|id=100175535
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17553/characteristic
+SHA256: f797a08c4cd7210e1f9d2ba89221c6a4ca4a07b3177c900f5d7b0fea5a7c01e9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15087, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Hydroxyzinum Espefa, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 f797a08c4cd7210e1f9d2ba89221c6a4ca4a07b3177c900f5d7b0fea5a7c01e9 | fragment sha256 48d3a43596318ea3bf2c1d63f99d27fd85fb9cdeb8262a90b306ee75c4dabe8d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15087, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Hydroxyzinum Espefa, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 f797a08c4cd7210e1f9d2ba89221c6a4ca4a07b3177c900f5d7b0fea5a7c01e9 | fragment sha256 68981ed385a2675eed6773395178ea07226f19a46a65714ed4d893de2cd5eb55 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15087, magazyn chpl/hydroksyzyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Hydroxyzinum Espefa, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 f797a08c4cd7210e1f9d2ba89221c6a4ca4a07b3177c900f5d7b0fea5a7c01e9 | fragment sha256 251c4d0eb496b932b77cac6ed0a178da2033ec19dbfc5723168e02510e350f25 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

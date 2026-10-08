@@ -1,0 +1,23 @@
+### Citabax 20 | 20 mg | Tabletki powlekane
+SUBSTANCJA: citalopram
+NAZWA_HANDLOWA: Citabax 20   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10916   format KRAJOWA
+ID_REJESTRU: 100199955   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10916|id=100199955
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19995/characteristic
+SHA256: 7011cab8c293b7ab0c45bbbae6cf8b7f603a63107ababea75e6ab981c96160b4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10916, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Citabax 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7011cab8c293b7ab0c45bbbae6cf8b7f603a63107ababea75e6ab981c96160b4 | fragment sha256 345bf4526bc8031b4b0726ab9e040bd71fff66ab84da8ae6e1572d9e022aeb07 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10916, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Citabax 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7011cab8c293b7ab0c45bbbae6cf8b7f603a63107ababea75e6ab981c96160b4 | fragment sha256 8172a59204265808958bfad1f5a8e6825ded46c7bdaedfe766dfec1e556c371c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10916, magazyn chpl/citalopram]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Citabax 20, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 7011cab8c293b7ab0c45bbbae6cf8b7f603a63107ababea75e6ab981c96160b4 | fragment sha256 1300583e4c6e5835be2283a28e78ba71528fe9d6c4359f1636fd8ab59fecdff9 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

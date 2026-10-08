@@ -1,0 +1,23 @@
+### Memantine Orion | 20 mg | Tabletki powlekane
+SUBSTANCJA: memantyna
+NAZWA_HANDLOWA: Memantine Orion   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 7, z GTIN 7
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 21349   format KRAJOWA
+ID_REJESTRU: 100301589   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21349|id=100301589
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30158/characteristic
+SHA256: 4e7d512bc8262bb4bb23ef9c078fe384fd1f5d33a384c070bef3e1817fabe7dc
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21349, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Memantine Orion, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4e7d512bc8262bb4bb23ef9c078fe384fd1f5d33a384c070bef3e1817fabe7dc | fragment sha256 fd9e0b8236f9b63cc7268f108d54205630c8c163b6133b45af511dc44e76ce52 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21349, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Memantine Orion, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4e7d512bc8262bb4bb23ef9c078fe384fd1f5d33a384c070bef3e1817fabe7dc | fragment sha256 917aea45924fd962eaa2bbe1748b5bb55514d1dd8af017b96d13ab83033936f7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21349, magazyn chpl/memantyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Memantine Orion, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 4e7d512bc8262bb4bb23ef9c078fe384fd1f5d33a384c070bef3e1817fabe7dc | fragment sha256 b703245305418bed2bc6d9116651eb942cda3e4a4d42243ceda6a667169a3ce1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

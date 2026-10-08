@@ -1,0 +1,23 @@
+### Bioxetin | 20 mg | Tabletki
+SUBSTANCJA: fluoksetyna
+NAZWA_HANDLOWA: Bioxetin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 03723   format KRAJOWA
+ID_REJESTRU: 100010768   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03723|id=100010768
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/1076/characteristic
+SHA256: e8be0e90852926347bfe5d402aece7e8ba3b44d04968627700b010b2e3728455
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03723, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Bioxetin, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e8be0e90852926347bfe5d402aece7e8ba3b44d04968627700b010b2e3728455 | fragment sha256 828f568f27b69d08fbdda4788bbd560e35a0595be959408aa79eaf8575b35b33 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03723, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Bioxetin, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e8be0e90852926347bfe5d402aece7e8ba3b44d04968627700b010b2e3728455 | fragment sha256 01660b953bedb1b1c2a7d055e812c50768eee6eafb81b8ad52cdca5e838cfbb3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03723, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Bioxetin, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e8be0e90852926347bfe5d402aece7e8ba3b44d04968627700b010b2e3728455 | fragment sha256 50b3680be76e0ddbb5dca49d88b6e81fd40e69850a572c279d5199541453f68d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

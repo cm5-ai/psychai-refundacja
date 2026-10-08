@@ -1,0 +1,23 @@
+### Morfeo | 10 mg | Kapsułki twarde
+SUBSTANCJA: zaleplon
+NAZWA_HANDLOWA: Morfeo   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10561   format KRAJOWA
+ID_REJESTRU: 100122792   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10561|id=100122792
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12279/characteristic
+SHA256: dc6d6eb9f39928029034a9f5910baeef888970d06a092f5175e91fee76e2f78a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10561, magazyn chpl/zaleplon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Morfeo, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 dc6d6eb9f39928029034a9f5910baeef888970d06a092f5175e91fee76e2f78a | fragment sha256 b034c6d48d6ee0c8d751382bbe7416121562b405782a39ec1c4091466c902b5d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10561, magazyn chpl/zaleplon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Morfeo, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 dc6d6eb9f39928029034a9f5910baeef888970d06a092f5175e91fee76e2f78a | fragment sha256 86cae497dfd0fb2f24f082ec2821e75d6af8b15490534a66c1feded35fd1e594 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10561, magazyn chpl/zaleplon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Morfeo, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 dc6d6eb9f39928029034a9f5910baeef888970d06a092f5175e91fee76e2f78a | fragment sha256 0f1a7b79b72beea9adec6f5974a6c0bd1080014b551f767c7feca535b9a99429 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

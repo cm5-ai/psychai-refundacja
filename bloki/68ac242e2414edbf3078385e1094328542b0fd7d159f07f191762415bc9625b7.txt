@@ -1,0 +1,23 @@
+### Masultab | 100 mg | Tabletki
+SUBSTANCJA: amisulpryd
+NAZWA_HANDLOWA: Masultab   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27480   format KRAJOWA
+ID_REJESTRU: 100436310   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27480|id=100436310
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43631/characteristic
+SHA256: a7d421716625e702ee4582744b85e3e302ca5ab2b03b4ca19c41603c54b6bd90
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27480, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Masultab, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a7d421716625e702ee4582744b85e3e302ca5ab2b03b4ca19c41603c54b6bd90 | fragment sha256 6d950f05e9ead1f6c8706eea3c1d42a8d0b0df14013e4f36da06a38e255d6dd0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27480, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Masultab, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a7d421716625e702ee4582744b85e3e302ca5ab2b03b4ca19c41603c54b6bd90 | fragment sha256 5d0026bcc613a0f9a3088d2f30bfd434108877a4dc873fc8e0f02a0ed9d63e79 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27480, magazyn chpl/amisulpryd]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Masultab, 100 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a7d421716625e702ee4582744b85e3e302ca5ab2b03b4ca19c41603c54b6bd90 | fragment sha256 a4ddaab2233e56b4118da5e556bb7955fee837e54ec7b889f3386259b419ce7d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

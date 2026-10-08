@@ -1,0 +1,17 @@
+### Exelon | 13,3 mg/24 h | System transdermalny, plaster
+SUBSTANCJA: riwastygmina
+NAZWA_HANDLOWA: Exelon   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 13,3 mg/24 h
+POSTAC: System transdermalny, plaster
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: BRAK ZAPISU W EKSPORCIE — nie znaczy bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: BRAK   format PUSTE   id_rejestru=100086501
+UWAGA_IDENTYFIKATORA: BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (4 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem
+ID_REJESTRU: 100086501   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: PUSTE|-|id=100086501
+DAWKOWANIE: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (4 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (4 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: BEZ_IDENTYFIKATORA — BRAK_IDENTYFIKATORA_W_EKSPORCIE — pole pozwolenie puste, w opakowaniach tez nie ma numeru unijnego (4 wartosci w nierozpoznanym formacie); rodzaj rejestracji NIEUSTALONY, dwa puste nie sa tym samym lekiem. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+

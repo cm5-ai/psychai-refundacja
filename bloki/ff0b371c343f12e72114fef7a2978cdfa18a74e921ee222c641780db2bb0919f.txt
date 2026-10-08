@@ -1,0 +1,23 @@
+### Misyo | 10 mg/ml | Koncentrat do sporządzania roztworu doustnego
+SUBSTANCJA: metadon
+NAZWA_HANDLOWA: Misyo   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg/ml
+POSTAC: Koncentrat do sporządzania roztworu doustnego
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21746   format KRAJOWA
+ID_REJESTRU: 100310068   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21746|id=100310068
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/31006/characteristic
+SHA256: 945804769c8f8cba7de1bb4e5d95307704f051f28570ef4570094babc62e7f3e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21746, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Misyo, 10 mg/ml, Koncentrat do sporządzania roztworu doustnego | pobrano 2026-09-23 | dokument sha256 945804769c8f8cba7de1bb4e5d95307704f051f28570ef4570094babc62e7f3e | fragment sha256 b85dd2b440d026c3bb164a73709e41b75122b12fe3646f86ebd53bc36f1abc82 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21746, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Misyo, 10 mg/ml, Koncentrat do sporządzania roztworu doustnego | pobrano 2026-09-23 | dokument sha256 945804769c8f8cba7de1bb4e5d95307704f051f28570ef4570094babc62e7f3e | fragment sha256 1a9e6b164043515e6f56be27e9bcf9d683065260cd248756b4826699a13bd0e5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21746, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Misyo, 10 mg/ml, Koncentrat do sporządzania roztworu doustnego | pobrano 2026-09-23 | dokument sha256 945804769c8f8cba7de1bb4e5d95307704f051f28570ef4570094babc62e7f3e | fragment sha256 c5713181138fc81355570c3e4c774a5a10f7fe052dbc2975ea1ab88cd60d6cf3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

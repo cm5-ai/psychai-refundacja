@@ -1,0 +1,23 @@
+### Anubes | 10 mg | Tabletki powlekane
+SUBSTANCJA: wortioksetyna
+NAZWA_HANDLOWA: Anubes   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2031-08-10
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29877   format KRAJOWA
+ID_REJESTRU: 100429540   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29877|id=100429540
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42954/characteristic
+SHA256: bbb6b28ec617fd9d212a473d215ed1ab7a20fd0e1f32d5460ac4ac0cec1ca1f8
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29877, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Anubes, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 bbb6b28ec617fd9d212a473d215ed1ab7a20fd0e1f32d5460ac4ac0cec1ca1f8 | fragment sha256 69049790ca16de31b9495a365f378c272804f8c6ee30db738507c7a808afcd7d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29877, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Anubes, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 bbb6b28ec617fd9d212a473d215ed1ab7a20fd0e1f32d5460ac4ac0cec1ca1f8 | fragment sha256 5ccf0bd0714384fd14149db92b978af0fb131c6cbf33dd8a6fe51d90759bb4a8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29877, magazyn chpl/wortioksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Anubes, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 bbb6b28ec617fd9d212a473d215ed1ab7a20fd0e1f32d5460ac4ac0cec1ca1f8 | fragment sha256 7ff8ffb7155dceda0b4d8033f16fa564758127154f73e4e689782bd29648c8de | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

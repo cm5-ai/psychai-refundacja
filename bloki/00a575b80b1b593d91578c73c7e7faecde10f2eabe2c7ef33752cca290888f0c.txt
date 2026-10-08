@@ -1,0 +1,23 @@
+### Atmina | 9,5 mg/24 h | System transdermalny, plaster
+SUBSTANCJA: riwastygmina
+NAZWA_HANDLOWA: Atmina   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 9,5 mg/24 h
+POSTAC: System transdermalny, plaster
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27610   format KRAJOWA
+ID_REJESTRU: 100471444   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27610|id=100471444
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47144/characteristic
+SHA256: c2792784d4e858f0330560ad9b5fe955759d0d8dfdbacc834ef47318f6f0dc46
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27610, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Atmina, 9,5 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 c2792784d4e858f0330560ad9b5fe955759d0d8dfdbacc834ef47318f6f0dc46 | fragment sha256 1b34a280334afab348567db06d93b2b9581a512d161e83fcd3a4cf9ed640442a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27610, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Atmina, 9,5 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 c2792784d4e858f0330560ad9b5fe955759d0d8dfdbacc834ef47318f6f0dc46 | fragment sha256 bc42060ed6883e2a78b9bac18be6ccd037dc55b7fb1d3f5713fa092452d719b0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27610, magazyn chpl/riwastygmina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Atmina, 9,5 mg/24 h, System transdermalny, plaster | pobrano 2026-09-23 | dokument sha256 c2792784d4e858f0330560ad9b5fe955759d0d8dfdbacc834ef47318f6f0dc46 | fragment sha256 d7a11e45b54ab200e27a873aa46806e5d1b5041b640c4db87b966d5d222c55b6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

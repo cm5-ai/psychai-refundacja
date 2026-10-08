@@ -1,0 +1,23 @@
+### Alprox | 1 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Alprox   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 18076   format KRAJOWA
+ID_REJESTRU: 100245402   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|18076|id=100245402
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24540/characteristic
+SHA256: 166b0a647cc3514756ae448568c56c129d6b0691d4896affb5451517f94bae58
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 18076, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Alprox, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 166b0a647cc3514756ae448568c56c129d6b0691d4896affb5451517f94bae58 | fragment sha256 51fbfc27940033a5d7677828f6285bc1c8cd9e8ca970a249a646300bb32f124e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 18076, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Alprox, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 166b0a647cc3514756ae448568c56c129d6b0691d4896affb5451517f94bae58 | fragment sha256 50989ee1376bc0eb255a9162d2895698072c9ab2688735aba8ae8f20bafd6684 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 18076, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Alprox, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 166b0a647cc3514756ae448568c56c129d6b0691d4896affb5451517f94bae58 | fragment sha256 9cba0f0240ce403dd3f011a46bc045c1b4ac54a2194ebe5aa0a1cebe06214a05 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

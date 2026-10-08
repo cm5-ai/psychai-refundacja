@@ -1,0 +1,23 @@
+### Lorabex | 2,5 mg | Tabletki
+SUBSTANCJA: lorazepam
+NAZWA_HANDLOWA: Lorabex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2,5 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25882   format KRAJOWA
+ID_REJESTRU: 100412604   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25882|id=100412604
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41260/characteristic
+SHA256: 9b5771939f7c3dfa934c710e1975805cae03304e93aedece0ced04d7ab00e0b7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25882, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lorabex, 2,5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9b5771939f7c3dfa934c710e1975805cae03304e93aedece0ced04d7ab00e0b7 | fragment sha256 018d6ad6d9a2799bbff9aca7f9785be83b621258b11f9eaadaac6c910304bc32 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25882, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lorabex, 2,5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9b5771939f7c3dfa934c710e1975805cae03304e93aedece0ced04d7ab00e0b7 | fragment sha256 2b34b846bb07305136417907975031219ee239006684095a0ea6c194754719ce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25882, magazyn chpl/lorazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lorabex, 2,5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 9b5771939f7c3dfa934c710e1975805cae03304e93aedece0ced04d7ab00e0b7 | fragment sha256 9a6dc2dcf4f318b1a3dea8619e48449e3a9928b3f2bc9834c6c4afaf9eb3fca8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

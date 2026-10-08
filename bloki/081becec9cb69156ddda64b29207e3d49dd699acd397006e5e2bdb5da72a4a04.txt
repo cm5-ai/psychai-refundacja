@@ -1,0 +1,23 @@
+### Zolaxa | 15 mg | Tabletki powlekane
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Zolaxa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 15 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 17752   format KRAJOWA
+ID_REJESTRU: 100242830   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17752|id=100242830
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/24283/characteristic
+SHA256: 3d42369ff5e50e2b15e1023fbcc739013a4db9471bf287110ae3f4f13e254744
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17752, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zolaxa, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3d42369ff5e50e2b15e1023fbcc739013a4db9471bf287110ae3f4f13e254744 | fragment sha256 714daba9ca1b4dfff1cf820a98e9139999dd3f562f82b3612d3896f2e8809201 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17752, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zolaxa, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3d42369ff5e50e2b15e1023fbcc739013a4db9471bf287110ae3f4f13e254744 | fragment sha256 0864288f5bf1c9888ec76d89e7bc51d5d3246e5397721d0733c6e52acb2e1e91 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17752, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zolaxa, 15 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 3d42369ff5e50e2b15e1023fbcc739013a4db9471bf287110ae3f4f13e254744 | fragment sha256 c3ee5cf8d84bc07947ae1381c82e31eae2a0c39b60d5606fda886cadb7496c3c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

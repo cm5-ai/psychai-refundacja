@@ -1,0 +1,23 @@
+### Miravil | 100 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Miravil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 17132   format KRAJOWA
+ID_REJESTRU: 100232670   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17132|id=100232670
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23267/characteristic
+SHA256: 223a18a0ff88eada2a9e3c8b047b1f3b5c675dde50f2522ec868ccf640ce095e
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17132, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Miravil, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 223a18a0ff88eada2a9e3c8b047b1f3b5c675dde50f2522ec868ccf640ce095e | fragment sha256 223788888e0c13977946704dfd04f1438c91724c4d4e82f9d0e98c0388ad0dd4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17132, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Miravil, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 223a18a0ff88eada2a9e3c8b047b1f3b5c675dde50f2522ec868ccf640ce095e | fragment sha256 2ba98ba4716576adae84092b8e3be833b4972148c6c08c7c82b9a6f9a97e0e57 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17132, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Miravil, 100 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 223a18a0ff88eada2a9e3c8b047b1f3b5c675dde50f2522ec868ccf640ce095e | fragment sha256 a585933e600437dadd6c6f486b1666d6ff226ef561b364b4640161fe2dd924b1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

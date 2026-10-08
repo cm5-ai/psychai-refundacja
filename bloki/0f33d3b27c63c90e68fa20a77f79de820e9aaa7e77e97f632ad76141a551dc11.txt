@@ -1,0 +1,23 @@
+### Palifren Long | 100 mg / 150 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Palifren Long   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg / 150 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2027-07-13
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27166   format KRAJOWA
+ID_REJESTRU: 100435090   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27166|id=100435090
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43509/characteristic
+SHA256: 35054fa9a6e5d13e52494a41cc57f433bcdae0574f1a893670ac3d78f72e6ba6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27166, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Palifren Long, 100 mg / 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 35054fa9a6e5d13e52494a41cc57f433bcdae0574f1a893670ac3d78f72e6ba6 | fragment sha256 20c62e4cbe5967c6c071bea4ba5c4f9ce4020ac0e864f257cbe7e7024d93256a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27166, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Palifren Long, 100 mg / 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 35054fa9a6e5d13e52494a41cc57f433bcdae0574f1a893670ac3d78f72e6ba6 | fragment sha256 34ab2f2d5bc7ecc92c6e8fca3c2806e5f3698a290fa7332cea594d65a6d926eb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27166, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Palifren Long, 100 mg / 150 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu w ampułko-strzykawce | pobrano 2026-09-23 | dokument sha256 35054fa9a6e5d13e52494a41cc57f433bcdae0574f1a893670ac3d78f72e6ba6 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

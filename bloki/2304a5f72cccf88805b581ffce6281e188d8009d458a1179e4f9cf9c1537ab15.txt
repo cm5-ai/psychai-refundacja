@@ -1,0 +1,22 @@
+### Olpinat | 5 mg | Tabletki powlekane
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Olpinat   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 16755   format KRAJOWA
+ID_REJESTRU: 100227404   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|16755|id=100227404
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/22740/characteristic
+SHA256: e94bd40a5c0774b3214dff9f1841ae40c47580da58dcd8e2c7aef3e609db8e7a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA: BRAK_FRAGMENTU_W_SPRAWDZONYM_ZRODLE — dokument jest przypisany, punktu 4.1 w nim nie ma.
+DAWKOWANIE [ChPL 4.2, pozwolenie 16755, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Olpinat, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e94bd40a5c0774b3214dff9f1841ae40c47580da58dcd8e2c7aef3e609db8e7a | fragment sha256 5ff9151e8dc69d9900c1328777e645ab737f6398665c8b71ca0c910c081d0c0b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 16755, magazyn chpl/olanzapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Olpinat, 5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e94bd40a5c0774b3214dff9f1841ae40c47580da58dcd8e2c7aef3e609db8e7a | fragment sha256 a135321d72403f89b0cbc0caafd9a423562a0566e55a02ca8ec68dd27c243222 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Arketis tabletki 20 mg | 20 mg | Tabletki
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: Arketis tabletki 20 mg   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 10, z GTIN 10
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12829   format KRAJOWA
+ID_REJESTRU: 100176090   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12829|id=100176090
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17609/characteristic
+SHA256: 55a771d4ff632c70dfa30e229e47643f38a966b894c10d9fd8a988545b0f1167
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12829, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Arketis tabletki 20 mg, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 55a771d4ff632c70dfa30e229e47643f38a966b894c10d9fd8a988545b0f1167 | fragment sha256 3d96083ca29d5642472f043229d355fc7cc1b5ee6a0f8d56c13cc42ea6d32d1f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12829, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Arketis tabletki 20 mg, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 55a771d4ff632c70dfa30e229e47643f38a966b894c10d9fd8a988545b0f1167 | fragment sha256 b84938e0b959a37efc14340971a80e835fc3bc7905033e0557f0e85504cd5b5f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12829, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Arketis tabletki 20 mg, 20 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 55a771d4ff632c70dfa30e229e47643f38a966b894c10d9fd8a988545b0f1167 | fragment sha256 41f6a17400a9b52141e6b047f5da5d166c8131d0bb30674c5e87f5fda0f5440e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

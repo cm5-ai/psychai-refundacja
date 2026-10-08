@@ -1,0 +1,23 @@
+### Serdolect | 4 mg | Tabletki powlekane
+SUBSTANCJA: sertindol
+NAZWA_HANDLOWA: Serdolect   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 4 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10892   format KRAJOWA
+ID_REJESTRU: 100128464   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10892|id=100128464
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12846/characteristic
+SHA256: d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10892, magazyn chpl/sertindol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Serdolect, 4 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36 | fragment sha256 75db19878895cc22ab2bf64c8b7c9bbdcacce1d00a0a56603d91a7680d6dec5e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10892, magazyn chpl/sertindol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Serdolect, 4 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36 | fragment sha256 dc5ba2668eb1af3c99e6a1196aca322cfa49c53b286e481127db8c77ca0fa215 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10892, magazyn chpl/sertindol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Serdolect, 4 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 d63088630ffa93bdcd8a75e13d037e4b60cb6ced98ff81dd23a27fbe6ed61f36 | fragment sha256 4fe1ef2fd6b08cefa15ba0fcd422444a3cd13035eddd44a3cacc8953f909c3ec | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

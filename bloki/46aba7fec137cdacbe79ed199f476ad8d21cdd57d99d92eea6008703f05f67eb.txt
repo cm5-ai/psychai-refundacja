@@ -1,0 +1,23 @@
+### Sertagen | 50 mg | Tabletki powlekane
+SUBSTANCJA: sertralina
+NAZWA_HANDLOWA: Sertagen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12839   format KRAJOWA
+ID_REJESTRU: 100176003   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12839|id=100176003
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17600/characteristic
+SHA256: af6b654c92de6d47a3b8578e2f6c9596458be6b7f1bd3a31607a8687851f5d9b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12839, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sertagen, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 af6b654c92de6d47a3b8578e2f6c9596458be6b7f1bd3a31607a8687851f5d9b | fragment sha256 52e3fce86a8f72f7281ace854b9b40781527437055283267dbe796ef2369e797 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12839, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sertagen, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 af6b654c92de6d47a3b8578e2f6c9596458be6b7f1bd3a31607a8687851f5d9b | fragment sha256 73041b7c7c3bdda8e42b90555759b8e8ab99e555d9a45420bbbcb72e0e5a36ab | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12839, magazyn chpl/sertralina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sertagen, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 af6b654c92de6d47a3b8578e2f6c9596458be6b7f1bd3a31607a8687851f5d9b | fragment sha256 024479df00398724960ad2f0537b4d5bb3f62bdac0a657098c772838e2cc70ea | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

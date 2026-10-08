@@ -1,0 +1,23 @@
+### Midazolam Accord | 5 mg/ml | Roztwór do wstrzykiwań lub infuzji
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Midazolam Accord   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań lub infuzji
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15694   format KRAJOWA
+ID_REJESTRU: 100213425   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15694|id=100213425
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21342/characteristic
+SHA256: d5d0715135a1ca0d07d87056af11630a9257bd1f9a942012d4c8b279cfbe8754
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15694, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Midazolam Accord, 5 mg/ml, Roztwór do wstrzykiwań lub infuzji | pobrano 2026-09-23 | dokument sha256 d5d0715135a1ca0d07d87056af11630a9257bd1f9a942012d4c8b279cfbe8754 | fragment sha256 9bf39ef464ccb826e522cd0e979646b5f901f48bd000d4129053e02653201354 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15694, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Midazolam Accord, 5 mg/ml, Roztwór do wstrzykiwań lub infuzji | pobrano 2026-09-23 | dokument sha256 d5d0715135a1ca0d07d87056af11630a9257bd1f9a942012d4c8b279cfbe8754 | fragment sha256 78f03d099c63966824a92c68932f19e6edebcb9be63761339d7b54de4dd55705 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15694, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Midazolam Accord, 5 mg/ml, Roztwór do wstrzykiwań lub infuzji | pobrano 2026-09-23 | dokument sha256 d5d0715135a1ca0d07d87056af11630a9257bd1f9a942012d4c8b279cfbe8754 | fragment sha256 a029ab36ebd96a496afcd51092a51a969b276c271df31bad3ec86fe2deb9f308 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

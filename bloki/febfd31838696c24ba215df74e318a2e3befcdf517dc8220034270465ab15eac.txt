@@ -1,0 +1,23 @@
+### Kamaptin | 80 mg | Kapsułki twarde
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Kamaptin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 80 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-01-24
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 28829   format KRAJOWA
+ID_REJESTRU: 100430938   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|28829|id=100430938
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43093/characteristic
+SHA256: cf419716e185f3dfb703bb122d86c029d1b71c7047f470e6702762c46e087199
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 28829, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Kamaptin, 80 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 cf419716e185f3dfb703bb122d86c029d1b71c7047f470e6702762c46e087199 | fragment sha256 6868488af5bccdbd5ccc1b33927c82f10f04848e3b981e3ec734c5760325f728 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 28829, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Kamaptin, 80 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 cf419716e185f3dfb703bb122d86c029d1b71c7047f470e6702762c46e087199 | fragment sha256 a16b66e30558ed8c39f013e3b39a30794e4ad8905451c046f2cef6d1c9565e28 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 28829, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Kamaptin, 80 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 cf419716e185f3dfb703bb122d86c029d1b71c7047f470e6702762c46e087199 | fragment sha256 4595273a3aee8d082c32610f29877a6f7e19db6645c2778892b31fe16bedc4e3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

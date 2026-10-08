@@ -1,0 +1,23 @@
+### Midanium | 5 mg/ml | Roztwór do wstrzykiwań
+SUBSTANCJA: midazolam
+NAZWA_HANDLOWA: Midanium   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/ml
+POSTAC: Roztwór do wstrzykiwań
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 04248   format KRAJOWA
+ID_REJESTRU: 100093808   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|04248|id=100093808
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9380/characteristic
+SHA256: 8452b97889a6ce1b2268bf8075517de9d10744d898c7d21b9ed47816e87c51e6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 04248, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Midanium, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 8452b97889a6ce1b2268bf8075517de9d10744d898c7d21b9ed47816e87c51e6 | fragment sha256 7dc6f73600e5c1c0e8fcf411d2c6b9f7bebda8c647b2bec3926c71316436d109 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 04248, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Midanium, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 8452b97889a6ce1b2268bf8075517de9d10744d898c7d21b9ed47816e87c51e6 | fragment sha256 93a9d5e0fe2f3c02d3946b5c00f9f506696217e8b182bfefb45e21ab209fccbc | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 04248, magazyn chpl/midazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Midanium, 5 mg/ml, Roztwór do wstrzykiwań | pobrano 2026-09-23 | dokument sha256 8452b97889a6ce1b2268bf8075517de9d10744d898c7d21b9ed47816e87c51e6 | fragment sha256 83f38c81ab36defc933f9a4de4d1168ce4241e4d18aa2b27d40b26bf2768dae8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

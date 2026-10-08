@@ -1,0 +1,23 @@
+### Relanium | 2 mg | Tabletki
+SUBSTANCJA: diazepam
+NAZWA_HANDLOWA: Relanium   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 2 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 01495   format KRAJOWA
+ID_REJESTRU: 100057770   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|01495|id=100057770
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/5777/characteristic
+SHA256: 7150c8c8fe7ea08399408f9b437011ea696ac54fed3aa4056cbfe83fc3a6d100
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 01495, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Relanium, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7150c8c8fe7ea08399408f9b437011ea696ac54fed3aa4056cbfe83fc3a6d100 | fragment sha256 9b555ecd971371ab5e080002b00ce9a844b9ccccd2d5e2f4a8301360b5ff170e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 01495, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Relanium, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7150c8c8fe7ea08399408f9b437011ea696ac54fed3aa4056cbfe83fc3a6d100 | fragment sha256 99af4bc10a1b9ce4606120b43a92f347c288eb4f0030ceefd5ed3db14fe14770 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 01495, magazyn chpl/diazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Relanium, 2 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7150c8c8fe7ea08399408f9b437011ea696ac54fed3aa4056cbfe83fc3a6d100 | fragment sha256 a5a064110a21311119725a1b6db71ee20305e1db0f7b60d1c647a8e5c638aab0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

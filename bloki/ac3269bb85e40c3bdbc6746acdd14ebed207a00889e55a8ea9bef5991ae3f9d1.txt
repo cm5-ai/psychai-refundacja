@@ -1,0 +1,23 @@
+### Quetiapine Aurovitas | 200 mg | Tabletki powlekane
+SUBSTANCJA: kwetiapina
+NAZWA_HANDLOWA: Quetiapine Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2028-08-01
+OPAKOWANIA_W_EKSPORCIE: 16, z GTIN 16
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27915   format KRAJOWA
+ID_REJESTRU: 100451397   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27915|id=100451397
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45139/characteristic
+SHA256: 1f4f6be6abff101b3e9663a091821e4662531ebee2445bf09ec6c4a7ba282f8a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27915, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Quetiapine Aurovitas, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 1f4f6be6abff101b3e9663a091821e4662531ebee2445bf09ec6c4a7ba282f8a | fragment sha256 dc6480e93fdd0c460df33d1d23e44a633d000e9cf6a981255bf8c703b929a6fe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27915, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Quetiapine Aurovitas, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 1f4f6be6abff101b3e9663a091821e4662531ebee2445bf09ec6c4a7ba282f8a | fragment sha256 180a0f09acab4c08d479e09a6d345752fe9a26cbe2f0d2d12f05380be5c2ecfd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27915, magazyn chpl/kwetiapina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Quetiapine Aurovitas, 200 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 1f4f6be6abff101b3e9663a091821e4662531ebee2445bf09ec6c4a7ba282f8a | fragment sha256 b242012fe64f138401a3623b045e959b74ca303d3bd671aca7c606b52e36be5d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

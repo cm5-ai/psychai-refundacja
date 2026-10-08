@@ -1,0 +1,23 @@
+### Tegretol | 20 mg/ml | Zawiesina doustna
+SUBSTANCJA: karbamazepina
+NAZWA_HANDLOWA: Tegretol   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg/ml
+POSTAC: Zawiesina doustna
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 03419   format KRAJOWA
+ID_REJESTRU: 100065947   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03419|id=100065947
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/6594/characteristic
+SHA256: 7c14cd7f762cb667736dd85a56fda885691eb631236e4feb198f95d1017d3725
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03419, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Tegretol, 20 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 7c14cd7f762cb667736dd85a56fda885691eb631236e4feb198f95d1017d3725 | fragment sha256 f1268e12809a6578fc05dc80b1c537acabf54ea60147a907483640eab8425f11 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03419, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Tegretol, 20 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 7c14cd7f762cb667736dd85a56fda885691eb631236e4feb198f95d1017d3725 | fragment sha256 fbd82ad5bb3b06ceecfbe9f739ed45e61099bcd3d86326a1b4786b5ca5575e23 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03419, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Tegretol, 20 mg/ml, Zawiesina doustna | pobrano 2026-09-23 | dokument sha256 7c14cd7f762cb667736dd85a56fda885691eb631236e4feb198f95d1017d3725 | fragment sha256 872234e4a39be83f2563dfa0f4e5505794386d25adf280a39f931a16ea19eefe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

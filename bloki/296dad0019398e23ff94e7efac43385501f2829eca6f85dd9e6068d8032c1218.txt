@@ -1,0 +1,23 @@
+### Neurotop retard 300 | 300 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: karbamazepina
+NAZWA_HANDLOWA: Neurotop retard 300   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 02445   format KRAJOWA
+ID_REJESTRU: 100047116   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|02445|id=100047116
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/4711/characteristic
+SHA256: f44d841c93f65c8fd4b25152c49dd1ee2acc3a7968edbb31c8c484fe7adbf02a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 02445, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Neurotop retard 300, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 f44d841c93f65c8fd4b25152c49dd1ee2acc3a7968edbb31c8c484fe7adbf02a | fragment sha256 26caf6384d41264d3db326e36b70584f91ae3d22c11dbb3b727bceaf2f011d1d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 02445, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Neurotop retard 300, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 f44d841c93f65c8fd4b25152c49dd1ee2acc3a7968edbb31c8c484fe7adbf02a | fragment sha256 98b0f97a3461ce389b7193540f0b2cdce6d91e29819c20917ef8a95146ab296c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 02445, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Neurotop retard 300, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 f44d841c93f65c8fd4b25152c49dd1ee2acc3a7968edbb31c8c484fe7adbf02a | fragment sha256 056f59dd4aead455638f93aaa7789da6584b721f2841dff03fe94dc6bf2bb512 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

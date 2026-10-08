@@ -1,0 +1,23 @@
+### Convulex | 50 mg/ml | Syrop
+SUBSTANCJA: walproinian
+NAZWA_HANDLOWA: Convulex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg/ml
+POSTAC: Syrop
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 00239   format KRAJOWA
+ID_REJESTRU: 100204490   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|00239|id=100204490
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20449/characteristic
+SHA256: 14ed107a116b1257cd1d9620a7893633e8cba5f69822921c3c272925e46e5683
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 00239, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Convulex, 50 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 14ed107a116b1257cd1d9620a7893633e8cba5f69822921c3c272925e46e5683 | fragment sha256 310c3476bbb851f4157c3948b93127947a24f500876971160ad48ce750e36e8c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00239, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Convulex, 50 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 14ed107a116b1257cd1d9620a7893633e8cba5f69822921c3c272925e46e5683 | fragment sha256 819fd1cd9df8e99b6d496adb9cc7f383945d2c6ec6b2050b7b2e38a2077d4828 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00239, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Convulex, 50 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 14ed107a116b1257cd1d9620a7893633e8cba5f69822921c3c272925e46e5683 | fragment sha256 9b739f475cfacbbf9707a6f6224832261ac3f7e27a9e82c7a61e5ff1d2cdb809 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Karbagen | 150 mg | Tabletki powlekane
+SUBSTANCJA: okskarbazepina
+NAZWA_HANDLOWA: Karbagen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 150 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12892   format KRAJOWA
+ID_REJESTRU: 100176546   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12892|id=100176546
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17654/characteristic
+SHA256: ae09078a5085b87f48107f32046905daae6cf72480ad2169df2444b4013b2ffc
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12892, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Karbagen, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ae09078a5085b87f48107f32046905daae6cf72480ad2169df2444b4013b2ffc | fragment sha256 5c30fc62c15903323ce290c41947e86a72d292d0f9e52ee316d5e56a300d3681 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12892, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Karbagen, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ae09078a5085b87f48107f32046905daae6cf72480ad2169df2444b4013b2ffc | fragment sha256 cb4197534b3a3980e30bf3bb56ef8d1e889029f10863052d14e0ae17b70afb95 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12892, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Karbagen, 150 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 ae09078a5085b87f48107f32046905daae6cf72480ad2169df2444b4013b2ffc | fragment sha256 722946e5e0a8e015d96e3ae3ccefc5cabf3807bf9903d8adc1e171b2d32db639 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

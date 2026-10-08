@@ -1,0 +1,23 @@
+### Lamitrin | 25 mg | Tabletki
+SUBSTANCJA: lamotrygina
+NAZWA_HANDLOWA: Lamitrin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 8, z GTIN 8
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 03548   format KRAJOWA
+ID_REJESTRU: 100036667   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|03548|id=100036667
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/3666/characteristic
+SHA256: d5223495cbf342b2dc96bc541fa70ae3a1b4b9f280464ebd6dc3c0f776c63240
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 03548, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Lamitrin, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d5223495cbf342b2dc96bc541fa70ae3a1b4b9f280464ebd6dc3c0f776c63240 | fragment sha256 720d0fcb3d96000796d3885612d487821f749640f2faa07dd7cc3c9d78bcbabe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 03548, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Lamitrin, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d5223495cbf342b2dc96bc541fa70ae3a1b4b9f280464ebd6dc3c0f776c63240 | fragment sha256 c6bc6203161102e47f919ac1a282b6d0ea3b5b81a95500ecf5b248634c84cc63 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 03548, magazyn chpl/lamotrygina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Lamitrin, 25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 d5223495cbf342b2dc96bc541fa70ae3a1b4b9f280464ebd6dc3c0f776c63240 | fragment sha256 d737090c3de8606a5dd15589f1cc15c889f84871ca0b4f5466c6ecfd24585b12 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

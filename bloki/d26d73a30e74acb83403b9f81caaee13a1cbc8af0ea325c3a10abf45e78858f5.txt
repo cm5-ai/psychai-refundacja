@@ -1,0 +1,23 @@
+### Dulsevia | 30 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Dulsevia   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 30 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 9, z GTIN 9
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 22462   format KRAJOWA
+ID_REJESTRU: 100341175   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|22462|id=100341175
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34117/characteristic
+SHA256: a7cb69c67ac7253a774b42cfedb1ecab44daff2df72c7045860d25eba6254d59
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 22462, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Dulsevia, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 a7cb69c67ac7253a774b42cfedb1ecab44daff2df72c7045860d25eba6254d59 | fragment sha256 883ce6b0844dc3116202e13f628bd8a743b64057991aa2566b639ada8ddd44f1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 22462, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Dulsevia, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 a7cb69c67ac7253a774b42cfedb1ecab44daff2df72c7045860d25eba6254d59 | fragment sha256 2f25a8c20fcf55420265f29f7af7d46b602f6181fc0ef4abfae4c53eff3c487b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 22462, magazyn chpl/duloksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Dulsevia, 30 mg, Kapsułki dojelitowe, twarde | pobrano 2026-09-23 | dokument sha256 a7cb69c67ac7253a774b42cfedb1ecab44daff2df72c7045860d25eba6254d59 | fragment sha256 8de05072aed6b0fbf82743289c4e050206d3a07561758bd1545e55ec163acaf7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

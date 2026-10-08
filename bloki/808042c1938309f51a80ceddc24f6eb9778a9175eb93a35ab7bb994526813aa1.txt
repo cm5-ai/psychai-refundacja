@@ -1,0 +1,23 @@
+### Oxepilax | 600 mg | Tabletki
+SUBSTANCJA: okskarbazepina
+NAZWA_HANDLOWA: Oxepilax   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 600 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21093   format KRAJOWA
+ID_REJESTRU: 100297184   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21093|id=100297184
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/29718/characteristic
+SHA256: 7382fa50e6b7dc1de9ada4ba4202544d727f26c54962120c8fe83a3374740f5b
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 21093, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oxepilax, 600 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7382fa50e6b7dc1de9ada4ba4202544d727f26c54962120c8fe83a3374740f5b | fragment sha256 63294b04d1fa5e787e429f5bcc37228872ef95c36cc053d408e5dca35cd1026d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 21093, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oxepilax, 600 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7382fa50e6b7dc1de9ada4ba4202544d727f26c54962120c8fe83a3374740f5b | fragment sha256 9bc616311bd7bbdd6b79940bcac24167987c382eec68f2123221b3aa980c2c69 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 21093, magazyn chpl/okskarbazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oxepilax, 600 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7382fa50e6b7dc1de9ada4ba4202544d727f26c54962120c8fe83a3374740f5b | fragment sha256 75c8387660797c391cad8abe9b08d2a720d60389100e29050a34f91486a7894b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

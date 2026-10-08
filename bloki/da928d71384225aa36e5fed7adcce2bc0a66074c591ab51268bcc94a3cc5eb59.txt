@@ -1,0 +1,23 @@
+### Alpraxil | 0,5 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Alpraxil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,5 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2028-04-11
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27768   format KRAJOWA
+ID_REJESTRU: 100438845   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27768|id=100438845
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/43884/characteristic
+SHA256: e79c6999725c69e9f89d8ddd19852fbd9938657cc24df32322c194fecb07d16c
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27768, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Alpraxil, 0,5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e79c6999725c69e9f89d8ddd19852fbd9938657cc24df32322c194fecb07d16c | fragment sha256 172245635779fd37e6143b70e319b7187b524f53d9dec5635f8854ff0d7ca64e | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27768, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Alpraxil, 0,5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e79c6999725c69e9f89d8ddd19852fbd9938657cc24df32322c194fecb07d16c | fragment sha256 0f412c51474e26b59e303ac0a4493e66ee342cc6b76aaa3b305f8920aa27699c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27768, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Alpraxil, 0,5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 e79c6999725c69e9f89d8ddd19852fbd9938657cc24df32322c194fecb07d16c | fragment sha256 fcd58846e02b46409b89b4db70f4bb36b99e347d66c1a67fbfd94f478f47372a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

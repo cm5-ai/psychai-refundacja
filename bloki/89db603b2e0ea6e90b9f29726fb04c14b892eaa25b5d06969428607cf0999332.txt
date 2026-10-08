@@ -1,0 +1,23 @@
+### Oritop | 50 mg | Tabletki powlekane
+SUBSTANCJA: topiramat
+NAZWA_HANDLOWA: Oritop   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15633   format KRAJOWA
+ID_REJESTRU: 100212644   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15633|id=100212644
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21264/characteristic
+SHA256: e3f5070121006e477f63ef155b3cf70727fa85b395581b141e3d039077d54fcd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15633, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Oritop, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e3f5070121006e477f63ef155b3cf70727fa85b395581b141e3d039077d54fcd | fragment sha256 f1453516765754a54e05cba0182b3379e4e9cae169e84bbc2dd8b729b6677766 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15633, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Oritop, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e3f5070121006e477f63ef155b3cf70727fa85b395581b141e3d039077d54fcd | fragment sha256 bbabbae72bcbeb4641e96bbae221d4664441c61ac5ecad01c2b73c237d231692 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15633, magazyn chpl/topiramat]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Oritop, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 e3f5070121006e477f63ef155b3cf70727fa85b395581b141e3d039077d54fcd | fragment sha256 384ab76c3b7f168b3a90c7e4214cb2a82ad00bdffe24894a61074c6935667ce5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

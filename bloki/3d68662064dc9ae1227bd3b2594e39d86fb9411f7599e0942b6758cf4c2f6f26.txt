@@ -1,0 +1,23 @@
+### Memorion | 10 mg | Tabletki powlekane
+SUBSTANCJA: donepezil
+NAZWA_HANDLOWA: Memorion   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25337   format KRAJOWA
+ID_REJESTRU: 100396348   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25337|id=100396348
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39634/characteristic
+SHA256: 8f04eb5cc17d83cbbddb8d494ce79522d21e34f14faa4955095699a7dbb62db6
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25337, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Memorion, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8f04eb5cc17d83cbbddb8d494ce79522d21e34f14faa4955095699a7dbb62db6 | fragment sha256 320ecf76a07d22a02db27f68d21540ff70fbc6b0f810f98295b643a230f1c675 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25337, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Memorion, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8f04eb5cc17d83cbbddb8d494ce79522d21e34f14faa4955095699a7dbb62db6 | fragment sha256 d71d9670e003deaed84996b67bcb78bb027d7d40e47a45e5e4b17a4d0820e481 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25337, magazyn chpl/donepezil]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Memorion, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8f04eb5cc17d83cbbddb8d494ce79522d21e34f14faa4955095699a7dbb62db6 | fragment sha256 32b60ccaaa8ae38b72fd2b833073fe9ca42db7a8125290bdcbee06a5163993d4 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Afobam | 1 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Afobam   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 09084   format KRAJOWA
+ID_REJESTRU: 100105144   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|09084|id=100105144
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/10514/characteristic
+SHA256: 7b99919b01a4796b9ad53295d026b1138971f705f2a38c4cfb2ae4e1d5fe5394
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 09084, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Afobam, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7b99919b01a4796b9ad53295d026b1138971f705f2a38c4cfb2ae4e1d5fe5394 | fragment sha256 5e247109adea6c2d8f0b534909f961180a86941593398fbcb8afc7e7414a9072 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 09084, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Afobam, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7b99919b01a4796b9ad53295d026b1138971f705f2a38c4cfb2ae4e1d5fe5394 | fragment sha256 255a39514dce27fdb281a4106b5fd238258e6b1c52977346257a57ca1e4edc33 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 09084, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Afobam, 1 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 7b99919b01a4796b9ad53295d026b1138971f705f2a38c4cfb2ae4e1d5fe5394 | fragment sha256 c9e190399879160637562ce88379992fe24b97f5472d4f36eaeca8481eb487ce | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

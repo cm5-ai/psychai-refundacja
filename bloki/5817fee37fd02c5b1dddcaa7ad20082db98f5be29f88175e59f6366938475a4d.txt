@@ -1,0 +1,23 @@
+### Diphergan | 5 mg/5 ml | Syrop
+SUBSTANCJA: prometazyna
+NAZWA_HANDLOWA: Diphergan   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg/5 ml
+POSTAC: Syrop
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 08046   format KRAJOWA
+ID_REJESTRU: 100082495   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08046|id=100082495
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8249/characteristic
+SHA256: b4874f98f7464943335564c8ac8b847e6a5843dc04c8035cc1246a20939227d1
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08046, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Diphergan, 5 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 b4874f98f7464943335564c8ac8b847e6a5843dc04c8035cc1246a20939227d1 | fragment sha256 49d290ed9a200e91935b11f0216a906d3382bf59c9638bebf3630af495399a8f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08046, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Diphergan, 5 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 b4874f98f7464943335564c8ac8b847e6a5843dc04c8035cc1246a20939227d1 | fragment sha256 505bb3caad0be0ce8db255157f7883e529ed1b3a236928e10eb6d488c036200d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08046, magazyn chpl/prometazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Diphergan, 5 mg/5 ml, Syrop | pobrano 2026-09-23 | dokument sha256 b4874f98f7464943335564c8ac8b847e6a5843dc04c8035cc1246a20939227d1 | fragment sha256 c20e8935029f91558c78b433ab2c50fad0d1c03a872afc879668322fde44e92d | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

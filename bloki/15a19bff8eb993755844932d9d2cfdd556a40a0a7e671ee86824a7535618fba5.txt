@@ -1,0 +1,19 @@
+### Dulsevia | 60 mg | Kapsułki dojelitowe, twarde
+SUBSTANCJA: duloksetyna
+NAZWA_HANDLOWA: Dulsevia   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 60 mg
+POSTAC: Kapsułki dojelitowe, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2028-05-29
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 093/23   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100483686   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|093/23|id=100483686
+WSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: W magazynie lezy dokument o tej samej nazwie, mocy i postaci, ale nic nie wiaze go z ta rejestracja, bo zgodnosc nazwy jest podobienstwem, nie rownoscia identyfikatora, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+KANDYDAT_DO_SPRAWDZENIA: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34118/characteristic
+

@@ -1,0 +1,23 @@
+### Abilium | 10 mg | Kapsułki twarde
+SUBSTANCJA: arypiprazol
+NAZWA_HANDLOWA: Abilium   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25686   format KRAJOWA
+ID_REJESTRU: 100329760   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25686|id=100329760
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/32976/characteristic
+SHA256: bc428e37cd9386e8cda863a947bb0d726172d4239d3004b99138833dda5cd5f5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25686, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Abilium, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 bc428e37cd9386e8cda863a947bb0d726172d4239d3004b99138833dda5cd5f5 | fragment sha256 09d279d482d97e3d65a4d196e7c810cdb65a1ed8fa62c7f10d046d0a1ff82c5f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25686, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Abilium, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 bc428e37cd9386e8cda863a947bb0d726172d4239d3004b99138833dda5cd5f5 | fragment sha256 41e3f0f5f57bddd98e8a7038aa106325349e0a2fd157f6165daf13ac55559845 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25686, magazyn chpl/arypiprazol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Abilium, 10 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 bc428e37cd9386e8cda863a947bb0d726172d4239d3004b99138833dda5cd5f5 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Naltex | 50 mg | Tabletki powlekane
+SUBSTANCJA: naltrekson
+NAZWA_HANDLOWA: Naltex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 50 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 6, z GTIN 6
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 17612   format KRAJOWA
+ID_REJESTRU: 100237696   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|17612|id=100237696
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23769/characteristic
+SHA256: daeaeb8e4fcc8f048838ec273e48b85db05ba87ff9cdfef0888db8a0a7fd4c37
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 17612, magazyn chpl/naltrekson]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Naltex, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 daeaeb8e4fcc8f048838ec273e48b85db05ba87ff9cdfef0888db8a0a7fd4c37 | fragment sha256 64c739c552dd159928440e9186c9aafaf315809baab222ce2a0f6cb1e2fdfbfe | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 17612, magazyn chpl/naltrekson]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Naltex, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 daeaeb8e4fcc8f048838ec273e48b85db05ba87ff9cdfef0888db8a0a7fd4c37 | fragment sha256 201aec1e398c5db7c07c8b7b1ff9db5d7f9c248dd39fd9068188d8491a598b88 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 17612, magazyn chpl/naltrekson]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Naltex, 50 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 daeaeb8e4fcc8f048838ec273e48b85db05ba87ff9cdfef0888db8a0a7fd4c37 | fragment sha256 3408bf6f2b60267463cffa52cb7e18adf5f5caaca21536aa1788a82dd309d6cb | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

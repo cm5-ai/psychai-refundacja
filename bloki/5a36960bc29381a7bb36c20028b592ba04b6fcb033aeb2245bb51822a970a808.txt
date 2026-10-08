@@ -1,0 +1,23 @@
+### Melatonina Polfarmex | 5 mg | Tabletki
+SUBSTANCJA: melatonina
+NAZWA_HANDLOWA: Melatonina Polfarmex   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26040   format KRAJOWA
+ID_REJESTRU: 100404390   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26040|id=100404390
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40439/characteristic
+SHA256: 4ab95612852d3826c69d20fccbaa4432d8fb21ab8773e09a691cc9763f905fa2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26040, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Melatonina Polfarmex, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4ab95612852d3826c69d20fccbaa4432d8fb21ab8773e09a691cc9763f905fa2 | fragment sha256 0241551458e2bb4b4c8e1b0552886f88b20e169650a0dbf25c097dd2a41b8604 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26040, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Melatonina Polfarmex, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4ab95612852d3826c69d20fccbaa4432d8fb21ab8773e09a691cc9763f905fa2 | fragment sha256 9630f53d714d8d0fe5cb0902e89b61008fa55b702411975aef9f693fff01d6c7 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26040, magazyn chpl/melatonina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Melatonina Polfarmex, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4ab95612852d3826c69d20fccbaa4432d8fb21ab8773e09a691cc9763f905fa2 | fragment sha256 7dd8ad09b3cbe018450913d708ef5955f569b1b7da73a399f79acb5c69a33d51 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Atofab | 40 mg | Kapsułki twarde
+SUBSTANCJA: atomoksetyna
+NAZWA_HANDLOWA: Atofab   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2024-12-24
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26321   format KRAJOWA
+ID_REJESTRU: 100428344   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26321|id=100428344
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/42834/characteristic
+SHA256: 56a860ca9aab3f1909ef5b101d28a953968bf38891bd4433256b5c686760a0eb
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26321, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Atofab, 40 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 56a860ca9aab3f1909ef5b101d28a953968bf38891bd4433256b5c686760a0eb | fragment sha256 55293b422d54b97082ef06c1a49dc8f9e23ae14e0654bcde72b9987e3bc07dba | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26321, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Atofab, 40 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 56a860ca9aab3f1909ef5b101d28a953968bf38891bd4433256b5c686760a0eb | fragment sha256 961029c70053d0d1d33eb42c1c5ff64ebf275bedf2b17c1e1b2e3e2b4352524f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26321, magazyn chpl/atomoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Atofab, 40 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 56a860ca9aab3f1909ef5b101d28a953968bf38891bd4433256b5c686760a0eb | fragment sha256 33b1095616e7c2b3ca919762bcaf24fbeef7272cdc9282a3cb85a30d25bd30f1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

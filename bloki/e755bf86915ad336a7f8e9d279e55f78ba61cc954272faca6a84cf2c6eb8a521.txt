@@ -1,0 +1,23 @@
+### Paroxetine Aurovitas | 20 mg | Tabletki powlekane
+SUBSTANCJA: paroksetyna
+NAZWA_HANDLOWA: Paroxetine Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 12, z GTIN 12
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23909   format KRAJOWA
+ID_REJESTRU: 100353758   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23909|id=100353758
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/35375/characteristic
+SHA256: 17c3f509914ced0affecfb1c4f8e5384753d6977b85f61df784c56ba00ea87a7
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23909, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paroxetine Aurovitas, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 17c3f509914ced0affecfb1c4f8e5384753d6977b85f61df784c56ba00ea87a7 | fragment sha256 246786935e5c78ca832d397056f31537f99c280ebed4a46166fd61980160dac1 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23909, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paroxetine Aurovitas, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 17c3f509914ced0affecfb1c4f8e5384753d6977b85f61df784c56ba00ea87a7 | fragment sha256 99964abb67b45f835cfbe8753c3da91086902e1b10a1e84c673aa9ab09a31b1f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23909, magazyn chpl/paroksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paroxetine Aurovitas, 20 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 17c3f509914ced0affecfb1c4f8e5384753d6977b85f61df784c56ba00ea87a7 | fragment sha256 f73dafb4c0d5ac1c8f8e151916a4436100ced1fc85c102aa97fcb7bbddedf64c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

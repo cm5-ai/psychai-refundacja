@@ -1,0 +1,23 @@
+### ApoZolpin | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: ApoZolpin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 16, z GTIN 16
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25120   format KRAJOWA
+ID_REJESTRU: 100390179   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25120|id=100390179
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39017/characteristic
+SHA256: 29a57ad9396ab2c7d9baf5e1344e56cacba4b4c451d38d05c2a5bff619ff94cc
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25120, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ApoZolpin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 29a57ad9396ab2c7d9baf5e1344e56cacba4b4c451d38d05c2a5bff619ff94cc | fragment sha256 24b4fb2c2f015f0fa4648c94425b0abf6207cb108af84f4eb1eedd441a8d323b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25120, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ApoZolpin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 29a57ad9396ab2c7d9baf5e1344e56cacba4b4c451d38d05c2a5bff619ff94cc | fragment sha256 bf17101ae56ff6155ec0275e841d42191cdae249662a9c9d8098fcb2ce236836 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25120, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ApoZolpin, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 29a57ad9396ab2c7d9baf5e1344e56cacba4b4c451d38d05c2a5bff619ff94cc | fragment sha256 60e20b4e3fb610efd7ff4b61752a8a6723c6a762e4a6744e3e9f8acb118b7951 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

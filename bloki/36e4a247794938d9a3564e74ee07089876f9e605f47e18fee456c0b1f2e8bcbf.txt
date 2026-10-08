@@ -1,0 +1,23 @@
+### Propranolol Aurovitas | 40 mg | Tabletki powlekane
+SUBSTANCJA: propranolol
+NAZWA_HANDLOWA: Propranolol Aurovitas   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 40 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 9, z GTIN 9
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 25784   format KRAJOWA
+ID_REJESTRU: 100407490   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|25784|id=100407490
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/40749/characteristic
+SHA256: 3688d24863ebb61920c1f9b4f47b048c33ea87b0cb2b01d8a8e545bdba1f42b9
+POBRANO: 2026-09-24
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 25784, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Propranolol Aurovitas, 40 mg, Tabletki powlekane | pobrano 2026-09-24 | dokument sha256 3688d24863ebb61920c1f9b4f47b048c33ea87b0cb2b01d8a8e545bdba1f42b9 | fragment sha256 b29a3b7c296087f9ef5d63a1a8d699afe47a4e31653f51b50a5d25477addc174 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 25784, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Propranolol Aurovitas, 40 mg, Tabletki powlekane | pobrano 2026-09-24 | dokument sha256 3688d24863ebb61920c1f9b4f47b048c33ea87b0cb2b01d8a8e545bdba1f42b9 | fragment sha256 54178c864f3701a4384e5717004d13fe43746064c96a21d2a9bbe61bb2b1f81a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 25784, magazyn chpl/propranolol]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Propranolol Aurovitas, 40 mg, Tabletki powlekane | pobrano 2026-09-24 | dokument sha256 3688d24863ebb61920c1f9b4f47b048c33ea87b0cb2b01d8a8e545bdba1f42b9 | fragment sha256 ed6e42f5dec6c15303298ff10ee35fc979d7e98112ea46241fcc08189c426f21 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

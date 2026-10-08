@@ -1,0 +1,23 @@
+### Miansec | 10 mg | Tabletki powlekane
+SUBSTANCJA: mianseryna
+NAZWA_HANDLOWA: Miansec   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 07966   format KRAJOWA
+ID_REJESTRU: 100084420   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07966|id=100084420
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8442/characteristic
+SHA256: 8bb618e799994e49a7604d24627fedb632961a4827f75e6fb4ba92734d7da7a4
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07966, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Miansec, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8bb618e799994e49a7604d24627fedb632961a4827f75e6fb4ba92734d7da7a4 | fragment sha256 b67726183d0843704adc293e85bb8608bf5b506a1094c9fcad0c8b313c0eeb97 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07966, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Miansec, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8bb618e799994e49a7604d24627fedb632961a4827f75e6fb4ba92734d7da7a4 | fragment sha256 beafc12ff0197e02eeb68603ec6d878903f95bba327c33c099854aaf5cdc4740 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07966, magazyn chpl/mianseryna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Miansec, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 8bb618e799994e49a7604d24627fedb632961a4827f75e6fb4ba92734d7da7a4 | fragment sha256 4f77b363aa9ebf3d4688c1262ed1669816d3cc9bf4dc52e21dc7c8b942b15860 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

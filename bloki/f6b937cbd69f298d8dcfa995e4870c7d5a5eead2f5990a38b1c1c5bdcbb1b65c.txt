@@ -1,0 +1,19 @@
+### Zyprexa | 10 mg | Proszek do sporządzania roztworu do wstrzykiwań
+SUBSTANCJA: olanzapina
+NAZWA_HANDLOWA: Zyprexa   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Proszek do sporządzania roztworu do wstrzykiwań
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: BRAK ZAPISU W EKSPORCIE — nie znaczy bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 7, z GTIN 7
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: EU/1/96/022   format NUMER_EU
+UWAGA_IDENTYFIKATORA: numer unijny odczytany z opakowan (pole pozwolenie jest puste); czlon opakowaniowy odrzucony, zostaje numer produktu
+ID_REJESTRU: 100109567   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_EU|EU/1/96/022|id=100109567
+WSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: KANDYDAT_PO_NAZWIE_NIEDOWIEDZIONY — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: W magazynie lezy dokument o tej samej nazwie, mocy i postaci, ale nic nie wiaze go z ta rejestracja, bo zgodnosc nazwy jest podobienstwem, nie rownoscia identyfikatora, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+KANDYDAT_DO_SPRAWDZENIA: https://www.ema.europa.eu/pl/documents/product-information/zyprexa-epar-product-information_pl.pdf
+

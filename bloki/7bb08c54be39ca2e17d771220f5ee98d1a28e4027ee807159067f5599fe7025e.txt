@@ -1,0 +1,23 @@
+### Gabapentyna Teva Pharmaceuticals | 400 mg | Kapsułki twarde
+SUBSTANCJA: gabapentyna
+NAZWA_HANDLOWA: Gabapentyna Teva Pharmaceuticals   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 400 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 10, z GTIN 10
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 11846   format KRAJOWA
+ID_REJESTRU: 100145698   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11846|id=100145698
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14569/characteristic
+SHA256: f7339aa7720f55960f965593ff6116e7c3e7595776d3afc6ab9644c77090aa91
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11846, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Gabapentyna Teva Pharmaceuticals, 400 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 f7339aa7720f55960f965593ff6116e7c3e7595776d3afc6ab9644c77090aa91 | fragment sha256 27c884bbb872f161b65e4858df19308522ba674bc1c0824556e0a013f93a73b3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11846, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Gabapentyna Teva Pharmaceuticals, 400 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 f7339aa7720f55960f965593ff6116e7c3e7595776d3afc6ab9644c77090aa91 | fragment sha256 ac1ca53c371876ed2ffa38f8e7dfffb9eb6235e909c61350d303f9714fb62484 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11846, magazyn chpl/gabapentyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Gabapentyna Teva Pharmaceuticals, 400 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 f7339aa7720f55960f965593ff6116e7c3e7595776d3afc6ab9644c77090aa91 | fragment sha256 def6fb2106ed5ee502a4249a7cf48d150ec64dc7586a0e2f03c6d1d24074b269 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,18 @@
+### Memantine Glenmark | 10 mg | Tabletki powlekane
+SUBSTANCJA: memantyna
+NAZWA_HANDLOWA: Memantine Glenmark   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2018-12-18
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 21626   format KRAJOWA
+ID_REJESTRU: 100307184   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|21626|id=100307184
+WSKAZANIA: BRAK_DOKUMENTU_W_SPRAWDZONYCH_ZRODLACH — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: BRAK_DOKUMENTU_W_SPRAWDZONYCH_ZRODLACH — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: BRAK_DOKUMENTU_W_SPRAWDZONYCH_ZRODLACH — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Dla tej rejestracji nie znaleziono dokumentu ChPL w sprawdzonych zrodlach, dlatego DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+ADRES_Z_REJESTRU: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/30718/characteristic
+

@@ -1,0 +1,23 @@
+### Paliperidone Teva | 100 mg | Zawiesina do wstrzykiwań o przedłużonym uwalnianiu
+SUBSTANCJA: paliperydon
+NAZWA_HANDLOWA: Paliperidone Teva   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 100 mg
+POSTAC: Zawiesina do wstrzykiwań o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 26890   format KRAJOWA
+ID_REJESTRU: 100445207   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|26890|id=100445207
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/44520/characteristic
+SHA256: 9dd667915af3045edcee97005d1d6ed2aaecabb4a9fa1651e1695c16d06b31d0
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 26890, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Paliperidone Teva, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9dd667915af3045edcee97005d1d6ed2aaecabb4a9fa1651e1695c16d06b31d0 | fragment sha256 5e129a448233991124f7df5ef536b19be6d0f0a19a0ea7ab105422c962f7dad2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 26890, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Paliperidone Teva, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9dd667915af3045edcee97005d1d6ed2aaecabb4a9fa1651e1695c16d06b31d0 | fragment sha256 fc96bc86706a40e642292dd06c3ebfd9d5068cee317b6116119478ea94836dc3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 26890, magazyn chpl/paliperydon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Paliperidone Teva, 100 mg, Zawiesina do wstrzykiwań o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 9dd667915af3045edcee97005d1d6ed2aaecabb4a9fa1651e1695c16d06b31d0 | fragment sha256 09a6d3c2eb0cec1d49e04cdc0320c6b152bf7d1fd8b4b7634c5430fcf8ffb3a5 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

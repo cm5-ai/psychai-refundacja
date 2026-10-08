@@ -1,0 +1,23 @@
+### ZolpiGen | 10 mg | Tabletki powlekane
+SUBSTANCJA: zolpidem
+NAZWA_HANDLOWA: ZolpiGen   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 10 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 11842   format KRAJOWA
+ID_REJESTRU: 100145630   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|11842|id=100145630
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/14563/characteristic
+SHA256: c571207a702d9b85b3f26c3fd50bb19ddd296c1637a6e16e4946e97a52d997d9
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 11842, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt ZolpiGen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c571207a702d9b85b3f26c3fd50bb19ddd296c1637a6e16e4946e97a52d997d9 | fragment sha256 6951d155d8d7f75d7e4720aa0bd667d294b1cca4585d837d9e5632a1c4da3e42 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 11842, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt ZolpiGen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c571207a702d9b85b3f26c3fd50bb19ddd296c1637a6e16e4946e97a52d997d9 | fragment sha256 ec857464d00105daa2e381173a7db71138e890475769100244451edd277d7d5a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 11842, magazyn chpl/zolpidem]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt ZolpiGen, 10 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 c571207a702d9b85b3f26c3fd50bb19ddd296c1637a6e16e4946e97a52d997d9 | fragment sha256 58466964b3036fd51225b97ff960a23001e951f37c66f41585775f4519688913 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

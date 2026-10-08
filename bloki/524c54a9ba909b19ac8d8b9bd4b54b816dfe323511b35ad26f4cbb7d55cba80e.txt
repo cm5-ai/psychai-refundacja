@@ -1,0 +1,23 @@
+### Levomentis | 25 mg | Tabletki powlekane
+SUBSTANCJA: lewomepromazyna
+NAZWA_HANDLOWA: Levomentis   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 25 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2027-04-22
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 27038   format KRAJOWA
+ID_REJESTRU: 100459640   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|27038|id=100459640
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/45964/characteristic
+SHA256: 956da5d40f1a52cc1bfa3a575c010cf605ca99f61518f059a67b3d2a820eeef5
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 27038, magazyn chpl/lewomepromazyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Levomentis, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 956da5d40f1a52cc1bfa3a575c010cf605ca99f61518f059a67b3d2a820eeef5 | fragment sha256 bd6d4e46560c317b736a6f9c6f94beeb7148bd4e0cacc24e9f61f1573cf16837 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 27038, magazyn chpl/lewomepromazyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Levomentis, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 956da5d40f1a52cc1bfa3a575c010cf605ca99f61518f059a67b3d2a820eeef5 | fragment sha256 e22f7fad83cad181eabcc359879a23f5c7bf2cffd8e520aa6921c9556609b5cd | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 27038, magazyn chpl/lewomepromazyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Levomentis, 25 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 956da5d40f1a52cc1bfa3a575c010cf605ca99f61518f059a67b3d2a820eeef5 | fragment sha256 7a85e22603d00b2efa10cd829042d788cf5d70b473214ad5d5fbb79c1cd97672 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

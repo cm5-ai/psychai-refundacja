@@ -1,0 +1,23 @@
+### Amizepin | 200 mg | Tabletki
+SUBSTANCJA: karbamazepina
+NAZWA_HANDLOWA: Amizepin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 200 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 00439   format KRAJOWA
+ID_REJESTRU: 100005112   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|00439|id=100005112
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/511/characteristic
+SHA256: 960746f48d8dff21c562d0cdafd379dd93ad8b6b7fa8efdbd3691ab133d879cd
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 00439, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Amizepin, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 960746f48d8dff21c562d0cdafd379dd93ad8b6b7fa8efdbd3691ab133d879cd | fragment sha256 0d752edbfbb07cca6b38e5937afa93abcc69f86ddd21b73916751305cd636636 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 00439, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Amizepin, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 960746f48d8dff21c562d0cdafd379dd93ad8b6b7fa8efdbd3691ab133d879cd | fragment sha256 7ad7b29d88abfdd0a9a2c9a56922ff0c986947d817902b5c68afbfbc6834b713 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 00439, magazyn chpl/karbamazepina]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Amizepin, 200 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 960746f48d8dff21c562d0cdafd379dd93ad8b6b7fa8efdbd3691ab133d879cd | fragment sha256 31bcf7b623ceb3b54c3350a426b665187722fcaede00b99e18d79fba912a48c3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

@@ -1,0 +1,23 @@
+### Faxolet ER | 75 mg | Kapsułki o przedłużonym uwalnianiu, twarde
+SUBSTANCJA: wenlafaksyna
+NAZWA_HANDLOWA: Faxolet ER   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 75 mg
+POSTAC: Kapsułki o przedłużonym uwalnianiu, twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 15211   format KRAJOWA
+ID_REJESTRU: 100207420   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|15211|id=100207420
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20742/characteristic
+SHA256: c97063ad6dd381e07ccb7a03fb7c0b06811245afcd30d754b60ac46231fc5b3f
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 15211, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Faxolet ER, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 c97063ad6dd381e07ccb7a03fb7c0b06811245afcd30d754b60ac46231fc5b3f | fragment sha256 495b231fdae8704a8ec0b0bbf88b5aa61acb97b6a1dd8e4331173cae9e75c324 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 15211, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Faxolet ER, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 c97063ad6dd381e07ccb7a03fb7c0b06811245afcd30d754b60ac46231fc5b3f | fragment sha256 f634dea8720881ca174280369c2ba6588642ce7f5547c32388db99d1495291b6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 15211, magazyn chpl/wenlafaksyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Faxolet ER, 75 mg, Kapsułki o przedłużonym uwalnianiu, twarde | pobrano 2026-09-23 | dokument sha256 c97063ad6dd381e07ccb7a03fb7c0b06811245afcd30d754b60ac46231fc5b3f | fragment sha256 37d24e74b6ba27934af8e6edf8dd1866d2d6d53298876d3d9d9cc0e0da4292f6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

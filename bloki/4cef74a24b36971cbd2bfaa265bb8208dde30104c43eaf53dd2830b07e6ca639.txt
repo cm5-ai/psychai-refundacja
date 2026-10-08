@@ -1,0 +1,23 @@
+### Nomefren | 5 mg | Tabletki
+SUBSTANCJA: nitrazepam
+NAZWA_HANDLOWA: Nomefren   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 5 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 11, z GTIN 11
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 23497   format KRAJOWA
+ID_REJESTRU: 100332549   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|23497|id=100332549
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/33254/characteristic
+SHA256: 4ba24044ab2ae441bb01b57815d5a2694e1b9ebbd7a0a9ee5cef498f3449e891
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 23497, magazyn chpl/nitrazepam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Nomefren, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4ba24044ab2ae441bb01b57815d5a2694e1b9ebbd7a0a9ee5cef498f3449e891 | fragment sha256 f0cc4f3868db45a940953756d235b966221657725211aa4c1e5612d6e2319fb6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 23497, magazyn chpl/nitrazepam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Nomefren, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4ba24044ab2ae441bb01b57815d5a2694e1b9ebbd7a0a9ee5cef498f3449e891 | fragment sha256 6f15fffe8394d7f018510116f28b41953a094662d4df75c5f4315a96b6af598c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 23497, magazyn chpl/nitrazepam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Nomefren, 5 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 4ba24044ab2ae441bb01b57815d5a2694e1b9ebbd7a0a9ee5cef498f3449e891 | fragment sha256 a59378321b109217c3000aaeae8d48c41e85ef53d4f47159c4490397e9d9e701 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

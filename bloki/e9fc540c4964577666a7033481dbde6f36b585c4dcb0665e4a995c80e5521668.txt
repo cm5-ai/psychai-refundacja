@@ -1,0 +1,23 @@
+### Zomiren | 0,25 mg | Tabletki
+SUBSTANCJA: alprazolam
+NAZWA_HANDLOWA: Zomiren   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 0,25 mg
+POSTAC: Tabletki
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 08493   format KRAJOWA
+ID_REJESTRU: 100099047   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|08493|id=100099047
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/9904/characteristic
+SHA256: a9cce63c5f989dae2ded36888ed5619d0d8aacefa4370c5578f95c9de34c7bb2
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 08493, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Zomiren, 0,25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a9cce63c5f989dae2ded36888ed5619d0d8aacefa4370c5578f95c9de34c7bb2 | fragment sha256 b503cb5840c80137b16da115a16514073a479ca2ff86e277e7717329da8551a3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 08493, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Zomiren, 0,25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a9cce63c5f989dae2ded36888ed5619d0d8aacefa4370c5578f95c9de34c7bb2 | fragment sha256 0a97fa204dea7ee70c3da95ef0da121c635f7912a8f86c987203b8d1fc8c8d7f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 08493, magazyn chpl/alprazolam]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Zomiren, 0,25 mg, Tabletki | pobrano 2026-09-23 | dokument sha256 a9cce63c5f989dae2ded36888ed5619d0d8aacefa4370c5578f95c9de34c7bb2 | fragment sha256 31d52aa6c1f971608b06d7fb2a0bd288ccc95c1d8befd5579b28cf8fd004abb3 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

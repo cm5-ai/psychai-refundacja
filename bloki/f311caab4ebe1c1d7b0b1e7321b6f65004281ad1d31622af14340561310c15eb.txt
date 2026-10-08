@@ -1,0 +1,23 @@
+### Andepin | 20 mg | Kapsułki twarde
+SUBSTANCJA: fluoksetyna
+NAZWA_HANDLOWA: Andepin   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 20 mg
+POSTAC: Kapsułki twarde
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 10655   format KRAJOWA
+ID_REJESTRU: 100123691   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|10655|id=100123691
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12369/characteristic
+SHA256: ad34d1aa9b9b8615e07cab2f2366c9a2c38e8a7ab14b52ec445e661d6c703753
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 10655, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Andepin, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ad34d1aa9b9b8615e07cab2f2366c9a2c38e8a7ab14b52ec445e661d6c703753 | fragment sha256 7867b46a77fee2667c2a0ef0a1b7e6292c3fc891aa240786b8c60ecc17a84de8 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 10655, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Andepin, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ad34d1aa9b9b8615e07cab2f2366c9a2c38e8a7ab14b52ec445e661d6c703753 | fragment sha256 27575b11346c871355ff5ba2c00facd2c0ae9f1823db8768925311fe02f1379f | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 10655, magazyn chpl/fluoksetyna]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Andepin, 20 mg, Kapsułki twarde | pobrano 2026-09-23 | dokument sha256 ad34d1aa9b9b8615e07cab2f2366c9a2c38e8a7ab14b52ec445e661d6c703753 | fragment sha256 a342ef904e58e96ac2e8d0a7ba19f72fac98e1a4ca0d8dc3a5e00071760c6d3c | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

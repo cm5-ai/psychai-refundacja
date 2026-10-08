@@ -1,0 +1,23 @@
+### Sonrest | 7,5 mg | Tabletki powlekane
+SUBSTANCJA: zopiklon
+NAZWA_HANDLOWA: Sonrest   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 7,5 mg
+POSTAC: Tabletki powlekane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2030-06-17
+OPAKOWANIA_W_EKSPORCIE: 4, z GTIN 4
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 29134   format KRAJOWA
+ID_REJESTRU: 100488268   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|29134|id=100488268
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/48826/characteristic
+SHA256: 9a26667590a63d07a1dc4032b82e34186482c0f93163d3e2dcefb78ff7c5ac34
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 29134, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Sonrest, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9a26667590a63d07a1dc4032b82e34186482c0f93163d3e2dcefb78ff7c5ac34 | fragment sha256 e56a98d8001d636ce30a9872bd0f481a718af0301640de9baa23a8fb75af10b2 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 29134, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Sonrest, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9a26667590a63d07a1dc4032b82e34186482c0f93163d3e2dcefb78ff7c5ac34 | fragment sha256 21a1f043c1a49961dffb293c0fea082f183bfe383e27243066070cac4e71225b | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 29134, magazyn chpl/zopiklon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Sonrest, 7,5 mg, Tabletki powlekane | pobrano 2026-09-23 | dokument sha256 9a26667590a63d07a1dc4032b82e34186482c0f93163d3e2dcefb78ff7c5ac34 | fragment sha256 7a3253cc31242ca83c93e79fb36b062eda03b6ca00b2783000709ba98298b58a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

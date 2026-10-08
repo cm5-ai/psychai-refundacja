@@ -1,0 +1,18 @@
+### Coaxil | 12,5 mg | Tabletki drażowane
+SUBSTANCJA: tianeptyna
+NAZWA_HANDLOWA: Coaxil   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 12,5 mg
+POSTAC: Tabletki drażowane
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: 2026-03-16
+OPAKOWANIA_W_EKSPORCIE: 2, z GTIN 2
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 164/16   format NUMER_ROK
+UWAGA_IDENTYFIKATORA: rodzaj rejestracji NIEUSTALONY — sam format go nie nadaje
+ID_REJESTRU: 100367252   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NUMER_ROK|164/16|id=100367252
+WSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+DAWKOWANIE: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+PRZECIWWSKAZANIA: BRAK_ADRESU_DOKUMENTU_W_REJESTRZE — NIEUSTALONE, nie NIEOBECNE.
+ZNACZENIE_STANU: Rejestr nie podaje adresu dokumentu ChPL dla tej rejestracji, wiec nie bylo czego sprawdzic, i DAWKOWANIE, WSKAZANIA i PRZECIWWSKAZANIA pozostaja NIEUSTALONE, co nie oznacza, ze nie wystepuja.
+

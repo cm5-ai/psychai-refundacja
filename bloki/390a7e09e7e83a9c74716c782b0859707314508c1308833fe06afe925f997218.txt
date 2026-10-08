@@ -1,0 +1,23 @@
+### Methadone Hydrochloride Molteni | 1 mg/ml | Syrop
+SUBSTANCJA: metadon
+NAZWA_HANDLOWA: Methadone Hydrochloride Molteni   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Syrop
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 5, z GTIN 5
+STATUS_OPAKOWAN_W_EKSPORCIE: Skasowane
+IDENTYFIKATOR: 07188   format KRAJOWA
+ID_REJESTRU: 100201801   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|07188|id=100201801
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20180/characteristic
+SHA256: 94b29b5c81526f3d1f340864da6a02a63464386518ae37d8db925155c0c0798a
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 07188, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Methadone Hydrochloride Molteni, 1 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 94b29b5c81526f3d1f340864da6a02a63464386518ae37d8db925155c0c0798a | fragment sha256 d0c31f9dc50b517b4549fbe1e40082716f2f2c9140d89471346db55539202562 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 07188, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Methadone Hydrochloride Molteni, 1 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 94b29b5c81526f3d1f340864da6a02a63464386518ae37d8db925155c0c0798a | fragment sha256 12d48c845dadd323ab9f98c2016909cc9acc828a8d21f7b1f4561e7a12a404d0 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 07188, magazyn chpl/metadon]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Methadone Hydrochloride Molteni, 1 mg/ml, Syrop | pobrano 2026-09-23 | dokument sha256 94b29b5c81526f3d1f340864da6a02a63464386518ae37d8db925155c0c0798a | fragment sha256 65de70440df433f20932c7a8264389182c7d74b22c67270059978f4b80a4c364 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

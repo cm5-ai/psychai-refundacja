@@ -1,0 +1,23 @@
+### Absenor | 300 mg | Tabletki o przedłużonym uwalnianiu
+SUBSTANCJA: walproinian
+NAZWA_HANDLOWA: Absenor   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 300 mg
+POSTAC: Tabletki o przedłużonym uwalnianiu
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 1, z GTIN 1
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: 12748   format KRAJOWA
+ID_REJESTRU: 100168073   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: KRAJOWA|12748|id=100168073
+DOKUMENT: https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16807/characteristic
+SHA256: 1554a7ab15fca26cb8742ec38e9de56cd12a21e1c48328e0447250bc1f59f835
+POBRANO: 2026-09-23
+PRZYPISANIE_DOKUMENTU: DOWIEDZIONE (URL_Z_REJESTRU) — adres dokumentu zgodny z rejestrem
+WSKAZANIA [ChPL 4.1, pozwolenie 12748, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.1 | produkt Absenor, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 1554a7ab15fca26cb8742ec38e9de56cd12a21e1c48328e0447250bc1f59f835 | fragment sha256 a491ddd6c1f36d657c9f9cb302e0a76be35d253e130bca5a17b681ebf7e46a2a | TRESC W KORPUSIE, NIE W PROJEKCIE]
+DAWKOWANIE [ChPL 4.2, pozwolenie 12748, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.2 | produkt Absenor, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 1554a7ab15fca26cb8742ec38e9de56cd12a21e1c48328e0447250bc1f59f835 | fragment sha256 a4c652028706d1ffd3bfa5a373ae51b3a2f25bb9878c07f1d986c14819509469 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+PRZECIWWSKAZANIA [ChPL 4.3, pozwolenie 12748, magazyn chpl/walproinian]:
+  [PIN FRAGMENTU ChPL 4.3 | produkt Absenor, 300 mg, Tabletki o przedłużonym uwalnianiu | pobrano 2026-09-23 | dokument sha256 1554a7ab15fca26cb8742ec38e9de56cd12a21e1c48328e0447250bc1f59f835 | fragment sha256 e1bda22c50265c1a3324625a2ed02e23d35a6b66baf9c91280f34311446108e6 | TRESC W KORPUSIE, NIE W PROJEKCIE]
+

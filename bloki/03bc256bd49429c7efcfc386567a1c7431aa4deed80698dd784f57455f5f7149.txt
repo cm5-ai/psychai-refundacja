@@ -1,0 +1,17 @@
+### Methadone Hydrochloride Molteni | 1 mg/ml | Syrop
+SUBSTANCJA: metadon
+NAZWA_HANDLOWA: Methadone Hydrochloride Molteni   (nazwa sluzy do szukania, nie jest kluczem)
+MOC: 1 mg/ml
+POSTAC: Syrop
+OBECNY_W_EKSPORCIE_RPL: TAK   stan eksportu: 2026-10-05
+WAZNOSC_POZWOLENIA_W_EKSPORCIE: Bezterminowe
+OPAKOWANIA_W_EKSPORCIE: 3, z GTIN 3
+STATUS_OPAKOWAN_W_EKSPORCIE: zadne opakowanie nie niesie statusu
+IDENTYFIKATOR: BRAK   format NIEROZPOZNANY   id_rejestru=100018988
+UWAGA_IDENTYFIKATORA: format pozwolenia nierozpoznany — NIEPOROWNYWALNE
+ID_REJESTRU: 100018988   (obok identyfikatora, nigdy nie laczy)
+KLUCZ: NIEROZPOZNANY|07919 - 07920|id=100018988
+DAWKOWANIE: BEZ_IDENTYFIKATORA — format pozwolenia nierozpoznany — NIEPOROWNYWALNE. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+WSKAZANIA: BEZ_IDENTYFIKATORA — format pozwolenia nierozpoznany — NIEPOROWNYWALNE. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+PRZECIWWSKAZANIA: BEZ_IDENTYFIKATORA — format pozwolenia nierozpoznany — NIEPOROWNYWALNE. Nie ma czym przypisac dokumentu do TEJ rejestracji; dawka moze wejsc inna udowodniona sciezka.
+
