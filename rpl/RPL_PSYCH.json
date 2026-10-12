@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-10-05",
-  "sha256_zrodla": "6ae59023a03ec1d0cd61f7d10728041fcba66ce3b0ae7198a23589ee6a4d338d",
+  "stan_na_dzien": "2026-10-12",
+  "sha256_zrodla": "a7f9794e2a6de716b8f33a00c2838db134dd0feb5ccbf6f24342ec923ba4c819",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -19,8 +19,8 @@
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2693,
-  "opakowania": 9834,
+  "produkty": 2694,
+  "opakowania": 9837,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1242,
   "opakowania_ze_statusem": {
@@ -4409,6 +4409,55 @@
    ]
   },
   {
+   "id": "100545356",
+   "nazwa": "Xanax",
+   "nazwa_powszechna": "Alprazolamum",
+   "substancja": "Alprazolamum 0.25 mg",
+   "moc": "0,25 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N05BA12"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "343/26",
+   "waznosc_pozwolenia": "2031-09-17",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991609542",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168498",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991609559",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168499",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991609566",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168500",
+     "opis": "100 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
    "id": "100267600",
    "nazwa": "Xanax",
    "nazwa_powszechna": "Alprazolamum",
@@ -8252,7 +8301,7 @@
    ],
    "podmiot": "Delfarma Sp. z o.o.",
    "pozwolenie": "363/21",
-   "waznosc_pozwolenia": "2026-10-06",
+   "waznosc_pozwolenia": "2031-10-06",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -67287,7 +67336,7 @@
    "id": "100311524",
    "nazwa": "Corbilta",
    "nazwa_powszechna": "Levodopum + Carbidopum + Entacaponum",
-   "substancja": "Entacaponum 200 mg + Levodopum 125 mg + Carbidopum 31.25 mg",
+   "substancja": "Levodopum 125 mg + Entacaponum 200 mg + Carbidopum 31.25 mg",
    "moc": "125 mg + 31,25 mg + 200 mg",
    "postac": "Tabletki powlekane",
    "atc": [
@@ -87158,7 +87207,7 @@
    "id": "100163549",
    "nazwa": "ValproLEK 300",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Acidum valproicum + Natrii valproas",
+   "substancja": "Natrii valproas + Acidum valproicum",
    "moc": "300 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
@@ -87202,7 +87251,7 @@
    "id": "100163555",
    "nazwa": "ValproLEK 500",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Acidum valproicum + Natrii valproas",
+   "substancja": "Natrii valproas + Acidum valproicum",
    "moc": "500 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
