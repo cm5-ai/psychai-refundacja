@@ -1,57 +1,68 @@
-# Przegląd PubMed — 2026-10-09 (ostatnie 7 dni)
+# Przegląd PubMed — 2026-10-16 (ostatnie 7 dni)
 
 Tylko wytyczne, metaanalizy, przeglądy systematyczne i RCT. Bez abstraktów. Nic nie zmienia kart automatycznie.
 
-Razem: 26 | WYTYCZNE: 1 | METAANALIZA: 8 | PRZEGLĄD SYST.: 6 | RCT: 7 | INNE: 4
+Razem: 37 | WYTYCZNE: 1 | METAANALIZA: 8 | PRZEGLĄD SYST.: 18 | RCT: 8 | INNE: 2
 
 ## NAJPIERW PRZECZYTAJ — farmakoterapia, wysoki poziom dowodu (7)
 
-- **Role of remimazolam in gastrointestinal endoscopy: American Society for Gastrointestinal Endoscopy clinical practice update.** — Gastrointestinal endoscopy — [PMID 42848339](https://pubmed.ncbi.nlm.nih.gov/42848339/) — _BENZODIAZEPINY_
-- **Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.** — Alcohol and alcoholism (Oxford, Oxfordshire) — [PMID 42831801](https://pubmed.ncbi.nlm.nih.gov/42831801/) — _ESKETAMINA, KWETIAPINA, SERTRALINA_
-- **Effects of Benzodiazepines on Heart Failure Outcomes and Adverse Events: A Systematic Review and Meta-Analysis.** — Cardiovascular toxicology — [PMID 42832119](https://pubmed.ncbi.nlm.nih.gov/42832119/) — _BENZODIAZEPINY_
-- **Daily sedation interruption versus no daily sedation interruption for critically ill adults and children requiring invasive mechanical ventilation.** — The Cochrane database of systematic reviews — [PMID 42841340](https://pubmed.ncbi.nlm.nih.gov/42841340/) — _BENZODIAZEPINY_
-- **Ketamine use in the refractory and super refractory status epilepticus: a systematic review.** — Frontiers in medicine — [PMID 42835272](https://pubmed.ncbi.nlm.nih.gov/42835272/) — _ESKETAMINA_
-- **Comparison of propofol fentanyl versus propofol ketamine for painless gastrointestinal endoscopy: a systematic review.** — Frontiers in medicine — [PMID 42835036](https://pubmed.ncbi.nlm.nih.gov/42835036/) — _ESKETAMINA_
-- **Optimal prophylaxis for perioperative drug-induced delayed neurocognitive recovery: a Bayesian network meta-analysis of 18 interventions with mechanism-based stratification.** — Frontiers in pharmacology — [PMID 42846151](https://pubmed.ncbi.nlm.nih.gov/42846151/) — _ESKETAMINA_
+- **Reducing the risk of obesity, diabetes, and metabolic disorders in patients treated with antipsychotics - recommendations of the Polish Psychiatric Association Part II: diagnostics and pharmacological treatment.** — Psychiatria polska — [PMID 42857934](https://pubmed.ncbi.nlm.nih.gov/42857934/) — _KLOZAPINA, OLANZAPINA_
+- **Medical cannabis for the treatment of insomnia.** — The Cochrane database of systematic reviews — [PMID 42863850](https://pubmed.ncbi.nlm.nih.gov/42863850/) — _BENZODIAZEPINY, BEZSENNOŚĆ, TCA_
+- **A rapid systematic review of palliative uses of ketamine for depression and pain in people living with advanced cancer.** — Annals of palliative medicine — [PMID 42854758](https://pubmed.ncbi.nlm.nih.gov/42854758/) — _DEPRESJA, ESKETAMINA_
+- **Ketamine and esketamine during breastfeeding: a systematic review of human pharmacokinetic, infant and lactation outcomes.** — European journal of clinical pharmacology — [PMID 42850468](https://pubmed.ncbi.nlm.nih.gov/42850468/) — _DEPRESJA-LEKOOPORNA, ESKETAMINA_
+- **Safety, efficacy, and opioid-sparing effects of ketamine for analgesia in traumatic chest injury and rib fractures: a systematic review and meta-analysis.** — Frontiers in medicine — [PMID 42871262](https://pubmed.ncbi.nlm.nih.gov/42871262/) — _ESKETAMINA_
+- **Self-medication of attention-deficit/hyperactivity disorder symptoms with psychoactive substances in adults: a scoping review of how symptom-relief motives are framed and operationalised across substances.** — Frontiers in psychiatry — [PMID 42877221](https://pubmed.ncbi.nlm.nih.gov/42877221/) — _ESKETAMINA_
+- **The Impact of Plasmapheresis on Serum Concentrations of Antiseizure Medications: A Systematic Review.** — Journal of clinical apheresis — [PMID 42864878](https://pubmed.ncbi.nlm.nih.gov/42864878/) — _WALPROINIAN_
 
 ## WYTYCZNE (1)
 
-- **Role of remimazolam in gastrointestinal endoscopy: American Society for Gastrointestinal Endoscopy clinical practice update.** — Gastrointestinal endoscopy, 2026 Oct 7 — [PMID 42848339](https://pubmed.ncbi.nlm.nih.gov/42848339/) — _BENZODIAZEPINY_
+- **Reducing the risk of obesity, diabetes, and metabolic disorders in patients treated with antipsychotics - recommendations of the Polish Psychiatric Association Part II: diagnostics and pharmacological treatment.** — Psychiatria polska, 2026 Aug 30 — [PMID 42857934](https://pubmed.ncbi.nlm.nih.gov/42857934/) — _KLOZAPINA, OLANZAPINA_
 
 ## METAANALIZA (8)
 
-- **Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.** — Alcohol and alcoholism (Oxford, Oxfordshire), 2026 Sep 20 — [PMID 42831801](https://pubmed.ncbi.nlm.nih.gov/42831801/) — _ESKETAMINA, KWETIAPINA, SERTRALINA_
-- **Prediction models for postpartum post-traumatic stress disorder: a systematic review and meta-analysis.** — Archives of women's mental health, 2026 Oct 7 — [PMID 42842042](https://pubmed.ncbi.nlm.nih.gov/42842042/) — _PTSD_
-- **Effects of Benzodiazepines on Heart Failure Outcomes and Adverse Events: A Systematic Review and Meta-Analysis.** — Cardiovascular toxicology, 2026 Oct 5 — [PMID 42832119](https://pubmed.ncbi.nlm.nih.gov/42832119/) — _BENZODIAZEPINY_
-- **Systematic review and meta-analysis: the effectiveness of cognitive behavioral therapy and eye movement desensitization and reprocessing in children and adolescents.** — European journal of psychotraumatology, 2026 Dec — [PMID 42831259](https://pubmed.ncbi.nlm.nih.gov/42831259/) — _PTSD_
-- **Australian Digital Mental Health Services for Anxiety and Depression: Meta-Analysis and Comparison Study.** — JMIR formative research, 2026 Oct 6 — [PMID 42837524](https://pubmed.ncbi.nlm.nih.gov/42837524/) — _DEPRESJA_
-- **Prevalence of mental health outcomes among trans and gender diverse adults: a global systematic review and meta-analysis.** — Psychological medicine, 2026 Oct 8 — [PMID 42847484](https://pubmed.ncbi.nlm.nih.gov/42847484/) — _PTSD_
-- **Efficacy of technology-based psychosocial interventions on quality of life and psychological outcomes in adolescent and young adult survivors of childhood cancer: a systematic review and meta-analysis of randomized controlled trials.** — Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer, 2026 Oct 8 — [PMID 42844493](https://pubmed.ncbi.nlm.nih.gov/42844493/) — _SCHIZOFRENIA_
-- **Daily sedation interruption versus no daily sedation interruption for critically ill adults and children requiring invasive mechanical ventilation.** — The Cochrane database of systematic reviews, 2026 Oct 7 — [PMID 42841340](https://pubmed.ncbi.nlm.nih.gov/42841340/) — _BENZODIAZEPINY_
+- **Medical cannabis for the treatment of insomnia.** — The Cochrane database of systematic reviews, 2026 Oct 13 — [PMID 42863850](https://pubmed.ncbi.nlm.nih.gov/42863850/) — _BENZODIAZEPINY, BEZSENNOŚĆ, TCA_
+- **Revisiting the link between childhood adversity and stress-sensitive brain regions in psychosis and bipolar disorder: a systematic review and meta-analysis.** — Translational psychiatry, 2026 Sep 19 — [PMID 42850223](https://pubmed.ncbi.nlm.nih.gov/42850223/) — _CHAD, SCHIZOFRENIA_
+- **The relationship between fear of negative evaluation and social anxiety: a systematic review and meta-analysis.** — BMC psychology, 2026 Oct 8 — [PMID 42850663](https://pubmed.ncbi.nlm.nih.gov/42850663/) — _LĘK_
+- **The Effectiveness of Expressive Writing Interventions on the Psychosocial Health of Family Caregivers: A Meta-Analysis.** — Family process, 2026 Dec — [PMID 42853002](https://pubmed.ncbi.nlm.nih.gov/42853002/) — _SCHIZOFRENIA_
+- **Post-Stroke Depression and Determinants in Ethiopia; A Systematic Review and Meta-Analysis.** — International journal of methods in psychiatric research, 2026 Dec — [PMID 42861646](https://pubmed.ncbi.nlm.nih.gov/42861646/) — _DEPRESJA_
+- **Anxiety and Depression in Athletes of Different Levels Without Current Injury: A Systematic Review With Meta-Analyses.** — Journal of athletic training, 2026 Oct — [PMID 42852451](https://pubmed.ncbi.nlm.nih.gov/42852451/) — _DEPRESJA_
+- **Magnitude and Moderators of Depressive Symptom Improvement in Digital Placebo Arms: Systematic Review and Meta-Analysis.** — Journal of medical Internet research, 2026 Oct 9 — [PMID 42855153](https://pubmed.ncbi.nlm.nih.gov/42855153/) — _DEPRESJA_
+- **The dual burden of disease: Depression among patients with multidrug resistance tuberculosis in low-income and lower- middle-income countries: A systematic review and meta-analysis.** — PloS one, 2026 — [PMID 42868138](https://pubmed.ncbi.nlm.nih.gov/42868138/) — _DEPRESJA_
 
-## PRZEGLĄD SYST. (6)
+## PRZEGLĄD SYST. (18)
 
-- **Ketamine use in the refractory and super refractory status epilepticus: a systematic review.** — Frontiers in medicine, 2026 — [PMID 42835272](https://pubmed.ncbi.nlm.nih.gov/42835272/) — _ESKETAMINA_
-- **Comparison of propofol fentanyl versus propofol ketamine for painless gastrointestinal endoscopy: a systematic review.** — Frontiers in medicine, 2026 — [PMID 42835036](https://pubmed.ncbi.nlm.nih.gov/42835036/) — _ESKETAMINA_
-- **Efficacy of psychological and behavioral interventions for depressive symptoms in people with epilepsy: a systematic review and meta-analysis.** — Frontiers in medicine, 2026 — [PMID 42824472](https://pubmed.ncbi.nlm.nih.gov/42824472/) — _DEPRESJA_
-- **Optimal prophylaxis for perioperative drug-induced delayed neurocognitive recovery: a Bayesian network meta-analysis of 18 interventions with mechanism-based stratification.** — Frontiers in pharmacology, 2026 — [PMID 42846151](https://pubmed.ncbi.nlm.nih.gov/42846151/) — _ESKETAMINA_
-- **EVIDENCE-BASED PHARMACOTHERAPY FOR ANXIETY DISORDERS COMORBID WITH PTSD: A SYSTEMATIC REVIEW.** — Georgian medical news, 2026 Jul-Aug — [PMID 42830048](https://pubmed.ncbi.nlm.nih.gov/42830048/) — _PTSD_
-- **The Role of Psychosocial Factors in Returning to Physical Activity and Sport Among Female Football Players After Anterior Cruciate Ligament Injury: A Scoping Review.** — Sports medicine - open, 2026 Oct 3 — [PMID 42828697](https://pubmed.ncbi.nlm.nih.gov/42828697/) — _SCHIZOFRENIA_
+- **A rapid systematic review of palliative uses of ketamine for depression and pain in people living with advanced cancer.** — Annals of palliative medicine, 2026 Sep — [PMID 42854758](https://pubmed.ncbi.nlm.nih.gov/42854758/) — _DEPRESJA, ESKETAMINA_
+- **Ketamine and esketamine during breastfeeding: a systematic review of human pharmacokinetic, infant and lactation outcomes.** — European journal of clinical pharmacology, 2026 Oct 9 — [PMID 42850468](https://pubmed.ncbi.nlm.nih.gov/42850468/) — _DEPRESJA-LEKOOPORNA, ESKETAMINA_
+- **Psychoeducational interventions for children and adolescents with potentially traumatic experiences: a systematic review.** — European journal of psychotraumatology, 2026 Dec — [PMID 42879205](https://pubmed.ncbi.nlm.nih.gov/42879205/) — _PTSD_
+- **Artificial intelligence EEG biomarkers for schizophrenia diagnosis: Systematic review with PROBAST+AI assessment.** — European psychiatry : the journal of the Association of European Psychiatrists, 2026 Oct 15 — [PMID 42878218](https://pubmed.ncbi.nlm.nih.gov/42878218/) — _SCHIZOFRENIA_
+- **Safety, efficacy, and opioid-sparing effects of ketamine for analgesia in traumatic chest injury and rib fractures: a systematic review and meta-analysis.** — Frontiers in medicine, 2026 — [PMID 42871262](https://pubmed.ncbi.nlm.nih.gov/42871262/) — _ESKETAMINA_
+- **Efficacy of acupuncture, Chinese herbal medicine, combined acupuncture-herbal therapy, and western medication for adult chronic insomnia: a network meta-analysis.** — Frontiers in medicine, 2026 — [PMID 42876817](https://pubmed.ncbi.nlm.nih.gov/42876817/) — _BEZSENNOŚĆ_
+- **Comparative effectiveness of traditional Chinese medicine treatment strategies for insomnia: a systematic review and network meta-analysis.** — Frontiers in neurology, 2026 — [PMID 42856849](https://pubmed.ncbi.nlm.nih.gov/42856849/) — _BEZSENNOŚĆ_
+- **Self-medication of attention-deficit/hyperactivity disorder symptoms with psychoactive substances in adults: a scoping review of how symptom-relief motives are framed and operationalised across substances.** — Frontiers in psychiatry, 2026 — [PMID 42877221](https://pubmed.ncbi.nlm.nih.gov/42877221/) — _ESKETAMINA_
+- **Large-scale brain network modulation by auricular vagus neuromodulation in major depressive disorder: a systematic review of neuroimaging evidence.** — Frontiers in psychiatry, 2026 — [PMID 42877696](https://pubmed.ncbi.nlm.nih.gov/42877696/) — _DEPRESJA_
+- **Exercise-based interventions for postpartum depressive symptoms: a systematic review and network meta-analysis of exercise modality and weekly volume.** — Frontiers in psychiatry, 2026 — [PMID 42877236](https://pubmed.ncbi.nlm.nih.gov/42877236/) — _DEPRESJA_
+- **Comparative efficacy of digital health intervention delivery modalities on quality of life, anxiety, and depression in coronary heart disease: a systematic review and network meta-analysis.** — Frontiers in psychiatry, 2026 — [PMID 42865777](https://pubmed.ncbi.nlm.nih.gov/42865777/) — _DEPRESJA_
+- **Intensive cognitive behavioral therapy for obsessive-compulsive disorder: a meta-analysis of randomized controlled trials.** — Frontiers in psychiatry, 2026 — [PMID 42865979](https://pubmed.ncbi.nlm.nih.gov/42865979/) — _OCD_
+- **Homeopathy for the treatment of insomnia: a systematic review and meta-analysis.** — Frontiers in sleep, 2026 — [PMID 42865583](https://pubmed.ncbi.nlm.nih.gov/42865583/) — _BEZSENNOŚĆ_
+- **What Is the Association Between Psychosocial Risk Factors and Pain and Function Outcomes in People With Rotator Cuff Disorders? A Systematic Review.** — JOSPT open, 2026 Oct — [PMID 42876233](https://pubmed.ncbi.nlm.nih.gov/42876233/) — _SCHIZOFRENIA_
+- **The Impact of Plasmapheresis on Serum Concentrations of Antiseizure Medications: A Systematic Review.** — Journal of clinical apheresis, 2026 Oct — [PMID 42864878](https://pubmed.ncbi.nlm.nih.gov/42864878/) — _WALPROINIAN_
+- **Efficacy and Safety of Saffron and Ashwagandha for Stress-Related Mental Health Outcomes: A Systematic Review of Randomized Controlled Trials.** — Journal of visualized experiments : JoVE, 2026 Oct 9 — [PMID 42858054](https://pubmed.ncbi.nlm.nih.gov/42858054/) — _PTSD_
+- **[Psychotic Depression: A Systematic Review of its Clinical Aspects, Diagnosis and Treatment].** — Vertex (Buenos Aires, Argentina), 2026 Oct 10 — [PMID 42858131](https://pubmed.ncbi.nlm.nih.gov/42858131/) — _DEPRESJA_
+- **Cognitive bias modification for social anxiety: a living systematic review and network meta-analysis.** — Wellcome open research, 2026 — [PMID 42856155](https://pubmed.ncbi.nlm.nih.gov/42856155/) — _LĘK_
 
-## RCT (7)
+## RCT (8)
 
-- **A Randomized Controlled Trial of a Digital Stepped-Care Program to Reduce Anxiety and Depressive Symptoms Among Long-Term Care Workers With Psychological Distress: The REPICAL Study.** — Depression and anxiety, 2026 — [PMID 42829513](https://pubmed.ncbi.nlm.nih.gov/42829513/) — _LĘK, PTSD_
-- **Psychosocial mediators for the impact of personal genomic risk information on melanoma prevention and early detection behaviors.** — Annals of behavioral medicine : a publication of the Society of Behavioral Medicine, 2026 Jan 7 — [PMID 42847397](https://pubmed.ncbi.nlm.nih.gov/42847397/) — _SCHIZOFRENIA_
-- **Psychological factors as mediators of the effectiveness of telehealth mindfulness-based interventions for pain and pain-related conditions.** — Annals of behavioral medicine : a publication of the Society of Behavioral Medicine, 2026 Jan 7 — [PMID 42847411](https://pubmed.ncbi.nlm.nih.gov/42847411/) — _PTSD_
-- **Randomised controlled trial of fluoxetine versus naltrexone in compulsive sexual behaviour disorder.** — BMJ mental health, 2026 Oct 6 — [PMID 42838712](https://pubmed.ncbi.nlm.nih.gov/42838712/) — _FLUOKSETYNA_
-- **Acute Caffeine Intake Does Not Modulate Active or Reactive Inhibition in Non-Clinical Young Adults, and ADHD Symptoms Do Not Moderate Its Effects.** — Human psychopharmacology, 2026 Nov — [PMID 42830444](https://pubmed.ncbi.nlm.nih.gov/42830444/) — _ADHD-DOROŚLI_
-- **Efficacy of a Prescription-Based Mobile Digital Therapeutic as an Adjunct to Pharmacotherapy for the Acute Phase of Panic Disorder: Multicenter Randomized Controlled Trial.** — Journal of medical Internet research, 2026 Oct 5 — [PMID 42832728](https://pubmed.ncbi.nlm.nih.gov/42832728/) — _LĘK_
-- **Subacute effects of ketamine on neural correlates of reward processing.** — Translational psychiatry, 2026 Sep 25 — [PMID 42834034](https://pubmed.ncbi.nlm.nih.gov/42834034/) — _ESKETAMINA_
+- **The effect of tele-nursing counseling on functioning and medication adherence in individuals with bipolar disorder: A randomized controlled trial.** — Archives of psychiatric nursing, 2026 Oct — [PMID 42863911](https://pubmed.ncbi.nlm.nih.gov/42863911/) — _CHAD_
+- **The effect of psychoeducation-based motivational interviewing on schizophrenia-related knowledge and hope among individuals with schizophrenia: A single-blind randomized controlled trial.** — Archives of psychiatric nursing, 2026 Oct — [PMID 42863921](https://pubmed.ncbi.nlm.nih.gov/42863921/) — _SCHIZOFRENIA_
+- **Pharmacokinetic and Bioequivalence of Mirtazapine Orally Disintegrating Tablets: A Randomized, Crossover Study.** — Clinical pharmacology in drug development, 2026 Oct — [PMID 42850927](https://pubmed.ncbi.nlm.nih.gov/42850927/) — _MIRTAZAPINA_
+- **Effect of Anterior Quadratus Lumborum Block at the Lateral Supra-Arcuate Ligament Combined with Esketamine on the Quality of Postoperative Recovery After Laparoscopic Radical Surgery for Elderly Patients with Colorectal Cancer: A Randomized Controlled Trial.** — Drug design, development and therapy, 2026 — [PMID 42871149](https://pubmed.ncbi.nlm.nih.gov/42871149/) — _ESKETAMINA_
+- **Effect of a Single Subanesthetic Dose of Esketamine on Gastrointestinal Recovery After Laparoscopic Colorectal Cancer Surgery: A Randomized, Outcome-Assessor-Blinded, Placebo-Controlled Trial.** — Drug design, development and therapy, 2026 — [PMID 42861260](https://pubmed.ncbi.nlm.nih.gov/42861260/) — _ESKETAMINA_
+- **Reducing Caregiver Burden in First-Episode Psychosis: Effects of a Psychoeducational Pathway Led by an Advanced Practice Nurse-A Multicentre Stepped-Wedge Randomized Trial.** — International journal of mental health nursing, 2026 Oct — [PMID 42861836](https://pubmed.ncbi.nlm.nih.gov/42861836/) — _SCHIZOFRENIA_
+- **Opioid-free versus opioid-based anesthesia for robot-assisted radical prostatectomy: a single-center randomized controlled trial.** — Journal of robotic surgery, 2026 Oct 13 — [PMID 42867736](https://pubmed.ncbi.nlm.nih.gov/42867736/) — _ESKETAMINA_
+- **Effect of web-based education on NIV-related side effects and insomnia severity in COPD patients using home NIV: a randomized controlled trial.** — Sleep & breathing = Schlaf & Atmung, 2026 Oct 10 — [PMID 42859312](https://pubmed.ncbi.nlm.nih.gov/42859312/) — _BEZSENNOŚĆ_
 
-## INNE (4)
+## INNE (2)
 
-- **Psychosocial interventions for military personnel with PTSD: protocol of a systematic review and network meta-analysis.** — BMJ open, 2026 Oct 5 — [PMID 42833722](https://pubmed.ncbi.nlm.nih.gov/42833722/) — _PTSD, SCHIZOFRENIA_
-- **A Re-Appraisal of Three Network Meta-Analyses to Explain the Discrepancy in Findings for the Efficacy of Fluoxetine for the Treatment of Depression in Children and Adolescents.** — Cochrane evidence synthesis and methods, 2026 Nov — [PMID 42824445](https://pubmed.ncbi.nlm.nih.gov/42824445/) — _DEPRESJA, FLUOKSETYNA_
-- **Nutraceuticals and phytoceuticals in the treatment of bipolar disorder: A systematic review and network meta-analysis.** — European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology, 2026 Oct 5 — [PMID 42832826](https://pubmed.ncbi.nlm.nih.gov/42832826/) — _CHAD_
-- **Effect of Biologic Therapy on Depression and Anxiety Symptoms in Patients With Moderate-to-Severe Plaque Psoriasis: A Systematic Review and Network Meta-Analysis.** — The British journal of dermatology, 2026 Oct 3 — [PMID 42828417](https://pubmed.ncbi.nlm.nih.gov/42828417/) — _DEPRESJA_
+- **Efficacy of adjunctive mitochondrial modulators for bipolar depression: A comprehensive systematic review and network meta-analysis.** — Journal of affective disorders, 2026 Oct 12 — [PMID 42863801](https://pubmed.ncbi.nlm.nih.gov/42863801/) — _AGOMELATYNA, CHAD, DEPRESJA_
+- **Dismantling Psychological Interventions for Youth with Complex Trauma: A Systematic Review and Component Network Meta-Analysis.** — Psychotherapy and psychosomatics, 2026 Oct 10 — [PMID 42858309](https://pubmed.ncbi.nlm.nih.gov/42858309/) — _PTSD_
 
