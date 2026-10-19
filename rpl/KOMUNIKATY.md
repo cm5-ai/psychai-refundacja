@@ -1,6 +1,6 @@
 # Komunikaty bezpieczeństwa — leki psychiatryczne (RPL)
 
-Stan RPL: 2026-10-12
+Stan RPL: 2026-10-19
 
 Brak nowych komunikatów od poprzedniego spisu.
 

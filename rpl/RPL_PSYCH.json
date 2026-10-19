@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-10-12",
-  "sha256_zrodla": "a7f9794e2a6de716b8f33a00c2838db134dd0feb5ccbf6f24342ec923ba4c819",
+  "stan_na_dzien": "2026-10-19",
+  "sha256_zrodla": "48d33344c616fc49c647797d6a8f44ed196e212fd8fb89551cb32d43de5de794",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -19,8 +19,8 @@
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2694,
-  "opakowania": 9837,
+  "produkty": 2693,
+  "opakowania": 9832,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1242,
   "opakowania_ze_statusem": {
@@ -856,7 +856,7 @@
    ],
    "podmiot": "Delfarma Sp. z o.o.",
    "pozwolenie": "386/11",
-   "waznosc_pozwolenia": "2026-10-12",
+   "waznosc_pozwolenia": "2031-10-12",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -1324,7 +1324,7 @@
    ],
    "podmiot": "Delfarma Sp. z o.o.",
    "pozwolenie": "423/11",
-   "waznosc_pozwolenia": "2026-10-19",
+   "waznosc_pozwolenia": "2031-10-19",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -1850,7 +1850,7 @@
    ],
    "podmiot": "Delfarma Sp. z o.o.",
    "pozwolenie": "385/11",
-   "waznosc_pozwolenia": "2026-10-12",
+   "waznosc_pozwolenia": "2031-10-12",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -3912,7 +3912,7 @@
    ],
    "podmiot": "InPharm Sp. z o.o.",
    "pozwolenie": "462/11",
-   "waznosc_pozwolenia": "2026-10-28",
+   "waznosc_pozwolenia": "2031-10-28",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -4518,7 +4518,7 @@
    ],
    "podmiot": "InPharm Sp. z o.o.",
    "pozwolenie": "461/11",
-   "waznosc_pozwolenia": "2026-10-28",
+   "waznosc_pozwolenia": "2031-10-28",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -5717,6 +5717,55 @@
      "pozwolenie_eu": null,
      "id_opakowania": "161989",
      "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100545727",
+   "nazwa": "Xanax",
+   "nazwa_powszechna": "Alprazolamum",
+   "substancja": "Alprazolamum 1 mg",
+   "moc": "1 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N05BA12"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "360/26",
+   "waznosc_pozwolenia": "2031-09-25",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991609924",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168553",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991609931",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168554",
+     "opis": "50 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991609948",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168555",
+     "opis": "100 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -15124,35 +15173,6 @@
      "pozwolenie_eu": null,
      "id_opakowania": "106354",
      "opis": "100 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100411616",
-   "nazwa": "Aryzalera",
-   "nazwa_powszechna": "Aripiprazolum",
-   "substancja": "Aripiprazolum 15 mg",
-   "moc": "15 mg",
-   "postac": "Tabletki",
-   "atc": [
-    "N05AX12"
-   ],
-   "podmiot": "Delfarma Sp. z o.o.",
-   "pozwolenie": "298/18",
-   "waznosc_pozwolenia": "2023-10-17",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991385682",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129961",
-     "opis": "28 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -31487,6 +31507,35 @@
    ]
   },
   {
+   "id": "100545668",
+   "nazwa": "Frisium 10",
+   "nazwa_powszechna": "Clobazamum",
+   "substancja": "Clobazamum 10 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki",
+   "atc": [
+    "N05BA09"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "357/26",
+   "waznosc_pozwolenia": "2031-09-25",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991609894",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168546",
+     "opis": "20 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
    "id": "100028372",
    "nazwa": "Heminevrin",
    "nazwa_powszechna": "Clomethiazolum",
@@ -31628,7 +31677,7 @@
    "id": "100014980",
    "nazwa": "Clonazepamum TZF",
    "nazwa_powszechna": "Clonazepamum",
-   "substancja": "Clonazepamum 50 mg",
+   "substancja": "Clonazepamum 0.5 mg",
    "moc": "0,5 mg",
    "postac": "Tabletki",
    "atc": [
@@ -36001,35 +36050,6 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "114855",
-     "opis": "20 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100411480",
-   "nazwa": "Relanium",
-   "nazwa_powszechna": "Diazepamum",
-   "substancja": "Diazepamum 5 mg",
-   "moc": "5 mg",
-   "postac": "Tabletki",
-   "atc": [
-    "N05BA01"
-   ],
-   "podmiot": "Pretium Farm Sp. z o.o.",
-   "pozwolenie": "292/18",
-   "waznosc_pozwolenia": "2023-10-15",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05902023777417",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "129876",
      "opis": "20 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -46885,65 +46905,6 @@
    ]
   },
   {
-   "id": "100460204",
-   "nazwa": "Escitalopram Symphar",
-   "nazwa_powszechna": "Escitalopramum",
-   "substancja": "Escitaloprami oxalas 25.552 mg",
-   "moc": "20 mg",
-   "postac": "Tabletki powlekane",
-   "atc": [
-    "N06AB10"
-   ],
-   "podmiot": "Symphar Sp. z o.o.",
-   "pozwolenie": "27689",
-   "waznosc_pozwolenia": "2023-10-16",
-   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46020/characteristic",
-   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46020/leaflet",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05905669739825",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "149523",
-     "opis": "14 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05905669739832",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "149524",
-     "opis": "28 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05905669739849",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "149525",
-     "opis": "56 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05905669739856",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "149526",
-     "opis": "98 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100217848",
    "nazwa": "Escitil",
    "nazwa_powszechna": "Escitalopramum",
@@ -54162,6 +54123,35 @@
      "pozwolenie_eu": null,
      "id_opakowania": "2929",
      "opis": "5 amp. 3 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100545702",
+   "nazwa": "Haloperidol Delfarma",
+   "nazwa_powszechna": "Haloperidolum",
+   "substancja": "Haloperidolum/5 mg/ml",
+   "moc": "5 mg/ml",
+   "postac": "Roztwór do wstrzykiwań",
+   "atc": [
+    "N05AD01"
+   ],
+   "podmiot": "Delfarma Sp. z o.o.",
+   "pozwolenie": "358/26",
+   "waznosc_pozwolenia": "2031-09-25",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991609900",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168550",
+     "opis": "10 amp. 1 ml",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -67336,7 +67326,7 @@
    "id": "100311524",
    "nazwa": "Corbilta",
    "nazwa_powszechna": "Levodopum + Carbidopum + Entacaponum",
-   "substancja": "Levodopum 125 mg + Entacaponum 200 mg + Carbidopum 31.25 mg",
+   "substancja": "Entacaponum 200 mg + Levodopum 125 mg + Carbidopum 31.25 mg",
    "moc": "125 mg + 31,25 mg + 200 mg",
    "postac": "Tabletki powlekane",
    "atc": [
@@ -97139,7 +97129,7 @@
      "status": null,
      "pozwolenie_eu": "EU/1/08/479/002",
      "id_opakowania": "48860",
-     "opis": "1 fiol. proszku 1 fiol. rozp. 1 strzykawka 3 igły UR/Z/4c/051/26 - 04150073733131, 04262432571237 UR/Z/4c/099/26 - 04262432571299 UR/Z/4c/100/26 - 04262432571046 UR/Z/4c/097/26 - 04262432571237 UR/Z/4c/098/26 - 04262432571350 UR/Z/4c/116/26 - 04150073733131 UR/Z/4c/194/26 - 04262432571329",
+     "opis": "1 fiol. proszku 1 fiol. rozp. 1 strzykawka 3 igły UR/Z/4c/051/26 - 04150073733131, 04262432571237 UR/Z/4c/099/26 - 04262432571299 UR/Z/4c/100/26 - 04262432571046 UR/Z/4c/097/26 - 04262432571237 UR/Z/4c/098/26 - 04262432571350 UR/Z/4c/116/26 - 04150073733131 UR/Z/4c/194/26 - 04262432571329 UR/Z/4c/277/26 - 04262432571268",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -104534,65 +104524,6 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "83232",
-     "opis": "120 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100305216",
-   "nazwa": "Nootropil",
-   "nazwa_powszechna": "Piracetamum",
-   "substancja": "",
-   "moc": "1200 mg",
-   "postac": "Tabletki powlekane",
-   "atc": [
-    "N06BX03"
-   ],
-   "podmiot": "InPharm Sp. z o.o.",
-   "pozwolenie": "439/13",
-   "waznosc_pozwolenia": "2023-10-18",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909997227122",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87192",
-     "opis": "20 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909997227139",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87193",
-     "opis": "60 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909997227146",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87194",
-     "opis": "100 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909997227153",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87195",
      "opis": "120 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
