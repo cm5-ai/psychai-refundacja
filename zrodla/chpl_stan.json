@@ -1564,16 +1564,16 @@
 "podmiot": "Krka, d.d., Novo mesto",
 "sekcje": {
 "4.1": "4e32f50fbbce5da9",
-"4.2": "3b4438dfacad545f",
+"4.2": "cfe094822441739b",
 "4.3": "088a71d5d69608db",
-"4.4": "fede961a7b02cc78",
-"4.5": "6fc6540f87d2466b",
-"4.6": "32e7ce44b50c1651",
-"4.7": "98feb84fa1ad52ed",
-"4.8": "0f1e87a963b7f5b3",
-"4.9": "a0316a834504a146"
+"4.4": "201c4c9dfc929f27",
+"4.5": "0135b08b523dcaa2",
+"4.6": "8cda75abb5770e47",
+"4.7": "5d3ab1d68834c935",
+"4.8": "1cd774816cf2dafb",
+"4.9": "4f41cff5ff522d02"
 },
-"sha": "6bbf7977231bd071",
+"sha": "63d612d844fb7bce",
 "sub": "SERTRALINA"
 },
 "100110613": {
@@ -1583,16 +1583,16 @@
 "podmiot": "Krka, d.d., Novo mesto",
 "sekcje": {
 "4.1": "4e32f50fbbce5da9",
-"4.2": "3b4438dfacad545f",
+"4.2": "cfe094822441739b",
 "4.3": "088a71d5d69608db",
-"4.4": "fede961a7b02cc78",
-"4.5": "6fc6540f87d2466b",
-"4.6": "32e7ce44b50c1651",
-"4.7": "98feb84fa1ad52ed",
-"4.8": "0f1e87a963b7f5b3",
-"4.9": "a0316a834504a146"
+"4.4": "201c4c9dfc929f27",
+"4.5": "0135b08b523dcaa2",
+"4.6": "8cda75abb5770e47",
+"4.7": "5d3ab1d68834c935",
+"4.8": "1cd774816cf2dafb",
+"4.9": "4f41cff5ff522d02"
 },
-"sha": "6bbf7977231bd071",
+"sha": "63d612d844fb7bce",
 "sub": "SERTRALINA"
 },
 "100110620": {
@@ -7080,10 +7080,10 @@
 "4.5": "31aa2a0541fdece8",
 "4.6": "f5bbe055b118af33",
 "4.7": "cfa6e748e412c79e",
-"4.8": "1400f137ae1a08ee",
-"4.9": "edb10ecbb80325be"
+"4.8": "31b122185a0395cd",
+"4.9": "c145087818f8ceb8"
 },
-"sha": "5e319c2599127fbb",
+"sha": "3cb4386b94c2c640",
 "sub": "SERTRALINA"
 },
 "100262458": {
@@ -7099,10 +7099,10 @@
 "4.5": "31aa2a0541fdece8",
 "4.6": "f5bbe055b118af33",
 "4.7": "cfa6e748e412c79e",
-"4.8": "1400f137ae1a08ee",
-"4.9": "edb10ecbb80325be"
+"4.8": "31b122185a0395cd",
+"4.9": "c145087818f8ceb8"
 },
-"sha": "5e319c2599127fbb",
+"sha": "3cb4386b94c2c640",
 "sub": "SERTRALINA"
 },
 "100265333": {
@@ -13487,25 +13487,6 @@
 "4.9": "92f03ba8119bae07"
 },
 "sha": "1d685c6d90952b2b",
-"sub": "ESCYTALOPRAM"
-},
-"100460204": {
-"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/46020/characteristic",
-"moc": "20 mg",
-"nazwa": "Escitalopram Symphar",
-"podmiot": "Symphar Sp. z o.o.",
-"sekcje": {
-"4.1": "1edb88fcb46ee5f9",
-"4.2": "1efe33d205781b13",
-"4.3": "578dc63156780f9e",
-"4.4": "0217f8ed376c52e6",
-"4.5": "215739fd98940b74",
-"4.6": "52d2bec69d0785ed",
-"4.7": "523d74054a7b2f8e",
-"4.8": "67f33c99ddfceb9a",
-"4.9": "1e496889e6f3a758"
-},
-"sha": "a0450035f0797193",
 "sub": "ESCYTALOPRAM"
 },
 "100460359": {
