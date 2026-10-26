@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-10-19",
-  "sha256_zrodla": "48d33344c616fc49c647797d6a8f44ed196e212fd8fb89551cb32d43de5de794",
+  "stan_na_dzien": "2026-10-26",
+  "sha256_zrodla": "fd1c8c0855a8f379fe68970e9dbea089a534594d5b044a8c6bef59bf377ddf11",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -19,12 +19,12 @@
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2693,
-  "opakowania": 9832,
+  "produkty": 2692,
+  "opakowania": 9831,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1242,
   "opakowania_ze_statusem": {
-   "Skasowane": 394
+   "Skasowane": 407
   },
   "odczyt_kontrolny": 0,
   "komunikaty_produkty": 147,
@@ -5256,7 +5256,7 @@
    ],
    "podmiot": "InPharm Sp. z o.o.",
    "pozwolenie": "463/11",
-   "waznosc_pozwolenia": "2026-10-28",
+   "waznosc_pozwolenia": "2031-10-28",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -7157,7 +7157,7 @@
    ],
    "podmiot": "InPharm Sp. z o.o.",
    "pozwolenie": "399/21",
-   "waznosc_pozwolenia": "2026-10-21",
+   "waznosc_pozwolenia": "2031-10-21",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -21316,7 +21316,7 @@
    ],
    "podmiot": "Orion Corporation",
    "pozwolenie": "25162",
-   "waznosc_pozwolenia": "2024-03-04",
+   "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39886/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39886/leaflet",
    "komunikaty_bezpieczenstwa": [],
@@ -21345,7 +21345,7 @@
    ],
    "podmiot": "Orion Corporation",
    "pozwolenie": "25163",
-   "waznosc_pozwolenia": "2024-03-04",
+   "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39887/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39887/leaflet",
    "komunikaty_bezpieczenstwa": [],
@@ -26172,35 +26172,6 @@
      "pozwolenie_eu": null,
      "id_opakowania": "151081",
      "opis": "90 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100411941",
-   "nazwa": "Wellbutrin XR",
-   "nazwa_powszechna": "Bupropioni hydrochloridum",
-   "substancja": "Bupropioni hydrochloridum 300 mg",
-   "moc": "300 mg",
-   "postac": "Tabletki o zmodyfikowanym uwalnianiu",
-   "atc": [
-    "N06AX12"
-   ],
-   "podmiot": "Delfarma Sp. z o.o.",
-   "pozwolenie": "302/18",
-   "waznosc_pozwolenia": "2023-10-25",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991386061",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130019",
-     "opis": "30 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -41874,7 +41845,7 @@
    "nazwa": "Dutilox",
    "nazwa_powszechna": "Duloxetinum",
    "substancja": "Duloxetini hydrochloridum",
-   "moc": "30 mg",
+   "moc": "",
    "postac": "Kapsułki dojelitowe, twarde",
    "atc": [
     "N06AX21"
@@ -41899,7 +41870,7 @@
     {
      "gtin": "05909991249472",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112305",
      "opis": "7 kaps.",
@@ -41919,7 +41890,7 @@
     {
      "gtin": "05909991249496",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112307",
      "opis": "10 kaps.",
@@ -41929,7 +41900,7 @@
     {
      "gtin": "05909991249502",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112308",
      "opis": "14 kaps.",
@@ -41949,7 +41920,7 @@
     {
      "gtin": "05909991249526",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112310",
      "opis": "20 kaps.",
@@ -41983,7 +41954,7 @@
     {
      "gtin": "05909991249557",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112313",
      "opis": "28 kaps.",
@@ -42003,7 +41974,7 @@
     {
      "gtin": "05909991249571",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112315",
      "opis": "30 kaps.",
@@ -42013,7 +41984,7 @@
     {
      "gtin": "05909991249588",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112316",
      "opis": "50 kaps.",
@@ -42033,7 +42004,7 @@
     {
      "gtin": "05909991249601",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112318",
      "opis": "56 kaps.",
@@ -42057,7 +42028,7 @@
     {
      "gtin": "05909991249625",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112320",
      "opis": "60 kaps.",
@@ -42087,7 +42058,7 @@
     {
      "gtin": "05909991249656",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112323",
      "opis": "84 kaps.",
@@ -42097,7 +42068,7 @@
     {
      "gtin": "05909991249663",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112324",
      "opis": "98 kaps.",
@@ -42117,7 +42088,7 @@
     {
      "gtin": "05909991249687",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112326",
      "opis": "500 kaps.",
@@ -42127,7 +42098,7 @@
     {
      "gtin": "05909991249694",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112327",
      "opis": "504 kaps.",
@@ -67326,7 +67297,7 @@
    "id": "100311524",
    "nazwa": "Corbilta",
    "nazwa_powszechna": "Levodopum + Carbidopum + Entacaponum",
-   "substancja": "Entacaponum 200 mg + Levodopum 125 mg + Carbidopum 31.25 mg",
+   "substancja": "Levodopum 125 mg + Entacaponum 200 mg + Carbidopum 31.25 mg",
    "moc": "125 mg + 31,25 mg + 200 mg",
    "postac": "Tabletki powlekane",
    "atc": [
@@ -87197,7 +87168,7 @@
    "id": "100163549",
    "nazwa": "ValproLEK 300",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Natrii valproas + Acidum valproicum",
+   "substancja": "Acidum valproicum + Natrii valproas",
    "moc": "300 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
@@ -87241,7 +87212,7 @@
    "id": "100163555",
    "nazwa": "ValproLEK 500",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Natrii valproas + Acidum valproicum",
+   "substancja": "Acidum valproicum + Natrii valproas",
    "moc": "500 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
@@ -108749,7 +108720,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",
@@ -108808,7 +108779,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",
@@ -108954,7 +108925,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",
@@ -109013,7 +108984,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",
@@ -109072,7 +109043,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",
@@ -109171,7 +109142,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",
@@ -109250,7 +109221,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",
@@ -109329,7 +109300,7 @@
    "atc": [
     "N02BF02"
    ],
-   "podmiot": "Upjohn EESV",
+   "podmiot": "Viatris EESV",
    "pozwolenie": "",
    "waznosc_pozwolenia": "",
    "chpl": "",

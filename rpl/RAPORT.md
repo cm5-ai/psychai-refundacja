@@ -1,10 +1,10 @@
 # Spis RPL — leki psychiatryczne
 
-Stan RPL: 2026-10-19  
-Produkty: 2693, opakowania: 9832 (bez GTIN: 1242), błędy odczytu: 0, odczyt kontrolny: 0  
-Statusy opakowań: {'Skasowane': 394}  
+Stan RPL: 2026-10-26  
+Produkty: 2692, opakowania: 9831 (bez GTIN: 1242), błędy odczytu: 0, odczyt kontrolny: 0  
+Statusy opakowań: {'Skasowane': 407}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `17da3cd1110c47d3be84a39303bf8a6275e4c2b40116573c64ff674af3ecd614`
+sha256 spisu: `e24746bf0c812c7da3e4608b76d48508e563d2eb163d569fa46cbdef0c3d3740`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
@@ -67,7 +67,7 @@ sha256 spisu: `17da3cd1110c47d3be84a39303bf8a6275e4c2b40116573c64ff674af3ecd614`
 - **Donanemabum**: Koncentrat do sporządzania roztworu do infuzji: 350 mg
 - **Donepezili hydrochloridum**: Tabletki powlekane: 10 mg, 5 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 5 mg
 - **Doxepinum**: Kapsułki twarde: 10 mg, 25 mg
-- **Duloxetinum**: Kapsułki dojelitowe, twarde: 120 mg, 20 mg, 30 mg, 40 mg, 60 mg, 90 mg; Tabletki dojelitowe: 30 mg, 60 mg
+- **Duloxetinum**: Kapsułki dojelitowe, twarde: , 120 mg, 20 mg, 30 mg, 40 mg, 60 mg, 90 mg; Tabletki dojelitowe: 30 mg, 60 mg
 - **Entacaponum**: Tabletki powlekane: 200 mg
 - **Escitalopramum**: Krople doustne, roztwór: 20 mg/ml; Tabletki powlekane: 10 mg, 15 mg, 20 mg, 5 mg; Tabletki ulegające rozpadowi w jamie ustnej: 10 mg, 15 mg, 20 mg, 5 mg
 - **Esketaminum**: Aerozol do nosa, roztwór: 28 mg
