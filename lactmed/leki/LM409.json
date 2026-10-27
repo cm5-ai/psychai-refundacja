@@ -7,21 +7,26 @@
   "Pantoprazolum",
   "Pantoprazol",
   "Panyocid",
-  "Controloc Control",
-  "Somac Control",
-  "Pantecta Control",
-  "Pantoloc Control",
-  "Pantozol Control",
-  "BY-1023",
+  "Controloc",
+  "Somac",
+  "Pantecta",
+  "Pantoloc",
+  "PantozolBY-1023",
   "SK&F-96022",
+  "Altopan",
+  "Zovanta",
+  "SK&F 96022",
+  "SKF-96022",
+  "DTXSID4023416",
+  "SK-96022",
+  "NSC-759257BY-1023",
   "UNII-D8TST4O562",
   "BY 1023",
   "HSDB 7292",
-  "SK&F 96022",
-  "D8TST4O562",
-  "EC 600-331-6 6-(difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methylsulfinyl]-1H-benzimidazole"
+  "EC 600-331-6",
+  "6-(difluoromethoxy)-2-[(3,4-dimethoxypyridin-2-yl)methylsulfinyl]-1H-benzimidazole"
  ],
- "zaktualizowano": "2026-06-15",
+ "zaktualizowano": "2026-10-15",
  "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM409/",
  "sekcje": [
   [
@@ -38,7 +43,7 @@
   ],
   [
    "Drug Levels and Effects > Effects on Lactation and Breastmilk",
-   "A retrospective claims database study in the United States found that users of proton pump inhibitors had an increased risk of gynecomastia.\nA review article reported that a search of database from the European Pharmacovigilance Centre found 48 cases of gynecomastia, 3 cases of galactorrhea, 14 cases of breast pain and 4 cases of breast enlargement associated with pantoprazole. A search of the WHO global pharmacovigilance database found 97 cases of gynecomastia, 13 cases of galactorrhea, 35 cases of breast pain and 16 cases of breast enlargement associated with pantoprazole."
+   "A retrospective claims database study in the United States found that users of proton pump inhibitors had an increased risk of gynecomastia. It might have contributed to galactorrhea in one patient who was also taking domperidone.\nA review article reported that a search of database from the European Pharmacovigilance Centre found 48 cases of gynecomastia, 3 cases of galactorrhea, 14 cases of breast pain and 4 cases of breast enlargement associated with pantoprazole. A search of the WHO global pharmacovigilance database found 97 cases of gynecomastia, 13 cases of galactorrhea, 35 cases of breast pain and 16 cases of breast enlargement associated with pantoprazole."
   ],
   [
    "Drug Levels and Effects > Alternate Drugs to Consider",

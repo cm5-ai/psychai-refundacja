@@ -1,10 +1,10 @@
 {
 "metadata": {
 "zrodlo": "Drugs and Lactation Database (LactMed), NICHD/NLM, NCBI Bookshelf NBK501922 — domena publiczna",
-"zrodlo_aktualizacja": "2026-09-22",
-"sha256_archiwum": "d89069755b04191d7c80e882c2a20180e6ecb2e801b9bc59b5dc2133129a668a",
-"stan_na_dzien": "2026-10-20",
-"wpisy": 1956,
+"zrodlo_aktualizacja": "2026-10-22",
+"sha256_archiwum": "7ede21f401ed149689e23636e4ba85ac239bb632829c50db78c1cb66ecca956a",
+"stan_na_dzien": "2026-10-27",
+"wpisy": 1967,
 "bledy": 9,
 "uwaga": "Tylko laktacja. Nie obejmuje ciąży ani planowania ciąży. Nie zastępuje oceny klinicznej."
 },
@@ -71,11 +71,11 @@
 {
 "id": "LM1346",
 "tytul": "Abemaciclib",
-"zaktualizowano": "2018-12-03",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Abemaciclib",
 "Verzenio",
-"Abemaciclib [USAN:INN]"
+"Verzenios"
 ],
 "plik": "leki/LM1346.json"
 },
@@ -455,14 +455,15 @@
 {
 "id": "LM970",
 "tytul": "Acupuncture",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Acupuncture",
 "Acupressure",
 "electroacupuncture",
 "electro-acupuncture",
 "auriculotherapy",
-"auricular therapy"
+"auricular therapy",
+"Su Jok"
 ],
 "plik": "leki/LM970.json"
 },
@@ -767,7 +768,7 @@
 {
 "id": "LM584",
 "tytul": "Alcohol",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "alcohol",
 "ethanol",
@@ -1017,7 +1018,7 @@
 {
 "id": "LM335",
 "tytul": "Alprazolam",
-"zaktualizowano": "2025-12-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "alprazolam",
 "Xanax",
@@ -1718,7 +1719,7 @@
 {
 "id": "LM868",
 "tytul": "Anise",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Anise",
 "Pimpinella anisum",
@@ -1727,9 +1728,9 @@
 "anis vert",
 "aniseed",
 "anisi fructus",
-"graine d'anis vert",
+"graine d’anis vert",
 "green anise",
-"huile essentielle d'anis",
+"huile essentielle d’anis",
 "pinella",
 "semen anisi",
 "shatpushpa",
@@ -1920,6 +1921,16 @@
 "Azapropazon [German]"
 ],
 "plik": "leki/LM1117.json"
+},
+{
+"id": "apitegromab",
+"tytul": "Apitegromab",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Apitegromab",
+"Isembyld"
+],
+"plik": "leki/apitegromab.json"
 },
 {
 "id": "LM1168",
@@ -5170,7 +5181,7 @@
 {
 "id": "LM693",
 "tytul": "Cannabis",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Haschisch",
 "Marihuana",
@@ -5346,7 +5357,7 @@
 {
 "id": "LM881",
 "tytul": "Caraway",
-"zaktualizowano": "2025-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [],
 "plik": "leki/LM881.json"
 },
@@ -5567,6 +5578,22 @@
 "JM-8"
 ],
 "plik": "leki/LM1014.json"
+},
+{
+"id": "carboprost",
+"tytul": "Carboprost",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Carboprost tromethamine",
+"carboprost trometamol",
+"Hemabate",
+"Prostin 15M",
+"Prostinfenem",
+"Carboprostum",
+"Methyl-pgf2-alpha",
+"G02AD04"
+],
+"plik": "leki/carboprost.json"
 },
 {
 "id": "cardamom",
@@ -6409,7 +6436,7 @@
 {
 "id": "LM897",
 "tytul": "Chamomile",
-"zaktualizowano": "2021-02-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Kamillenoel",
 "Chamomile",
@@ -6428,14 +6455,14 @@
 "Oil german chamomile",
 "Kamillenoel [German]",
 "Chamomile oil, german",
-"CHAMOMILE OIL",
 "Hungarian chamomile oil",
 "Oils, chamomile,german",
 "Camomile oil, hungarian",
 "Chamomile oil [German]",
 "German chamomile extract",
-"Chamomile oil, hungarian",
-"Oils, chamomile, german"
+"Chamomile oil, Hungarian",
+"Oils, chamomile, german",
+"Chamomile flower oil, Hungarian"
 ],
 "plik": "leki/LM897.json"
 },
@@ -7082,7 +7109,7 @@
 {
 "id": "cinnamon",
 "tytul": "Cinnamon",
-"zaktualizowano": "2025-09-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Cinnamon",
 "Cinnamomum verum",
@@ -7818,7 +7845,7 @@
 {
 "id": "LM694",
 "tytul": "Cocaine",
-"zaktualizowano": "2026-04-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "cocaine",
 "Kokain",
@@ -7837,7 +7864,7 @@
 "Dama blanca",
 "Crack",
 "Snow",
-"Pimp's drug",
+"Pimp’s drug",
 "Nose candy",
 "White girl",
 "Star-spangled powder",
@@ -7851,7 +7878,7 @@
 {
 "id": "LM347",
 "tytul": "Codeine",
-"zaktualizowano": "2026-09-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "codeine",
 "Methylmorphine",
@@ -8098,7 +8125,7 @@
 {
 "id": "LM882",
 "tytul": "Coriander",
-"zaktualizowano": "2024-11-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Coriandrum",
 "Cilantro",
@@ -8184,7 +8211,7 @@
 {
 "id": "Covid_vaccines",
 "tytul": "COVID-19 Vaccines",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "COVID-19 Vaccines",
 "SARS-Co-V2 vaccine",
@@ -8360,7 +8387,7 @@
 {
 "id": "LM955",
 "tytul": "Cumin",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Cuminum cyminum",
 "Cuminum odorum",
@@ -9266,7 +9293,7 @@
 {
 "id": "LM1026",
 "tytul": "Denosumab",
-"zaktualizowano": "2026-04-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Denosumab",
 "Prolia",
@@ -9279,7 +9306,16 @@
 "Jubereq",
 "Ponlimsi",
 "Boncresa",
-"Oziltus"
+"Oziltus",
+"Degevma",
+"Aukelso",
+"Bildyos",
+"Bilprevda",
+"Enoby",
+"Jubbonti",
+"Wyost",
+"Xgeva",
+"Xtrenbo"
 ],
 "plik": "leki/LM1026.json"
 },
@@ -9391,14 +9427,33 @@
 {
 "id": "LM487",
 "tytul": "Desogestrel",
-"zaktualizowano": "2025-12-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Desogestrel",
 "Cerazette",
 "Desogestrelum",
-"desogen",
-"Desogestrelum [INN-Latin]",
-"81K9V7M3A3"
+"Desogen",
+"Desogestrelum",
+"Cerelle",
+"Desomono",
+"Feanolla",
+"Zelleta",
+"Nacrez",
+"Aizea",
+"Mircette",
+"Apri 28 day",
+"Isibloom",
+"Reclipsen 28 day",
+"Velivet",
+"Viorele",
+"Volnea",
+"Cazient",
+"Bekyree",
+"Cyred EQ",
+"Enskyce",
+"Juleber",
+"Kalliga",
+"Simliya"
 ],
 "plik": "leki/LM487.json"
 },
@@ -9737,7 +9792,7 @@
 {
 "id": "LM349",
 "tytul": "Diazepam",
-"zaktualizowano": "2025-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "diazepam",
 "Valium",
@@ -9770,7 +9825,7 @@
 {
 "id": "diazoxide",
 "tytul": "Diazoxide",
-"zaktualizowano": "2025-12-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Diazoxide",
 "Proglycem",
@@ -9883,7 +9938,7 @@
 {
 "id": "LM570",
 "tytul": "Dicyclomine",
-"zaktualizowano": "2025-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "dicyclomine",
 "Bentyl",
@@ -10122,7 +10177,7 @@
 {
 "id": "LM959",
 "tytul": "Dill",
-"zaktualizowano": "2025-05-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Dill",
 "Dillweed oil",
@@ -10378,7 +10433,7 @@
 {
 "id": "LM101",
 "tytul": "Diphtheria-Tetanus-Pertussis Vaccines",
-"zaktualizowano": "2026-09-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "DTaP",
 "DTP",
@@ -10592,7 +10647,7 @@
 {
 "id": "LM495",
 "tytul": "Domperidone",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "domperidone",
 "Motilium",
@@ -10937,13 +10992,15 @@
 {
 "id": "LM585",
 "tytul": "Duloxetine",
-"zaktualizowano": "2024-01-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
+"Duloxetine",
 "Cymbalta",
 "Drizalma Sprinkle",
-"Duloxetine",
 "Yentreve",
-"Xeristar"
+"Xeristar",
+"Duloxetina",
+"duloxetinum"
 ],
 "plik": "leki/LM585.json"
 },
@@ -11485,7 +11542,7 @@
 {
 "id": "LM1360",
 "tytul": "Emicizumab",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Emicizumab",
 "emicizumabum",
@@ -12106,7 +12163,7 @@
 {
 "id": "LM1470",
 "tytul": "Esketamine",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Esketamine",
 "Spravato",
@@ -12144,17 +12201,21 @@
 {
 "id": "LM412",
 "tytul": "Esomeprazole",
-"zaktualizowano": "2022-05-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Esomeprazole",
-"(S)-Omeprazole",
-"(-)-Omeprazole",
 "Alenia",
 "Esofag",
 "Nexiam",
+"esomeprazole",
+"esomeprazolum",
 "Escz",
-"(S)-(-)-Omeprazole",
-"Esomeprazole [INN:BAN]",
+"Perprazole",
+"Emozul",
+"Ventra",
+"Esopral",
+"Axagon",
+"Lucen",
 "IZRA 40"
 ],
 "plik": "leki/LM412.json"
@@ -12378,7 +12439,7 @@
 {
 "id": "LM420",
 "tytul": "Ethinyl Estradiol",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "ethinyl estradiol",
 "Ethynylestradiol",
@@ -12956,7 +13017,7 @@
 {
 "id": "LM883",
 "tytul": "Fennel",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Adas",
 "Almindelig fennikel",
@@ -13048,7 +13109,7 @@
 {
 "id": "LM356",
 "tytul": "Fentanyl",
-"zaktualizowano": "2026-09-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "fentanyl",
 "Fentanil",
@@ -13073,7 +13134,7 @@
 {
 "id": "LM870",
 "tytul": "Fenugreek",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Trigonella",
 "Fenugrec",
@@ -14805,7 +14866,7 @@
 {
 "id": "LM877",
 "tytul": "Ginger",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Ginger",
 "Zingiber officinale",
@@ -14927,7 +14988,7 @@
 {
 "id": "LM1402",
 "tytul": "Glecaprevir",
-"zaktualizowano": "2025-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Glecaprevir",
 "Mavyret"
@@ -15166,7 +15227,7 @@
 {
 "id": "LM904",
 "tytul": "Goat’s Rue",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Galega extract",
 "Goat’s rue",
@@ -15541,7 +15602,7 @@
 {
 "id": "LM1205",
 "tytul": "Heroin",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Diacetylmorphine",
 "Diamorphine",
@@ -15589,7 +15650,7 @@
 {
 "id": "LM963",
 "tytul": "Hibiscus",
-"zaktualizowano": "2025-05-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Abelmoschus cruentus",
 "Furcaria sabdariffa",
@@ -16119,6 +16180,18 @@
 "plik": "leki/icatibant.json"
 },
 {
+"id": "icosapent_ethyl",
+"tytul": "Icosapent Ethyl",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Icosapent Ethyl",
+"Epadel S",
+"Vascepa",
+"Vazkepa"
+],
+"plik": "leki/icosapent_ethyl.json"
+},
+{
 "id": "icotrokinra",
 "tytul": "Icotrokinra",
 "zaktualizowano": "2026-04-15",
@@ -16328,6 +16401,16 @@
 "Zyclara"
 ],
 "plik": "leki/imiquimod.json"
+},
+{
+"id": "imlunestrant",
+"tytul": "Imlunestrant",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Imlunestrant",
+"Inluriyo"
+],
+"plik": "leki/imlunestrant.json"
 },
 {
 "id": "LM555",
@@ -16568,7 +16651,7 @@
 {
 "id": "LM146",
 "tytul": "Influenza Vaccines",
-"zaktualizowano": "2026-05-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Flublok",
 "Flucelvax",
@@ -16638,7 +16721,7 @@
 {
 "id": "LM147",
 "tytul": "Insulin",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Ultraphane",
 "Actrapid",
@@ -17811,7 +17894,7 @@
 {
 "id": "LM399",
 "tytul": "Lamotrigine",
-"zaktualizowano": "2026-03-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Lamotrigine",
 "Lamictal",
@@ -18104,7 +18187,7 @@
 {
 "id": "LM926",
 "tytul": "Lemon Balm",
-"zaktualizowano": "2026-03-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Balm",
 "Balm Mint",
@@ -18126,6 +18209,34 @@
 "Toronjil"
 ],
 "plik": "leki/LM926.json"
+},
+{
+"id": "lemongrass",
+"tytul": "Lemongrass",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Lemongrass",
+"Cymbopogon citratus",
+"Cymbopogon flexuosus",
+"Cymbopogon schoenanthus",
+"barbed wire grass",
+"silky heads",
+"oily heads",
+"Cochin grass",
+"Malabar grass",
+"citronella grass",
+"fever grass",
+"Abafado",
+"British Indian Lemongrass",
+"Cana Santa",
+"Capim-Cidrao",
+"Capim-Santo",
+"Ceylon Citronella Grass",
+"Cimbopogone",
+"Citronella",
+"Citrongrass"
+],
+"plik": "leki/lemongrass.json"
 },
 {
 "id": "lenacapavir",
@@ -18168,11 +18279,10 @@
 {
 "id": "LM1278",
 "tytul": "Lenvatinib",
-"zaktualizowano": "2022-11-30",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Lenvatinib",
-"Lenvima",
-"Lenvatinib [USAN:INN]"
+"Lenvima"
 ],
 "plik": "leki/LM1278.json"
 },
@@ -18278,7 +18388,7 @@
 {
 "id": "LM362",
 "tytul": "Levetiracetam",
-"zaktualizowano": "2025-11-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Levetiracetam",
 "Keppra",
@@ -18457,7 +18567,7 @@
 {
 "id": "LM158",
 "tytul": "Levothyroxine",
-"zaktualizowano": "2026-09-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "L-thyroxine",
 "levothyroxine",
@@ -18597,6 +18707,39 @@
 "plik": "leki/LM500.json"
 },
 {
+"id": "linden",
+"tytul": "Linden",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Linden",
+"Tilia cordata",
+"Tilia parvifolia",
+"Tilia ulmifolia",
+"Tilia europaea",
+"Tilia vulgaris",
+"Tilia platyphyllos",
+"Tilia grandifolia",
+"Tilia rubra",
+"Tilia tomentosa",
+"Tilia argentea",
+"Basswood",
+"Bois de Tilleul",
+"European Linden",
+"Feuille de Tilleul",
+"Feuille Séchée de Tilleul",
+"Fleur de Tilleul",
+"Fleur Séchée de Tilleul",
+"Hungarian Silver Linden",
+"Lime Flower",
+"Lime Tree",
+"Silver Lime",
+"Silver Linden",
+"Small-Leaved Lime",
+"Tila"
+],
+"plik": "leki/linden.json"
+},
+{
 "id": "LM797",
 "tytul": "Linezolid",
 "zaktualizowano": "2024-07-15",
@@ -18611,7 +18754,7 @@
 {
 "id": "LM159",
 "tytul": "Liothyronine",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "liothyronine",
 "triiodothyronine",
@@ -18630,7 +18773,7 @@
 {
 "id": "LM831",
 "tytul": "Liotrix",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Liotrix",
 "Combithyrex",
@@ -18638,8 +18781,7 @@
 "Euthroid",
 "Thyrolar",
 "Diotroxin",
-"Levothyroxine mixture with Liothyronine",
-"disodium"
+"Levothyroxine mixture with Liothyronine"
 ],
 "plik": "leki/LM831.json"
 },
@@ -19453,7 +19595,7 @@
 {
 "id": "LM978",
 "tytul": "Marine Oils",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Promega",
 "Lovaza",
@@ -19463,7 +19605,6 @@
 "Oils, fish",
 "Eskimo 3",
 "Fish Oil",
-"Icosapent ethyl",
 "Vascepa",
 "Oils, glyceridic, fish",
 "Fats and Glyceridic oils, fish"
@@ -19772,6 +19913,22 @@
 "plik": "leki/LM167.json"
 },
 {
+"id": "memantine",
+"tytul": "Memantine",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Memantine",
+"Ebixa",
+"Namenda",
+"Axura",
+"memantina",
+"memantinum",
+"memantine",
+"3,5-dimethyladamantan-1-amine"
+],
+"plik": "leki/memantine.json"
+},
+{
 "id": "LM168",
 "tytul": "Meningococcal Vaccines",
 "zaktualizowano": "2026-05-15",
@@ -20054,7 +20211,7 @@
 {
 "id": "LM367",
 "tytul": "Methadone",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "methadone",
 "Physeptone",
@@ -21437,7 +21594,7 @@
 {
 "id": "LM297",
 "tytul": "Nadolol",
-"zaktualizowano": "2025-12-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "nadolol",
 "Corgard",
@@ -22126,7 +22283,7 @@
 {
 "id": "LM1002",
 "tytul": "Nipple Piercing",
-"zaktualizowano": "2025-12-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [],
 "plik": "leki/LM1002.json"
 },
@@ -22613,7 +22770,7 @@
 {
 "id": "LM923",
 "tytul": "Nutmeg",
-"zaktualizowano": "2024-11-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Myristica",
 "Nutmeg",
@@ -22684,7 +22841,7 @@
 {
 "id": "LM1313",
 "tytul": "Ocrelizumab",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Ocrelizumab",
 "Ocrevus",
@@ -22721,7 +22878,7 @@
 {
 "id": "LM204",
 "tytul": "Ofloxacin",
-"zaktualizowano": "2025-01-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "ofloxacin",
 "Ofloxacine",
@@ -23037,7 +23194,7 @@
 {
 "id": "LM421",
 "tytul": "Oral Levonorgestrel",
-"zaktualizowano": "2026-03-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Levonorgestrel",
 "D-Norgestrel",
@@ -23140,6 +23297,25 @@
 "Orlistat [USAN:INN:BAN]"
 ],
 "plik": "leki/LM886.json"
+},
+{
+"id": "ormeloxifene",
+"tytul": "Ormeloxifene",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Ormeloxifene",
+"centchroman",
+"Centron",
+"Saheli",
+"Choice-7",
+"Chhaya",
+"Tatkal-72",
+"ormeloxifenum",
+"G03XC04",
+"Levormeloxifene",
+"levormeloxifene [WHO-DD]"
+],
+"plik": "leki/ormeloxifene.json"
 },
 {
 "id": "ornidazole",
@@ -23814,18 +23990,19 @@
 {
 "id": "LM409",
 "tytul": "Pantoprazole",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "pantoprazole",
 "Pantozol",
 "Pantoprazolum",
 "Pantoprazol",
 "Panyocid",
-"Controloc Control",
-"Somac Control",
-"Pantecta Control",
-"Pantoloc Control",
-"Pantozol Control"
+"Controloc",
+"Somac",
+"Pantecta",
+"Pantoloc",
+"Altopan",
+"Zovanta"
 ],
 "plik": "leki/LM409.json"
 },
@@ -24490,10 +24667,11 @@
 {
 "id": "LM935",
 "tytul": "Peppermint",
-"zaktualizowano": "2025-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Mentha piperita",
-"Mentha lavanduliodora"
+"Mentha lavanduliodora",
+"Mentha aquatica x Mentha spicata"
 ],
 "plik": "leki/LM935.json"
 },
@@ -24981,7 +25159,7 @@
 {
 "id": "LM1401",
 "tytul": "Pibrentasvir",
-"zaktualizowano": "2025-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Pibrentasvir",
 "Mavyret"
@@ -25245,7 +25423,7 @@
 {
 "id": "LM220",
 "tytul": "Pneumococcal Vaccines",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Pneumovax-23",
 "Prevnar-13",
@@ -27615,6 +27793,34 @@
 "plik": "leki/romiplostim.json"
 },
 {
+"id": "rooibos",
+"tytul": "Rooibos",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Rooibos",
+"Aspalathus linearis",
+"Aspalathus contaminates",
+"Achyronia tenuifolia",
+"Aspalathus cognata",
+"Aspalathus Corymbosa",
+"Aspalathus Tenuifolia",
+"Genista Contaminata",
+"Psoralea linearis green red bush",
+"infusion rooibos",
+"kaffree tea",
+"red bush",
+"red bush tea",
+"redbush tea",
+"rooibos rouge",
+"té rojo",
+"té rojo rooibos",
+"thé rooibos",
+"thé rouge",
+"rooibo"
+],
+"plik": "leki/rooibos.json"
+},
+{
 "id": "LM628",
 "tytul": "Ropinirole",
 "zaktualizowano": "2024-02-15",
@@ -27662,7 +27868,7 @@
 {
 "id": "LM486",
 "tytul": "Rosuvastatin",
-"zaktualizowano": "2026-07-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Rosuvastatin",
 "Ezallor",
@@ -29314,7 +29520,7 @@
 {
 "id": "LM869",
 "tytul": "Stinging Nettle",
-"zaktualizowano": "2026-03-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Stinging Nettle",
 "Urtica dioica",
@@ -30728,7 +30934,7 @@
 {
 "id": "LM658",
 "tytul": "Tenofovir Disoproxil Fumarate",
-"zaktualizowano": "2026-08-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Tenofovir Disoproxil Fumarate",
 "tenofovirum",
@@ -30919,6 +31125,27 @@
 "zaktualizowano": "2023-01-15",
 "synonimy": [],
 "plik": "leki/LM1349.json"
+},
+{
+"id": "tetrabenazine",
+"tytul": "Tetrabenazine",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Tetrabenazine",
+"Nitoman",
+"Xenazine",
+"Tetmodis",
+"Rubigen",
+"Tetrabenazina",
+"Tetrabenazinum",
+"Revocon",
+"N07XX06",
+"deutetrabenazine",
+"Austedo",
+"deutetrabenazina",
+"deutetrabenazinum"
+],
+"plik": "leki/tetrabenazine.json"
 },
 {
 "id": "LM714",
@@ -31245,7 +31472,7 @@
 {
 "id": "LM832",
 "tytul": "Thyroid",
-"zaktualizowano": "2026-06-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "Thyrocrine",
 "Thyroidinum",
@@ -31256,9 +31483,7 @@
 "Dried thyroid",
 "Thyroid gland",
 "Dessicated thyroid",
-"Desiccated thyroid",
-"Dried thyroid [JAN]",
-"0B4FDL9I6P"
+"Desiccated thyroid"
 ],
 "plik": "leki/LM832.json"
 },
@@ -31460,6 +31685,24 @@
 "TPV"
 ],
 "plik": "leki/LM660.json"
+},
+{
+"id": "tiratricol",
+"tytul": "Tiratricol",
+"zaktualizowano": "2026-10-15",
+"synonimy": [
+"Tiratricol",
+"Emcitate",
+"Triac",
+"Téatrois",
+"Nidolin",
+"Tiracana",
+"Triiodothyroacetic acid",
+"Tiratricolum",
+"D11AX08",
+"H03AA04"
+],
+"plik": "leki/tiratricol.json"
 },
 {
 "id": "tirbanibulin",
@@ -33594,7 +33837,7 @@
 {
 "id": "LM1437",
 "tytul": "Vitamin B12",
-"zaktualizowano": "2025-03-15",
+"zaktualizowano": "2026-10-15",
 "synonimy": [
 "cobalamin",
 "cyanocobalamin",

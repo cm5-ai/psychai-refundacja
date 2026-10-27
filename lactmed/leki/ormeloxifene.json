@@ -1,0 +1,52 @@
+{
+ "id": "ormeloxifene",
+ "tytul": "Ormeloxifene",
+ "synonimy": [
+  "Ormeloxifene",
+  "centchroman",
+  "Centron",
+  "Saheli",
+  "Choice-7",
+  "Chhaya",
+  "Tatkal-72",
+  "UNII-44AXY5VE90",
+  "ormeloxifenum",
+  "DTXCID901473968",
+  "RefChem:856920",
+  "G03XC04",
+  "DTXSID6046844",
+  "Levormeloxifene",
+  "SCHEMBL107914",
+  "CHEMBL301327",
+  "orb1702034",
+  "levormeloxifene [WHO-DD]",
+  "BDBM50219398",
+  "AKOS032953987",
+  "DB13310",
+  "1-[2-[4-[(3R,4R)-7-methoxy-2,2-dimethyl-3-phenyl-3,4-dihydrochromen-4-yl]phenoxy]ethyl]pyrrolidine"
+ ],
+ "zaktualizowano": "2026-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/ormeloxifene/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Ormeloxifene (also called centchroman) is a nonhormonal contraceptive agent that is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is used in other countries, especially India. It is generally considered to be compatible with breastfeeding."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Ormeloxifene has a serum half-life of about 7 days and a milk half-life of 10 days, and the typical dose of the drug for contraception is 30 mg once a week after 30 mg twice weekly for 12 weeks, making an accurate calculation of an RID complicated.\nMaternal Levels. A preliminary study was done in 3 nursing mothers who had been taking ormeloxifene for more than 16 weeks. A 30 mg dose was given, and a single milk sample was obtained 4 hours after the dose, which was considered to be the time of the peak plasma concentration. (Note that subsequent studies would show that the peak concentration in milk is later.) The authors estimated the RID to be between 1.6% and 3.1%, while acknowledging that a single time point is not adequate for a valid pharmacokinetic study.\nTwo groups of lactating women were given ormeloxifene. One group of 8 women received 30 mg every week and the other group of 5 women received 30 mg twice weekly. In the first group, milk samples taken at 4 and 6 hours contained average amounts of 38.4 and 78.7 mcg/L of ormeloxifene, respectively. In the twice weekly group, the milk ormeloxifene concentration averaged 48.2 mcg/L at 4 hours after the 13th dose (3 subjects), 81.1 mcg/L at 6 hours after the 13th doses (2 subjects), and 76.4 mcg/L at 4 hours after the 25th dose. The authors calculate the RID to be between 3.4% and 6.6%, using these “worst-case” peak values, which probably overestimate the true values.\nA study in 4 nursing mothers whose infants were over 1 year of age gave each woman a single 30 dose of ormeloxifene. Blood and milk samples were collected up to 23 times over 672 hours after the dose with milk collected within 10 minutes after the blood sample. The average peak milk level was 70.7 mcg/L at an average of 8.7 hours. The mean half-life in milk was 240 hours. The authors estimated an average RID of 7.4%.\nInfant Levels. Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "A study in 4 nursing mothers whose infants were over 1 year of age gave each woman a single 30 dose of ormeloxifene. The infants were likely only partially breastfed. The researchers reported that nothing unusual was seen in the infants."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ],
+  [
+   "Drug Levels and Effects > Alternate Drugs to Consider",
+   "Etonogestrel, Intrauterine Copper Contraceptive, Oral Levonorgestrel, Intrauterine Levonorgestrel, Levonorgestrel Implant, Medroxyprogesterone Acetate, Norethindrone, Progesterone"
+  ]
+ ]
+}

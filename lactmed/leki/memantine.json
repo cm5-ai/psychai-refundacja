@@ -1,0 +1,42 @@
+{
+ "id": "memantine",
+ "tytul": "Memantine",
+ "synonimy": [
+  "Memantine",
+  "Ebixa",
+  "Namenda",
+  "Axura",
+  "memantina",
+  "memantinum",
+  "memantine",
+  "DTXSID5045174",
+  "DRG-0267",
+  "UNII-W8O17SJF3T",
+  "D-145",
+  "NSC-757843",
+  "DTXCID3025174",
+  "CHEBI:64312",
+  "UNII:JY0WD0UA60",
+  "3,5-dimethyladamantan-1-amine"
+ ],
+ "zaktualizowano": "2026-10-15",
+ "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/memantine/",
+ "sekcje": [
+  [
+   "Drug Levels and Effects > Summary of Use during Lactation",
+   "Little information is available on the clinical use of memantine during breastfeeding. One case report implicates memantine as the possible cause of cholestatic jaundice in a 6-week-old infant. If memantine is used during breastfeeding, monitor the infant closely for signs of jaundice."
+  ],
+  [
+   "Drug Levels and Effects > Drug Levels",
+   "Maternal Levels. An exclusively nursing mother was taking memantine (dose not stated) as part of a clinical study on migraine. At 100 days postpartum her blood level at a single unspecified timepoint was 94 mcg/L and a milk-to-plasma ratio at that time was 1.42, implying a milk level of 133 mcg/L. Because of the lack of documentation of the dose and timing, it is unclear what dose a breastfed infant might receive.\nInfant Levels. An exclusively nursing mother was taking memantine (dose not stated) as part of a clinical study on migraine. At 100 days postpartum her infant’s blood level at a single unspecified timepoint was 1.14 mcg/L."
+  ],
+  [
+   "Drug Levels and Effects > Effects in Breastfed Infants",
+   "An exclusively nursing mother was taking memantine (dose not stated) as part of a clinical study on migraine. She was also taking prenatal vitamins, but no other medications. Her 8-week-old infant presented with growth faltering and scleral icterus. Since birth, the patient had dropped greater than 2 SDs of Z score for weight. The infant did not have newborn jaundice at birth, but had developed jaundice in the past 2 weeks. Liver enzymes and bilirubin values were elevated, and the INR was mildly elevated at 1.5. The infant’s vitamin D and K levels were low, but other potential cause of jaundice were ruled out. Formula was substituted for breastfeeding, and the infant was given ursodiol. Liver tests normalized over time and the mother resumed breastfeeding at 100 days after the initial abnormal laboratory values, with no increase in liver tests up to 168 days. The authors considered memantine to be the cause of the infant’s cholestatic jaundice. This case represents a possible rare case of memantine-induced hepatotoxicity."
+  ],
+  [
+   "Drug Levels and Effects > Effects on Lactation and Breastmilk",
+   "Relevant published information was not found as of the revision date."
+  ]
+ ]
+}

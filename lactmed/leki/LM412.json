@@ -3,23 +3,31 @@
  "tytul": "Esomeprazole",
  "synonimy": [
   "Esomeprazole",
-  "(S)-Omeprazole",
-  "(-)-Omeprazole",
   "Alenia",
   "Esofag",
   "Nexiam",
+  "esomeprazole",
+  "esomeprazolum",
   "Escz",
-  "(S)-(-)-Omeprazole",
-  "Esomeprazole [INN:BAN]",
-  "119141-88-7",
+  "Perprazole",
+  "Emozul",
+  "Ventra",
+  "Esopral",
+  "Axagon",
+  "Lucen",
+  "SCHEMBL19535",
+  "SCHEMBL21628",
+  "BIDD:GT0020",
+  "GTPL5488",
+  "orb1306590",
+  "orb1940496",
+  "SCHEMBL2230438",
   "UNII-N3PA6559FT",
   "IZRA 40",
-  "N3PA6559FT",
   "HSDB 8158",
-  "5-Methoxy-2-((S)-((4-methoxy-3,5-dimethyl-2-pyridyl)methyl)sulfinyl)benzimidazole",
-  "1H-Benzimidazole, 5-methoxy-2-((S)-((4-methoxy-3,5-dimethyl-2- pyridinyl)methyl)sulfinyl)-"
+  "6-methoxy-2-[(S)-(4-methoxy-3,5-dimethylpyridin-2-yl)methylsulfinyl]-1H-benzimidazole"
  ],
- "zaktualizowano": "2022-05-15",
+ "zaktualizowano": "2026-10-15",
  "url": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM412/",
  "sekcje": [
   [
@@ -36,7 +44,7 @@
   ],
   [
    "Drug Levels and Effects > Effects on Lactation and Breastmilk",
-   "Omeprazole (the racemic form) has been reported to cause gynecomastia in several men and a retrospective claims database study in the United States found that users of proton pump inhibitors had an increased risk of gynecomastia.\nA review article reported that a search of database from the European Pharmacovigilance Centre found 45 cases of gynecomastia, 9 cases of galactorrhea, 19 cases of breast pain and 12 cases of breast enlargement associated with esomeprazole. A search of the WHO global pharmacovigilance database found 114 cases of gynecomastia, 38 cases of galactorrhea, 56 cases of breast pain and 28 cases of breast enlargement associated with esomeprazole.\nOne woman developed elevated serum prolactin and estradiol with bilateral galactorrhea one week after starting esomeprazole 40 mg once daily for reflux esophagitis. The galactorrhea disappeared 3 days after discontinuing esomeprazole and prolactin and estradiol returned to normal 7 days after discontinuation. One month later, the patient restarted esomeprazole and again developed bilateral galactorrhea. She was switched to lansoprazole with no galactorrhea developing. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
+   "Omeprazole (the racemic form) has been reported to cause gynecomastia in several men and a retrospective claims database study in the United States found that users of proton pump inhibitors had an increased risk of gynecomastia. It might have contributed to galactorrhea in one patient who was also taking domperidone.\nA review article reported that a search of database from the European Pharmacovigilance Centre found 45 cases of gynecomastia, 9 cases of galactorrhea, 19 cases of breast pain and 12 cases of breast enlargement associated with esomeprazole. A search of the WHO global pharmacovigilance database found 114 cases of gynecomastia, 38 cases of galactorrhea, 56 cases of breast pain and 28 cases of breast enlargement associated with esomeprazole.\nOne woman developed elevated serum prolactin and estradiol with bilateral galactorrhea one week after starting esomeprazole 40 mg once daily for reflux esophagitis. The galactorrhea disappeared 3 days after discontinuing esomeprazole and prolactin and estradiol returned to normal 7 days after discontinuation. One month later, the patient restarted esomeprazole and again developed bilateral galactorrhea. She was switched to lansoprazole with no galactorrhea developing. The prolactin level in a mother with established lactation may not affect her ability to breastfeed."
   ],
   [
    "Drug Levels and Effects > Alternate Drugs to Consider",
