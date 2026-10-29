@@ -1,13 +1,18 @@
-# Strażnik ChPL — 2026-10-22
+# Strażnik ChPL — 2026-10-29
 
 Produkty sprawdzane: 812; błędy pobrania: 0; porównanie z poprzednim
 
-## Zmienione ChPL (1 substancji)
+## Zmienione ChPL (2 substancji)
 
-### SERTRALINA — zmienione 4 ChPL
-- Asentra 100 mg (Krka, d.d., Novo mesto) — sekcje: 4.2, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11061/characteristic
-- Asentra 50 mg (Krka, d.d., Novo mesto) — sekcje: 4.2, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/11057/characteristic
-- Sertralina Krka 100 mg (Krka, d.d., Novo mesto) — sekcje: 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26245/characteristic
-- Sertralina Krka 50 mg (Krka, d.d., Novo mesto) — sekcje: 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26243/characteristic
+### METYLOFENIDAT — zmienione 4 ChPL
+- Mindetra 18 mg (Teva Pharmaceuticals Polska Sp. z o.o.) — sekcje: 4.8 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52128/characteristic
+- Mindetra 27 mg (Teva Pharmaceuticals Polska Sp. z o.o.) — sekcje: 4.8 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52129/characteristic
+- Mindetra 36 mg (Teva Pharmaceuticals Polska Sp. z o.o.) — sekcje: 4.8 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52130/characteristic
+- Mindetra 54 mg (Teva Pharmaceuticals Polska Sp. z o.o.) — sekcje: 4.8 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52131/characteristic
 
-Sekcje istotne (4.2 dawkowanie, 4.3 przeciwwskazania, 4.4 ostrzeżenia, 4.5 interakcje, 4.6 ciąża/laktacja): SERTRALINA
+### RISPERIDON — zmienione 3 ChPL
+- Rispolept Consta 25 mg (Janssen-Cilag International N.V.) — sekcje: 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12303/characteristic
+- Rispolept Consta 37,5 mg (Janssen-Cilag International N.V.) — sekcje: 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/19815/characteristic
+- Rispolept Consta 50 mg (Janssen-Cilag International N.V.) — sekcje: 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/12300/characteristic
+
+Sekcje istotne (4.2 dawkowanie, 4.3 przeciwwskazania, 4.4 ostrzeżenia, 4.5 interakcje, 4.6 ciąża/laktacja): bez zmian
