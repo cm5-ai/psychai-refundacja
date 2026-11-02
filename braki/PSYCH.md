@@ -1,8 +1,8 @@
 # Braki MZ — leki psychiatryczne
 
-Dz.Urz.MZ 2026 poz. 63 z dnia 2026-09-01, stan na 2026-09-09 — 336 GTIN ogółem, psychiatrycznych: 99
+Dz.Urz.MZ 2026 poz. 76 z dnia 2026-10-29, stan na 2026-11-06 — 337 GTIN ogółem, psychiatrycznych: 106
 
-https://dziennikmz.mz.gov.pl/DUM_MZ/2026/63/akt.pdf
+https://dziennikmz.mz.gov.pl/DUM_MZ/2026/76/akt.pdf
 
 - Absenor 300 mg (Natrii valproas) — GTIN 05909990042371
 - Absenor 500 mg (Natrii valproas) — GTIN 05909990042364
@@ -48,6 +48,13 @@ https://dziennikmz.mz.gov.pl/DUM_MZ/2026/63/akt.pdf
 - Kwetaplex XR 300 mg (Quetiapinum) — GTIN 05909990965403
 - Kwetaplex XR 400 mg (Quetiapinum) — GTIN 05909990965441
 - Kwetaplex XR 50 mg (Quetiapinum) — GTIN 05909990965335
+- Madopar 125 mg 100 mg + 25 mg (Levodopum + Benserazidum) — GTIN 05909990095018
+- Madopar 125 mg 100 mg + 25 mg (Levodopum + Benserazidum) — GTIN 05909990748723
+- Madopar 200 mg + 50 mg (Levodopum + Benserazidum) — GTIN 05909990095216
+- Madopar 250 mg 200 mg + 50 mg (Levodopum + Benserazidum) — GTIN 05909990095117
+- Madopar 62,5 mg 50 mg + 12,5 mg (Levodopum + Benserazidum) — GTIN 05909990094912
+- Madopar 62,5 mg 50 mg + 12,5 mg (Levodopum + Benserazidum) — GTIN 05909990748624
+- Madopar HBS 100 mg + 25 mg (Levodopum + Benserazidum) — GTIN 05909990377510
 - Medikinet 10 mg 10 mg (Methylphenidati hydrochloridum) — GTIN 05909990652198
 - Medikinet 20 mg 20 mg (Methylphenidati hydrochloridum) — GTIN 05909990652204
 - Medikinet 5 mg 5 mg (Methylphenidati hydrochloridum) — GTIN 05909990652181
