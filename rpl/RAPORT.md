@@ -1,10 +1,10 @@
 # Spis RPL — leki psychiatryczne
 
-Stan RPL: 2026-10-26  
-Produkty: 2692, opakowania: 9831 (bez GTIN: 1242), błędy odczytu: 0, odczyt kontrolny: 0  
-Statusy opakowań: {'Skasowane': 407}  
+Stan RPL: 2026-11-02  
+Produkty: 2692, opakowania: 9829 (bez GTIN: 1241), błędy odczytu: 0, odczyt kontrolny: 0  
+Statusy opakowań: {'Skasowane': 405}  
 Refundacja: 84W|2026-10-01|17f2a99b885b  
-sha256 spisu: `e24746bf0c812c7da3e4608b76d48508e563d2eb163d569fa46cbdef0c3d3740`
+sha256 spisu: `c3bb2ebb9f83b702e8629b28016fb7169c5a9a3e33e13b966a8ed47f3ca72cf6`
 
 ## GTIN z wykazu refundacji nieznalezione w tym wyciągu RPL (4)
 
@@ -174,7 +174,6 @@ sha256 spisu: `e24746bf0c812c7da3e4608b76d48508e563d2eb163d569fa46cbdef0c3d3740`
 - **Rotigotinum**: System transdermalny, plaster: 1 mg/24 h, 2 mg/24 h, 2 mg/24 h;4 mg/24 h;6 mg/24 h;8 mg/24 h, 3 mg/24 h, 4 mg/24 h, 6 mg/24 h, 8 mg/24 h
 - **Rufinamidum**: Tabletki powlekane: 100 mg, 200 mg, 400 mg; Zawiesina doustna: 40 mg/ml
 - **Safinamidum**: Tabletki powlekane: 100 mg, 50 mg
-- **Selegilini hydrochloridum**: Tabletki: 5 mg
 - **Selegilinum**: Tabletki powlekane: 5 mg
 - **Sertalinum**: Tabletki powlekane: 100 mg
 - **Sertindolum**: Tabletki powlekane: 12 mg, 16 mg, 4 mg

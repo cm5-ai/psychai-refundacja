@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-10-26",
-  "sha256_zrodla": "fd1c8c0855a8f379fe68970e9dbea089a534594d5b044a8c6bef59bf377ddf11",
+  "stan_na_dzien": "2026-11-02",
+  "sha256_zrodla": "3bec1d49c08797a4a0e77cafeaa8e7ceb6bd335c59a21f589fe0ae2fdf2bcdb2",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -20,11 +20,11 @@
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
   "produkty": 2692,
-  "opakowania": 9831,
+  "opakowania": 9829,
   "bledy_parsowania_opakowan": 0,
-  "opakowania_bez_gtin": 1242,
+  "opakowania_bez_gtin": 1241,
   "opakowania_ze_statusem": {
-   "Skasowane": 407
+   "Skasowane": 405
   },
   "odczyt_kontrolny": 0,
   "komunikaty_produkty": 147,
@@ -25561,6 +25561,35 @@
      "pozwolenie_eu": null,
      "id_opakowania": "150757",
      "opis": "90 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100547160",
+   "nazwa": "Welbox",
+   "nazwa_powszechna": "Bupropioni hydrochloridum",
+   "substancja": "Bupropioni hydrochloridum/150 mg",
+   "moc": "150 mg",
+   "postac": "Tabletki o zmodyfikowanym uwalnianiu",
+   "atc": [
+    "N06AX12"
+   ],
+   "podmiot": "InPharm Sp. z o.o.",
+   "pozwolenie": "379/26",
+   "waznosc_pozwolenia": "2031-10-16",
+   "chpl": "",
+   "ulotka": "",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991611477",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168798",
+     "opis": "30 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -67297,7 +67326,7 @@
    "id": "100311524",
    "nazwa": "Corbilta",
    "nazwa_powszechna": "Levodopum + Carbidopum + Entacaponum",
-   "substancja": "Levodopum 125 mg + Entacaponum 200 mg + Carbidopum 31.25 mg",
+   "substancja": "Levodopum 125 mg + Carbidopum 31.25 mg + Entacaponum 200 mg",
    "moc": "125 mg + 31,25 mg + 200 mg",
    "postac": "Tabletki powlekane",
    "atc": [
@@ -83600,45 +83629,6 @@
    ]
   },
   {
-   "id": "100496652",
-   "nazwa": "Midazolam Eignapharma",
-   "nazwa_powszechna": "Midazolamum",
-   "substancja": "Midazolamum 5 mg/ml",
-   "moc": "5 mg/ml",
-   "postac": "Roztwór do wstrzykiwań / do infuzji",
-   "atc": [
-    "N05CD08"
-   ],
-   "podmiot": "Troikaa Pharmaceuticals Europe s.r.o.",
-   "pozwolenie": "29328",
-   "waznosc_pozwolenia": "2030-10-10",
-   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49665/characteristic",
-   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49665/leaflet",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "08904131212474",
-     "kategoria": "Lz",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "161908",
-     "opis": "5 amp. 10 ml",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "08904131212467",
-     "kategoria": "Lz",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "161909",
-     "opis": "5 amp. 3 ml",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100445220",
    "nazwa": "Midazolam hameln",
    "nazwa_powszechna": "Midazolamum",
@@ -83994,6 +83984,45 @@
      "pozwolenie_eu": null,
      "id_opakowania": "134062",
      "opis": "1 amp.-strzyk. 50 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100496652",
+   "nazwa": "Midazolam Troikaa",
+   "nazwa_powszechna": "Midazolamum",
+   "substancja": "Midazolamum 5 mg/ml",
+   "moc": "5 mg/ml",
+   "postac": "Roztwór do wstrzykiwań / do infuzji",
+   "atc": [
+    "N05CD08"
+   ],
+   "podmiot": "Troikaa Pharmaceuticals Europe s.r.o.",
+   "pozwolenie": "29328",
+   "waznosc_pozwolenia": "2030-10-10",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49665/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/49665/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "08904131212474",
+     "kategoria": "Lz",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "161908",
+     "opis": "5 amp. 10 ml",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "08904131212467",
+     "kategoria": "Lz",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "161909",
+     "opis": "5 amp. 3 ml",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -135892,55 +135921,6 @@
      "pozwolenie_eu": "EU/1/14/984/005",
      "id_opakowania": "107404",
      "opis": "100 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100201907",
-   "nazwa": "Segan",
-   "nazwa_powszechna": "Selegilini hydrochloridum",
-   "substancja": "Selegilini hydrochloridum 5 mg",
-   "moc": "5 mg",
-   "postac": "Tabletki",
-   "atc": [
-    "N04BD01"
-   ],
-   "podmiot": "Zakłady Farmaceutyczne POLPHARMA S.A.",
-   "pozwolenie": "07460",
-   "waznosc_pozwolenia": "2023-10-27",
-   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20190/characteristic",
-   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/20190/leaflet",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": null,
-     "kategoria": "Rp",
-     "status": "Skasowane",
-     "pozwolenie_eu": null,
-     "id_opakowania": "11803",
-     "opis": "60 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909990746019",
-     "kategoria": "Rp",
-     "status": "Skasowane",
-     "pozwolenie_eu": null,
-     "id_opakowania": "16721",
-     "opis": "60 tabl. w fiolce",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909990746026",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "16722",
-     "opis": "60 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
