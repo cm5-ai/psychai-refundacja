@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-11-02",
-  "sha256_zrodla": "3bec1d49c08797a4a0e77cafeaa8e7ceb6bd335c59a21f589fe0ae2fdf2bcdb2",
+  "stan_na_dzien": "2026-11-09",
+  "sha256_zrodla": "6c72265d37b6ec883df8448a904af66fef2e2cb706040e1e0da0c5f1f0f52a2a",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -19,12 +19,12 @@
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2692,
-  "opakowania": 9829,
+  "produkty": 2688,
+  "opakowania": 9815,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1241,
   "opakowania_ze_statusem": {
-   "Skasowane": 405
+   "Skasowane": 418
   },
   "odczyt_kontrolny": 0,
   "komunikaty_produkty": 147,
@@ -933,45 +933,6 @@
    ]
   },
   {
-   "id": "100305943",
-   "nazwa": "Afobam",
-   "nazwa_powszechna": "Alprazolamum",
-   "substancja": "Alprazolamum 0.25 mg",
-   "moc": "0,25 mg",
-   "postac": "Tabletki",
-   "atc": [
-    "N05BA12"
-   ],
-   "podmiot": "Forfarm Sp. z o.o.",
-   "pozwolenie": "469/13",
-   "waznosc_pozwolenia": "2023-11-04",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909997227948",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87402",
-     "opis": "30 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909997227955",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87403",
-     "opis": "100 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100307729",
    "nazwa": "Afobam",
    "nazwa_powszechna": "Alprazolamum",
@@ -1345,45 +1306,6 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "72442",
-     "opis": "100 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100305950",
-   "nazwa": "Afobam",
-   "nazwa_powszechna": "Alprazolamum",
-   "substancja": "Alprazolamum 0.5 mg",
-   "moc": "0,5 mg",
-   "postac": "Tabletki",
-   "atc": [
-    "N05BA12"
-   ],
-   "podmiot": "Forfarm Sp. z o.o.",
-   "pozwolenie": "470/13",
-   "waznosc_pozwolenia": "2023-11-04",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909997227924",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87404",
-     "opis": "30 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909997227931",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "87405",
      "opis": "100 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -36346,35 +36268,6 @@
    ]
   },
   {
-   "id": "100412320",
-   "nazwa": "Tranxene",
-   "nazwa_powszechna": "Dikalii clorazepas",
-   "substancja": "Dikalii clorazepas 10 mg",
-   "moc": "10 mg",
-   "postac": "Kapsułki twarde",
-   "atc": [
-    "N05BA05"
-   ],
-   "podmiot": "Pretium Farm Sp. z o.o.",
-   "pozwolenie": "312/18",
-   "waznosc_pozwolenia": "2023-11-06",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05902023778186",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130055",
-     "opis": "30 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100478012",
    "nazwa": "Tranxene",
    "nazwa_powszechna": "Dikalii clorazepas",
@@ -40872,115 +40765,6 @@
    ]
   },
   {
-   "id": "100412389",
-   "nazwa": "Dulsevia",
-   "nazwa_powszechna": "Duloxetinum",
-   "substancja": "Duloxetinum 30 mg",
-   "moc": "30 mg",
-   "postac": "Kapsułki dojelitowe, twarde",
-   "atc": [
-    "N06AX21"
-   ],
-   "podmiot": "Delfarma Sp. z o.o.",
-   "pozwolenie": "318/18",
-   "waznosc_pozwolenia": "2023-11-07",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991386467",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130129",
-     "opis": "7 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386474",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130130",
-     "opis": "10 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386481",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130131",
-     "opis": "14 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386498",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130132",
-     "opis": "28 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386504",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130133",
-     "opis": "30 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386511",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130134",
-     "opis": "56 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386528",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130135",
-     "opis": "60 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386535",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130136",
-     "opis": "90 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386542",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130137",
-     "opis": "100 kaps.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100413302",
    "nazwa": "Dulsevia",
    "nazwa_powszechna": "Duloxetinum",
@@ -42150,7 +41934,7 @@
    "id": "100343547",
    "nazwa": "Dutilox",
    "nazwa_powszechna": "Duloxetinum",
-   "substancja": "Duloxetinum",
+   "substancja": "Duloxetinum 60 mg",
    "moc": "60 mg",
    "postac": "Kapsułki dojelitowe, twarde",
    "atc": [
@@ -42166,7 +41950,7 @@
     {
      "gtin": "05909991249793",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112340",
      "opis": "7 kaps.",
@@ -42186,7 +41970,7 @@
     {
      "gtin": "05909991249816",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112342",
      "opis": "10 kaps.",
@@ -42206,7 +41990,7 @@
     {
      "gtin": "05909991249830",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112344",
      "opis": "14 kaps.",
@@ -42236,7 +42020,7 @@
     {
      "gtin": "05909991249861",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112347",
      "opis": "20 kaps.",
@@ -42246,7 +42030,7 @@
     {
      "gtin": "05909991249878",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112348",
      "opis": "28 kaps.",
@@ -42270,7 +42054,7 @@
     {
      "gtin": "05909991249892",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112350",
      "opis": "30 kaps.",
@@ -42300,7 +42084,7 @@
     {
      "gtin": "05909991249922",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112353",
      "opis": "50 kaps.",
@@ -42310,7 +42094,7 @@
     {
      "gtin": "05909991249939",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112354",
      "opis": "56 kaps.",
@@ -42334,7 +42118,7 @@
     {
      "gtin": "05909991249953",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112356",
      "opis": "60 kaps.",
@@ -42364,7 +42148,7 @@
     {
      "gtin": "05909991249984",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112359",
      "opis": "84 kaps.",
@@ -42384,7 +42168,7 @@
     {
      "gtin": "05909991250003",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112361",
      "opis": "98 kaps.",
@@ -42394,7 +42178,7 @@
     {
      "gtin": "05909991250010",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112362",
      "opis": "500 kaps.",
@@ -42404,7 +42188,7 @@
     {
      "gtin": "05909991250027",
      "kategoria": "Rp",
-     "status": null,
+     "status": "Skasowane",
      "pozwolenie_eu": null,
      "id_opakowania": "112363",
      "opis": "504 kaps.",
@@ -52508,7 +52292,7 @@
    ],
    "podmiot": "Viatris Healthcare Limited",
    "pozwolenie": "07692",
-   "waznosc_pozwolenia": "Bezterminowe",
+   "waznosc_pozwolenia": "2026-10-16",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8127/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/8127/leaflet",
    "komunikaty_bezpieczenstwa": [],
@@ -67326,7 +67110,7 @@
    "id": "100311524",
    "nazwa": "Corbilta",
    "nazwa_powszechna": "Levodopum + Carbidopum + Entacaponum",
-   "substancja": "Levodopum 125 mg + Carbidopum 31.25 mg + Entacaponum 200 mg",
+   "substancja": "Entacaponum 200 mg + Carbidopum 31.25 mg + Levodopum 125 mg",
    "moc": "125 mg + 31,25 mg + 200 mg",
    "postac": "Tabletki powlekane",
    "atc": [
@@ -87241,7 +87025,7 @@
    "id": "100163555",
    "nazwa": "ValproLEK 500",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Acidum valproicum + Natrii valproas",
+   "substancja": "Natrii valproas + Acidum valproicum",
    "moc": "500 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
@@ -97162,7 +96946,7 @@
      "status": null,
      "pozwolenie_eu": "EU/1/08/479/003",
      "id_opakowania": "48861",
-     "opis": "1 fiol. proszku 3 igły 1 fiol. rozp. 1 strzykawka UR/Z/4c/052/26 - 04150073733599, 04262432571244",
+     "opis": "1 fiol. proszku 3 igły 1 fiol. rozp. 1 strzykawka UR/Z/4c/052/26 - 04150073733599, 04262432571244 UR/Z/4c/307/26 - 04262432571336",
      "refundacja_A1": [
       "ryczałt"
      ],
@@ -127176,7 +126960,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "144017",
-     "opis": "30 sasz. 13,3 mg/24 h",
+     "opis": "30 szt. 13,3 mg/24 h",
      "refundacja_A1": [
       "30%"
      ],
@@ -127190,7 +126974,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "144018",
-     "opis": "60 sasz. 13,3 mg/24 h",
+     "opis": "60 szt. 13,3 mg/24 h",
      "refundacja_A1": null,
      "refundacja_LP": null
     },
@@ -127200,7 +126984,7 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "144019",
-     "opis": "90 sasz. 13,3 mg/24 h",
+     "opis": "90 szt. 13,3 mg/24 h",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
