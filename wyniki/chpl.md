@@ -1,25 +1,21 @@
-# Strażnik ChPL — 2026-11-05
+# Strażnik ChPL — 2026-11-12
 
 Produkty sprawdzane: 812; błędy pobrania: 0; porównanie z poprzednim
 
-## Zmienione ChPL (4 substancji)
+## Zmienione ChPL (3 substancji)
 
-### ALPRAZOLAM — zmienione 3 ChPL
-- Alprazolam Aurovitas 0,25 mg (Aurovitas Pharma Polska Sp. z o.o.) — sekcje: 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/37725/characteristic
-- Alprazolam Aurovitas 0,5 mg (Aurovitas Pharma Polska Sp. z o.o.) — sekcje: 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/37726/characteristic
-- Alprazolam Aurovitas 1 mg (Aurovitas Pharma Polska Sp. z o.o.) — sekcje: 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/37727/characteristic
+### BROMAZEPAM — zmienione 2 ChPL
+- Bromox 3 mg (Orion Corporation) — sekcje: 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39886/characteristic
+- Bromox 6 mg (Orion Corporation) — sekcje: 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39887/characteristic
 
-### DULOKSETYNA — zmienione 2 ChPL
-- Duloxetine Sandoz 30 mg (Sandoz GmbH) — sekcje: 4.1, 4.2, 4.6, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34690/characteristic
-- Duloxetine Sandoz 60 mg (Sandoz GmbH) — sekcje: 4.1, 4.2, 4.6, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34691/characteristic
-
-### PREGABALINA — zmienione 3 ChPL
-- Pentegin 150 mg (Egis Pharmaceuticals PLC) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51829/characteristic
-- Pentegin 300 mg (Egis Pharmaceuticals PLC) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51830/characteristic
-- Pentegin 75 mg (Egis Pharmaceuticals PLC) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51828/characteristic
+### PREGABALINA — zmienione 4 ChPL
+- Preato 100 mg (neuraxpharm Arzneimittel GmbH) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39464/characteristic
+- Preato 150 mg (neuraxpharm Arzneimittel GmbH) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39465/characteristic
+- Preato 200 mg (neuraxpharm Arzneimittel GmbH) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39466/characteristic
+- Preato 75 mg (neuraxpharm Arzneimittel GmbH) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/39463/characteristic
 
 ### WALPROINIAN — zmienione 2 ChPL
-- Absenor 300 mg (Orion Corporation) — sekcje: 4.1, 4.4, 4.5, 4.6, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16807/characteristic
-- Absenor 500 mg (Orion Corporation) — sekcje: 4.1, 4.4, 4.5, 4.6, 4.8, 4.9 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16898/characteristic
+- Convival Chrono 300 mg (G.L. Pharma GmbH) — sekcje: poza 4.x — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/41304/characteristic
+- Convival Chrono 500 mg (G.L. Pharma GmbH) — sekcje: 4.6 — https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/26533/characteristic
 
-Sekcje istotne (4.2 dawkowanie, 4.3 przeciwwskazania, 4.4 ostrzeżenia, 4.5 interakcje, 4.6 ciąża/laktacja): DULOKSETYNA, WALPROINIAN
+Sekcje istotne (4.2 dawkowanie, 4.3 przeciwwskazania, 4.4 ostrzeżenia, 4.5 interakcje, 4.6 ciąża/laktacja): BROMAZEPAM, WALPROINIAN
