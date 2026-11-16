@@ -1,8 +1,8 @@
 {
  "metadata": {
   "zrodlo": "Rejestr Produktów Leczniczych, eksport CSV (rejestrymedyczne.ezdrowie.gov.pl)",
-  "stan_na_dzien": "2026-11-09",
-  "sha256_zrodla": "6c72265d37b6ec883df8448a904af66fef2e2cb706040e1e0da0c5f1f0f52a2a",
+  "stan_na_dzien": "2026-11-16",
+  "sha256_zrodla": "bceaf69fe3aa758444c07aef40007d67f66954a3cf2de735757fea9d2580fba1",
   "atc_prefiksy": [
    "N03",
    "N05",
@@ -19,15 +19,15 @@
   ],
   "refundacja_dataset_id": "84W|2026-10-01|17f2a99b885b",
   "uwaga": "RPL = pozwolenie na dopuszczenie do obrotu. NIE oznacza dostępności w aptece. Opakowanie bez GTIN = zwykle niewprowadzone na rynek PL. Brak dawkowania — dawkowanie wyłącznie z ChPL/kart DRUG_DB.",
-  "produkty": 2688,
-  "opakowania": 9815,
+  "produkty": 2707,
+  "opakowania": 9864,
   "bledy_parsowania_opakowan": 0,
   "opakowania_bez_gtin": 1241,
   "opakowania_ze_statusem": {
    "Skasowane": 418
   },
   "odczyt_kontrolny": 0,
-  "komunikaty_produkty": 147,
+  "komunikaty_produkty": 139,
   "nowe_komunikaty": 0
  },
  "produkty": [
@@ -6080,45 +6080,6 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "119196",
-     "opis": "60 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100412403",
-   "nazwa": "Xanax SR",
-   "nazwa_powszechna": "Alprazolamum",
-   "substancja": "Alprazolamum 0.5 mg",
-   "moc": "0,5 mg",
-   "postac": "Tabletki o przedłużonym uwalnianiu",
-   "atc": [
-    "N05BA12"
-   ],
-   "podmiot": "Pharmapoint SA",
-   "pozwolenie": "323/18",
-   "waznosc_pozwolenia": "2023-11-09",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991386566",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130139",
-     "opis": "30 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386573",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130140",
      "opis": "60 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -14702,45 +14663,6 @@
    ]
   },
   {
-   "id": "100340365",
-   "nazwa": "Arypiprazol Glenmark",
-   "nazwa_powszechna": "Aripiprazolum",
-   "substancja": "Aripiprazolum 15 mg",
-   "moc": "15 mg",
-   "postac": "Tabletki",
-   "atc": [
-    "N05AX12"
-   ],
-   "podmiot": "neuraxpharm Arzneimittel GmbH",
-   "pozwolenie": "22577",
-   "waznosc_pozwolenia": "2023-11-10",
-   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34036/characteristic",
-   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34036/leaflet",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05902020241430",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "109814",
-     "opis": "14 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05902020241447",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "109815",
-     "opis": "28 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
    "id": "100332325",
    "nazwa": "Aryzalera",
    "nazwa_powszechna": "Aripiprazolum",
@@ -16590,6 +16512,349 @@
      "pozwolenie_eu": null,
      "id_opakowania": "133759",
      "opis": "84 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100518189",
+   "nazwa": "Atomoxetinum Amarox",
+   "nazwa_powszechna": "Atomoxetinum",
+   "substancja": "Atomoxetini hydrochloridum 11.428 mg",
+   "moc": "10 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N06BA09"
+   ],
+   "podmiot": "Amarox Pharma Sp. z o.o.",
+   "pozwolenie": "29949",
+   "waznosc_pozwolenia": "2031-10-07",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51818/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51818/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991610012",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168571",
+     "opis": "28 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610029",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168572",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610036",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168573",
+     "opis": "56 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100518248",
+   "nazwa": "Atomoxetinum Amarox",
+   "nazwa_powszechna": "Atomoxetinum",
+   "substancja": "Atomoxetini hydrochloridum 114.277 mg",
+   "moc": "100 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N06BA09"
+   ],
+   "podmiot": "Amarox Pharma Sp. z o.o.",
+   "pozwolenie": "29955",
+   "waznosc_pozwolenia": "2031-10-07",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51824/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51824/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991610197",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168589",
+     "opis": "28 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610203",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168590",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610210",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168591",
+     "opis": "56 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100518196",
+   "nazwa": "Atomoxetinum Amarox",
+   "nazwa_powszechna": "Atomoxetinum",
+   "substancja": "Atomoxetini hydrochloridum 20.57 mg",
+   "moc": "18 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N06BA09"
+   ],
+   "podmiot": "Amarox Pharma Sp. z o.o.",
+   "pozwolenie": "29950",
+   "waznosc_pozwolenia": "2031-10-07",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51819/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51819/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991610043",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168574",
+     "opis": "28 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610050",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168575",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610067",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168576",
+     "opis": "56 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100518209",
+   "nazwa": "Atomoxetinum Amarox",
+   "nazwa_powszechna": "Atomoxetinum",
+   "substancja": "Atomoxetini hydrochloridum 28.57 mg",
+   "moc": "25 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N06BA09"
+   ],
+   "podmiot": "Amarox Pharma Sp. z o.o.",
+   "pozwolenie": "29951",
+   "waznosc_pozwolenia": "2031-10-07",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51820/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51820/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991610074",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168577",
+     "opis": "28 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610081",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168578",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610098",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168579",
+     "opis": "56 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100518216",
+   "nazwa": "Atomoxetinum Amarox",
+   "nazwa_powszechna": "Atomoxetinum",
+   "substancja": "Atomoxetini hydrochloridum 45.712 mg",
+   "moc": "40 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N06BA09"
+   ],
+   "podmiot": "Amarox Pharma Sp. z o.o.",
+   "pozwolenie": "29952",
+   "waznosc_pozwolenia": "2031-10-07",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51821/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51821/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991610104",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168580",
+     "opis": "28 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610111",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168581",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610128",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168582",
+     "opis": "56 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100518223",
+   "nazwa": "Atomoxetinum Amarox",
+   "nazwa_powszechna": "Atomoxetinum",
+   "substancja": "Atomoxetini hydrochloridum 68.567 mg",
+   "moc": "60 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N06BA09"
+   ],
+   "podmiot": "Amarox Pharma Sp. z o.o.",
+   "pozwolenie": "29953",
+   "waznosc_pozwolenia": "2031-10-07",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51822/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51822/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991610135",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168583",
+     "opis": "28 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610142",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168584",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610159",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168585",
+     "opis": "56 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100518230",
+   "nazwa": "Atomoxetinum Amarox",
+   "nazwa_powszechna": "Atomoxetinum",
+   "substancja": "Atomoxetini hydrochloridum 91.422 mg",
+   "moc": "80 mg",
+   "postac": "Kapsułki twarde",
+   "atc": [
+    "N06BA09"
+   ],
+   "podmiot": "Amarox Pharma Sp. z o.o.",
+   "pozwolenie": "29954",
+   "waznosc_pozwolenia": "2031-10-07",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51823/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51823/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991610166",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168586",
+     "opis": "28 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610173",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168587",
+     "opis": "30 kaps.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991610180",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168588",
+     "opis": "56 kaps.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -24526,6 +24791,45 @@
    ]
   },
   {
+   "id": "100516381",
+   "nazwa": "Bupropion Biofarm",
+   "nazwa_powszechna": "Bupropioni hydrochloridum",
+   "substancja": "Bupropioni hydrochloridum 300 mg",
+   "moc": "300 mg",
+   "postac": "Tabletki o zmodyfikowanym uwalnianiu",
+   "atc": [
+    "N06AX12"
+   ],
+   "podmiot": "Biofarm Sp. z o.o.",
+   "pozwolenie": "29997",
+   "waznosc_pozwolenia": "2031-10-20",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51638/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51638/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991611736",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168821",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991611743",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168822",
+     "opis": "90 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
    "id": "100516367",
    "nazwa": "Bupropion Hasco Lek",
    "nazwa_powszechna": "Bupropioni hydrochloridum",
@@ -25082,6 +25386,45 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "152770",
+     "opis": "90 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100516342",
+   "nazwa": "Nelbrio",
+   "nazwa_powszechna": "Bupropioni hydrochloridum",
+   "substancja": "Bupropioni hydrochloridum 300 mg",
+   "moc": "300 mg",
+   "postac": "Tabletki o zmodyfikowanym uwalnianiu",
+   "atc": [
+    "N06AX12"
+   ],
+   "podmiot": "Farmak International Sp. z o.o.",
+   "pozwolenie": "29624",
+   "waznosc_pozwolenia": "2031-10-23",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51634/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51634/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05905669033022",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168819",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05905669033039",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168820",
      "opis": "90 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -30547,12 +30890,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17399/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17399/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17399/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990025336",
@@ -30621,12 +30959,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17400/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17400/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17400/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990025367",
@@ -30715,12 +31048,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17398/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/17398/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17398/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990025206",
@@ -43511,7 +43839,7 @@
    ],
    "podmiot": "InPharm Sp. z o.o.",
    "pozwolenie": "431/21",
-   "waznosc_pozwolenia": "2026-12-01",
+   "waznosc_pozwolenia": "2031-12-01",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -43711,7 +44039,7 @@
    ],
    "podmiot": "Delfarma Sp. z o.o.",
    "pozwolenie": "405/21",
-   "waznosc_pozwolenia": "2026-11-03",
+   "waznosc_pozwolenia": "2031-11-03",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -47389,7 +47717,7 @@
    ],
    "podmiot": "InPharm Sp. z o.o.",
    "pozwolenie": "470/16",
-   "waznosc_pozwolenia": "2026-12-02",
+   "waznosc_pozwolenia": "2031-12-02",
    "chpl": "",
    "ulotka": "",
    "komunikaty_bezpieczenstwa": [],
@@ -82511,7 +82839,7 @@
    ],
    "podmiot": "Viatris Ltd",
    "pozwolenie": "08838",
-   "waznosc_pozwolenia": "Bezterminowe",
+   "waznosc_pozwolenia": "2026-11-02",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23724/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/23724/leaflet",
    "komunikaty_bezpieczenstwa": [],
@@ -86368,12 +86696,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16807/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16807/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16807/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990042371",
@@ -86408,12 +86731,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16898/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/16898/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16898/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990042364",
@@ -86981,7 +87299,7 @@
    "id": "100163549",
    "nazwa": "ValproLEK 300",
    "nazwa_powszechna": "Natrii valproas",
-   "substancja": "Acidum valproicum + Natrii valproas",
+   "substancja": "Natrii valproas + Acidum valproicum",
    "moc": "300 mg",
    "postac": "Tabletki o przedłużonym uwalnianiu",
    "atc": [
@@ -104934,6 +105252,45 @@
      "status": null,
      "pozwolenie_eu": null,
      "id_opakowania": "107227",
+     "opis": "60 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100476527",
+   "nazwa": "Piracetam OLIMP",
+   "nazwa_powszechna": "Piracetamum",
+   "substancja": "Piracetamum 1200 mg",
+   "moc": "1200 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06BX03"
+   ],
+   "podmiot": "Olimp Laboratories Sp. z o.o.",
+   "pozwolenie": "35026",
+   "waznosc_pozwolenia": "2031-10-28",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47652/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/47652/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "05909991612382",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168891",
+     "opis": "30 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "05909991612399",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168892",
      "opis": "60 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
@@ -140642,12 +140999,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21265/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21265/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21265/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990715169",
@@ -140690,12 +141042,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21260/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21260/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21260/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990715084",
@@ -140738,12 +141085,7 @@
    "waznosc_pozwolenia": "Bezterminowe",
    "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21264/characteristic",
    "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/21264/leaflet",
-   "komunikaty_bezpieczenstwa": [
-    "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21264/file/1",
-    "-",
-    "Komunikaty",
-    "bezpieczeństwa"
-   ],
+   "komunikaty_bezpieczenstwa": [],
    "opakowania": [
     {
      "gtin": "05909990715145",
@@ -142056,45 +142398,6 @@
      "pozwolenie_eu": null,
      "id_opakowania": "148541",
      "opis": "90 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    }
-   ]
-  },
-  {
-   "id": "100412509",
-   "nazwa": "Trittico CR",
-   "nazwa_powszechna": "Trazodoni hydrochloridum",
-   "substancja": "Trazodoni hydrochloridum 150 mg",
-   "moc": "150 mg",
-   "postac": "Tabletki o przedłużonym uwalnianiu",
-   "atc": [
-    "N06AX05"
-   ],
-   "podmiot": "InPharm Sp. z o.o.",
-   "pozwolenie": "319/18",
-   "waznosc_pozwolenia": "2023-11-09",
-   "chpl": "",
-   "ulotka": "",
-   "komunikaty_bezpieczenstwa": [],
-   "opakowania": [
-    {
-     "gtin": "05909991386658",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130153",
-     "opis": "20 tabl.",
-     "refundacja_A1": null,
-     "refundacja_LP": null
-    },
-    {
-     "gtin": "05909991386665",
-     "kategoria": "Rp",
-     "status": null,
-     "pozwolenie_eu": null,
-     "id_opakowania": "130154",
-     "opis": "60 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }
@@ -148922,6 +149225,162 @@
    ]
   },
   {
+   "id": "100515964",
+   "nazwa": "Bremisolan",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 12.71 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29966",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51596/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51596/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732020908",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169152",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732020915",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169153",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100515971",
+   "nazwa": "Bremisolan",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 19.065 mg",
+   "moc": "15 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29967",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51597/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51597/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732020922",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169154",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732020939",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169155",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100516178",
+   "nazwa": "Bremisolan",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 25.42 mg",
+   "moc": "20 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29968",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51617/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51617/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732020946",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169156",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732020953",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169157",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100515957",
+   "nazwa": "Bremisolan",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 6.355 mg",
+   "moc": "5 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29965",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51595/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51595/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732020885",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169150",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732020892",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "169151",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
    "id": "100317047",
    "nazwa": "Brintellix",
    "nazwa_powszechna": "Vortioxetinum",
@@ -149543,6 +150002,162 @@
    ]
   },
   {
+   "id": "100510899",
+   "nazwa": "Vortioxetine G.L. Pharma",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 15.2 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29970",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51089/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51089/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732021509",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168630",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732021516",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168631",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100510901",
+   "nazwa": "Vortioxetine G.L. Pharma",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 22.8 mg",
+   "moc": "15 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29971",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51090/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51090/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732021523",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168632",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732021530",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168633",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100510919",
+   "nazwa": "Vortioxetine G.L. Pharma",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 30.4 mg",
+   "moc": "20 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29972",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51091/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51091/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732021547",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168634",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732021554",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168635",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100510881",
+   "nazwa": "Vortioxetine G.L. Pharma",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetini hydrobromidum 7.6 mg",
+   "moc": "5 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "G.L. Pharma GmbH",
+   "pozwolenie": "29969",
+   "waznosc_pozwolenia": "2031-10-02",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51088/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51088/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "09008732021486",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168628",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "09008732021493",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168629",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
    "id": "100471469",
    "nazwa": "Vortioxetine Stada",
    "nazwa_powszechna": "Vortioxetinum",
@@ -149929,6 +150544,202 @@
      "pozwolenie_eu": null,
      "id_opakowania": "167249",
      "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100525812",
+   "nazwa": "Yapnep",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetinum 10 mg",
+   "moc": "10 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "Orion Corporation",
+   "pozwolenie": "29650",
+   "waznosc_pozwolenia": "2031-10-20",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52581/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52581/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "06432100109774",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168897",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109781",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168898",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109798",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168899",
+     "opis": "98 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100526188",
+   "nazwa": "Yapnep",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetinum 15 mg",
+   "moc": "15 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "Orion Corporation",
+   "pozwolenie": "29651",
+   "waznosc_pozwolenia": "2031-10-20",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52618/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52618/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "06432100109804",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168900",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109811",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168901",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109828",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168902",
+     "opis": "98 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100526195",
+   "nazwa": "Yapnep",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetinum 20 mg",
+   "moc": "20 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "Orion Corporation",
+   "pozwolenie": "29652",
+   "waznosc_pozwolenia": "2031-10-20",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52619/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52619/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "06432100109835",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168903",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109842",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168904",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109859",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "168905",
+     "opis": "98 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    }
+   ]
+  },
+  {
+   "id": "100525805",
+   "nazwa": "Yapnep",
+   "nazwa_powszechna": "Vortioxetinum",
+   "substancja": "Vortioxetinum 5 mg",
+   "moc": "5 mg",
+   "postac": "Tabletki powlekane",
+   "atc": [
+    "N06AX26"
+   ],
+   "podmiot": "Orion Corporation",
+   "pozwolenie": "29649",
+   "waznosc_pozwolenia": "2031-10-20",
+   "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52580/characteristic",
+   "ulotka": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/52580/leaflet",
+   "komunikaty_bezpieczenstwa": [],
+   "opakowania": [
+    {
+     "gtin": "06432100109743",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "167272",
+     "opis": "28 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109750",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "167273",
+     "opis": "56 tabl.",
+     "refundacja_A1": null,
+     "refundacja_LP": null
+    },
+    {
+     "gtin": "06432100109767",
+     "kategoria": "Rp",
+     "status": null,
+     "pozwolenie_eu": null,
+     "id_opakowania": "167274",
+     "opis": "98 tabl.",
      "refundacja_A1": null,
      "refundacja_LP": null
     }

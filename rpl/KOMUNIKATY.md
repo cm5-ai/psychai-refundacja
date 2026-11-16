@@ -1,10 +1,10 @@
 # Komunikaty bezpieczeństwa — leki psychiatryczne (RPL)
 
-Stan RPL: 2026-11-09
+Stan RPL: 2026-11-16
 
 Brak nowych komunikatów od poprzedniego spisu.
 
-## Wszystkie produkty z komunikatami (147)
+## Wszystkie produkty z komunikatami (139)
 
 - Convulex (Acidum valproicum, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/1569/file/1 - Komunikaty bezpieczeństwa
 - Convulex 150 (Acidum valproicum, 150 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/24812/file/1 - Komunikaty bezpieczeństwa
@@ -31,9 +31,6 @@ Brak nowych komunikatów od poprzedniego spisu.
 - Cital (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/10382/file/1 - Komunikaty bezpieczeństwa
 - Citalopram Vitabalans (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/28169/file/1 - Komunikaty bezpieczeństwa
 - Citaxin (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/22258/file/1 - Komunikaty bezpieczeństwa
-- Citronil (Citalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17399/file/1 - Komunikaty bezpieczeństwa
-- Citronil (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17400/file/1 - Komunikaty bezpieczeństwa
-- Citronil (Citalopramum, 40 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17398/file/1 - Komunikaty bezpieczeństwa
 - Oropram 20 mg tabletki powlekane (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/15902/file/1 - Komunikaty bezpieczeństwa
 - Pram (Citalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/13039/file/1 - Komunikaty bezpieczeństwa
 - Clopizam (Clozapinum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/38360/file/1 - Komunikat do fachowych pracowników ochrony zdrowia
@@ -107,8 +104,6 @@ Brak nowych komunikatów od poprzedniego spisu.
 - Pralex (Escitalopramum, 5 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/27425/file/1 - Komunikaty bezpieczeństwa
 - Pramatis (Escitalopramum, 10 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/25426/file/1 - Komunikaty bezpieczeństwa
 - Pramatis (Escitalopramum, 20 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/25429/file/1 - Komunikaty bezpieczeństwa
-- Absenor (Natrii valproas, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16807/file/1 - Komunikaty bezpieczeństwa
-- Absenor (Natrii valproas, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/16898/file/1 - Komunikaty bezpieczeństwa
 - Convival Chrono (Natrii valproas, 300 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/41304/file/1 - Komunikaty bezpieczeństwa
 - Convival Chrono (Natrii valproas, 500 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/26533/file/1 - Komunikaty bezpieczeństwa
 - Convulex (Natrii valproas, 50 mg/ml): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/20449/file/1 - Komunikaty bezpieczeństwa
@@ -134,9 +129,6 @@ Brak nowych komunikatów od poprzedniego spisu.
 - Etopro (Topiramatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17664/file/1 - Komunikaty bezpieczeństwa
 - Etopro (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17659/file/1 - Komunikaty bezpieczeństwa
 - Etopro (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/17660/file/1 - Komunikaty bezpieczeństwa
-- Oritop (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21265/file/1 - Komunikaty bezpieczeństwa
-- Oritop (Topiramatum, 25 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21260/file/1 - Komunikaty bezpieczeństwa
-- Oritop (Topiramatum, 50 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/21264/file/1 - Komunikaty bezpieczeństwa
 - Topamax (Topiramatum, 100 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/8026/file/1 - Komunikaty bezpieczeństwa
 - Topamax (Topiramatum, 15 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/23945/file/1 - Komunikaty bezpieczeństwa
 - Topamax (Topiramatum, 200 mg): https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/files/security-messages/medicinal-product/8027/file/1 - Komunikaty bezpieczeństwa
