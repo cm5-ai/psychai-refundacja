@@ -8720,25 +8720,6 @@
 "sha": "2d51d0f96755d5e2",
 "sub": "ESCYTALOPRAM"
 },
-"100340365": {
-"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34036/characteristic",
-"moc": "15 mg",
-"nazwa": "Arypiprazol Glenmark",
-"podmiot": "neuraxpharm Arzneimittel GmbH",
-"sekcje": {
-"4.1": "18c7446ccde92eee",
-"4.2": "96c269c57df60327",
-"4.3": "c1ceef55d2c3a16c",
-"4.4": "a8ff58fa546378b1",
-"4.5": "5beeee7702e72503",
-"4.6": "7f075eff70acadb6",
-"4.7": "70c5497469c5fe87",
-"4.8": "9072ef9423f71019",
-"4.9": "7f6bfab1cc9b86b7"
-},
-"sha": "5c56a6b9d3184e6b",
-"sub": "ARYPIPRAZOL"
-},
 "100340939": {
 "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/34093/characteristic",
 "moc": "10 mg",
@@ -15275,6 +15256,25 @@
 "sha": "f73699de6eea90ca",
 "sub": "METYLOFENIDAT"
 },
+"100516342": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51634/characteristic",
+"moc": "300 mg",
+"nazwa": "Nelbrio",
+"podmiot": "Farmak International Sp. z o.o.",
+"sekcje": {
+"4.1": "767e870553efb97e",
+"4.2": "4e1f08171ef81f00",
+"4.3": "e738be42c25c829b",
+"4.4": "1fc41db7d6efee4e",
+"4.5": "cd6a8efa78f17ae9",
+"4.6": "9912ba580481dc6d",
+"4.7": "f2db953dd630eca0",
+"4.8": "7a862fd3b698a406",
+"4.9": "6b6885ee3ad1e26f"
+},
+"sha": "6e80b38f82c9f387",
+"sub": "BUPROPION"
+},
 "100516367": {
 "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51636/characteristic",
 "moc": "300 mg",
@@ -15293,6 +15293,158 @@
 },
 "sha": "df9ac0e3f4d44256",
 "sub": "BUPROPION"
+},
+"100516381": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51638/characteristic",
+"moc": "300 mg",
+"nazwa": "Bupropion Biofarm",
+"podmiot": "Biofarm Sp. z o.o.",
+"sekcje": {
+"4.1": "73082cfd06fbf893",
+"4.2": "f4f6d5626297f5cd",
+"4.3": "c24392e5c864e893",
+"4.4": "24cb2ba7b17994d0",
+"4.5": "96513bd2d8fd7086",
+"4.6": "121d693ec477feac",
+"4.7": "0addc8bd3999496f",
+"4.8": "552da68655b8e89d",
+"4.9": "b44b5fdcd408385d"
+},
+"sha": "a61976150f2a2d1b",
+"sub": "BUPROPION"
+},
+"100518189": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51818/characteristic",
+"moc": "10 mg",
+"nazwa": "Atomoxetinum Amarox",
+"podmiot": "Amarox Pharma Sp. z o.o.",
+"sekcje": {
+"4.1": "949b8008ebf6cfc1",
+"4.2": "ccb88efdc7f9ff8e",
+"4.3": "a3db77b76e7e97cc",
+"4.4": "999ad0f20ded7d77",
+"4.5": "b89f535a68608ca6",
+"4.6": "6f133e5a43216c2d",
+"4.7": "2573c8555f8c5e0e",
+"4.8": "dd86d1f1fd4a48c2",
+"4.9": "819c12c4ef781e56"
+},
+"sha": "1d9f9cdbe21dd296",
+"sub": "ATOMOKSETYNA"
+},
+"100518196": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51819/characteristic",
+"moc": "18 mg",
+"nazwa": "Atomoxetinum Amarox",
+"podmiot": "Amarox Pharma Sp. z o.o.",
+"sekcje": {
+"4.1": "949b8008ebf6cfc1",
+"4.2": "ccb88efdc7f9ff8e",
+"4.3": "a3db77b76e7e97cc",
+"4.4": "999ad0f20ded7d77",
+"4.5": "b89f535a68608ca6",
+"4.6": "6f133e5a43216c2d",
+"4.7": "2573c8555f8c5e0e",
+"4.8": "dd86d1f1fd4a48c2",
+"4.9": "819c12c4ef781e56"
+},
+"sha": "1d9f9cdbe21dd296",
+"sub": "ATOMOKSETYNA"
+},
+"100518209": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51820/characteristic",
+"moc": "25 mg",
+"nazwa": "Atomoxetinum Amarox",
+"podmiot": "Amarox Pharma Sp. z o.o.",
+"sekcje": {
+"4.1": "949b8008ebf6cfc1",
+"4.2": "ccb88efdc7f9ff8e",
+"4.3": "a3db77b76e7e97cc",
+"4.4": "999ad0f20ded7d77",
+"4.5": "b89f535a68608ca6",
+"4.6": "6f133e5a43216c2d",
+"4.7": "2573c8555f8c5e0e",
+"4.8": "dd86d1f1fd4a48c2",
+"4.9": "819c12c4ef781e56"
+},
+"sha": "1d9f9cdbe21dd296",
+"sub": "ATOMOKSETYNA"
+},
+"100518216": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51821/characteristic",
+"moc": "40 mg",
+"nazwa": "Atomoxetinum Amarox",
+"podmiot": "Amarox Pharma Sp. z o.o.",
+"sekcje": {
+"4.1": "949b8008ebf6cfc1",
+"4.2": "ccb88efdc7f9ff8e",
+"4.3": "a3db77b76e7e97cc",
+"4.4": "999ad0f20ded7d77",
+"4.5": "b89f535a68608ca6",
+"4.6": "6f133e5a43216c2d",
+"4.7": "2573c8555f8c5e0e",
+"4.8": "dd86d1f1fd4a48c2",
+"4.9": "819c12c4ef781e56"
+},
+"sha": "1d9f9cdbe21dd296",
+"sub": "ATOMOKSETYNA"
+},
+"100518223": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51822/characteristic",
+"moc": "60 mg",
+"nazwa": "Atomoxetinum Amarox",
+"podmiot": "Amarox Pharma Sp. z o.o.",
+"sekcje": {
+"4.1": "949b8008ebf6cfc1",
+"4.2": "ccb88efdc7f9ff8e",
+"4.3": "a3db77b76e7e97cc",
+"4.4": "999ad0f20ded7d77",
+"4.5": "b89f535a68608ca6",
+"4.6": "6f133e5a43216c2d",
+"4.7": "2573c8555f8c5e0e",
+"4.8": "dd86d1f1fd4a48c2",
+"4.9": "819c12c4ef781e56"
+},
+"sha": "1d9f9cdbe21dd296",
+"sub": "ATOMOKSETYNA"
+},
+"100518230": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51823/characteristic",
+"moc": "80 mg",
+"nazwa": "Atomoxetinum Amarox",
+"podmiot": "Amarox Pharma Sp. z o.o.",
+"sekcje": {
+"4.1": "949b8008ebf6cfc1",
+"4.2": "ccb88efdc7f9ff8e",
+"4.3": "a3db77b76e7e97cc",
+"4.4": "999ad0f20ded7d77",
+"4.5": "b89f535a68608ca6",
+"4.6": "6f133e5a43216c2d",
+"4.7": "2573c8555f8c5e0e",
+"4.8": "dd86d1f1fd4a48c2",
+"4.9": "819c12c4ef781e56"
+},
+"sha": "1d9f9cdbe21dd296",
+"sub": "ATOMOKSETYNA"
+},
+"100518248": {
+"chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51824/characteristic",
+"moc": "100 mg",
+"nazwa": "Atomoxetinum Amarox",
+"podmiot": "Amarox Pharma Sp. z o.o.",
+"sekcje": {
+"4.1": "949b8008ebf6cfc1",
+"4.2": "ccb88efdc7f9ff8e",
+"4.3": "a3db77b76e7e97cc",
+"4.4": "999ad0f20ded7d77",
+"4.5": "b89f535a68608ca6",
+"4.6": "6f133e5a43216c2d",
+"4.7": "2573c8555f8c5e0e",
+"4.8": "dd86d1f1fd4a48c2",
+"4.9": "819c12c4ef781e56"
+},
+"sha": "1d9f9cdbe21dd296",
+"sub": "ATOMOKSETYNA"
 },
 "100518287": {
 "chpl": "https://rejestrymedyczne.ezdrowie.gov.pl/api/rpl/medicinal-products/51828/characteristic",
